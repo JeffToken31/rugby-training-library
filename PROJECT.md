@@ -20,5 +20,5 @@ Livraison : recherche par theme, age source, duree et nombre de joueurs ; export
 
 Validation terrain : le coach valide pertinence U8, niveau et adaptations ; ne pas presenter une adaptation comme une regle federale. Priorite a la preparation des seances, pas a apprentissage technique dans cette phase urgente.
 
-Etat : dossier et Git local initialises ; aucun collecteur ni base encore implementes. Depot GitHub prive cree : JeffToken31/rugby-training-library. Transferts via SSH WSL.
+Etat au 6 septembre 2026 : premiere version Python/SQLite operationnelle, import transactionnel, recherche et exports Markdown/CSV/JSON. Premier lot de 8 fiches dont une incomplete et 7 sources. Six tests passants. Collecte initiale editoriale ; collecte automatique et expansion du catalogue restent a realiser. Voir docs/COLLECTE.md. Depot GitHub prive cree : JeffToken31/rugby-training-library. Transferts via SSH WSL.
 
