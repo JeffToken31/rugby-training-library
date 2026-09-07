@@ -23,6 +23,8 @@ Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur n
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
+
 ## Répertoire des sources
 
 - [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description et sous-titres publics consultés ; vidéo non téléchargée.

@@ -137,6 +137,8 @@ def markdown(items, sources):
                   "", "**Adaptation U8 proposée :** " + (e.get("adaptation_u8") or "Aucune rédigée."),
                   "", f"[Source : {s['publisher']}]({s['url']}) — {e['locator']} · consultée le {s['checked_on']}",
                   "", "**Accès :** " + s["access"], ""]
+        if e.get("coach_points"):
+            lines += ["**Points coach issus de la source :** " + e["coach_points"], ""]
         if e.get("space"):
             lines += ["**Espace source :** " + e["space"], ""]
         if e.get("bout_seconds"):

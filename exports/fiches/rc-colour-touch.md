@@ -23,6 +23,8 @@ En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent 
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
+
 ## Répertoire des sources
 
 - [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description et sous-titres publics consultés ; vidéo non téléchargée.

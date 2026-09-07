@@ -78,21 +78,43 @@ def ingest(db,payload):
                     db.execute("INSERT OR IGNORE INTO session_item_variants VALUES(?,?)",(id,v))
         for c in payload.get("duplicate_candidates",[]):
             put(db,"duplicate_candidates",c)
-def items(db,query="",status=""):
+def items(db,query="",status="",theme="",age="",minutes=None,players=None,basis="source",material="",sort="title"):
+    if basis not in ("source","proposal") or sort not in ("title","duration","players"):
+        raise ValueError("Filtre inconnu")
+    if any(x is not None and (type(x) is not int or x<=0) for x in (minutes,players)):
+        raise ValueError("Durée et effectif doivent être des entiers positifs")
     result=[]
     sources={r["id"]:json.loads(r["metadata_json"]) for r in db.execute("SELECT * FROM resources")}
     for row in db.execute("SELECT * FROM variants ORDER BY id"):
         if status and row["status"]!=status:
             continue
         e=json.loads(row["parameters_json"])
-        if any(w not in library.fold(dump(e)) for w in library.fold(query).split()):
+        haystack=" ".join(str(e.get(k) or "") for k in ("title","summary","theme","age_source","material","space","coach_points","adaptation_u8","u8_plan"))
+        if any(w not in library.fold(haystack) for w in library.fold(query).split()):
+            continue
+        if theme and library.fold(e.get("theme",""))!=library.fold(theme):
+            continue
+        if age and library.fold(age) not in library.fold(e.get("age_source","")):
+            continue
+        if material and library.fold(material) not in library.fold(e.get("material") or ""):
+            continue
+        params=e if basis=="source" else (e.get("u8_plan") or {})
+        duration=params.get("duration_min")
+        low,high=params.get("players_min"),params.get("players_max")
+        if minutes is not None and (duration is None or duration>minutes):
+            continue
+        if players is not None and (low is None or high is None or not low<=players<=high):
             continue
         e["source"]=sources[e["source_id"]]
         e["model_status"]=row["status"]
         e["material"]=e.get("material") or "Non renseigné"
         e["references"]=[dict(r,source=sources[r["source_id"]]) for r in e.get("references",[])]
         result.append(e)
-    return result
+    def order(e):
+        params=e if basis=="source" else (e.get("u8_plan") or {})
+        value=params.get("duration_min" if sort=="duration" else "players_min")
+        return (value is None,value or 0,library.fold(e["title"])) if sort!="title" else (library.fold(e["title"]),)
+    return sorted(result,key=order)
 def export(db,out):
     out=Path(out)
     sources=[json.loads(r[0]) for r in db.execute("SELECT metadata_json FROM resources ORDER BY id")]
@@ -117,6 +139,13 @@ def main():
     sub=p.add_subparsers(dest="cmd",required=True)
     q=sub.add_parser("import"); q.add_argument("files",nargs="+",type=Path)
     q=sub.add_parser("search"); q.add_argument("query",nargs="?",default=""); q.add_argument("--status",default="")
+    q.add_argument("--theme",default="")
+    q.add_argument("--age",default="",help="Texte dans l'âge source, pas validation U8")
+    q.add_argument("--minutes",type=int,help="Durée totale maximale connue")
+    q.add_argument("--players",type=int)
+    q.add_argument("--basis",choices=("source","proposal"),default="source")
+    q.add_argument("--material",default="")
+    q.add_argument("--sort",choices=("title","duration","players"),default="title")
     q=sub.add_parser("export"); q.add_argument("--out",type=Path,default=ROOT/"exports")
     sub.add_parser("stats")
     a=p.parse_args()
@@ -126,8 +155,10 @@ def main():
                 ingest(db,json.loads(path.read_text()))
             print("Import v2 terminé ; historique conservé.")
         elif a.cmd=="search":
-            for e in items(db,a.query,a.status):
+            found=items(db,a.query,a.status,a.theme,a.age,a.minutes,a.players,a.basis,a.material,a.sort)
+            for e in found:
                 print(e["id"]+" | "+e["title"]+" | "+e["model_status"])
+            print(str(len(found))+" résultat(s). Paramètres : "+a.basis+". Les inconnues sont exclues des filtres numériques.")
         elif a.cmd=="export":
             print(str(export(db,a.out))+" fiches exportées.")
         else:

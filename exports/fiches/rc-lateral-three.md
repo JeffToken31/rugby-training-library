@@ -23,6 +23,8 @@ Trois joueurs avancent et transmettent successivement le ballon en atteignant un
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Points coach issus de la source :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
+
 ## Répertoire des sources
 
 - [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description et sous-titres publics consultés ; vidéo non téléchargée.

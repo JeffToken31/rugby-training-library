@@ -23,6 +23,8 @@ Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix pas
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Points coach issus de la source :** Présenter une cible de réception et décider rapidement à qui transmettre.
+
 ## Répertoire des sources
 
 - [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description et sous-titres publics consultés ; vidéo non téléchargée.

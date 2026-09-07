@@ -23,6 +23,8 @@ Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la der
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
+
 ## Répertoire des sources
 
 - [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Description et sous-titres publics consultés ; vidéo non téléchargée.
