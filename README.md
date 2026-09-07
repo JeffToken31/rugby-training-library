@@ -2,7 +2,7 @@
 
 Base interne, dépôt privé, sans données enfants.
 
-**52 fiches : 43 documentées et 9 pistes à compléter.** 32 ressources référencées et 4 trames de séance sources. Dix propositions terrain historiques restent distinctes des faits sources.
+**60 fiches : 51 documentées et 9 pistes à compléter.** 40 ressources référencées et 4 trames de séance sources. Dix propositions terrain historiques restent distinctes des faits sources.
 
 - [Choisir un exercice](exports/INDEX.md)
 - [Catalogue complet](exports/CATALOGUE.md)
@@ -15,7 +15,7 @@ Base interne, dépôt privé, sans données enfants.
 Python standard dans WSL, sans sudo :
 
 ```sh
-python3 catalogue_v2.py import data/seed.json data/ffr-2026.json data/scotland-primary.json
+python3 catalogue_v2.py import data/seed.json data/ffr-2026.json data/scotland-primary.json data/rc-young-games.json data/rc-cooperation.json
 python3 catalogue_v2.py search passe
 python3 catalogue_v2.py search --status REVIEWED
 python3 catalogue_v2.py export

@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-52 fiches · 32 sources
+60 fiches · 40 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -667,6 +667,42 @@ Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+## Cercle de passes avec demi-tours sautés
+
+**coordination · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la dernière progression, chaque passe est suivie de demi-tours sautés avant la réception suivante. Le coach rapproche les plots lorsque les passes deviennent difficiles.
+
+**Matériel :** Ballon et plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Video Subtitles — dernière progression · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+## Toucher avec rappel des défenseurs par couleur
+
+**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent à leur ligne d’essai pendant que l’attaque continue. La source impose une passe sous une seconde après toucher et un genou au sol au défenseur qui touche.
+
+**Matériel :** Ballon et chasubles de couleurs
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description / Video Subtitles · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
 ## Les œufs dans les nids
 
 **déplacement · âge source : 11–12 ans · Source consultée — validation terrain à faire**
@@ -702,6 +738,60 @@ Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une
 **Plus simple :** Réserve centrale au départ.
 
 **Plus difficile :** Transmission courte avant de déposer.
+
+## Jeu de zone avec regroupements au signal
+
+**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.
+
+**Matériel :** Ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Video Subtitles — progression avec nombres · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+## Quatre passeurs contre un intercepteur
+
+**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur.
+
+**Matériel :** Ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 5–5
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description / Video Subtitles · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+## Passes latérales en vagues de trois
+
+**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.
+
+**Matériel :** Ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 3–3
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description / Video Subtitles · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
 ## Changer de ligne d’essai
 
@@ -785,6 +875,24 @@ Deux joueurs avancent et échangent une passe courte. Une progression ajoute un 
 
 **Plus difficile :** Trottiner puis ajouter un repère de défenseur.
 
+## Premières passes en ligne
+
+**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.
+
+**Matériel :** Ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description / Video Subtitles · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
 ## Le joueur au milieu
 
 **passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
@@ -816,6 +924,24 @@ Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe au
 **Plus simple :** Intercepteur marchant.
 
 **Plus difficile :** Réduire légèrement le carré.
+
+## Cercle solidaire contre un poursuivant
+
+**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.
+
+**Matériel :** Aucun matériel pour cette situation
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 6–6
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Video Subtitles — première situation en cercle · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
 ## Les statues
 
@@ -902,6 +1028,24 @@ Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la p
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description / Video Subtitles · consultée le 2026-09-06
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+
+## Épouvantails — chasseurs passeurs
+
+**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+
+Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.
+
+**Matériel :** Ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description / Video Subtitles · consultée le 2026-09-07
+
+**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
 ## Dix passes - variante communautaire documentee
 
@@ -1129,15 +1273,23 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+- [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description et sous-titres publics consultés ; vidéo non téléchargée.
 - [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.
+- [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+- [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+- [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description et sous-titres publics consultés ; vidéo non téléchargée.
 - [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.
 - [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description et sous-titres publics consultés ; vidéo non téléchargée.
 - [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Description et sous-titres publics consultés ; vidéo non téléchargée.
 - [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description et sous-titres publics consultés ; vidéo non téléchargée.
 - [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
 - [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

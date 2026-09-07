@@ -1,0 +1,87 @@
+{
+  "sources": [
+    {
+      "id": "rc-pass-start-source",
+      "title": "learning to pass first steps",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Sélection d’une situation décrite ; autres progressions non extraites, temps précis inconnu."
+    },
+    {
+      "id": "rc-protect-circle-source",
+      "title": "players first circle caterpillar game",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "SESSION_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Sélection d’une situation décrite ; autres progressions non extraites, temps précis inconnu."
+    },
+    {
+      "id": "rc-endball-groups-source",
+      "title": "end ball connecting players",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Sélection d’une situation décrite ; autres progressions non extraites, temps précis inconnu."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rc-pass-start",
+      "source_id": "rc-pass-start-source",
+      "title": "Premières passes en ligne",
+      "summary": "Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.",
+      "theme": "passe",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description / Video Subtitles",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée"
+    },
+    {
+      "id": "rc-protect-circle",
+      "source_id": "rc-protect-circle-source",
+      "title": "Cercle solidaire contre un poursuivant",
+      "summary": "Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.",
+      "theme": "coopération",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Video Subtitles — première situation en cercle",
+      "duration_min": null,
+      "players_min": 6,
+      "players_max": 6,
+      "material": "Aucun matériel pour cette situation",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée"
+    },
+    {
+      "id": "rc-endball-groups",
+      "source_id": "rc-endball-groups-source",
+      "title": "Jeu de zone avec regroupements au signal",
+      "summary": "Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.",
+      "theme": "prise d’information",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Video Subtitles — progression avec nombres",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée"
+    }
+  ]
+}

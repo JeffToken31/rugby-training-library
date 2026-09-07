@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-52 fiches — les propositions terrain restent à valider par le coach.
+60 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -18,12 +18,15 @@
 | [Duels et soutien](fiches/ffr-duels-atelier.md) | M8 | À compléter |
 | [Chasseurs qui se passent le ballon](fiches/munster-hunters.md) | Primaire / mini-rugby | Documentée ; à valider |
 | [La boue et la délivrance](fiches/munster-mud.md) | Primaire / mini-rugby | Documentée ; à valider |
+| [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
+| [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [La chaîne](fiches/scot-chaine.md) | Primaire (Écosse) | Documentée ; à valider |
 
 ## Coordination
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Cercle de passes avec demi-tours sautés](fiches/rc-circle-jump.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Tennis à la main](fiches/scot-tennis.md) | Primaire (Écosse) | Documentée ; à valider |
 
 ## Déplacement
@@ -88,8 +91,11 @@
 | [Ramasser puis transmettre](fiches/ffr-ramasser.md) | M8 | Documentée ; à valider |
 | [Recevoir en trottinant](fiches/ffr-reception.md) | M10 | Documentée ; à valider |
 | [Transmettre en trottinant](fiches/ffr-transmettre.md) | M10 | Documentée ; à valider |
+| [Quatre passeurs contre un intercepteur](fiches/rc-four-one.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
+| [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Rugby à quatre cibles](fiches/rc-netball.md) | U8 (classement du site) | 8 min / 6–10 enfants |
 | [Passer avec un soutien en retrait](fiches/rc-pairs.md) | U7 (classement du site) | 7 min / 4–8 enfants |
+| [Premières passes en ligne](fiches/rc-pass-start.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Le joueur au milieu](fiches/rc-piggy.md) | U7 (classement du site) | 6 min / 4–8 enfants |
 | [Dix passes - variante communautaire documentee](fiches/rc-ten.md) | U8 (classement du site) | Documentée ; à valider |
 | [Passes en triangle et changement de posture](fiches/rc-triangle.md) | U9 (classement du site) | Documentée ; à valider |
@@ -110,6 +116,8 @@
 | [L’initiative](fiches/ffr-initiative.md) | M8 | Documentée ; à valider |
 | [Jouer les intervalles](fiches/ffr-interval.md) | M8 | Documentée ; à valider |
 | [Les portes à franchir](fiches/munster-gates.md) | Primaire / mini-rugby | 8 min / 6–10 enfants |
+| [Toucher avec rappel des défenseurs par couleur](fiches/rc-colour-touch.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
+| [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Changer de ligne d’essai](fiches/rc-multidirection.md) | U7 (classement du site) | Documentée ; à valider |
 | [Trois joueurs alignés](fiches/scot-alignement.md) | Primaire (Écosse) | Documentée ; à valider |
 

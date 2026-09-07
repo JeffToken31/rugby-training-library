@@ -1,0 +1,171 @@
+{
+  "sources": [
+    {
+      "id": "rc-four-one-source",
+      "title": "piggy in the middle 4v1",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Extraction des sous-titres ; minutage du passage non disponible."
+    },
+    {
+      "id": "rc-team-scarecrow-source",
+      "title": "team scarecrow tag",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Extraction des sous-titres ; minutage du passage non disponible."
+    },
+    {
+      "id": "rc-colour-touch-source",
+      "title": "colour touch",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Extraction des sous-titres ; minutage du passage non disponible."
+    },
+    {
+      "id": "rc-lateral-three-source",
+      "title": "lateral passing in 3s",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Extraction des sous-titres ; minutage du passage non disponible."
+    },
+    {
+      "id": "rc-circle-jump-source",
+      "title": "passing warm up game",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
+      "resource_type": "EXERCISE_VIDEO",
+      "format": "VIDEO",
+      "qualification_note": "Extraction des sous-titres ; minutage du passage non disponible."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rc-four-one",
+      "source_id": "rc-four-one-source",
+      "title": "Quatre passeurs contre un intercepteur",
+      "summary": "Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur.",
+      "theme": "passe",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description / Video Subtitles",
+      "duration_min": null,
+      "players_min": 5,
+      "players_max": 5,
+      "material": "Ballon",
+      "coach_points": "Présenter une cible de réception et décider rapidement à qui transmettre.",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée",
+      "adaptation_u8": null
+    },
+    {
+      "id": "rc-team-scarecrow",
+      "source_id": "rc-team-scarecrow-source",
+      "title": "Épouvantails — chasseurs passeurs",
+      "summary": "Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.",
+      "theme": "coopération",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description / Video Subtitles",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon",
+      "coach_points": "Passer puis se rapprocher d’une cible ; coopérer pour toucher.",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée",
+      "adaptation_u8": null
+    },
+    {
+      "id": "rc-colour-touch",
+      "source_id": "rc-colour-touch-source",
+      "title": "Toucher avec rappel des défenseurs par couleur",
+      "summary": "En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent à leur ligne d’essai pendant que l’attaque continue. La source impose une passe sous une seconde après toucher et un genou au sol au défenseur qui touche.",
+      "theme": "prise d’information",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description / Video Subtitles",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon et chasubles de couleurs",
+      "coach_points": "Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée",
+      "adaptation_u8": null
+    },
+    {
+      "id": "rc-lateral-three",
+      "source_id": "rc-lateral-three-source",
+      "title": "Passes latérales en vagues de trois",
+      "summary": "Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.",
+      "theme": "passe",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description / Video Subtitles",
+      "duration_min": null,
+      "players_min": 3,
+      "players_max": 3,
+      "material": "Ballon",
+      "coach_points": "Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée",
+      "adaptation_u8": null
+    },
+    {
+      "id": "rc-circle-jump",
+      "source_id": "rc-circle-jump-source",
+      "title": "Cercle de passes avec demi-tours sautés",
+      "summary": "Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la dernière progression, chaque passe est suivie de demi-tours sautés avant la réception suivante. Le coach rapproche les plots lorsque les passes deviennent difficiles.",
+      "theme": "coordination",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Video Subtitles — dernière progression",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon et plots",
+      "coach_points": "Se rendre disponible à nouveau après le changement d’orientation.",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée",
+      "adaptation_u8": null
+    }
+  ],
+  "duplicate_candidates": [
+    {
+      "id": "four-one-piggy",
+      "left_id": "rc-four-one",
+      "right_id": "rc-piggy",
+      "score": 0.85,
+      "relation": "DIFFERENT_VARIANT",
+      "method_version": "editorial-1",
+      "explanation": "Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach."
+    },
+    {
+      "id": "scarecrow-corner",
+      "left_id": "rc-team-scarecrow",
+      "right_id": "scot-corner",
+      "score": 0.8,
+      "relation": "UNDECIDED",
+      "method_version": "editorial-1",
+      "explanation": "Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion."
+    }
+  ]
+}
