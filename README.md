@@ -9,6 +9,7 @@ Base interne, dépôt privé, sans données enfants.
 - [Séances sources](exports/SEANCES.md)
 - [Votre proposition de séance de 90 minutes](docs/SEANCE_EXEMPLE.md)
 - [Détail du nouveau lot et limites](docs/LOT_2026-09-07.md)
+- [Livrable attendu et critères de réussite](docs/CONTRAT_DE_LIVRAISON.md)
 - [Modèle conceptuel](docs/ARCHITECTURE.md)
 
 ## Reconstituer la base

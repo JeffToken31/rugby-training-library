@@ -1,6 +1,8 @@
 # Bibliothèque rugby U8
 Référence de cadrage : mise à jour utilisateur du 7 septembre 2026, détaillée dans [ARCHITECTURE](docs/ARCHITECTURE.md).
 
+Référence opérationnelle complémentaire : [CONTRAT_DE_LIVRAISON](docs/CONTRAT_DE_LIVRAISON.md). Priorité immédiate : capture et reprise, couverture d'extraction par champ, enrichissement de l'existant, puis expansion. Ne pas reprendre des petits lots résumés comme stratégie principale.
+
 Priorité absolue : une grosse base structurée d'exercices U8, consultable rapidement par quelques coachs. L'exercice et ses variantes sont au centre ; les ressources alimentent et justifient les fiches. Pas de front ni de collecteurs massifs avant modèle, provenance et migration correctement posés.
 
 Technique : Python standard + SQLite, dans WSL sous jeff, sans sudo. Dépôt GitHub privé JeffToken31/rugby-training-library. Aucune donnée enfant, aucun secret. Notifications de cette application ; le test n'a pas produit de son chez l'utilisateur.
