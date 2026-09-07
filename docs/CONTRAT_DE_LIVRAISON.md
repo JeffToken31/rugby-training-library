@@ -1,7 +1,7 @@
 # Contrat de livraison — bibliothèque U8
 
 ## Résultat attendu
-Quelques coachs doivent trouver rapidement une situation exploitable pour préparer un entraînement U8. Le produit principal est une base riche d'exercices et de variantes traçables, alimentée par une chaîne de collecte qui tolère les échecs. Une interface élaborée n'est pas une condition du premier livrable.
+Quelques coachs doivent trouver rapidement une situation exploitable pour préparer un entraînement U8. Le produit principal est une base riche d'exercices et de variantes traçables, alimentée par une chaîne de collecte qui tolère les échecs. La cible finale comprend une très grande base et une interface riche en informations, recherche, tris et filtres, permettant de sélectionner les exercices et composer des séances. Une première version peut être progressive.
 
 Ce cadrage complète ARCHITECTURE.md ; il ne remplace pas le modèle Family / Variant / Resource / Session. Les mentions de Work dans la conversation d'origine expriment une attente d'autonomie, pas une dépendance technique à ce mode. Le projet fonctionne actuellement dans WSL.
 
@@ -47,13 +47,13 @@ Une source exigeant un compte ou un paiement est inscrite dans la liste des acc�
 Une reprise ne doit ni refaire tous les téléchargements, ni écraser une validation coach.
 Les fichiers bruts restent locaux par défaut ; leur présence sur GitHub dépend des droits, du volume et de l'utilité du partage.
 
-## Ordre de travail immédiat
+## Axes de travail progressifs
 1. Reprendre un échantillon représentatif de l'existant : fiche PDF, document de séance, page HTML et vidéo avec texte accessible.
 2. Construire et vérifier capture, journal de traitement, qualification et couverture par champ sur cet échantillon.
 3. Corriger les pertes entre extraction, base et rendu. Certains champs conservés dans le JSON ne sont pas encore affichés.
-4. Gérer les révisions attribuées sans écrasement, puis enrichir les 60 fiches existantes et leurs familles.
+4. Gérer les révisions attribuées sans écrasement et enrichir les fiches existantes et leurs familles en fonction de leur utilité. Ne pas attendre que les 60 fiches soient complètes pour en ajouter.
 5. Porter les filtres utiles dans le lecteur v2.
-6. Reprendre l'expansion avec les mêmes exigences, en mesurant richesse et accessibilité plutôt que le seul nombre de fiches.
+6. Poursuivre l'expansion dès que les sources sont exploitables, en mesurant ensemble volume, richesse et accessibilité. Priorité absolue aux U8 ; autres catégories extensibles sans complexifier prématurément.
 
 ## Autonomie et échanges
 Décider seul des choix techniques réversibles. Pas de demande de validation par table, fichier ou exercice importé.
@@ -65,3 +65,15 @@ Ne pas promettre une exécution permanente : les reprises dépendent de l'enviro
 ## Critère de fin du MVP
 Chaîne démontrée sur plusieurs types de sources, reprise après échec vérifiée, provenance consultable, fiches suffisamment riches pour des préparations réelles, recherche utilisable et documentation de reprise.
 La validation pédagogique reste attribuée aux coachs. Les limites et les accès restreints sont livrés avec le résultat, sans attente bloquante sur chaque source.
+
+## Clarification de la cible finale
+Les 60 fiches représentent un point de départ, pas une sélection définitive. Ajouter des exercices et des familles selon les découvertes et besoins. L'enrichissement de l'existant ne doit pas devenir un verrou sur la croissance.
+
+L'interface devra permettre :
+- recherche textuelle, tri et combinaison de filtres ;
+- filtres par objectifs, type d'exercice, thème, compétences, âge, niveau, effectif, durée, matériel, espace, opposition et contact lorsque ces informations sont disponibles ;
+- distinction entre faits sources, paramètres proposés et inconnues ;
+- fiche détaillée, variantes et sources originales accessibles ;
+- sélection et ordre des exercices, réglage des durées, groupes, transitions et pauses pour composer une séance.
+
+Maximiser l'information utile sans tout afficher en permanence : liste synthétique, filtres et fiche détaillée. Ne pas présenter une donnée inconnue comme une compatibilité confirmée. Le terrain de référence reste environ 30 enfants, 5–6 éducateurs et 90 minutes.
