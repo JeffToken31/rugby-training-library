@@ -1,24 +1,12 @@
-# Bibliotheque rugby U8
+# Bibliothèque rugby U8
+Référence de cadrage : mise à jour utilisateur du 7 septembre 2026, détaillée dans [ARCHITECTURE](docs/ARCHITECTURE.md).
 
-Objectif : reduire le temps de recherche pour preparer les entrainements.
+Priorité absolue : une grosse base structurée d'exercices U8, consultable rapidement par quelques coachs. L'exercice et ses variantes sont au centre ; les ressources alimentent et justifient les fiches. Pas de front ni de collecteurs massifs avant modèle, provenance et migration correctement posés.
 
-MVP : catalogue de sources, fiches exercices, adaptations U8 distinguees des descriptions originales, recherche et export. Python et SQLite, sans installation systeme.
+Technique : Python standard + SQLite, dans WSL sous jeff, sans sudo. Dépôt GitHub privé JeffToken31/rugby-training-library. Aucune donnée enfant, aucun secret. Notifications de cette application ; le test n'a pas produit de son chez l'utilisateur.
 
-Chaque fiche conserve titre, objectif, age source, theme, duree, joueurs, materiel, deroulement, variantes, langue, URL et provenance. Les informations inconnues restent inconnues. Les adaptations sont identifiees et a valider par le coach.
+Terrain confirmé : environ 30 enfants (à ajuster au démarrage), 5–6 éducateurs, séance de 90 minutes, 2 ou 3 groupes selon présence, trois ateliers de 6–8 minutes, échauffement, opposition reliée aux objectifs, récréation de 10 minutes et temps de consigne. Matériel encore inconnu, non bloquant pour le modèle.
 
-Collecte : sources publiques francophones et anglophones, descriptions reformulees et liens originaux. Referencer les contenus restreints et poursuivre ailleurs. Ne pas telecharger les videos par defaut.
+État : 33 fiches historiques, sources et propositions séparées, recherche et exports. Le schéma historique reste utilisé pendant la préparation du modèle Family / Variant / Resource / Session. Voir docs/ARCHITECTURE.md pour l'ordre de travail et la migration. Le volume final recherché est important ; aucun nombre de liens découverts ne doit être annoncé comme nombre d'exercices qualifiés.
 
-Premier jalon : une petite collection verifiee et consultable avant augmentation du volume. Aucun quota ne remplace la verification des sources.
-
-Hors perimetre initial : gestion des joueurs, comptes parents, planning et application mobile.
-
-Decisions confirmees : demarrer avec les ressources publiques, aucune ressource personnelle requise. Notifications dans cette application. Depot GitHub obligatoirement prive, creation et premier envoi autorises par utilisateur.
-
-Methode : rechercher les informations disponibles avant de poser des questions ; regrouper les questions reellement bloquantes. Documenter les decisions, limites et prochaines etapes pour assurer la continuite.
-
-Livraison : recherche par theme, age source, duree et nombre de joueurs ; export des fiches avec provenance. Tester recherche, import et dedoublonnage. Premier lot verifie avant extension vers 100 a 300 ressources si les sources le permettent. Les sites a compte ou payants sont references comme restreints. Pas de depense ni de contournement.
-
-Validation terrain : le coach valide pertinence U8, niveau et adaptations ; ne pas presenter une adaptation comme une regle federale. Priorite a la preparation des seances, pas a apprentissage technique dans cette phase urgente.
-
-Etat au 6 septembre 2026 : premiere version Python/SQLite operationnelle, import transactionnel, recherche et exports Markdown/CSV/JSON. Premier lot de 8 fiches dont une incomplete et 7 sources. Six tests passants. Collecte initiale editoriale ; collecte automatique et expansion du catalogue restent a realiser. Voir docs/COLLECTE.md. Depot GitHub prive cree : JeffToken31/rugby-training-library. Transferts via SSH WSL.
-
+Autonomie : chercher avant de solliciter ; questions uniquement pour authentification, permission, dépense, décision irréversible ou véritable arbitrage fonctionnel/pédagogique. Ne pas réclamer une validation de chaque import. Les propositions IA restent identifiées ; seul un coach peut valider pédagogiquement.

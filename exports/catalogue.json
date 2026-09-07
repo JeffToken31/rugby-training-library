@@ -1,6 +1,36 @@
 {
   "sources": [
     {
+      "id": "au-familiarisation",
+      "title": "Ball Familiarisation",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description publique consultée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "au-nest",
+      "title": "Rob the Nest",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description publique consultée",
+      "note": "Variante de la famille des nids ; rattachée à la fiche existante."
+    },
+    {
+      "id": "au-octopus",
+      "title": "Rugby Octopus",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description publique consultée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
       "id": "ffr-echauffement",
       "title": "M8 : échauffement et préparation physique",
       "url": "https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique",
@@ -31,6 +61,56 @@
       "checked_on": "2026-09-06"
     },
     {
+      "id": "ffr-plan2020",
+      "title": "Plan de formation M8 — septembre 2020",
+      "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+      "publisher": "FFR / DTN",
+      "language": "fr",
+      "checked_on": "2026-09-06",
+      "access": "PDF public consulté",
+      "note": "Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club."
+    },
+    {
+      "id": "munster-fms",
+      "title": "Fundamental Movement — mars 2021",
+      "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+      "publisher": "Munster Rugby",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "PDF public consulté",
+      "note": "Ressource primaire et mini-rugby ; âge précis non donné."
+    },
+    {
+      "id": "rc-aliens",
+      "title": "Aliens",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-bounce",
+      "title": "Home Training - Passing with Dad",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-bulldog",
+      "title": "Bulldog Touch",
+      "url": "https://www.rugbycoaching.tv/video/bulldog-touch/10001353",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
       "id": "rc-eggs",
       "title": "Egg in the nest game",
       "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603",
@@ -39,6 +119,16 @@
       "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
       "note": "Classement U8, mais le coach décrit des participants de 11–12 ans.",
       "checked_on": "2026-09-06"
+    },
+    {
+      "id": "rc-multidirection",
+      "title": "Multi-direction Game",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
     },
     {
       "id": "rc-netball",
@@ -51,6 +141,66 @@
       "checked_on": "2026-09-06"
     },
     {
+      "id": "rc-pairs",
+      "title": "Passing in 2s",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-piggy",
+      "title": "Piggy in the Middle",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-statues",
+      "title": "STG - Statues",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-taggrab",
+      "title": "Tag-grab",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-tagmania",
+      "title": "TAG Progressions",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-tagmatch",
+      "title": "Tag Game - Tag Rugby 1",
+      "url": "https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
       "id": "rc-ten",
       "title": "10 passes game",
       "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813",
@@ -59,6 +209,46 @@
       "access": "Description publique seulement ; déroulement non vérifié",
       "note": "Ne pas déduire les règles du seul titre.",
       "checked_on": "2026-09-06"
+    },
+    {
+      "id": "rc-triangle",
+      "title": "Home Training - Competitive Games",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-two-balls",
+      "title": "Warm-up Handling Game",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "rc-two-one",
+      "title": "2 v 1 Passing",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+      "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+    },
+    {
+      "id": "sportplan-ten",
+      "title": "10 pass game — contribution communautaire",
+      "url": "https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp",
+      "publisher": "Sportplan Community",
+      "language": "en",
+      "checked_on": "2026-09-06",
+      "access": "Section DESCRIPTION publique consultée",
+      "note": "Auteur non identifié sur la page ; variante documentaire, pas confirmation du déroulement de la vidéo RugbyCoaching.tv."
     },
     {
       "id": "wr-gir",
@@ -73,6 +263,82 @@
   ],
   "exercises": [
     {
+      "id": "au-familiarisation",
+      "source_id": "au-familiarisation",
+      "title": "Le ballon répond au signal",
+      "theme": "manipulation",
+      "age_source": "Non précisé",
+      "summary": "Dans un espace délimité, chacun se déplace avec un ballon. Au signal, effectuer une action : poser et ramasser, transmettre, marquer ou réaliser une petite passe.",
+      "material": "Neuf plots ; un ballon par joueur",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Commencer avec deux consignes distinctes, puis en ajouter une. Garder de l’espace entre joueurs.",
+      "locator": "Sections Description / Equipment / Change It",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 7,
+        "players_min": 4,
+        "players_max": 12,
+        "setup": "Un ballon par enfant dans une aire espacée.",
+        "steps": "Alterner déplacement et signaux poser-ramasser ou marquer. Ajouter un échange avec un voisin.",
+        "coach": "Ballon contrôlé et tête relevée.",
+        "easier": "Action à l’arrêt.",
+        "harder": "Deux signaux successifs."
+      },
+      "source": {
+        "id": "au-familiarisation",
+        "title": "Ball Familiarisation",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation",
+        "publisher": "Rugby Australia",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description publique consultée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "au-octopus",
+      "source_id": "au-octopus",
+      "title": "La pieuvre et les algues",
+      "theme": "déplacement",
+      "age_source": "Non précisé",
+      "summary": "Traverser sans être touché par les pieuvres. Un joueur touché devient une algue immobile qui peut toucher les passants. Continuer jusqu’à capture du groupe.",
+      "material": "Neuf plots et quatre ballons indiqués par la source",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Limiter les algues ou relancer une manche dès que le passage devient trop encombré. Sans ballon au début.",
+      "locator": "Sections Description / Equipment / Change It",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 6,
+        "players_min": 6,
+        "players_max": 10,
+        "setup": "Deux lignes opposées, un chasseur et un espace large.",
+        "steps": "Traverser au signal ; les touchés deviennent immobiles. Relancer avant encombrement.",
+        "coach": "Choisir un passage libre.",
+        "easier": "Marcher sans ballon.",
+        "harder": "Porter un ballon à deux mains."
+      },
+      "source": {
+        "id": "au-octopus",
+        "title": "Rugby Octopus",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus",
+        "publisher": "Rugby Australia",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description publique consultée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
       "id": "ffr-appuis",
       "source_id": "ffr-famille",
       "title": "Déplacement à quatre appuis",
@@ -86,6 +352,8 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
       "source": {
         "id": "ffr-famille",
         "title": "Rugby à la maison en famille",
@@ -95,7 +363,148 @@
         "access": "PDF public, texte consulté",
         "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
         "checked_on": "2026-09-06"
-      }
+      },
+      "references": []
+    },
+    {
+      "id": "ffr-auto",
+      "source_id": "ffr-plan2020",
+      "title": "L’auto-stoppeur",
+      "theme": "coopération",
+      "age_source": "M8",
+      "locator": "PDF page 51",
+      "summary": "Coopérer pour faire progresser le ballon malgré les défenseurs.",
+      "material": "Plots, ballons, chasubles",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.",
+      "review": "Archive documentée — règles actuelles à vérifier",
+      "status": "documented",
+      "contact": "contact possible dans la source",
+      "source": {
+        "id": "ffr-plan2020",
+        "title": "Plan de formation M8 — septembre 2020",
+        "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+        "publisher": "FFR / DTN",
+        "language": "fr",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club."
+      },
+      "references": []
+    },
+    {
+      "id": "ffr-cpf",
+      "source_id": "ffr-plan2020",
+      "title": "Coup franc pour soi",
+      "theme": "jeu au pied",
+      "age_source": "M8",
+      "locator": "PDF page 71",
+      "summary": "Maîtriser la remise en jeu et partir dans un espace libre.",
+      "material": "Plots, ballons, chasubles",
+      "duration_min": 15,
+      "players_min": 4,
+      "players_max": 4,
+      "adaptation_u8": "Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.",
+      "review": "Archive documentée — règles actuelles à vérifier",
+      "status": "documented",
+      "contact": "contact possible dans la source",
+      "source": {
+        "id": "ffr-plan2020",
+        "title": "Plan de formation M8 — septembre 2020",
+        "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+        "publisher": "FFR / DTN",
+        "language": "fr",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club."
+      },
+      "references": []
+    },
+    {
+      "id": "ffr-gagne",
+      "source_id": "ffr-plan2020",
+      "title": "Gagne-terrain",
+      "theme": "jeu collectif",
+      "age_source": "M8",
+      "locator": "PDF page 53",
+      "summary": "Gagner des points en franchissant des zones et en soutenant l’avancée.",
+      "material": "Plots, ballons, chasubles",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.",
+      "review": "Archive documentée — règles actuelles à vérifier",
+      "status": "documented",
+      "contact": "contact possible dans la source",
+      "source": {
+        "id": "ffr-plan2020",
+        "title": "Plan de formation M8 — septembre 2020",
+        "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+        "publisher": "FFR / DTN",
+        "language": "fr",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club."
+      },
+      "references": []
+    },
+    {
+      "id": "ffr-initiative",
+      "source_id": "ffr-plan2020",
+      "title": "L’initiative",
+      "theme": "prise d’information",
+      "age_source": "M8",
+      "locator": "PDF page 55",
+      "summary": "Repérer les espaces ouverts par des défenseurs temporairement immobilisés.",
+      "material": "Plots, ballons, chasubles",
+      "duration_min": 20,
+      "players_min": 10,
+      "players_max": 10,
+      "adaptation_u8": "Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.",
+      "review": "Archive documentée — règles actuelles à vérifier",
+      "status": "documented",
+      "contact": "contact possible dans la source",
+      "source": {
+        "id": "ffr-plan2020",
+        "title": "Plan de formation M8 — septembre 2020",
+        "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+        "publisher": "FFR / DTN",
+        "language": "fr",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club."
+      },
+      "references": []
+    },
+    {
+      "id": "ffr-interval",
+      "source_id": "ffr-plan2020",
+      "title": "Jouer les intervalles",
+      "theme": "prise d’information",
+      "age_source": "M8",
+      "locator": "PDF page 52",
+      "summary": "Valoriser les passes qui font avancer dans un espace libre.",
+      "material": "Plots, ballons, chasubles",
+      "duration_min": null,
+      "players_min": 8,
+      "players_max": 8,
+      "adaptation_u8": "Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.",
+      "review": "Archive documentée — règles actuelles à vérifier",
+      "status": "documented",
+      "contact": "contact possible dans la source",
+      "source": {
+        "id": "ffr-plan2020",
+        "title": "Plan de formation M8 — septembre 2020",
+        "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+        "publisher": "FFR / DTN",
+        "language": "fr",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club."
+      },
+      "references": []
     },
     {
       "id": "ffr-pied",
@@ -111,6 +520,8 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
       "source": {
         "id": "ffr-famille",
         "title": "Rugby à la maison en famille",
@@ -120,7 +531,8 @@
         "access": "PDF public, texte consulté",
         "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
         "checked_on": "2026-09-06"
-      }
+      },
+      "references": []
     },
     {
       "id": "ffr-ramasser",
@@ -136,6 +548,8 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
       "source": {
         "id": "ffr-famille",
         "title": "Rugby à la maison en famille",
@@ -145,7 +559,8 @@
         "access": "PDF public, texte consulté",
         "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
         "checked_on": "2026-09-06"
-      }
+      },
+      "references": []
     },
     {
       "id": "ffr-reception",
@@ -161,6 +576,8 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
       "source": {
         "id": "ffr-famille",
         "title": "Rugby à la maison en famille",
@@ -170,7 +587,8 @@
         "access": "PDF public, texte consulté",
         "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
         "checked_on": "2026-09-06"
-      }
+      },
+      "references": []
     },
     {
       "id": "ffr-transmettre",
@@ -186,6 +604,8 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
       "source": {
         "id": "ffr-famille",
         "title": "Rugby à la maison en famille",
@@ -195,7 +615,252 @@
         "access": "PDF public, texte consulté",
         "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
         "checked_on": "2026-09-06"
-      }
+      },
+      "references": []
+    },
+    {
+      "id": "munster-end",
+      "source_id": "munster-fms",
+      "title": "Passer dans la zone d’arrivée",
+      "theme": "jeu collectif",
+      "age_source": "Primaire / mini-rugby",
+      "locator": "PDF page 9",
+      "summary": "Deux équipes cherchent la zone d’essai par des passes ; la source propose cinq touchers pour marquer.",
+      "material": "Ballon et plots",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "munster-fms",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+        "publisher": "Munster Rugby",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné."
+      },
+      "references": []
+    },
+    {
+      "id": "munster-gates",
+      "source_id": "munster-fms",
+      "title": "Les portes à franchir",
+      "theme": "prise d’information",
+      "age_source": "Primaire / mini-rugby",
+      "locator": "PDF page 7",
+      "summary": "Marquer en franchissant une porte libre, puis passer ; ne pas reprendre immédiatement la même porte.",
+      "material": "Ballon et plots",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 8,
+        "players_min": 6,
+        "players_max": 10,
+        "setup": "Portes espacées, deux équipes et un ballon.",
+        "steps": "Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point.",
+        "coach": "Lever la tête et trouver une porte libre.",
+        "easier": "Sans opposition.",
+        "harder": "Ajouter une passe à un partenaire différent."
+      },
+      "source": {
+        "id": "munster-fms",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+        "publisher": "Munster Rugby",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné."
+      },
+      "references": []
+    },
+    {
+      "id": "munster-hunters",
+      "source_id": "munster-fms",
+      "title": "Chasseurs qui se passent le ballon",
+      "theme": "coopération",
+      "age_source": "Primaire / mini-rugby",
+      "locator": "PDF page 11",
+      "summary": "Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente.",
+      "material": "Ballon et plots",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "munster-fms",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+        "publisher": "Munster Rugby",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné."
+      },
+      "references": []
+    },
+    {
+      "id": "munster-mud",
+      "source_id": "munster-fms",
+      "title": "La boue et la délivrance",
+      "theme": "coopération",
+      "age_source": "Primaire / mini-rugby",
+      "locator": "PDF page 6",
+      "summary": "Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passant sous un bras.",
+      "material": "Ballon et plots",
+      "duration_min": 5,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "munster-fms",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+        "publisher": "Munster Rugby",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné."
+      },
+      "references": []
+    },
+    {
+      "id": "munster-rats",
+      "source_id": "munster-fms",
+      "title": "Rats et lapins",
+      "theme": "déplacement",
+      "age_source": "Primaire / mini-rugby",
+      "locator": "PDF page 5",
+      "summary": "Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son partenaire.",
+      "material": "Ballon et plots",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "adaptation_u8": "Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 6,
+        "players_min": 4,
+        "players_max": 10,
+        "setup": "Paires face à face avec deux refuges.",
+        "steps": "Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche.",
+        "coach": "Réaction au signal, chacun dans sa voie.",
+        "easier": "Sans poursuite.",
+        "harder": "Varier les signaux."
+      },
+      "source": {
+        "id": "munster-fms",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+        "publisher": "Munster Rugby",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "PDF public consulté",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-aliens",
+      "source_id": "rc-aliens",
+      "title": "Les extraterrestres",
+      "theme": "déplacement",
+      "age_source": "U7 (classement du site)",
+      "summary": "Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejoint les chasseurs ; la poursuite continue jusqu’au dernier joueur.",
+      "material": "Plusieurs ballons",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Commencer en marchant avec un chasseur. Prévoir des manches courtes et toucher sans projeter le ballon.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-aliens",
+        "title": "Aliens",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-bounce",
+      "source_id": "rc-bounce",
+      "title": "Rebondir et échanger en binôme",
+      "theme": "manipulation",
+      "age_source": "U9 (classement du site)",
+      "summary": "Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond avec un partenaire. Une progression travaille la réception d’une seule main en changeant de côté.",
+      "material": "Un ballon",
+      "players_min": 2,
+      "players_max": 2,
+      "duration_min": null,
+      "adaptation_u8": "Conserver d’abord la réception à deux mains ; choisir une surface régulière et une faible distance.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-bounce",
+        "title": "Home Training - Passing with Dad",
+        "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-bulldog",
+      "source_id": "rc-bulldog",
+      "title": "Traverser face aux chasseurs",
+      "theme": "déplacement",
+      "age_source": "Non précisé",
+      "summary": "Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent progressivement la défense, qui s’organise pour fermer les espaces.",
+      "material": "Terrain délimité",
+      "players_min": 10,
+      "players_max": 10,
+      "duration_min": null,
+      "adaptation_u8": "Faire plusieurs courtes manches et limiter le nombre de chasseurs pour préserver des possibilités de passage.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-bulldog",
+        "title": "Bulldog Touch",
+        "url": "https://www.rugbycoaching.tv/video/bulldog-touch/10001353",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
     },
     {
       "id": "rc-eggs",
@@ -211,6 +876,35 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
+      "u8_plan": {
+        "duration_min": 6,
+        "players_min": 6,
+        "players_max": 12,
+        "setup": "Trois ou quatre nids espacés et plusieurs ballons.",
+        "steps": "Rapporter un ballon à la fois depuis les nids voisins. Personne ne garde son nid. Compter puis recommencer.",
+        "coach": "Lever la tête et poser sans jeter.",
+        "easier": "Réserve centrale au départ.",
+        "harder": "Transmission courte avant de déposer."
+      },
+      "references": [
+        {
+          "source": {
+            "id": "au-nest",
+            "title": "Rob the Nest",
+            "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest",
+            "publisher": "Rugby Australia",
+            "language": "en",
+            "checked_on": "2026-09-06",
+            "access": "Description publique consultée",
+            "note": "Variante de la famille des nids ; rattachée à la fiche existante."
+          },
+          "source_id": "au-nest",
+          "locator": "Description / Change It",
+          "summary": "Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe."
+        }
+      ],
       "source": {
         "id": "rc-eggs",
         "title": "Egg in the nest game",
@@ -221,6 +915,34 @@
         "note": "Classement U8, mais le coach décrit des participants de 11–12 ans.",
         "checked_on": "2026-09-06"
       }
+    },
+    {
+      "id": "rc-multidirection",
+      "source_id": "rc-multidirection",
+      "title": "Changer de ligne d’essai",
+      "theme": "prise d’information",
+      "age_source": "U7 (classement du site)",
+      "summary": "Le coach annonce une couleur qui change la ligne visée par l’équipe en possession. Les équipes se réorganisent. La vidéo ajoute une pause de quatre secondes au défenseur après toucher.",
+      "material": "Ballon et repères colorés",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Commencer avec deux directions et une annonce entre les actions. Introduire le changement pendant le jeu seulement après compréhension.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-multidirection",
+        "title": "Multi-direction Game",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
     },
     {
       "id": "rc-netball",
@@ -236,6 +958,18 @@
       "players_min": null,
       "players_max": null,
       "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "non renseigné",
+      "u8_plan": {
+        "duration_min": 8,
+        "players_min": 6,
+        "players_max": 10,
+        "setup": "Quatre zones cibles, deux équipes et un ballon.",
+        "steps": "Marquer en passant à un partenaire dans une cible. Proposition : au toucher, le porteur s’arrête et peut passer ; le défenseur recule.",
+        "coach": "Se démarquer vers une zone disponible.",
+        "easier": "Deux cibles.",
+        "harder": "Quatre cibles et changement de cible après un point."
+      },
       "source": {
         "id": "rc-netball",
         "title": "Rugby Netball with 4 Goals",
@@ -245,12 +979,211 @@
         "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
         "note": "Jeu pédagogique, pas une règle de match FFR.",
         "checked_on": "2026-09-06"
-      }
+      },
+      "references": []
+    },
+    {
+      "id": "rc-pairs",
+      "source_id": "rc-pairs",
+      "title": "Passer avec un soutien en retrait",
+      "theme": "passe",
+      "age_source": "U7 (classement du site)",
+      "summary": "Deux joueurs avancent et échangent une passe courte. Une progression ajoute un obstacle représentant le défenseur : le soutien doit rester en retrait pour recevoir derrière cet obstacle.",
+      "material": "Ballon, plots ; bouclier dans la progression",
+      "players_min": 2,
+      "players_max": 2,
+      "duration_min": null,
+      "adaptation_u8": "Commencer en marchant dans des couloirs parallèles. Utiliser un plot comme repère avant un défenseur passif.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 7,
+        "players_min": 4,
+        "players_max": 8,
+        "setup": "Binômes en couloirs parallèles ; un ballon par binôme.",
+        "steps": "Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour.",
+        "coach": "Mains prêtes et receveur derrière le porteur.",
+        "easier": "Marcher et rapprocher les partenaires.",
+        "harder": "Trottiner puis ajouter un repère de défenseur."
+      },
+      "source": {
+        "id": "rc-pairs",
+        "title": "Passing in 2s",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-piggy",
+      "source_id": "rc-piggy",
+      "title": "Le joueur au milieu",
+      "theme": "passe",
+      "age_source": "U7 (classement du site)",
+      "summary": "Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe autour de l’intercepteur. Changer les rôles et travailler la communication. La source propose des manches d’une minute puis trente secondes.",
+      "material": "Un ballon ; espace délimité",
+      "players_min": 4,
+      "players_max": 4,
+      "duration_min": null,
+      "adaptation_u8": "Commencer avec un défenseur qui marche, puis le rendre libre. Montrer les mains et appeler le porteur.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 6,
+        "players_min": 4,
+        "players_max": 8,
+        "setup": "Un ou deux carrés de quatre enfants.",
+        "steps": "Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche.",
+        "coach": "Offrir une ligne de passe et appeler.",
+        "easier": "Intercepteur marchant.",
+        "harder": "Réduire légèrement le carré."
+      },
+      "source": {
+        "id": "rc-piggy",
+        "title": "Piggy in the Middle",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-statues",
+      "source_id": "rc-statues",
+      "title": "Les statues",
+      "theme": "déplacement",
+      "age_source": "U7 (classement du site)",
+      "summary": "Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent immobiles. Chronométrer la capture de tout le groupe, puis changer les chasseurs.",
+      "material": "Trois ballons",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Manches courtes ; une nouvelle manche remet tout le monde en jeu. Demander de regarder devant soi.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-statues",
+        "title": "STG - Statues",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-taggrab",
+      "source_id": "rc-taggrab",
+      "title": "La chasse aux rubans",
+      "theme": "déplacement",
+      "age_source": "U7 (classement du site)",
+      "summary": "Deux chasseurs sont désignés parmi deux équipes. Ils collectent les rubans des autres joueurs, qui tentent de les éviter dans l’espace de jeu.",
+      "material": "Ceintures et rubans de tag",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Changer souvent les chasseurs. Utiliser un espace large, sans saisie des vêtements ni poussée.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 6,
+        "players_min": 6,
+        "players_max": 10,
+        "setup": "Aire délimitée ; rubans pour chacun.",
+        "steps": "Deux chasseurs collectent les rubans. Courtes manches puis restitution et changement de chasseurs.",
+        "coach": "Regarder devant soi ; saisir seulement le ruban.",
+        "easier": "Un chasseur.",
+        "harder": "Coopération entre les deux chasseurs."
+      },
+      "source": {
+        "id": "rc-taggrab",
+        "title": "Tag-grab",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-tagmania",
+      "source_id": "rc-tagmania",
+      "title": "Tag mania et délivrance",
+      "theme": "déplacement",
+      "age_source": "Non précisé ; classement U7",
+      "summary": "La première situation invite chacun à récolter des rubans. Une progression fige les joueurs touchés et permet à un partenaire de les délivrer en passant sous leurs bras.",
+      "material": "Rubans ; ballons pour les progressions",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Séparer les deux règles : d’abord collecte, puis jeu de délivrance. Pour simplifier, délivrer par une tape dans la main.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-tagmania",
+        "title": "TAG Progressions",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-tagmatch",
+      "source_id": "rc-tagmatch",
+      "title": "Avancer et passer avant le tag",
+      "theme": "jeu collectif",
+      "age_source": "Non précisé",
+      "summary": "Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la passe avant le tag et relance rapidement pour solliciter soutien et replacement. Les délais de passe de cette vidéo sont propres à ce jeu.",
+      "material": "Ballon, rubans et chasubles",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Adapter les règles au cadre de ton club ; encourager le soutien sans imposer une passe systématique lorsqu’un espace libre permet d’avancer.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-tagmatch",
+        "title": "Tag Game - Tag Rugby 1",
+        "url": "https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
     },
     {
       "id": "rc-ten",
       "source_id": "rc-ten",
-      "title": "Jeu des dix passes — piste à compléter",
+      "title": "Dix passes - variante communautaire documentee",
       "theme": "passe",
       "age_source": "U8 (classement du site)",
       "locator": "Description publique",
@@ -260,7 +1193,26 @@
       "duration_min": null,
       "players_min": null,
       "players_max": null,
-      "review": "Fiche incomplète — piste documentaire",
+      "review": "Variante Sportplan documentee ; video initiale incomplete",
+      "status": "documented",
+      "contact": "non renseigné",
+      "references": [
+        {
+          "source": {
+            "id": "sportplan-ten",
+            "title": "10 pass game — contribution communautaire",
+            "url": "https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp",
+            "publisher": "Sportplan Community",
+            "language": "en",
+            "checked_on": "2026-09-06",
+            "access": "Section DESCRIPTION publique consultée",
+            "note": "Auteur non identifié sur la page ; variante documentaire, pas confirmation du déroulement de la vidéo RugbyCoaching.tv."
+          },
+          "source_id": "sportplan-ten",
+          "locator": "Section DESCRIPTION",
+          "summary": "Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique."
+        }
+      ],
       "source": {
         "id": "rc-ten",
         "title": "10 passes game",
@@ -271,6 +1223,116 @@
         "note": "Ne pas déduire les règles du seul titre.",
         "checked_on": "2026-09-06"
       }
+    },
+    {
+      "id": "rc-triangle",
+      "source_id": "rc-triangle",
+      "title": "Passes en triangle et changement de posture",
+      "theme": "passe",
+      "age_source": "U9 (classement du site)",
+      "summary": "En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons.",
+      "material": "Un ballon pour la situation de départ",
+      "players_min": 3,
+      "players_max": 3,
+      "duration_min": null,
+      "adaptation_u8": "Garder un seul ballon et ralentir. Remplacer l’assise par un demi-tour si les enfants perdent le rythme.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "source": {
+        "id": "rc-triangle",
+        "title": "Home Training - Competitive Games",
+        "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
+    },
+    {
+      "id": "rc-two-balls",
+      "source_id": "rc-two-balls",
+      "title": "Coordonner deux ballons",
+      "theme": "manipulation",
+      "age_source": "U7 (classement du site)",
+      "summary": "Un joueur alterne les échanges avec deux ballons circulant sur des trajets différents. Rapprocher les partenaires et installer le rythme avant d’accélérer.",
+      "material": "Deux ballons",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "adaptation_u8": "Démarrer avec un seul ballon ; ajouter le second seulement après réussite. Faire tourner le rôle central.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "references": [
+        {
+          "source": {
+            "id": "rc-triangle",
+            "title": "Home Training - Competitive Games",
+            "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600",
+            "publisher": "RugbyCoaching.tv",
+            "language": "en",
+            "checked_on": "2026-09-06",
+            "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+            "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+          },
+          "source_id": "rc-triangle",
+          "locator": "Sous-titres, derniere partie",
+          "summary": "La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon."
+        }
+      ],
+      "source": {
+        "id": "rc-two-balls",
+        "title": "Warm-up Handling Game",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      }
+    },
+    {
+      "id": "rc-two-one",
+      "source_id": "rc-two-one",
+      "title": "Deux contre un sans contact",
+      "theme": "passe",
+      "age_source": "U7 (classement du site)",
+      "summary": "Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien reste derrière le porteur pour recevoir sans passe en avant.",
+      "material": "Ballon ; couloir à matérialiser",
+      "players_min": 3,
+      "players_max": 3,
+      "duration_min": null,
+      "adaptation_u8": "Défenseur d’abord immobile, puis marchant. Alterner les trois rôles et chercher une passe courte.",
+      "locator": "Description / Video Subtitles",
+      "review": "Source consultée — validation terrain à faire",
+      "status": "documented",
+      "contact": "sans plaquage",
+      "u8_plan": {
+        "duration_min": 8,
+        "players_min": 6,
+        "players_max": 9,
+        "setup": "Deux ou trois trios ; un ballon par trio.",
+        "steps": "Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage.",
+        "coach": "Regard du porteur et profondeur du soutien.",
+        "easier": "Défenseur immobile.",
+        "harder": "Défenseur marchant, toucher sans plaquer."
+      },
+      "source": {
+        "id": "rc-two-one",
+        "title": "2 v 1 Passing",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535",
+        "publisher": "RugbyCoaching.tv",
+        "language": "en",
+        "checked_on": "2026-09-06",
+        "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
+        "note": "L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants."
+      },
+      "references": []
     }
   ]
 }

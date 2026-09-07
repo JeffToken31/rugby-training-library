@@ -1,0 +1,744 @@
+{
+  "checked_on": "2026-09-06",
+  "pages": [
+    {
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s",
+      "status": "ok",
+      "links": 20,
+      "page_sha256": "01587bfbd1880301b6dbc785e23065ba4d48e288e329d6dedd5f5b602dd5864f"
+    },
+    {
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s",
+      "status": "ok",
+      "links": 10,
+      "page_sha256": "85af90679808f7cf68d6c0d0f8189b2ca38d24249077f576a8ae7c09bb2014a5"
+    },
+    {
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s",
+      "status": "ok",
+      "links": 17,
+      "page_sha256": "3daf2791bbba70b868b20b5f59c1e43a64307b5c72b7ecfa740f9b64d6b0c41b"
+    },
+    {
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion",
+      "status": "erreur",
+      "detail": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://australia.rugby/participate/get-into-rugby/club-resources/learn/run-and-evade",
+      "status": "erreur",
+      "detail": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://australia.rugby/participate/get-into-rugby/club-resources/learn/carry-and-protect",
+      "status": "erreur",
+      "detail": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "url": "https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8",
+      "status": "ok",
+      "links": 2,
+      "page_sha256": "8e046ff02b9a9a43674a4b8425dd6cae5dbeaebd0559cdf1fe625b22d279c0d7"
+    },
+    {
+      "url": "https://passport.world.rugby/coaching/coaching-children/putting-it-into-practice/main-coaching-activities/",
+      "status": "ok",
+      "links": 0,
+      "page_sha256": "79dc5265273a229789f49b9b360e1e955ce35ebb8c97e870ff2beeb25cb88251"
+    },
+    {
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under6s",
+      "status": "ok",
+      "links": 5,
+      "page_sha256": "622d57eb34b0438123affcaf2304aa7e58115b612bf4b4c520a82ec737f64803"
+    },
+    {
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s",
+      "status": "ok",
+      "links": 14,
+      "page_sha256": "0e18450ba72f80e3bf55e1052d40fb8e86f28480dfd79663fdc13ca79eb585ef"
+    },
+    {
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s",
+      "status": "ok",
+      "links": 9,
+      "page_sha256": "93510defcaf9a59e8037d772eaf9b93d689593eb68aaa323bdd5d772fb57b0b3"
+    },
+    {
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s",
+      "status": "ok",
+      "links": 11,
+      "page_sha256": "9df4dc35d81c2a881cd6dae6117dec886502273363cecb66902dae7c76bb7f77"
+    }
+  ],
+  "candidates": [
+    {
+      "identity": "www.rugbycoaching.tv:10001676",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/rules-of-play-u7s/10001676",
+      "title": "5:09 Rules of Play - U7s",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000619",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/small-sided-evasion-game/10000619",
+      "title": "0:24 Small sided evasion game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000813",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/10-passes-game/10000813",
+      "title": "1:00 10 passes game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s",
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000410",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410",
+      "title": "4:39 Tag Game - Piggy in the Middle",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000811",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811",
+      "title": "1:08 Aliens",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000821",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821",
+      "title": "1:32 Tag-grab",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001605",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-introduction-to-get-started/10001605",
+      "title": "1:14 TAG Introduction to get started",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s",
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001606",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606",
+      "title": "3:32 TAG Progressions",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s",
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000820",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820",
+      "title": "1:32 STG - Statues",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001603",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/egg-in-the-nest-game/10001603",
+      "title": "3:53 Egg in the nest game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s",
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000814",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-hare-hound/10000814",
+      "title": "1:31 STG - Hare & Hound",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001508",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/pitch-set-up-whole-part-whole/10001508",
+      "title": "0:57 Pitch set up & whole part whole",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s",
+        "https://www.rugbycoaching.tv/videos/expert/Under11s",
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001530",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530",
+      "title": "1:10 Warm-up Handling Game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000620",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/how-to-carry-the-ball-relay-fun/10000620",
+      "title": "0:10 How to carry the ball - Relay & fun",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001533",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533",
+      "title": "2:17 Passing in 2s",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001536",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536",
+      "title": "2:10 Multi-direction Game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001535",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535",
+      "title": "1:49 2 v 1 Passing",
+      "found_on": [
+        "https://www.rugbycoaching.tv/plans/expert/Under7s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001607",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/communicating-ideas-effectively/10001607",
+      "title": "1:21 Communicating Ideas Effectively",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001619",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/advice-from-the-professionals/10001619",
+      "title": "3:38 Advice From The Professionals",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001636",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/adapt-your-coaching-style/10001636",
+      "title": "5:30 Adapt Your Coaching Style",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001532",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532",
+      "title": "2:39 Rugby Netball with 4 Goals",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001595",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/developing-your-personal-coaching-style/10001595",
+      "title": "4:05 Developing Your Personal Coaching Style",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under8s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001683",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/new-rules-of-play-under-9s/10001683",
+      "title": "6:35 New Rules of Play - Under 9s",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001677",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/new-rules-of-play-u9s/10001677",
+      "title": "9:52 New Rules of Play - U9s",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001678",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/learning-to-tackle-under-9-s-up/10001678",
+      "title": "7:59 Learning to Tackle - Under 9's & Up",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001519",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/tackle-technique-introduction/10001519",
+      "title": "0:51 Tackle Technique - Introduction",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001600",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/home-training-competitive-games/10001600",
+      "title": "4:30 Home Training - Competitive Games",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s",
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001597",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/home-training-passing-with-dad/10001597",
+      "title": "2:32 Home Training - Passing with Dad",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s",
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001598",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-fun-catching-passing-games/10001598",
+      "title": "2:59 Home Training - Fun Catching & Passing Games",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001596",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-skills-on-your-own/10001596",
+      "title": "2:14 Home training - Skills on your own",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001537",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/back-to-back-wrestle/10001537",
+      "title": "1:59 Back-to-back Wrestle",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001538",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/wrestle-on-knees/10001538",
+      "title": "1:30 Wrestle on Knees",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001539",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/cheek-to-cheek-head-position/10001539",
+      "title": "2:19 Cheek-to-cheek - Head position",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001540",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/tackle-on-knees/10001540",
+      "title": "1:51 Tackle on Knees",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001541",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/tackle-technique-head-position/10001541",
+      "title": "2:11 Tackle Technique - Head Position",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001542",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/head-position-training-in-units/10001542",
+      "title": "1:16 Head Position training in units",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001526",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/1-v-1-tackling-in-channel/10001526",
+      "title": "2:24 1 v 1 Tackling in Channel",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001527",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/tackling-game/10001527",
+      "title": "2:28 Tackling Game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under9s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "https://api.www.ffr.fr/wp-content/uploads/2020/09/FFR_LIVRET_JEUNE_JOUEUR2020-1.pdf",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2020/09/FFR_LIVRET_JEUNE_JOUEUR2020-1.pdf",
+      "title": "Télécharger",
+      "found_on": [
+        "https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "https://api.www.ffr.fr/wp-content/uploads/2020/09/Grille-livret-du-jeune-joueur-M8-ann%C3%A9e-1-et-ann%C3%A9e-2.pdf",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2020/09/Grille-livret-du-jeune-joueur-M8-ann%C3%A9e-1-et-ann%C3%A9e-2.pdf",
+      "title": "Télécharger",
+      "found_on": [
+        "https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000538",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under6s/conor-o-shea-is-gamesense-important/10000538",
+      "title": "1:10 Conor O Shea - is gamesense important",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under6s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000292",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under6s/colour-touch-game/10000292",
+      "title": "1:05 Colour touch game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under6s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000007",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under6s/pick-up-rolling-ball/10000007",
+      "title": "Pick up rolling ball",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under6s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000294",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under6s/rugby-netball/10000294",
+      "title": "0:16 Rugby netball",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under6s",
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000516",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under6s/expert-sir-ian-mcgeechan-children-in-rugby/10000516",
+      "title": "0:44 Expert - Sir Ian Mcgeechan - Children in rugby",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under6s",
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001450",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/passing-basic-principles/10001450",
+      "title": "1:28 Passing - Basic principles",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001168",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/learning-to-spin-pass-1/10001168",
+      "title": "0:44 Learning to spin pass 1",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001156",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/learning-to-spin-pass-2/10001156",
+      "title": "0:36 Learning to spin pass 2",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001169",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/learning-to-spin-pass-3/10001169",
+      "title": "1:01 Learning to spin pass 3",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001170",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/learning-to-pass-deep/10001170",
+      "title": "0:44 Learning to pass deep",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001469",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/tackle-technique-summary/10001469",
+      "title": "1:24 Tackle Technique Summary",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001438",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/hold-up-wrestle/10001438",
+      "title": "1:43 Hold-up Wrestle",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001439",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/cheek-to-cheek-head-position/10001439",
+      "title": "1:03 Cheek-to-cheek - Head position",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001440",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/tackle-on-knees/10001440",
+      "title": "0:14 Tackle on Knees",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001441",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/tackling-on-knees-3-v-1/10001441",
+      "title": "0:37 Tackling on Knees - 3 v 1",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001442",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/head-position-how-to-coach/10001442",
+      "title": "1:33 Head position - How To Coach",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001447",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/coaching-the-leg-tackle/10001447",
+      "title": "0:57 Coaching the leg Tackle",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001444",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/live-tacking-in-channel/10001444",
+      "title": "1:26 Live tacking in channel",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001382",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under10s/tackle-technique-in-groups/10001382",
+      "title": "1:45 Tackle Technique in groups",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under10s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001626",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/quins-support-touch-game/10001626",
+      "title": "2:11 Quins - Support Touch Game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001627",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/quins-two-touch-game/10001627",
+      "title": "4:23 Quins - Two touch Game",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001614",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/catch-pass-progressions/10001614",
+      "title": "5:41 Catch & Pass Progressions",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s",
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001510",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/rugby-netball-with-4-goals/10001510",
+      "title": "1:04 Rugby Netball with 4 Goals",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001509",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/passing-warm-up-in-3s/10001509",
+      "title": "0:42 Passing Warm-up in 3s",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001511",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/passing-2-v-1-static-defender/10001511",
+      "title": "1:02 Passing - 2 v 1 Static Defender",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001512",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/passing-3-v-2-static-defenders/10001512",
+      "title": "1:16 Passing - 3 v 2 Static Defenders",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001513",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under11s/conditioned-touch-tackler-drops-to-knee/10001513",
+      "title": "1:15 Conditioned Touch - Tackler drops to Knee",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under11s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001870",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/scrum-half-passing-with-chris-cusiter-wrist-warm-up/10001870",
+      "title": "4:14 Scrum Half Passing with Chris Cusiter - Wrist Warm-Up",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001615",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/passing-progressions-with-defenders/10001615",
+      "title": "5:22 Passing Progressions with defenders",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001635",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/games-for-coaching-examples/10001635",
+      "title": "5:51 Games for Coaching - Examples",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10001622",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/ball-control-passing/10001622",
+      "title": "4:46 Ball Control & Passing",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000046",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/group-hip-rolls/10000046",
+      "title": "Group hip rolls",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    },
+    {
+      "identity": "www.rugbycoaching.tv:10000457",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under12s/turn-and-chase-reaction-drill/10000457",
+      "title": "0:37 Turn and chase reaction drill",
+      "found_on": [
+        "https://www.rugbycoaching.tv/videos/expert/Under12s"
+      ],
+      "status": "repérée — contenu à vérifier"
+    }
+  ]
+}

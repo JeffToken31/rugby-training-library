@@ -47,5 +47,19 @@ class LibraryTests(unittest.TestCase):
         self.assertIn("page 1",report)
         self.assertIn("Non renseignée",report)
 
+    def test_unsafe_file_id_rejected(self):
+        self.payload["exercises"][0]["id"]="../outside"
+        with self.assertRaises(ValueError):
+            library.ingest(self.db,self.payload)
+        self.assertEqual(len(library.search(self.db)),0)
+    def test_generic_page_query_preserved(self):
+        self.assertEqual(library.canonical("https://example.org/?p=2"),"https://example.org?p=2")
+    def test_proposal_does_not_become_source_fact(self):
+        self.payload["exercises"][0]["u8_plan"] = dict(duration_min=7,players_min=4,players_max=8,
+            setup="Carré",steps="Passer",coach="Observer",easier="Ralentir",harder="Accélérer")
+        library.ingest(self.db,self.payload)
+        self.assertEqual(library.search(self.db,minutes=8,players=6),[])
+        self.assertEqual(len(library.search(self.db,minutes=8,players=6,basis="proposal")),1)
+
 if __name__=="__main__":
     unittest.main()
