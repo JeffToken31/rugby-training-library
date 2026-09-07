@@ -23,3 +23,6 @@ Une proposition IA, une vérification documentaire et une validation coach sont 
 
 ## Terrain connu
 Environ 30 enfants, 5–6 éducateurs, séance de 90 minutes, 2/3 groupes, trois ateliers de 6–8 minutes et récréation de 10 minutes. Opposition reliée aux objectifs des ateliers, temps de consigne inclus. Le matériel reste à préciser lors d'un arbitrage utile, sans bloquer la collecte.
+
+## Mise à jour du lot
+Voir [LOT_2026-09-07.md](LOT_2026-09-07.md) : 52 fiches, 32 ressources, 4 trames sources ; import et export v2 opérationnels. Les priorités restantes sont détaillées dans ce bilan. Les chiffres de la section Acquis ci-dessus décrivent le lot antérieur.

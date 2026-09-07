@@ -19,7 +19,7 @@ Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une
 
 **Adaptation U8 proposée :** Proposition U8 à valider : montrer un trajet, faire une manche courte sans défense des nids, espacer les zones pour réduire les croisements.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603) — Sous-titres : équipes de trois et collecte · consultée le 2026-09-06
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres : équipes de trois et collecte · consultée le 2026-09-06
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
 
@@ -43,4 +43,4 @@ Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une
 
 ## Répertoire des sources
 
-- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.
+- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.

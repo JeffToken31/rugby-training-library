@@ -60,3 +60,6 @@ Le prototype SQL séparé est dans schema/v2.sql. Il n'est pas encore la base de
 6. Vérifier les comptes, les champs historiques et les liens ; comparer les exports avant de remplacer le lecteur existant.
 
 Le verrou UNIQUE(source, localisation) du format historique ne sera pas repris. Plusieurs exercices peuvent partager une page et un exercice apparaître à plusieurs endroits. Les prochaines collectes massives attendent cette migration ; la découverte déjà effectuée reste réutilisable.
+
+## Avancement du 7 septembre
+Le migrateur de transition et le lecteur v2 sont désormais utilisables : voir LOT_2026-09-07.md. Les propositions historiques restent attachées comme paramètres inférés tant que leur nature de variante n'est pas établie. Cela évite de gonfler artificiellement le nombre d'exercices.

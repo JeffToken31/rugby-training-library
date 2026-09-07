@@ -7,6 +7,6 @@ Technique : Python standard + SQLite, dans WSL sous jeff, sans sudo. Dépôt Git
 
 Terrain confirmé : environ 30 enfants (à ajuster au démarrage), 5–6 éducateurs, séance de 90 minutes, 2 ou 3 groupes selon présence, trois ateliers de 6–8 minutes, échauffement, opposition reliée aux objectifs, récréation de 10 minutes et temps de consigne. Matériel encore inconnu, non bloquant pour le modèle.
 
-État : 33 fiches historiques, sources et propositions séparées, recherche et exports. Le schéma historique reste utilisé pendant la préparation du modèle Family / Variant / Resource / Session. Voir docs/ARCHITECTURE.md pour l'ordre de travail et la migration. Le volume final recherché est important ; aucun nombre de liens découverts ne doit être annoncé comme nombre d'exercices qualifiés.
+État : 52 fiches (43 documentées et 9 pistes à compléter), 32 ressources référencées, quatre trames de séance sources. Import de transition v2 opérationnel et testé sans perte du JSON historique ; recherche et exports v2 disponibles. Utiliser catalogue_v2.py et lire docs/LOT_2026-09-07.md. La gestion des captures, des révisions et les filtres numériques v2 restent à compléter. Ne pas compter les liens découverts comme exercices qualifiés.
 
 Autonomie : chercher avant de solliciter ; questions uniquement pour authentification, permission, dépense, décision irréversible ou véritable arbitrage fonctionnel/pédagogique. Ne pas réclamer une validation de chaque import. Les propositions IA restent identifiées ; seul un coach peut valider pédagogiquement.

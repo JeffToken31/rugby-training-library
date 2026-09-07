@@ -19,7 +19,7 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 
 **Adaptation U8 proposée :** Aucune rédigée.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813) — Description publique · consultée le 2026-09-06
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique · consultée le 2026-09-06
 
 **Accès :** Description publique seulement ; déroulement non vérifié
 
@@ -29,4 +29,4 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 
 ## Répertoire des sources
 
-- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
+- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.

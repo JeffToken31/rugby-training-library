@@ -131,12 +131,20 @@ def markdown(items, sources):
     for e in items:
         s = e["source"]
         lines += [f"## {e['title']}", "", f"**{e['theme']} · âge source : {e['age_source']} · {e['review']}**", "",
-                  e["summary"], "", "**Matériel :** " + e.get("material","Non renseigné"),
+                  e["summary"], "", "**Matériel :** " + (e.get("material") or "Non renseigné"),
                   "", "**Durée atelier :** " + (str(e.get("duration_min")) + " min" if e.get("duration_min") else "Non renseignée"),
                   "", "**Effectif :** " + (f"{e['players_min']}–{e['players_max']}" if e.get("players_min") and e.get("players_max") else "Non renseigné"),
                   "", "**Adaptation U8 proposée :** " + (e.get("adaptation_u8") or "Aucune rédigée."),
                   "", f"[Source : {s['publisher']}]({s['url']}) — {e['locator']} · consultée le {s['checked_on']}",
                   "", "**Accès :** " + s["access"], ""]
+        if e.get("space"):
+            lines += ["**Espace source :** " + e["space"], ""]
+        if e.get("bout_seconds"):
+            lines += ["**Manche source :** " + str(e["bout_seconds"]) + " secondes ; durée totale inconnue.", ""]
+        if e.get("source_conflicts"):
+            lines += ["**Information source contradictoire :** " + "; ".join(c["note"] for c in e["source_conflicts"]), ""]
+        if e.get("family_id"):
+            lines += ["**Famille proposée :** " + e["family_id"], ""]
         for ref in e.get("references", []):
             lines += ["**Variante sourcée complémentaire :** " + ref["summary"], "",
                       f"[{ref['source']['publisher']}]({ref['source']['url']}) — {ref['locator']}", ""]
@@ -150,24 +158,24 @@ def markdown(items, sources):
     lines += ["## Répertoire des sources", ""]
     for s in sources:
         lines += [f"- [{s['title']}]({s['url']}) — {s['access']}. {s.get('note','')}"]
-    return "\n".join(lines) + "\n"
+    return "\n".join(line.rstrip() for line in lines) + "\n"
 
-def export(db, directory):
+def export(db, directory, items_override=None, sources_override=None):
     directory = Path(directory)
     directory.mkdir(parents=True,exist_ok=True)
-    items = search(db)
-    sources = [json.loads(r[0]) for r in db.execute("SELECT data FROM sources ORDER BY id")]
+    items = search(db) if items_override is None else items_override
+    sources = [json.loads(r[0]) for r in db.execute("SELECT data FROM sources ORDER BY id")] if sources_override is None else sources_override
     (directory/"catalogue.json").write_text(json.dumps({"sources":sources,"exercises":items},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
     (directory/"CATALOGUE.md").write_text(markdown(items,sources),encoding="utf-8")
     cards = directory/"fiches"
     cards.mkdir(exist_ok=True)
     index = ["# Choisir un exercice", "", f"{len(items)} fiches — les propositions terrain restent à valider par le coach.", "",
-             "[Catalogue complet](CATALOGUE.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)", ""]
+             "[Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)", ""]
     for theme in sorted(set(e["theme"] for e in items)):
         index += ["## " + theme.capitalize(), "", "| Exercice | Âge source | Proposition terrain |", "|---|---|---|"]
         for e in (x for x in items if x["theme"] == theme):
             plan = e.get("u8_plan")
-            detail = f"{plan['duration_min']} min / {plan['players_min']}–{plan['players_max']} enfants" if plan else e.get("status","documented")
+            detail = f"{plan['duration_min']} min / {plan['players_min']}–{plan['players_max']} enfants" if plan else ("À compléter" if e.get("status") == "incomplete" else "Documentée ; à valider")
             index += [f"| [{e['title']}](fiches/{e['id']}.md) | {e['age_source']} | {detail} |"]
             (cards/(e["id"]+".md")).write_text(markdown([e],[e["source"]]),encoding="utf-8")
         index.append("")

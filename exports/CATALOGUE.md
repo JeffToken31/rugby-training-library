@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-33 fiches · 26 sources
+52 fiches · 32 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -105,6 +105,42 @@ Coopérer pour faire progresser le ballon malgré les défenseurs.
 
 **Accès :** PDF public consulté
 
+## Carré
+
+**manipulation · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Déplacements et manipulation, avec travail d’équilibre et d’observation.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Carré · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Carré 2
+
+**motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Carré 2 · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
 ## Coup franc pour soi
 
 **jeu au pied · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -123,6 +159,64 @@ Maîtriser la remise en jeu et partir dans un espace libre.
 
 **Accès :** PDF public consulté
 
+## Duel long
+
+**déplacement · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Course vers la marque avec poursuite ; distances et lancement à compléter.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositive 3 — Duel long · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Duels et soutien
+
+**coopération · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositive 3 — Duels et soutien · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Chercher les espaces libres
+
+**prise d’information · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+
+Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.
+
+**Matériel :** 4 ballons, plots, chasubles
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 12–12
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 66 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Espace source :** 15 × 15 m ; camps 3 × 3 m
+
+**Manche source :** 8 secondes ; durée totale inconnue.
+
 ## Gagne-terrain
 
 **jeu collectif · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -140,6 +234,24 @@ Gagner des points en franchissant des zones et en soutenant l’avancée.
 [Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 53 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+## Les gazelles
+
+**lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Les gazelles · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
 ## L’initiative
 
@@ -177,6 +289,24 @@ Valoriser les passes qui font avancer dans un espace libre.
 
 **Accès :** PDF public consulté
 
+## Panthères et chenilles
+
+**posture · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositive 3 — Panthères et chenilles · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
 ## Conduire le ballon au pied
 
 **jeu au pied · âge source : M8 · Source consultée — validation terrain à faire**
@@ -194,6 +324,42 @@ Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 10, atelier 2 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+## Plaquage et libération
+
+**contact · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositive 3 — Plaquage et libération · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Protège-ballon
+
+**lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Protéger son équilibre face à l’adversaire ; organisation à compléter.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Protège-ballon · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
 ## Ramasser puis transmettre
 
@@ -231,6 +397,66 @@ Réceptionner une passe pendant un déplacement au petit trot.
 
 **Accès :** PDF public, texte consulté
 
+## Relais — courir, rouler, passer
+
+**motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+
+Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositive 3 — Relais — courir, rouler, passer · consultée le 2026-09-07
+
+**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Speedy — un ballon chacun
+
+**réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+
+Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejoindre son refuge. Trois couloirs pour six enfants.
+
+**Matériel :** Ballons et plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 6–6
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 69 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Espace source :** Couloirs 20 × 3 m
+
+**Famille proposée :** reaction-course
+
+## Speedy — un ballon pour deux
+
+**réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+
+Même départ visuel ; les deux adversaires se disputent désormais un seul ballon.
+
+**Matériel :** Ballons et plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 6–6
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 69 — évolution 2 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Famille proposée :** reaction-course
+
 ## Transmettre en trottinant
 
 **passe · âge source : M10 · Source consultée — validation terrain à faire**
@@ -248,6 +474,26 @@ Passer au partenaire tout en trottinant avec le ballon.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 10 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+## Chasse aux trésors — parcours
+
+**motricité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+
+Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suivant part après l’essai ou la chute du ballon.
+
+**Matériel :** Plots, cerceaux, piquets ; quantité de ballons ambiguë
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 12–12
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 70 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Information source contradictoire :** Matériel : 5 ; récit : 6.
 
 ## Passer dans la zone d’arrivée
 
@@ -435,7 +681,7 @@ Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une
 
 **Adaptation U8 proposée :** Proposition U8 à valider : montrer un trajet, faire une manche courte sans défense des nids, espacer les zones pour réduire les croisements.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603) — Sous-titres : équipes de trois et collecte · consultée le 2026-09-06
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres : équipes de trois et collecte · consultée le 2026-09-06
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
 
@@ -489,7 +735,7 @@ Marquer par une passe à un partenaire dans une cible. Quatre cibles favorisent 
 
 **Adaptation U8 proposée :** Proposition U8 à valider : découvrir les cibles sans opposition avant d’ajouter un toucher. Les consignes de la vidéo ne sont pas le règlement FFR.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532) — Description et sous-titres · consultée le 2026-09-06
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Description et sous-titres · consultée le 2026-09-06
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
 
@@ -671,7 +917,7 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 
 **Adaptation U8 proposée :** Aucune rédigée.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813) — Description publique · consultée le 2026-09-06
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique · consultée le 2026-09-06
 
 **Accès :** Description publique seulement ; déroulement non vérifié
 
@@ -751,31 +997,151 @@ Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien
 
 **Plus difficile :** Défenseur marchant, toucher sans plaquer.
 
+## Trois joueurs alignés
+
+**prise d’information · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+
+Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement de trois gagne.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 6–6
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 14 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+## La chaîne
+
+**coopération · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+
+Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. Recommencer après une minute.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 18 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Manche source :** 60 secondes ; durée totale inconnue.
+
+## Chasseurs passeurs par trois
+
+**passe · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+
+Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 20 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Manche source :** 60 secondes ; durée totale inconnue.
+
+## Relais avec essai
+
+**motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+
+Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 12 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+## Tennis à la main
+
+**coordination · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+
+À deux, tenir une chasuble comme filet ; de la main libre, réceptionner puis lâcher le ballon par-dessus.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 13 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+## Traverser les zones gardées
+
+**évitement · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+
+Franchir les carrés sans être touché. Les défenseurs restent dans leur carré ; les remplacer après quatre-vingt-dix secondes.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 19 · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Manche source :** 90 secondes ; durée totale inconnue.
+
 ## Répertoire des sources
 
 - [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description publique consultée. Variante de la famille des nids ; rattachée à la fiche existante.
 - [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.
+- [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositives et texte publics consultés ; PDF non téléchargé.
+- [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositives et texte publics consultés ; PDF non téléchargé.
+- [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositives et texte publics consultés ; PDF non téléchargé.
 - [M8 : échauffement et préparation physique](https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique) — Page publique ; vidéo non analysée. Répertoire à approfondir. Situations issues des journées 2014.
 - [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
 - [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) — Page publique, liens documentaires repérés. Guide éducateur et livret joueur à examiner.
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
+- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.
+- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.
 - [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.
+- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.
 - [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
+- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
 - [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
 - [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION publique consultée. Auteur non identifié sur la page ; variante documentaire, pas confirmation du déroulement de la vidéo RugbyCoaching.tv.
 - [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — Page publique consultée ; ressources détaillées à examiner. Point de départ pour élargir la collecte.

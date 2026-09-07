@@ -19,7 +19,7 @@ Marquer par une passe à un partenaire dans une cible. Quatre cibles favorisent 
 
 **Adaptation U8 proposée :** Proposition U8 à valider : découvrir les cibles sans opposition avant d’ajouter un toucher. Les consignes de la vidéo ne sont pas le règlement FFR.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532) — Description et sous-titres · consultée le 2026-09-06
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Description et sous-titres · consultée le 2026-09-06
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
 
@@ -39,4 +39,4 @@ Marquer par une passe à un partenaire dans une cible. Quatre cibles favorisent 
 
 ## Répertoire des sources
 
-- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.
+- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.

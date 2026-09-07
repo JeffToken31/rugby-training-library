@@ -1,0 +1,584 @@
+{
+  "sources": [
+    {
+      "id": "ffr-plan2023",
+      "title": "Plan de formation du joueur M8 — mars 2023",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf",
+      "publisher": "FFR — Direction Technique Nationale",
+      "language": "fr",
+      "checked_on": "2026-09-07",
+      "access": "PDF public consulté",
+      "resource_type": "TECHNICAL_DOCUMENT",
+      "format": "PDF",
+      "published_on": "2023-03",
+      "qualification_note": "Recueil pédagogique, pas une séance unique. Archive réglementaire."
+    },
+    {
+      "id": "ffr-atelier-1-2025-26",
+      "title": "Séance atelier 1 — octobre-2025",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708",
+      "publisher": "FFR — document intégré sur formation.ffr.fr",
+      "language": "fr",
+      "checked_on": "2026-09-07",
+      "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
+      "resource_type": "SESSION_PDF",
+      "format": "SLIDES",
+      "landing_url": "https://formation.ffr.fr/article/seance-atelier-ndeg1-octobre-2025",
+      "qualification_note": "Document mult catégories ; seule la partie M8 est extraite. Vidéos liées non visionnées."
+    },
+    {
+      "id": "ffr-atelier-2-2025-26",
+      "title": "Séance atelier 2 — novembre-2025",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128",
+      "publisher": "FFR — document intégré sur formation.ffr.fr",
+      "language": "fr",
+      "checked_on": "2026-09-07",
+      "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
+      "resource_type": "SESSION_PDF",
+      "format": "SLIDES",
+      "landing_url": "https://formation.ffr.fr/article/seance-atelier-ndeg2-novembre-2025",
+      "qualification_note": "Document mult catégories ; seule la partie M8 est extraite. Vidéos liées non visionnées."
+    },
+    {
+      "id": "ffr-atelier-3-2025-26",
+      "title": "Séance atelier 3 — janvier-2026",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080",
+      "publisher": "FFR — document intégré sur formation.ffr.fr",
+      "language": "fr",
+      "checked_on": "2026-09-07",
+      "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
+      "resource_type": "SESSION_PDF",
+      "format": "SLIDES",
+      "landing_url": "https://formation.ffr.fr/article/seance-atelier-ndeg3-janvier-2026",
+      "qualification_note": "Document mult catégories ; seule la partie M8 est extraite. Vidéos liées non visionnées."
+    },
+    {
+      "id": "ffr-atelier-4-2025-26",
+      "title": "Séance atelier 4 — mars-2026",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544",
+      "publisher": "FFR — document intégré sur formation.ffr.fr",
+      "language": "fr",
+      "checked_on": "2026-09-07",
+      "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
+      "resource_type": "SESSION_PDF",
+      "format": "SLIDES",
+      "landing_url": "https://formation.ffr.fr/article/seance-atelier-ndeg4-mars-2026",
+      "qualification_note": "Document mult catégories ; seule la partie M8 est extraite. Vidéos liées non visionnées."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ffr-espaces2023",
+      "source_id": "ffr-plan2023",
+      "title": "Chercher les espaces libres",
+      "summary": "Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.",
+      "locator": "Page 66",
+      "page_start": 66,
+      "page_end": 66,
+      "age_source": "M8",
+      "theme": "prise d’information",
+      "review": "Lecture documentaire ; validation terrain non effectuée",
+      "status": "documented",
+      "duration_min": null,
+      "players_min": 12,
+      "players_max": 12,
+      "material": "4 ballons, plots, chasubles",
+      "adaptation": null,
+      "space": "15 × 15 m ; camps 3 × 3 m",
+      "bout_seconds": 8
+    },
+    {
+      "id": "ffr-speedy-individuel",
+      "source_id": "ffr-plan2023",
+      "title": "Speedy — un ballon chacun",
+      "summary": "Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejoindre son refuge. Trois couloirs pour six enfants.",
+      "locator": "Page 69",
+      "page_start": 69,
+      "page_end": 69,
+      "age_source": "M8",
+      "theme": "réactivité",
+      "review": "Lecture documentaire ; validation terrain non effectuée",
+      "status": "documented",
+      "duration_min": null,
+      "players_min": 6,
+      "players_max": 6,
+      "material": "Ballons et plots",
+      "adaptation": null,
+      "space": "Couloirs 20 × 3 m",
+      "family_id": "reaction-course",
+      "contact": "sans opposition de possession"
+    },
+    {
+      "id": "ffr-speedy-partage",
+      "source_id": "ffr-plan2023",
+      "title": "Speedy — un ballon pour deux",
+      "summary": "Même départ visuel ; les deux adversaires se disputent désormais un seul ballon.",
+      "locator": "Page 69 — évolution 2",
+      "page_start": 69,
+      "page_end": 69,
+      "age_source": "M8",
+      "theme": "réactivité",
+      "review": "Lecture documentaire ; validation terrain non effectuée",
+      "status": "documented",
+      "duration_min": null,
+      "players_min": 6,
+      "players_max": 6,
+      "material": "Ballons et plots",
+      "adaptation": null,
+      "family_id": "reaction-course",
+      "parent_variant_id": "ffr-speedy-individuel",
+      "opposition": "1 contre 1"
+    },
+    {
+      "id": "ffr-tresors2023",
+      "source_id": "ffr-plan2023",
+      "title": "Chasse aux trésors — parcours",
+      "summary": "Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suivant part après l’essai ou la chute du ballon.",
+      "locator": "Page 70",
+      "page_start": 70,
+      "page_end": 70,
+      "age_source": "M8",
+      "theme": "motricité",
+      "review": "Lecture documentaire ; validation terrain non effectuée",
+      "status": "documented",
+      "duration_min": null,
+      "players_min": 12,
+      "players_max": 12,
+      "material": "Plots, cerceaux, piquets ; quantité de ballons ambiguë",
+      "adaptation": null,
+      "source_conflicts": [
+        {
+          "field": "balls",
+          "values": [
+            5,
+            6
+          ],
+          "note": "Matériel : 5 ; récit : 6."
+        }
+      ]
+    },
+    {
+      "id": "ffr-carre-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "title": "Carré",
+      "summary": "Déplacements et manipulation, avec travail d’équilibre et d’observation.",
+      "locator": "Diapositive 3 — Carré",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "manipulation",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-carre2-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "title": "Carré 2",
+      "summary": "Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.",
+      "locator": "Diapositive 3 — Carré 2",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "motricité",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-gazelles-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "title": "Les gazelles",
+      "summary": "Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.",
+      "locator": "Diapositive 3 — Les gazelles",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "lutte",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-protege-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "title": "Protège-ballon",
+      "summary": "Protéger son équilibre face à l’adversaire ; organisation à compléter.",
+      "locator": "Diapositive 3 — Protège-ballon",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "lutte",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-relais-atelier",
+      "source_id": "ffr-atelier-2-2025-26",
+      "title": "Relais — courir, rouler, passer",
+      "summary": "Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.",
+      "locator": "Diapositive 3 — Relais — courir, rouler, passer",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "motricité",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-plaquage-atelier",
+      "source_id": "ffr-atelier-2-2025-26",
+      "title": "Plaquage et libération",
+      "summary": "Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.",
+      "locator": "Diapositive 3 — Plaquage et libération",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "contact",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-pantheres-atelier",
+      "source_id": "ffr-atelier-3-2025-26",
+      "title": "Panthères et chenilles",
+      "summary": "Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.",
+      "locator": "Diapositive 3 — Panthères et chenilles",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "posture",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-duellong-atelier",
+      "source_id": "ffr-atelier-3-2025-26",
+      "title": "Duel long",
+      "summary": "Course vers la marque avec poursuite ; distances et lancement à compléter.",
+      "locator": "Diapositive 3 — Duel long",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "déplacement",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    },
+    {
+      "id": "ffr-duels-atelier",
+      "source_id": "ffr-atelier-4-2025-26",
+      "title": "Duels et soutien",
+      "summary": "Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.",
+      "locator": "Diapositive 3 — Duels et soutien",
+      "page_start": 3,
+      "page_end": 3,
+      "age_source": "M8",
+      "theme": "coopération",
+      "review": "Piste M8 extraite du support de séance ; vidéo et organisation à compléter",
+      "status": "incomplete",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": null,
+      "adaptation": null,
+      "qualification": "AI_PARSED"
+    }
+  ],
+  "families": [
+    {
+      "id": "reaction-course",
+      "title": "Course déclenchée par un signal",
+      "description": "Famille éditoriale : perception du signal puis course vers une cible."
+    }
+  ],
+  "sessions": [
+    {
+      "id": "ffr-session-1-2025-26",
+      "source_id": "ffr-atelier-1-2025-26",
+      "title": "Séance atelier FFR 1 — partie M8",
+      "origin": "SOURCE",
+      "locator": "Diapositives 1 à 3 — M8",
+      "page_start": 1,
+      "page_end": 3,
+      "age_source": "M8",
+      "duration_min": 60,
+      "duration_max": 90,
+      "items": [
+        {
+          "kind": "OTHER",
+          "label": "Manipulation et déplacement",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": [
+            "ffr-carre-atelier",
+            "ffr-carre2-atelier"
+          ]
+        },
+        {
+          "kind": "OTHER",
+          "label": "Opposition à cinq contre cinq",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "BREAK",
+          "label": "Récréation",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Renforcement et opposition",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": [
+            "ffr-gazelles-atelier",
+            "ffr-protege-atelier"
+          ]
+        },
+        {
+          "kind": "OTHER",
+          "label": "Jeu collectif",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Retour au calme et matériel",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        }
+      ],
+      "note": "Trame source ; exercices vidéos incomplets. Fourchettes conservées, pas de minutage arbitraire attribué à chaque exercice. Récréation source de 5 min, distincte des 10 min demandées par le coach."
+    },
+    {
+      "id": "ffr-session-2-2025-26",
+      "source_id": "ffr-atelier-2-2025-26",
+      "title": "Séance atelier FFR 2 — partie M8",
+      "origin": "SOURCE",
+      "locator": "Diapositives 1 à 3 — M8",
+      "page_start": 1,
+      "page_end": 3,
+      "age_source": "M8",
+      "duration_min": 60,
+      "duration_max": 90,
+      "items": [
+        {
+          "kind": "OTHER",
+          "label": "Manipulation et déplacement",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": [
+            "ffr-relais-atelier"
+          ]
+        },
+        {
+          "kind": "OTHER",
+          "label": "Opposition à cinq contre cinq",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "BREAK",
+          "label": "Récréation",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Renforcement et opposition",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": [
+            "ffr-plaquage-atelier"
+          ]
+        },
+        {
+          "kind": "OTHER",
+          "label": "Jeu collectif",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Retour au calme et matériel",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        }
+      ],
+      "note": "Trame source ; exercices vidéos incomplets. Fourchettes conservées, pas de minutage arbitraire attribué à chaque exercice. Récréation source de 5 min, distincte des 10 min demandées par le coach."
+    },
+    {
+      "id": "ffr-session-3-2025-26",
+      "source_id": "ffr-atelier-3-2025-26",
+      "title": "Séance atelier FFR 3 — partie M8",
+      "origin": "SOURCE",
+      "locator": "Diapositives 1 à 3 — M8",
+      "page_start": 1,
+      "page_end": 3,
+      "age_source": "M8",
+      "duration_min": 60,
+      "duration_max": 90,
+      "items": [
+        {
+          "kind": "OTHER",
+          "label": "Manipulation et déplacement",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Opposition à cinq contre cinq",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "BREAK",
+          "label": "Récréation",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Renforcement et opposition",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": [
+            "ffr-pantheres-atelier",
+            "ffr-duellong-atelier"
+          ]
+        },
+        {
+          "kind": "OTHER",
+          "label": "Jeu collectif",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Retour au calme et matériel",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        }
+      ],
+      "note": "Trame source ; exercices vidéos incomplets. Fourchettes conservées, pas de minutage arbitraire attribué à chaque exercice. Récréation source de 5 min, distincte des 10 min demandées par le coach."
+    },
+    {
+      "id": "ffr-session-4-2025-26",
+      "source_id": "ffr-atelier-4-2025-26",
+      "title": "Séance atelier FFR 4 — partie M8",
+      "origin": "SOURCE",
+      "locator": "Diapositives 1 à 3 — M8",
+      "page_start": 1,
+      "page_end": 3,
+      "age_source": "M8",
+      "duration_min": 60,
+      "duration_max": 90,
+      "items": [
+        {
+          "kind": "OTHER",
+          "label": "Manipulation et déplacement",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Opposition à cinq contre cinq",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "BREAK",
+          "label": "Récréation",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Renforcement et opposition",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": [
+            "ffr-duels-atelier"
+          ]
+        },
+        {
+          "kind": "OTHER",
+          "label": "Jeu collectif",
+          "duration_min": 10,
+          "duration_max": 15,
+          "variant_ids": []
+        },
+        {
+          "kind": "OTHER",
+          "label": "Retour au calme et matériel",
+          "duration_min": 5,
+          "duration_max": 5,
+          "variant_ids": []
+        }
+      ],
+      "note": "Trame source ; exercices vidéos incomplets. Fourchettes conservées, pas de minutage arbitraire attribué à chaque exercice. Récréation source de 5 min, distincte des 10 min demandées par le coach."
+    }
+  ]
+}

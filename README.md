@@ -1,30 +1,32 @@
 # Bibliothèque rugby U8
 
-Base interne d'exercices pour préparer les entraînements. Dépôt privé, sans données enfants.
+Base interne, dépôt privé, sans données enfants.
 
-## Consulter
-- [Index par thème et fiches individuelles](exports/INDEX.md)
+**52 fiches : 43 documentées et 9 pistes à compléter.** 32 ressources référencées et 4 trames de séance sources. Dix propositions terrain historiques restent distinctes des faits sources.
+
+- [Choisir un exercice](exports/INDEX.md)
 - [Catalogue complet](exports/CATALOGUE.md)
-- [Proposition de séance de 90 minutes](docs/SEANCE_EXEMPLE.md)
-- [Nouveau cadrage et modèle conceptuel](docs/ARCHITECTURE.md)
+- [Séances sources](exports/SEANCES.md)
+- [Votre proposition de séance de 90 minutes](docs/SEANCE_EXEMPLE.md)
+- [Détail du nouveau lot et limites](docs/LOT_2026-09-07.md)
+- [Modèle conceptuel](docs/ARCHITECTURE.md)
 
-Le lot historique contient 33 fiches et 26 ressources référencées. Dix fiches comportent des propositions terrain U8 séparées des faits sources. Ces propositions ne sont pas validées par un coach. Les 73 liens candidats découverts ne sont pas 73 exercices qualifiés.
-
-## Utiliser dans WSL
-Python 3.10+, sans dépendance ni sudo :
+## Reconstituer la base
+Python standard dans WSL, sans sudo :
 
 ```sh
-python3 library.py import data/seed.json
-python3 library.py search passe
-python3 library.py search --theme passe --basis proposal --players 8 --minutes 8
-python3 library.py export
-python3 library.py stats
+python3 catalogue_v2.py import data/seed.json data/ffr-2026.json data/scotland-primary.json
+python3 catalogue_v2.py search passe
+python3 catalogue_v2.py search --status REVIEWED
+python3 catalogue_v2.py export
+python3 catalogue_v2.py stats
 python3 -m unittest discover -s tests -v
 ```
 
-Les filtres numériques excluent les inconnues. Par défaut ils portent sur les chiffres sources ; --basis proposal utilise les réglages U8 proposés. Une durée vidéo n'est jamais une durée d'atelier.
+Les imports identiques sont réexécutables. Une révision modifiant un identifiant existant est refusée pour éviter d'écraser une décision. Les lots complets sont conservés en base avec empreinte.
 
-## Transition du modèle
-Le catalogue utilise encore le schéma historique. Le prototype schema/v2.sql prépare les familles, variantes, ressources, occurrences, séances, assertions et rapprochements. Il est testé séparément ; la migration et le branchement de la recherche restent à faire. Les titres ne seront jamais des identifiants et les similitudes ne provoqueront pas de suppressions automatiques.
+REVIEWED signifie lecture documentaire, pas validation par un coach. AI_PARSED identifie ici les pistes encore incomplètes. Les titres ne sont pas des identifiants ; plusieurs variantes peuvent partager une page source.
 
-data/seed.json conserve les données éditables ; les exports sont reproductibles. discover.py repère des liens publics et conserve les erreurs d'accès dans data/discovery.json ; il ne réalise pas encore le pipeline complet d'extraction. Voir [la collecte](docs/COLLECTE.md).
+Les anciennes commandes library.py restent utilisables pour le premier lot uniquement. Les filtres numériques historiques ne sont pas encore portés dans la recherche v2. Utiliser catalogue_v2.py export pour conserver tous les nouveaux lots dans les exports.
+
+La découverte de liens (discover.py) reste distincte de l'extraction d'exercices. Les archives binaires et vidéos ne sont pas publiées dans ce dépôt.
