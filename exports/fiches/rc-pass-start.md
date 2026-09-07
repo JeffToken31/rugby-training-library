@@ -23,6 +23,18 @@ Les débutants font circuler le ballon le long d’une ligne, d’abord lentemen
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Apprendre à recevoir puis transmettre vers une cible.
+
+**Organisation :** Joueurs en ligne ; circulation du ballon dans les deux sens.
+
+**Déroulement :** Commencer lentement à l’arrêt, puis augmenter la vitesse.
+
+**Consignes :** Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.
+
+**Critères de réussite — proposition IA :** Le partenaire reçoit une passe dirigée vers ses mains.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+
 ## Répertoire des sources
 
 - [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description et sous-titres publics consultés ; vidéo non téléchargée.

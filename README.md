@@ -17,6 +17,7 @@ Python standard dans WSL, sans sudo :
 
 ```sh
 python3 catalogue_v2.py import data/seed.json data/ffr-2026.json data/scotland-primary.json data/rc-young-games.json data/rc-cooperation.json
+python3 catalogue_v2.py enrich data/enrichment-details.json
 python3 catalogue_v2.py search passe
 python3 catalogue_v2.py search --status REVIEWED
 python3 catalogue_v2.py export
@@ -40,3 +41,5 @@ python3 capture_resources.py rc-pass-start-source
 ```
 
 [État des captures et filtres](docs/COLLECTE_OPERATIONNELLE.md). Les copies brutes restent dans data/raw, ignoré par Git.
+
+Quatre fiches disposent désormais de rubriques pédagogiques séparées. Voir [enrichissement et provenance](docs/ENRICHISSEMENT.md).

@@ -23,6 +23,16 @@ En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent 
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Exploiter un espace libéré par la défense.
+
+**Organisation :** Équipes opposées ; défenseurs identifiables par couleur.
+
+**Déroulement :** Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.
+
+**Consignes :** Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+
 **Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
 
 ## Répertoire des sources

@@ -23,6 +23,18 @@ Trois joueurs avancent et transmettent successivement le ballon en atteignant un
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Enchaîner course, réception et passe.
+
+**Organisation :** Vagues de trois, avec une ligne repère.
+
+**Déroulement :** Transmettre successivement puis travailler dans l’autre sens.
+
+**Consignes :** Rester derrière le porteur et montrer les mains tôt.
+
+**Erreurs fréquentes :** Receveur en avance sur le porteur.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+
 **Points coach issus de la source :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
 
 ## Répertoire des sources

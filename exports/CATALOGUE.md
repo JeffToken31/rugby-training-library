@@ -863,6 +863,18 @@ Trois joueurs avancent et transmettent successivement le ballon en atteignant un
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Enchaîner course, réception et passe.
+
+**Organisation :** Vagues de trois, avec une ligne repère.
+
+**Déroulement :** Transmettre successivement puis travailler dans l’autre sens.
+
+**Consignes :** Rester derrière le porteur et montrer les mains tôt.
+
+**Erreurs fréquentes :** Receveur en avance sur le porteur.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+
 **Points coach issus de la source :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
 
 ## Plaquage et libération
@@ -901,6 +913,18 @@ Les débutants font circuler le ballon le long d’une ligne, d’abord lentemen
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Apprendre à recevoir puis transmettre vers une cible.
+
+**Organisation :** Joueurs en ligne ; circulation du ballon dans les deux sens.
+
+**Déroulement :** Commencer lentement à l’arrêt, puis augmenter la vitesse.
+
+**Consignes :** Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.
+
+**Critères de réussite — proposition IA :** Le partenaire reçoit une passe dirigée vers ses mains.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+
 ## Protège-ballon
 
 **lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -936,6 +960,18 @@ Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix pas
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description / Video Subtitles · consultée le 2026-09-07
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+**Objectifs :** Décider rapidement et conserver le ballon.
+
+**Organisation :** Quatre passeurs contre un intercepteur.
+
+**Déroulement :** Chercher une série de dix passes.
+
+**Consignes :** Appeler et présenter les mains avant de recevoir.
+
+**Critères de réussite :** Atteindre dix passes.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
 
 **Points coach issus de la source :** Présenter une cible de réception et décider rapidement à qui transmettre.
 
@@ -1188,6 +1224,16 @@ En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent 
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description / Video Subtitles · consultée le 2026-09-07
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+**Objectifs :** Exploiter un espace libéré par la défense.
+
+**Organisation :** Équipes opposées ; défenseurs identifiables par couleur.
+
+**Déroulement :** Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.
+
+**Consignes :** Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
 
 **Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
 

@@ -137,6 +137,14 @@ def markdown(items, sources):
                   "", "**Adaptation U8 proposée :** " + (e.get("adaptation_u8") or "Aucune rédigée."),
                   "", f"[Source : {s['publisher']}]({s['url']}) — {e['locator']} · consultée le {s['checked_on']}",
                   "", "**Accès :** " + s["access"], ""]
+        for key,label in (("objectives","Objectifs"),("organisation","Organisation"),("steps","Déroulement"),("instructions","Consignes"),("success_criteria","Critères de réussite"),("common_errors","Erreurs fréquentes")):
+            if e.get(key):
+                origin=e.get("field_coverage",{}).get(key,{}).get("origin")
+                suffix=" — proposition IA" if origin=="AI_INFERRED" else ""
+                lines += ["**"+label+suffix+" :** "+e[key], ""]
+        if e.get("enrichment_provenance"):
+            p=e["enrichment_provenance"]
+            lines += ["Détails extraits le "+p["checked_on"]+" — "+p["locator"]+".", ""]
         if e.get("coach_points"):
             lines += ["**Points coach issus de la source :** " + e["coach_points"], ""]
         if e.get("space"):

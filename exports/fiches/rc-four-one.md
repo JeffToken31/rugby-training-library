@@ -23,6 +23,18 @@ Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix pas
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Décider rapidement et conserver le ballon.
+
+**Organisation :** Quatre passeurs contre un intercepteur.
+
+**Déroulement :** Chercher une série de dix passes.
+
+**Consignes :** Appeler et présenter les mains avant de recevoir.
+
+**Critères de réussite :** Atteindre dix passes.
+
+Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+
 **Points coach issus de la source :** Présenter une cible de réception et décider rapidement à qui transmettre.
 
 ## Répertoire des sources

@@ -1,0 +1,171 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-pass-start-detail-1",
+      "variant_id": "rc-pass-start",
+      "source_id": "rc-pass-start-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description / Video Subtitles — texte public consulté",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "value": "Apprendre à recevoir puis transmettre vers une cible.",
+          "origin": "SOURCE"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "value": "Joueurs en ligne ; circulation du ballon dans les deux sens.",
+          "origin": "SOURCE"
+        },
+        "steps": {
+          "state": "PRESENT",
+          "value": "Commencer lentement à l’arrêt, puis augmenter la vitesse.",
+          "origin": "SOURCE"
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "value": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.",
+          "origin": "SOURCE"
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "value": "Le partenaire reçoit une passe dirigée vers ses mains.",
+          "origin": "AI_INFERRED"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "note": "Durée totale non indiquée dans le texte consulté."
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "note": "Dimensions non indiquées dans le texte consulté."
+        }
+      }
+    },
+    {
+      "id": "rc-lateral-three-detail-1",
+      "variant_id": "rc-lateral-three",
+      "source_id": "rc-lateral-three-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description / Video Subtitles — texte public consulté",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "value": "Enchaîner course, réception et passe.",
+          "origin": "SOURCE"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "value": "Vagues de trois, avec une ligne repère.",
+          "origin": "SOURCE"
+        },
+        "steps": {
+          "state": "PRESENT",
+          "value": "Transmettre successivement puis travailler dans l’autre sens.",
+          "origin": "SOURCE"
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "value": "Rester derrière le porteur et montrer les mains tôt.",
+          "origin": "SOURCE"
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "value": "Receveur en avance sur le porteur.",
+          "origin": "SOURCE"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "note": "Durée totale non indiquée dans le texte consulté."
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "note": "Dimensions non indiquées dans le texte consulté."
+        }
+      }
+    },
+    {
+      "id": "rc-colour-touch-detail-1",
+      "variant_id": "rc-colour-touch",
+      "source_id": "rc-colour-touch-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description / Video Subtitles — texte public consulté",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "value": "Exploiter un espace libéré par la défense.",
+          "origin": "SOURCE"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "value": "Équipes opposées ; défenseurs identifiables par couleur.",
+          "origin": "SOURCE"
+        },
+        "steps": {
+          "state": "PRESENT",
+          "value": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.",
+          "origin": "SOURCE"
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "value": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.",
+          "origin": "SOURCE"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "note": "Durée totale non indiquée dans le texte consulté."
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "note": "Dimensions non indiquées dans le texte consulté."
+        }
+      }
+    },
+    {
+      "id": "rc-four-one-detail-1",
+      "variant_id": "rc-four-one",
+      "source_id": "rc-four-one-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description / Video Subtitles — texte public consulté",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "value": "Décider rapidement et conserver le ballon.",
+          "origin": "SOURCE"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "value": "Quatre passeurs contre un intercepteur.",
+          "origin": "SOURCE"
+        },
+        "steps": {
+          "state": "PRESENT",
+          "value": "Chercher une série de dix passes.",
+          "origin": "SOURCE"
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "value": "Appeler et présenter les mains avant de recevoir.",
+          "origin": "SOURCE"
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "value": "Atteindre dix passes.",
+          "origin": "SOURCE"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "note": "Durée totale non indiquée dans le texte consulté."
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "note": "Dimensions non indiquées dans le texte consulté."
+        }
+      }
+    }
+  ]
+}

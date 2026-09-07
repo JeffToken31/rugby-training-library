@@ -6,6 +6,7 @@ import re
 import sqlite3
 from pathlib import Path
 import library
+import enrichments
 
 ROOT=Path(__file__).resolve().parent
 def dump(x):
@@ -21,6 +22,7 @@ def connect(path):
       item_id TEXT REFERENCES session_exercises(id), variant_id TEXT REFERENCES variants(id),
       PRIMARY KEY(item_id,variant_id));
     """)
+    enrichments.schema(db)
     return db
 def put(db,table,row,key="id"):
     old=db.execute("SELECT * FROM "+table+" WHERE "+key+"=?",(row[key],)).fetchone()
@@ -88,8 +90,8 @@ def items(db,query="",status="",theme="",age="",minutes=None,players=None,basis=
     for row in db.execute("SELECT * FROM variants ORDER BY id"):
         if status and row["status"]!=status:
             continue
-        e=json.loads(row["parameters_json"])
-        haystack=" ".join(str(e.get(k) or "") for k in ("title","summary","theme","age_source","material","space","coach_points","adaptation_u8","u8_plan"))
+        e=enrichments.overlay(db,json.loads(row["parameters_json"]))
+        haystack=" ".join(str(e.get(k) or "") for k in ("title","summary","theme","age_source","material","space","coach_points","adaptation_u8","u8_plan","objectives","organisation","steps","instructions","success_criteria","common_errors"))
         if any(w not in library.fold(haystack) for w in library.fold(query).split()):
             continue
         if theme and library.fold(e.get("theme",""))!=library.fold(theme):
@@ -138,6 +140,7 @@ def main():
     p.add_argument("--db",type=Path,default=ROOT/"data/rugby-v2.sqlite")
     sub=p.add_subparsers(dest="cmd",required=True)
     q=sub.add_parser("import"); q.add_argument("files",nargs="+",type=Path)
+    q=sub.add_parser("enrich"); q.add_argument("file",type=Path)
     q=sub.add_parser("search"); q.add_argument("query",nargs="?",default=""); q.add_argument("--status",default="")
     q.add_argument("--theme",default="")
     q.add_argument("--age",default="",help="Texte dans l'âge source, pas validation U8")
@@ -154,6 +157,9 @@ def main():
             for path in a.files:
                 ingest(db,json.loads(path.read_text()))
             print("Import v2 terminé ; historique conservé.")
+        elif a.cmd=="enrich":
+            enrichments.ingest(db,json.loads(a.file.read_text()))
+            print("Enrichissement conservé sans modifier les lots historiques.")
         elif a.cmd=="search":
             found=items(db,a.query,a.status,a.theme,a.age,a.minutes,a.players,a.basis,a.material,a.sort)
             for e in found:

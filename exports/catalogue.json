@@ -451,6 +451,45 @@
       "summary": "Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la passe avant le tag et relance rapidement pour solliciter soutien et replacement. Les délais de passe de cette vidéo sont propres à ce jeu.",
       "theme": "jeu collectif",
       "title": "Avancer et passer avant le tag",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -482,6 +521,44 @@
       "summary": "Déplacements et manipulation, avec travail d’équilibre et d’observation.",
       "theme": "manipulation",
       "title": "Carré",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -516,6 +593,44 @@
       "summary": "Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.",
       "theme": "motricité",
       "title": "Carré 2",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -548,6 +663,46 @@
       "summary": "Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la dernière progression, chaque passe est suivie de demi-tours sautés avant la réception suivante. Le coach rapproche les plots lorsque les passes deviennent difficiles.",
       "theme": "coordination",
       "title": "Cercle de passes avec demi-tours sautés",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -577,6 +732,47 @@
       "summary": "Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.",
       "theme": "coopération",
       "title": "Cercle solidaire contre un poursuivant",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -608,6 +804,45 @@
       "summary": "Le coach annonce une couleur qui change la ligne visée par l’équipe en possession. Les équipes se réorganisent. La vidéo ajoute une pause de quatre secondes au défenseur après toucher.",
       "theme": "prise d’information",
       "title": "Changer de ligne d’essai",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -648,6 +883,47 @@
       "summary": "Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suivant part après l’essai ou la chute du ballon.",
       "theme": "motricité",
       "title": "Chasse aux trésors — parcours",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -682,6 +958,44 @@
       "summary": "Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute.",
       "theme": "passe",
       "title": "Chasseurs passeurs par trois",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -713,6 +1027,45 @@
       "summary": "Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente.",
       "theme": "coopération",
       "title": "Chasseurs qui se passent le ballon",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -745,6 +1098,48 @@
       "summary": "Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.",
       "theme": "prise d’information",
       "title": "Chercher les espaces libres",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -777,6 +1172,45 @@
       "summary": "Avancer en guidant le ballon alternativement des deux pieds vers une zone.",
       "theme": "jeu au pied",
       "title": "Conduire le ballon au pied",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public, texte consulté",
         "checked_on": "2026-09-06",
@@ -823,6 +1257,45 @@
       "summary": "Un joueur alterne les échanges avec deux ballons circulant sur des trajets différents. Rapprocher les partenaires et installer le rythme avant d’accélérer.",
       "theme": "manipulation",
       "title": "Coordonner deux ballons",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -851,6 +1324,48 @@
       "summary": "Maîtriser la remise en jeu et partir dans un espace libre.",
       "theme": "jeu au pied",
       "title": "Coup franc pour soi",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -880,6 +1395,45 @@
       "summary": "Parcourir cinq mètres à quatre pattes, dos horizontal.",
       "theme": "motricité",
       "title": "Déplacement à quatre appuis",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public, texte consulté",
         "checked_on": "2026-09-06",
@@ -918,6 +1472,47 @@
         "players_min": 6,
         "setup": "Deux ou trois trios ; un ballon par trio.",
         "steps": "Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage."
+      },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
       },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
@@ -965,6 +1560,44 @@
       "summary": "Objectif annoncé : se rendre disponible sans ballon et communiquer avec le porteur. Le déroulement n’est pas documenté dans le texte consulté.",
       "theme": "passe",
       "title": "Dix passes - variante communautaire documentee",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Description publique seulement ; déroulement non vérifié",
         "checked_on": "2026-09-06",
@@ -995,6 +1628,44 @@
       "summary": "Course vers la marque avec poursuite ; distances et lancement à compléter.",
       "theme": "déplacement",
       "title": "Duel long",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1029,6 +1700,44 @@
       "summary": "Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.",
       "theme": "coopération",
       "title": "Duels et soutien",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1061,6 +1770,46 @@
       "summary": "Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.",
       "theme": "coopération",
       "title": "Épouvantails — chasseurs passeurs",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1092,6 +1841,45 @@
       "summary": "Gagner des points en franchissant des zones et en soutenant l’avancée.",
       "theme": "jeu collectif",
       "title": "Gagne-terrain",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1119,6 +1907,45 @@
       "summary": "Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.",
       "theme": "prise d’information",
       "title": "Jeu de zone avec regroupements au signal",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1150,6 +1977,47 @@
       "summary": "Valoriser les passes qui font avancer dans un espace libre.",
       "theme": "prise d’information",
       "title": "Jouer les intervalles",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1179,6 +2047,46 @@
       "summary": "Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passant sous un bras.",
       "theme": "coopération",
       "title": "La boue et la délivrance",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1210,6 +2118,44 @@
       "summary": "Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. Recommencer après une minute.",
       "theme": "coopération",
       "title": "La chaîne",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -1251,6 +2197,45 @@
         "setup": "Aire délimitée ; rubans pour chacun.",
         "steps": "Deux chasseurs collectent les rubans. Courtes manches puis restitution et changement de chasseurs."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1289,6 +2274,45 @@
         "players_min": 6,
         "setup": "Deux lignes opposées, un chasseur et un espace large.",
         "steps": "Traverser au signal ; les touchés deviennent immobiles. Relancer avant encombrement."
+      },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
       },
       "source": {
         "access": "Description publique consultée",
@@ -1329,6 +2353,45 @@
         "setup": "Un ballon par enfant dans une aire espacée.",
         "steps": "Alterner déplacement et signaux poser-ramasser ou marquer. Ajouter un échange avec un voisin."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description publique consultée",
         "checked_on": "2026-09-06",
@@ -1368,6 +2431,47 @@
         "setup": "Un ou deux carrés de quatre enfants.",
         "steps": "Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1397,6 +2501,45 @@
       "summary": "Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejoint les chasseurs ; la poursuite continue jusqu’au dernier joueur.",
       "theme": "déplacement",
       "title": "Les extraterrestres",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1428,6 +2571,44 @@
       "summary": "Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.",
       "theme": "lutte",
       "title": "Les gazelles",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1470,6 +2651,45 @@
         "setup": "Portes espacées, deux équipes et un ballon.",
         "steps": "Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1499,6 +2719,45 @@
       "summary": "Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent immobiles. Chronométrer la capture de tout le groupe, puis changer les chasseurs.",
       "theme": "déplacement",
       "title": "Les statues",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1555,6 +2814,45 @@
         "setup": "Trois ou quatre nids espacés et plusieurs ballons.",
         "steps": "Rapporter un ballon à la fois depuis les nids voisins. Personne ne garde son nid. Compter puis recommencer."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1583,6 +2881,45 @@
       "summary": "Coopérer pour faire progresser le ballon malgré les défenseurs.",
       "theme": "coopération",
       "title": "L’auto-stoppeur",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1612,6 +2949,48 @@
       "summary": "Repérer les espaces ouverts par des défenseurs temporairement immobilisés.",
       "theme": "prise d’information",
       "title": "L’initiative",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1643,6 +3022,44 @@
       "summary": "Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.",
       "theme": "posture",
       "title": "Panthères et chenilles",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1685,6 +3102,47 @@
         "setup": "Binômes en couloirs parallèles ; un ballon par binôme.",
         "steps": "Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1714,6 +3172,45 @@
       "summary": "Deux équipes cherchent la zone d’essai par des passes ; la source propose cinq touchers pour marquer.",
       "theme": "jeu collectif",
       "title": "Passer dans la zone d’arrivée",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1743,6 +3240,47 @@
       "summary": "En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons.",
       "theme": "passe",
       "title": "Passes en triangle et changement de posture",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1772,6 +3310,71 @@
       "summary": "Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.",
       "theme": "passe",
       "title": "Passes latérales en vagues de trois",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner course, réception et passe."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Vagues de trois, avec une ligne repère."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Transmettre successivement puis travailler dans l’autre sens."
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester derrière le porteur et montrer les mains tôt."
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Receveur en avance sur le porteur."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "duration_min": {
+          "note": "Durée totale non indiquée dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "note": "Dimensions non indiquées dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "rc-lateral-three-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-07",
+        "locator": "Description / Video Subtitles — texte public consulté"
+      },
+      "common_errors": "Receveur en avance sur le porteur.",
+      "instructions": "Rester derrière le porteur et montrer les mains tôt.",
+      "objectives": "Enchaîner course, réception et passe.",
+      "organisation": "Vagues de trois, avec une ligne repère.",
+      "steps": "Transmettre successivement puis travailler dans l’autre sens.",
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1805,6 +3408,44 @@
       "summary": "Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.",
       "theme": "contact",
       "title": "Plaquage et libération",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1835,6 +3476,68 @@
       "summary": "Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.",
       "theme": "passe",
       "title": "Premières passes en ligne",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Apprendre à recevoir puis transmettre vers une cible."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs en ligne ; circulation du ballon dans les deux sens."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Commencer lentement à l’arrêt, puis augmenter la vitesse."
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire."
+        },
+        "success_criteria": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Le partenaire reçoit une passe dirigée vers ses mains."
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "note": "Durée totale non indiquée dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "note": "Dimensions non indiquées dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "rc-pass-start-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-07",
+        "locator": "Description / Video Subtitles — texte public consulté"
+      },
+      "instructions": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.",
+      "objectives": "Apprendre à recevoir puis transmettre vers une cible.",
+      "organisation": "Joueurs en ligne ; circulation du ballon dans les deux sens.",
+      "steps": "Commencer lentement à l’arrêt, puis augmenter la vitesse.",
+      "success_criteria": "Le partenaire reçoit une passe dirigée vers ses mains.",
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1868,6 +3571,44 @@
       "summary": "Protéger son équilibre face à l’adversaire ; organisation à compléter.",
       "theme": "lutte",
       "title": "Protège-ballon",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1900,6 +3641,71 @@
       "summary": "Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur.",
       "theme": "passe",
       "title": "Quatre passeurs contre un intercepteur",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Décider rapidement et conserver le ballon."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quatre passeurs contre un intercepteur."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher une série de dix passes."
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Appeler et présenter les mains avant de recevoir."
+        },
+        "success_criteria": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Atteindre dix passes."
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "duration_min": {
+          "note": "Durée totale non indiquée dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "note": "Dimensions non indiquées dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "rc-four-one-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-07",
+        "locator": "Description / Video Subtitles — texte public consulté"
+      },
+      "instructions": "Appeler et présenter les mains avant de recevoir.",
+      "objectives": "Décider rapidement et conserver le ballon.",
+      "organisation": "Quatre passeurs contre un intercepteur.",
+      "steps": "Chercher une série de dix passes.",
+      "success_criteria": "Atteindre dix passes.",
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1931,6 +3737,45 @@
       "summary": "Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloigner progressivement la cible.",
       "theme": "passe",
       "title": "Ramasser puis transmettre",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public, texte consulté",
         "checked_on": "2026-09-06",
@@ -1970,6 +3815,45 @@
         "setup": "Paires face à face avec deux refuges.",
         "steps": "Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -1999,6 +3883,47 @@
       "summary": "Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond avec un partenaire. Une progression travaille la réception d’une seule main en changeant de côté.",
       "theme": "manipulation",
       "title": "Rebondir et échanger en binôme",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -2028,6 +3953,45 @@
       "summary": "Réceptionner une passe pendant un déplacement au petit trot.",
       "theme": "passe",
       "title": "Recevoir en trottinant",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public, texte consulté",
         "checked_on": "2026-09-06",
@@ -2059,6 +4023,44 @@
       "summary": "Courir entre deux plots, aplatir, revenir puis transmettre au suivant.",
       "theme": "motricité",
       "title": "Relais avec essai",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -2092,6 +4094,44 @@
       "summary": "Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.",
       "theme": "motricité",
       "title": "Relais — courir, rouler, passer",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -2134,6 +4174,45 @@
         "setup": "Quatre zones cibles, deux équipes et un ballon.",
         "steps": "Marquer en passant à un partenaire dans une cible. Proposition : au toucher, le porteur s’arrête et peut passer ; le défenseur recule."
       },
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -2167,6 +4246,48 @@
       "summary": "Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejoindre son refuge. Trois couloirs pour six enfants.",
       "theme": "réactivité",
       "title": "Speedy — un ballon chacun",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -2203,6 +4324,47 @@
       "summary": "Même départ visuel ; les deux adversaires se disputent désormais un seul ballon.",
       "theme": "réactivité",
       "title": "Speedy — un ballon pour deux",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -2235,6 +4397,45 @@
       "summary": "La première situation invite chacun à récolter des rubans. Une progression fige les joueurs touchés et permet à un partenaire de les délivrer en passant sous leurs bras.",
       "theme": "déplacement",
       "title": "Tag mania et délivrance",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -2266,6 +4467,46 @@
       "summary": "À deux, tenir une chasuble comme filet ; de la main libre, réceptionner puis lâcher le ballon par-dessus.",
       "theme": "coordination",
       "title": "Tennis à la main",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -2297,6 +4538,66 @@
       "summary": "En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent à leur ligne d’essai pendant que l’attaque continue. La source impose une passe sous une seconde après toucher et un genou au sol au défenseur qui touche.",
       "theme": "prise d’information",
       "title": "Toucher avec rappel des défenseurs par couleur",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Exploiter un espace libéré par la défense."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Équipes opposées ; défenseurs identifiables par couleur."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit."
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille."
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "duration_min": {
+          "note": "Durée totale non indiquée dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "note": "Dimensions non indiquées dans le texte consulté.",
+          "state": "NOT_STATED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "rc-colour-touch-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-07",
+        "locator": "Description / Video Subtitles — texte public consulté"
+      },
+      "instructions": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.",
+      "objectives": "Exploiter un espace libéré par la défense.",
+      "organisation": "Équipes opposées ; défenseurs identifiables par couleur.",
+      "steps": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.",
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -2328,6 +4629,45 @@
       "summary": "Passer au partenaire tout en trottinant avec le ballon.",
       "theme": "passe",
       "title": "Transmettre en trottinant",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "PDF public, texte consulté",
         "checked_on": "2026-09-06",
@@ -2357,6 +4697,47 @@
       "summary": "Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent progressivement la défense, qui s’organise pour fermer les espaces.",
       "theme": "déplacement",
       "title": "Traverser face aux chasseurs",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -2388,6 +4769,44 @@
       "summary": "Franchir les carrés sans être touché. Les défenseurs restent dans leur carré ; les remplacer après quatre-vingt-dix secondes.",
       "theme": "évitement",
       "title": "Traverser les zones gardées",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -2421,6 +4840,46 @@
       "summary": "Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement de trois gagne.",
       "theme": "prise d’information",
       "title": "Trois joueurs alignés",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "state": "NOT_EXTRACTED"
+        },
+        "steps": {
+          "state": "NOT_EXTRACTED"
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
