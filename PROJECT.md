@@ -28,3 +28,5 @@ Autonomie confirmée : enchaîner les lots sans demander de relance. Compte Rugb
 World Rugby : deux situations sans contact avec durée et effectif par atelier. Le périmètre de l’effectif apparaît dans la fiche et le CSV pour éviter de confondre cinq joueurs par atelier et trente au total.
 
 Reprise automatique actualisée le 8 septembre : toutes les cinq minutes, au lieu de trente ; enchaîner les lots complets et ne solliciter que pour une intervention nécessaire. Trois fiches U7 Rugby Toolbox ajoutées avec captures : binômes guidés, chasse collective et opposition sans ballon.
+
+Consultation : exports/FICHES_DETAILLEES.md sélectionne les fiches disposant d’une organisation et d’un déroulement sourcés. Recherche par présence de champs, origine et organisme disponible ; 36 tests.

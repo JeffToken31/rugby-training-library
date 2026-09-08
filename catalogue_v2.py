@@ -80,17 +80,27 @@ def ingest(db,payload):
                     db.execute("INSERT OR IGNORE INTO session_item_variants VALUES(?,?)",(id,v))
         for c in payload.get("duplicate_candidates",[]):
             put(db,"duplicate_candidates",c)
-def items(db,query="",status="",theme="",age="",minutes=None,players=None,basis="source",material="",sort="title"):
+def items(db,query="",status="",theme="",age="",minutes=None,players=None,basis="source",material="",sort="title",has_fields=(),field_origin=None,provider=""):
     if basis not in ("source","proposal") or sort not in ("title","duration","players"):
         raise ValueError("Filtre inconnu")
     if any(x is not None and (type(x) is not int or x<=0) for x in (minutes,players)):
         raise ValueError("Durée et effectif doivent être des entiers positifs")
+    if any(field not in enrichments.FIELDS for field in has_fields):
+        raise ValueError("Champ de couverture inconnu")
+    if field_origin not in (None,"SOURCE","AI_INFERRED","COACH_VALIDATED","LEGACY_UNREVIEWED"):
+        raise ValueError("Origine de champ inconnue")
+    if field_origin and not has_fields:
+        raise ValueError("L’origine exige au moins un champ")
     result=[]
     sources={r["id"]:json.loads(r["metadata_json"]) for r in db.execute("SELECT * FROM resources")}
     for row in db.execute("SELECT * FROM variants ORDER BY id"):
         if status and row["status"]!=status:
             continue
         e=enrichments.overlay(db,json.loads(row["parameters_json"]))
+        if provider and library.fold(provider) not in library.fold(sources[e["source_id"]].get("publisher", "")):
+            continue
+        if any(e["field_coverage"][field]["state"]!="PRESENT" or (field_origin and e["field_coverage"][field].get("origin")!=field_origin) for field in has_fields):
+            continue
         haystack=" ".join(str(e.get(k) or "") for k in ("title","summary","theme","age_source","material","space","coach_points","adaptation_u8","u8_plan","objectives","organisation","steps","instructions","success_criteria","common_errors"))
         if any(w not in library.fold(haystack) for w in library.fold(query).split()):
             continue
@@ -134,6 +144,11 @@ def export(db,out):
                 lines += [f"  - [Fiche {id}](fiches/{id}.md)"]
         lines += [""]
     (out/"SEANCES.md").write_text("\n".join(lines)+"\n")
+    selected=[e for e in result if all(e["field_coverage"][field]["state"]=="PRESENT" and e["field_coverage"][field].get("origin")=="SOURCE" for field in ("organisation","steps"))]
+    selection=["# Fiches avec organisation et déroulement sourcés", "", "Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.", "", str(len(selected))+" fiches.", ""]
+    for e in selected:
+        selection.append("- ["+e["title"]+"](fiches/"+e["id"]+".md) — "+e["theme"]+" ; "+e["source"].get("publisher", "Organisme non renseigné"))
+    (out/"FICHES_DETAILLEES.md").write_text("\n".join(selection)+"\n",encoding="utf-8")
     import comparisons
     comparisons.export(db,out,result)
     return len(result)
@@ -150,6 +165,9 @@ def main():
     q.add_argument("--players",type=int)
     q.add_argument("--basis",choices=("source","proposal"),default="source")
     q.add_argument("--material",default="")
+    q.add_argument("--has-field",action="append",choices=enrichments.FIELDS,default=[],help="Champ présent requis ; répétable")
+    q.add_argument("--field-origin",choices=("SOURCE","AI_INFERRED","COACH_VALIDATED","LEGACY_UNREVIEWED"),help="Origine exigée pour chacun des champs requis")
+    q.add_argument("--provider",default="",help="Texte dans le nom de l’organisme principal")
     q.add_argument("--sort",choices=("title","duration","players"),default="title")
     q=sub.add_parser("export"); q.add_argument("--out",type=Path,default=ROOT/"exports")
     sub.add_parser("stats")
@@ -163,7 +181,7 @@ def main():
             enrichments.ingest(db,json.loads(a.file.read_text()))
             print("Enrichissement conservé sans modifier les lots historiques.")
         elif a.cmd=="search":
-            found=items(db,a.query,a.status,a.theme,a.age,a.minutes,a.players,a.basis,a.material,a.sort)
+            found=items(db,a.query,a.status,a.theme,a.age,a.minutes,a.players,a.basis,a.material,a.sort,a.has_field,a.field_origin,a.provider)
             for e in found:
                 print(e["id"]+" | "+e["title"]+" | "+e["model_status"])
             print(str(len(found))+" résultat(s). Paramètres : "+a.basis+". Les inconnues sont exclues des filtres numériques.")

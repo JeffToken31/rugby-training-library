@@ -55,3 +55,9 @@ Lire [le bilan du lot](docs/LOT_2026-09-08.md) et [la couverture des information
 [Comparer les exercices proches](exports/COMPARAISONS.md) : pistes de rapprochement et différences de règles, sans fusion automatique.
 
 Les enrichissements acceptent désormais des révisions successives avec historique et provenance par champ. Voir [le lot continu](docs/LOT_CONTINU_2026-09-08.md).
+
+## Choisir des fiches suffisamment décrites
+
+[Organisation et déroulement sourcés](exports/FICHES_DETAILLEES.md) propose une sélection générée à chaque export. Elle ne signifie pas validation terrain.
+
+Recherche combinable : `python3 catalogue_v2.py search --has-field organisation --has-field steps --field-origin SOURCE --provider World`. Chaque champ demandé doit être présent et avoir l’origine exigée. L’organisme recherché est celui de la source principale. Ces options se combinent aux thèmes, durées et effectifs. Sans filtre d’origine, les propositions identifiées et les valeurs historiques sont également admissibles.

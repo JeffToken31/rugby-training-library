@@ -79,3 +79,17 @@ class EnrichmentTests(unittest.TestCase):
         item=next(e for e in v2.items(self.db) if e["id"]==old["variant_id"])
         self.assertIsNone(item["success_criteria"])
         self.assertEqual(len(item["enrichment_history"]),2)
+
+    def test_required_fields_and_origin_are_combined(self):
+        enrichments.ingest(self.db,self.payload)
+        found=v2.items(self.db,has_fields=("objectives","steps"),field_origin="SOURCE",provider="rugbycoaching")
+        self.assertTrue(found)
+        self.assertFalse(v2.items(self.db,has_fields=("objectives",),field_origin="SOURCE",provider="absent"))
+        inferred=v2.items(self.db,has_fields=("success_criteria",),field_origin="AI_INFERRED")
+        self.assertTrue(inferred)
+        sourced=v2.items(self.db,has_fields=("success_criteria",),field_origin="SOURCE")
+        self.assertNotIn("rc-pass-start",{e["id"] for e in sourced})
+        with self.assertRaises(ValueError):
+            v2.items(self.db,field_origin="SOURCE")
+        with self.assertRaises(ValueError):
+            v2.items(self.db,has_fields=("nonexistent",))
