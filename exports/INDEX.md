@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-72 fiches — les propositions terrain restent à valider par le coach.
+75 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -16,6 +16,7 @@
 |---|---|---|
 | [Capturer les extraterrestres par la passe](fiches/rc-capture-aliens.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
+| [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) | Under 7 (classement Rugby Toolbox) | Documentée ; à valider |
 | [Chasseurs qui se passent le ballon](fiches/munster-hunters.md) | Primaire / mini-rugby | Documentée ; à valider |
 | [Course autour des bases contre trois passes](fiches/rc-rounders.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Duels et soutien](fiches/ffr-duels-atelier.md) | M8 | À compléter |
@@ -119,12 +120,14 @@
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Binômes guidés par le signal du coach](fiches/nz-follow.md) | Under 7 (classement Rugby Toolbox) | Documentée ; à valider |
 | [Changer de ligne d’essai](fiches/rc-multidirection.md) | U7 (classement du site) | Documentée ; à valider |
 | [Chercher les espaces libres](fiches/ffr-espaces2023.md) | M8 | Documentée ; à valider |
 | [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Jouer les intervalles](fiches/ffr-interval.md) | M8 | Documentée ; à valider |
 | [Les portes à franchir](fiches/munster-gates.md) | Primaire / mini-rugby | 8 min / 6–10 enfants |
 | [L’initiative](fiches/ffr-initiative.md) | M8 | Documentée ; à valider |
+| [Opposition sans ballon, attaquant désigné](fiches/nz-no-ball.md) | Under 7 (classement Rugby Toolbox) | Documentée ; à valider |
 | [Quatre cibles, porteur immobile](fiches/rc-chaos-touch.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Tag : défenseurs numérotés](fiches/rc-numbers-tag.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Toucher avec rappel des défenseurs par couleur](fiches/rc-colour-touch.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |

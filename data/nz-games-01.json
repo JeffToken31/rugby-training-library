@@ -1,0 +1,93 @@
+{
+  "sources": [
+    {
+      "id": "nz-follow-source",
+      "title": "Binômes guidés par le signal du coach",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+      "qualification_note": "Fiche dédiée à une situation, classée Under 7."
+    },
+    {
+      "id": "nz-corner-source",
+      "title": "Chasse collective avec retour après ballon tombé",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/corner-ball",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+      "qualification_note": "Fiche dédiée à une situation, classée Under 7."
+    },
+    {
+      "id": "nz-no-ball-source",
+      "title": "Opposition sans ballon, attaquant désigné",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+      "qualification_note": "Fiche dédiée à une situation, classée Under 7."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "nz-follow",
+      "source_id": "nz-follow-source",
+      "title": "Binômes guidés par le signal du coach",
+      "summary": "Deux partenaires échangent ; un seul voit le coach.",
+      "theme": "prise d’information",
+      "age_source": "Under 7 (classement Rugby Toolbox)",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "duration_min": null,
+      "players_min": 2,
+      "players_max": 2,
+      "participants_scope": "Par binôme ; plusieurs binômes possibles",
+      "space": "Grand espace, partenaires à environ un mètre",
+      "material": "Un ballon par binôme",
+      "status": "documented",
+      "review": "Vérification documentaire ; adéquation U8 et validation terrain à confirmer."
+    },
+    {
+      "id": "nz-corner",
+      "source_id": "nz-corner-source",
+      "title": "Chasse collective avec retour après ballon tombé",
+      "summary": "Deux équipes dans le carré ; le porteur reste immobile.",
+      "theme": "coopération",
+      "age_source": "Under 7 (classement Rugby Toolbox)",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "duration_min": null,
+      "players_min": 10,
+      "players_max": 20,
+      "participants_scope": "Total réparti en deux équipes",
+      "space": "Carré de 10 × 10 m",
+      "material": "Un ballon et quatre plots",
+      "status": "documented",
+      "review": "Vérification documentaire ; adéquation U8 et validation terrain à confirmer."
+    },
+    {
+      "id": "nz-no-ball",
+      "source_id": "nz-no-ball-source",
+      "title": "Opposition sans ballon, attaquant désigné",
+      "summary": "Deux équipes face à face, à dix mètres. Un attaquant lève la main.",
+      "theme": "prise d’information",
+      "age_source": "Under 7 (classement Rugby Toolbox)",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": 10,
+      "participants_scope": "Total ; minimum non indiqué",
+      "space": "10 × 15 m",
+      "material": "Chasubles",
+      "status": "documented",
+      "review": "Vérification documentaire ; adéquation U8 et validation terrain à confirmer."
+    }
+  ]
+}

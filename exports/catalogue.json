@@ -158,6 +158,42 @@
       "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
     },
     {
+      "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-corner-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Fiche dédiée à une situation, classée Under 7.",
+      "resource_type": "WEB_PAGE",
+      "title": "Chasse collective avec retour après ballon tombé",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/corner-ball"
+    },
+    {
+      "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-follow-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Fiche dédiée à une situation, classée Under 7.",
+      "resource_type": "WEB_PAGE",
+      "title": "Binômes guidés par le signal du coach",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1"
+    },
+    {
+      "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-no-ball-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Fiche dédiée à une situation, classée Under 7.",
+      "resource_type": "WEB_PAGE",
+      "title": "Opposition sans ballon, attaquant désigné",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9"
+    },
+    {
       "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
       "checked_on": "2026-09-06",
       "id": "rc-aliens",
@@ -817,6 +853,138 @@
         "publisher": "RugbyCoaching.tv",
         "title": "Tag Game - Tag Rugby 1",
         "url": "https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement Rugby Toolbox)",
+      "duration_min": null,
+      "id": "nz-follow",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "material": "Un ballon par binôme",
+      "participants_scope": "Par binôme ; plusieurs binômes possibles",
+      "players_max": 2,
+      "players_min": 2,
+      "review": "Vérification documentaire ; adéquation U8 et validation terrain à confirmer.",
+      "source_id": "nz-follow-source",
+      "space": "Grand espace, partenaires à environ un mètre",
+      "status": "documented",
+      "summary": "Deux partenaires échangent ; un seul voit le coach.",
+      "theme": "prise d’information",
+      "title": "Binômes guidés par le signal du coach",
+      "coach_points": "Communiquer et rester proches.",
+      "organisation": "Deux partenaires échangent ; un seul voit le coach.",
+      "steps": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux partenaires échangent ; un seul voit le coach.",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-follow-detail-2",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-follow-detail-2",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Communiquer et rester proches.",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-follow-detail-2",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-follow-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-follow-detail-2",
+        "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-follow-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-follow-detail-2",
+          "supersedes": "nz-follow-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Rattachement à la capture locale réussie."
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-follow-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Fiche dédiée à une situation, classée Under 7.",
+        "resource_type": "WEB_PAGE",
+        "title": "Binômes guidés par le signal du coach",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -1568,6 +1736,138 @@
         "resource_type": "TECHNICAL_DOCUMENT",
         "title": "Plan de formation du joueur M8 — mars 2023",
         "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement Rugby Toolbox)",
+      "duration_min": null,
+      "id": "nz-corner",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "material": "Un ballon et quatre plots",
+      "participants_scope": "Total réparti en deux équipes",
+      "players_max": 20,
+      "players_min": 10,
+      "review": "Vérification documentaire ; adéquation U8 et validation terrain à confirmer.",
+      "source_id": "nz-corner-source",
+      "space": "Carré de 10 × 10 m",
+      "status": "documented",
+      "summary": "Deux équipes dans le carré ; le porteur reste immobile.",
+      "theme": "coopération",
+      "title": "Chasse collective avec retour après ballon tombé",
+      "coach_points": "Se concentrer sur une cible et offrir un soutien proche.",
+      "organisation": "Deux équipes dans le carré ; le porteur reste immobile.",
+      "steps": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes dans le carré ; le porteur reste immobile.",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-corner-detail-2",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-corner-detail-2",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se concentrer sur une cible et offrir un soutien proche.",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-corner-detail-2",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-corner-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-corner-detail-2",
+        "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-corner-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-corner-detail-2",
+          "supersedes": "nz-corner-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Rattachement à la capture locale réussie."
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-corner-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Fiche dédiée à une situation, classée Under 7.",
+        "resource_type": "WEB_PAGE",
+        "title": "Chasse collective avec retour après ballon tombé",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/corner-ball"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -4768,6 +5068,137 @@
         "publisher": "FFR / DTN",
         "title": "Plan de formation M8 — septembre 2020",
         "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement Rugby Toolbox)",
+      "duration_min": null,
+      "id": "nz-no-ball",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "material": "Chasubles",
+      "participants_scope": "Total ; minimum non indiqué",
+      "players_max": 10,
+      "players_min": null,
+      "review": "Vérification documentaire ; adéquation U8 et validation terrain à confirmer.",
+      "source_id": "nz-no-ball-source",
+      "space": "10 × 15 m",
+      "status": "documented",
+      "summary": "Deux équipes face à face, à dix mètres. Un attaquant lève la main.",
+      "theme": "prise d’information",
+      "title": "Opposition sans ballon, attaquant désigné",
+      "coach_points": "Reconnaître rapidement le nouveau porteur symbolique.",
+      "organisation": "Deux équipes face à face, à dix mètres. Un attaquant lève la main.",
+      "steps": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes face à face, à dix mètres. Un attaquant lève la main.",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-no-ball-detail-2",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-no-ball-detail-2",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Reconnaître rapidement le nouveau porteur symbolique.",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-no-ball-detail-2",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-no-ball-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-no-ball-detail-2",
+        "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-no-ball-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-no-ball-detail-2",
+          "supersedes": "nz-no-ball-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Rattachement à la capture locale réussie."
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-no-ball-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Fiche dédiée à une situation, classée Under 7.",
+        "resource_type": "WEB_PAGE",
+        "title": "Opposition sans ballon, attaquant désigné",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9"
       },
       "model_status": "REVIEWED",
       "references": []

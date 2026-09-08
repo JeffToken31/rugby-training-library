@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-72 fiches · 49 sources
+75 fiches · 52 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -60,6 +60,34 @@ Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la p
 Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
 
 **Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
+
+## Binômes guidés par le signal du coach
+
+**prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+
+Deux partenaires échangent ; un seul voit le coach.
+
+**Matériel :** Un ballon par binôme
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2 — Par binôme ; plusieurs binômes possibles
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+
+**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+
+**Organisation :** Deux partenaires échangent ; un seul voit le coach.
+
+**Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Points coach issus de la source :** Communiquer et rester proches.
+
+**Espace source :** Grand espace, partenaires à environ un mètre
 
 ## Capturer les extraterrestres par la passe
 
@@ -226,6 +254,34 @@ Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suiva
 **Accès :** PDF public consulté
 
 **Information source contradictoire :** Matériel : 5 ; récit : 6.
+
+## Chasse collective avec retour après ballon tombé
+
+**coopération · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+
+Deux équipes dans le carré ; le porteur reste immobile.
+
+**Matériel :** Un ballon et quatre plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 10–20 — Total réparti en deux équipes
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+
+**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+
+**Organisation :** Deux équipes dans le carré ; le porteur reste immobile.
+
+**Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
+
+**Espace source :** Carré de 10 × 10 m
 
 ## Chasse et arrêt dans un espace libre
 
@@ -1057,6 +1113,34 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 
 **Accès :** PDF public consulté
 
+## Opposition sans ballon, attaquant désigné
+
+**prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+
+Deux équipes face à face, à dix mètres. Un attaquant lève la main.
+
+**Matériel :** Chasubles
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné — Total ; minimum non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+
+**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+
+**Organisation :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
+
+**Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
+
+**Espace source :** 10 × 15 m
+
 ## Panthères et chenilles
 
 **posture · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -1853,6 +1937,9 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
+- [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) — Page publique découverte ; capture et contenu à vérifier.

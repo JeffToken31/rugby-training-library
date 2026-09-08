@@ -1,0 +1,163 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-follow-detail-1",
+      "variant_id": "nz-follow",
+      "source_id": "nz-follow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux partenaires échangent ; un seul voit le coach."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Communiquer et rester proches."
+        }
+      }
+    },
+    {
+      "id": "nz-corner-detail-1",
+      "variant_id": "nz-corner",
+      "source_id": "nz-corner-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes dans le carré ; le porteur reste immobile."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se concentrer sur une cible et offrir un soutien proche."
+        }
+      }
+    },
+    {
+      "id": "nz-no-ball-detail-1",
+      "variant_id": "nz-no-ball",
+      "source_id": "nz-no-ball-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes face à face, à dix mètres. Un attaquant lève la main."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Reconnaître rapidement le nouveau porteur symbolique."
+        }
+      }
+    },
+    {
+      "id": "nz-follow-detail-2",
+      "variant_id": "nz-follow",
+      "source_id": "nz-follow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux partenaires échangent ; un seul voit le coach."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Communiquer et rester proches."
+        }
+      },
+      "supersedes": "nz-follow-detail-1",
+      "revision_reason": "Rattachement à la capture locale réussie.",
+      "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b"
+    },
+    {
+      "id": "nz-corner-detail-2",
+      "variant_id": "nz-corner",
+      "source_id": "nz-corner-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes dans le carré ; le porteur reste immobile."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se concentrer sur une cible et offrir un soutien proche."
+        }
+      },
+      "supersedes": "nz-corner-detail-1",
+      "revision_reason": "Rattachement à la capture locale réussie.",
+      "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a"
+    },
+    {
+      "id": "nz-no-ball-detail-2",
+      "variant_id": "nz-no-ball",
+      "source_id": "nz-no-ball-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes face à face, à dix mètres. Un attaquant lève la main."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Reconnaître rapidement le nouveau porteur symbolique."
+        }
+      },
+      "supersedes": "nz-no-ball-detail-1",
+      "revision_reason": "Rattachement à la capture locale réussie.",
+      "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d"
+    }
+  ]
+}

@@ -10,7 +10,8 @@
     "data/comparisons-01.json",
     "data/rounders-01.json",
     "data/ffr-guide-2023.json",
-    "data/world-rugby-01.json"
+    "data/world-rugby-01.json",
+    "data/nz-games-01.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -21,7 +22,8 @@
     "data/enrichment-cooperation-02.json",
     "data/enrichment-ffr-guide-2023.json",
     "data/enrichment-revisions-01.json",
-    "data/enrichment-world-rugby-01.json"
+    "data/enrichment-world-rugby-01.json",
+    "data/enrichment-nz-01.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -72,6 +74,9 @@
     "rc-rounders-source",
     "rc-breakout-source",
     "ffr-guide-m8-2023",
-    "wr-noncontact"
+    "wr-noncontact",
+    "nz-follow-source",
+    "nz-corner-source",
+    "nz-no-ball-source"
   ]
 }

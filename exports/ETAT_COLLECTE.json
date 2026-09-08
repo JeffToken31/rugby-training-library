@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T17:10:15.946330+00:00",
-  "variants": 72,
-  "documented": 63,
+  "generated_at": "2026-09-08T17:16:55.011014+00:00",
+  "variants": 75,
+  "documented": 66,
   "incomplete": 9,
-  "enriched": 36,
-  "resources": 49,
-  "captured_resources": 41,
+  "enriched": 39,
+  "resources": 52,
+  "captured_resources": 44,
   "families": 1,
   "events": [],
   "resource_inventory": [
@@ -161,6 +161,39 @@
         "state": "BLOCKED",
         "error": "Vérification robots impossible : 403",
         "started_at": "2026-09-08T12:00:18.554219+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-corner-source",
+      "title": "Chasse collective avec retour après ballon tombé",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/corner-ball",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:15:40.501845+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-follow-source",
+      "title": "Binômes guidés par le signal du coach",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:15:36.143783+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-no-ball-source",
+      "title": "Opposition sans ballon, attaquant désigné",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:15:44.415925+00:00"
       }
     },
     {
