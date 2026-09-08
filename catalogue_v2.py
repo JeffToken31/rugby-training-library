@@ -134,6 +134,8 @@ def export(db,out):
                 lines += [f"  - [Fiche {id}](fiches/{id}.md)"]
         lines += [""]
     (out/"SEANCES.md").write_text("\n".join(lines)+"\n")
+    import comparisons
+    comparisons.export(db,out,result)
     return len(result)
 def main():
     p=argparse.ArgumentParser()

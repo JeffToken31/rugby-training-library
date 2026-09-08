@@ -1,0 +1,40 @@
+{
+  "duplicate_candidates": [
+    {
+      "id": "rc-aliens--rc-capture-aliens",
+      "left_id": "rc-aliens",
+      "right_id": "rc-capture-aliens",
+      "score": 0.65,
+      "relation": "UNDECIDED",
+      "method_version": "editorial-2",
+      "explanation": "Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité."
+    },
+    {
+      "id": "rc-capture-aliens--scot-corner",
+      "left_id": "rc-capture-aliens",
+      "right_id": "scot-corner",
+      "score": 0.8,
+      "relation": "UNDECIDED",
+      "method_version": "editorial-2",
+      "explanation": "Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité."
+    },
+    {
+      "id": "rc-chaos-touch--rc-netball",
+      "left_id": "rc-chaos-touch",
+      "right_id": "rc-netball",
+      "score": 0.75,
+      "relation": "UNDECIDED",
+      "method_version": "editorial-2",
+      "explanation": "Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité."
+    },
+    {
+      "id": "rc-calling-pairs--rc-pairs",
+      "left_id": "rc-calling-pairs",
+      "right_id": "rc-pairs",
+      "score": 0.6,
+      "relation": "UNDECIDED",
+      "method_version": "editorial-2",
+      "explanation": "Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité."
+    }
+  ]
+}

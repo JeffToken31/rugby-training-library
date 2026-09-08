@@ -51,3 +51,5 @@ Depuis le dossier du projet, `python3 pipeline.py` reconstruit les données et t
 `python3 pipeline.py --collect --limit 20` ajoute une collecte bornée des ressources du manifeste. Les captures existantes sont réutilisées. Un échec de collecte n’empêche pas les autres ressources ni les exports. Les accès bloqués sont différés ; aucune authentification n’est automatisée.
 
 Lire [le bilan du lot](docs/LOT_2026-09-08.md) et [la couverture des informations](exports/ETAT_COLLECTE.md). Pour vérifier : `python3 -m unittest discover -s tests -q`.
+
+[Comparer les exercices proches](exports/COMPARAISONS.md) : pistes de rapprochement et différences de règles, sans fusion automatique.

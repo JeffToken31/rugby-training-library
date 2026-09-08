@@ -6,7 +6,8 @@
     "data/rc-young-games.json",
     "data/rc-cooperation.json",
     "data/games-batch-03.json",
-    "data/scotland-games-02.json"
+    "data/scotland-games-02.json",
+    "data/comparisons-01.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
