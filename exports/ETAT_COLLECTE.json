@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T17:24:15.630501+00:00",
-  "variants": 75,
-  "documented": 66,
+  "generated_at": "2026-09-08T17:37:08.818672+00:00",
+  "variants": 79,
+  "documented": 70,
   "incomplete": 9,
-  "enriched": 39,
-  "resources": 52,
-  "captured_resources": 44,
+  "enriched": 43,
+  "resources": 56,
+  "captured_resources": 48,
   "families": 1,
   "events": [],
   "resource_inventory": [
@@ -164,6 +164,28 @@
       }
     },
     {
+      "resource_id": "nz-awareness-source",
+      "title": "Manipulations autour du corps",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/ball-awareness",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:32:33.602634+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-circle-source",
+      "title": "Passes en cercle tourné vers l’extérieur",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/passing-circle",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:32:41.381553+00:00"
+      }
+    },
+    {
       "resource_id": "nz-corner-source",
       "title": "Chasse collective avec retour après ballon tombé",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/corner-ball",
@@ -194,6 +216,28 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:15:44.415925+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-pick-place-source",
+      "title": "Ramasser, porter et reposer",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/pick-place",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:32:28.925914+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-touchdown-source",
+      "title": "Passer puis échapper au poursuivant",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/touchdown",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:32:37.650827+00:00"
       }
     },
     {

@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-75 fiches ; 66 documentées ; 9 incomplètes.
-39 fiches enrichies ; 52 ressources ; 44 ressources capturées localement.
+79 fiches ; 70 documentées ; 9 incomplètes.
+43 fiches enrichies ; 56 ressources ; 48 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 27 | 48 | 0 | 0 | 0 |
-| organisation | 37 | 38 | 0 | 0 | 0 |
-| steps | 38 | 37 | 0 | 0 | 0 |
-| instructions | 30 | 45 | 0 | 0 | 0 |
-| success_criteria | 5 | 70 | 0 | 0 | 0 |
-| common_errors | 1 | 74 | 0 | 0 | 0 |
-| coach_points | 12 | 63 | 0 | 0 | 0 |
-| duration_min | 5 | 66 | 4 | 0 | 0 |
-| players_min | 23 | 52 | 0 | 0 | 0 |
-| players_max | 24 | 51 | 0 | 0 | 0 |
-| space | 9 | 62 | 4 | 0 | 0 |
-| material | 59 | 16 | 0 | 0 | 0 |
+| objectives | 27 | 52 | 0 | 0 | 0 |
+| organisation | 41 | 38 | 0 | 0 | 0 |
+| steps | 42 | 37 | 0 | 0 | 0 |
+| instructions | 34 | 45 | 0 | 0 | 0 |
+| success_criteria | 5 | 74 | 0 | 0 | 0 |
+| common_errors | 1 | 78 | 0 | 0 | 0 |
+| coach_points | 12 | 67 | 0 | 0 | 0 |
+| duration_min | 5 | 70 | 4 | 0 | 0 |
+| players_min | 26 | 53 | 0 | 0 | 0 |
+| players_max | 27 | 52 | 0 | 0 | 0 |
+| space | 13 | 62 | 4 | 0 | 0 |
+| material | 63 | 16 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -47,9 +47,13 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; dernière tentative : FAILED le 2026-09-08T16:13:04.294461+00:00 — Taille maximale dépassée
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-07T17:25:51.993926+00:00 — Accès interdit par robots.txt
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T12:00:18.554219+00:00 — Vérification robots impossible : 403
+- [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:33.602634+00:00
+- [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:41.381553+00:00
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:36.143783+00:00
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:44.415925+00:00
+- [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:28.925914+00:00
+- [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:37.650827+00:00
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:26.445516+00:00
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:49.947418+00:00
 - [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:40:31.119741+00:00

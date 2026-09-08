@@ -1,0 +1,118 @@
+{
+  "sources": [
+    {
+      "id": "nz-pick-place-source",
+      "title": "Ramasser, porter et reposer",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/pick-place",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes."
+    },
+    {
+      "id": "nz-awareness-source",
+      "title": "Manipulations autour du corps",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/ball-awareness",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes."
+    },
+    {
+      "id": "nz-touchdown-source",
+      "title": "Passer puis échapper au poursuivant",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/touchdown",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes."
+    },
+    {
+      "id": "nz-circle-source",
+      "title": "Passes en cercle tourné vers l’extérieur",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/passing-circle",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "nz-pick-place",
+      "source_id": "nz-pick-place-source",
+      "title": "Ramasser, porter et reposer",
+      "summary": "Une file traverse une zone où les ballons sont dispersés.",
+      "theme": "manipulation",
+      "age_source": "Under 7 (classement du site)",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "players_min": 15,
+      "players_max": 20,
+      "duration_min": null,
+      "space": "20 × 20 m",
+      "material": "Cinq à huit ballons",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée."
+    },
+    {
+      "id": "nz-awareness",
+      "source_id": "nz-awareness-source",
+      "title": "Manipulations autour du corps",
+      "summary": "Joueurs espacés dans la zone.",
+      "theme": "manipulation",
+      "age_source": "Under 7 (classement du site)",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": "10 × 10 m à ajuster selon effectif",
+      "material": "Un ballon par joueur",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée."
+    },
+    {
+      "id": "nz-touchdown",
+      "source_id": "nz-touchdown-source",
+      "title": "Passer puis échapper au poursuivant",
+      "summary": "Deux files face à face ; le ballon circule dans une file.",
+      "theme": "évitement",
+      "age_source": "Under 7 (classement du site)",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "players_min": 10,
+      "players_max": 12,
+      "duration_min": null,
+      "space": "10 × 10 m ; files espacées de 4–5 m",
+      "material": "Un ballon et un plot",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée."
+    },
+    {
+      "id": "nz-circle",
+      "source_id": "nz-circle-source",
+      "title": "Passes en cercle tourné vers l’extérieur",
+      "summary": "Cercles en compétition, joueurs tournés vers l’extérieur.",
+      "theme": "passe",
+      "age_source": "Under 7 (classement du site)",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "players_min": 6,
+      "players_max": 8,
+      "duration_min": null,
+      "space": "10 × 10 m",
+      "material": "Un ballon par groupe",
+      "status": "documented",
+      "review": "Description sourcée ; validation terrain non effectuée."
+    }
+  ]
+}

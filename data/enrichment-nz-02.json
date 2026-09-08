@@ -1,0 +1,216 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-pick-place-detail-1",
+      "variant_id": "nz-pick-place",
+      "source_id": "nz-pick-place-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Une file traverse une zone où les ballons sont dispersés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter."
+        }
+      }
+    },
+    {
+      "id": "nz-awareness-detail-1",
+      "variant_id": "nz-awareness",
+      "source_id": "nz-awareness-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs espacés dans la zone."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher la maîtrise et éviter les collisions."
+        }
+      }
+    },
+    {
+      "id": "nz-touchdown-detail-1",
+      "variant_id": "nz-touchdown",
+      "source_id": "nz-touchdown-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux files face à face ; le ballon circule dans une file."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Essai réussi : un point. Toucher : possession adverse à la reprise."
+        }
+      }
+    },
+    {
+      "id": "nz-circle-detail-1",
+      "variant_id": "nz-circle",
+      "source_id": "nz-circle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cercles en compétition, joueurs tournés vers l’extérieur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur."
+        }
+      }
+    },
+    {
+      "id": "nz-pick-place-detail-2",
+      "variant_id": "nz-pick-place",
+      "source_id": "nz-pick-place-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Une file traverse une zone où les ballons sont dispersés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter."
+        }
+      },
+      "supersedes": "nz-pick-place-detail-1",
+      "revision_reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte.",
+      "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900"
+    },
+    {
+      "id": "nz-awareness-detail-2",
+      "variant_id": "nz-awareness",
+      "source_id": "nz-awareness-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs espacés dans la zone."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher la maîtrise et éviter les collisions."
+        }
+      },
+      "supersedes": "nz-awareness-detail-1",
+      "revision_reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte.",
+      "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40"
+    },
+    {
+      "id": "nz-touchdown-detail-2",
+      "variant_id": "nz-touchdown",
+      "source_id": "nz-touchdown-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux files face à face ; le ballon circule dans une file."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Essai réussi : un point. Toucher : possession adverse à la reprise."
+        }
+      },
+      "supersedes": "nz-touchdown-detail-1",
+      "revision_reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte.",
+      "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f"
+    },
+    {
+      "id": "nz-circle-detail-2",
+      "variant_id": "nz-circle",
+      "source_id": "nz-circle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "DRILL EXPLANATION et COACHING POINTS",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur."
+        }
+      },
+      "supersedes": "nz-circle-detail-1",
+      "revision_reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte.",
+      "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9"
+    }
+  ]
+}

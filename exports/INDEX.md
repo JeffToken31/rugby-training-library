@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-75 fiches — les propositions terrain restent à valider par le coach.
+79 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -76,6 +76,8 @@
 | [Carré](fiches/ffr-carre-atelier.md) | M8 | À compléter |
 | [Coordonner deux ballons](fiches/rc-two-balls.md) | U7 (classement du site) | Documentée ; à valider |
 | [Le ballon répond au signal](fiches/au-familiarisation.md) | Non précisé | 7 min / 4–12 enfants |
+| [Manipulations autour du corps](fiches/nz-awareness.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Ramasser, porter et reposer](fiches/nz-pick-place.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Rebondir et échanger en binôme](fiches/rc-bounce.md) | U9 (classement du site) | Documentée ; à valider |
 
 ## Motricité
@@ -100,6 +102,7 @@
 | [Le joueur au milieu](fiches/rc-piggy.md) | U7 (classement du site) | 6 min / 4–8 enfants |
 | [Passer avec un soutien en retrait](fiches/rc-pairs.md) | U7 (classement du site) | 7 min / 4–8 enfants |
 | [Passer sur appel dans un espace partagé](fiches/rc-calling-pairs.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
+| [Passes en cercle tourné vers l’extérieur](fiches/nz-circle.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Passes en triangle et changement de posture](fiches/rc-triangle.md) | U9 (classement du site) | Documentée ; à valider |
 | [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Premières passes en ligne](fiches/rc-pass-start.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
@@ -152,5 +155,6 @@
 |---|---|---|
 | [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) | Initiation Get Into Rugby ; âge précis non indiqué | Documentée ; à valider |
 | [Épouvantails avec délivrance](fiches/wr-scarecrow.md) | Initiation Get Into Rugby ; âge précis non indiqué | Documentée ; à valider |
+| [Passer puis échapper au poursuivant](fiches/nz-touchdown.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Traverser les zones gardées](fiches/scot-zones.md) | Primaire (Écosse) | Documentée ; à valider |
 

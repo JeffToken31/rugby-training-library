@@ -11,7 +11,8 @@
     "data/rounders-01.json",
     "data/ffr-guide-2023.json",
     "data/world-rugby-01.json",
-    "data/nz-games-01.json"
+    "data/nz-games-01.json",
+    "data/nz-games-02.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -23,7 +24,8 @@
     "data/enrichment-ffr-guide-2023.json",
     "data/enrichment-revisions-01.json",
     "data/enrichment-world-rugby-01.json",
-    "data/enrichment-nz-01.json"
+    "data/enrichment-nz-01.json",
+    "data/enrichment-nz-02.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -77,6 +79,10 @@
     "wr-noncontact",
     "nz-follow-source",
     "nz-corner-source",
-    "nz-no-ball-source"
+    "nz-no-ball-source",
+    "nz-pick-place-source",
+    "nz-awareness-source",
+    "nz-touchdown-source",
+    "nz-circle-source"
   ]
 }

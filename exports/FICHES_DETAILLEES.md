@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-37 fiches.
+41 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -24,15 +24,19 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Les extraterrestres](fiches/rc-aliens.md) — déplacement ; RugbyCoaching.tv
 - [Les statues](fiches/rc-statues.md) — déplacement ; RugbyCoaching.tv
 - [Les œufs dans les nids](fiches/rc-eggs.md) — déplacement ; RugbyCoaching.tv
+- [Manipulations autour du corps](fiches/nz-awareness.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Opposition sans ballon, attaquant désigné](fiches/nz-no-ball.md) — prise d’information ; New Zealand Rugby — Rugby Toolbox
 - [Passe arrière avec jokers](fiches/scot-passback.md) — soutien ; Scottish Rugby
 - [Passer avec un soutien en retrait](fiches/rc-pairs.md) — passe ; RugbyCoaching.tv
+- [Passer puis échapper au poursuivant](fiches/nz-touchdown.md) — évitement ; New Zealand Rugby — Rugby Toolbox
 - [Passer sur appel dans un espace partagé](fiches/rc-calling-pairs.md) — passe ; RugbyCoaching.tv
+- [Passes en cercle tourné vers l’extérieur](fiches/nz-circle.md) — passe ; New Zealand Rugby — Rugby Toolbox
 - [Passes en triangle et changement de posture](fiches/rc-triangle.md) — passe ; RugbyCoaching.tv
 - [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) — passe ; RugbyCoaching.tv
 - [Premières passes en ligne](fiches/rc-pass-start.md) — passe ; RugbyCoaching.tv
 - [Quatre cibles, porteur immobile](fiches/rc-chaos-touch.md) — prise d’information ; RugbyCoaching.tv
 - [Quatre passeurs contre un intercepteur](fiches/rc-four-one.md) — passe ; RugbyCoaching.tv
+- [Ramasser, porter et reposer](fiches/nz-pick-place.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Rebondir et échanger en binôme](fiches/rc-bounce.md) — manipulation ; RugbyCoaching.tv
 - [Recevoir à différentes hauteurs et passer](fiches/ffr-guide-recevoir-passer.md) — passe ; Fédération Française de Rugby
 - [Rugby à quatre cibles](fiches/rc-netball.md) — passe ; RugbyCoaching.tv

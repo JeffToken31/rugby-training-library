@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-75 fiches · 52 sources
+79 fiches · 56 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -1113,6 +1113,34 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 
 **Accès :** PDF public consulté
 
+## Manipulations autour du corps
+
+**manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+
+Joueurs espacés dans la zone.
+
+**Matériel :** Un ballon par joueur
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+
+**Accès :** Description publique indexée consultée ; capture à vérifier
+
+**Organisation :** Joueurs espacés dans la zone.
+
+**Déroulement :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
+
+**Consignes :** Chercher la maîtrise et éviter les collisions.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Espace source :** 10 × 10 m à ajuster selon effectif
+
 ## Opposition sans ballon, attaquant désigné
 
 **prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
@@ -1245,6 +1273,34 @@ Deux équipes cherchent la zone d’essai par des passes ; la source propose cin
 
 **Accès :** PDF public consulté
 
+## Passer puis échapper au poursuivant
+
+**évitement · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+
+Deux files face à face ; le ballon circule dans une file.
+
+**Matériel :** Un ballon et un plot
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 10–12
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+
+**Accès :** Description publique indexée consultée ; capture à vérifier
+
+**Organisation :** Deux files face à face ; le ballon circule dans une file.
+
+**Déroulement :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
+
+**Consignes :** Essai réussi : un point. Toucher : possession adverse à la reprise.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Espace source :** 10 × 10 m ; files espacées de 4–5 m
+
 ## Passer sur appel dans un espace partagé
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
@@ -1274,6 +1330,34 @@ Choisir quand passer malgré les déplacements des autres binômes.
 **Critères de réussite :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
 
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+
+## Passes en cercle tourné vers l’extérieur
+
+**passe · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+
+Cercles en compétition, joueurs tournés vers l’extérieur.
+
+**Matériel :** Un ballon par groupe
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 6–8
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+
+**Accès :** Description publique indexée consultée ; capture à vérifier
+
+**Organisation :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
+
+**Déroulement :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
+
+**Consignes :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Espace source :** 10 × 10 m
 
 ## Passes en triangle et changement de posture
 
@@ -1478,6 +1562,34 @@ Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloign
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 10, atelier 1 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+## Ramasser, porter et reposer
+
+**manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+
+Une file traverse une zone où les ballons sont dispersés.
+
+**Matériel :** Cinq à huit ballons
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 15–20
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+
+**Accès :** Description publique indexée consultée ; capture à vérifier
+
+**Organisation :** Une file traverse une zone où les ballons sont dispersés.
+
+**Déroulement :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
+
+**Consignes :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
+
+Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+
+**Espace source :** 20 × 20 m
 
 ## Rats et lapins
 
@@ -1937,9 +2049,13 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
+- [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — Description publique indexée consultée ; capture à vérifier.
+- [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — Description publique indexée consultée ; capture à vérifier.
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
+- [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) — Page publique découverte ; capture et contenu à vérifier.

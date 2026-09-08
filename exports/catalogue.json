@@ -158,6 +158,30 @@
       "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
     },
     {
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-awareness-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+      "resource_type": "WEB_PAGE",
+      "title": "Manipulations autour du corps",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/ball-awareness"
+    },
+    {
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-circle-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+      "resource_type": "WEB_PAGE",
+      "title": "Passes en cercle tourné vers l’extérieur",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/passing-circle"
+    },
+    {
       "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
       "checked_on": "2026-09-08",
       "format": "HTML",
@@ -192,6 +216,30 @@
       "resource_type": "WEB_PAGE",
       "title": "Opposition sans ballon, attaquant désigné",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9"
+    },
+    {
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-pick-place-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+      "resource_type": "WEB_PAGE",
+      "title": "Ramasser, porter et reposer",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/pick-place"
+    },
+    {
+      "access": "Description publique indexée consultée ; capture à vérifier",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-touchdown-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+      "resource_type": "WEB_PAGE",
+      "title": "Passer puis échapper au poursuivant",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/touchdown"
     },
     {
       "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
@@ -5073,6 +5121,135 @@
       "references": []
     },
     {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-awareness",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Un ballon par joueur",
+      "players_max": null,
+      "players_min": null,
+      "review": "Description sourcée ; validation terrain non effectuée.",
+      "source_id": "nz-awareness-source",
+      "space": "10 × 10 m à ajuster selon effectif",
+      "status": "documented",
+      "summary": "Joueurs espacés dans la zone.",
+      "theme": "manipulation",
+      "title": "Manipulations autour du corps",
+      "instructions": "Chercher la maîtrise et éviter les collisions.",
+      "organisation": "Joueurs espacés dans la zone.",
+      "steps": "Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs espacés dans la zone.",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-awareness-detail-2",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-awareness-detail-2",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher la maîtrise et éviter les collisions.",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-awareness-detail-2",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-awareness-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-awareness-detail-2",
+        "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-awareness-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-awareness-detail-2",
+          "supersedes": "nz-awareness-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        }
+      ],
+      "source": {
+        "access": "Description publique indexée consultée ; capture à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-awareness-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+        "resource_type": "WEB_PAGE",
+        "title": "Manipulations autour du corps",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/ball-awareness"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Under 7 (classement Rugby Toolbox)",
       "duration_min": null,
       "id": "nz-no-ball",
@@ -5622,6 +5799,137 @@
       "references": []
     },
     {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-touchdown",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Un ballon et un plot",
+      "players_max": 12,
+      "players_min": 10,
+      "review": "Description sourcée ; validation terrain non effectuée.",
+      "source_id": "nz-touchdown-source",
+      "space": "10 × 10 m ; files espacées de 4–5 m",
+      "status": "documented",
+      "summary": "Deux files face à face ; le ballon circule dans une file.",
+      "theme": "évitement",
+      "title": "Passer puis échapper au poursuivant",
+      "instructions": "Essai réussi : un point. Toucher : possession adverse à la reprise.",
+      "organisation": "Deux files face à face ; le ballon circule dans une file.",
+      "steps": "Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux files face à face ; le ballon circule dans une file.",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-touchdown-detail-2",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-touchdown-detail-2",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Essai réussi : un point. Toucher : possession adverse à la reprise.",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-touchdown-detail-2",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-touchdown-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-touchdown-detail-2",
+        "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-touchdown-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-touchdown-detail-2",
+          "supersedes": "nz-touchdown-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        }
+      ],
+      "source": {
+        "access": "Description publique indexée consultée ; capture à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-touchdown-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+        "resource_type": "WEB_PAGE",
+        "title": "Passer puis échapper au poursuivant",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/touchdown"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "U7 (classement du site) ; adéquation U8 à valider",
       "duration_min": null,
       "id": "rc-calling-pairs",
@@ -5778,6 +6086,137 @@
         "resource_type": "EXERCISE_VIDEO",
         "title": "ccru game passing pairs",
         "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-circle",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Un ballon par groupe",
+      "players_max": 8,
+      "players_min": 6,
+      "review": "Description sourcée ; validation terrain non effectuée.",
+      "source_id": "nz-circle-source",
+      "space": "10 × 10 m",
+      "status": "documented",
+      "summary": "Cercles en compétition, joueurs tournés vers l’extérieur.",
+      "theme": "passe",
+      "title": "Passes en cercle tourné vers l’extérieur",
+      "instructions": "Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.",
+      "organisation": "Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.",
+      "steps": "Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-circle-detail-2",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-circle-detail-2",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-circle-detail-2",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-circle-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-circle-detail-2",
+        "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-circle-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-circle-detail-2",
+          "supersedes": "nz-circle-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        }
+      ],
+      "source": {
+        "access": "Description publique indexée consultée ; capture à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-circle-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+        "resource_type": "WEB_PAGE",
+        "title": "Passes en cercle tourné vers l’extérieur",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/passing-circle"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -6728,6 +7167,137 @@
         "publisher": "FFR",
         "title": "Rugby à la maison en famille",
         "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-pick-place",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Cinq à huit ballons",
+      "players_max": 20,
+      "players_min": 15,
+      "review": "Description sourcée ; validation terrain non effectuée.",
+      "source_id": "nz-pick-place-source",
+      "space": "20 × 20 m",
+      "status": "documented",
+      "summary": "Une file traverse une zone où les ballons sont dispersés.",
+      "theme": "manipulation",
+      "title": "Ramasser, porter et reposer",
+      "instructions": "Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.",
+      "organisation": "Une file traverse une zone où les ballons sont dispersés.",
+      "steps": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Une file traverse une zone où les ballons sont dispersés.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-pick-place-detail-2",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-pick-place-detail-2",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "DRILL EXPLANATION et COACHING POINTS",
+            "revision_id": "nz-pick-place-detail-2",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-pick-place-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "DRILL EXPLANATION et COACHING POINTS",
+        "revision_id": "nz-pick-place-detail-2",
+        "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-pick-place-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-pick-place-detail-2",
+          "supersedes": "nz-pick-place-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        }
+      ],
+      "source": {
+        "access": "Description publique indexée consultée ; capture à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-pick-place-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Situation Under 7. Extraction du jeu de base ; progressions non automatiquement transformées en variantes.",
+        "resource_type": "WEB_PAGE",
+        "title": "Ramasser, porter et reposer",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/pick-place"
       },
       "model_status": "REVIEWED",
       "references": []
