@@ -31,7 +31,13 @@ Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe au
 
 **Consignes :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Conserver le ballon hors de portée de l’intercepteur pendant la manche.
+
+**Erreurs fréquentes :** Partenaires immobiles ; absence de communication.
+
+Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+
+**Points coach issus de la source :** Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.
 
 ### Proposition terrain U8 — à valider
 

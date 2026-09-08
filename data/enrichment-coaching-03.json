@@ -1,0 +1,88 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-piggy-detail-2",
+      "variant_id": "rc-piggy",
+      "source_id": "rc-piggy",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+      "supersedes": "rc-piggy-detail-1",
+      "revision_reason": "Lecture des sous-titres archivés : précisions pédagogiques sans emprunter aux vidéos recommandées.",
+      "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Conserver le ballon hors de portée de l’intercepteur pendant la manche."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Partenaires immobiles ; absence de communication."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes."
+        }
+      }
+    },
+    {
+      "id": "rc-pairs-detail-2",
+      "variant_id": "rc-pairs",
+      "source_id": "rc-pairs",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+      "supersedes": "rc-pairs-detail-1",
+      "revision_reason": "Lecture des sous-titres archivés : précisions pédagogiques sans emprunter aux vidéos recommandées.",
+      "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Recevoir en mouvement en restant en retrait du porteur."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutien à hauteur ou devant le porteur, rendant la passe difficile."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs."
+        }
+      }
+    },
+    {
+      "id": "rc-two-one-detail-2",
+      "variant_id": "rc-two-one",
+      "source_id": "rc-two-one",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+      "supersedes": "rc-two-one-detail-1",
+      "revision_reason": "Lecture des sous-titres archivés : précisions pédagogiques sans emprunter aux vidéos recommandées.",
+      "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester en profondeur pour permettre une passe sans passe en avant."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutien trop à plat, obligeant le porteur à transmettre vers l’avant."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait."
+        }
+      }
+    }
+  ]
+}

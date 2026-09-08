@@ -3129,6 +3129,9 @@
       "objectives": "Passer malgré la présence d’un défenseur.",
       "organisation": "Deux attaquants face à un défenseur simulé.",
       "steps": "Avancer et transmettre au soutien ; enchaîner les passages.",
+      "coach_points": "Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.",
+      "common_errors": "Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.",
+      "success_criteria": "Rester en profondeur pour permettre une passe sans passe en avant.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -3187,13 +3190,46 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester en profondeur pour permettre une passe sans passe en avant.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-two-one-detail-2",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-two-one-detail-2",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-two-one-detail-2",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -3217,9 +3253,9 @@
       "enrichment_provenance": {
         "source_id": "rc-two-one",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-two-one-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+        "revision_id": "rc-two-one-detail-2",
         "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
         "capture_verified_locally": true
       },
@@ -3229,6 +3265,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-two-one-detail-2",
+          "supersedes": "rc-two-one-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Lecture des sous-titres archivés : précisions pédagogiques sans emprunter aux vidéos recommandées."
         }
       ],
       "source": {
@@ -4498,6 +4540,9 @@
       "objectives": "Conserver le ballon et se rendre disponible.",
       "organisation": "Trois passeurs et un intercepteur.",
       "steps": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.",
+      "coach_points": "Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.",
+      "common_errors": "Partenaires immobiles ; absence de communication.",
+      "success_criteria": "Conserver le ballon hors de portée de l’intercepteur pendant la manche.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -4556,13 +4601,46 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Conserver le ballon hors de portée de l’intercepteur pendant la manche.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-piggy-detail-2",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Partenaires immobiles ; absence de communication.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-piggy-detail-2",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-piggy-detail-2",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -4586,9 +4664,9 @@
       "enrichment_provenance": {
         "source_id": "rc-piggy",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-piggy-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+        "revision_id": "rc-piggy-detail-2",
         "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
         "capture_verified_locally": true
       },
@@ -4598,6 +4676,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-piggy-detail-2",
+          "supersedes": "rc-piggy-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Lecture des sous-titres archivés : précisions pédagogiques sans emprunter aux vidéos recommandées."
         }
       ],
       "source": {
@@ -5834,6 +5918,9 @@
       "objectives": "Recevoir en soutien du porteur.",
       "organisation": "Binômes en mouvement ; obstacle représentant un défenseur dans la progression.",
       "steps": "Courir puis passer derrière l’obstacle à son partenaire.",
+      "coach_points": "Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.",
+      "common_errors": "Soutien à hauteur ou devant le porteur, rendant la passe difficile.",
+      "success_criteria": "Recevoir en mouvement en restant en retrait du porteur.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -5892,13 +5979,46 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Recevoir en mouvement en restant en retrait du porteur.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-pairs-detail-2",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Soutien à hauteur ou devant le porteur, rendant la passe difficile.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-pairs-detail-2",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+            "revision_id": "rc-pairs-detail-2",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -5922,9 +6042,9 @@
       "enrichment_provenance": {
         "source_id": "rc-pairs",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-pairs-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et Video Subtitles, avant Up Next In Playlist",
+        "revision_id": "rc-pairs-detail-2",
         "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
         "capture_verified_locally": true
       },
@@ -5934,6 +6054,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-pairs-detail-2",
+          "supersedes": "rc-pairs-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Lecture des sous-titres archivés : précisions pédagogiques sans emprunter aux vidéos recommandées."
         }
       ],
       "source": {

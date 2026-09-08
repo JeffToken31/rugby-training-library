@@ -567,7 +567,13 @@ Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien
 
 **Consignes :** Aucun contact ; le soutien garde de la profondeur.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Rester en profondeur pour permettre une passe sans passe en avant.
+
+**Erreurs fréquentes :** Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.
+
+Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+
+**Points coach issus de la source :** Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.
 
 ### Proposition terrain U8 — à valider
 
@@ -937,7 +943,13 @@ Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe au
 
 **Consignes :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Conserver le ballon hors de portée de l’intercepteur pendant la manche.
+
+**Erreurs fréquentes :** Partenaires immobiles ; absence de communication.
+
+Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+
+**Points coach issus de la source :** Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.
 
 ### Proposition terrain U8 — à valider
 
@@ -1269,7 +1281,13 @@ Deux joueurs avancent et échangent une passe courte. Une progression ajoute un 
 
 **Consignes :** Privilégier une passe courte et rester en retrait.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Recevoir en mouvement en restant en retrait du porteur.
+
+**Erreurs fréquentes :** Soutien à hauteur ou devant le porteur, rendant la passe difficile.
+
+Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+
+**Points coach issus de la source :** Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.
 
 ### Proposition terrain U8 — à valider
 

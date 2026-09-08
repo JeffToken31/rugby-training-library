@@ -31,7 +31,13 @@ Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien
 
 **Consignes :** Aucun contact ; le soutien garde de la profondeur.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Rester en profondeur pour permettre une passe sans passe en avant.
+
+**Erreurs fréquentes :** Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.
+
+Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+
+**Points coach issus de la source :** Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.
 
 ### Proposition terrain U8 — à valider
 
