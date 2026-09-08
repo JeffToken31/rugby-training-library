@@ -79,11 +79,13 @@ Deux partenaires échangent ; un seul voit le coach.
 
 **Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
 
+**Objectifs :** Développer la communication et la réaction au signal.
+
 **Organisation :** Deux partenaires échangent ; un seul voit le coach.
 
 **Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Points coach issus de la source :** Communiquer et rester proches.
 
@@ -273,11 +275,13 @@ Deux équipes dans le carré ; le porteur reste immobile.
 
 **Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
 
+**Objectifs :** Accélérer les échanges de passes dans un jeu collectif.
+
 **Organisation :** Deux équipes dans le carré ; le porteur reste immobile.
 
 **Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
 
@@ -443,7 +447,9 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 
 **Consignes :** Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.
 
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges.
 
 **Variante sourcée complémentaire :** La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
 
@@ -837,7 +843,11 @@ Deux chasseurs sont désignés parmi deux équipes. Ils collectent les rubans de
 
 **Consignes :** Continuer à se déplacer dans la zone.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Encourager le mouvement continu et les changements d’appuis.
 
 ### Proposition terrain U8 — à valider
 
@@ -1069,7 +1079,11 @@ Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent i
 
 **Consignes :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
 
 ## Les œufs dans les nids
 
@@ -1173,13 +1187,19 @@ Joueurs espacés dans la zone.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Se familiariser avec le ballon par différentes manipulations.
+
 **Organisation :** Joueurs espacés dans la zone.
 
 **Déroulement :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
 
 **Consignes :** Chercher la maîtrise et éviter les collisions.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+**Critères de réussite :** Réaliser les manipulations sans erreur.
+
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+
+**Points coach issus de la source :** Se déplacer vers les espaces libres et éviter les autres joueurs.
 
 **Espace source :** 10 × 10 m à ajuster selon effectif
 
@@ -1201,11 +1221,13 @@ Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
 
+**Objectifs :** Travailler l’espace, la défense et la réaction.
+
 **Organisation :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
 
@@ -1339,13 +1361,17 @@ Deux files face à face ; le ballon circule dans une file.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Développer la manipulation et les réactions.
+
 **Organisation :** Deux files face à face ; le ballon circule dans une file.
 
 **Déroulement :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
 
 **Consignes :** Essai réussi : un point. Toucher : possession adverse à la reprise.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+
+**Points coach issus de la source :** Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.
 
 **Espace source :** 10 × 10 m ; files espacées de 4–5 m
 
@@ -1397,13 +1423,19 @@ Cercles en compétition, joueurs tournés vers l’extérieur.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Développer la passe et la réception.
+
 **Organisation :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
 
 **Déroulement :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
 
 **Consignes :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+**Erreurs fréquentes :** Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.
+
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+
+**Points coach issus de la source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
 
 **Espace source :** 10 × 10 m
 
@@ -1433,7 +1465,9 @@ En triangle, transmettre puis s’asseoir et se relever avant la prochaine réce
 
 **Consignes :** Présenter les mains tôt ; reprendre le rythme de circulation.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
 
 ## Passes latérales en vagues de trois
 
@@ -1629,13 +1663,17 @@ Une file traverse une zone où les ballons sont dispersés.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Ramasser et sécuriser le ballon au sol.
+
 **Organisation :** Une file traverse une zone où les ballons sont dispersés.
 
 **Déroulement :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
 
 **Consignes :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+**Erreurs fréquentes :** Lâcher ou faire rouler le ballon au lieu de le poser fermement.
+
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
 
 **Espace source :** 20 × 20 m
 
@@ -1697,7 +1735,11 @@ Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond 
 
 **Consignes :** Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Erreurs fréquentes :** Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.
 
 ## Recevoir à différentes hauteurs et passer
 
@@ -1771,7 +1813,9 @@ Groupes alignés devant quatre plots espacés de dix mètres.
 
 **Consignes :** Feinter avant de changer de direction.
 
-Détails extraits le 2026-09-08 — Description et paramètres du jeu.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+
+**Points coach issus de la source :** Feinter avant de s’écarter dans le changement de direction.
 
 **Espace source :** 40 × 20 m
 
@@ -2071,7 +2115,11 @@ Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent
 
 **Consignes :** Les défenseurs communiquent pour couvrir les espaces.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Traverser sans être touché ; le dernier attaquant restant gagne.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.
 
 ## Traverser les zones gardées
 

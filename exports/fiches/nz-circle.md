@@ -23,13 +23,19 @@ Cercles en compétition, joueurs tournés vers l’extérieur.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Développer la passe et la réception.
+
 **Organisation :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
 
 **Déroulement :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
 
 **Consignes :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+**Erreurs fréquentes :** Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.
+
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+
+**Points coach issus de la source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
 
 **Espace source :** 10 × 10 m
 

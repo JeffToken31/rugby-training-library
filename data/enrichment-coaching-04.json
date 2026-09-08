@@ -1,0 +1,132 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-statues-coaching-20260908",
+      "variant_id": "rc-statues",
+      "source_id": "rc-statues",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres du contenu principal uniquement",
+      "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porter le ballon à deux mains ; inciter les chasseurs à coopérer."
+        }
+      },
+      "supersedes": "rc-statues-detail-1",
+      "revision_reason": "Précisions pédagogiques relevées dans la capture existante."
+    },
+    {
+      "id": "rc-taggrab-coaching-20260908",
+      "variant_id": "rc-taggrab",
+      "source_id": "rc-taggrab",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres du contenu principal uniquement",
+      "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Encourager le mouvement continu et les changements d’appuis."
+        }
+      },
+      "supersedes": "rc-taggrab-detail-1",
+      "revision_reason": "Précisions pédagogiques relevées dans la capture existante."
+    },
+    {
+      "id": "rc-bounce-coaching-20260908",
+      "variant_id": "rc-bounce",
+      "source_id": "rc-bounce",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres du contenu principal uniquement",
+      "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner."
+        }
+      },
+      "supersedes": "rc-bounce-detail-1",
+      "revision_reason": "Précisions pédagogiques relevées dans la capture existante."
+    },
+    {
+      "id": "rc-triangle-coaching-20260908",
+      "variant_id": "rc-triangle",
+      "source_id": "rc-triangle",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres du contenu principal uniquement",
+      "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante."
+        }
+      },
+      "supersedes": "rc-triangle-detail-1",
+      "revision_reason": "Précisions pédagogiques relevées dans la capture existante."
+    },
+    {
+      "id": "rc-two-balls-coaching-20260908",
+      "variant_id": "rc-two-balls",
+      "source_id": "rc-two-balls",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres du contenu principal uniquement",
+      "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges."
+        }
+      },
+      "supersedes": "rc-two-balls-detail-1",
+      "revision_reason": "Précisions pédagogiques relevées dans la capture existante."
+    },
+    {
+      "id": "rc-bulldog-coaching-20260908",
+      "variant_id": "rc-bulldog",
+      "source_id": "rc-bulldog",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres du contenu principal uniquement",
+      "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser sans être touché ; le dernier attaquant restant gagne."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces."
+        }
+      },
+      "supersedes": "rc-bulldog-detail-1",
+      "revision_reason": "Précisions pédagogiques relevées dans la capture existante."
+    }
+  ]
+}

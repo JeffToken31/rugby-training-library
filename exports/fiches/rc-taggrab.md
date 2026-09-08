@@ -31,7 +31,11 @@ Deux chasseurs sont désignés parmi deux équipes. Ils collectent les rubans de
 
 **Consignes :** Continuer à se déplacer dans la zone.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Encourager le mouvement continu et les changements d’appuis.
 
 ### Proposition terrain U8 — à valider
 

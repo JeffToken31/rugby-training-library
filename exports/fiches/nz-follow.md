@@ -23,11 +23,13 @@ Deux partenaires échangent ; un seul voit le coach.
 
 **Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
 
+**Objectifs :** Développer la communication et la réaction au signal.
+
 **Organisation :** Deux partenaires échangent ; un seul voit le coach.
 
 **Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Points coach issus de la source :** Communiquer et rester proches.
 

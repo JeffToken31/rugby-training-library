@@ -31,7 +31,9 @@ En triangle, transmettre puis s’asseoir et se relever avant la prochaine réce
 
 **Consignes :** Présenter les mains tôt ; reprendre le rythme de circulation.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
 
 ## Répertoire des sources
 

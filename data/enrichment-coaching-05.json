@@ -1,0 +1,178 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-follow-coaching-20260908",
+      "variant_id": "nz-follow",
+      "source_id": "nz-follow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+      "supersedes": "nz-follow-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer la communication et la réaction au signal."
+        }
+      }
+    },
+    {
+      "id": "nz-corner-coaching-20260908",
+      "variant_id": "nz-corner",
+      "source_id": "nz-corner-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+      "supersedes": "nz-corner-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Accélérer les échanges de passes dans un jeu collectif."
+        }
+      }
+    },
+    {
+      "id": "nz-no-ball-coaching-20260908",
+      "variant_id": "nz-no-ball",
+      "source_id": "nz-no-ball-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+      "supersedes": "nz-no-ball-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler l’espace, la défense et la réaction."
+        }
+      }
+    },
+    {
+      "id": "nz-pick-place-coaching-20260908",
+      "variant_id": "nz-pick-place",
+      "source_id": "nz-pick-place-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+      "supersedes": "nz-pick-place-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ramasser et sécuriser le ballon au sol."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Lâcher ou faire rouler le ballon au lieu de le poser fermement."
+        }
+      }
+    },
+    {
+      "id": "nz-awareness-coaching-20260908",
+      "variant_id": "nz-awareness",
+      "source_id": "nz-awareness-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+      "supersedes": "nz-awareness-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se familiariser avec le ballon par différentes manipulations."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réaliser les manipulations sans erreur."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer vers les espaces libres et éviter les autres joueurs."
+        }
+      }
+    },
+    {
+      "id": "nz-touchdown-coaching-20260908",
+      "variant_id": "nz-touchdown",
+      "source_id": "nz-touchdown-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+      "supersedes": "nz-touchdown-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer la manipulation et les réactions."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations."
+        }
+      }
+    },
+    {
+      "id": "nz-circle-coaching-20260908",
+      "variant_id": "nz-circle",
+      "source_id": "nz-circle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+      "supersedes": "nz-circle-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer la passe et la réception."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder les bras souples, fléchir les coudes et tourner les épaules."
+        }
+      }
+    },
+    {
+      "id": "nz-handling-relay-coaching-20260908",
+      "variant_id": "nz-handling-relay",
+      "source_id": "nz-handling-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "OBJECTIVE et COACHING POINTS",
+      "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+      "supersedes": "nz-handling-relay-detail-2",
+      "revision_reason": "Complément pédagogique vérifié dans la capture locale.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Feinter avant de s’écarter dans le changement de direction."
+        }
+      }
+    }
+  ]
+}

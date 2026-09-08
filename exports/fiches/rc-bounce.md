@@ -31,7 +31,11 @@ Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond 
 
 **Consignes :** Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Erreurs fréquentes :** Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.
 
 ## Répertoire des sources
 

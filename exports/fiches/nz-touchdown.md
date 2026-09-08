@@ -23,13 +23,17 @@ Deux files face à face ; le ballon circule dans une file.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Développer la manipulation et les réactions.
+
 **Organisation :** Deux files face à face ; le ballon circule dans une file.
 
 **Déroulement :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
 
 **Consignes :** Essai réussi : un point. Toucher : possession adverse à la reprise.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+
+**Points coach issus de la source :** Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.
 
 **Espace source :** 10 × 10 m ; files espacées de 4–5 m
 

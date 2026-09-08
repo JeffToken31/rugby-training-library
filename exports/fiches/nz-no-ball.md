@@ -23,11 +23,13 @@ Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
 
+**Objectifs :** Travailler l’espace, la défense et la réaction.
+
 **Organisation :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
 

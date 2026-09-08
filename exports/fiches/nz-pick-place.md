@@ -23,13 +23,17 @@ Une file traverse une zone où les ballons sont dispersés.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Ramasser et sécuriser le ballon au sol.
+
 **Organisation :** Une file traverse une zone où les ballons sont dispersés.
 
 **Déroulement :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
 
 **Consignes :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+**Erreurs fréquentes :** Lâcher ou faire rouler le ballon au lieu de le poser fermement.
+
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
 
 **Espace source :** 20 × 20 m
 

@@ -23,13 +23,19 @@ Joueurs espacés dans la zone.
 
 **Accès :** Description publique indexée consultée ; capture à vérifier
 
+**Objectifs :** Se familiariser avec le ballon par différentes manipulations.
+
 **Organisation :** Joueurs espacés dans la zone.
 
 **Déroulement :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
 
 **Consignes :** Chercher la maîtrise et éviter les collisions.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+**Critères de réussite :** Réaliser les manipulations sans erreur.
+
+Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+
+**Points coach issus de la source :** Se déplacer vers les espaces libres et éviter les autres joueurs.
 
 **Espace source :** 10 × 10 m à ajuster selon effectif
 

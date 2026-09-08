@@ -31,7 +31,11 @@ Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent
 
 **Consignes :** Les défenseurs communiquent pour couvrir les espaces.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Traverser sans être touché ; le dernier attaquant restant gagne.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.
 
 ## Répertoire des sources
 

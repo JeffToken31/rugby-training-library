@@ -23,11 +23,13 @@ Deux équipes dans le carré ; le porteur reste immobile.
 
 **Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
 
+**Objectifs :** Accélérer les échanges de passes dans un jeu collectif.
+
 **Organisation :** Deux équipes dans le carré ; le porteur reste immobile.
 
 **Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
 
-Détails extraits le 2026-09-08 — DRILL EXPLANATION et COACHING POINTS.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
 

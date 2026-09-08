@@ -10,14 +10,14 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 29 | 52 | 0 | 0 | 0 |
+| objectives | 36 | 45 | 0 | 0 | 0 |
 | organisation | 43 | 38 | 0 | 0 | 0 |
 | steps | 44 | 37 | 0 | 0 | 0 |
 | instructions | 36 | 45 | 0 | 0 | 0 |
-| success_criteria | 8 | 73 | 0 | 0 | 0 |
-| common_errors | 4 | 77 | 0 | 0 | 0 |
-| coach_points | 15 | 66 | 0 | 0 | 0 |
-| duration_min | 5 | 70 | 6 | 0 | 0 |
+| success_criteria | 12 | 69 | 0 | 0 | 0 |
+| common_errors | 7 | 74 | 0 | 0 | 0 |
+| coach_points | 25 | 56 | 0 | 0 | 0 |
+| duration_min | 5 | 66 | 10 | 0 | 0 |
 | players_min | 28 | 53 | 0 | 0 | 0 |
 | players_max | 29 | 52 | 0 | 0 | 0 |
 | space | 15 | 62 | 4 | 0 | 0 |

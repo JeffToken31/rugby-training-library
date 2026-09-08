@@ -29,7 +29,9 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 
 **Consignes :** Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.
 
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges.
 
 **Variante sourcée complémentaire :** La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
 

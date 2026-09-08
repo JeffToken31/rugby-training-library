@@ -31,7 +31,11 @@ Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent i
 
 **Consignes :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+**Critères de réussite :** Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.
+
+Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+
+**Points coach issus de la source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
 
 ## Répertoire des sources
 

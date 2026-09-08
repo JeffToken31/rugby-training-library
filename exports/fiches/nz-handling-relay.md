@@ -31,7 +31,9 @@ Groupes alignés devant quatre plots espacés de dix mètres.
 
 **Consignes :** Feinter avant de changer de direction.
 
-Détails extraits le 2026-09-08 — Description et paramètres du jeu.
+Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+
+**Points coach issus de la source :** Feinter avant de s’écarter dans le changement de direction.
 
 **Espace source :** 40 × 20 m
 

@@ -1,0 +1,146 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-awareness-parameters-20260908",
+      "variant_id": "nz-awareness",
+      "source_id": "nz-awareness-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+      "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+      "supersedes": "nz-awareness-coaching-20260908",
+      "revision_reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée.",
+      "fields": {
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "10 × 10 m à ajuster selon effectif"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par joueur"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-touchdown-parameters-20260908",
+      "variant_id": "nz-touchdown",
+      "source_id": "nz-touchdown-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+      "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+      "supersedes": "nz-touchdown-coaching-20260908",
+      "revision_reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée.",
+      "fields": {
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 12
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "10 × 10 m ; files espacées de 4–5 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon et un plot"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-circle-parameters-20260908",
+      "variant_id": "nz-circle",
+      "source_id": "nz-circle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+      "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+      "supersedes": "nz-circle-coaching-20260908",
+      "revision_reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée.",
+      "fields": {
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 8
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "10 × 10 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par groupe"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-pick-place-parameters-20260908",
+      "variant_id": "nz-pick-place",
+      "source_id": "nz-pick-place-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+      "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+      "supersedes": "nz-pick-place-coaching-20260908",
+      "revision_reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée.",
+      "fields": {
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 15
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 20
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "20 × 20 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq à huit ballons"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    }
+  ]
+}

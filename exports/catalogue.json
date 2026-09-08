@@ -948,9 +948,21 @@
       "coach_points": "Communiquer et rester proches.",
       "organisation": "Deux partenaires échangent ; un seul voit le coach.",
       "steps": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.",
+      "objectives": "Développer la communication et la réaction au signal.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Développer la communication et la réaction au signal.",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-follow-coaching-20260908",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -1027,8 +1039,8 @@
         "source_id": "nz-follow-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-follow-detail-2",
+        "locator": "OBJECTIVE et COACHING POINTS",
+        "revision_id": "nz-follow-coaching-20260908",
         "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
         "capture_verified_locally": true
       },
@@ -1044,6 +1056,12 @@
           "supersedes": "nz-follow-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Rattachement à la capture locale réussie."
+        },
+        {
+          "id": "nz-follow-coaching-20260908",
+          "supersedes": "nz-follow-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
         }
       ],
       "source": {
@@ -1831,9 +1849,21 @@
       "coach_points": "Se concentrer sur une cible et offrir un soutien proche.",
       "organisation": "Deux équipes dans le carré ; le porteur reste immobile.",
       "steps": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.",
+      "objectives": "Accélérer les échanges de passes dans un jeu collectif.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Accélérer les échanges de passes dans un jeu collectif.",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-corner-coaching-20260908",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -1910,8 +1940,8 @@
         "source_id": "nz-corner-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-corner-detail-2",
+        "locator": "OBJECTIVE et COACHING POINTS",
+        "revision_id": "nz-corner-coaching-20260908",
         "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
         "capture_verified_locally": true
       },
@@ -1927,6 +1957,12 @@
           "supersedes": "nz-corner-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Rattachement à la capture locale réussie."
+        },
+        {
+          "id": "nz-corner-coaching-20260908",
+          "supersedes": "nz-corner-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
         }
       ],
       "source": {
@@ -2543,6 +2579,7 @@
       "instructions": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.",
       "objectives": "Coordonner les échanges de deux ballons.",
       "steps": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer.",
+      "coach_points": "Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -2596,7 +2633,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges.",
+          "provenance": {
+            "source_id": "rc-two-balls",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-two-balls-coaching-20260908",
+            "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -2619,8 +2667,8 @@
         "source_id": "rc-two-balls",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
-        "revision_id": "rc-two-balls-detail-1",
+        "locator": "Description et sous-titres du contenu principal uniquement",
+        "revision_id": "rc-two-balls-coaching-20260908",
         "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
         "capture_verified_locally": true
       },
@@ -2630,6 +2678,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "rc-two-balls-coaching-20260908",
+          "supersedes": "rc-two-balls-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Précisions pédagogiques relevées dans la capture existante."
         }
       ],
       "source": {
@@ -4241,6 +4295,8 @@
       "objectives": "Éviter et attraper les rubans.",
       "organisation": "Deux chasseurs désignés, un de chaque équipe.",
       "steps": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.",
+      "coach_points": "Encourager le mouvement continu et les changements d’appuis.",
+      "success_criteria": "Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -4299,13 +4355,35 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs.",
+          "provenance": {
+            "source_id": "rc-taggrab",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-taggrab-coaching-20260908",
+            "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Encourager le mouvement continu et les changements d’appuis.",
+          "provenance": {
+            "source_id": "rc-taggrab",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-taggrab-coaching-20260908",
+            "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -4327,9 +4405,9 @@
       "enrichment_provenance": {
         "source_id": "rc-taggrab",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-taggrab-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres du contenu principal uniquement",
+        "revision_id": "rc-taggrab-coaching-20260908",
         "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
         "capture_verified_locally": true
       },
@@ -4339,6 +4417,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-taggrab-coaching-20260908",
+          "supersedes": "rc-taggrab-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Précisions pédagogiques relevées dans la capture existante."
         }
       ],
       "source": {
@@ -5000,6 +5084,8 @@
       "objectives": "Éviter ; coopérer entre chasseurs.",
       "organisation": "Trois chasseurs porteurs d’un ballon.",
       "steps": "Le joueur touché s’immobilise ; chronométrer la capture de tous.",
+      "coach_points": "Porter le ballon à deux mains ; inciter les chasseurs à coopérer.",
+      "success_criteria": "Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -5058,13 +5144,35 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.",
+          "provenance": {
+            "source_id": "rc-statues",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-statues-coaching-20260908",
+            "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; inciter les chasseurs à coopérer.",
+          "provenance": {
+            "source_id": "rc-statues",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-statues-coaching-20260908",
+            "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -5086,9 +5194,9 @@
       "enrichment_provenance": {
         "source_id": "rc-statues",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-statues-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres du contenu principal uniquement",
+        "revision_id": "rc-statues-coaching-20260908",
         "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
         "capture_verified_locally": true
       },
@@ -5098,6 +5206,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-statues-coaching-20260908",
+          "supersedes": "rc-statues-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Précisions pédagogiques relevées dans la capture existante."
         }
       ],
       "source": {
@@ -5441,9 +5555,23 @@
       "instructions": "Chercher la maîtrise et éviter les collisions.",
       "organisation": "Joueurs espacés dans la zone.",
       "steps": "Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.",
+      "coach_points": "Se déplacer vers les espaces libres et éviter les autres joueurs.",
+      "objectives": "Se familiariser avec le ballon par différentes manipulations.",
+      "success_criteria": "Réaliser les manipulations sans erreur.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se familiariser avec le ballon par différentes manipulations.",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-awareness-coaching-20260908",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -5488,16 +5616,49 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réaliser les manipulations sans erreur.",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-awareness-coaching-20260908",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se déplacer vers les espaces libres et éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-awareness-coaching-20260908",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-awareness-parameters-20260908",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
           "state": "NOT_EXTRACTED"
@@ -5506,20 +5667,40 @@
           "state": "NOT_EXTRACTED"
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "10 × 10 m à ajuster selon effectif",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-awareness-parameters-20260908",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Un ballon par joueur",
+          "provenance": {
+            "source_id": "nz-awareness-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-awareness-parameters-20260908",
+            "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-awareness-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-awareness-detail-2",
+        "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+        "revision_id": "nz-awareness-parameters-20260908",
         "capture_sha256": "252694507b1ef4b9bd332d3ee7a449846c5e157184e99fef7856e6fddb794e40",
         "capture_verified_locally": true
       },
@@ -5535,6 +5716,18 @@
           "supersedes": "nz-awareness-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        },
+        {
+          "id": "nz-awareness-coaching-20260908",
+          "supersedes": "nz-awareness-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-awareness-parameters-20260908",
+          "supersedes": "nz-awareness-coaching-20260908",
+          "checked_on": "2026-09-08",
+          "reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée."
         }
       ],
       "source": {
@@ -5571,9 +5764,21 @@
       "coach_points": "Reconnaître rapidement le nouveau porteur symbolique.",
       "organisation": "Deux équipes face à face, à dix mètres. Un attaquant lève la main.",
       "steps": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.",
+      "objectives": "Travailler l’espace, la défense et la réaction.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler l’espace, la défense et la réaction.",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-no-ball-coaching-20260908",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -5649,8 +5854,8 @@
         "source_id": "nz-no-ball-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-no-ball-detail-2",
+        "locator": "OBJECTIVE et COACHING POINTS",
+        "revision_id": "nz-no-ball-coaching-20260908",
         "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
         "capture_verified_locally": true
       },
@@ -5666,6 +5871,12 @@
           "supersedes": "nz-no-ball-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Rattachement à la capture locale réussie."
+        },
+        {
+          "id": "nz-no-ball-coaching-20260908",
+          "supersedes": "nz-no-ball-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
         }
       ],
       "source": {
@@ -6161,9 +6372,22 @@
       "instructions": "Essai réussi : un point. Toucher : possession adverse à la reprise.",
       "organisation": "Deux files face à face ; le ballon circule dans une file.",
       "steps": "Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.",
+      "coach_points": "Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.",
+      "objectives": "Développer la manipulation et les réactions.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Développer la manipulation et les réactions.",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-touchdown-coaching-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -6214,34 +6438,96 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-touchdown-coaching-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-touchdown-parameters-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 10,
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-touchdown-parameters-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 12,
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-touchdown-parameters-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "10 × 10 m ; files espacées de 4–5 m",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-touchdown-parameters-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Un ballon et un plot",
+          "provenance": {
+            "source_id": "nz-touchdown-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-touchdown-parameters-20260908",
+            "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-touchdown-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-touchdown-detail-2",
+        "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+        "revision_id": "nz-touchdown-parameters-20260908",
         "capture_sha256": "52cb0c6ddfb0fd64c38b153bce2d892209a925bfce010c263d1083f7abc38a9f",
         "capture_verified_locally": true
       },
@@ -6257,6 +6543,18 @@
           "supersedes": "nz-touchdown-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        },
+        {
+          "id": "nz-touchdown-coaching-20260908",
+          "supersedes": "nz-touchdown-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-touchdown-parameters-20260908",
+          "supersedes": "nz-touchdown-coaching-20260908",
+          "checked_on": "2026-09-08",
+          "reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée."
         }
       ],
       "source": {
@@ -6453,9 +6751,23 @@
       "instructions": "Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.",
       "organisation": "Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.",
       "steps": "Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.",
+      "coach_points": "Garder les bras souples, fléchir les coudes et tourner les épaules.",
+      "common_errors": "Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.",
+      "objectives": "Développer la passe et la réception.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Développer la passe et la réception.",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-circle-coaching-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -6503,37 +6815,110 @@
           "state": "NOT_EXTRACTED"
         },
         "common_errors": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-circle-coaching-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Garder les bras souples, fléchir les coudes et tourner les épaules.",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-circle-coaching-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-circle-parameters-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 6,
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-circle-parameters-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 8,
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-circle-parameters-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "10 × 10 m",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-circle-parameters-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Un ballon par groupe",
+          "provenance": {
+            "source_id": "nz-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-circle-parameters-20260908",
+            "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-circle-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-circle-detail-2",
+        "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+        "revision_id": "nz-circle-parameters-20260908",
         "capture_sha256": "b793b950dcdcacb9e6e43feac38c2657a9494b1f4cc4f20a7ac29afabefd67f9",
         "capture_verified_locally": true
       },
@@ -6549,6 +6934,18 @@
           "supersedes": "nz-circle-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        },
+        {
+          "id": "nz-circle-coaching-20260908",
+          "supersedes": "nz-circle-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-circle-parameters-20260908",
+          "supersedes": "nz-circle-coaching-20260908",
+          "checked_on": "2026-09-08",
+          "reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée."
         }
       ],
       "source": {
@@ -6586,6 +6983,7 @@
       "objectives": "Recevoir après un changement de posture.",
       "organisation": "Trois joueurs en triangle.",
       "steps": "Passer, s’asseoir et se relever avant de recevoir à nouveau.",
+      "coach_points": "Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -6650,7 +7048,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.",
+          "provenance": {
+            "source_id": "rc-triangle",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-triangle-coaching-20260908",
+            "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -6674,9 +7083,9 @@
       "enrichment_provenance": {
         "source_id": "rc-triangle",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-triangle-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres du contenu principal uniquement",
+        "revision_id": "rc-triangle-coaching-20260908",
         "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
         "capture_verified_locally": true
       },
@@ -6686,6 +7095,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-triangle-coaching-20260908",
+          "supersedes": "rc-triangle-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Précisions pédagogiques relevées dans la capture existante."
         }
       ],
       "source": {
@@ -7534,9 +7949,22 @@
       "instructions": "Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.",
       "organisation": "Une file traverse une zone où les ballons sont dispersés.",
       "steps": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.",
+      "common_errors": "Lâcher ou faire rouler le ballon au lieu de le poser fermement.",
+      "objectives": "Ramasser et sécuriser le ballon au sol.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ramasser et sécuriser le ballon au sol.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-pick-place-coaching-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -7584,37 +8012,99 @@
           "state": "NOT_EXTRACTED"
         },
         "common_errors": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Lâcher ou faire rouler le ballon au lieu de le poser fermement.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-pick-place-coaching-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "coach_points": {
           "state": "NOT_EXTRACTED"
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-pick-place-parameters-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 15,
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-pick-place-parameters-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 20,
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-pick-place-parameters-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "20 × 20 m",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-pick-place-parameters-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Cinq à huit ballons",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+            "revision_id": "nz-pick-place-parameters-20260908",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-pick-place-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "DRILL EXPLANATION et COACHING POINTS",
-        "revision_id": "nz-pick-place-detail-2",
+        "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
+        "revision_id": "nz-pick-place-parameters-20260908",
         "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
         "capture_verified_locally": true
       },
@@ -7630,6 +8120,18 @@
           "supersedes": "nz-pick-place-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Description contrôlée dans la capture locale ; rattachement de son empreinte."
+        },
+        {
+          "id": "nz-pick-place-coaching-20260908",
+          "supersedes": "nz-pick-place-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-pick-place-parameters-20260908",
+          "supersedes": "nz-pick-place-coaching-20260908",
+          "checked_on": "2026-09-08",
+          "reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée."
         }
       ],
       "source": {
@@ -7745,6 +8247,8 @@
       "objectives": "Coordonner réception et rebond.",
       "organisation": "Deux partenaires face à face.",
       "steps": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.",
+      "coach_points": "Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.",
+      "common_errors": "Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -7806,10 +8310,32 @@
           "state": "NOT_EXTRACTED"
         },
         "common_errors": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner.",
+          "provenance": {
+            "source_id": "rc-bounce",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-bounce-coaching-20260908",
+            "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+            "capture_verified_locally": true
+          }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.",
+          "provenance": {
+            "source_id": "rc-bounce",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-bounce-coaching-20260908",
+            "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -7833,9 +8359,9 @@
       "enrichment_provenance": {
         "source_id": "rc-bounce",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-bounce-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres du contenu principal uniquement",
+        "revision_id": "rc-bounce-coaching-20260908",
         "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
         "capture_verified_locally": true
       },
@@ -7845,6 +8371,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-bounce-coaching-20260908",
+          "supersedes": "rc-bounce-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Précisions pédagogiques relevées dans la capture existante."
         }
       ],
       "source": {
@@ -8075,6 +8607,7 @@
       "organisation": "Groupes alignés devant quatre plots espacés de dix mètres.",
       "steps": "Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.",
       "objectives": "Améliorer la manipulation du ballon.",
+      "coach_points": "Feinter avant de s’écarter dans le changement de direction.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -8139,7 +8672,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Feinter avant de s’écarter dans le changement de direction.",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "OBJECTIVE et COACHING POINTS",
+            "revision_id": "nz-handling-relay-coaching-20260908",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -8216,8 +8760,8 @@
         "source_id": "nz-handling-relay-source",
         "actor": "assistant",
         "checked_on": "2026-09-08",
-        "locator": "Description et paramètres du jeu",
-        "revision_id": "nz-handling-relay-detail-2",
+        "locator": "OBJECTIVE et COACHING POINTS",
+        "revision_id": "nz-handling-relay-coaching-20260908",
         "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
         "capture_verified_locally": true
       },
@@ -8233,6 +8777,12 @@
           "supersedes": "nz-handling-relay-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Vérification du texte capturé et ajout de l’objectif."
+        },
+        {
+          "id": "nz-handling-relay-coaching-20260908",
+          "supersedes": "nz-handling-relay-detail-2",
+          "checked_on": "2026-09-08",
+          "reason": "Complément pédagogique vérifié dans la capture locale."
         }
       ],
       "source": {
@@ -9396,6 +9946,8 @@
       "objectives": "Éviter les défenseurs ; défendre collectivement.",
       "organisation": "Huit traversants face à deux chasseurs au départ.",
       "steps": "Traverser ; les joueurs touchés rejoignent les chasseurs.",
+      "coach_points": "Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.",
+      "success_criteria": "Traverser sans être touché ; le dernier attaquant restant gagne.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -9454,13 +10006,35 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Traverser sans être touché ; le dernier attaquant restant gagne.",
+          "provenance": {
+            "source_id": "rc-bulldog",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-bulldog-coaching-20260908",
+            "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.",
+          "provenance": {
+            "source_id": "rc-bulldog",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres du contenu principal uniquement",
+            "revision_id": "rc-bulldog-coaching-20260908",
+            "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -9484,9 +10058,9 @@
       "enrichment_provenance": {
         "source_id": "rc-bulldog",
         "actor": "assistant",
-        "checked_on": "2026-09-07",
-        "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
-        "revision_id": "rc-bulldog-detail-1",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres du contenu principal uniquement",
+        "revision_id": "rc-bulldog-coaching-20260908",
         "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
         "capture_verified_locally": true
       },
@@ -9496,6 +10070,12 @@
           "supersedes": null,
           "checked_on": "2026-09-07",
           "reason": null
+        },
+        {
+          "id": "rc-bulldog-coaching-20260908",
+          "supersedes": "rc-bulldog-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Précisions pédagogiques relevées dans la capture existante."
         }
       ],
       "source": {
