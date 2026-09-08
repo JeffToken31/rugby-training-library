@@ -1,0 +1,97 @@
+{
+  "enrichments": [
+    {
+      "id": "scot-animal-detail-1",
+      "variant_id": "scot-animal",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "PDF page 17, fiche complète",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Reprendre le jeu après un déplacement animal."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après un toucher, effectuer un déplacement animal puis revenir jouer."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Plots et chasubles"
+        }
+      }
+    },
+    {
+      "id": "scot-endzone-detail-1",
+      "variant_id": "scot-endzone",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "PDF page 22, fiche complète",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Atteindre la zone adverse en courant ou passant."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes équilibrées ; une zone de marque à chaque extrémité."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Plots, chasubles et ballon"
+        }
+      }
+    },
+    {
+      "id": "scot-passback-detail-1",
+      "variant_id": "scot-passback",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "PDF page 23, fiche complète",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer en soutenant le porteur."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes, deux zones de marque et deux jokers toujours attaquants."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Plots, chasubles et ballon"
+        }
+      }
+    }
+  ]
+}

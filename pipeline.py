@@ -21,7 +21,14 @@ def run(db,manifest,root,out,collect=False,limit=12):
     if collect:
         blocked=set()
         cutoff=(datetime.now(timezone.utc)-timedelta(hours=24)).isoformat()
-        for id in manifest.get("capture_resources",[])[:limit]:
+        # Pending resources come first so a bounded recurring run makes progress.
+        known={row[0] for row in db.execute("SELECT DISTINCT resource_id FROM captures")}
+        queue=list(dict.fromkeys(manifest.get("capture_resources",[])))
+        queue.sort(key=lambda resource_id: resource_id in known)
+        attempted=0
+        for id in queue:
+            if attempted>=limit:
+                break
             source=db.execute("SELECT url FROM resources WHERE id=?",(id,)).fetchone()
             if source is None:
                 events.append({"resource_id":id,"state":"FAILED","error":"Ressource inconnue"})
@@ -31,6 +38,7 @@ def run(db,manifest,root,out,collect=False,limit=12):
             if host in blocked or recent:
                 events.append({"resource_id":id,"state":"DEFERRED","error":"Blocage récent ; autre source priorisée"})
                 continue
+            attempted+=1
             result=captures.capture(db,id,root/"data/raw")
             if result["state"] in ("DONE","REUSED"):
                 try:

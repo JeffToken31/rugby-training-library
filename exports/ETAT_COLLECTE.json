@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T10:22:15.280898+00:00",
-  "variants": 64,
-  "documented": 55,
+  "generated_at": "2026-09-08T10:56:38.080771+00:00",
+  "variants": 67,
+  "documented": 58,
   "incomplete": 9,
-  "enriched": 20,
+  "enriched": 23,
   "resources": 47,
-  "captured_resources": 22,
+  "captured_resources": 23,
   "families": 1,
   "events": []
 }

@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-64 fiches — les propositions terrain restent à valider par le coach.
+67 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -81,6 +81,7 @@
 |---|---|---|
 | [Carré 2](fiches/ffr-carre2-atelier.md) | M8 | À compléter |
 | [Chasse aux trésors — parcours](fiches/ffr-tresors2023.md) | M8 | Documentée ; à valider |
+| [Chat et déplacements animaux](fiches/scot-animal.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 | [Déplacement à quatre appuis](fiches/ffr-appuis.md) | M8 | Documentée ; à valider |
 | [Relais avec essai](fiches/scot-relais.md) | Primaire (Écosse) | Documentée ; à valider |
 | [Relais — courir, rouler, passer](fiches/ffr-relais-atelier.md) | M8 | À compléter |
@@ -89,6 +90,7 @@
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Atteindre la zone opposée](fiches/scot-endzone.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 | [Chasseurs passeurs par trois](fiches/scot-corner.md) | Primaire (Écosse) | Documentée ; à valider |
 | [Deux contre un sans contact](fiches/rc-two-one.md) | U7 (classement du site) | 8 min / 6–9 enfants |
 | [Dix passes - variante communautaire documentee](fiches/rc-ten.md) | U8 (classement du site) | Documentée ; à valider |
@@ -131,6 +133,12 @@
 |---|---|---|
 | [Speedy — un ballon chacun](fiches/ffr-speedy-individuel.md) | M8 | Documentée ; à valider |
 | [Speedy — un ballon pour deux](fiches/ffr-speedy-partage.md) | M8 | Documentée ; à valider |
+
+## Soutien
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Passe arrière avec jokers](fiches/scot-passback.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 
 ## Évitement
 

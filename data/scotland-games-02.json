@@ -1,0 +1,55 @@
+{
+  "exercises": [
+    {
+      "id": "scot-animal",
+      "source_id": "scot-primary",
+      "title": "Chat et déplacements animaux",
+      "summary": "Reprendre le jeu après un déplacement animal.",
+      "locator": "PDF page 17 (pagination fichier)",
+      "page_start": 17,
+      "page_end": 17,
+      "theme": "motricité",
+      "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Plots et chasubles",
+      "status": "documented",
+      "review": "Lecture du texte et du schéma ; validation coach non effectuée."
+    },
+    {
+      "id": "scot-endzone",
+      "source_id": "scot-primary",
+      "title": "Atteindre la zone opposée",
+      "summary": "Atteindre la zone adverse en courant ou passant.",
+      "locator": "PDF page 22 (pagination fichier)",
+      "page_start": 22,
+      "page_end": 22,
+      "theme": "passe",
+      "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Plots, chasubles et ballon",
+      "status": "documented",
+      "review": "Lecture du texte et du schéma ; validation coach non effectuée."
+    },
+    {
+      "id": "scot-passback",
+      "source_id": "scot-primary",
+      "title": "Passe arrière avec jokers",
+      "summary": "Avancer en soutenant le porteur.",
+      "locator": "PDF page 23 (pagination fichier)",
+      "page_start": 23,
+      "page_end": 23,
+      "theme": "soutien",
+      "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Plots, chasubles et ballon",
+      "status": "documented",
+      "review": "Lecture du texte et du schéma ; validation coach non effectuée."
+    }
+  ]
+}

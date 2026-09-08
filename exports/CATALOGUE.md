@@ -1,9 +1,35 @@
 # Bibliothèque rugby U8
 
-64 fiches · 47 sources
+67 fiches · 47 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+
+## Atteindre la zone opposée
+
+**passe · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+
+Atteindre la zone adverse en courant ou passant.
+
+**Matériel :** Plots, chasubles et ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 22 (pagination fichier) · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Objectifs :** Atteindre la zone adverse en courant ou passant.
+
+**Organisation :** Deux équipes équilibrées ; une zone de marque à chaque extrémité.
+
+**Déroulement :** Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.
+
+Détails extraits le 2026-09-08 — PDF page 22, fiche complète.
 
 ## Avancer et passer avant le tag
 
@@ -210,6 +236,32 @@ Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une 
 [Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 11 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+## Chat et déplacements animaux
+
+**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+
+Reprendre le jeu après un déplacement animal.
+
+**Matériel :** Plots et chasubles
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 17 (pagination fichier) · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Objectifs :** Reprendre le jeu après un déplacement animal.
+
+**Organisation :** Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.
+
+**Déroulement :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
+
+Détails extraits le 2026-09-08 — PDF page 17, fiche complète.
 
 ## Chercher les espaces libres
 
@@ -864,6 +916,32 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositive 3 — Panthères et chenilles · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Passe arrière avec jokers
+
+**soutien · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+
+Avancer en soutenant le porteur.
+
+**Matériel :** Plots, chasubles et ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 23 (pagination fichier) · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Objectifs :** Avancer en soutenant le porteur.
+
+**Organisation :** Deux équipes, deux zones de marque et deux jokers toujours attaquants.
+
+**Déroulement :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
+
+Détails extraits le 2026-09-08 — PDF page 23, fiche complète.
 
 ## Passer avec un soutien en retrait
 

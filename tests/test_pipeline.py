@@ -30,3 +30,16 @@ class PipelineTests(unittest.TestCase):
             self.assertEqual(len(result["events"]),2)
             self.assertEqual(result["variants"],33)
             db.close()
+
+    def test_pending_resource_precedes_cached_with_limit_one(self):
+        with tempfile.TemporaryDirectory() as tmp:
+            db=v2.connect(Path(tmp)/"db.sqlite")
+            v2.ingest(db,json.loads((v2.ROOT/"data/seed.json").read_text()))
+            with patch.object(pipeline.captures,"allowed"),patch.object(pipeline.captures,"fetch",return_value=(b"<p>source</p>","https://example.com",200,"text/html")):
+                pipeline.captures.capture(db,"rc-eggs",Path(tmp)/"raw")
+            manifest={"data":["data/seed.json"],"enrichments":[],"capture_resources":["rc-eggs","rc-netball"]}
+            with patch.object(pipeline.captures,"capture",return_value={"resource_id":"rc-netball","state":"FAILED","error":"timeout"}) as collect,patch.object(pipeline.time,"sleep"):
+                pipeline.run(db,manifest,v2.ROOT,Path(tmp)/"exports",True,1)
+            self.assertEqual(collect.call_count,1)
+            self.assertEqual(collect.call_args.args[1],"rc-netball")
+            db.close()

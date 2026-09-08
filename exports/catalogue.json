@@ -520,6 +520,94 @@
   ],
   "exercises": [
     {
+      "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
+      "duration_min": null,
+      "id": "scot-endzone",
+      "locator": "PDF page 22 (pagination fichier)",
+      "material": "Plots, chasubles et ballon",
+      "page_end": 22,
+      "page_start": 22,
+      "players_max": null,
+      "players_min": null,
+      "review": "Lecture du texte et du schéma ; validation coach non effectuée.",
+      "source_id": "scot-primary",
+      "status": "documented",
+      "summary": "Atteindre la zone adverse en courant ou passant.",
+      "theme": "passe",
+      "title": "Atteindre la zone opposée",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Atteindre la zone adverse en courant ou passant."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes équilibrées ; une zone de marque à chaque extrémité."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions."
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Plots, chasubles et ballon"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "scot-primary",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "PDF page 22, fiche complète",
+        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+        "capture_verified_locally": true
+      },
+      "objectives": "Atteindre la zone adverse en courant ou passant.",
+      "organisation": "Deux équipes équilibrées ; une zone de marque à chaque extrémité.",
+      "steps": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.",
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-07",
+        "format": "PDF",
+        "id": "scot-primary",
+        "language": "en",
+        "publisher": "Scottish Rugby",
+        "qualification_note": "Recueil de fiches et exemples de séances ; extraction partielle.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Primary School Teacher Resource Pack",
+        "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation_u8": "Adapter les règles au cadre de ton club ; encourager le soutien sans imposer une passe systématique lorsqu’un espace libre permet d’avancer.",
       "age_source": "Non précisé",
       "contact": "sans plaquage",
@@ -1268,6 +1356,94 @@
         "publisher": "Munster Rugby",
         "title": "Fundamental Movement — mars 2021",
         "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
+      "duration_min": null,
+      "id": "scot-animal",
+      "locator": "PDF page 17 (pagination fichier)",
+      "material": "Plots et chasubles",
+      "page_end": 17,
+      "page_start": 17,
+      "players_max": null,
+      "players_min": null,
+      "review": "Lecture du texte et du schéma ; validation coach non effectuée.",
+      "source_id": "scot-primary",
+      "status": "documented",
+      "summary": "Reprendre le jeu après un déplacement animal.",
+      "theme": "motricité",
+      "title": "Chat et déplacements animaux",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Reprendre le jeu après un déplacement animal."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après un toucher, effectuer un déplacement animal puis revenir jouer."
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Plots et chasubles"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "scot-primary",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "PDF page 17, fiche complète",
+        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+        "capture_verified_locally": true
+      },
+      "objectives": "Reprendre le jeu après un déplacement animal.",
+      "organisation": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.",
+      "steps": "Après un toucher, effectuer un déplacement animal puis revenir jouer.",
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-07",
+        "format": "PDF",
+        "id": "scot-primary",
+        "language": "en",
+        "publisher": "Scottish Rugby",
+        "qualification_note": "Recueil de fiches et exemples de séances ; extraction partielle.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Primary School Teacher Resource Pack",
+        "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -3367,6 +3543,94 @@
         "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080"
       },
       "model_status": "AI_PARSED",
+      "references": []
+    },
+    {
+      "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
+      "duration_min": null,
+      "id": "scot-passback",
+      "locator": "PDF page 23 (pagination fichier)",
+      "material": "Plots, chasubles et ballon",
+      "page_end": 23,
+      "page_start": 23,
+      "players_max": null,
+      "players_min": null,
+      "review": "Lecture du texte et du schéma ; validation coach non effectuée.",
+      "source_id": "scot-primary",
+      "status": "documented",
+      "summary": "Avancer en soutenant le porteur.",
+      "theme": "soutien",
+      "title": "Passe arrière avec jokers",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer en soutenant le porteur."
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes, deux zones de marque et deux jokers toujours attaquants."
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe."
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Plots, chasubles et ballon"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "scot-primary",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "PDF page 23, fiche complète",
+        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+        "capture_verified_locally": true
+      },
+      "objectives": "Avancer en soutenant le porteur.",
+      "organisation": "Deux équipes, deux zones de marque et deux jokers toujours attaquants.",
+      "steps": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.",
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-07",
+        "format": "PDF",
+        "id": "scot-primary",
+        "language": "en",
+        "publisher": "Scottish Rugby",
+        "qualification_note": "Recueil de fiches et exemples de séances ; extraction partielle.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Primary School Teacher Resource Pack",
+        "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
+      },
+      "model_status": "REVIEWED",
       "references": []
     },
     {
