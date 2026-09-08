@@ -23,6 +23,18 @@ Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
 
+**Objectifs :** Collecter davantage de ballons que les autres équipes.
+
+**Organisation :** Équipes de trois, avec un nid par équipe.
+
+**Déroulement :** Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.
+
+**Consignes :** Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
+**Points coach issus de la source :** Montrer simplement la tâche, puis construire les progressions par petites étapes.
+
 **Variante sourcée complémentaire :** Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe.
 
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description / Change It

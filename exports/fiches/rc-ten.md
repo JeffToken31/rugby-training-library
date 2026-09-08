@@ -23,6 +23,10 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 
 **Accès :** Description publique seulement ; déroulement non vérifié
 
+**Objectifs :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
 **Variante sourcée complémentaire :** Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 
 [Sportplan Community](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION

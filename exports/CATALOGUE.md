@@ -49,6 +49,18 @@ Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la p
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Trouver des espaces et soutenir pour marquer.
+
+**Organisation :** Deux équipes de tag et deux directions de marque opposées.
+
+**Déroulement :** Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.
+
+**Consignes :** La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
+**Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
+
 ## Capturer les extraterrestres par la passe
 
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
@@ -321,6 +333,14 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Coordonner les échanges de deux ballons.
+
+**Déroulement :** Alterner deux circuits de passe ; installer le rythme avant d’accélérer.
+
+**Consignes :** Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
 **Variante sourcée complémentaire :** La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
 
 [RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie
@@ -420,6 +440,10 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique · consultée le 2026-09-06
 
 **Accès :** Description publique seulement ; déroulement non vérifié
+
+**Objectifs :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
 
 **Variante sourcée complémentaire :** Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 
@@ -844,6 +868,18 @@ Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres : équipes de trois et collecte · consultée le 2026-09-06
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
+
+**Objectifs :** Collecter davantage de ballons que les autres équipes.
+
+**Organisation :** Équipes de trois, avec un nid par équipe.
+
+**Déroulement :** Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.
+
+**Consignes :** Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
+**Points coach issus de la source :** Montrer simplement la tâche, puis construire les progressions par petites étapes.
 
 **Variante sourcée complémentaire :** Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe.
 

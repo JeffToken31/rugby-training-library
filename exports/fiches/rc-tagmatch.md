@@ -23,6 +23,18 @@ Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la p
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Trouver des espaces et soutenir pour marquer.
+
+**Organisation :** Deux équipes de tag et deux directions de marque opposées.
+
+**Déroulement :** Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.
+
+**Consignes :** La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
+**Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
+
 ## Répertoire des sources
 
 - [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

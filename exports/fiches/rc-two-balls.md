@@ -23,6 +23,14 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Coordonner les échanges de deux ballons.
+
+**Déroulement :** Alterner deux circuits de passe ; installer le rythme avant d’accélérer.
+
+**Consignes :** Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.
+
+Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+
 **Variante sourcée complémentaire :** La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
 
 [RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie

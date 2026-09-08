@@ -13,7 +13,8 @@
     "data/enrichment-details.json",
     "data/enrichment-batch-02.json",
     "data/enrichment-batch-03.json",
-    "data/enrichment-scotland-02.json"
+    "data/enrichment-scotland-02.json",
+    "data/enrichment-archives-01.json"
   ],
   "capture_resources": [
     "rc-piggy",

@@ -625,16 +625,24 @@
       "title": "Avancer et passer avant le tag",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trouver des espaces et soutenir pour marquer."
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes de tag et deux directions de marque opposées."
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation."
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation."
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -643,7 +651,9 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces."
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -662,6 +672,19 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-tagmatch",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+        "capture_verified_locally": true
+      },
+      "coach_points": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.",
+      "instructions": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.",
+      "objectives": "Trouver des espaces et soutenir pour marquer.",
+      "organisation": "Deux équipes de tag et deux directions de marque opposées.",
+      "steps": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.",
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1628,16 +1651,22 @@
       "title": "Coordonner deux ballons",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Coordonner les échanges de deux ballons."
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer."
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire."
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1665,6 +1694,17 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-two-balls",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+        "capture_verified_locally": true
+      },
+      "instructions": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.",
+      "objectives": "Coordonner les échanges de deux ballons.",
+      "steps": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer.",
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1951,7 +1991,9 @@
       "title": "Dix passes - variante communautaire documentee",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se rendre disponible sans ballon et communiquer pour faciliter la passe."
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -1987,6 +2029,15 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-ten",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "capture_sha256": "1aab60868748ea9248f0c03c491af60e5c12c98a59686bd524e840c4ccb4e1b7",
+        "capture_verified_locally": true
+      },
+      "objectives": "Se rendre disponible sans ballon et communiquer pour faciliter la passe.",
       "source": {
         "access": "Description publique seulement ; déroulement non vérifié",
         "checked_on": "2026-09-06",
@@ -3285,16 +3336,24 @@
       },
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Collecter davantage de ballons que les autres équipes."
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Équipes de trois, avec un nid par équipe."
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin."
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons."
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -3303,7 +3362,9 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Montrer simplement la tâche, puis construire les progressions par petites étapes."
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -3322,6 +3383,19 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-eggs",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+        "capture_verified_locally": true
+      },
+      "coach_points": "Montrer simplement la tâche, puis construire les progressions par petites étapes.",
+      "instructions": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.",
+      "objectives": "Collecter davantage de ballons que les autres équipes.",
+      "organisation": "Équipes de trois, avec un nid par équipe.",
+      "steps": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.",
       "source": {
         "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
         "checked_on": "2026-09-06",

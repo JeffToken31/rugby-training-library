@@ -1,0 +1,118 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-eggs-detail-1",
+      "variant_id": "rc-eggs",
+      "source_id": "rc-eggs",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+      "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Collecter davantage de ballons que les autres équipes."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Équipes de trois, avec un nid par équipe."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Montrer simplement la tâche, puis construire les progressions par petites étapes."
+        }
+      }
+    },
+    {
+      "id": "rc-two-balls-detail-1",
+      "variant_id": "rc-two-balls",
+      "source_id": "rc-two-balls",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+      "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Coordonner les échanges de deux ballons."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire."
+        }
+      }
+    },
+    {
+      "id": "rc-tagmatch-detail-1",
+      "variant_id": "rc-tagmatch",
+      "source_id": "rc-tagmatch",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+      "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trouver des espaces et soutenir pour marquer."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de tag et deux directions de marque opposées."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces."
+        }
+      }
+    },
+    {
+      "id": "rc-ten-detail-1",
+      "variant_id": "rc-ten",
+      "source_id": "rc-ten",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+      "capture_sha256": "1aab60868748ea9248f0c03c491af60e5c12c98a59686bd524e840c4ccb4e1b7",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se rendre disponible sans ballon et communiquer pour faciliter la passe."
+        }
+      }
+    }
+  ]
+}
