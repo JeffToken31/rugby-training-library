@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-70 fiches — les propositions terrain restent à valider par le coach.
+72 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -147,5 +147,7 @@
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) | Initiation Get Into Rugby ; âge précis non indiqué | Documentée ; à valider |
+| [Épouvantails avec délivrance](fiches/wr-scarecrow.md) | Initiation Get Into Rugby ; âge précis non indiqué | Documentée ; à valider |
 | [Traverser les zones gardées](fiches/scot-zones.md) | Primaire (Écosse) | Documentée ; à valider |
 

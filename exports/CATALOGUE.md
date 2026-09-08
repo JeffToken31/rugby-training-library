@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-70 fiches · 48 sources
+72 fiches · 49 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -226,6 +226,38 @@ Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suiva
 **Accès :** PDF public consulté
 
 **Information source contradictoire :** Matériel : 5 ; récit : 6.
+
+## Chasse et arrêt dans un espace libre
+
+**évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
+
+Chasse et arrêt dans un espace libre
+
+**Matériel :** Source pour six ateliers : six ballons et douze plots
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — Par atelier ; source organisée en six ateliers parallèles
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Section Find the Space · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
+
+**Déroulement :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
+
+**Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
+
+Détails extraits le 2026-09-08 — Section Find the Space.
+
+**Points coach issus de la source :** Changer le chasseur après une minute.
+
+**Espace source :** 5 × 5 m par atelier
+
+**Manche source :** 60 secondes ; durée totale inconnue.
 
 ## Chasseurs passeurs par trois
 
@@ -526,6 +558,38 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositive 3 — Duels et soutien · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+## Épouvantails avec délivrance
+
+**évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
+
+Épouvantails avec délivrance
+
+**Matériel :** Source pour six ateliers : six ballons et douze plots
+
+**Durée atelier :** 5 min
+
+**Effectif :** 5–5 — Par atelier ; source organisée en six ateliers parallèles
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Section Scarecrow Tag · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
+
+**Déroulement :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
+
+**Consignes :** Toucher à deux mains à la taille sans pousser.
+
+Détails extraits le 2026-09-08 — Section Scarecrow Tag.
+
+**Points coach issus de la source :** Changer le chasseur après une minute.
+
+**Espace source :** 5 × 5 m par atelier
+
+**Manche source :** 60 secondes ; durée totale inconnue.
 
 ## Épouvantails — chasseurs passeurs
 
@@ -1823,3 +1887,4 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
 - [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION publique consultée. Auteur non identifié sur la page ; variante documentaire, pas confirmation du déroulement de la vidéo RugbyCoaching.tv.
 - [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — Page publique consultée ; ressources détaillées à examiner. Point de départ pour élargir la collecte.
+- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.

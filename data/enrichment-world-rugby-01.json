@@ -1,0 +1,130 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-scarecrow-detail-1",
+      "variant_id": "wr-scarecrow",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Section Scarecrow Tag",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs : un chasseur et quatre fuyards."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Toucher à deux mains à la taille sans pousser."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer le chasseur après une minute."
+        }
+      }
+    },
+    {
+      "id": "wr-find-space-detail-1",
+      "variant_id": "wr-find-space",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Section Find the Space",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs : un chasseur et quatre fuyards."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder les deux mains sur le ballon ; compter les joueurs touchés."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer le chasseur après une minute."
+        }
+      }
+    },
+    {
+      "id": "wr-scarecrow-detail-2",
+      "variant_id": "wr-scarecrow",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Section Scarecrow Tag",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs : un chasseur et quatre fuyards."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Toucher à deux mains à la taille sans pousser."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer le chasseur après une minute."
+        }
+      },
+      "supersedes": "wr-scarecrow-detail-1",
+      "revision_reason": "Rattachement à la capture locale désormais disponible.",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5"
+    },
+    {
+      "id": "wr-find-space-detail-2",
+      "variant_id": "wr-find-space",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Section Find the Space",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs : un chasseur et quatre fuyards."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder les deux mains sur le ballon ; compter les joueurs touchés."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer le chasseur après une minute."
+        }
+      },
+      "supersedes": "wr-find-space-detail-1",
+      "revision_reason": "Rattachement à la capture locale désormais disponible.",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5"
+    }
+  ]
+}

@@ -9,7 +9,8 @@
     "data/scotland-games-02.json",
     "data/comparisons-01.json",
     "data/rounders-01.json",
-    "data/ffr-guide-2023.json"
+    "data/ffr-guide-2023.json",
+    "data/world-rugby-01.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -19,7 +20,8 @@
     "data/enrichment-archives-01.json",
     "data/enrichment-cooperation-02.json",
     "data/enrichment-ffr-guide-2023.json",
-    "data/enrichment-revisions-01.json"
+    "data/enrichment-revisions-01.json",
+    "data/enrichment-world-rugby-01.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -69,6 +71,7 @@
     "rc-hare-hound-source",
     "rc-rounders-source",
     "rc-breakout-source",
-    "ffr-guide-m8-2023"
+    "ffr-guide-m8-2023",
+    "wr-noncontact"
   ]
 }

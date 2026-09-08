@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T16:18:44.182407+00:00",
-  "variants": 70,
-  "documented": 61,
+  "generated_at": "2026-09-08T17:10:15.946330+00:00",
+  "variants": 72,
+  "documented": 63,
   "incomplete": 9,
-  "enriched": 34,
-  "resources": 48,
-  "captured_resources": 40,
+  "enriched": 36,
+  "resources": 49,
+  "captured_resources": 41,
   "families": 1,
   "events": [],
   "resource_inventory": [
@@ -535,6 +535,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T11:59:55.775124+00:00"
+      }
+    },
+    {
+      "resource_id": "wr-noncontact",
+      "title": "Get Into Rugby — Non Contact Activities",
+      "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:09:34.431314+00:00"
       }
     }
   ]

@@ -133,7 +133,7 @@ def markdown(items, sources):
         lines += [f"## {e['title']}", "", f"**{e['theme']} · âge source : {e['age_source']} · {e['review']}**", "",
                   e["summary"], "", "**Matériel :** " + (e.get("material") or "Non renseigné"),
                   "", "**Durée atelier :** " + (str(e.get("duration_min")) + " min" if e.get("duration_min") else "Non renseignée"),
-                  "", "**Effectif :** " + (f"{e['players_min']}–{e['players_max']}" if e.get("players_min") and e.get("players_max") else "Non renseigné"),
+                  "", "**Effectif :** " + (f"{e['players_min']}–{e['players_max']}" if e.get("players_min") and e.get("players_max") else "Non renseigné") + (" — "+e["participants_scope"] if e.get("participants_scope") else ""),
                   "", "**Adaptation U8 proposée :** " + (e.get("adaptation_u8") or "Aucune rédigée."),
                   "", f"[Source : {s['publisher']}]({s['url']}) — {e['locator']} · consultée le {s['checked_on']}",
                   "", "**Accès :** " + s["access"], ""]
@@ -191,7 +191,7 @@ def export(db, directory, items_override=None, sources_override=None):
         index.append("")
     (directory/"INDEX.md").write_text("\n".join(index)+"\n",encoding="utf-8")
     with (directory/"exercises.csv").open("w",encoding="utf-8-sig",newline="") as f:
-        columns = ["id","title","theme","age_source","duration_min","players_min","players_max","summary","material","adaptation_u8","review","url","locator"]
+        columns = ["id","title","theme","age_source","duration_min","players_min","players_max","participants_scope","summary","material","adaptation_u8","review","url","locator"]
         writer = csv.DictWriter(f,fieldnames=columns,extrasaction="ignore",lineterminator="\n")
         writer.writeheader()
         for e in items:

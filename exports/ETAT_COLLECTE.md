@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-70 fiches ; 61 documentées ; 9 incomplètes.
-34 fiches enrichies ; 48 ressources ; 40 ressources capturées localement.
+72 fiches ; 63 documentées ; 9 incomplètes.
+36 fiches enrichies ; 49 ressources ; 41 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 27 | 43 | 0 | 0 | 0 |
-| organisation | 32 | 38 | 0 | 0 | 0 |
-| steps | 33 | 37 | 0 | 0 | 0 |
-| instructions | 28 | 42 | 0 | 0 | 0 |
-| success_criteria | 5 | 65 | 0 | 0 | 0 |
-| common_errors | 1 | 69 | 0 | 0 | 0 |
-| coach_points | 7 | 63 | 0 | 0 | 0 |
-| duration_min | 3 | 63 | 4 | 0 | 0 |
-| players_min | 19 | 51 | 0 | 0 | 0 |
-| players_max | 19 | 51 | 0 | 0 | 0 |
-| space | 4 | 62 | 4 | 0 | 0 |
-| material | 54 | 16 | 0 | 0 | 0 |
+| objectives | 27 | 45 | 0 | 0 | 0 |
+| organisation | 34 | 38 | 0 | 0 | 0 |
+| steps | 35 | 37 | 0 | 0 | 0 |
+| instructions | 30 | 42 | 0 | 0 | 0 |
+| success_criteria | 5 | 67 | 0 | 0 | 0 |
+| common_errors | 1 | 71 | 0 | 0 | 0 |
+| coach_points | 9 | 63 | 0 | 0 | 0 |
+| duration_min | 5 | 63 | 4 | 0 | 0 |
+| players_min | 21 | 51 | 0 | 0 | 0 |
+| players_max | 21 | 51 | 0 | 0 | 0 |
+| space | 6 | 62 | 4 | 0 | 0 |
+| material | 56 | 16 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -81,3 +81,4 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T10:54:36.123212+00:00
 - [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:19.359727+00:00
 - [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:55.775124+00:00
+- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:09:34.431314+00:00

@@ -528,6 +528,18 @@
       "publisher": "World Rugby",
       "title": "Get into Rugby",
       "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby"
+    },
+    {
+      "access": "Texte public consulté",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "wr-noncontact",
+      "language": "en",
+      "publisher": "World Rugby",
+      "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+      "resource_type": "WEB_PAGE",
+      "title": "Get Into Rugby — Non Contact Activities",
+      "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
     }
   ],
   "exercises": [
@@ -1556,6 +1568,152 @@
         "resource_type": "TECHNICAL_DOCUMENT",
         "title": "Plan de formation du joueur M8 — mars 2023",
         "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation Get Into Rugby ; âge précis non indiqué",
+      "bout_seconds": 60,
+      "duration_min": 6,
+      "id": "wr-find-space",
+      "locator": "Section Find the Space",
+      "material": "Source pour six ateliers : six ballons et douze plots",
+      "participants_scope": "Par atelier ; source organisée en six ateliers parallèles",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Texte source consulté ; adéquation U8 à valider.",
+      "source_id": "wr-noncontact",
+      "space": "5 × 5 m par atelier",
+      "status": "documented",
+      "summary": "Chasse et arrêt dans un espace libre",
+      "theme": "évitement",
+      "title": "Chasse et arrêt dans un espace libre",
+      "coach_points": "Changer le chasseur après une minute.",
+      "instructions": "Garder les deux mains sur le ballon ; compter les joueurs touchés.",
+      "organisation": "Cinq joueurs : un chasseur et quatre fuyards.",
+      "steps": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq joueurs : un chasseur et quatre fuyards.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Find the Space",
+            "revision_id": "wr-find-space-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Find the Space",
+            "revision_id": "wr-find-space-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Garder les deux mains sur le ballon ; compter les joueurs touchés.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Find the Space",
+            "revision_id": "wr-find-space-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer le chasseur après une minute.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Find the Space",
+            "revision_id": "wr-find-space-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Section Find the Space",
+        "revision_id": "wr-find-space-detail-2",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-find-space-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "wr-find-space-detail-2",
+          "supersedes": "wr-find-space-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Rattachement à la capture locale désormais disponible."
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -2773,6 +2931,152 @@
         "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544"
       },
       "model_status": "AI_PARSED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation Get Into Rugby ; âge précis non indiqué",
+      "bout_seconds": 60,
+      "duration_min": 5,
+      "id": "wr-scarecrow",
+      "locator": "Section Scarecrow Tag",
+      "material": "Source pour six ateliers : six ballons et douze plots",
+      "participants_scope": "Par atelier ; source organisée en six ateliers parallèles",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Texte source consulté ; adéquation U8 à valider.",
+      "source_id": "wr-noncontact",
+      "space": "5 × 5 m par atelier",
+      "status": "documented",
+      "summary": "Épouvantails avec délivrance",
+      "theme": "évitement",
+      "title": "Épouvantails avec délivrance",
+      "coach_points": "Changer le chasseur après une minute.",
+      "instructions": "Toucher à deux mains à la taille sans pousser.",
+      "organisation": "Cinq joueurs : un chasseur et quatre fuyards.",
+      "steps": "Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq joueurs : un chasseur et quatre fuyards.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Scarecrow Tag",
+            "revision_id": "wr-scarecrow-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Scarecrow Tag",
+            "revision_id": "wr-scarecrow-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Toucher à deux mains à la taille sans pousser.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Scarecrow Tag",
+            "revision_id": "wr-scarecrow-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer le chasseur après une minute.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Section Scarecrow Tag",
+            "revision_id": "wr-scarecrow-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Section Scarecrow Tag",
+        "revision_id": "wr-scarecrow-detail-2",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-scarecrow-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "wr-scarecrow-detail-2",
+          "supersedes": "wr-scarecrow-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Rattachement à la capture locale désormais disponible."
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
       "references": []
     },
     {

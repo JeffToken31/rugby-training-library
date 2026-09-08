@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "id": "wr-noncontact",
+      "title": "Get Into Rugby — Non Contact Activities",
+      "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact",
+      "publisher": "World Rugby",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "access": "Texte public consulté",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "wr-scarecrow",
+      "source_id": "wr-noncontact",
+      "title": "Épouvantails avec délivrance",
+      "summary": "Épouvantails avec délivrance",
+      "theme": "évitement",
+      "age_source": "Initiation Get Into Rugby ; âge précis non indiqué",
+      "locator": "Section Scarecrow Tag",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "Par atelier ; source organisée en six ateliers parallèles",
+      "duration_min": 5,
+      "bout_seconds": 60,
+      "space": "5 × 5 m par atelier",
+      "material": "Source pour six ateliers : six ballons et douze plots",
+      "status": "documented",
+      "review": "Texte source consulté ; adéquation U8 à valider."
+    },
+    {
+      "id": "wr-find-space",
+      "source_id": "wr-noncontact",
+      "title": "Chasse et arrêt dans un espace libre",
+      "summary": "Chasse et arrêt dans un espace libre",
+      "theme": "évitement",
+      "age_source": "Initiation Get Into Rugby ; âge précis non indiqué",
+      "locator": "Section Find the Space",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "Par atelier ; source organisée en six ateliers parallèles",
+      "duration_min": 6,
+      "bout_seconds": 60,
+      "space": "5 × 5 m par atelier",
+      "material": "Source pour six ateliers : six ballons et douze plots",
+      "status": "documented",
+      "review": "Texte source consulté ; adéquation U8 à valider."
+    }
+  ]
+}
