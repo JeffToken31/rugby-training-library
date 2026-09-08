@@ -23,6 +23,14 @@ Deux équipes progressent vers une zone de marque, avec des passes possibles dan
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Organisation :** Deux équipes jouant vers une zone de marque.
+
+**Déroulement :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
+
+**Consignes :** Passes dans toutes les directions ; transmettre rapidement après toucher.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 ## Répertoire des sources
 
 - [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Description et sous-titres publics consultés ; vidéo non téléchargée.

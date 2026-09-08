@@ -7,14 +7,19 @@
     "data/rc-cooperation.json",
     "data/games-batch-03.json",
     "data/scotland-games-02.json",
-    "data/comparisons-01.json"
+    "data/comparisons-01.json",
+    "data/rounders-01.json",
+    "data/ffr-guide-2023.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
     "data/enrichment-batch-02.json",
     "data/enrichment-batch-03.json",
     "data/enrichment-scotland-02.json",
-    "data/enrichment-archives-01.json"
+    "data/enrichment-archives-01.json",
+    "data/enrichment-cooperation-02.json",
+    "data/enrichment-ffr-guide-2023.json",
+    "data/enrichment-revisions-01.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -63,6 +68,7 @@
     "rc-endball-groups-source",
     "rc-hare-hound-source",
     "rc-rounders-source",
-    "rc-breakout-source"
+    "rc-breakout-source",
+    "ffr-guide-m8-2023"
   ]
 }

@@ -1,0 +1,19 @@
+{
+  "exercises": [
+    {
+      "id": "rc-rounders",
+      "source_id": "rc-rounders-source",
+      "title": "Course autour des bases contre trois passes",
+      "summary": "Un coureur tente de boucler son parcours avant trois passes adverses.",
+      "theme": "coopération",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Video Subtitles : consignes du parcours et des trois passes",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon ; bases à matérialiser",
+      "status": "documented",
+      "review": "Texte source consulté ; validation terrain non effectuée."
+    }
+  ]
+}

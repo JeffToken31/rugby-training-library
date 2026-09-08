@@ -84,9 +84,9 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Information | [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
 |---|---|---|
 | Principe | Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
-| Organisation | Non renseigné | Non renseigné |
-| Déroulement | Non renseigné | Non renseigné |
-| Consignes | Non renseigné | Non renseigné |
+| Organisation | Plusieurs chasseurs coopèrent avec un ballon. | Non renseigné |
+| Déroulement | Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs. | Non renseigné |
+| Consignes | Le porteur ne court pas. | Non renseigné |
 | Âge indiqué | U7 (classement du site) ; adéquation U8 à valider | Primaire (Écosse) |
 | Passage source | Description / Video Subtitles | PDF page 20 |
 

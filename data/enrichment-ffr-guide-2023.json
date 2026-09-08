@@ -1,0 +1,64 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-guide-recevoir-passer-detail-1",
+      "variant_id": "ffr-guide-recevoir-passer",
+      "source_id": "ffr-guide-m8-2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "PDF page 24, organisation, consignes et critères",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un passeur, un joueur actif et deux réceptionneurs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer en mouvement vers le partenaire."
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Carré de 1 × 1 m ; partenaires à 2–3 m."
+        }
+      }
+    },
+    {
+      "id": "ffr-guide-dribble-detail-1",
+      "variant_id": "ffr-guide-dribble",
+      "source_id": "ffr-guide-m8-2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "PDF page 26, organisation, consignes et critères",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par joueur ; trois plots de slalom."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder le ballon dans la zone et doser les touches."
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Zone de 5 × 5 m."
+        }
+      }
+    }
+  ]
+}

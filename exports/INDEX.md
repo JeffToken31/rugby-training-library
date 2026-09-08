@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-67 fiches — les propositions terrain restent à valider par le coach.
+70 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -17,6 +17,7 @@
 | [Capturer les extraterrestres par la passe](fiches/rc-capture-aliens.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Chasseurs qui se passent le ballon](fiches/munster-hunters.md) | Primaire / mini-rugby | Documentée ; à valider |
+| [Course autour des bases contre trois passes](fiches/rc-rounders.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Duels et soutien](fiches/ffr-duels-atelier.md) | M8 | À compléter |
 | [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [La boue et la délivrance](fiches/munster-mud.md) | Primaire / mini-rugby | Documentée ; à valider |
@@ -50,6 +51,7 @@
 |---|---|---|
 | [Conduire le ballon au pied](fiches/ffr-pied.md) | M8 | Documentée ; à valider |
 | [Coup franc pour soi](fiches/ffr-cpf.md) | M8 | Documentée ; à valider |
+| [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) | M8 — guide saison 2022-2023 | Documentée ; à valider |
 
 ## Jeu collectif
 
@@ -102,6 +104,7 @@
 | [Premières passes en ligne](fiches/rc-pass-start.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Quatre passeurs contre un intercepteur](fiches/rc-four-one.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Ramasser puis transmettre](fiches/ffr-ramasser.md) | M8 | Documentée ; à valider |
+| [Recevoir à différentes hauteurs et passer](fiches/ffr-guide-recevoir-passer.md) | M8 — guide saison 2022-2023 | Documentée ; à valider |
 | [Recevoir en trottinant](fiches/ffr-reception.md) | M10 | Documentée ; à valider |
 | [Rugby à quatre cibles](fiches/rc-netball.md) | U8 (classement du site) | 8 min / 6–10 enfants |
 | [Transmettre en trottinant](fiches/ffr-transmettre.md) | M10 | Documentée ; à valider |

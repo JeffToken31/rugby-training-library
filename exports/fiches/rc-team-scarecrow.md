@@ -23,6 +23,14 @@ Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur n
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Organisation :** Plusieurs chasseurs coopèrent avec un ballon.
+
+**Déroulement :** Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.
+
+**Consignes :** Le porteur ne court pas.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 **Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
 
 ## Répertoire des sources

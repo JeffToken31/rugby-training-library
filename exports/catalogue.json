@@ -103,6 +103,18 @@
       "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
     },
     {
+      "access": "PDF consulté via recherche documentaire ; capture locale à vérifier",
+      "checked_on": "2026-09-08",
+      "format": "PDF",
+      "id": "ffr-guide-m8-2023",
+      "language": "fr",
+      "publisher": "Fédération Française de Rugby",
+      "qualification_note": "Guide de validation avec situations distinctes ; pas une séance unique. Saison du document 2022-2023, aucune actualité réglementaire déduite.",
+      "resource_type": "TECHNICAL_DOCUMENT",
+      "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
+    },
+    {
       "access": "Page publique, liens documentaires repérés",
       "checked_on": "2026-09-06",
       "id": "ffr-orne",
@@ -535,21 +547,51 @@
       "summary": "Atteindre la zone adverse en courant ou passant.",
       "theme": "passe",
       "title": "Atteindre la zone opposée",
+      "objectives": "Atteindre la zone adverse en courant ou passant.",
+      "organisation": "Deux équipes équilibrées ; une zone de marque à chaque extrémité.",
+      "steps": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Atteindre la zone adverse en courant ou passant."
+          "value": "Atteindre la zone adverse en courant ou passant.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 22, fiche complète",
+            "revision_id": "scot-endzone-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux équipes équilibrées ; une zone de marque à chaque extrémité."
+          "value": "Deux équipes équilibrées ; une zone de marque à chaque extrémité.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 22, fiche complète",
+            "revision_id": "scot-endzone-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions."
+          "value": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 22, fiche complète",
+            "revision_id": "scot-endzone-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "state": "NOT_EXTRACTED"
@@ -578,7 +620,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Plots, chasubles et ballon"
+          "value": "Plots, chasubles et ballon",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 22, fiche complète",
+            "revision_id": "scot-endzone-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -586,12 +637,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "PDF page 22, fiche complète",
+        "revision_id": "scot-endzone-detail-1",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
-      "objectives": "Atteindre la zone adverse en courant ou passant.",
-      "organisation": "Deux équipes équilibrées ; une zone de marque à chaque extrémité.",
-      "steps": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.",
+      "enrichment_history": [
+        {
+          "id": "scot-endzone-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -623,26 +680,67 @@
       "summary": "Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la passe avant le tag et relance rapidement pour solliciter soutien et replacement. Les délais de passe de cette vidéo sont propres à ce jeu.",
       "theme": "jeu collectif",
       "title": "Avancer et passer avant le tag",
+      "coach_points": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.",
+      "instructions": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.",
+      "objectives": "Trouver des espaces et soutenir pour marquer.",
+      "organisation": "Deux équipes de tag et deux directions de marque opposées.",
+      "steps": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Trouver des espaces et soutenir pour marquer."
+          "value": "Trouver des espaces et soutenir pour marquer.",
+          "provenance": {
+            "source_id": "rc-tagmatch",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-tagmatch-detail-1",
+            "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux équipes de tag et deux directions de marque opposées."
+          "value": "Deux équipes de tag et deux directions de marque opposées.",
+          "provenance": {
+            "source_id": "rc-tagmatch",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-tagmatch-detail-1",
+            "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation."
+          "value": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.",
+          "provenance": {
+            "source_id": "rc-tagmatch",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-tagmatch-detail-1",
+            "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation."
+          "value": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.",
+          "provenance": {
+            "source_id": "rc-tagmatch",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-tagmatch-detail-1",
+            "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -653,7 +751,16 @@
         "coach_points": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces."
+          "value": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.",
+          "provenance": {
+            "source_id": "rc-tagmatch",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-tagmatch-detail-1",
+            "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -677,14 +784,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "revision_id": "rc-tagmatch-detail-1",
         "capture_sha256": "6d931b8a2bda49fbfdb0b36d722854541bba219e36a12e31aa7a08cafb4de1ee",
         "capture_verified_locally": true
       },
-      "coach_points": "Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.",
-      "instructions": "La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.",
-      "objectives": "Trouver des espaces et soutenir pour marquer.",
-      "organisation": "Deux équipes de tag et deux directions de marque opposées.",
-      "steps": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.",
+      "enrichment_history": [
+        {
+          "id": "rc-tagmatch-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -712,26 +823,66 @@
       "summary": "Coopérer pour toucher les fuyards au ballon.",
       "theme": "coopération",
       "title": "Capturer les extraterrestres par la passe",
+      "instructions": "Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.",
+      "objectives": "Coopérer pour toucher les fuyards au ballon.",
+      "organisation": "Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.",
+      "steps": "Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Coopérer pour toucher les fuyards au ballon."
+          "value": "Coopérer pour toucher les fuyards au ballon.",
+          "provenance": {
+            "source_id": "rc-capture-aliens-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-capture-aliens-detail-1",
+            "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards."
+          "value": "Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.",
+          "provenance": {
+            "source_id": "rc-capture-aliens-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-capture-aliens-detail-1",
+            "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs."
+          "value": "Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.",
+          "provenance": {
+            "source_id": "rc-capture-aliens-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-capture-aliens-detail-1",
+            "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs."
+          "value": "Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.",
+          "provenance": {
+            "source_id": "rc-capture-aliens-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-capture-aliens-detail-1",
+            "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -757,7 +908,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Ballon et plots"
+          "value": "Ballon et plots",
+          "provenance": {
+            "source_id": "rc-capture-aliens-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-capture-aliens-detail-1",
+            "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -765,13 +925,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+        "revision_id": "rc-capture-aliens-detail-1",
         "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9",
         "capture_verified_locally": true
       },
-      "instructions": "Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.",
-      "objectives": "Coopérer pour toucher les fuyards au ballon.",
-      "organisation": "Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.",
-      "steps": "Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.",
+      "enrichment_history": [
+        {
+          "id": "rc-capture-aliens-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Page publique découverte ; capture et contenu à vérifier",
         "checked_on": "2026-09-07",
@@ -947,18 +1112,54 @@
       "summary": "Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la dernière progression, chaque passe est suivie de demi-tours sautés avant la réception suivante. Le coach rapproche les plots lorsque les passes deviennent difficiles.",
       "theme": "coordination",
       "title": "Cercle de passes avec demi-tours sautés",
+      "instructions": "Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.",
+      "organisation": "Joueurs en cercle, chacun sur un plot.",
+      "steps": "Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs en cercle, chacun sur un plot.",
+          "provenance": {
+            "source_id": "rc-circle-jump-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-circle-jump-detail-1",
+            "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.",
+          "provenance": {
+            "source_id": "rc-circle-jump-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-circle-jump-detail-1",
+            "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.",
+          "provenance": {
+            "source_id": "rc-circle-jump-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-circle-jump-detail-1",
+            "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -987,6 +1188,23 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-circle-jump-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+        "revision_id": "rc-circle-jump-detail-1",
+        "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "rc-circle-jump-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1016,18 +1234,54 @@
       "summary": "Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.",
       "theme": "coopération",
       "title": "Cercle solidaire contre un poursuivant",
+      "instructions": "Changer le poursuivant et laisser un court temps de concertation entre les manches.",
+      "organisation": "Cinq joueurs liés en cercle, un poursuivant à l’extérieur.",
+      "steps": "Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq joueurs liés en cercle, un poursuivant à l’extérieur.",
+          "provenance": {
+            "source_id": "rc-protect-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-protect-circle-detail-1",
+            "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.",
+          "provenance": {
+            "source_id": "rc-protect-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-protect-circle-detail-1",
+            "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer le poursuivant et laisser un court temps de concertation entre les manches.",
+          "provenance": {
+            "source_id": "rc-protect-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-protect-circle-detail-1",
+            "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1057,6 +1311,23 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-protect-circle-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+        "revision_id": "rc-protect-circle-detail-1",
+        "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "rc-protect-circle-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -1088,26 +1359,66 @@
       "summary": "Le coach annonce une couleur qui change la ligne visée par l’équipe en possession. Les équipes se réorganisent. La vidéo ajoute une pause de quatre secondes au défenseur après toucher.",
       "theme": "prise d’information",
       "title": "Changer de ligne d’essai",
+      "instructions": "Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.",
+      "objectives": "Réagir à un changement de cible.",
+      "organisation": "Équipes en opposition, lignes repérées par couleur.",
+      "steps": "La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Réagir à un changement de cible."
+          "value": "Réagir à un changement de cible.",
+          "provenance": {
+            "source_id": "rc-multidirection",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-multidirection-detail-1",
+            "capture_sha256": "2ebf47344bcc31014ba31bfe35121f32ac055301134e283181d97ad6430798d9",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Équipes en opposition, lignes repérées par couleur."
+          "value": "Équipes en opposition, lignes repérées par couleur.",
+          "provenance": {
+            "source_id": "rc-multidirection",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-multidirection-detail-1",
+            "capture_sha256": "2ebf47344bcc31014ba31bfe35121f32ac055301134e283181d97ad6430798d9",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse."
+          "value": "La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.",
+          "provenance": {
+            "source_id": "rc-multidirection",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-multidirection-detail-1",
+            "capture_sha256": "2ebf47344bcc31014ba31bfe35121f32ac055301134e283181d97ad6430798d9",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes."
+          "value": "Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.",
+          "provenance": {
+            "source_id": "rc-multidirection",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-multidirection-detail-1",
+            "capture_sha256": "2ebf47344bcc31014ba31bfe35121f32ac055301134e283181d97ad6430798d9",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1140,13 +1451,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-multidirection-detail-1",
         "capture_sha256": "2ebf47344bcc31014ba31bfe35121f32ac055301134e283181d97ad6430798d9",
         "capture_verified_locally": true
       },
-      "instructions": "Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.",
-      "objectives": "Réagir à un changement de cible.",
-      "organisation": "Équipes en opposition, lignes repérées par couleur.",
-      "steps": "La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.",
+      "enrichment_history": [
+        {
+          "id": "rc-multidirection-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1399,21 +1715,51 @@
       "summary": "Reprendre le jeu après un déplacement animal.",
       "theme": "motricité",
       "title": "Chat et déplacements animaux",
+      "objectives": "Reprendre le jeu après un déplacement animal.",
+      "organisation": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.",
+      "steps": "Après un toucher, effectuer un déplacement animal puis revenir jouer.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Reprendre le jeu après un déplacement animal."
+          "value": "Reprendre le jeu après un déplacement animal.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 17, fiche complète",
+            "revision_id": "scot-animal-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé."
+          "value": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 17, fiche complète",
+            "revision_id": "scot-animal-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Après un toucher, effectuer un déplacement animal puis revenir jouer."
+          "value": "Après un toucher, effectuer un déplacement animal puis revenir jouer.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 17, fiche complète",
+            "revision_id": "scot-animal-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "state": "NOT_EXTRACTED"
@@ -1442,7 +1788,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Plots et chasubles"
+          "value": "Plots et chasubles",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 17, fiche complète",
+            "revision_id": "scot-animal-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -1450,12 +1805,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "PDF page 17, fiche complète",
+        "revision_id": "scot-animal-detail-1",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
-      "objectives": "Reprendre le jeu après un déplacement animal.",
-      "organisation": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.",
-      "steps": "Après un toucher, effectuer un déplacement animal puis revenir jouer.",
+      "enrichment_history": [
+        {
+          "id": "scot-animal-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -1649,11 +2010,23 @@
       "summary": "Un joueur alterne les échanges avec deux ballons circulant sur des trajets différents. Rapprocher les partenaires et installer le rythme avant d’accélérer.",
       "theme": "manipulation",
       "title": "Coordonner deux ballons",
+      "instructions": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.",
+      "objectives": "Coordonner les échanges de deux ballons.",
+      "steps": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Coordonner les échanges de deux ballons."
+          "value": "Coordonner les échanges de deux ballons.",
+          "provenance": {
+            "source_id": "rc-two-balls",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-two-balls-detail-1",
+            "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -1661,12 +2034,30 @@
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer."
+          "value": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer.",
+          "provenance": {
+            "source_id": "rc-two-balls",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-two-balls-detail-1",
+            "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire."
+          "value": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.",
+          "provenance": {
+            "source_id": "rc-two-balls",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-two-balls-detail-1",
+            "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1699,12 +2090,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "revision_id": "rc-two-balls-detail-1",
         "capture_sha256": "0d2e03367bf703078943daf84b03f5248be2ed423c5d19e3a01c1b14e292dfff",
         "capture_verified_locally": true
       },
-      "instructions": "Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.",
-      "objectives": "Coordonner les échanges de deux ballons.",
-      "steps": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer.",
+      "enrichment_history": [
+        {
+          "id": "rc-two-balls-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1784,6 +2181,127 @@
         "publisher": "FFR / DTN",
         "title": "Plan de formation M8 — septembre 2020",
         "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "duration_min": null,
+      "id": "rc-rounders",
+      "locator": "Video Subtitles : consignes du parcours et des trois passes",
+      "material": "Ballon ; bases à matérialiser",
+      "players_max": null,
+      "players_min": null,
+      "review": "Texte source consulté ; validation terrain non effectuée.",
+      "source_id": "rc-rounders-source",
+      "status": "documented",
+      "summary": "Un coureur tente de boucler son parcours avant trois passes adverses.",
+      "theme": "coopération",
+      "title": "Course autour des bases contre trois passes",
+      "instructions": "Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.",
+      "organisation": "Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.",
+      "steps": "Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.",
+          "provenance": {
+            "source_id": "rc-rounders-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-rounders-detail-1",
+            "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.",
+          "provenance": {
+            "source_id": "rc-rounders-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-rounders-detail-1",
+            "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.",
+          "provenance": {
+            "source_id": "rc-rounders-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-rounders-detail-1",
+            "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "rc-rounders-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+        "revision_id": "rc-rounders-detail-1",
+        "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "rc-rounders-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Page publique découverte ; capture et contenu à vérifier",
+        "checked_on": "2026-09-07",
+        "format": "VIDEO",
+        "id": "rc-rounders-source",
+        "language": "en",
+        "publisher": "RugbyCoaching.tv",
+        "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner.",
+        "resource_type": "EXERCISE_VIDEO",
+        "title": "stg rugby rounders",
+        "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -1882,26 +2400,66 @@
         "setup": "Deux ou trois trios ; un ballon par trio.",
         "steps": "Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage."
       },
+      "instructions": "Aucun contact ; le soutien garde de la profondeur.",
+      "objectives": "Passer malgré la présence d’un défenseur.",
+      "organisation": "Deux attaquants face à un défenseur simulé.",
+      "steps": "Avancer et transmettre au soutien ; enchaîner les passages.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Passer malgré la présence d’un défenseur."
+          "value": "Passer malgré la présence d’un défenseur.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-two-one-detail-1",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux attaquants face à un défenseur simulé."
+          "value": "Deux attaquants face à un défenseur simulé.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-two-one-detail-1",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Avancer et transmettre au soutien ; enchaîner les passages."
+          "value": "Avancer et transmettre au soutien ; enchaîner les passages.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-two-one-detail-1",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Aucun contact ; le soutien garde de la profondeur."
+          "value": "Aucun contact ; le soutien garde de la profondeur.",
+          "provenance": {
+            "source_id": "rc-two-one",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-two-one-detail-1",
+            "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1936,13 +2494,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-two-one-detail-1",
         "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c",
         "capture_verified_locally": true
       },
-      "instructions": "Aucun contact ; le soutien garde de la profondeur.",
-      "objectives": "Passer malgré la présence d’un défenseur.",
-      "organisation": "Deux attaquants face à un défenseur simulé.",
-      "steps": "Avancer et transmettre au soutien ; enchaîner les passages.",
+      "enrichment_history": [
+        {
+          "id": "rc-two-one-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -1989,11 +2552,21 @@
       "summary": "Objectif annoncé : se rendre disponible sans ballon et communiquer avec le porteur. Le déroulement n’est pas documenté dans le texte consulté.",
       "theme": "passe",
       "title": "Dix passes - variante communautaire documentee",
+      "objectives": "Se rendre disponible sans ballon et communiquer pour faciliter la passe.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Se rendre disponible sans ballon et communiquer pour faciliter la passe."
+          "value": "Se rendre disponible sans ballon et communiquer pour faciliter la passe.",
+          "provenance": {
+            "source_id": "rc-ten",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-ten-detail-1",
+            "capture_sha256": "1aab60868748ea9248f0c03c491af60e5c12c98a59686bd524e840c4ccb4e1b7",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -2034,10 +2607,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "revision_id": "rc-ten-detail-1",
         "capture_sha256": "1aab60868748ea9248f0c03c491af60e5c12c98a59686bd524e840c4ccb4e1b7",
         "capture_verified_locally": true
       },
-      "objectives": "Se rendre disponible sans ballon et communiquer pour faciliter la passe.",
+      "enrichment_history": [
+        {
+          "id": "rc-ten-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description publique seulement ; déroulement non vérifié",
         "checked_on": "2026-09-06",
@@ -2210,18 +2791,54 @@
       "summary": "Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.",
       "theme": "coopération",
       "title": "Épouvantails — chasseurs passeurs",
+      "instructions": "Le porteur ne court pas.",
+      "organisation": "Plusieurs chasseurs coopèrent avec un ballon.",
+      "steps": "Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Plusieurs chasseurs coopèrent avec un ballon.",
+          "provenance": {
+            "source_id": "rc-team-scarecrow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-team-scarecrow-detail-1",
+            "capture_sha256": "1f5cd9eb3fcb9db40a929428231417226ccdfd81a42764712ec2db9b8524b922",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.",
+          "provenance": {
+            "source_id": "rc-team-scarecrow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-team-scarecrow-detail-1",
+            "capture_sha256": "1f5cd9eb3fcb9db40a929428231417226ccdfd81a42764712ec2db9b8524b922",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur ne court pas.",
+          "provenance": {
+            "source_id": "rc-team-scarecrow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-team-scarecrow-detail-1",
+            "capture_sha256": "1f5cd9eb3fcb9db40a929428231417226ccdfd81a42764712ec2db9b8524b922",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -2250,6 +2867,23 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-team-scarecrow-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+        "revision_id": "rc-team-scarecrow-detail-1",
+        "capture_sha256": "1f5cd9eb3fcb9db40a929428231417226ccdfd81a42764712ec2db9b8524b922",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "rc-team-scarecrow-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -2347,18 +2981,54 @@
       "summary": "Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.",
       "theme": "prise d’information",
       "title": "Jeu de zone avec regroupements au signal",
+      "instructions": "Passes dans toutes les directions ; transmettre rapidement après toucher.",
+      "organisation": "Deux équipes jouant vers une zone de marque.",
+      "steps": "Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes jouant vers une zone de marque.",
+          "provenance": {
+            "source_id": "rc-endball-groups-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-endball-groups-detail-1",
+            "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.",
+          "provenance": {
+            "source_id": "rc-endball-groups-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-endball-groups-detail-1",
+            "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passes dans toutes les directions ; transmettre rapidement après toucher.",
+          "provenance": {
+            "source_id": "rc-endball-groups-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+            "revision_id": "rc-endball-groups-detail-1",
+            "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -2386,6 +3056,23 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "rc-endball-groups-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+        "revision_id": "rc-endball-groups-detail-1",
+        "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "rc-endball-groups-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -2637,26 +3324,66 @@
         "setup": "Aire délimitée ; rubans pour chacun.",
         "steps": "Deux chasseurs collectent les rubans. Courtes manches puis restitution et changement de chasseurs."
       },
+      "instructions": "Continuer à se déplacer dans la zone.",
+      "objectives": "Éviter et attraper les rubans.",
+      "organisation": "Deux chasseurs désignés, un de chaque équipe.",
+      "steps": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Éviter et attraper les rubans."
+          "value": "Éviter et attraper les rubans.",
+          "provenance": {
+            "source_id": "rc-taggrab",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-taggrab-detail-1",
+            "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux chasseurs désignés, un de chaque équipe."
+          "value": "Deux chasseurs désignés, un de chaque équipe.",
+          "provenance": {
+            "source_id": "rc-taggrab",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-taggrab-detail-1",
+            "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt."
+          "value": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.",
+          "provenance": {
+            "source_id": "rc-taggrab",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-taggrab-detail-1",
+            "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Continuer à se déplacer dans la zone."
+          "value": "Continuer à se déplacer dans la zone.",
+          "provenance": {
+            "source_id": "rc-taggrab",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-taggrab-detail-1",
+            "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -2689,13 +3416,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-taggrab-detail-1",
         "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66",
         "capture_verified_locally": true
       },
-      "instructions": "Continuer à se déplacer dans la zone.",
-      "objectives": "Éviter et attraper les rubans.",
-      "organisation": "Deux chasseurs désignés, un de chaque équipe.",
-      "steps": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.",
+      "enrichment_history": [
+        {
+          "id": "rc-taggrab-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -2891,26 +3623,66 @@
         "setup": "Un ou deux carrés de quatre enfants.",
         "steps": "Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche."
       },
+      "instructions": "Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.",
+      "objectives": "Conserver le ballon et se rendre disponible.",
+      "organisation": "Trois passeurs et un intercepteur.",
+      "steps": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Conserver le ballon et se rendre disponible."
+          "value": "Conserver le ballon et se rendre disponible.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-piggy-detail-1",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Trois passeurs et un intercepteur."
+          "value": "Trois passeurs et un intercepteur.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-piggy-detail-1",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe."
+          "value": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-piggy-detail-1",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon."
+          "value": "Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.",
+          "provenance": {
+            "source_id": "rc-piggy",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-piggy-detail-1",
+            "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -2945,13 +3717,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-piggy-detail-1",
         "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17",
         "capture_verified_locally": true
       },
-      "instructions": "Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.",
-      "objectives": "Conserver le ballon et se rendre disponible.",
-      "organisation": "Trois passeurs et un intercepteur.",
-      "steps": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.",
+      "enrichment_history": [
+        {
+          "id": "rc-piggy-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -2981,26 +3758,66 @@
       "summary": "Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejoint les chasseurs ; la poursuite continue jusqu’au dernier joueur.",
       "theme": "déplacement",
       "title": "Les extraterrestres",
+      "instructions": "Rester dans les limites et chercher un passage libre.",
+      "objectives": "Éviter les chasseurs et changer de rôle.",
+      "organisation": "Aire délimitée, chasseurs avec ballon, ballons accessibles autour.",
+      "steps": "Le joueur touché prend un ballon et rejoint les chasseurs.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Éviter les chasseurs et changer de rôle."
+          "value": "Éviter les chasseurs et changer de rôle.",
+          "provenance": {
+            "source_id": "rc-aliens",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-aliens-detail-1",
+            "capture_sha256": "b7e23aa6ad6fd5583726889baa634475a873edd170b93547249cb4c3ad6f809d",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Aire délimitée, chasseurs avec ballon, ballons accessibles autour."
+          "value": "Aire délimitée, chasseurs avec ballon, ballons accessibles autour.",
+          "provenance": {
+            "source_id": "rc-aliens",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-aliens-detail-1",
+            "capture_sha256": "b7e23aa6ad6fd5583726889baa634475a873edd170b93547249cb4c3ad6f809d",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Le joueur touché prend un ballon et rejoint les chasseurs."
+          "value": "Le joueur touché prend un ballon et rejoint les chasseurs.",
+          "provenance": {
+            "source_id": "rc-aliens",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-aliens-detail-1",
+            "capture_sha256": "b7e23aa6ad6fd5583726889baa634475a873edd170b93547249cb4c3ad6f809d",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Rester dans les limites et chercher un passage libre."
+          "value": "Rester dans les limites et chercher un passage libre.",
+          "provenance": {
+            "source_id": "rc-aliens",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-aliens-detail-1",
+            "capture_sha256": "b7e23aa6ad6fd5583726889baa634475a873edd170b93547249cb4c3ad6f809d",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -3033,13 +3850,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-aliens-detail-1",
         "capture_sha256": "b7e23aa6ad6fd5583726889baa634475a873edd170b93547249cb4c3ad6f809d",
         "capture_verified_locally": true
       },
-      "instructions": "Rester dans les limites et chercher un passage libre.",
-      "objectives": "Éviter les chasseurs et changer de rôle.",
-      "organisation": "Aire délimitée, chasseurs avec ballon, ballons accessibles autour.",
-      "steps": "Le joueur touché prend un ballon et rejoint les chasseurs.",
+      "enrichment_history": [
+        {
+          "id": "rc-aliens-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -3219,26 +4041,66 @@
       "summary": "Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent immobiles. Chronométrer la capture de tout le groupe, puis changer les chasseurs.",
       "theme": "déplacement",
       "title": "Les statues",
+      "instructions": "Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.",
+      "objectives": "Éviter ; coopérer entre chasseurs.",
+      "organisation": "Trois chasseurs porteurs d’un ballon.",
+      "steps": "Le joueur touché s’immobilise ; chronométrer la capture de tous.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Éviter ; coopérer entre chasseurs."
+          "value": "Éviter ; coopérer entre chasseurs.",
+          "provenance": {
+            "source_id": "rc-statues",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-statues-detail-1",
+            "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Trois chasseurs porteurs d’un ballon."
+          "value": "Trois chasseurs porteurs d’un ballon.",
+          "provenance": {
+            "source_id": "rc-statues",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-statues-detail-1",
+            "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Le joueur touché s’immobilise ; chronométrer la capture de tous."
+          "value": "Le joueur touché s’immobilise ; chronométrer la capture de tous.",
+          "provenance": {
+            "source_id": "rc-statues",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-statues-detail-1",
+            "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Ballon tenu à deux mains ; statue pieds joints, mains sur la tête."
+          "value": "Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.",
+          "provenance": {
+            "source_id": "rc-statues",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-statues-detail-1",
+            "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -3271,13 +4133,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-statues-detail-1",
         "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f",
         "capture_verified_locally": true
       },
-      "instructions": "Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.",
-      "objectives": "Éviter ; coopérer entre chasseurs.",
-      "organisation": "Trois chasseurs porteurs d’un ballon.",
-      "steps": "Le joueur touché s’immobilise ; chronométrer la capture de tous.",
+      "enrichment_history": [
+        {
+          "id": "rc-statues-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -3334,26 +4201,67 @@
         "setup": "Trois ou quatre nids espacés et plusieurs ballons.",
         "steps": "Rapporter un ballon à la fois depuis les nids voisins. Personne ne garde son nid. Compter puis recommencer."
       },
+      "coach_points": "Montrer simplement la tâche, puis construire les progressions par petites étapes.",
+      "instructions": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.",
+      "objectives": "Collecter davantage de ballons que les autres équipes.",
+      "organisation": "Équipes de trois, avec un nid par équipe.",
+      "steps": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Collecter davantage de ballons que les autres équipes."
+          "value": "Collecter davantage de ballons que les autres équipes.",
+          "provenance": {
+            "source_id": "rc-eggs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-eggs-detail-1",
+            "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Équipes de trois, avec un nid par équipe."
+          "value": "Équipes de trois, avec un nid par équipe.",
+          "provenance": {
+            "source_id": "rc-eggs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-eggs-detail-1",
+            "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin."
+          "value": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.",
+          "provenance": {
+            "source_id": "rc-eggs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-eggs-detail-1",
+            "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons."
+          "value": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.",
+          "provenance": {
+            "source_id": "rc-eggs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-eggs-detail-1",
+            "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -3364,7 +4272,16 @@
         "coach_points": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Montrer simplement la tâche, puis construire les progressions par petites étapes."
+          "value": "Montrer simplement la tâche, puis construire les progressions par petites étapes.",
+          "provenance": {
+            "source_id": "rc-eggs",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+            "revision_id": "rc-eggs-detail-1",
+            "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -3388,14 +4305,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
+        "revision_id": "rc-eggs-detail-1",
         "capture_sha256": "d922fe98fdcc866b80a147605e3f5511066252210f55e62a859e020f289eb9bc",
         "capture_verified_locally": true
       },
-      "coach_points": "Montrer simplement la tâche, puis construire les progressions par petites étapes.",
-      "instructions": "Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.",
-      "objectives": "Collecter davantage de ballons que les autres équipes.",
-      "organisation": "Équipes de trois, avec un nid par équipe.",
-      "steps": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.",
+      "enrichment_history": [
+        {
+          "id": "rc-eggs-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -3635,21 +4556,51 @@
       "summary": "Avancer en soutenant le porteur.",
       "theme": "soutien",
       "title": "Passe arrière avec jokers",
+      "objectives": "Avancer en soutenant le porteur.",
+      "organisation": "Deux équipes, deux zones de marque et deux jokers toujours attaquants.",
+      "steps": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Avancer en soutenant le porteur."
+          "value": "Avancer en soutenant le porteur.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 23, fiche complète",
+            "revision_id": "scot-passback-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux équipes, deux zones de marque et deux jokers toujours attaquants."
+          "value": "Deux équipes, deux zones de marque et deux jokers toujours attaquants.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 23, fiche complète",
+            "revision_id": "scot-passback-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe."
+          "value": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 23, fiche complète",
+            "revision_id": "scot-passback-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "state": "NOT_EXTRACTED"
@@ -3678,7 +4629,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Plots, chasubles et ballon"
+          "value": "Plots, chasubles et ballon",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 23, fiche complète",
+            "revision_id": "scot-passback-detail-1",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -3686,12 +4646,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "PDF page 23, fiche complète",
+        "revision_id": "scot-passback-detail-1",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
-      "objectives": "Avancer en soutenant le porteur.",
-      "organisation": "Deux équipes, deux zones de marque et deux jokers toujours attaquants.",
-      "steps": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.",
+      "enrichment_history": [
+        {
+          "id": "scot-passback-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -3733,26 +4699,66 @@
         "setup": "Binômes en couloirs parallèles ; un ballon par binôme.",
         "steps": "Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour."
       },
+      "instructions": "Privilégier une passe courte et rester en retrait.",
+      "objectives": "Recevoir en soutien du porteur.",
+      "organisation": "Binômes en mouvement ; obstacle représentant un défenseur dans la progression.",
+      "steps": "Courir puis passer derrière l’obstacle à son partenaire.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Recevoir en soutien du porteur."
+          "value": "Recevoir en soutien du porteur.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-pairs-detail-1",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Binômes en mouvement ; obstacle représentant un défenseur dans la progression."
+          "value": "Binômes en mouvement ; obstacle représentant un défenseur dans la progression.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-pairs-detail-1",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Courir puis passer derrière l’obstacle à son partenaire."
+          "value": "Courir puis passer derrière l’obstacle à son partenaire.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-pairs-detail-1",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Privilégier une passe courte et rester en retrait."
+          "value": "Privilégier une passe courte et rester en retrait.",
+          "provenance": {
+            "source_id": "rc-pairs",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-pairs-detail-1",
+            "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -3787,13 +4793,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-pairs-detail-1",
         "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425",
         "capture_verified_locally": true
       },
-      "instructions": "Privilégier une passe courte et rester en retrait.",
-      "objectives": "Recevoir en soutien du porteur.",
-      "organisation": "Binômes en mouvement ; obstacle représentant un défenseur dans la progression.",
-      "steps": "Courir puis passer derrière l’obstacle à son partenaire.",
+      "enrichment_history": [
+        {
+          "id": "rc-pairs-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -3889,29 +4900,81 @@
       "summary": "Choisir quand passer malgré les déplacements des autres binômes.",
       "theme": "passe",
       "title": "Passer sur appel dans un espace partagé",
+      "instructions": "Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.",
+      "objectives": "Choisir quand passer malgré les déplacements des autres binômes.",
+      "organisation": "Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.",
+      "steps": "Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.",
+      "success_criteria": "Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Choisir quand passer malgré les déplacements des autres binômes."
+          "value": "Choisir quand passer malgré les déplacements des autres binômes.",
+          "provenance": {
+            "source_id": "rc-calling-pairs-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-calling-pairs-detail-1",
+            "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire."
+          "value": "Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.",
+          "provenance": {
+            "source_id": "rc-calling-pairs-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-calling-pairs-detail-1",
+            "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur."
+          "value": "Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.",
+          "provenance": {
+            "source_id": "rc-calling-pairs-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-calling-pairs-detail-1",
+            "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal."
+          "value": "Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.",
+          "provenance": {
+            "source_id": "rc-calling-pairs-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-calling-pairs-detail-1",
+            "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.",
+          "provenance": {
+            "source_id": "rc-calling-pairs-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-calling-pairs-detail-2",
+            "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -3934,7 +4997,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Ballons"
+          "value": "Ballons",
+          "provenance": {
+            "source_id": "rc-calling-pairs-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-calling-pairs-detail-1",
+            "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -3942,13 +5014,24 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+        "revision_id": "rc-calling-pairs-detail-2",
         "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
         "capture_verified_locally": true
       },
-      "instructions": "Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.",
-      "objectives": "Choisir quand passer malgré les déplacements des autres binômes.",
-      "organisation": "Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.",
-      "steps": "Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.",
+      "enrichment_history": [
+        {
+          "id": "rc-calling-pairs-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "rc-calling-pairs-detail-2",
+          "supersedes": "rc-calling-pairs-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Ajout du comptage des passes décrit dans les sous-titres."
+        }
+      ],
       "source": {
         "access": "Page publique découverte ; capture et contenu à vérifier",
         "checked_on": "2026-09-07",
@@ -3980,26 +5063,66 @@
       "summary": "En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons.",
       "theme": "passe",
       "title": "Passes en triangle et changement de posture",
+      "instructions": "Présenter les mains tôt ; reprendre le rythme de circulation.",
+      "objectives": "Recevoir après un changement de posture.",
+      "organisation": "Trois joueurs en triangle.",
+      "steps": "Passer, s’asseoir et se relever avant de recevoir à nouveau.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Recevoir après un changement de posture."
+          "value": "Recevoir après un changement de posture.",
+          "provenance": {
+            "source_id": "rc-triangle",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-triangle-detail-1",
+            "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Trois joueurs en triangle."
+          "value": "Trois joueurs en triangle.",
+          "provenance": {
+            "source_id": "rc-triangle",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-triangle-detail-1",
+            "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Passer, s’asseoir et se relever avant de recevoir à nouveau."
+          "value": "Passer, s’asseoir et se relever avant de recevoir à nouveau.",
+          "provenance": {
+            "source_id": "rc-triangle",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-triangle-detail-1",
+            "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Présenter les mains tôt ; reprendre le rythme de circulation."
+          "value": "Présenter les mains tôt ; reprendre le rythme de circulation.",
+          "provenance": {
+            "source_id": "rc-triangle",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-triangle-detail-1",
+            "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4034,13 +5157,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-triangle-detail-1",
         "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100",
         "capture_verified_locally": true
       },
-      "instructions": "Présenter les mains tôt ; reprendre le rythme de circulation.",
-      "objectives": "Recevoir après un changement de posture.",
-      "organisation": "Trois joueurs en triangle.",
-      "steps": "Passer, s’asseoir et se relever avant de recevoir à nouveau.",
+      "enrichment_history": [
+        {
+          "id": "rc-triangle-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -4070,26 +5198,60 @@
       "summary": "Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.",
       "theme": "passe",
       "title": "Passes latérales en vagues de trois",
+      "common_errors": "Receveur en avance sur le porteur.",
+      "instructions": "Rester derrière le porteur et montrer les mains tôt.",
+      "objectives": "Enchaîner course, réception et passe.",
+      "organisation": "Vagues de trois, avec une ligne repère.",
+      "space": null,
+      "steps": "Transmettre successivement puis travailler dans l’autre sens.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Enchaîner course, réception et passe."
+          "value": "Enchaîner course, réception et passe.",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Vagues de trois, avec une ligne repère."
+          "value": "Vagues de trois, avec une ligne repère.",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Transmettre successivement puis travailler dans l’autre sens."
+          "value": "Transmettre successivement puis travailler dans l’autre sens.",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Rester derrière le porteur et montrer les mains tôt."
+          "value": "Rester derrière le porteur et montrer les mains tôt.",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4097,7 +5259,14 @@
         "common_errors": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Receveur en avance sur le porteur."
+          "value": "Receveur en avance sur le porteur.",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "coach_points": {
           "state": "PRESENT",
@@ -4105,7 +5274,14 @@
         },
         "duration_min": {
           "note": "Durée totale non indiquée dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "players_min": {
           "state": "PRESENT",
@@ -4117,7 +5293,14 @@
         },
         "space": {
           "note": "Dimensions non indiquées dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-lateral-three-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-lateral-three-detail-1"
+          }
         },
         "material": {
           "state": "PRESENT",
@@ -4128,13 +5311,17 @@
         "source_id": "rc-lateral-three-source",
         "actor": "assistant",
         "checked_on": "2026-09-07",
-        "locator": "Description / Video Subtitles — texte public consulté"
+        "locator": "Description / Video Subtitles — texte public consulté",
+        "revision_id": "rc-lateral-three-detail-1"
       },
-      "common_errors": "Receveur en avance sur le porteur.",
-      "instructions": "Rester derrière le porteur et montrer les mains tôt.",
-      "objectives": "Enchaîner course, réception et passe.",
-      "organisation": "Vagues de trois, avec une ligne repère.",
-      "steps": "Transmettre successivement puis travailler dans l’autre sens.",
+      "enrichment_history": [
+        {
+          "id": "rc-lateral-three-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -4236,31 +5423,72 @@
       "summary": "Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.",
       "theme": "passe",
       "title": "Premières passes en ligne",
+      "instructions": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.",
+      "objectives": "Apprendre à recevoir puis transmettre vers une cible.",
+      "organisation": "Joueurs en ligne ; circulation du ballon dans les deux sens.",
+      "space": null,
+      "steps": "Commencer lentement à l’arrêt, puis augmenter la vitesse.",
+      "success_criteria": "Le partenaire reçoit une passe dirigée vers ses mains.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Apprendre à recevoir puis transmettre vers une cible."
+          "value": "Apprendre à recevoir puis transmettre vers une cible.",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Joueurs en ligne ; circulation du ballon dans les deux sens."
+          "value": "Joueurs en ligne ; circulation du ballon dans les deux sens.",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Commencer lentement à l’arrêt, puis augmenter la vitesse."
+          "value": "Commencer lentement à l’arrêt, puis augmenter la vitesse.",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire."
+          "value": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "success_criteria": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Le partenaire reçoit une passe dirigée vers ses mains."
+          "value": "Le partenaire reçoit une passe dirigée vers ses mains.",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -4270,7 +5498,14 @@
         },
         "duration_min": {
           "note": "Durée totale non indiquée dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "players_min": {
           "state": "NOT_EXTRACTED"
@@ -4280,7 +5515,14 @@
         },
         "space": {
           "note": "Dimensions non indiquées dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-pass-start-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-pass-start-detail-1"
+          }
         },
         "material": {
           "state": "PRESENT",
@@ -4291,13 +5533,17 @@
         "source_id": "rc-pass-start-source",
         "actor": "assistant",
         "checked_on": "2026-09-07",
-        "locator": "Description / Video Subtitles — texte public consulté"
+        "locator": "Description / Video Subtitles — texte public consulté",
+        "revision_id": "rc-pass-start-detail-1"
       },
-      "instructions": "Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.",
-      "objectives": "Apprendre à recevoir puis transmettre vers une cible.",
-      "organisation": "Joueurs en ligne ; circulation du ballon dans les deux sens.",
-      "steps": "Commencer lentement à l’arrêt, puis augmenter la vitesse.",
-      "success_criteria": "Le partenaire reçoit une passe dirigée vers ses mains.",
+      "enrichment_history": [
+        {
+          "id": "rc-pass-start-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -4399,26 +5645,66 @@
       "summary": "Trouver un partenaire libre dans une zone de marque.",
       "theme": "prise d’information",
       "title": "Quatre cibles, porteur immobile",
+      "instructions": "Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.",
+      "objectives": "Trouver un partenaire libre dans une zone de marque.",
+      "organisation": "Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.",
+      "steps": "Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Trouver un partenaire libre dans une zone de marque."
+          "value": "Trouver un partenaire libre dans une zone de marque.",
+          "provenance": {
+            "source_id": "rc-chaos-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-chaos-touch-detail-1",
+            "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs."
+          "value": "Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.",
+          "provenance": {
+            "source_id": "rc-chaos-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-chaos-touch-detail-1",
+            "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession."
+          "value": "Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.",
+          "provenance": {
+            "source_id": "rc-chaos-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-chaos-touch-detail-1",
+            "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés."
+          "value": "Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.",
+          "provenance": {
+            "source_id": "rc-chaos-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-chaos-touch-detail-1",
+            "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4444,7 +5730,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Ballon et plots de couleurs"
+          "value": "Ballon et plots de couleurs",
+          "provenance": {
+            "source_id": "rc-chaos-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-chaos-touch-detail-1",
+            "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -4452,13 +5747,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+        "revision_id": "rc-chaos-touch-detail-1",
         "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2",
         "capture_verified_locally": true
       },
-      "instructions": "Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.",
-      "objectives": "Trouver un partenaire libre dans une zone de marque.",
-      "organisation": "Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.",
-      "steps": "Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.",
+      "enrichment_history": [
+        {
+          "id": "rc-chaos-touch-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Page publique découverte ; capture et contenu à vérifier",
         "checked_on": "2026-09-07",
@@ -4490,31 +5790,72 @@
       "summary": "Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur.",
       "theme": "passe",
       "title": "Quatre passeurs contre un intercepteur",
+      "instructions": "Appeler et présenter les mains avant de recevoir.",
+      "objectives": "Décider rapidement et conserver le ballon.",
+      "organisation": "Quatre passeurs contre un intercepteur.",
+      "space": null,
+      "steps": "Chercher une série de dix passes.",
+      "success_criteria": "Atteindre dix passes.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Décider rapidement et conserver le ballon."
+          "value": "Décider rapidement et conserver le ballon.",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Quatre passeurs contre un intercepteur."
+          "value": "Quatre passeurs contre un intercepteur.",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Chercher une série de dix passes."
+          "value": "Chercher une série de dix passes.",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Appeler et présenter les mains avant de recevoir."
+          "value": "Appeler et présenter les mains avant de recevoir.",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "success_criteria": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Atteindre dix passes."
+          "value": "Atteindre dix passes.",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -4525,7 +5866,14 @@
         },
         "duration_min": {
           "note": "Durée totale non indiquée dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "players_min": {
           "state": "PRESENT",
@@ -4537,7 +5885,14 @@
         },
         "space": {
           "note": "Dimensions non indiquées dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-four-one-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-four-one-detail-1"
+          }
         },
         "material": {
           "state": "PRESENT",
@@ -4548,13 +5903,17 @@
         "source_id": "rc-four-one-source",
         "actor": "assistant",
         "checked_on": "2026-09-07",
-        "locator": "Description / Video Subtitles — texte public consulté"
+        "locator": "Description / Video Subtitles — texte public consulté",
+        "revision_id": "rc-four-one-detail-1"
       },
-      "instructions": "Appeler et présenter les mains avant de recevoir.",
-      "objectives": "Décider rapidement et conserver le ballon.",
-      "organisation": "Quatre passeurs contre un intercepteur.",
-      "steps": "Chercher une série de dix passes.",
-      "success_criteria": "Atteindre dix passes.",
+      "enrichment_history": [
+        {
+          "id": "rc-four-one-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -4732,26 +6091,66 @@
       "summary": "Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond avec un partenaire. Une progression travaille la réception d’une seule main en changeant de côté.",
       "theme": "manipulation",
       "title": "Rebondir et échanger en binôme",
+      "instructions": "Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.",
+      "objectives": "Coordonner réception et rebond.",
+      "organisation": "Deux partenaires face à face.",
+      "steps": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Coordonner réception et rebond."
+          "value": "Coordonner réception et rebond.",
+          "provenance": {
+            "source_id": "rc-bounce",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bounce-detail-1",
+            "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux partenaires face à face."
+          "value": "Deux partenaires face à face.",
+          "provenance": {
+            "source_id": "rc-bounce",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bounce-detail-1",
+            "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire."
+          "value": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.",
+          "provenance": {
+            "source_id": "rc-bounce",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bounce-detail-1",
+            "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Progression à une main : réceptionner sans bloquer contre le corps ; changer de main."
+          "value": "Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.",
+          "provenance": {
+            "source_id": "rc-bounce",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bounce-detail-1",
+            "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4786,13 +6185,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-bounce-detail-1",
         "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f",
         "capture_verified_locally": true
       },
-      "instructions": "Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.",
-      "objectives": "Coordonner réception et rebond.",
-      "organisation": "Deux partenaires face à face.",
-      "steps": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.",
+      "enrichment_history": [
+        {
+          "id": "rc-bounce-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -4802,6 +6206,133 @@
         "publisher": "RugbyCoaching.tv",
         "title": "Home Training - Passing with Dad",
         "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "M8 — guide saison 2022-2023",
+      "duration_min": null,
+      "id": "ffr-guide-recevoir-passer",
+      "locator": "PDF page 24",
+      "material": "Ballons et plots",
+      "page_end": 24,
+      "page_start": 24,
+      "players_max": 4,
+      "players_min": 4,
+      "review": "Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.",
+      "source_id": "ffr-guide-m8-2023",
+      "space": "Carré de 1 × 1 m ; partenaires à 2–3 m.",
+      "status": "documented",
+      "summary": "Recevoir à différentes hauteurs et passer",
+      "theme": "passe",
+      "title": "Recevoir à différentes hauteurs et passer",
+      "organisation": "Un passeur, un joueur actif et deux réceptionneurs.",
+      "steps": "Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.",
+      "success_criteria": "Passer en mouvement vers le partenaire.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un passeur, un joueur actif et deux réceptionneurs.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 24, organisation, consignes et critères",
+            "revision_id": "ffr-guide-recevoir-passer-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 24, organisation, consignes et critères",
+            "revision_id": "ffr-guide-recevoir-passer-detail-1"
+          }
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer en mouvement vers le partenaire.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 24, organisation, consignes et critères",
+            "revision_id": "ffr-guide-recevoir-passer-detail-1"
+          }
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Carré de 1 × 1 m ; partenaires à 2–3 m.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 24, organisation, consignes et critères",
+            "revision_id": "ffr-guide-recevoir-passer-detail-1"
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-guide-m8-2023",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "PDF page 24, organisation, consignes et critères",
+        "revision_id": "ffr-guide-recevoir-passer-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-guide-recevoir-passer-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF consulté via recherche documentaire ; capture locale à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "PDF",
+        "id": "ffr-guide-m8-2023",
+        "language": "fr",
+        "publisher": "Fédération Française de Rugby",
+        "qualification_note": "Guide de validation avec situations distinctes ; pas une séance unique. Saison du document 2022-2023, aucune actualité réglementaire déduite.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+        "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -5043,26 +6574,66 @@
         "setup": "Quatre zones cibles, deux équipes et un ballon.",
         "steps": "Marquer en passant à un partenaire dans une cible. Proposition : au toucher, le porteur s’arrête et peut passer ; le défenseur recule."
       },
+      "instructions": "Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes.",
+      "objectives": "Repérer un partenaire et une cible libres.",
+      "organisation": "Deux équipes et quatre zones de marque.",
+      "steps": "Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Repérer un partenaire et une cible libres."
+          "value": "Repérer un partenaire et une cible libres.",
+          "provenance": {
+            "source_id": "rc-netball",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-netball-detail-1",
+            "capture_sha256": "e13998dca293827e3a228a524e19fbe673a81a27d625a3b138f9841391a9a006",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux équipes et quatre zones de marque."
+          "value": "Deux équipes et quatre zones de marque.",
+          "provenance": {
+            "source_id": "rc-netball",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-netball-detail-1",
+            "capture_sha256": "e13998dca293827e3a228a524e19fbe673a81a27d625a3b138f9841391a9a006",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque."
+          "value": "Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.",
+          "provenance": {
+            "source_id": "rc-netball",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-netball-detail-1",
+            "capture_sha256": "e13998dca293827e3a228a524e19fbe673a81a27d625a3b138f9841391a9a006",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes."
+          "value": "Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes.",
+          "provenance": {
+            "source_id": "rc-netball",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-netball-detail-1",
+            "capture_sha256": "e13998dca293827e3a228a524e19fbe673a81a27d625a3b138f9841391a9a006",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -5095,13 +6666,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-netball-detail-1",
         "capture_sha256": "e13998dca293827e3a228a524e19fbe673a81a27d625a3b138f9841391a9a006",
         "capture_verified_locally": true
       },
-      "instructions": "Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes.",
-      "objectives": "Repérer un partenaire et une cible libres.",
-      "organisation": "Deux équipes et quatre zones de marque.",
-      "steps": "Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.",
+      "enrichment_history": [
+        {
+          "id": "rc-netball-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Sous-titres publics consultés ; lecture vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -5111,6 +6687,131 @@
         "publisher": "RugbyCoaching.tv",
         "title": "Rugby Netball with 4 Goals",
         "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "M8 — guide saison 2022-2023",
+      "duration_min": null,
+      "id": "ffr-guide-dribble",
+      "locator": "PDF page 26",
+      "material": "Ballons et plots",
+      "page_end": 26,
+      "page_start": 26,
+      "players_max": null,
+      "players_min": null,
+      "review": "Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.",
+      "source_id": "ffr-guide-m8-2023",
+      "space": "Zone de 5 × 5 m.",
+      "status": "documented",
+      "summary": "Slalom au pied puis essai",
+      "theme": "jeu au pied",
+      "title": "Slalom au pied puis essai",
+      "organisation": "Un ballon par joueur ; trois plots de slalom.",
+      "steps": "Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.",
+      "success_criteria": "Garder le ballon dans la zone et doser les touches.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un ballon par joueur ; trois plots de slalom.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 26, organisation, consignes et critères",
+            "revision_id": "ffr-guide-dribble-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 26, organisation, consignes et critères",
+            "revision_id": "ffr-guide-dribble-detail-1"
+          }
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Garder le ballon dans la zone et doser les touches.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 26, organisation, consignes et critères",
+            "revision_id": "ffr-guide-dribble-detail-1"
+          }
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Zone de 5 × 5 m.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "PDF page 26, organisation, consignes et critères",
+            "revision_id": "ffr-guide-dribble-detail-1"
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-guide-m8-2023",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "PDF page 26, organisation, consignes et critères",
+        "revision_id": "ffr-guide-dribble-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-guide-dribble-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF consulté via recherche documentaire ; capture locale à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "PDF",
+        "id": "ffr-guide-m8-2023",
+        "language": "fr",
+        "publisher": "Fédération Française de Rugby",
+        "qualification_note": "Guide de validation avec situations distinctes ; pas une séance unique. Saison du document 2022-2023, aucune actualité réglementaire déduite.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+        "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -5284,26 +6985,66 @@
       "summary": "Repérer et exploiter les espaces créés dans la défense.",
       "theme": "prise d’information",
       "title": "Tag : défenseurs numérotés",
+      "instructions": "Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.",
+      "objectives": "Repérer et exploiter les espaces créés dans la défense.",
+      "organisation": "Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.",
+      "steps": "Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Repérer et exploiter les espaces créés dans la défense."
+          "value": "Repérer et exploiter les espaces créés dans la défense.",
+          "provenance": {
+            "source_id": "rc-numbers-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-numbers-tag-detail-1",
+            "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs."
+          "value": "Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.",
+          "provenance": {
+            "source_id": "rc-numbers-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-numbers-tag-detail-1",
+            "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal."
+          "value": "Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.",
+          "provenance": {
+            "source_id": "rc-numbers-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-numbers-tag-detail-1",
+            "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre."
+          "value": "Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.",
+          "provenance": {
+            "source_id": "rc-numbers-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-numbers-tag-detail-1",
+            "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -5329,7 +7070,16 @@
         "material": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Ballon et rubans de tag"
+          "value": "Ballon et rubans de tag",
+          "provenance": {
+            "source_id": "rc-numbers-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+            "revision_id": "rc-numbers-tag-detail-1",
+            "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
@@ -5337,13 +7087,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-08",
         "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+        "revision_id": "rc-numbers-tag-detail-1",
         "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba",
         "capture_verified_locally": true
       },
-      "instructions": "Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.",
-      "objectives": "Repérer et exploiter les espaces créés dans la défense.",
-      "organisation": "Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.",
-      "steps": "Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.",
+      "enrichment_history": [
+        {
+          "id": "rc-numbers-tag-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Page publique découverte ; capture et contenu à vérifier",
         "checked_on": "2026-09-07",
@@ -5375,26 +7130,66 @@
       "summary": "La première situation invite chacun à récolter des rubans. Une progression fige les joueurs touchés et permet à un partenaire de les délivrer en passant sous leurs bras.",
       "theme": "déplacement",
       "title": "Tag mania et délivrance",
+      "instructions": "Rester sur le terrain et protéger son ballon.",
+      "objectives": "Changer d’appuis et éviter les chasseurs.",
+      "organisation": "Aire délimitée, rubans ; ballons pour la progression.",
+      "steps": "D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Changer d’appuis et éviter les chasseurs."
+          "value": "Changer d’appuis et éviter les chasseurs.",
+          "provenance": {
+            "source_id": "rc-tagmania",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-tagmania-detail-1",
+            "capture_sha256": "2bdb3d4c304b80cf5d30dbbfa77d72df1c32dfb19da600417e429ac97be7a738",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Aire délimitée, rubans ; ballons pour la progression."
+          "value": "Aire délimitée, rubans ; ballons pour la progression.",
+          "provenance": {
+            "source_id": "rc-tagmania",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-tagmania-detail-1",
+            "capture_sha256": "2bdb3d4c304b80cf5d30dbbfa77d72df1c32dfb19da600417e429ac97be7a738",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras."
+          "value": "D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.",
+          "provenance": {
+            "source_id": "rc-tagmania",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-tagmania-detail-1",
+            "capture_sha256": "2bdb3d4c304b80cf5d30dbbfa77d72df1c32dfb19da600417e429ac97be7a738",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Rester sur le terrain et protéger son ballon."
+          "value": "Rester sur le terrain et protéger son ballon.",
+          "provenance": {
+            "source_id": "rc-tagmania",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-tagmania-detail-1",
+            "capture_sha256": "2bdb3d4c304b80cf5d30dbbfa77d72df1c32dfb19da600417e429ac97be7a738",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -5427,13 +7222,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-tagmania-detail-1",
         "capture_sha256": "2bdb3d4c304b80cf5d30dbbfa77d72df1c32dfb19da600417e429ac97be7a738",
         "capture_verified_locally": true
       },
-      "instructions": "Rester sur le terrain et protéger son ballon.",
-      "objectives": "Changer d’appuis et éviter les chasseurs.",
-      "organisation": "Aire délimitée, rubans ; ballons pour la progression.",
-      "steps": "D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.",
+      "enrichment_history": [
+        {
+          "id": "rc-tagmania-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",
@@ -5536,26 +7336,59 @@
       "summary": "En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent à leur ligne d’essai pendant que l’attaque continue. La source impose une passe sous une seconde après toucher et un genou au sol au défenseur qui touche.",
       "theme": "prise d’information",
       "title": "Toucher avec rappel des défenseurs par couleur",
+      "instructions": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.",
+      "objectives": "Exploiter un espace libéré par la défense.",
+      "organisation": "Équipes opposées ; défenseurs identifiables par couleur.",
+      "space": null,
+      "steps": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Exploiter un espace libéré par la défense."
+          "value": "Exploiter un espace libéré par la défense.",
+          "provenance": {
+            "source_id": "rc-colour-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-colour-touch-detail-1"
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Équipes opposées ; défenseurs identifiables par couleur."
+          "value": "Équipes opposées ; défenseurs identifiables par couleur.",
+          "provenance": {
+            "source_id": "rc-colour-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-colour-touch-detail-1"
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit."
+          "value": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.",
+          "provenance": {
+            "source_id": "rc-colour-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-colour-touch-detail-1"
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille."
+          "value": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.",
+          "provenance": {
+            "source_id": "rc-colour-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-colour-touch-detail-1"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -5569,7 +7402,14 @@
         },
         "duration_min": {
           "note": "Durée totale non indiquée dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-colour-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-colour-touch-detail-1"
+          }
         },
         "players_min": {
           "state": "NOT_EXTRACTED"
@@ -5579,7 +7419,14 @@
         },
         "space": {
           "note": "Dimensions non indiquées dans le texte consulté.",
-          "state": "NOT_STATED"
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "rc-colour-touch-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description / Video Subtitles — texte public consulté",
+            "revision_id": "rc-colour-touch-detail-1"
+          }
         },
         "material": {
           "state": "PRESENT",
@@ -5590,12 +7437,17 @@
         "source_id": "rc-colour-touch-source",
         "actor": "assistant",
         "checked_on": "2026-09-07",
-        "locator": "Description / Video Subtitles — texte public consulté"
+        "locator": "Description / Video Subtitles — texte public consulté",
+        "revision_id": "rc-colour-touch-detail-1"
       },
-      "instructions": "Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.",
-      "objectives": "Exploiter un espace libéré par la défense.",
-      "organisation": "Équipes opposées ; défenseurs identifiables par couleur.",
-      "steps": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.",
+      "enrichment_history": [
+        {
+          "id": "rc-colour-touch-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non téléchargée",
         "checked_on": "2026-09-07",
@@ -5695,26 +7547,66 @@
       "summary": "Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent progressivement la défense, qui s’organise pour fermer les espaces.",
       "theme": "déplacement",
       "title": "Traverser face aux chasseurs",
+      "instructions": "Les défenseurs communiquent pour couvrir les espaces.",
+      "objectives": "Éviter les défenseurs ; défendre collectivement.",
+      "organisation": "Huit traversants face à deux chasseurs au départ.",
+      "steps": "Traverser ; les joueurs touchés rejoignent les chasseurs.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Éviter les défenseurs ; défendre collectivement."
+          "value": "Éviter les défenseurs ; défendre collectivement.",
+          "provenance": {
+            "source_id": "rc-bulldog",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bulldog-detail-1",
+            "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Huit traversants face à deux chasseurs au départ."
+          "value": "Huit traversants face à deux chasseurs au départ.",
+          "provenance": {
+            "source_id": "rc-bulldog",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bulldog-detail-1",
+            "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Traverser ; les joueurs touchés rejoignent les chasseurs."
+          "value": "Traverser ; les joueurs touchés rejoignent les chasseurs.",
+          "provenance": {
+            "source_id": "rc-bulldog",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bulldog-detail-1",
+            "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
           "origin": "SOURCE",
           "state": "PRESENT",
-          "value": "Les défenseurs communiquent pour couvrir les espaces."
+          "value": "Les défenseurs communiquent pour couvrir les espaces.",
+          "provenance": {
+            "source_id": "rc-bulldog",
+            "actor": "assistant",
+            "checked_on": "2026-09-07",
+            "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+            "revision_id": "rc-bulldog-detail-1",
+            "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -5749,13 +7641,18 @@
         "actor": "assistant",
         "checked_on": "2026-09-07",
         "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+        "revision_id": "rc-bulldog-detail-1",
         "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4",
         "capture_verified_locally": true
       },
-      "instructions": "Les défenseurs communiquent pour couvrir les espaces.",
-      "objectives": "Éviter les défenseurs ; défendre collectivement.",
-      "organisation": "Huit traversants face à deux chasseurs au départ.",
-      "steps": "Traverser ; les joueurs touchés rejoignent les chasseurs.",
+      "enrichment_history": [
+        {
+          "id": "rc-bulldog-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-07",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Description et sous-titres publics consultés ; vidéo non vérifiée",
         "checked_on": "2026-09-06",

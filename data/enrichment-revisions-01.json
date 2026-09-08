@@ -1,0 +1,22 @@
+{
+  "enrichments": [
+    {
+      "actor": "assistant",
+      "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c",
+      "checked_on": "2026-09-08",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant."
+        }
+      },
+      "id": "rc-calling-pairs-detail-2",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "source_id": "rc-calling-pairs-source",
+      "variant_id": "rc-calling-pairs",
+      "supersedes": "rc-calling-pairs-detail-1",
+      "revision_reason": "Ajout du comptage des passes décrit dans les sous-titres."
+    }
+  ]
+}

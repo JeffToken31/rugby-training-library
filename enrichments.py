@@ -7,6 +7,24 @@ FIELDS=("objectives","organisation","steps","instructions","success_criteria","c
 STATES=("PRESENT","NOT_STATED","NOT_EXTRACTED","BLOCKED","CONFLICTING")
 def schema(db):
     db.execute("CREATE TABLE IF NOT EXISTS enrichments(id TEXT PRIMARY KEY, variant_id TEXT NOT NULL REFERENCES variants(id), payload_json TEXT NOT NULL CHECK(json_valid(payload_json)))")
+    db.execute("CREATE INDEX IF NOT EXISTS enrichment_variant ON enrichments(variant_id)")
+def history(db,variant_id):
+    records={r["id"]:json.loads(r["payload_json"]) for r in db.execute("SELECT * FROM enrichments WHERE variant_id=?",(variant_id,))}
+    if not records:
+        return []
+    parents={r.get("supersedes") for r in records.values() if r.get("supersedes")}
+    heads=set(records)-parents
+    if len(heads)!=1:
+        raise ValueError("Historique ambigu")
+    chain=[]; key=heads.pop(); seen=set()
+    while key:
+        if key in seen or key not in records:
+            raise ValueError("Historique invalide")
+        seen.add(key); record=records[key]; chain.append(record); key=record.get("supersedes")
+    if len(seen)!=len(records):
+        raise ValueError("Historique incomplet")
+    return list(reversed(chain))
+
 def ingest(db,payload):
     with db:
         for record in payload["enrichments"]:
@@ -36,24 +54,40 @@ def ingest(db,payload):
                 if old[0]!=encoded:
                     raise ValueError("Révision explicite nécessaire")
                 continue
-            if db.execute("SELECT 1 FROM enrichments WHERE variant_id=?",(record["variant_id"],)).fetchone():
-                raise ValueError("Enrichissement déjà présent ; révision explicite requise")
+            chain=history(db,record["variant_id"])
+            if chain:
+                if record.get("supersedes")!=chain[-1]["id"] or not record.get("revision_reason"):
+                    raise ValueError("Révision explicite de la dernière version et motif requis")
+                previous={}
+                for revision in chain:
+                    previous.update(revision["fields"])
+                for key,field in record["fields"].items():
+                    prior=previous.get(key,{})
+                    if prior.get("origin")=="SOURCE" and field.get("origin")=="AI_INFERRED":
+                        raise ValueError("Une proposition IA ne remplace pas un fait source")
+            elif record.get("supersedes"):
+                raise ValueError("Version précédente absente ou appartenant à une autre variante")
             db.execute("INSERT INTO enrichments VALUES(?,?,?)",(record["id"],record["variant_id"],encoded))
-def overlay(db,item):
-    baseline={k:({"state":"PRESENT","origin":"LEGACY_UNREVIEWED"} if item.get(k) not in (None,"","Non renseigné") else {"state":"NOT_EXTRACTED"}) for k in FIELDS}
-    row=db.execute("SELECT payload_json FROM enrichments WHERE variant_id=?",(item["id"],)).fetchone()
-    if not row:
-        item["field_coverage"]=baseline
-        return item
-    record=json.loads(row[0])
-    item["field_coverage"]={k:record["fields"].get(k,baseline[k]) for k in FIELDS}
-    item["enrichment_provenance"]={k:record[k] for k in ("source_id","actor","checked_on","locator")}
+def provenance(db,record):
+    result={k:record[k] for k in ("source_id","actor","checked_on","locator")}
+    result["revision_id"]=record["id"]
     if record.get("capture_sha256"):
         digest=record["capture_sha256"]
-        item["enrichment_provenance"]["capture_sha256"]=digest
+        result["capture_sha256"]=digest
         paths=db.execute("SELECT archive_path FROM captures WHERE resource_id=? AND sha256=?",(record["source_id"],digest))
-        item["enrichment_provenance"]["capture_verified_locally"]=any(Path(r[0]).is_file() and hashlib.sha256(Path(r[0]).read_bytes()).hexdigest()==digest for r in paths)
-    for key,field in record["fields"].items():
-        if field["state"]=="PRESENT":
-            item[key]=field["value"]
+        result["capture_verified_locally"]=any(Path(r[0]).is_file() and hashlib.sha256(Path(r[0]).read_bytes()).hexdigest()==digest for r in paths)
+    return result
+
+def overlay(db,item):
+    coverage={k:({"state":"PRESENT","origin":"LEGACY_UNREVIEWED"} if item.get(k) not in (None,"","Non renseigné") else {"state":"NOT_EXTRACTED"}) for k in FIELDS}
+    chain=history(db,item["id"])
+    for record in chain:
+        source=provenance(db,record)
+        for key,field in record["fields"].items():
+            coverage[key]={**field,"provenance":source}
+            item[key]=field["value"] if field["state"]=="PRESENT" else None
+    item["field_coverage"]=coverage
+    if chain:
+        item["enrichment_provenance"]=provenance(db,chain[-1])
+        item["enrichment_history"]=[{"id":r["id"],"supersedes":r.get("supersedes"),"checked_on":r["checked_on"],"reason":r.get("revision_reason")} for r in chain]
     return item

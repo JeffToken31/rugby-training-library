@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-67 fiches · 47 sources
+70 fiches · 48 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -143,6 +143,14 @@ Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la der
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Organisation :** Joueurs en cercle, chacun sur un plot.
+
+**Déroulement :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
+
+**Consignes :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 **Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
 
 ## Cercle solidaire contre un poursuivant
@@ -162,6 +170,14 @@ Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un p
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Video Subtitles — première situation en cercle · consultée le 2026-09-07
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+**Organisation :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
+
+**Déroulement :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
+
+**Consignes :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
 
 ## Changer de ligne d’essai
 
@@ -363,6 +379,32 @@ Maîtriser la remise en jeu et partir dans un espace libre.
 
 **Accès :** PDF public consulté
 
+## Course autour des bases contre trois passes
+
+**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Texte source consulté ; validation terrain non effectuée.**
+
+Un coureur tente de boucler son parcours avant trois passes adverses.
+
+**Matériel :** Ballon ; bases à matérialiser
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — Video Subtitles : consignes du parcours et des trois passes · consultée le 2026-09-07
+
+**Accès :** Page publique découverte ; capture et contenu à vérifier
+
+**Organisation :** Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.
+
+**Déroulement :** Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.
+
+**Consignes :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 ## Déplacement à quatre appuis
 
 **motricité · âge source : M8 · Source consultée — validation terrain à faire**
@@ -503,6 +545,14 @@ Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur n
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Organisation :** Plusieurs chasseurs coopèrent avec un ballon.
+
+**Déroulement :** Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.
+
+**Consignes :** Le porteur ne court pas.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 **Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
 
 ## Gagne-terrain
@@ -540,6 +590,14 @@ Deux équipes progressent vers une zone de marque, avec des passes possibles dan
 [Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Video Subtitles — progression avec nombres · consultée le 2026-09-07
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+
+**Organisation :** Deux équipes jouant vers une zone de marque.
+
+**Déroulement :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
+
+**Consignes :** Passes dans toutes les directions ; transmettre rapidement après toucher.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
 
 ## Jouer les intervalles
 
@@ -1065,6 +1123,8 @@ Choisir quand passer malgré les déplacements des autres binômes.
 
 **Consignes :** Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.
 
+**Critères de réussite :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
+
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
 ## Passes en triangle et changement de posture
@@ -1331,6 +1391,34 @@ Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond 
 
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
+## Recevoir à différentes hauteurs et passer
+
+**passe · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
+
+Recevoir à différentes hauteurs et passer
+
+**Matériel :** Ballons et plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 4–4
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Fédération Française de Rugby](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF page 24 · consultée le 2026-09-08
+
+**Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
+
+**Organisation :** Un passeur, un joueur actif et deux réceptionneurs.
+
+**Déroulement :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
+
+**Critères de réussite :** Passer en mouvement vers le partenaire.
+
+Détails extraits le 2026-09-08 — PDF page 24, organisation, consignes et critères.
+
+**Espace source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
+
 ## Recevoir en trottinant
 
 **passe · âge source : M10 · Source consultée — validation terrain à faire**
@@ -1426,6 +1514,34 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 **Plus simple :** Deux cibles.
 
 **Plus difficile :** Quatre cibles et changement de cible après un point.
+
+## Slalom au pied puis essai
+
+**jeu au pied · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
+
+Slalom au pied puis essai
+
+**Matériel :** Ballons et plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Fédération Française de Rugby](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF page 26 · consultée le 2026-09-08
+
+**Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
+
+**Organisation :** Un ballon par joueur ; trois plots de slalom.
+
+**Déroulement :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
+
+**Critères de réussite :** Garder le ballon dans la zone et doser les touches.
+
+Détails extraits le 2026-09-08 — PDF page 26, organisation, consignes et critères.
+
+**Espace source :** Zone de 5 × 5 m.
 
 ## Speedy — un ballon chacun
 
@@ -1668,6 +1784,7 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 - [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositives et texte publics consultés ; PDF non téléchargé.
 - [M8 : échauffement et préparation physique](https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique) — Page publique ; vidéo non analysée. Répertoire à approfondir. Situations issues des journées 2014.
 - [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
+- [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF consulté via recherche documentaire ; capture locale à vérifier.
 - [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) — Page publique, liens documentaires repérés. Guide éducateur et livret joueur à examiner.
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.

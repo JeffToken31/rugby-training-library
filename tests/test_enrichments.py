@@ -46,3 +46,36 @@ class EnrichmentTests(unittest.TestCase):
         v2.export(self.db,self.tmp.name)
         card=(Path(self.tmp.name)/"fiches/rc-pass-start.md").read_text()
         self.assertIn("Critères de réussite — proposition IA",card)
+
+    def test_revision_preserves_history_and_field_provenance(self):
+        enrichments.ingest(self.db,self.payload)
+        old=self.payload["enrichments"][0]
+        revision={**old,"id":"revision-2","supersedes":old["id"],"revision_reason":"Précision documentaire","fields":{"common_errors":{"state":"PRESENT","origin":"AI_INFERRED","value":"Exemple à observer"}}}
+        enrichments.ingest(self.db,{"enrichments":[revision]})
+        enrichments.ingest(self.db,self.payload)
+        enrichments.ingest(self.db,{"enrichments":[revision]})
+        chain=enrichments.history(self.db,old["variant_id"])
+        self.assertEqual([r["id"] for r in chain],[old["id"],"revision-2"])
+        item=next(e for e in v2.items(self.db) if e["id"]==old["variant_id"])
+        self.assertEqual(item["field_coverage"]["objectives"]["provenance"]["revision_id"],old["id"])
+        self.assertEqual(item["common_errors"],"Exemple à observer")
+        stale={**revision,"id":"stale"}
+        with self.assertRaises(ValueError):
+            enrichments.ingest(self.db,{"enrichments":[stale]})
+
+    def test_revision_cannot_replace_source_with_inference(self):
+        enrichments.ingest(self.db,self.payload)
+        old=self.payload["enrichments"][0]
+        revision={**old,"id":"revision-2","supersedes":old["id"],"revision_reason":"Test","fields":{"objectives":{"state":"PRESENT","origin":"AI_INFERRED","value":"Changement"}}}
+        with self.assertRaises(ValueError):
+            enrichments.ingest(self.db,{"enrichments":[revision]})
+        self.assertEqual(len(enrichments.history(self.db,old["variant_id"])),1)
+
+    def test_revision_missing_value_does_not_leave_stale_display(self):
+        enrichments.ingest(self.db,self.payload)
+        old=self.payload["enrichments"][0]
+        revision={**old,"id":"revision-2","supersedes":old["id"],"revision_reason":"Critère proposé retiré pour réexamen","fields":{"success_criteria":{"state":"NOT_EXTRACTED"}}}
+        enrichments.ingest(self.db,{"enrichments":[revision]})
+        item=next(e for e in v2.items(self.db) if e["id"]==old["variant_id"])
+        self.assertIsNone(item["success_criteria"])
+        self.assertEqual(len(item["enrichment_history"]),2)

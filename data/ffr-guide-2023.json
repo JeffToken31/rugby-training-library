@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "id": "ffr-guide-m8-2023",
+      "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf",
+      "publisher": "Fédération Française de Rugby",
+      "language": "fr",
+      "checked_on": "2026-09-08",
+      "access": "PDF consulté via recherche documentaire ; capture locale à vérifier",
+      "format": "PDF",
+      "resource_type": "TECHNICAL_DOCUMENT",
+      "qualification_note": "Guide de validation avec situations distinctes ; pas une séance unique. Saison du document 2022-2023, aucune actualité réglementaire déduite."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "ffr-guide-recevoir-passer",
+      "source_id": "ffr-guide-m8-2023",
+      "title": "Recevoir à différentes hauteurs et passer",
+      "summary": "Recevoir à différentes hauteurs et passer",
+      "theme": "passe",
+      "age_source": "M8 — guide saison 2022-2023",
+      "locator": "PDF page 24",
+      "page_start": 24,
+      "page_end": 24,
+      "players_min": 4,
+      "players_max": 4,
+      "duration_min": null,
+      "space": "Carré de 1 × 1 m ; partenaires à 2–3 m.",
+      "material": "Ballons et plots",
+      "status": "documented",
+      "review": "Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain."
+    },
+    {
+      "id": "ffr-guide-dribble",
+      "source_id": "ffr-guide-m8-2023",
+      "title": "Slalom au pied puis essai",
+      "summary": "Slalom au pied puis essai",
+      "theme": "jeu au pied",
+      "age_source": "M8 — guide saison 2022-2023",
+      "locator": "PDF page 26",
+      "page_start": 26,
+      "page_end": 26,
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": "Zone de 5 × 5 m.",
+      "material": "Ballons et plots",
+      "status": "documented",
+      "review": "Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain."
+    }
+  ]
+}

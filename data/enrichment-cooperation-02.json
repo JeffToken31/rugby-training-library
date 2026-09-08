@@ -1,0 +1,134 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-rounders-detail-1",
+      "variant_id": "rc-rounders",
+      "source_id": "rc-rounders-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+      "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage."
+        }
+      }
+    },
+    {
+      "id": "rc-team-scarecrow-detail-1",
+      "variant_id": "rc-team-scarecrow",
+      "source_id": "rc-team-scarecrow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+      "capture_sha256": "1f5cd9eb3fcb9db40a929428231417226ccdfd81a42764712ec2db9b8524b922",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Plusieurs chasseurs coopèrent avec un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur ne court pas."
+        }
+      }
+    },
+    {
+      "id": "rc-circle-jump-detail-1",
+      "variant_id": "rc-circle-jump",
+      "source_id": "rc-circle-jump-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+      "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs en cercle, chacun sur un plot."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Présenter les mains ; rapprocher les plots si les passes deviennent difficiles."
+        }
+      }
+    },
+    {
+      "id": "rc-protect-circle-detail-1",
+      "variant_id": "rc-protect-circle",
+      "source_id": "rc-protect-circle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+      "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs liés en cercle, un poursuivant à l’extérieur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer le poursuivant et laisser un court temps de concertation entre les manches."
+        }
+      }
+    },
+    {
+      "id": "rc-endball-groups-detail-1",
+      "variant_id": "rc-endball-groups",
+      "source_id": "rc-endball-groups-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
+      "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes jouant vers une zone de marque."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passes dans toutes les directions ; transmettre rapidement après toucher."
+        }
+      }
+    }
+  ]
+}

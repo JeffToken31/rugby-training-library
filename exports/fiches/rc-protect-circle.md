@@ -23,6 +23,14 @@ Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un p
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Organisation :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
+
+**Déroulement :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
+
+**Consignes :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 ## Répertoire des sources
 
 - [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Description et sous-titres publics consultés ; vidéo non téléchargée.

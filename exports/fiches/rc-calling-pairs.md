@@ -31,6 +31,8 @@ Choisir quand passer malgré les déplacements des autres binômes.
 
 **Consignes :** Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.
 
+**Critères de réussite :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
+
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
 ## Répertoire des sources

@@ -60,7 +60,7 @@ def run(db,manifest,root,out,collect=False,limit=12):
         "variants":count,
         "documented":sum(e["model_status"]=="REVIEWED" for e in items),
         "incomplete":sum(e["model_status"]=="AI_PARSED" for e in items),
-        "enriched":db.execute("SELECT COUNT(*) FROM enrichments").fetchone()[0],
+        "enriched":db.execute("SELECT COUNT(DISTINCT variant_id) FROM enrichments").fetchone()[0],
         "resources":db.execute("SELECT COUNT(*) FROM resources").fetchone()[0],
         "captured_resources":db.execute("SELECT COUNT(DISTINCT resource_id) FROM captures").fetchone()[0],
         "families":db.execute("SELECT COUNT(*) FROM families").fetchone()[0],

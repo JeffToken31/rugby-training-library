@@ -23,6 +23,14 @@ Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la der
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Organisation :** Joueurs en cercle, chacun sur un plot.
+
+**Déroulement :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
+
+**Consignes :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
+
+Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
 **Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
 
 ## Répertoire des sources
