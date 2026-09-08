@@ -206,6 +206,18 @@
       "url": "https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1"
     },
     {
+      "access": "Description publique consultée",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-handling-relay-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Situation U7 ; jeu principal reformulé, sans multiplier les variantes.",
+      "resource_type": "WEB_PAGE",
+      "title": "Relais avec changements de portage",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/handling-relay"
+    },
+    {
       "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
       "checked_on": "2026-09-08",
       "format": "HTML",
@@ -216,6 +228,18 @@
       "resource_type": "WEB_PAGE",
       "title": "Opposition sans ballon, attaquant désigné",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9"
+    },
+    {
+      "access": "Description publique consultée",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "id": "nz-numbers-race-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Situation U7 ; jeu principal reformulé, sans multiplier les variantes.",
+      "resource_type": "WEB_PAGE",
+      "title": "Course numérotée avec deux ballons",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/numbers-race"
     },
     {
       "access": "Description publique indexée consultée ; capture à vérifier",
@@ -2808,6 +2832,201 @@
         "resource_type": "EXERCISE_VIDEO",
         "title": "stg rugby rounders",
         "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-numbers-race",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Deux ballons",
+      "participants_scope": "par groupe",
+      "players_max": 10,
+      "players_min": 10,
+      "review": "Description source ; validation pédagogique non effectuée.",
+      "source_id": "nz-numbers-race-source",
+      "space": "15 × 10 m",
+      "status": "documented",
+      "summary": "Deux lignes face à face ; cinq binômes numérotés.",
+      "theme": "course",
+      "title": "Course numérotée avec deux ballons",
+      "instructions": "Courir chacun avec son ballon vers l’extrémité opposée.",
+      "organisation": "Deux lignes face à face ; cinq binômes numérotés.",
+      "steps": "Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit.",
+      "objectives": "Sprinter et ramasser un ballon.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Sprinter et ramasser un ballon.",
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux lignes face à face ; cinq binômes numérotés.",
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit.",
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Courir chacun avec son ballon vers l’extrémité opposée.",
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "15 × 10 m",
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux ballons",
+          "provenance": {
+            "source_id": "nz-numbers-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-numbers-race-detail-2",
+            "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-numbers-race-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Description et paramètres du jeu",
+        "revision_id": "nz-numbers-race-detail-2",
+        "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-numbers-race-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-numbers-race-detail-2",
+          "supersedes": "nz-numbers-race-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Vérification du texte capturé et ajout de l’objectif."
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-numbers-race-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Situation U7 ; jeu principal reformulé, sans multiplier les variantes.",
+        "resource_type": "WEB_PAGE",
+        "title": "Course numérotée avec deux ballons",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/numbers-race"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -7706,6 +7925,201 @@
         "publisher": "FFR",
         "title": "Rugby à la maison en famille",
         "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-handling-relay",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Un ballon et quatre plots par groupe",
+      "participants_scope": "par groupe",
+      "players_max": 6,
+      "players_min": 3,
+      "review": "Description source ; validation pédagogique non effectuée.",
+      "source_id": "nz-handling-relay-source",
+      "space": "40 × 20 m",
+      "status": "documented",
+      "summary": "Groupes alignés devant quatre plots espacés de dix mètres.",
+      "theme": "manipulation",
+      "title": "Relais avec changements de portage",
+      "instructions": "Feinter avant de changer de direction.",
+      "organisation": "Groupes alignés devant quatre plots espacés de dix mètres.",
+      "steps": "Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.",
+      "objectives": "Améliorer la manipulation du ballon.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Améliorer la manipulation du ballon.",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Groupes alignés devant quatre plots espacés de dix mètres.",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Feinter avant de changer de direction.",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "40 × 20 m",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un ballon et quatre plots par groupe",
+          "provenance": {
+            "source_id": "nz-handling-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Description et paramètres du jeu",
+            "revision_id": "nz-handling-relay-detail-2",
+            "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-handling-relay-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Description et paramètres du jeu",
+        "revision_id": "nz-handling-relay-detail-2",
+        "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-handling-relay-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        },
+        {
+          "id": "nz-handling-relay-detail-2",
+          "supersedes": "nz-handling-relay-detail-1",
+          "checked_on": "2026-09-08",
+          "reason": "Vérification du texte capturé et ajout de l’objectif."
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "nz-handling-relay-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Situation U7 ; jeu principal reformulé, sans multiplier les variantes.",
+        "resource_type": "WEB_PAGE",
+        "title": "Relais avec changements de portage",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/handling-relay"
       },
       "model_status": "REVIEWED",
       "references": []

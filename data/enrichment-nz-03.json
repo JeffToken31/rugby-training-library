@@ -1,0 +1,220 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-handling-relay-detail-1",
+      "variant_id": "nz-handling-relay",
+      "source_id": "nz-handling-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et paramètres du jeu",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupes alignés devant quatre plots espacés de dix mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Feinter avant de changer de direction."
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "40 × 20 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon et quatre plots par groupe"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-numbers-race-detail-1",
+      "variant_id": "nz-numbers-race",
+      "source_id": "nz-numbers-race-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et paramètres du jeu",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes face à face ; cinq binômes numérotés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir chacun avec son ballon vers l’extrémité opposée."
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "15 × 10 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux ballons"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-handling-relay-detail-2",
+      "variant_id": "nz-handling-relay",
+      "source_id": "nz-handling-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et paramètres du jeu",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupes alignés devant quatre plots espacés de dix mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Feinter avant de changer de direction."
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "40 × 20 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon et quatre plots par groupe"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Améliorer la manipulation du ballon."
+        }
+      },
+      "supersedes": "nz-handling-relay-detail-1",
+      "revision_reason": "Vérification du texte capturé et ajout de l’objectif.",
+      "capture_sha256": "d4880f99d1390580ffa5ca384ab8e87116c10637da7128145504bac05a971706"
+    },
+    {
+      "id": "nz-numbers-race-detail-2",
+      "variant_id": "nz-numbers-race",
+      "source_id": "nz-numbers-race-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et paramètres du jeu",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes face à face ; cinq binômes numérotés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir chacun avec son ballon vers l’extrémité opposée."
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "15 × 10 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux ballons"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Sprinter et ramasser un ballon."
+        }
+      },
+      "supersedes": "nz-numbers-race-detail-1",
+      "revision_reason": "Vérification du texte capturé et ajout de l’objectif.",
+      "capture_sha256": "85acf32107cfd405b050ee31a9a75716ddab46496f583c24d92c07cafb0a8d1d"
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-79 fiches ; 70 documentées ; 9 incomplètes.
-43 fiches enrichies ; 56 ressources ; 48 ressources capturées localement.
+81 fiches ; 72 documentées ; 9 incomplètes.
+45 fiches enrichies ; 58 ressources ; 50 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 27 | 52 | 0 | 0 | 0 |
-| organisation | 41 | 38 | 0 | 0 | 0 |
-| steps | 42 | 37 | 0 | 0 | 0 |
-| instructions | 34 | 45 | 0 | 0 | 0 |
-| success_criteria | 5 | 74 | 0 | 0 | 0 |
-| common_errors | 1 | 78 | 0 | 0 | 0 |
-| coach_points | 12 | 67 | 0 | 0 | 0 |
-| duration_min | 5 | 70 | 4 | 0 | 0 |
-| players_min | 26 | 53 | 0 | 0 | 0 |
-| players_max | 27 | 52 | 0 | 0 | 0 |
-| space | 13 | 62 | 4 | 0 | 0 |
-| material | 63 | 16 | 0 | 0 | 0 |
+| objectives | 29 | 52 | 0 | 0 | 0 |
+| organisation | 43 | 38 | 0 | 0 | 0 |
+| steps | 44 | 37 | 0 | 0 | 0 |
+| instructions | 36 | 45 | 0 | 0 | 0 |
+| success_criteria | 5 | 76 | 0 | 0 | 0 |
+| common_errors | 1 | 80 | 0 | 0 | 0 |
+| coach_points | 12 | 69 | 0 | 0 | 0 |
+| duration_min | 5 | 70 | 6 | 0 | 0 |
+| players_min | 28 | 53 | 0 | 0 | 0 |
+| players_max | 29 | 52 | 0 | 0 | 0 |
+| space | 15 | 62 | 4 | 0 | 0 |
+| material | 65 | 16 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -51,7 +51,9 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:41.381553+00:00
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:36.143783+00:00
+- [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:02.581870+00:00
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:44.415925+00:00
+- [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:06.618673+00:00
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:28.925914+00:00
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:37.650827+00:00
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:26.445516+00:00

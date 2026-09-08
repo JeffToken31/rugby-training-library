@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-08T17:37:08.818672+00:00",
-  "variants": 79,
-  "documented": 70,
+  "generated_at": "2026-09-08T17:44:54.980554+00:00",
+  "variants": 81,
+  "documented": 72,
   "incomplete": 9,
-  "enriched": 43,
-  "resources": 56,
-  "captured_resources": 48,
+  "enriched": 45,
+  "resources": 58,
+  "captured_resources": 50,
   "families": 1,
   "events": [],
   "resource_inventory": [
@@ -208,6 +208,17 @@
       }
     },
     {
+      "resource_id": "nz-handling-relay-source",
+      "title": "Relais avec changements de portage",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/handling-relay",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:44:02.581870+00:00"
+      }
+    },
+    {
       "resource_id": "nz-no-ball-source",
       "title": "Opposition sans ballon, attaquant désigné",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9",
@@ -216,6 +227,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:15:44.415925+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-numbers-race-source",
+      "title": "Course numérotée avec deux ballons",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/numbers-race",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T17:44:06.618673+00:00"
       }
     },
     {

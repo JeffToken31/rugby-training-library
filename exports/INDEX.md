@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-79 fiches — les propositions terrain restent à valider par le coach.
+81 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -31,6 +31,12 @@
 |---|---|---|
 | [Cercle de passes avec demi-tours sautés](fiches/rc-circle-jump.md) | U7 (classement du site) ; adéquation U8 à valider | Documentée ; à valider |
 | [Tennis à la main](fiches/scot-tennis.md) | Primaire (Écosse) | Documentée ; à valider |
+
+## Course
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) | Under 7 (classement du site) | Documentée ; à valider |
 
 ## Déplacement
 
@@ -79,6 +85,7 @@
 | [Manipulations autour du corps](fiches/nz-awareness.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Ramasser, porter et reposer](fiches/nz-pick-place.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Rebondir et échanger en binôme](fiches/rc-bounce.md) | U9 (classement du site) | Documentée ; à valider |
+| [Relais avec changements de portage](fiches/nz-handling-relay.md) | Under 7 (classement du site) | Documentée ; à valider |
 
 ## Motricité
 

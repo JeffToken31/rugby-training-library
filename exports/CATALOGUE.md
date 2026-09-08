@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-79 fiches · 56 sources
+81 fiches · 58 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -492,6 +492,36 @@ Un coureur tente de boucler son parcours avant trois passes adverses.
 **Consignes :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
 
 Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
+## Course numérotée avec deux ballons
+
+**course · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
+
+Deux lignes face à face ; cinq binômes numérotés.
+
+**Matériel :** Deux ballons
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 10–10 — par groupe
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+
+**Accès :** Description publique consultée
+
+**Objectifs :** Sprinter et ramasser un ballon.
+
+**Organisation :** Deux lignes face à face ; cinq binômes numérotés.
+
+**Déroulement :** Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit.
+
+**Consignes :** Courir chacun avec son ballon vers l’extrémité opposée.
+
+Détails extraits le 2026-09-08 — Description et paramètres du jeu.
+
+**Espace source :** 15 × 10 m
 
 ## Déplacement à quatre appuis
 
@@ -1697,6 +1727,36 @@ Réceptionner une passe pendant un déplacement au petit trot.
 
 **Accès :** PDF public, texte consulté
 
+## Relais avec changements de portage
+
+**manipulation · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
+
+Groupes alignés devant quatre plots espacés de dix mètres.
+
+**Matériel :** Un ballon et quatre plots par groupe
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 3–6 — par groupe
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+
+**Accès :** Description publique consultée
+
+**Objectifs :** Améliorer la manipulation du ballon.
+
+**Organisation :** Groupes alignés devant quatre plots espacés de dix mètres.
+
+**Déroulement :** Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.
+
+**Consignes :** Feinter avant de changer de direction.
+
+Détails extraits le 2026-09-08 — Description et paramètres du jeu.
+
+**Espace source :** 40 × 20 m
+
 ## Relais avec essai
 
 **motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -2053,7 +2113,9 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — Description publique indexée consultée ; capture à vérifier.
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — Description publique consultée.
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

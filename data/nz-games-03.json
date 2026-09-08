@@ -1,0 +1,64 @@
+{
+  "sources": [
+    {
+      "id": "nz-handling-relay-source",
+      "title": "Relais avec changements de portage",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/handling-relay",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée",
+      "qualification_note": "Situation U7 ; jeu principal reformulé, sans multiplier les variantes."
+    },
+    {
+      "id": "nz-numbers-race-source",
+      "title": "Course numérotée avec deux ballons",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/numbers-race",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-08",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée",
+      "qualification_note": "Situation U7 ; jeu principal reformulé, sans multiplier les variantes."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "nz-handling-relay",
+      "source_id": "nz-handling-relay-source",
+      "title": "Relais avec changements de portage",
+      "summary": "Groupes alignés devant quatre plots espacés de dix mètres.",
+      "theme": "manipulation",
+      "age_source": "Under 7 (classement du site)",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "players_min": 3,
+      "players_max": 6,
+      "participants_scope": "par groupe",
+      "duration_min": null,
+      "space": "40 × 20 m",
+      "material": "Un ballon et quatre plots par groupe",
+      "status": "documented",
+      "review": "Description source ; validation pédagogique non effectuée."
+    },
+    {
+      "id": "nz-numbers-race",
+      "source_id": "nz-numbers-race-source",
+      "title": "Course numérotée avec deux ballons",
+      "summary": "Deux lignes face à face ; cinq binômes numérotés.",
+      "theme": "course",
+      "age_source": "Under 7 (classement du site)",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "players_min": 10,
+      "players_max": 10,
+      "participants_scope": "par groupe",
+      "duration_min": null,
+      "space": "15 × 10 m",
+      "material": "Deux ballons",
+      "status": "documented",
+      "review": "Description source ; validation pédagogique non effectuée."
+    }
+  ]
+}
