@@ -23,6 +23,16 @@ Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Passer malgré la présence d’un défenseur.
+
+**Organisation :** Deux attaquants face à un défenseur simulé.
+
+**Déroulement :** Avancer et transmettre au soutien ; enchaîner les passages.
+
+**Consignes :** Aucun contact ; le soutien garde de la profondeur.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ### Proposition terrain U8 — à valider
 
 8 min · 6 à 9 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

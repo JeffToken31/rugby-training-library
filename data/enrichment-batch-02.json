@@ -1,0 +1,376 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-piggy-detail-1",
+      "variant_id": "rc-piggy",
+      "source_id": "rc-piggy",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Conserver le ballon et se rendre disponible."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois passeurs et un intercepteur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon."
+        }
+      },
+      "capture_sha256": "b95145ea21446b9184c714f45c1b5807182b90a4bfef1084f5c1d467b3d78e17"
+    },
+    {
+      "id": "rc-pairs-detail-1",
+      "variant_id": "rc-pairs",
+      "source_id": "rc-pairs",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Recevoir en soutien du porteur."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes en mouvement ; obstacle représentant un défenseur dans la progression."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir puis passer derrière l’obstacle à son partenaire."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Privilégier une passe courte et rester en retrait."
+        }
+      },
+      "capture_sha256": "167f340b8aeefaeb002e3b6e10626cea55e2650f4ff1d64836d830744b9eb425"
+    },
+    {
+      "id": "rc-two-one-detail-1",
+      "variant_id": "rc-two-one",
+      "source_id": "rc-two-one",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer malgré la présence d’un défenseur."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux attaquants face à un défenseur simulé."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer et transmettre au soutien ; enchaîner les passages."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun contact ; le soutien garde de la profondeur."
+        }
+      },
+      "capture_sha256": "f12fee4a4a338983b4b66bc70ee91084ba58e9af2d5023a817e07ef8b9f94f3c"
+    },
+    {
+      "id": "rc-netball-detail-1",
+      "variant_id": "rc-netball",
+      "source_id": "rc-netball",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Repérer un partenaire et une cible libres."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes et quatre zones de marque."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes."
+        }
+      },
+      "capture_sha256": "e13998dca293827e3a228a524e19fbe673a81a27d625a3b138f9841391a9a006"
+    },
+    {
+      "id": "rc-multidirection-detail-1",
+      "variant_id": "rc-multidirection",
+      "source_id": "rc-multidirection",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réagir à un changement de cible."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Équipes en opposition, lignes repérées par couleur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes."
+        }
+      },
+      "capture_sha256": "2ebf47344bcc31014ba31bfe35121f32ac055301134e283181d97ad6430798d9"
+    },
+    {
+      "id": "rc-bulldog-detail-1",
+      "variant_id": "rc-bulldog",
+      "source_id": "rc-bulldog",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter les défenseurs ; défendre collectivement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Huit traversants face à deux chasseurs au départ."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser ; les joueurs touchés rejoignent les chasseurs."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les défenseurs communiquent pour couvrir les espaces."
+        }
+      },
+      "capture_sha256": "55a1bf565b8aa9092fb5ec21e6050d3f8d882aabf8e1857ee6eb62152d5847e4"
+    },
+    {
+      "id": "rc-aliens-detail-1",
+      "variant_id": "rc-aliens",
+      "source_id": "rc-aliens",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter les chasseurs et changer de rôle."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aire délimitée, chasseurs avec ballon, ballons accessibles autour."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le joueur touché prend un ballon et rejoint les chasseurs."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester dans les limites et chercher un passage libre."
+        }
+      },
+      "capture_sha256": "b7e23aa6ad6fd5583726889baa634475a873edd170b93547249cb4c3ad6f809d"
+    },
+    {
+      "id": "rc-taggrab-detail-1",
+      "variant_id": "rc-taggrab",
+      "source_id": "rc-taggrab",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter et attraper les rubans."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux chasseurs désignés, un de chaque équipe."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Continuer à se déplacer dans la zone."
+        }
+      },
+      "capture_sha256": "89d4c2da429e0b9a0aab67ed4986d4d8b6aa4305edd7607c0c029165a6e3af66"
+    },
+    {
+      "id": "rc-statues-detail-1",
+      "variant_id": "rc-statues",
+      "source_id": "rc-statues",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter ; coopérer entre chasseurs."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois chasseurs porteurs d’un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le joueur touché s’immobilise ; chronométrer la capture de tous."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon tenu à deux mains ; statue pieds joints, mains sur la tête."
+        }
+      },
+      "capture_sha256": "afa2e531955f56dd5efa01a110eb27d3e1c234a73b9653753c6a924f1712c68f"
+    },
+    {
+      "id": "rc-tagmania-detail-1",
+      "variant_id": "rc-tagmania",
+      "source_id": "rc-tagmania",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer d’appuis et éviter les chasseurs."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aire délimitée, rubans ; ballons pour la progression."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester sur le terrain et protéger son ballon."
+        }
+      },
+      "capture_sha256": "2bdb3d4c304b80cf5d30dbbfa77d72df1c32dfb19da600417e429ac97be7a738"
+    },
+    {
+      "id": "rc-bounce-detail-1",
+      "variant_id": "rc-bounce",
+      "source_id": "rc-bounce",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Coordonner réception et rebond."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux partenaires face à face."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Progression à une main : réceptionner sans bloquer contre le corps ; changer de main."
+        }
+      },
+      "capture_sha256": "7a0509c879b7fc2274e960f9e6da20b7bc0e1f1f900128538ea62d8a04c7f49f"
+    },
+    {
+      "id": "rc-triangle-detail-1",
+      "variant_id": "rc-triangle",
+      "source_id": "rc-triangle",
+      "actor": "assistant",
+      "checked_on": "2026-09-07",
+      "locator": "Description et Video Subtitles ; hors recommandations de vidéos voisines",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Recevoir après un changement de posture."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois joueurs en triangle."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer, s’asseoir et se relever avant de recevoir à nouveau."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Présenter les mains tôt ; reprendre le rythme de circulation."
+        }
+      },
+      "capture_sha256": "2dc18b56b30b1b1af1152e6a1a22e102d94aa23945813ec37b08efcadfe36100"
+    }
+  ]
+}

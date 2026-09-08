@@ -23,6 +23,16 @@ En triangle, transmettre puis s’asseoir et se relever avant la prochaine réce
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Recevoir après un changement de posture.
+
+**Organisation :** Trois joueurs en triangle.
+
+**Déroulement :** Passer, s’asseoir et se relever avant de recevoir à nouveau.
+
+**Consignes :** Présenter les mains tôt ; reprendre le rythme de circulation.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ## Répertoire des sources
 
 - [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

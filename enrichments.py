@@ -1,5 +1,8 @@
 """Enrichissements attribués, séparés des lots historiques."""
 import json
+import re
+import hashlib
+from pathlib import Path
 FIELDS=("objectives","organisation","steps","instructions","success_criteria","common_errors","coach_points","duration_min","players_min","players_max","space","material")
 STATES=("PRESENT","NOT_STATED","NOT_EXTRACTED","BLOCKED","CONFLICTING")
 def schema(db):
@@ -15,6 +18,8 @@ def ingest(db,payload):
                 raise ValueError("Source incohérente")
             if not record.get("actor") or not record.get("checked_on") or not record.get("locator"):
                 raise ValueError("Attribution incomplète")
+            if record.get("capture_sha256") and not re.fullmatch(r"[0-9a-f]{64}",record["capture_sha256"]):
+                raise ValueError("Empreinte de capture invalide")
             for key,field in record["fields"].items():
                 if key not in FIELDS or field["state"] not in STATES:
                     raise ValueError("Champ ou état inconnu")
@@ -43,6 +48,11 @@ def overlay(db,item):
     record=json.loads(row[0])
     item["field_coverage"]={k:record["fields"].get(k,baseline[k]) for k in FIELDS}
     item["enrichment_provenance"]={k:record[k] for k in ("source_id","actor","checked_on","locator")}
+    if record.get("capture_sha256"):
+        digest=record["capture_sha256"]
+        item["enrichment_provenance"]["capture_sha256"]=digest
+        paths=db.execute("SELECT archive_path FROM captures WHERE resource_id=? AND sha256=?",(record["source_id"],digest))
+        item["enrichment_provenance"]["capture_verified_locally"]=any(Path(r[0]).is_file() and hashlib.sha256(Path(r[0]).read_bytes()).hexdigest()==digest for r in paths)
     for key,field in record["fields"].items():
         if field["state"]=="PRESENT":
             item[key]=field["value"]

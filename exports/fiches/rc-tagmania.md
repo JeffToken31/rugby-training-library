@@ -23,6 +23,16 @@ La première situation invite chacun à récolter des rubans. Une progression fi
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Changer d’appuis et éviter les chasseurs.
+
+**Organisation :** Aire délimitée, rubans ; ballons pour la progression.
+
+**Déroulement :** D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.
+
+**Consignes :** Rester sur le terrain et protéger son ballon.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ## Répertoire des sources
 
 - [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

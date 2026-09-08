@@ -43,3 +43,11 @@ python3 capture_resources.py rc-pass-start-source
 [État des captures et filtres](docs/COLLECTE_OPERATIONNELLE.md). Les copies brutes restent dans data/raw, ignoré par Git.
 
 Quatre fiches disposent désormais de rubriques pédagogiques séparées. Voir [enrichissement et provenance](docs/ENRICHISSEMENT.md).
+
+## Reconstruction complète
+
+Depuis le dossier du projet, `python3 pipeline.py` reconstruit les données et tous les enrichissements décrits dans `data/manifest.json`, puis les exports, sans nouvelle requête réseau. Cette commande remplace l’enchaînement manuel des lots pour l’usage courant.
+
+`python3 pipeline.py --collect --limit 20` ajoute une collecte bornée des ressources du manifeste. Les captures existantes sont réutilisées. Un échec de collecte n’empêche pas les autres ressources ni les exports. Les accès bloqués sont différés ; aucune authentification n’est automatisée.
+
+Lire [le bilan du lot](docs/LOT_2026-09-08.md) et [la couverture des informations](exports/ETAT_COLLECTE.md). Pour vérifier : `python3 -m unittest discover -s tests -q`.

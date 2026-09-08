@@ -23,6 +23,16 @@ Marquer par une passe à un partenaire dans une cible. Quatre cibles favorisent 
 
 **Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
 
+**Objectifs :** Repérer un partenaire et une cible libres.
+
+**Organisation :** Deux équipes et quatre zones de marque.
+
+**Déroulement :** Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.
+
+**Consignes :** Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ### Proposition terrain U8 — à valider
 
 8 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

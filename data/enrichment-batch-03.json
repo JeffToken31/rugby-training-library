@@ -1,0 +1,148 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-capture-aliens-detail-1",
+      "variant_id": "rc-capture-aliens",
+      "source_id": "rc-capture-aliens-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Coopérer pour toucher les fuyards au ballon."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon et plots"
+        }
+      },
+      "capture_sha256": "35f44e97f947dd4857a5c585d6f189a510a5de134612307362511e54a41247f9"
+    },
+    {
+      "id": "rc-chaos-touch-detail-1",
+      "variant_id": "rc-chaos-touch",
+      "source_id": "rc-chaos-touch-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trouver un partenaire libre dans une zone de marque."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon et plots de couleurs"
+        }
+      },
+      "capture_sha256": "ace81b831bb31c1bf1a6ad913b607c9eaa58373b53b44c85da7c1e5c05d215d2"
+    },
+    {
+      "id": "rc-calling-pairs-detail-1",
+      "variant_id": "rc-calling-pairs",
+      "source_id": "rc-calling-pairs-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Choisir quand passer malgré les déplacements des autres binômes."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons"
+        }
+      },
+      "capture_sha256": "10835797c5fe9d884bbd1086aa51e0a4abbbdb26322ab37549372b2ffa34625c"
+    },
+    {
+      "id": "rc-numbers-tag-detail-1",
+      "variant_id": "rc-numbers-tag",
+      "source_id": "rc-numbers-tag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Repérer et exploiter les espaces créés dans la défense."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon et rubans de tag"
+        }
+      },
+      "capture_sha256": "b92fe7854d0cf392d6913939a59c20ffa067fd33591f1bf7902b17feb0c933ba"
+    }
+  ]
+}

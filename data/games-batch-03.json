@@ -1,0 +1,150 @@
+{
+  "sources": [
+    {
+      "id": "rc-capture-aliens-source",
+      "title": "ccru game capture the aliens",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    },
+    {
+      "id": "rc-chaos-touch-source",
+      "title": "ccru game chaos touch",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    },
+    {
+      "id": "rc-calling-pairs-source",
+      "title": "ccru game passing pairs",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    },
+    {
+      "id": "rc-hare-hound-source",
+      "title": "stg hare hound",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-hare-hound/10000814",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    },
+    {
+      "id": "rc-rounders-source",
+      "title": "stg rugby rounders",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    },
+    {
+      "id": "rc-numbers-tag-source",
+      "title": "tag game numbers tag",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    },
+    {
+      "id": "rc-breakout-source",
+      "title": "tag game break out",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397",
+      "publisher": "RugbyCoaching.tv",
+      "language": "en",
+      "checked_on": "2026-09-07",
+      "access": "Page publique découverte ; capture et contenu à vérifier",
+      "format": "VIDEO",
+      "resource_type": "EXERCISE_VIDEO",
+      "qualification_note": "Qualification initiale par lien de fiche ; segmentation à examiner."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "rc-capture-aliens",
+      "source_id": "rc-capture-aliens-source",
+      "title": "Capturer les extraterrestres par la passe",
+      "summary": "Coopérer pour toucher les fuyards au ballon.",
+      "theme": "coopération",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon et plots",
+      "status": "documented",
+      "review": "Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition."
+    },
+    {
+      "id": "rc-chaos-touch",
+      "source_id": "rc-chaos-touch-source",
+      "title": "Quatre cibles, porteur immobile",
+      "summary": "Trouver un partenaire libre dans une zone de marque.",
+      "theme": "prise d’information",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon et plots de couleurs",
+      "status": "documented",
+      "review": "Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition."
+    },
+    {
+      "id": "rc-calling-pairs",
+      "source_id": "rc-calling-pairs-source",
+      "title": "Passer sur appel dans un espace partagé",
+      "summary": "Choisir quand passer malgré les déplacements des autres binômes.",
+      "theme": "passe",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballons",
+      "status": "documented",
+      "review": "Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition."
+    },
+    {
+      "id": "rc-numbers-tag",
+      "source_id": "rc-numbers-tag-source",
+      "title": "Tag : défenseurs numérotés",
+      "summary": "Repérer et exploiter les espaces créés dans la défense.",
+      "theme": "prise d’information",
+      "age_source": "U7 (classement du site) ; adéquation U8 à valider",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues",
+      "duration_min": null,
+      "players_min": null,
+      "players_max": null,
+      "material": "Ballon et rubans de tag",
+      "status": "documented",
+      "review": "Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition."
+    }
+  ]
+}

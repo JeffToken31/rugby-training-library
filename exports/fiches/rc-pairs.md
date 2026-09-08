@@ -23,6 +23,16 @@ Deux joueurs avancent et échangent une passe courte. Une progression ajoute un 
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Recevoir en soutien du porteur.
+
+**Organisation :** Binômes en mouvement ; obstacle représentant un défenseur dans la progression.
+
+**Déroulement :** Courir puis passer derrière l’obstacle à son partenaire.
+
+**Consignes :** Privilégier une passe courte et rester en retrait.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ### Proposition terrain U8 — à valider
 
 7 min · 4 à 8 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

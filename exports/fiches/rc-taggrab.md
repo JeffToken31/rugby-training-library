@@ -23,6 +23,16 @@ Deux chasseurs sont désignés parmi deux équipes. Ils collectent les rubans de
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Éviter et attraper les rubans.
+
+**Organisation :** Deux chasseurs désignés, un de chaque équipe.
+
+**Déroulement :** Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.
+
+**Consignes :** Continuer à se déplacer dans la zone.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ### Proposition terrain U8 — à valider
 
 6 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

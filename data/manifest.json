@@ -1,0 +1,37 @@
+{
+  "data": [
+    "data/seed.json",
+    "data/ffr-2026.json",
+    "data/scotland-primary.json",
+    "data/rc-young-games.json",
+    "data/rc-cooperation.json",
+    "data/games-batch-03.json"
+  ],
+  "enrichments": [
+    "data/enrichment-details.json",
+    "data/enrichment-batch-02.json",
+    "data/enrichment-batch-03.json"
+  ],
+  "capture_resources": [
+    "rc-piggy",
+    "rc-pairs",
+    "rc-two-one",
+    "rc-netball",
+    "rc-multidirection",
+    "rc-bulldog",
+    "rc-aliens",
+    "rc-taggrab",
+    "rc-statues",
+    "rc-tagmania",
+    "rc-bounce",
+    "rc-triangle",
+    "rc-pass-start-source",
+    "rc-lateral-three-source",
+    "rc-colour-touch-source",
+    "rc-four-one-source",
+    "rc-capture-aliens-source",
+    "rc-chaos-touch-source",
+    "rc-calling-pairs-source",
+    "rc-numbers-tag-source"
+  ]
+}

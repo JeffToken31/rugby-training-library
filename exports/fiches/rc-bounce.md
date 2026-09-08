@@ -23,6 +23,16 @@ Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond 
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Coordonner réception et rebond.
+
+**Organisation :** Deux partenaires face à face.
+
+**Déroulement :** Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.
+
+**Consignes :** Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ## Répertoire des sources
 
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

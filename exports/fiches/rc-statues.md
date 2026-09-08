@@ -23,6 +23,16 @@ Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent i
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Éviter ; coopérer entre chasseurs.
+
+**Organisation :** Trois chasseurs porteurs d’un ballon.
+
+**Déroulement :** Le joueur touché s’immobilise ; chronométrer la capture de tous.
+
+**Consignes :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ## Répertoire des sources
 
 - [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

@@ -23,6 +23,16 @@ Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejo
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Éviter les chasseurs et changer de rôle.
+
+**Organisation :** Aire délimitée, chasseurs avec ballon, ballons accessibles autour.
+
+**Déroulement :** Le joueur touché prend un ballon et rejoint les chasseurs.
+
+**Consignes :** Rester dans les limites et chercher un passage libre.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ## Répertoire des sources
 
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

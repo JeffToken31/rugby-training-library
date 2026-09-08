@@ -23,6 +23,16 @@ Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe au
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Conserver le ballon et se rendre disponible.
+
+**Organisation :** Trois passeurs et un intercepteur.
+
+**Déroulement :** Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.
+
+**Consignes :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ### Proposition terrain U8 — à valider
 
 6 min · 4 à 8 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

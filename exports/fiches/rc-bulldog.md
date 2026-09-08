@@ -23,6 +23,16 @@ Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
 
+**Objectifs :** Éviter les défenseurs ; défendre collectivement.
+
+**Organisation :** Huit traversants face à deux chasseurs au départ.
+
+**Déroulement :** Traverser ; les joueurs touchés rejoignent les chasseurs.
+
+**Consignes :** Les défenseurs communiquent pour couvrir les espaces.
+
+Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
 ## Répertoire des sources
 
 - [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
