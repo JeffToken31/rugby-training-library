@@ -1,13 +1,91 @@
 {
-  "generated_at": "2026-09-08T16:04:28.653401+00:00",
+  "generated_at": "2026-09-08T16:08:42.747659+00:00",
   "variants": 67,
   "documented": 58,
   "incomplete": 9,
   "enriched": 27,
   "resources": 47,
-  "captured_resources": 31,
+  "captured_resources": 37,
   "families": 1,
-  "events": [],
+  "events": [
+    {
+      "resource_id": "ffr-famille",
+      "state": "DEFERRED",
+      "error": "Blocage récent ; autre source priorisée"
+    },
+    {
+      "resource_id": "au-familiarisation",
+      "state": "DEFERRED",
+      "error": "Blocage récent ; autre source priorisée"
+    },
+    {
+      "resource_id": "au-octopus",
+      "state": "BLOCKED",
+      "error": "Vérification robots impossible : 429"
+    },
+    {
+      "resource_id": "ffr-plan2020",
+      "state": "FAILED",
+      "error": "Taille maximale dépassée"
+    },
+    {
+      "resource_id": "munster-fms",
+      "state": "DEFERRED",
+      "error": "Blocage récent ; autre source priorisée"
+    },
+    {
+      "resource_id": "au-nest",
+      "state": "DEFERRED",
+      "error": "Blocage récent ; autre source priorisée"
+    },
+    {
+      "resource_id": "ffr-plan2023",
+      "state": "DEFERRED",
+      "error": "Blocage récent ; autre source priorisée"
+    },
+    {
+      "resource_id": "ffr-atelier-1-2025-26",
+      "state": "DONE",
+      "capture_id": "9a989fda-1839-4452-b8bf-24a0926ecbfe",
+      "bytes": 1067246,
+      "mime": "text/html"
+    },
+    {
+      "resource_id": "ffr-atelier-2-2025-26",
+      "state": "DONE",
+      "capture_id": "c0742257-cb32-452a-91b6-1639210bdfa0",
+      "bytes": 1064670,
+      "mime": "text/html"
+    },
+    {
+      "resource_id": "ffr-atelier-3-2025-26",
+      "state": "DONE",
+      "capture_id": "79156f18-9ac0-4051-8df8-5cb45fcbe029",
+      "bytes": 1068413,
+      "mime": "text/html"
+    },
+    {
+      "resource_id": "ffr-atelier-4-2025-26",
+      "state": "DONE",
+      "capture_id": "8b9ee118-caf7-4a7c-b2a9-b21862e0e40c",
+      "bytes": 1070419,
+      "mime": "text/html"
+    },
+    {
+      "resource_id": "rc-team-scarecrow-source",
+      "state": "DONE",
+      "capture_id": "7f7e8f32-7f9f-4e24-b98a-654ff84d0b07",
+      "bytes": 80581,
+      "mime": "text/html"
+    },
+    {
+      "resource_id": "rc-circle-jump-source",
+      "state": "DONE",
+      "capture_id": "02df78b2-1580-4ef6-87b1-43b5b09d7c6f",
+      "bytes": 82422,
+      "mime": "text/html"
+    }
+  ],
   "resource_inventory": [
     {
       "resource_id": "au-familiarisation",
@@ -32,35 +110,55 @@
       "title": "Rugby Octopus",
       "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus",
       "capture_recorded": false,
-      "last_attempt": null
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Vérification robots impossible : 429",
+        "started_at": "2026-09-08T16:08:29.951153+00:00"
+      }
     },
     {
       "resource_id": "ffr-atelier-1-2025-26",
       "title": "Séance atelier 1 — octobre-2025",
       "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708",
-      "capture_recorded": false,
-      "last_attempt": null
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T16:08:32.586510+00:00"
+      }
     },
     {
       "resource_id": "ffr-atelier-2-2025-26",
       "title": "Séance atelier 2 — novembre-2025",
       "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128",
-      "capture_recorded": false,
-      "last_attempt": null
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T16:08:34.380784+00:00"
+      }
     },
     {
       "resource_id": "ffr-atelier-3-2025-26",
       "title": "Séance atelier 3 — janvier-2026",
       "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080",
-      "capture_recorded": false,
-      "last_attempt": null
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T16:08:35.898964+00:00"
+      }
     },
     {
       "resource_id": "ffr-atelier-4-2025-26",
       "title": "Séance atelier 4 — mars-2026",
       "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544",
-      "capture_recorded": false,
-      "last_attempt": null
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T16:08:38.757956+00:00"
+      }
     },
     {
       "resource_id": "ffr-echauffement",
@@ -103,7 +201,7 @@
       "last_attempt": {
         "state": "FAILED",
         "error": "Taille maximale dépassée",
-        "started_at": "2026-09-08T12:00:17.099049+00:00"
+        "started_at": "2026-09-08T16:08:30.752080+00:00"
       }
     },
     {
@@ -209,8 +307,12 @@
       "resource_id": "rc-circle-jump-source",
       "title": "passing warm up game",
       "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534",
-      "capture_recorded": false,
-      "last_attempt": null
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T16:08:41.613589+00:00"
+      }
     },
     {
       "resource_id": "rc-colour-touch-source",
@@ -406,8 +508,12 @@
       "resource_id": "rc-team-scarecrow-source",
       "title": "team scarecrow tag",
       "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338",
-      "capture_recorded": false,
-      "last_attempt": null
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T16:08:40.598325+00:00"
+      }
     },
     {
       "resource_id": "rc-ten",
