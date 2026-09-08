@@ -65,6 +65,12 @@ def run(db,manifest,root,out,collect=False,limit=12):
         "captured_resources":db.execute("SELECT COUNT(DISTINCT resource_id) FROM captures").fetchone()[0],
         "families":db.execute("SELECT COUNT(*) FROM families").fetchone()[0],
         "events":events}
+    inventory=[]
+    for resource in db.execute("SELECT id,title,url FROM resources ORDER BY id"):
+        latest=db.execute("SELECT state,error,started_at FROM ingestion_runs WHERE resource_id=? ORDER BY started_at DESC,rowid DESC LIMIT 1",(resource["id"],)).fetchone()
+        captured=db.execute("SELECT 1 FROM captures WHERE resource_id=? LIMIT 1",(resource["id"],)).fetchone() is not None
+        inventory.append({"resource_id":resource["id"],"title":resource["title"],"url":resource["url"],"capture_recorded":captured,"last_attempt":dict(latest) if latest else None})
+    report["resource_inventory"]=inventory
     (out/"ETAT_COLLECTE.json").write_text(json.dumps(report,ensure_ascii=False,indent=2)+"\n")
     lines=["# État de la bibliothèque","",f"{count} fiches ; {report['documented']} documentées ; {report['incomplete']} incomplètes.",
         f"{report['enriched']} fiches enrichies ; {report['resources']} ressources ; {report['captured_resources']} ressources capturées localement.",
@@ -77,6 +83,12 @@ def run(db,manifest,root,out,collect=False,limit=12):
     lines += ["- "+e["resource_id"]+" : "+e["state"]+(" — "+e["error"] if e.get("error") else "") for e in events]
     if not events:
         lines+=["Reconstruction sans nouvelle collecte réseau."]
+    lines += ["", "## Historique des ressources", "", "Une capture enregistrée ne garantit ni un contenu complet ni une extraction pédagogique. Les erreurs de la dernière tentative restent visibles après reconstruction hors réseau.", ""]
+    for entry in inventory:
+        latest=entry["last_attempt"]
+        state="Capture enregistrée" if entry["capture_recorded"] else "Aucune capture"
+        detail=(" ; dernière tentative : "+latest["state"]+" le "+latest["started_at"]+(" — "+latest["error"].replace("\n"," ") if latest["error"] else "")) if latest else " ; pas de tentative enregistrée"
+        lines.append("- ["+entry["title"]+"]("+entry["url"]+") : "+state+detail)
     (out/"ETAT_COLLECTE.md").write_text("\n".join(lines)+"\n")
     return report
 def main():
@@ -91,6 +103,6 @@ def main():
         p.error("Limite positive ou nulle requise")
     with v2.connect(a.db) as db:
         report=run(db,read(a.manifest),v2.ROOT,a.out,a.collect,a.limit)
-    print(json.dumps({k:v for k,v in report.items() if k!="events"},ensure_ascii=False))
+    print(json.dumps({k:v for k,v in report.items() if k not in ("events","resource_inventory")},ensure_ascii=False))
 if __name__=="__main__":
     main()

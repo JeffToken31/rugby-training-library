@@ -1,11 +1,490 @@
 {
-  "generated_at": "2026-09-08T11:28:45.486718+00:00",
+  "generated_at": "2026-09-08T12:01:14.689640+00:00",
   "variants": 67,
   "documented": 58,
   "incomplete": 9,
   "enriched": 23,
   "resources": 47,
-  "captured_resources": 23,
+  "captured_resources": 31,
   "families": 1,
-  "events": []
+  "events": [],
+  "resource_inventory": [
+    {
+      "resource_id": "au-familiarisation",
+      "title": "Ball Familiarisation",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Vérification robots impossible : 429",
+        "started_at": "2026-09-08T12:00:16.356322+00:00"
+      }
+    },
+    {
+      "resource_id": "au-nest",
+      "title": "Rob the Nest",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-octopus",
+      "title": "Rugby Octopus",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "ffr-atelier-1-2025-26",
+      "title": "Séance atelier 1 — octobre-2025",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "ffr-atelier-2-2025-26",
+      "title": "Séance atelier 2 — novembre-2025",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "ffr-atelier-3-2025-26",
+      "title": "Séance atelier 3 — janvier-2026",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "ffr-atelier-4-2025-26",
+      "title": "Séance atelier 4 — mars-2026",
+      "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "ffr-echauffement",
+      "title": "M8 : échauffement et préparation physique",
+      "url": "https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T11:59:52.609235+00:00"
+      }
+    },
+    {
+      "resource_id": "ffr-famille",
+      "title": "Rugby à la maison en famille",
+      "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Accès interdit par robots.txt",
+        "started_at": "2026-09-08T11:59:51.771235+00:00"
+      }
+    },
+    {
+      "resource_id": "ffr-orne",
+      "title": "Ressources M8 du Comité Orne",
+      "url": "https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T11:59:53.626294+00:00"
+      }
+    },
+    {
+      "resource_id": "ffr-plan2020",
+      "title": "Plan de formation M8 — septembre 2020",
+      "url": "https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "FAILED",
+        "error": "Taille maximale dépassée",
+        "started_at": "2026-09-08T12:00:17.099049+00:00"
+      }
+    },
+    {
+      "resource_id": "ffr-plan2023",
+      "title": "Plan de formation du joueur M8 — mars 2023",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Accès interdit par robots.txt",
+        "started_at": "2026-09-07T17:25:51.993926+00:00"
+      }
+    },
+    {
+      "resource_id": "munster-fms",
+      "title": "Fundamental Movement — mars 2021",
+      "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Vérification robots impossible : 403",
+        "started_at": "2026-09-08T12:00:18.554219+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-aliens",
+      "title": "Aliens",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:26.445516+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-bounce",
+      "title": "Home Training - Passing with Dad",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:49.947418+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-breakout-source",
+      "title": "tag game break out",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:40:31.119741+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-bulldog",
+      "title": "Bulldog Touch",
+      "url": "https://www.rugbycoaching.tv/video/bulldog-touch/10001353",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:25.376839+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-calling-pairs-source",
+      "title": "ccru game passing pairs",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:39:40.387713+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-capture-aliens-source",
+      "title": "ccru game capture the aliens",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:39:21.259527+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-chaos-touch-source",
+      "title": "ccru game chaos touch",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:39:26.875134+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-circle-jump-source",
+      "title": "passing warm up game",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "rc-colour-touch-source",
+      "title": "colour touch",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:28:52.918813+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-eggs",
+      "title": "Egg in the nest game",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T11:59:57.036377+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-endball-groups-source",
+      "title": "end ball connecting players",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "rc-four-one-source",
+      "title": "piggy in the middle 4v1",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:28:53.956321+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-hare-hound-source",
+      "title": "stg hare hound",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-hare-hound/10000814",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:39:46.114309+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-lateral-three-source",
+      "title": "lateral passing in 3s",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:28:51.901457+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-multidirection",
+      "title": "Multi-direction Game",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:19.261732+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-netball",
+      "title": "Rugby Netball with 4 Goals",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:13.216587+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-numbers-tag-source",
+      "title": "tag game numbers tag",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:40:13.434323+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-pairs",
+      "title": "Passing in 2s",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:34:45.242741+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-pass-start-source",
+      "title": "learning to pass first steps",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:25:50.996398+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-piggy",
+      "title": "Piggy in the Middle",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:34:39.193966+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-protect-circle-source",
+      "title": "players first circle caterpillar game",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "rc-rounders-source",
+      "title": "stg rugby rounders",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "FAILED",
+        "error": "The read operation timed out",
+        "started_at": "2026-09-07T17:39:56.280599+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-statues",
+      "title": "STG - Statues",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:38.131246+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-taggrab",
+      "title": "Tag-grab",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:32.537618+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-tagmania",
+      "title": "TAG Progressions",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:44.391411+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-tagmatch",
+      "title": "Tag Game - Tag Rugby 1",
+      "url": "https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T12:00:15.334133+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-team-scarecrow-source",
+      "title": "team scarecrow tag",
+      "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "rc-ten",
+      "title": "10 passes game",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T12:00:03.158251+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-triangle",
+      "title": "Home Training - Competitive Games",
+      "url": "https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:35:55.485827+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-two-balls",
+      "title": "Warm-up Handling Game",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T12:00:09.273362+00:00"
+      }
+    },
+    {
+      "resource_id": "rc-two-one",
+      "title": "2 v 1 Passing",
+      "url": "https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-07T17:34:51.291986+00:00"
+      }
+    },
+    {
+      "resource_id": "scot-primary",
+      "title": "Primary School Teacher Resource Pack",
+      "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T10:54:36.123212+00:00"
+      }
+    },
+    {
+      "resource_id": "sportplan-ten",
+      "title": "10 pass game — contribution communautaire",
+      "url": "https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T12:00:19.359727+00:00"
+      }
+    },
+    {
+      "resource_id": "wr-gir",
+      "title": "Get into Rugby",
+      "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-08T11:59:55.775124+00:00"
+      }
+    }
+  ]
 }
