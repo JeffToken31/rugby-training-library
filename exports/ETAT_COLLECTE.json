@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T12:39:17.156837+00:00",
-  "variants": 84,
-  "documented": 75,
+  "generated_at": "2026-09-09T12:47:56.015584+00:00",
+  "variants": 85,
+  "documented": 76,
   "incomplete": 9,
-  "enriched": 57,
-  "resources": 58,
-  "captured_resources": 50,
+  "enriched": 58,
+  "resources": 59,
+  "captured_resources": 51,
   "families": 1,
   "events": [],
   "resource_inventory": [
@@ -216,6 +216,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:44:02.581870+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-multi-relay-source",
+      "title": "Multi-action Relay",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T12:47:21.075955+00:00"
       }
     },
     {

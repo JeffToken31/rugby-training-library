@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-84 fiches · 58 sources
+85 fiches · 59 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -1923,6 +1923,36 @@ Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 **Espace source :** 40 × 20 m
 
+## Relais avec cinq manipulations successives
+
+**motricité et manipulation · âge source : Under 7 (classement du site) · Description source ; progression et passage au sol à adapter au niveau des enfants.**
+
+Trois files réalisent un relais avec une action différente à chaque tour.
+
+**Matériel :** Un ballon par groupe ; repères de parcours
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 6–15
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Objectifs :** Pratiquer plusieurs habiletés avec le ballon.
+
+**Organisation :** Trois files face à un repère situé à quinze mètres.
+
+**Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
+
+Détails extraits le 2026-09-09 — Description et coaching points.
+
+**Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
+
+**Espace source :** 20 × 20 m ; repère à 15 m
+
 ## Relais avec essai
 
 **motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -2318,6 +2348,7 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
+- [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — Description publique consultée.
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — Description publique consultée.
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.

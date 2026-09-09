@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-84 fiches — les propositions terrain restent à valider par le coach.
+85 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -97,6 +97,12 @@
 | [Déplacement à quatre appuis](fiches/ffr-appuis.md) | M8 | Documentée ; à valider |
 | [Relais avec essai](fiches/scot-relais.md) | Primaire (Écosse) | Documentée ; à valider |
 | [Relais — courir, rouler, passer](fiches/ffr-relais-atelier.md) | M8 | À compléter |
+
+## Motricité et manipulation
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) | Under 7 (classement du site) | Documentée ; à valider |
 
 ## Passe
 

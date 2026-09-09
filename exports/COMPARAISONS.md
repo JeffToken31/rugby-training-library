@@ -17,6 +17,21 @@ Variantes distinctes proposées. Même principe de conservation ; quatre passeur
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
 
+## Chasse collective avec retour après ballon tombé / Chasseurs passeurs par trois
+
+À examiner. Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+| Information | [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
+|---|---|---|
+| Principe | Deux équipes dans le carré ; le porteur reste immobile. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
+| Organisation | Deux équipes dans le carré ; le porteur reste immobile. | Non renseigné |
+| Déroulement | Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants. | Non renseigné |
+| Consignes | Non renseigné | Non renseigné |
+| Âge indiqué | Under 7 (classement Rugby Toolbox) | Primaire (Écosse) |
+| Passage source | DRILL EXPLANATION et DRILL SET-UP | PDF page 20 |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
 ## Les extraterrestres / Capturer les extraterrestres par la passe
 
 À examiner. Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
@@ -77,6 +92,21 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
 
+## Quatre passeurs contre un intercepteur / Conserver par dix passes sans interception
+
+Même famille proposée. Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+| Information | [Quatre passeurs contre un intercepteur](fiches/rc-four-one.md) | [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) |
+|---|---|---|
+| Principe | Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur. | Quatre passeurs contre un défenseur. |
+| Organisation | Quatre passeurs contre un intercepteur. | Quatre passeurs contre un défenseur. |
+| Déroulement | Chercher une série de dix passes. | Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher. |
+| Consignes | Appeler et présenter les mains avant de recevoir. | Pas d’interception ni de passe au-dessus de la tête. |
+| Âge indiqué | U7 (classement du site) ; adéquation U8 à valider | Initiation Get Into Rugby ; âge non précisé |
+| Passage source | Description / Video Subtitles | Keep Ball |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
 ## Épouvantails — chasseurs passeurs / Chasseurs passeurs par trois
 
 À examiner. Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
@@ -104,5 +134,20 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Consignes | Non renseigné | Non renseigné |
 | Âge indiqué | Primaire / mini-rugby | Primaire (Écosse) |
 | Passage source | PDF page 11 | PDF page 20 |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
+## File avec transmission au nouveau meneur / Relais de soutien tous les cinq mètres
+
+Même famille proposée. Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+| Information | [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) | [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) |
+|---|---|---|
+| Principe | Cinq joueurs en file suivent le porteur. | Cinq joueurs partent en file. |
+| Organisation | Cinq joueurs en file suivent le porteur. | Cinq joueurs partent en file. |
+| Déroulement | Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin. | Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens. |
+| Consignes | Garder de l’espace entre joueurs ; prendre le ballon sans ralentir. | Conserver des intervalles réguliers et réceptionner en mouvement. |
+| Âge indiqué | Initiation Get Into Rugby ; âge non précisé | Initiation Get Into Rugby ; âge non précisé |
+| Passage source | Follow the Leader | Pass and Support |
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.

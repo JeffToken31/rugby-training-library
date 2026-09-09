@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-46 fiches.
+47 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -43,6 +43,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Rebondir et échanger en binôme](fiches/rc-bounce.md) — manipulation ; RugbyCoaching.tv
 - [Recevoir à différentes hauteurs et passer](fiches/ffr-guide-recevoir-passer.md) — passe ; Fédération Française de Rugby
 - [Relais avec changements de portage](fiches/nz-handling-relay.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) — motricité et manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) — passe et soutien ; World Rugby
 - [Rugby à quatre cibles](fiches/rc-netball.md) — passe ; RugbyCoaching.tv
 - [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) — jeu au pied ; Fédération Française de Rugby

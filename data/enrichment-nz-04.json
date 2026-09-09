@@ -1,0 +1,34 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-multi-relay-detail-1",
+      "variant_id": "nz-multi-relay",
+      "source_id": "nz-multi-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Description et coaching points",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Pratiquer plusieurs habiletés avec le ballon."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois files face à un repère situé à quinze mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle."
+        }
+      }
+    }
+  ]
+}

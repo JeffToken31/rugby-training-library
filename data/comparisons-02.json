@@ -1,0 +1,31 @@
+{
+  "duplicate_candidates": [
+    {
+      "id": "rc-four-one--wr-keep-ball",
+      "left_id": "rc-four-one",
+      "right_id": "wr-keep-ball",
+      "score": 0.7,
+      "relation": "SAME_FAMILY",
+      "method_version": "editorial-3",
+      "explanation": "Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach."
+    },
+    {
+      "id": "wr-follow-leader--wr-pass-support",
+      "left_id": "wr-follow-leader",
+      "right_id": "wr-pass-support",
+      "score": 0.7,
+      "relation": "SAME_FAMILY",
+      "method_version": "editorial-3",
+      "explanation": "Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach."
+    },
+    {
+      "id": "nz-corner--scot-corner",
+      "left_id": "nz-corner",
+      "right_id": "scot-corner",
+      "score": 0.7,
+      "relation": "UNDECIDED",
+      "method_version": "editorial-3",
+      "explanation": "Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach."
+    }
+  ]
+}

@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-84 fiches ; 75 documentées ; 9 incomplètes.
-57 fiches enrichies ; 58 ressources ; 50 ressources capturées localement.
+85 fiches ; 76 documentées ; 9 incomplètes.
+58 fiches enrichies ; 59 ressources ; 51 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 45 | 39 | 0 | 0 | 0 |
-| organisation | 46 | 38 | 0 | 0 | 0 |
-| steps | 47 | 37 | 0 | 0 | 0 |
-| instructions | 39 | 45 | 0 | 0 | 0 |
-| success_criteria | 12 | 72 | 0 | 0 | 0 |
-| common_errors | 7 | 77 | 0 | 0 | 0 |
-| coach_points | 34 | 50 | 0 | 0 | 0 |
-| duration_min | 8 | 66 | 10 | 0 | 0 |
-| players_min | 31 | 53 | 0 | 0 | 0 |
-| players_max | 32 | 52 | 0 | 0 | 0 |
-| space | 18 | 62 | 4 | 0 | 0 |
-| material | 68 | 16 | 0 | 0 | 0 |
+| objectives | 46 | 39 | 0 | 0 | 0 |
+| organisation | 47 | 38 | 0 | 0 | 0 |
+| steps | 48 | 37 | 0 | 0 | 0 |
+| instructions | 39 | 46 | 0 | 0 | 0 |
+| success_criteria | 12 | 73 | 0 | 0 | 0 |
+| common_errors | 7 | 78 | 0 | 0 | 0 |
+| coach_points | 35 | 50 | 0 | 0 | 0 |
+| duration_min | 8 | 67 | 10 | 0 | 0 |
+| players_min | 32 | 53 | 0 | 0 | 0 |
+| players_max | 33 | 52 | 0 | 0 | 0 |
+| space | 19 | 62 | 4 | 0 | 0 |
+| material | 69 | 16 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -52,6 +52,7 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:36.143783+00:00
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:02.581870+00:00
+- [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T12:47:21.075955+00:00
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:44.415925+00:00
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:06.618673+00:00
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:28.925914+00:00

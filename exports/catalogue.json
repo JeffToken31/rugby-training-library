@@ -218,6 +218,18 @@
       "url": "https://www.rugbytoolbox.co.nz/training/technique/handling-relay"
     },
     {
+      "access": "Description publique consultée",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
+      "id": "nz-multi-relay-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Un relais avec actions successives ; version identique sous multi-action-relay-1 non comptée séparément.",
+      "resource_type": "WEB_PAGE",
+      "title": "Multi-action Relay",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay"
+    },
+    {
       "access": "Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée",
       "checked_on": "2026-09-08",
       "format": "HTML",
@@ -9458,6 +9470,133 @@
         "resource_type": "WEB_PAGE",
         "title": "Relais avec changements de portage",
         "url": "https://www.rugbytoolbox.co.nz/training/technique/handling-relay"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-multi-relay",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION",
+      "material": "Un ballon par groupe ; repères de parcours",
+      "players_max": 15,
+      "players_min": 6,
+      "review": "Description source ; progression et passage au sol à adapter au niveau des enfants.",
+      "source_id": "nz-multi-relay-source",
+      "space": "20 × 20 m ; repère à 15 m",
+      "status": "documented",
+      "summary": "Trois files réalisent un relais avec une action différente à chaque tour.",
+      "theme": "motricité et manipulation",
+      "title": "Relais avec cinq manipulations successives",
+      "coach_points": "Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.",
+      "objectives": "Pratiquer plusieurs habiletés avec le ballon.",
+      "organisation": "Trois files face à un repère situé à quinze mètres.",
+      "steps": "Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Pratiquer plusieurs habiletés avec le ballon.",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Description et coaching points",
+            "revision_id": "nz-multi-relay-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois files face à un repère situé à quinze mètres.",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Description et coaching points",
+            "revision_id": "nz-multi-relay-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Description et coaching points",
+            "revision_id": "nz-multi-relay-detail-1"
+          }
+        },
+        "instructions": {
+          "state": "NOT_EXTRACTED"
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Description et coaching points",
+            "revision_id": "nz-multi-relay-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-multi-relay-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "Description et coaching points",
+        "revision_id": "nz-multi-relay-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-multi-relay-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-09",
+        "format": "HTML",
+        "id": "nz-multi-relay-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Un relais avec actions successives ; version identique sous multi-action-relay-1 non comptée séparément.",
+        "resource_type": "WEB_PAGE",
+        "title": "Multi-action Relay",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay"
       },
       "model_status": "REVIEWED",
       "references": []
