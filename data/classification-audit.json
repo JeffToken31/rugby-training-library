@@ -1,0 +1,1042 @@
+{
+  "version": 1,
+  "checked_on": "2026-09-09",
+  "scope": "Classement documentaire du corpus complet, sans fusion ni validation pédagogique.",
+  "families": [
+    {
+      "id": "F01",
+      "title": "Manipulation et coordination individuelle",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F02",
+      "title": "Ramasser, recevoir et transmettre",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F03",
+      "title": "Conduite au pied",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F04",
+      "title": "Motricité et postures",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F05",
+      "title": "Parcours et relais avec ballon",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F06",
+      "title": "Réaction et course en duel",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F07",
+      "title": "Passes en binôme et soutien",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F08",
+      "title": "Circulation du ballon et coordination collective",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F09",
+      "title": "Passes en progression collective",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F10",
+      "title": "Conservation et interception",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F11",
+      "title": "Chasse collective par passes",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F12",
+      "title": "Chasse, immobilisation et délivrance",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F13",
+      "title": "Traversée de défenses",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F14",
+      "title": "Protection collective d’une cible",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F15",
+      "title": "Jeux à zones de marque",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F16",
+      "title": "Surnombre et soutien face à un opposant",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F17",
+      "title": "Créer et exploiter un espace en opposition",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F18",
+      "title": "Lutte et contact",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F19",
+      "title": "Collecte de ballons",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F20",
+      "title": "Course contre échanges adverses",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F21",
+      "title": "Tennis de manipulation",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "id": "F22",
+      "title": "Alignement collectif",
+      "origin": "AI_INFERRED"
+    }
+  ],
+  "assignments": [
+    {
+      "variant_id": "ffr-carre-atelier",
+      "family_id": "F01",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Déplacements et manipulation, avec travail d’équilibre et d’observation.",
+      "source_id": "ffr-atelier-1-2025-26",
+      "locator": "Diapositive 3 — Carré"
+    },
+    {
+      "variant_id": "au-familiarisation",
+      "family_id": "F01",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Dans un espace délimité, chacun se déplace avec un ballon. Au signal, effectuer une action : poser et ramasser, transmettre, marquer ou réaliser une petite passe.",
+      "source_id": "au-familiarisation",
+      "locator": "Sections Description / Equipment / Change It"
+    },
+    {
+      "variant_id": "nz-awareness",
+      "family_id": "F01",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.",
+      "source_id": "nz-awareness-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "ffr-ramasser",
+      "family_id": "F02",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloigner progressivement la cible.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 10, atelier 1"
+    },
+    {
+      "variant_id": "ffr-guide-recevoir-passer",
+      "family_id": "F02",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.",
+      "source_id": "ffr-guide-m8-2023",
+      "locator": "PDF page 24"
+    },
+    {
+      "variant_id": "ffr-reception",
+      "family_id": "F02",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Réceptionner une passe pendant un déplacement au petit trot.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 17, atelier 9"
+    },
+    {
+      "variant_id": "ffr-transmettre",
+      "family_id": "F02",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer au partenaire tout en trottinant avec le ballon.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 17, atelier 10"
+    },
+    {
+      "variant_id": "rc-pass-start",
+      "family_id": "F02",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Commencer lentement à l’arrêt, puis augmenter la vitesse.",
+      "source_id": "rc-pass-start-source",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "ffr-pied",
+      "family_id": "F03",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Avancer en guidant le ballon alternativement des deux pieds vers une zone.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 10, atelier 2"
+    },
+    {
+      "variant_id": "ffr-guide-dribble",
+      "family_id": "F03",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.",
+      "source_id": "ffr-guide-m8-2023",
+      "locator": "PDF page 26"
+    },
+    {
+      "variant_id": "ffr-cpf",
+      "family_id": "F03",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Maîtriser la remise en jeu et partir dans un espace libre.",
+      "source_id": "ffr-plan2020",
+      "locator": "PDF page 71"
+    },
+    {
+      "variant_id": "ffr-appuis",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Parcourir cinq mètres à quatre pattes, dos horizontal.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 8, atelier 3"
+    },
+    {
+      "variant_id": "ffr-pantheres-atelier",
+      "family_id": "F04",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.",
+      "source_id": "ffr-atelier-3-2025-26",
+      "locator": "Diapositive 3 — Panthères et chenilles"
+    },
+    {
+      "variant_id": "ffr-carre2-atelier",
+      "family_id": "F05",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.",
+      "source_id": "ffr-atelier-1-2025-26",
+      "locator": "Diapositive 3 — Carré 2"
+    },
+    {
+      "variant_id": "ffr-tresors2023",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.",
+      "source_id": "ffr-plan2023",
+      "locator": "Page 70"
+    },
+    {
+      "variant_id": "nz-pick-place",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.",
+      "source_id": "nz-pick-place-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "nz-handling-relay",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.",
+      "source_id": "nz-handling-relay-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "nz-multi-relay",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.",
+      "source_id": "nz-multi-relay-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "scot-relais",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Courir marquer entre les plots, revenir et transmettre.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 12"
+    },
+    {
+      "variant_id": "ffr-relais-atelier",
+      "family_id": "F05",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.",
+      "source_id": "ffr-atelier-2-2025-26",
+      "locator": "Diapositive 3 — Relais — courir, rouler, passer"
+    },
+    {
+      "variant_id": "ffr-espaces2023",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.",
+      "source_id": "ffr-plan2023",
+      "locator": "Page 66"
+    },
+    {
+      "variant_id": "nz-numbers-race",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit.",
+      "source_id": "nz-numbers-race-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "ffr-duellong-atelier",
+      "family_id": "F06",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Course vers la marque avec poursuite ; distances et lancement à compléter.",
+      "source_id": "ffr-atelier-3-2025-26",
+      "locator": "Diapositive 3 — Duel long"
+    },
+    {
+      "variant_id": "nz-touchdown",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.",
+      "source_id": "nz-touchdown-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "munster-rats",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son partenaire.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 5"
+    },
+    {
+      "variant_id": "ffr-speedy-individuel",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.",
+      "source_id": "ffr-plan2023",
+      "locator": "Page 69"
+    },
+    {
+      "variant_id": "ffr-speedy-partage",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au signal visuel, disputer le ballon puis rejoindre son refuge.",
+      "source_id": "ffr-plan2023",
+      "locator": "Page 69 — évolution 2"
+    },
+    {
+      "variant_id": "nz-follow",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.",
+      "source_id": "nz-follow-source",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP"
+    },
+    {
+      "variant_id": "rc-pairs",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Courir puis passer derrière l’obstacle à son partenaire.",
+      "source_id": "rc-pairs",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-calling-pairs",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.",
+      "source_id": "rc-calling-pairs-source",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues"
+    },
+    {
+      "variant_id": "rc-bounce",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.",
+      "source_id": "rc-bounce",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-circle-jump",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.",
+      "source_id": "rc-circle-jump-source",
+      "locator": "Video Subtitles — dernière progression"
+    },
+    {
+      "variant_id": "rc-two-balls",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Alterner deux circuits de passe ; installer le rythme avant d’accélérer.",
+      "source_id": "rc-two-balls",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-triangle",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer, s’asseoir et se relever avant de recevoir à nouveau.",
+      "source_id": "rc-triangle",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "nz-circle",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.",
+      "source_id": "nz-circle-source",
+      "locator": "DRILL SET-UP et DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "wr-follow-leader",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.",
+      "source_id": "wr-noncontact",
+      "locator": "Follow the Leader"
+    },
+    {
+      "variant_id": "wr-pass-support",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.",
+      "source_id": "wr-noncontact",
+      "locator": "Pass and Support"
+    },
+    {
+      "variant_id": "wr-chain-reaction",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.",
+      "source_id": "wr-noncontact",
+      "locator": "Pass and Support- Chain Reaction"
+    },
+    {
+      "variant_id": "wr-formation",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.",
+      "source_id": "wr-noncontact",
+      "locator": "Pass and Support- Formation"
+    },
+    {
+      "variant_id": "rc-lateral-three",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Transmettre successivement puis travailler dans l’autre sens.",
+      "source_id": "rc-lateral-three-source",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "wr-passing-relays",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.",
+      "source_id": "wr-noncontact",
+      "locator": "Relays with Passing"
+    },
+    {
+      "variant_id": "rc-piggy",
+      "family_id": "F10",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.",
+      "source_id": "rc-piggy",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-four-one",
+      "family_id": "F10",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Chercher une série de dix passes.",
+      "source_id": "rc-four-one-source",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-ten",
+      "family_id": "F10",
+      "status": "COMPOSITE_OR_SOURCE_SCOPE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Enchaîner dix passes sans chute ni interception.",
+      "source_id": "rc-ten",
+      "locator": "Description publique"
+    },
+    {
+      "variant_id": "wr-keep-ball",
+      "family_id": "F10",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.",
+      "source_id": "wr-noncontact",
+      "locator": "Keep Ball"
+    },
+    {
+      "variant_id": "rc-capture-aliens",
+      "family_id": "F11",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.",
+      "source_id": "rc-capture-aliens-source",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues"
+    },
+    {
+      "variant_id": "nz-corner",
+      "family_id": "F11",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.",
+      "source_id": "nz-corner-source",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP"
+    },
+    {
+      "variant_id": "scot-corner",
+      "family_id": "F11",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 20"
+    },
+    {
+      "variant_id": "munster-hunters",
+      "family_id": "F11",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 11"
+    },
+    {
+      "variant_id": "rc-team-scarecrow",
+      "family_id": "F11",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.",
+      "source_id": "rc-team-scarecrow-source",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "wr-find-space",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.",
+      "source_id": "wr-noncontact",
+      "locator": "Section Find the Space"
+    },
+    {
+      "variant_id": "scot-animal",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Après un toucher, effectuer un déplacement animal puis revenir jouer.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 17 (pagination fichier)"
+    },
+    {
+      "variant_id": "wr-scarecrow",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.",
+      "source_id": "wr-noncontact",
+      "locator": "Section Scarecrow Tag"
+    },
+    {
+      "variant_id": "munster-mud",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passant sous un bras.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 6"
+    },
+    {
+      "variant_id": "rc-taggrab",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.",
+      "source_id": "rc-taggrab",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-aliens",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le joueur touché prend un ballon et rejoint les chasseurs.",
+      "source_id": "rc-aliens",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-statues",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le joueur touché s’immobilise ; chronométrer la capture de tous.",
+      "source_id": "rc-statues",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-tagmania",
+      "family_id": "F12",
+      "status": "COMPOSITE_OR_SOURCE_SCOPE",
+      "origin": "AI_INFERRED",
+      "discriminant": "D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.",
+      "source_id": "rc-tagmania",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "scot-chaine",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 18"
+    },
+    {
+      "variant_id": "au-octopus",
+      "family_id": "F13",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Traverser sans être touché par les pieuvres. Un joueur touché devient une algue immobile qui peut toucher les passants. Continuer jusqu’à capture du groupe.",
+      "source_id": "au-octopus",
+      "locator": "Sections Description / Equipment / Change It"
+    },
+    {
+      "variant_id": "rc-bulldog",
+      "family_id": "F13",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Traverser ; les joueurs touchés rejoignent les chasseurs.",
+      "source_id": "rc-bulldog",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "scot-zones",
+      "family_id": "F13",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 19"
+    },
+    {
+      "variant_id": "rc-protect-circle",
+      "family_id": "F14",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.",
+      "source_id": "rc-protect-circle-source",
+      "locator": "Video Subtitles — première situation en cercle"
+    },
+    {
+      "variant_id": "scot-endzone",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 22 (pagination fichier)"
+    },
+    {
+      "variant_id": "rc-tagmatch",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.",
+      "source_id": "rc-tagmatch",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-multidirection",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.",
+      "source_id": "rc-multidirection",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "rc-endball-groups",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.",
+      "source_id": "rc-endball-groups-source",
+      "locator": "Video Subtitles — progression avec nombres"
+    },
+    {
+      "variant_id": "munster-end",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Deux équipes cherchent la zone d’essai par des passes ; la source propose cinq touchers pour marquer.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 9"
+    },
+    {
+      "variant_id": "scot-passback",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 23 (pagination fichier)"
+    },
+    {
+      "variant_id": "rc-chaos-touch",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.",
+      "source_id": "rc-chaos-touch-source",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues"
+    },
+    {
+      "variant_id": "rc-netball",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.",
+      "source_id": "rc-netball",
+      "locator": "Description et sous-titres"
+    },
+    {
+      "variant_id": "wr-tag-2v1",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.",
+      "source_id": "wr-noncontact",
+      "locator": "2 v 1"
+    },
+    {
+      "variant_id": "rc-two-one",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Avancer et transmettre au soutien ; enchaîner les passages.",
+      "source_id": "rc-two-one",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "ffr-duels-atelier",
+      "family_id": "F16",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.",
+      "source_id": "ffr-atelier-4-2025-26",
+      "locator": "Diapositive 3 — Duels et soutien"
+    },
+    {
+      "variant_id": "wr-tag-3v2",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.",
+      "source_id": "wr-noncontact",
+      "locator": "3 v 2"
+    },
+    {
+      "variant_id": "wr-tag-3v1",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.",
+      "source_id": "wr-noncontact",
+      "locator": "3 v 1"
+    },
+    {
+      "variant_id": "ffr-gagne",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Gagner des points en franchissant des zones et en soutenant l’avancée.",
+      "source_id": "ffr-plan2020",
+      "locator": "PDF page 53"
+    },
+    {
+      "variant_id": "ffr-interval",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Valoriser les passes qui font avancer dans un espace libre.",
+      "source_id": "ffr-plan2020",
+      "locator": "PDF page 52"
+    },
+    {
+      "variant_id": "ffr-auto",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Coopérer pour faire progresser le ballon malgré les défenseurs.",
+      "source_id": "ffr-plan2020",
+      "locator": "PDF page 51"
+    },
+    {
+      "variant_id": "ffr-initiative",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Repérer les espaces ouverts par des défenseurs temporairement immobilisés.",
+      "source_id": "ffr-plan2020",
+      "locator": "PDF page 55"
+    },
+    {
+      "variant_id": "rc-numbers-tag",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.",
+      "source_id": "rc-numbers-tag-source",
+      "locator": "Description et Video Subtitles de la fiche ; recommandations exclues"
+    },
+    {
+      "variant_id": "rc-colour-touch",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.",
+      "source_id": "rc-colour-touch-source",
+      "locator": "Description / Video Subtitles"
+    },
+    {
+      "variant_id": "munster-gates",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marquer en franchissant une porte libre, puis passer ; ne pas reprendre immédiatement la même porte.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 7"
+    },
+    {
+      "variant_id": "nz-no-ball",
+      "family_id": "F17",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.",
+      "source_id": "nz-no-ball-source",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP"
+    },
+    {
+      "variant_id": "ffr-gazelles-atelier",
+      "family_id": "F18",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.",
+      "source_id": "ffr-atelier-1-2025-26",
+      "locator": "Diapositive 3 — Les gazelles"
+    },
+    {
+      "variant_id": "ffr-plaquage-atelier",
+      "family_id": "F18",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.",
+      "source_id": "ffr-atelier-2-2025-26",
+      "locator": "Diapositive 3 — Plaquage et libération"
+    },
+    {
+      "variant_id": "ffr-protege-atelier",
+      "family_id": "F18",
+      "status": "INSUFFICIENT_DESCRIPTION",
+      "origin": "AI_INFERRED",
+      "discriminant": "Protéger son équilibre face à l’adversaire ; organisation à compléter.",
+      "source_id": "ffr-atelier-1-2025-26",
+      "locator": "Diapositive 3 — Protège-ballon"
+    },
+    {
+      "variant_id": "rc-eggs",
+      "family_id": "F19",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.",
+      "source_id": "rc-eggs",
+      "locator": "Sous-titres : équipes de trois et collecte"
+    },
+    {
+      "variant_id": "rc-rounders",
+      "family_id": "F20",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.",
+      "source_id": "rc-rounders-source",
+      "locator": "Video Subtitles : consignes du parcours et des trois passes"
+    },
+    {
+      "variant_id": "scot-tennis",
+      "family_id": "F21",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Avec la main libre, attraper puis déposer le ballon de l’autre côté.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 13"
+    },
+    {
+      "variant_id": "scot-alignement",
+      "family_id": "F22",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 14"
+    }
+  ],
+  "pair_reviews": [
+    {
+      "left_id": "wr-scarecrow",
+      "right_id": "munster-mud",
+      "relation": "POSSIBLE_SAME_VARIANT",
+      "reason": "Toucher, immobilisation et délivrance sous un bras communs. Vérifier le toucher au ballon et les effectifs dans Munster avant de conclure.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "scot-corner",
+      "right_id": "rc-team-scarecrow",
+      "relation": "POSSIBLE_SAME_VARIANT",
+      "reason": "Chasse par passes, porteur immobile. Le sort du joueur touché et la rotation des chasseurs restent à comparer.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "ffr-reception",
+      "right_id": "ffr-transmettre",
+      "relation": "POSSIBLE_SAME_VARIANT",
+      "reason": "Deux intitulés possiblement centrés sur les deux rôles du même échange au trot. Organisation complète à vérifier.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "rc-two-balls",
+      "right_id": "rc-triangle",
+      "relation": "POSSIBLE_OVERLAPPING_OCCURRENCE",
+      "reason": "La ressource du triangle contient aussi des progressions à plusieurs ballons ; la fiche actuelle porte sur passe et posture. Comparer le passage exact avant de créer une autre variante.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "rc-ten",
+      "right_id": "rc-four-one",
+      "relation": "UNCERTAIN",
+      "reason": "Dix passes visées dans les deux cas, mais la référence communautaire prévoit deux équipes et un éloignement défensif. Ne pas assimiler une cible de score commune à une règle identique.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "rc-tagmania",
+      "right_id": "wr-scarecrow",
+      "relation": "COMPOSITE_CONTAINS_RELATED_GAME",
+      "reason": "La progression de délivrance ressemble aux épouvantails ; séparer les occurrences de Tag mania avant de compter ses variantes.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "rc-aliens",
+      "right_id": "rc-bulldog",
+      "relation": "DISTINCT_RULES",
+      "reason": "Les touchés deviennent chasseurs dans les deux cas ; chasse libre au ballon contre traversées successives sans ballon.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "nz-corner",
+      "right_id": "rc-capture-aliens",
+      "relation": "DISTINCT_RULES",
+      "reason": "Sortie puis retour sur ballon tombé contre conversion en chasseur.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "wr-keep-ball",
+      "right_id": "rc-four-one",
+      "relation": "DISTINCT_RULES",
+      "reason": "Toucher du porteur sans interception contre défense par interception.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "wr-tag-2v1",
+      "right_id": "rc-two-one",
+      "relation": "DISTINCT_RULES",
+      "reason": "Rubans et passes libres au départ contre défense simulée et soutien en retrait.",
+      "origin": "AI_INFERRED"
+    },
+    {
+      "left_id": "ffr-speedy-individuel",
+      "right_id": "ffr-speedy-partage",
+      "relation": "DISTINCT_RULES",
+      "reason": "Un ballon chacun contre un ballon disputé ; opposition de possession différente.",
+      "origin": "AI_INFERRED"
+    }
+  ],
+  "counts_note": "Les candidats ne sont pas des variantes uniques certifiées. Les 22 familles sont un classement proposé ; les 2 affectations historiques de la base restent intactes.",
+  "source_checks": [
+    {
+      "ids": [
+        "scot-corner",
+        "rc-team-scarecrow"
+      ],
+      "finding": "Source écossaise : trois chasseurs ; sous-titres RugbyCoaching : changements par paires. Règle de délivrance non explicitée dans ce dernier extrait. Même famille, équivalence non démontrée.",
+      "decision": "KEEP_SEPARATE_PENDING_RULES"
+    },
+    {
+      "ids": [
+        "rc-tagmania"
+      ],
+      "finding": "Sous-titres : collecte individuelle de rubans, puis toucher au ballon avec délivrance sous les bras. Au moins deux situations, pas une variante unique.",
+      "decision": "COMPOSITE_EXCLUDED_FROM_UNIQUE_COUNT"
+    },
+    {
+      "ids": [
+        "rc-ten"
+      ],
+      "finding": "Déroulement affiché issu de Sportplan ; objectif initial issu de RugbyCoaching. Deux provenances à conserver séparément dans l’analyse.",
+      "decision": "SOURCE_SCOPE_REVIEW"
+    }
+  ]
+}

@@ -40,3 +40,6 @@ Viser environ 200 variantes U8 réellement exploitables, sans gonfler les compte
 Dernier lot clos : trois variantes World Rugby et neuf fiches FFR enrichies. Voir docs/LOT_FFR_WR_2026-09-09.md. Les neuf fiches FFR restent incomplètes : organisation vidéo non vérifiée.
 
 Lots enchaînés du 9 septembre : références secondaires attribuées, variante communautaire enrichie, trois situations World Rugby, trois comparaisons et contrôle des 51 archives. Voir docs/LOTS_CONTINUS_2026-09-09.md.
+
+## Priorité exclusive : classement et dédoublonnage
+Décision utilisateur du 9 septembre : suspendre nouvelle collecte et interface ; traiter tout le corpus existant. Le classement de data/classification-audit.json est une proposition documentaire, distincte des affectations historiques. Conserver chaque source et ne fusionner aucun cas incertain. Produire un décompte des candidats, fiches composites et descriptions insuffisantes ; ne pas annoncer un nombre d’exercices uniques non démontré.
