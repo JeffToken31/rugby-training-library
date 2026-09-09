@@ -20,7 +20,8 @@
     "data/world-rugby-03.json",
     "data/comparisons-03.json",
     "data/world-rugby-04.json",
-    "data/comparisons-04.json"
+    "data/comparisons-04.json",
+    "data/nz-games-05.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -48,7 +49,8 @@
     "data/enrichment-world-rugby-03.json",
     "data/enrichment-world-rugby-04.json",
     "data/enrichment-ffr-plan-01.json",
-    "data/enrichment-parameters-02.json"
+    "data/enrichment-parameters-02.json",
+    "data/enrichment-nz-05.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -109,6 +111,9 @@
     "nz-circle-source",
     "nz-handling-relay-source",
     "nz-numbers-race-source",
-    "nz-multi-relay-source"
+    "nz-multi-relay-source",
+    "nz-memory-source",
+    "nz-noodle-source",
+    "nz-rip-source"
   ]
 }

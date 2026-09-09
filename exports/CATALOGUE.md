@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-91 fiches · 59 sources
+95 fiches · 62 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -251,6 +251,62 @@ Le coach annonce une couleur qui change la ligne visée par l’équipe en posse
 
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
+## Chasse à la frite avec délivrance par la main
+
+**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+
+Deux chasseurs avec frites, autres joueurs avec ballon.
+
+**Matériel :** Deux frites et six à huit ballons
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 10–10
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — DRILL EXPLANATION · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Deux chasseurs avec frites, autres joueurs avec ballon.
+
+**Déroulement :** Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.
+
+**Consignes :** Les chasseurs cherchent à immobiliser tous les joueurs.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+
+**Espace source :** 15 × 10 m
+
+## Chasse à la frite avec délivrance par passe
+
+**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+
+Même chasse ; le joueur touché pose son ballon à ses pieds.
+
+**Matériel :** Deux frites et six à huit ballons
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 10–10
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — DRILL EXPLANATION — progression Noodle tag 2 · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Même chasse ; le joueur touché pose son ballon à ses pieds.
+
+**Déroulement :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
+
+**Consignes :** Reprendre l’évitement après délivrance.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION — progression Noodle tag 2.
+
+**Espace source :** 15 × 10 m
+
 ## Chasse aux trésors — parcours
 
 **motricité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
@@ -440,6 +496,34 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 **Espace source :** 15 × 15 m ; camps 3 × 3 m
 
 **Manche source :** 8 secondes ; durée totale inconnue.
+
+## Circuit de passes mémorisé
+
+**mémoire et manipulation · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+
+Joueurs assis en cercle.
+
+**Matériel :** Ballons ; un au départ
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 5–15
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/memory) — DRILL EXPLANATION · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Joueurs assis en cercle.
+
+**Déroulement :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
+
+**Consignes :** Communiquer et éviter les collisions.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+
+**Espace source :** Cercle, joueurs espacés d’un mètre
 
 ## Conduire le ballon au pied
 
@@ -2159,6 +2243,34 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 **Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
 
+## Rubans avec restitution avant reprise
+
+**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+
+Joueurs répartis dans le carré.
+
+**Matériel :** Ceintures et rubans
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — DRILL EXPLANATION · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Joueurs répartis dans le carré.
+
+**Déroulement :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
+
+**Consignes :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+
+**Espace source :** 10 × 10 m
+
 ## Rugby à quatre cibles
 
 **passe · âge source : U8 (classement du site) · Source consultée — validation terrain à faire**
@@ -2616,10 +2728,13 @@ Détails extraits le 2026-09-09 — Relays with Passing.
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
+- [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — Description publique consultée.
 - [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — Description publique consultée.
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — Description publique consultée.
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — Description publique consultée.
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
+- [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — Description publique consultée.
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.

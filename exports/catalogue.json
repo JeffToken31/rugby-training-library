@@ -221,6 +221,18 @@
       "access": "Description publique consultée",
       "checked_on": "2026-09-09",
       "format": "HTML",
+      "id": "nz-memory-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+      "resource_type": "WEB_PAGE",
+      "title": "Memory",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/memory"
+    },
+    {
+      "access": "Description publique consultée",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
       "id": "nz-multi-relay-source",
       "language": "en",
       "publisher": "New Zealand Rugby — Rugby Toolbox",
@@ -240,6 +252,18 @@
       "resource_type": "WEB_PAGE",
       "title": "Opposition sans ballon, attaquant désigné",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9"
+    },
+    {
+      "access": "Description publique consultée",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
+      "id": "nz-noodle-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+      "resource_type": "WEB_PAGE",
+      "title": "Noodle tag 1",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3"
     },
     {
       "access": "Description publique consultée",
@@ -264,6 +288,18 @@
       "resource_type": "WEB_PAGE",
       "title": "Ramasser, porter et reposer",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/pick-place"
+    },
+    {
+      "access": "Description publique consultée",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
+      "id": "nz-rip-source",
+      "language": "en",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+      "resource_type": "WEB_PAGE",
+      "title": "Rip Tag",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1"
     },
     {
       "access": "Description publique indexée consultée ; capture à vérifier",
@@ -1916,6 +1952,259 @@
       "references": []
     },
     {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-noodle-highfive",
+      "locator": "DRILL EXPLANATION",
+      "material": "Deux frites et six à huit ballons",
+      "players_max": 10,
+      "players_min": 10,
+      "review": "Description source, adaptation terrain non validée.",
+      "source_id": "nz-noodle-source",
+      "space": "15 × 10 m",
+      "status": "documented",
+      "summary": "Deux chasseurs avec frites, autres joueurs avec ballon.",
+      "theme": "évitement et coopération",
+      "title": "Chasse à la frite avec délivrance par la main",
+      "instructions": "Les chasseurs cherchent à immobiliser tous les joueurs.",
+      "organisation": "Deux chasseurs avec frites, autres joueurs avec ballon.",
+      "steps": "Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux chasseurs avec frites, autres joueurs avec ballon.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-noodle-highfive-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-noodle-highfive-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les chasseurs cherchent à immobiliser tous les joueurs.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-noodle-highfive-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-noodle-highfive-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-noodle-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION",
+        "revision_id": "nz-noodle-highfive-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-noodle-highfive-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-09",
+        "format": "HTML",
+        "id": "nz-noodle-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+        "resource_type": "WEB_PAGE",
+        "title": "Noodle tag 1",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-noodle-pass",
+      "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+      "material": "Deux frites et six à huit ballons",
+      "parent_variant_id": "nz-noodle-highfive",
+      "players_max": 10,
+      "players_min": 10,
+      "review": "Description source, adaptation terrain non validée.",
+      "source_id": "nz-noodle-source",
+      "space": "15 × 10 m",
+      "status": "documented",
+      "summary": "Même chasse ; le joueur touché pose son ballon à ses pieds.",
+      "theme": "évitement et coopération",
+      "title": "Chasse à la frite avec délivrance par passe",
+      "instructions": "Reprendre l’évitement après délivrance.",
+      "organisation": "Même chasse ; le joueur touché pose son ballon à ses pieds.",
+      "steps": "Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Même chasse ; le joueur touché pose son ballon à ses pieds.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+            "revision_id": "nz-noodle-pass-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+            "revision_id": "nz-noodle-pass-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Reprendre l’évitement après délivrance.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+            "revision_id": "nz-noodle-pass-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+            "revision_id": "nz-noodle-pass-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-noodle-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+        "revision_id": "nz-noodle-pass-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-noodle-pass-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-09",
+        "format": "HTML",
+        "id": "nz-noodle-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+        "resource_type": "WEB_PAGE",
+        "title": "Noodle tag 1",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation": null,
       "age_source": "M8",
       "duration_min": null,
@@ -2845,6 +3134,132 @@
         "resource_type": "TECHNICAL_DOCUMENT",
         "title": "Plan de formation du joueur M8 — mars 2023",
         "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-memory",
+      "locator": "DRILL EXPLANATION",
+      "material": "Ballons ; un au départ",
+      "players_max": 15,
+      "players_min": 5,
+      "review": "Description source, adaptation terrain non validée.",
+      "source_id": "nz-memory-source",
+      "space": "Cercle, joueurs espacés d’un mètre",
+      "status": "documented",
+      "summary": "Joueurs assis en cercle.",
+      "theme": "mémoire et manipulation",
+      "title": "Circuit de passes mémorisé",
+      "instructions": "Communiquer et éviter les collisions.",
+      "organisation": "Joueurs assis en cercle.",
+      "steps": "Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs assis en cercle.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-memory-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-memory-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Communiquer et éviter les collisions.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-memory-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-memory-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-memory-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION",
+        "revision_id": "nz-memory-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-memory-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-09",
+        "format": "HTML",
+        "id": "nz-memory-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+        "resource_type": "WEB_PAGE",
+        "title": "Memory",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/memory"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -11052,6 +11467,130 @@
         "url": "https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128"
       },
       "model_status": "AI_PARSED",
+      "references": []
+    },
+    {
+      "age_source": "Under 7 (classement du site)",
+      "duration_min": null,
+      "id": "nz-rip",
+      "locator": "DRILL EXPLANATION",
+      "material": "Ceintures et rubans",
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source, adaptation terrain non validée.",
+      "source_id": "nz-rip-source",
+      "space": "10 × 10 m",
+      "status": "documented",
+      "summary": "Joueurs répartis dans le carré.",
+      "theme": "évitement et coopération",
+      "title": "Rubans avec restitution avant reprise",
+      "instructions": "Rester dans le carré ; impossible de prendre un ruban si le sien manque.",
+      "organisation": "Joueurs répartis dans le carré.",
+      "steps": "Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs répartis dans le carré.",
+          "provenance": {
+            "source_id": "nz-rip-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-rip-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.",
+          "provenance": {
+            "source_id": "nz-rip-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-rip-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester dans le carré ; impossible de prendre un ruban si le sien manque.",
+          "provenance": {
+            "source_id": "nz-rip-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-rip-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-rip-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION",
+            "revision_id": "nz-rip-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "nz-rip-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION",
+        "revision_id": "nz-rip-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "nz-rip-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-09",
+        "format": "HTML",
+        "id": "nz-rip-source",
+        "language": "en",
+        "publisher": "New Zealand Rugby — Rugby Toolbox",
+        "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement.",
+        "resource_type": "WEB_PAGE",
+        "title": "Rip Tag",
+        "url": "https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1"
+      },
+      "model_status": "REVIEWED",
       "references": []
     },
     {

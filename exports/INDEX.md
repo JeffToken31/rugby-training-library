@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-91 fiches — les propositions terrain restent à valider par le coach.
+95 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -104,6 +104,12 @@
 |---|---|---|
 | [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) | Under 7 (classement du site) | Documentée ; à valider |
 
+## Mémoire et manipulation
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Circuit de passes mémorisé](fiches/nz-memory.md) | Under 7 (classement du site) | Documentée ; à valider |
+
 ## Opposition et soutien
 
 | Exercice | Âge source | Proposition terrain |
@@ -189,4 +195,12 @@
 | [Épouvantails avec délivrance](fiches/wr-scarecrow.md) | Initiation Get Into Rugby ; âge précis non indiqué | Documentée ; à valider |
 | [Passer puis échapper au poursuivant](fiches/nz-touchdown.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Traverser les zones gardées](fiches/scot-zones.md) | Primaire (Écosse) | Documentée ; à valider |
+
+## Évitement et coopération
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Chasse à la frite avec délivrance par la main](fiches/nz-noodle-highfive.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Chasse à la frite avec délivrance par passe](fiches/nz-noodle-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Rubans avec restitution avant reprise](fiches/nz-rip.md) | Under 7 (classement du site) | Documentée ; à valider |
 

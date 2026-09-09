@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-63 fiches.
+67 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -11,11 +11,14 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Cercle de passes avec demi-tours sautés](fiches/rc-circle-jump.md) — coordination ; RugbyCoaching.tv
 - [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) — coopération ; RugbyCoaching.tv
 - [Changer de ligne d’essai](fiches/rc-multidirection.md) — prise d’information ; RugbyCoaching.tv
+- [Chasse à la frite avec délivrance par la main](fiches/nz-noodle-highfive.md) — évitement et coopération ; New Zealand Rugby — Rugby Toolbox
+- [Chasse à la frite avec délivrance par passe](fiches/nz-noodle-pass.md) — évitement et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse aux trésors — parcours](fiches/ffr-tresors2023.md) — motricité ; FFR — Direction Technique Nationale
 - [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) — coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) — évitement ; World Rugby
 - [Chasseurs passeurs par trois](fiches/scot-corner.md) — passe ; Scottish Rugby
 - [Chat et déplacements animaux](fiches/scot-animal.md) — motricité ; Scottish Rugby
+- [Circuit de passes mémorisé](fiches/nz-memory.md) — mémoire et manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) — passe et soutien ; World Rugby
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
@@ -53,6 +56,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) — motricité et manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Relais avec essai](fiches/scot-relais.md) — motricité ; Scottish Rugby
 - [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) — passe et soutien ; World Rugby
+- [Rubans avec restitution avant reprise](fiches/nz-rip.md) — évitement et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Rugby à quatre cibles](fiches/rc-netball.md) — passe ; RugbyCoaching.tv
 - [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) — jeu au pied ; Fédération Française de Rugby
 - [Speedy — un ballon chacun](fiches/ffr-speedy-individuel.md) — réactivité ; FFR — Direction Technique Nationale

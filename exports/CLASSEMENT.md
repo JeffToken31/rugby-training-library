@@ -307,3 +307,12 @@ SEPARATE_SOURCE_SCOPES_KEEP_RECORD — Consignes de Sportplan exploitées comme 
 ## Limites et conservation
 
 Classement éditorial proposé par IA, distinct des deux familles historiques en SQLite. Les données sources et les 91 fiches restent intactes. Les cas insuffisants restent explicitement exclus de tout décompte certifié de variantes uniques. Aucune validation coach attribuée. Aucun nouveau contenu collecté pour gonfler le catalogue.
+
+## Collecte reprise : quatre ajouts classés
+
+Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le corpus atteint désormais 95 fiches : 84 candidates individuelles, 9 insuffisantes et 2 composites ou à périmètre particulier, toujours sans certification d’unicité.
+
+- F08 : circuit de passes mémorisé.
+- F12 : chasse à la frite, délivrance par la main.
+- F12 : même chasse, délivrance par passe (variante liée).
+- F12 : rubans avec restitution, à distinguer d’une simple collecte de rubans.

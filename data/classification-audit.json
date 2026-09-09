@@ -933,6 +933,42 @@
       "discriminant": "Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.",
       "source_id": "scot-primary",
       "locator": "PDF page 14"
+    },
+    {
+      "variant_id": "nz-memory",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Joueurs assis en cercle.",
+      "source_id": "nz-memory-source",
+      "locator": "DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "nz-noodle-highfive",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Deux chasseurs avec frites, autres joueurs avec ballon.",
+      "source_id": "nz-noodle-source",
+      "locator": "DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "nz-noodle-pass",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Même chasse ; le joueur touché pose son ballon à ses pieds.",
+      "source_id": "nz-noodle-source",
+      "locator": "DRILL EXPLANATION — progression Noodle tag 2"
+    },
+    {
+      "variant_id": "nz-rip",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Joueurs répartis dans le carré.",
+      "source_id": "nz-rip-source",
+      "locator": "DRILL EXPLANATION"
     }
   ],
   "pair_reviews": [
@@ -1193,5 +1229,5 @@
       "human_arbitration_required": false
     }
   ],
-  "audit_status": "ALL_LISTED_CASES_ASSESSED_WITH_EXPLICIT_LIMITS"
+  "audit_status": "BASELINE_91_PLUS_FOUR_CLASSIFIED_ADDITIONS"
 }

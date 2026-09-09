@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-91 fiches ; 82 documentées ; 9 incomplètes.
-73 fiches enrichies ; 59 ressources ; 51 ressources capturées localement.
+95 fiches ; 86 documentées ; 9 incomplètes.
+77 fiches enrichies ; 62 ressources ; 54 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 49 | 42 | 0 | 0 | 0 |
-| organisation | 63 | 28 | 0 | 0 | 0 |
-| steps | 64 | 27 | 0 | 0 | 0 |
-| instructions | 57 | 34 | 0 | 0 | 0 |
-| success_criteria | 14 | 77 | 0 | 0 | 0 |
-| common_errors | 7 | 84 | 0 | 0 | 0 |
-| coach_points | 36 | 55 | 0 | 0 | 0 |
-| duration_min | 14 | 63 | 14 | 0 | 0 |
-| players_min | 38 | 52 | 1 | 0 | 0 |
-| players_max | 39 | 52 | 0 | 0 | 0 |
-| space | 25 | 62 | 4 | 0 | 0 |
-| material | 75 | 16 | 0 | 0 | 0 |
+| objectives | 49 | 46 | 0 | 0 | 0 |
+| organisation | 67 | 28 | 0 | 0 | 0 |
+| steps | 68 | 27 | 0 | 0 | 0 |
+| instructions | 61 | 34 | 0 | 0 | 0 |
+| success_criteria | 14 | 81 | 0 | 0 | 0 |
+| common_errors | 7 | 88 | 0 | 0 | 0 |
+| coach_points | 36 | 59 | 0 | 0 | 0 |
+| duration_min | 14 | 63 | 18 | 0 | 0 |
+| players_min | 41 | 53 | 1 | 0 | 0 |
+| players_max | 42 | 53 | 0 | 0 | 0 |
+| space | 29 | 62 | 4 | 0 | 0 |
+| material | 79 | 16 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -52,10 +52,13 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:36.143783+00:00
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:02.581870+00:00
+- [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:58:56.102602+00:00
 - [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T12:47:21.075955+00:00
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:44.415925+00:00
+- [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:59:00.605195+00:00
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:06.618673+00:00
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:28.925914+00:00
+- [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:59:04.484127+00:00
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:37.650827+00:00
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:26.445516+00:00
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:49.947418+00:00

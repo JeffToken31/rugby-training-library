@@ -1,0 +1,107 @@
+{
+  "sources": [
+    {
+      "id": "nz-memory-source",
+      "title": "Memory",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/memory",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée",
+      "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement."
+    },
+    {
+      "id": "nz-noodle-source",
+      "title": "Noodle tag 1",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée",
+      "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement."
+    },
+    {
+      "id": "nz-rip-source",
+      "title": "Rip Tag",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1",
+      "publisher": "New Zealand Rugby — Rugby Toolbox",
+      "language": "en",
+      "checked_on": "2026-09-09",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée",
+      "qualification_note": "Jeu décrit ; progressions retenues seulement si leur règle change significativement."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "nz-memory",
+      "source_id": "nz-memory-source",
+      "title": "Circuit de passes mémorisé",
+      "theme": "mémoire et manipulation",
+      "summary": "Joueurs assis en cercle.",
+      "age_source": "Under 7 (classement du site)",
+      "players_min": 5,
+      "players_max": 15,
+      "duration_min": null,
+      "space": "Cercle, joueurs espacés d’un mètre",
+      "material": "Ballons ; un au départ",
+      "locator": "DRILL EXPLANATION",
+      "status": "documented",
+      "review": "Description source, adaptation terrain non validée."
+    },
+    {
+      "id": "nz-noodle-highfive",
+      "source_id": "nz-noodle-source",
+      "title": "Chasse à la frite avec délivrance par la main",
+      "theme": "évitement et coopération",
+      "summary": "Deux chasseurs avec frites, autres joueurs avec ballon.",
+      "age_source": "Under 7 (classement du site)",
+      "players_min": 10,
+      "players_max": 10,
+      "duration_min": null,
+      "space": "15 × 10 m",
+      "material": "Deux frites et six à huit ballons",
+      "locator": "DRILL EXPLANATION",
+      "status": "documented",
+      "review": "Description source, adaptation terrain non validée."
+    },
+    {
+      "id": "nz-noodle-pass",
+      "source_id": "nz-noodle-source",
+      "title": "Chasse à la frite avec délivrance par passe",
+      "theme": "évitement et coopération",
+      "summary": "Même chasse ; le joueur touché pose son ballon à ses pieds.",
+      "age_source": "Under 7 (classement du site)",
+      "players_min": 10,
+      "players_max": 10,
+      "duration_min": null,
+      "space": "15 × 10 m",
+      "material": "Deux frites et six à huit ballons",
+      "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+      "status": "documented",
+      "review": "Description source, adaptation terrain non validée.",
+      "parent_variant_id": "nz-noodle-highfive"
+    },
+    {
+      "id": "nz-rip",
+      "source_id": "nz-rip-source",
+      "title": "Rubans avec restitution avant reprise",
+      "theme": "évitement et coopération",
+      "summary": "Joueurs répartis dans le carré.",
+      "age_source": "Under 7 (classement du site)",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": "10 × 10 m",
+      "material": "Ceintures et rubans",
+      "locator": "DRILL EXPLANATION",
+      "status": "documented",
+      "review": "Description source, adaptation terrain non validée."
+    }
+  ]
+}

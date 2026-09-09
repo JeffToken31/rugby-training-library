@@ -1,0 +1,124 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-memory-detail-1",
+      "variant_id": "nz-memory",
+      "source_id": "nz-memory-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs assis en cercle."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Communiquer et éviter les collisions."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-noodle-highfive-detail-1",
+      "variant_id": "nz-noodle-highfive",
+      "source_id": "nz-noodle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux chasseurs avec frites, autres joueurs avec ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les chasseurs cherchent à immobiliser tous les joueurs."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-noodle-pass-detail-1",
+      "variant_id": "nz-noodle-pass",
+      "source_id": "nz-noodle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION — progression Noodle tag 2",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Même chasse ; le joueur touché pose son ballon à ses pieds."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Reprendre l’évitement après délivrance."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-rip-detail-1",
+      "variant_id": "nz-rip",
+      "source_id": "nz-rip-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs répartis dans le carré."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester dans le carré ; impossible de prendre un ruban si le sien manque."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    }
+  ]
+}

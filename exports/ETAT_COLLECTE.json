@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T13:20:21.338993+00:00",
-  "variants": 91,
-  "documented": 82,
+  "generated_at": "2026-09-09T19:59:41.501255+00:00",
+  "variants": 95,
+  "documented": 86,
   "incomplete": 9,
-  "enriched": 73,
-  "resources": 59,
-  "captured_resources": 51,
+  "enriched": 77,
+  "resources": 62,
+  "captured_resources": 54,
   "families": 2,
   "events": [],
   "resource_inventory": [
@@ -219,6 +219,17 @@
       }
     },
     {
+      "resource_id": "nz-memory-source",
+      "title": "Memory",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/memory",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T19:58:56.102602+00:00"
+      }
+    },
+    {
       "resource_id": "nz-multi-relay-source",
       "title": "Multi-action Relay",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay",
@@ -241,6 +252,17 @@
       }
     },
     {
+      "resource_id": "nz-noodle-source",
+      "title": "Noodle tag 1",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T19:59:00.605195+00:00"
+      }
+    },
+    {
       "resource_id": "nz-numbers-race-source",
       "title": "Course numérotée avec deux ballons",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/numbers-race",
@@ -260,6 +282,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:32:28.925914+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-rip-source",
+      "title": "Rip Tag",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T19:59:04.484127+00:00"
       }
     },
     {
