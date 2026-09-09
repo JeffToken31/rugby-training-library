@@ -15,7 +15,6 @@ Audit du 9 septembre ; présence des champs sans validation pédagogique.
 | Coordonner deux ballons | installation |
 | Coup franc pour soi | installation, déroulement, consignes |
 | Déplacement à quatre appuis | installation, déroulement, consignes |
-| Dix passes - variante communautaire documentee | installation, déroulement, consignes |
 | Duel long | installation, déroulement, consignes |
 | Duels et soutien | installation, déroulement, consignes |
 | Gagne-terrain | installation, déroulement, consignes |
@@ -44,4 +43,4 @@ Audit du 9 septembre ; présence des champs sans validation pédagogique.
 | Speedy — un ballon pour deux | installation, déroulement, consignes |
 | Transmettre en trottinant | installation, déroulement, consignes |
 
-46 fiches sur 85 ont les trois champs présents.
+50 fiches sur 88 ont les trois champs présents.

@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-85 fiches · 59 sources
+88 fiches · 59 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -667,7 +667,17 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 
 **Objectifs :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
 
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+**Organisation — Variante Sportplan Community :** Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.
+
+**Déroulement — Variante Sportplan Community :** Enchaîner dix passes sans chute ni interception.
+
+**Consignes — Variante Sportplan Community :** Les défenseurs restent à au moins un mètre du porteur.
+
+**Critères de réussite — Variante Sportplan Community :** Réussir dix passes consécutives.
+
+Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contribution, après article général.
+
+**Points coach issus de la source :** Encourager la communication, les déplacements sans ballon et les passes courtes et précises.
 
 **Variante sourcée complémentaire :** Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 
@@ -1519,6 +1529,34 @@ Choisir quand passer malgré les déplacements des autres binômes.
 
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
+## Passes après départs dans cinq postures
+
+**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+
+Départs debout, un genou, deux genoux, allongé et assis.
+
+**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — par groupe actif
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support- Chain Reaction · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
+
+**Déroulement :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
+
+**Consignes :** Courir droit ; passes douces à deux mains.
+
+Détails extraits le 2026-09-09 — Pass and Support- Chain Reaction.
+
+**Espace source :** 20 × 10 m
+
 ## Passes en cercle tourné vers l’extérieur
 
 **passe · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
@@ -1550,6 +1588,34 @@ Cercles en compétition, joueurs tournés vers l’extérieur.
 Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
 
 **Points coach issus de la source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
+
+**Espace source :** 10 × 10 m
+
+## Passes en escalier par cinq
+
+**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+
+Cinq joueurs en file.
+
+**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — par groupe actif
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support- Formation · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Cinq joueurs en file.
+
+**Déroulement :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
+
+**Consignes :** Courir droit et passer doucement à deux mains.
+
+Détails extraits le 2026-09-09 — Pass and Support- Formation.
 
 **Espace source :** 10 × 10 m
 
@@ -2378,6 +2444,34 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 **Consignes :** Se déplacer à tour de rôle uniquement vers un plot libre.
 
 Détails extraits le 2026-09-09 — PDF page 14.
+
+## Vagues de passes avec relais sur l’autre rive
+
+**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+
+Trois équipes de cinq par couloir, deux sur une rive.
+
+**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+
+**Durée atelier :** 6 min
+
+**Effectif :** 15–15 — par couloir
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Relays with Passing · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Trois équipes de cinq par couloir, deux sur une rive.
+
+**Déroulement :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
+
+**Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
+
+Détails extraits le 2026-09-09 — Relays with Passing.
+
+**Espace source :** 20 × 20 m
 
 ## Répertoire des sources
 

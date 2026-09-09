@@ -25,7 +25,17 @@ Objectif annoncé : se rendre disponible sans ballon et communiquer avec le port
 
 **Objectifs :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
 
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+**Organisation — Variante Sportplan Community :** Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.
+
+**Déroulement — Variante Sportplan Community :** Enchaîner dix passes sans chute ni interception.
+
+**Consignes — Variante Sportplan Community :** Les défenseurs restent à au moins un mètre du porteur.
+
+**Critères de réussite — Variante Sportplan Community :** Réussir dix passes consécutives.
+
+Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contribution, après article général.
+
+**Points coach issus de la source :** Encourager la communication, les déplacements sans ballon et les passes courtes et précises.
 
 **Variante sourcée complémentaire :** Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 

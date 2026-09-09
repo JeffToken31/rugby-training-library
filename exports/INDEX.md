@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-85 fiches — les propositions terrain restent à valider par le coach.
+88 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -132,7 +132,10 @@
 |---|---|---|
 | [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
 | [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
+| [Passes après départs dans cinq postures](fiches/wr-chain-reaction.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
+| [Passes en escalier par cinq](fiches/wr-formation.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
 | [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
+| [Vagues de passes avec relais sur l’autre rive](fiches/wr-passing-relays.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
 
 ## Posture
 

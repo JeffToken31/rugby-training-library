@@ -1,0 +1,55 @@
+{
+  "exercises": [
+    {
+      "id": "wr-formation",
+      "source_id": "wr-noncontact",
+      "title": "Passes en escalier par cinq",
+      "theme": "passe et soutien",
+      "summary": "Cinq joueurs en file.",
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par groupe actif",
+      "duration_min": 6,
+      "space": "10 × 10 m",
+      "material": "Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.",
+      "locator": "Pass and Support- Formation",
+      "status": "documented",
+      "review": "Source documentaire ; adaptation U8 non validée."
+    },
+    {
+      "id": "wr-chain-reaction",
+      "source_id": "wr-noncontact",
+      "title": "Passes après départs dans cinq postures",
+      "theme": "passe et soutien",
+      "summary": "Départs debout, un genou, deux genoux, allongé et assis.",
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par groupe actif",
+      "duration_min": 6,
+      "space": "20 × 10 m",
+      "material": "Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.",
+      "locator": "Pass and Support- Chain Reaction",
+      "status": "documented",
+      "review": "Source documentaire ; adaptation U8 non validée."
+    },
+    {
+      "id": "wr-passing-relays",
+      "source_id": "wr-noncontact",
+      "title": "Vagues de passes avec relais sur l’autre rive",
+      "theme": "passe et soutien",
+      "summary": "Trois équipes de cinq par couloir, deux sur une rive.",
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "players_min": 15,
+      "players_max": 15,
+      "participants_scope": "par couloir",
+      "duration_min": 6,
+      "space": "20 × 20 m",
+      "material": "Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.",
+      "locator": "Relays with Passing",
+      "status": "documented",
+      "review": "Source documentaire ; adaptation U8 non validée."
+    }
+  ]
+}

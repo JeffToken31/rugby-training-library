@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-53 fiches.
+57 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -19,6 +19,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
 - [Deux contre un sans contact](fiches/rc-two-one.md) — passe ; RugbyCoaching.tv
+- [Dix passes - variante communautaire documentee](fiches/rc-ten.md) — passe ; RugbyCoaching.tv
 - [Épouvantails avec délivrance](fiches/wr-scarecrow.md) — évitement ; World Rugby
 - [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) — coopération ; RugbyCoaching.tv
 - [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) — passe et soutien ; World Rugby
@@ -35,7 +36,9 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Passer avec un soutien en retrait](fiches/rc-pairs.md) — passe ; RugbyCoaching.tv
 - [Passer puis échapper au poursuivant](fiches/nz-touchdown.md) — évitement ; New Zealand Rugby — Rugby Toolbox
 - [Passer sur appel dans un espace partagé](fiches/rc-calling-pairs.md) — passe ; RugbyCoaching.tv
+- [Passes après départs dans cinq postures](fiches/wr-chain-reaction.md) — passe et soutien ; World Rugby
 - [Passes en cercle tourné vers l’extérieur](fiches/nz-circle.md) — passe ; New Zealand Rugby — Rugby Toolbox
+- [Passes en escalier par cinq](fiches/wr-formation.md) — passe et soutien ; World Rugby
 - [Passes en triangle et changement de posture](fiches/rc-triangle.md) — passe ; RugbyCoaching.tv
 - [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) — passe ; RugbyCoaching.tv
 - [Premières passes en ligne](fiches/rc-pass-start.md) — passe ; RugbyCoaching.tv
@@ -57,3 +60,4 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Traverser face aux chasseurs](fiches/rc-bulldog.md) — déplacement ; RugbyCoaching.tv
 - [Traverser les zones gardées](fiches/scot-zones.md) — évitement ; Scottish Rugby
 - [Trois joueurs alignés](fiches/scot-alignement.md) — prise d’information ; Scottish Rugby
+- [Vagues de passes avec relais sur l’autre rive](fiches/wr-passing-relays.md) — passe et soutien ; World Rugby

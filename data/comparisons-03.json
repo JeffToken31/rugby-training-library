@@ -1,0 +1,31 @@
+{
+  "duplicate_candidates": [
+    {
+      "id": "wr-formation--wr-pass-support",
+      "left_id": "wr-formation",
+      "right_id": "wr-pass-support",
+      "relation": "SAME_FAMILY",
+      "score": 0.65,
+      "method_version": "editorial-4",
+      "explanation": "Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion."
+    },
+    {
+      "id": "rc-triangle--wr-chain-reaction",
+      "left_id": "rc-triangle",
+      "right_id": "wr-chain-reaction",
+      "relation": "DIFFERENT_VARIANT",
+      "score": 0.65,
+      "method_version": "editorial-4",
+      "explanation": "Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion."
+    },
+    {
+      "id": "rc-lateral-three--wr-passing-relays",
+      "left_id": "rc-lateral-three",
+      "right_id": "wr-passing-relays",
+      "relation": "SAME_FAMILY",
+      "score": 0.65,
+      "method_version": "editorial-4",
+      "explanation": "Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion."
+    }
+  ]
+}

@@ -141,6 +141,9 @@ def markdown(items, sources):
             if e.get(key):
                 origin=e.get("field_coverage",{}).get(key,{}).get("origin")
                 suffix=" — proposition IA" if origin=="AI_INFERRED" else ""
+                provenance=e.get("field_coverage",{}).get(key,{}).get("provenance",{})
+                if provenance.get("source_scope"):
+                    suffix += " — "+provenance["source_scope"]
                 lines += ["**"+label+suffix+" :** "+e[key], ""]
         if e.get("enrichment_provenance"):
             p=e["enrichment_provenance"]

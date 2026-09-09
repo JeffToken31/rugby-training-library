@@ -3730,6 +3730,11 @@
       "theme": "passe",
       "title": "Dix passes - variante communautaire documentee",
       "objectives": "Se rendre disponible sans ballon et communiquer pour faciliter la passe.",
+      "coach_points": "Encourager la communication, les déplacements sans ballon et les passes courtes et précises.",
+      "instructions": "Les défenseurs restent à au moins un mètre du porteur.",
+      "organisation": "Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.",
+      "steps": "Enchaîner dix passes sans chute ni interception.",
+      "success_criteria": "Réussir dix passes consécutives.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -3746,22 +3751,87 @@
           }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.",
+          "provenance": {
+            "source_id": "sportplan-ten",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+            "revision_id": "rc-ten-community-2",
+            "occurrence_id": "rc-ten:ref:0",
+            "source_scope": "Variante Sportplan Community",
+            "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
+            "capture_verified_locally": true
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner dix passes sans chute ni interception.",
+          "provenance": {
+            "source_id": "sportplan-ten",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+            "revision_id": "rc-ten-community-2",
+            "occurrence_id": "rc-ten:ref:0",
+            "source_scope": "Variante Sportplan Community",
+            "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
+            "capture_verified_locally": true
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les défenseurs restent à au moins un mètre du porteur.",
+          "provenance": {
+            "source_id": "sportplan-ten",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+            "revision_id": "rc-ten-community-2",
+            "occurrence_id": "rc-ten:ref:0",
+            "source_scope": "Variante Sportplan Community",
+            "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réussir dix passes consécutives.",
+          "provenance": {
+            "source_id": "sportplan-ten",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+            "revision_id": "rc-ten-community-2",
+            "occurrence_id": "rc-ten:ref:0",
+            "source_scope": "Variante Sportplan Community",
+            "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Encourager la communication, les déplacements sans ballon et les passes courtes et précises.",
+          "provenance": {
+            "source_id": "sportplan-ten",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+            "revision_id": "rc-ten-community-2",
+            "occurrence_id": "rc-ten:ref:0",
+            "source_scope": "Variante Sportplan Community",
+            "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -3780,12 +3850,14 @@
         }
       },
       "enrichment_provenance": {
-        "source_id": "rc-ten",
+        "source_id": "sportplan-ten",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten",
-        "revision_id": "rc-ten-detail-1",
-        "capture_sha256": "1aab60868748ea9248f0c03c491af60e5c12c98a59686bd524e840c4ccb4e1b7",
+        "checked_on": "2026-09-09",
+        "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+        "revision_id": "rc-ten-community-2",
+        "occurrence_id": "rc-ten:ref:0",
+        "source_scope": "Variante Sportplan Community",
+        "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
         "capture_verified_locally": true
       },
       "enrichment_history": [
@@ -3794,6 +3866,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "rc-ten-community-2",
+          "supersedes": "rc-ten-detail-1",
+          "checked_on": "2026-09-09",
+          "reason": "Complément de la variante communautaire déjà référencée, distinct du contenu vidéo RugbyCoaching."
         }
       ],
       "source": {
@@ -7498,6 +7576,179 @@
       "references": []
     },
     {
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "duration_min": 6,
+      "id": "wr-chain-reaction",
+      "locator": "Pass and Support- Chain Reaction",
+      "material": "Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.",
+      "participants_scope": "par groupe actif",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Source documentaire ; adaptation U8 non validée.",
+      "source_id": "wr-noncontact",
+      "space": "20 × 10 m",
+      "status": "documented",
+      "summary": "Départs debout, un genou, deux genoux, allongé et assis.",
+      "theme": "passe et soutien",
+      "title": "Passes après départs dans cinq postures",
+      "instructions": "Courir droit ; passes douces à deux mains.",
+      "organisation": "Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.",
+      "steps": "Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-2",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Courir droit ; passes douces à deux mains.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "20 × 10 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Chain Reaction",
+            "revision_id": "wr-chain-reaction-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "Pass and Support- Chain Reaction",
+        "revision_id": "wr-chain-reaction-detail-2",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-chain-reaction-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        },
+        {
+          "id": "wr-chain-reaction-detail-2",
+          "supersedes": "wr-chain-reaction-detail-1",
+          "checked_on": "2026-09-09",
+          "reason": "Préciser les rotations et distinguer groupe actif et effectif du couloir."
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Under 7 (classement du site)",
       "duration_min": null,
       "id": "nz-circle",
@@ -7723,6 +7974,173 @@
         "resource_type": "WEB_PAGE",
         "title": "Passes en cercle tourné vers l’extérieur",
         "url": "https://www.rugbytoolbox.co.nz/training/technique/passing-circle"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "duration_min": 6,
+      "id": "wr-formation",
+      "locator": "Pass and Support- Formation",
+      "material": "Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.",
+      "participants_scope": "par groupe actif",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Source documentaire ; adaptation U8 non validée.",
+      "source_id": "wr-noncontact",
+      "space": "10 × 10 m",
+      "status": "documented",
+      "summary": "Cinq joueurs en file.",
+      "theme": "passe et soutien",
+      "title": "Passes en escalier par cinq",
+      "instructions": "Courir droit et passer doucement à deux mains.",
+      "organisation": "Cinq joueurs en file.",
+      "steps": "Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq joueurs en file.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Courir droit et passer doucement à deux mains.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "10 × 10 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass and Support- Formation",
+            "revision_id": "wr-formation-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "Pass and Support- Formation",
+        "revision_id": "wr-formation-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-formation-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -11630,6 +12048,173 @@
         "resource_type": "TECHNICAL_DOCUMENT",
         "title": "Primary School Teacher Resource Pack",
         "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "duration_min": 6,
+      "id": "wr-passing-relays",
+      "locator": "Relays with Passing",
+      "material": "Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.",
+      "participants_scope": "par couloir",
+      "players_max": 15,
+      "players_min": 15,
+      "review": "Source documentaire ; adaptation U8 non validée.",
+      "source_id": "wr-noncontact",
+      "space": "20 × 20 m",
+      "status": "documented",
+      "summary": "Trois équipes de cinq par couloir, deux sur une rive.",
+      "theme": "passe et soutien",
+      "title": "Vagues de passes avec relais sur l’autre rive",
+      "instructions": "Les soutiens restent derrière le porteur et montrent leurs mains.",
+      "organisation": "Trois équipes de cinq par couloir, deux sur une rive.",
+      "steps": "Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois équipes de cinq par couloir, deux sur une rive.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les soutiens restent derrière le porteur et montrent leurs mains.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 15,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 15,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "20 × 20 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Relays with Passing",
+            "revision_id": "wr-passing-relays-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "Relays with Passing",
+        "revision_id": "wr-passing-relays-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-passing-relays-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
       },
       "model_status": "REVIEWED",
       "references": []

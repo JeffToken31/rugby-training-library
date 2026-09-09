@@ -107,6 +107,36 @@ Même famille proposée. Même conservation à quatre contre un et cible de dix 
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
 
+## Passes latérales en vagues de trois / Vagues de passes avec relais sur l’autre rive
+
+Même famille proposée. Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
+
+| Information | [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) | [Vagues de passes avec relais sur l’autre rive](fiches/wr-passing-relays.md) |
+|---|---|---|
+| Principe | Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés. | Trois équipes de cinq par couloir, deux sur une rive. |
+| Organisation | Vagues de trois, avec une ligne repère. | Trois équipes de cinq par couloir, deux sur une rive. |
+| Déroulement | Transmettre successivement puis travailler dans l’autre sens. | Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart. |
+| Consignes | Rester derrière le porteur et montrer les mains tôt. | Les soutiens restent derrière le porteur et montrent leurs mains. |
+| Âge indiqué | U7 (classement du site) ; adéquation U8 à valider | Initiation Get Into Rugby ; âge non précisé |
+| Passage source | Description / Video Subtitles | Relays with Passing |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
+## Passes en triangle et changement de posture / Passes après départs dans cinq postures
+
+Variantes distinctes proposées. Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.
+
+| Information | [Passes en triangle et changement de posture](fiches/rc-triangle.md) | [Passes après départs dans cinq postures](fiches/wr-chain-reaction.md) |
+|---|---|---|
+| Principe | En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons. | Départs debout, un genou, deux genoux, allongé et assis. |
+| Organisation | Trois joueurs en triangle. | Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis. |
+| Déroulement | Passer, s’asseoir et se relever avant de recevoir à nouveau. | Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens. |
+| Consignes | Présenter les mains tôt ; reprendre le rythme de circulation. | Courir droit ; passes douces à deux mains. |
+| Âge indiqué | U9 (classement du site) | Initiation Get Into Rugby ; âge non précisé |
+| Passage source | Description / Video Subtitles | Pass and Support- Chain Reaction |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
 ## Épouvantails — chasseurs passeurs / Chasseurs passeurs par trois
 
 À examiner. Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
@@ -149,5 +179,20 @@ Même famille proposée. Transmission de main à main avec soutien en file. Le p
 | Consignes | Garder de l’espace entre joueurs ; prendre le ballon sans ralentir. | Conserver des intervalles réguliers et réceptionner en mouvement. |
 | Âge indiqué | Initiation Get Into Rugby ; âge non précisé | Initiation Get Into Rugby ; âge non précisé |
 | Passage source | Follow the Leader | Pass and Support |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
+## Passes en escalier par cinq / Relais de soutien tous les cinq mètres
+
+Même famille proposée. Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
+
+| Information | [Passes en escalier par cinq](fiches/wr-formation.md) | [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) |
+|---|---|---|
+| Principe | Cinq joueurs en file. | Cinq joueurs partent en file. |
+| Organisation | Cinq joueurs en file. | Cinq joueurs partent en file. |
+| Déroulement | Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche. | Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens. |
+| Consignes | Courir droit et passer doucement à deux mains. | Conserver des intervalles réguliers et réceptionner en mouvement. |
+| Âge indiqué | Initiation Get Into Rugby ; âge non précisé | Initiation Get Into Rugby ; âge non précisé |
+| Passage source | Pass and Support- Formation | Pass and Support |
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.

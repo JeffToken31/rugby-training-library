@@ -1,0 +1,44 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-ten-community-2",
+      "variant_id": "rc-ten",
+      "source_id": "sportplan-ten",
+      "occurrence_id": "rc-ten:ref:0",
+      "source_scope": "Variante Sportplan Community",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DESCRIPTION et COACHING POINTS de la contribution, après article général",
+      "supersedes": "rc-ten-detail-1",
+      "revision_reason": "Complément de la variante communautaire déjà référencée, distinct du contenu vidéo RugbyCoaching.",
+      "capture_sha256": "1c69e7b510996c072ca6f7b2f6886cbb1010e5aaf9064a8be6263125aa54b27b",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner dix passes sans chute ni interception."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les défenseurs restent à au moins un mètre du porteur."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réussir dix passes consécutives."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Encourager la communication, les déplacements sans ballon et les passes courtes et précises."
+        }
+      }
+    }
+  ]
+}

@@ -93,3 +93,21 @@ class EnrichmentTests(unittest.TestCase):
             v2.items(self.db,field_origin="SOURCE")
         with self.assertRaises(ValueError):
             v2.items(self.db,has_fields=("nonexistent",))
+
+    def test_secondary_source_requires_link_and_preserves_attribution(self):
+        source={"id":"secondary","title":"Secondary","url":"https://example.org/drill"}
+        v2.ingest(self.db,{"sources":[source]})
+        v2.occurrence(self.db,"secondary-occ","secondary","Description")
+        self.db.execute("INSERT INTO exercise_sources VALUES(?,?,?,?)",("rc-pass-start","secondary-occ","related","Documented related version"))
+        self.db.commit()
+        record=copy.deepcopy(self.payload["enrichments"][0])
+        record.update(source_id="secondary",occurrence_id="secondary-occ",source_scope="Related version")
+        enrichments.ingest(self.db,{"enrichments":[record]})
+        item=next(e for e in v2.items(self.db) if e["id"]=="rc-pass-start")
+        provenance=item["field_coverage"]["objectives"]["provenance"]
+        self.assertEqual(provenance["source_id"],"secondary")
+        self.assertEqual(provenance["occurrence_id"],"secondary-occ")
+        bad=copy.deepcopy(record)
+        bad.update(id="unlinked",variant_id="rc-lateral-three")
+        with self.assertRaises(ValueError):
+            enrichments.ingest(self.db,{"enrichments":[bad]})

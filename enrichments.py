@@ -33,7 +33,10 @@ def ingest(db,payload):
                 raise ValueError("Variante inconnue")
             original=json.loads(row[0])
             if original["source_id"]!=record["source_id"]:
-                raise ValueError("Source incohérente")
+                occurrence_id=record.get("occurrence_id")
+                linked=db.execute("SELECT 1 FROM exercise_sources es JOIN occurrences o ON o.id=es.occurrence_id WHERE es.variant_id=? AND o.id=? AND o.resource_id=?",(record["variant_id"],occurrence_id,record["source_id"])).fetchone()
+                if not linked or not record.get("source_scope"):
+                    raise ValueError("Source secondaire non liée ou périmètre absent")
             if not record.get("actor") or not record.get("checked_on") or not record.get("locator"):
                 raise ValueError("Attribution incomplète")
             if record.get("capture_sha256") and not re.fullmatch(r"[0-9a-f]{64}",record["capture_sha256"]):
@@ -71,6 +74,9 @@ def ingest(db,payload):
 def provenance(db,record):
     result={k:record[k] for k in ("source_id","actor","checked_on","locator")}
     result["revision_id"]=record["id"]
+    for key in ("occurrence_id","source_scope"):
+        if record.get(key):
+            result[key]=record[key]
     if record.get("capture_sha256"):
         digest=record["capture_sha256"]
         result["capture_sha256"]=digest
