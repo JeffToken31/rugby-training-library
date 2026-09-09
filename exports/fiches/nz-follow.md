@@ -31,7 +31,7 @@ Deux partenaires échangent ; un seul voit le coach.
 
 **Consignes :** Rester proches et communiquer pour suivre le signal.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Communiquer et rester proches.
 

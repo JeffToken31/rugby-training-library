@@ -17,8 +17,8 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 | success_criteria | 14 | 77 | 0 | 0 | 0 |
 | common_errors | 7 | 84 | 0 | 0 | 0 |
 | coach_points | 36 | 55 | 0 | 0 | 0 |
-| duration_min | 14 | 67 | 10 | 0 | 0 |
-| players_min | 38 | 53 | 0 | 0 | 0 |
+| duration_min | 14 | 63 | 14 | 0 | 0 |
+| players_min | 38 | 52 | 1 | 0 | 0 |
 | players_max | 39 | 52 | 0 | 0 | 0 |
 | space | 25 | 62 | 4 | 0 | 0 |
 | material | 75 | 16 | 0 | 0 | 0 |

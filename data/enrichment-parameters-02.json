@@ -1,0 +1,156 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-follow-parameters-20260909",
+      "variant_id": "nz-follow",
+      "source_id": "nz-follow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+      "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+      "supersedes": "nz-follow-instructions-20260909",
+      "revision_reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée.",
+      "fields": {
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Grand espace, partenaires à environ un mètre"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par binôme"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-corner-parameters-20260909",
+      "variant_id": "nz-corner",
+      "source_id": "nz-corner-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+      "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+      "supersedes": "nz-corner-instructions-20260909",
+      "revision_reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée.",
+      "fields": {
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 20
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Carré de 10 × 10 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon et quatre plots"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-no-ball-parameters-20260909",
+      "variant_id": "nz-no-ball",
+      "source_id": "nz-no-ball-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+      "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+      "supersedes": "nz-no-ball-instructions-20260909",
+      "revision_reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée.",
+      "fields": {
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "10 × 15 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chasubles"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "nz-multi-relay-parameters-20260909",
+      "variant_id": "nz-multi-relay",
+      "source_id": "nz-multi-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+      "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+      "supersedes": "nz-multi-relay-detail-1",
+      "revision_reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée.",
+      "fields": {
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 15
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "20 × 20 m ; repère à 15 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par groupe ; repères de parcours"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    }
+  ]
+}

@@ -29,7 +29,7 @@ Trois files réalisent un relais avec une action différente à chaque tour.
 
 **Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
 
-Détails extraits le 2026-09-09 — Description et coaching points.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
 

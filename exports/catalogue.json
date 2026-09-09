@@ -1040,31 +1040,82 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-follow-parameters-20260909",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 2,
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-follow-parameters-20260909",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 2,
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-follow-parameters-20260909",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Grand espace, partenaires à environ un mètre",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-follow-parameters-20260909",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Un ballon par binôme",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-follow-parameters-20260909",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-follow-source",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION et DRILL SET-UP",
-        "revision_id": "nz-follow-instructions-20260909",
+        "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+        "revision_id": "nz-follow-parameters-20260909",
         "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
         "capture_verified_locally": true
       },
@@ -1092,6 +1143,12 @@
           "supersedes": "nz-follow-coaching-20260908",
           "checked_on": "2026-09-09",
           "reason": "Consigne explicitée depuis le contenu source déjà examiné."
+        },
+        {
+          "id": "nz-follow-parameters-20260909",
+          "supersedes": "nz-follow-instructions-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée."
         }
       ],
       "source": {
@@ -2112,31 +2169,82 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-corner-parameters-20260909",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 10,
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-corner-parameters-20260909",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 20,
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-corner-parameters-20260909",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Carré de 10 × 10 m",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-corner-parameters-20260909",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Un ballon et quatre plots",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-corner-parameters-20260909",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-corner-source",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION et DRILL SET-UP",
-        "revision_id": "nz-corner-instructions-20260909",
+        "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+        "revision_id": "nz-corner-parameters-20260909",
         "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
         "capture_verified_locally": true
       },
@@ -2164,6 +2272,12 @@
           "supersedes": "nz-corner-coaching-20260908",
           "checked_on": "2026-09-09",
           "reason": "Consigne explicitée depuis le contenu source déjà examiné."
+        },
+        {
+          "id": "nz-corner-parameters-20260909",
+          "supersedes": "nz-corner-instructions-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée."
         }
       ],
       "source": {
@@ -6867,30 +6981,82 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-no-ball-parameters-20260909",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-no-ball-parameters-20260909",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 10,
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-no-ball-parameters-20260909",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "10 × 15 m",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-no-ball-parameters-20260909",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Chasubles",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-no-ball-parameters-20260909",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-no-ball-source",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION et DRILL SET-UP",
-        "revision_id": "nz-no-ball-instructions-20260909",
+        "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+        "revision_id": "nz-no-ball-parameters-20260909",
         "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
         "capture_verified_locally": true
       },
@@ -6918,6 +7084,12 @@
           "supersedes": "nz-no-ball-coaching-20260908",
           "checked_on": "2026-09-09",
           "reason": "Consigne explicitée depuis le contenu source déjà examiné."
+        },
+        {
+          "id": "nz-no-ball-parameters-20260909",
+          "supersedes": "nz-no-ball-instructions-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée."
         }
       ],
       "source": {
@@ -10382,31 +10554,84 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-multi-relay-parameters-20260909",
+            "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+            "capture_verified_locally": true
+          }
         },
         "players_min": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 6,
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-multi-relay-parameters-20260909",
+            "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+            "capture_verified_locally": true
+          }
         },
         "players_max": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": 15,
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-multi-relay-parameters-20260909",
+            "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+            "capture_verified_locally": true
+          }
         },
         "space": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "20 × 20 m ; repère à 15 m",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-multi-relay-parameters-20260909",
+            "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+            "capture_verified_locally": true
+          }
         },
         "material": {
+          "origin": "SOURCE",
           "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED"
+          "value": "Un ballon par groupe ; repères de parcours",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+            "revision_id": "nz-multi-relay-parameters-20260909",
+            "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+            "capture_verified_locally": true
+          }
         }
       },
       "enrichment_provenance": {
         "source_id": "nz-multi-relay-source",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "Description et coaching points",
-        "revision_id": "nz-multi-relay-detail-1"
+        "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
+        "revision_id": "nz-multi-relay-parameters-20260909",
+        "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -10414,6 +10639,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-multi-relay-parameters-20260909",
+          "supersedes": "nz-multi-relay-detail-1",
+          "checked_on": "2026-09-09",
+          "reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée."
         }
       ],
       "source": {

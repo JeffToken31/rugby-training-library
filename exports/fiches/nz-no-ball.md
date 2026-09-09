@@ -31,7 +31,7 @@ Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Consignes :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
 

@@ -31,7 +31,7 @@ Deux équipes dans le carré ; le porteur reste immobile.
 
 **Consignes :** Le porteur reste immobile ; ne pas sortir du carré.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
 

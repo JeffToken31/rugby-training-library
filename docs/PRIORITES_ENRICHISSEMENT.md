@@ -7,7 +7,6 @@ Audit du 9 septembre ; présence des champs sans validation pédagogique.
 | Atteindre la zone opposée | consignes |
 | Carré | installation, déroulement, consignes |
 | Carré 2 | installation, déroulement, consignes |
-| Chasse aux trésors — parcours | installation, déroulement, consignes |
 | Chasseurs qui se passent le ballon | installation, déroulement, consignes |
 | Chat et déplacements animaux | consignes |
 | Chercher les espaces libres | installation, déroulement, consignes |
@@ -39,8 +38,6 @@ Audit du 9 septembre ; présence des champs sans validation pédagogique.
 | Relais avec essai | consignes |
 | Relais — courir, rouler, passer | installation, déroulement, consignes |
 | Slalom au pied puis essai | consignes |
-| Speedy — un ballon chacun | installation, déroulement, consignes |
-| Speedy — un ballon pour deux | installation, déroulement, consignes |
 | Transmettre en trottinant | installation, déroulement, consignes |
 
-50 fiches sur 88 ont les trois champs présents.
+56 fiches sur 91 ont les trois champs présents.

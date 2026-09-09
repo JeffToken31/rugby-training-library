@@ -87,7 +87,7 @@ Deux partenaires échangent ; un seul voit le coach.
 
 **Consignes :** Rester proches et communiquer pour suivre le signal.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Communiquer et rester proches.
 
@@ -309,7 +309,7 @@ Deux équipes dans le carré ; le porteur reste immobile.
 
 **Consignes :** Le porteur reste immobile ; ne pas sortir du carré.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
 
@@ -1387,7 +1387,7 @@ Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Consignes :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
 
@@ -2077,7 +2077,7 @@ Trois files réalisent un relais avec une action différente à chaque tour.
 
 **Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
 
-Détails extraits le 2026-09-09 — Description et coaching points.
+Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 **Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
 
