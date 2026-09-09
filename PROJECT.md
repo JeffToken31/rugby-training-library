@@ -43,3 +43,5 @@ Lots enchaînés du 9 septembre : références secondaires attribuées, variante
 
 ## Priorité exclusive : classement et dédoublonnage
 Décision utilisateur du 9 septembre : suspendre nouvelle collecte et interface ; traiter tout le corpus existant. Le classement de data/classification-audit.json est une proposition documentaire, distincte des affectations historiques. Conserver chaque source et ne fusionner aucun cas incertain. Produire un décompte des candidats, fiches composites et descriptions insuffisantes ; ne pas annoncer un nombre d’exercices uniques non démontré.
+
+Audit des cas signalés terminé : 91 affectations, 11 rapprochements et 11 fiches exceptionnelles examinés. Voir exports/CLASSEMENT.md. Les décisions de conservation sont documentées ; elles ne certifient pas l’unicité. Ne pas recommencer cet audit ni relancer la collecte généraliste. Suite éventuelle de la même tâche : obtenir les preuves vidéo précisément listées, puis réviser seulement les cas concernés.

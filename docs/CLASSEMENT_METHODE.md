@@ -1,9 +1,9 @@
-# Méthode du classement documentaire
+# Classement et dédoublonnage documentaire
 
-Le fichier data/classification-audit.json couvre chaque fiche existante une fois, sans modifier les lots historiques. exports/CLASSEMENT.md présente les familles, règles distinctives et cas ambigus. Ce classement éditorial est distinct des deux familles historiques affectées dans SQLite ; il ne doit pas être confondu avec une migration achevée.
+Le fichier data/classification-audit.json affecte chacune des 91 fiches à une des 22 familles proposées. exports/CLASSEMENT.md restitue toutes les affectations, 11 rapprochements et 11 décisions sur les fiches exceptionnelles. Aucun cas de cette liste ne reste sans examen documentaire.
 
-Comparaison par mécanisme : but, organisation, rôle du porteur, défense, règle de marque, devenir du joueur touché et rotation. Les noms et organismes ne suffisent pas à prouver une équivalence. Une différence de durée seule ne justifie pas une variante nouvelle.
+Comparer but, organisation, rôle du porteur, défense, marque, devenir du joueur touché et rotation. Le titre ne suffit pas. Une différence de durée ou d’effectif ne prouve pas un concept nouveau.
 
-91 fiches examinées : 80 candidates individuelles, 9 descriptions insuffisantes et 2 fiches composites ou à périmètre de source ambigu. Les candidates ne sont pas certifiées uniques. Une paire possiblement équivalente et une paire de tâches complémentaires confirmée, un jeu de base commun identifié, un chevauchement possible, deux autres cas incertains/composites et cinq différences documentées. Aucun retrait ni fusion. Les sources manquantes restent à relire ; le nombre unique exact reste indéterminé.
+Résultat : 80 fiches candidates individuelles, 9 descriptions insuffisantes, 2 fiches composites ou à périmètre particulier. Le nombre exact de variantes uniques n’est pas établi. Même jeu de base identifié pour boue/épouvantails ; deux tâches complémentaires FFR ; tâches sélectionnées distinctes pour triangle/deux ballons. Dernière paire de chasseurs passeurs conservée séparément faute de règle de délivrance explicite. Les neuf fiches FFR nécessitent les vidéos ; les lacunes sont détaillées individuellement.
 
-Contrôles : couverture exhaustive des identifiants, unicité des affectations, validité des familles et des identifiants de comparaison. Aucun nouvel exercice collecté pendant ce lot.
+Aucune suppression, fusion ou migration des familles historiques. Ce classement demeure éditorial, proposé par IA. Les contrôles vérifient couverture complète des identifiants, unicité des affectations et présence d’une décision pour chaque cas signalé. La résolution des incertitudes dépend encore de nouvelles preuves documentaires, pas d’un arbitrage demandé par défaut au coach.

@@ -952,14 +952,17 @@
           "source_id": "wr-noncontact",
           "locator": "Scarecrow Tag, archive locale"
         }
-      ]
+      ],
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "scot-corner",
       "right_id": "rc-team-scarecrow",
-      "relation": "POSSIBLE_SAME_VARIANT",
-      "reason": "Chasse par passes, porteur immobile. Le sort du joueur touché et la rotation des chasseurs restent à comparer.",
-      "origin": "AI_INFERRED"
+      "relation": "SAME_FAMILY_UNRESOLVED_RULE",
+      "reason": "Conserver séparément. Chasseurs par trois dans Scottish Rugby, changements par paires dans les sous-titres RugbyCoaching. Sort du joueur touché insuffisamment décrit pour prouver une équivalence.",
+      "origin": "AI_INFERRED",
+      "remaining_evidence": "Règle de sortie ou délivrance du joueur touché dans Team Scarecrow.",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "ffr-reception",
@@ -973,63 +976,75 @@
           "locator": "PDF page 17, ateliers 9 et 10",
           "checked_on": "2026-09-09"
         }
-      ]
+      ],
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "rc-two-balls",
       "right_id": "rc-triangle",
-      "relation": "POSSIBLE_OVERLAPPING_OCCURRENCE",
-      "reason": "La ressource du triangle contient aussi des progressions à plusieurs ballons ; la fiche actuelle porte sur passe et posture. Comparer le passage exact avant de créer une autre variante.",
-      "origin": "AI_INFERRED"
+      "relation": "DISTINCT_SELECTED_TASKS_SHARED_RESOURCE_CONTENT",
+      "reason": "La fiche triangle sélectionne passe puis assis-relevé ; la fiche deux ballons sélectionne deux circuits simultanés. Tâches distinctes. La ressource du triangle montre aussi un passage multiballon : ne pas recompter ce passage sans comparaison.",
+      "origin": "AI_INFERRED",
+      "remaining_evidence": "Aucun besoin pour distinguer les deux fiches actuelles ; repérage vidéo requis seulement avant extraction de la progression supplémentaire.",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "rc-ten",
       "right_id": "rc-four-one",
-      "relation": "UNCERTAIN",
-      "reason": "Dix passes visées dans les deux cas, mais la référence communautaire prévoit deux équipes et un éloignement défensif. Ne pas assimiler une cible de score commune à une règle identique.",
-      "origin": "AI_INFERRED"
+      "relation": "DISTINCT_DOCUMENTED_ORGANISATION",
+      "reason": "Sportplan décrit deux équipes et une distance défensive minimale ; quatre-contre-un décrit quatre passeurs et un intercepteur. Cible de dix passes commune, identité non démontrée. Conserver séparément avec périmètre Sportplan explicite.",
+      "origin": "AI_INFERRED",
+      "remaining_evidence": "Effectif des équipes Sportplan non précisé ; ne pas lui attribuer le quatre-contre-un.",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "rc-tagmania",
       "right_id": "wr-scarecrow",
-      "relation": "COMPOSITE_CONTAINS_RELATED_GAME",
-      "reason": "La progression de délivrance ressemble aux épouvantails ; séparer les occurrences de Tag mania avant de compter ses variantes.",
-      "origin": "AI_INFERRED"
+      "relation": "COMPOSITE_CONTAINS_SAME_CORE_GAME",
+      "reason": "La deuxième situation des sous-titres TAG Progressions décrit toucher au ballon puis délivrance sous les bras : même mécanisme que Scarecrow. Ne pas compter la fiche composite comme une nouvelle variante individuelle.",
+      "origin": "AI_INFERRED",
+      "remaining_evidence": "Les effectifs et rotations de cette occurrence restent non précisés.",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "rc-aliens",
       "right_id": "rc-bulldog",
       "relation": "DISTINCT_RULES",
       "reason": "Les touchés deviennent chasseurs dans les deux cas ; chasse libre au ballon contre traversées successives sans ballon.",
-      "origin": "AI_INFERRED"
+      "origin": "AI_INFERRED",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "nz-corner",
       "right_id": "rc-capture-aliens",
       "relation": "DISTINCT_RULES",
       "reason": "Sortie puis retour sur ballon tombé contre conversion en chasseur.",
-      "origin": "AI_INFERRED"
+      "origin": "AI_INFERRED",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "wr-keep-ball",
       "right_id": "rc-four-one",
       "relation": "DISTINCT_RULES",
       "reason": "Toucher du porteur sans interception contre défense par interception.",
-      "origin": "AI_INFERRED"
+      "origin": "AI_INFERRED",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "wr-tag-2v1",
       "right_id": "rc-two-one",
       "relation": "DISTINCT_RULES",
       "reason": "Rubans et passes libres au départ contre défense simulée et soutien en retrait.",
-      "origin": "AI_INFERRED"
+      "origin": "AI_INFERRED",
+      "review_status": "ASSESSED"
     },
     {
       "left_id": "ffr-speedy-individuel",
       "right_id": "ffr-speedy-partage",
       "relation": "DISTINCT_RULES",
       "reason": "Un ballon chacun contre un ballon disputé ; opposition de possession différente.",
-      "origin": "AI_INFERRED"
+      "origin": "AI_INFERRED",
+      "review_status": "ASSESSED"
     }
   ],
   "counts_note": "Les candidats ne sont pas des variantes uniques certifiées. Les 22 familles sont un classement proposé ; les 2 affectations historiques de la base restent intactes.",
@@ -1076,5 +1091,107 @@
       "status": "SAME_CORE_GAME",
       "note": "Groupe documentaire, sans suppression de variantes ni de sources."
     }
-  ]
+  ],
+  "exception_decisions": [
+    {
+      "variant_id": "ffr-carre-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Positions initiales, circulation, signaux et limites du terrain.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-carre2-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Définition des deux phases, placement des opposants et ordre des départs.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-duellong-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Écart initial entre poursuivant et porteur, distances et signal de départ.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-duels-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Nombre de joueurs actifs, déclenchement du soutien et règle d’intervention du défenseur.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-gazelles-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Positions, prises autorisées, but et arrêt du duel ; texte insuffisant pour exécuter le contact.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-pantheres-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Deux déplacements distincts à identifier visuellement ; posture exacte et parcours.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-plaquage-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Progression vidéo entière, conditions de passage entre étapes et critères de sécurité.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-protege-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Placement des adversaires, mode de contestation du ballon et fin de duel.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "ffr-relais-atelier",
+      "decision": "KEEP_CANDIDATE_EXCLUDE_UNIQUE_COUNT",
+      "reason": "Parcours, succession exacte des actions et rotations.",
+      "evidence_needed": "Vidéo liée à la diapositive M8 ; non visionnée intégralement.",
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "rc-tagmania",
+      "decision": "COMPOSITE_REFERENCE_ONLY",
+      "reason": "Au moins deux situations dans les sous-titres. Ne pas compter la fiche entière comme une variante unique.",
+      "components": [
+        {
+          "label": "Collecte individuelle de rubans",
+          "locator": "Video Subtitles : explication du jeu Tag Mania",
+          "relation": "Situation repérée ; ne pas assimiler aux deux chasseurs de Tag-grab."
+        },
+        {
+          "label": "Toucher au ballon et délivrance sous les bras",
+          "locator": "Video Subtitles : démonstration de délivrance après toucher au ballon",
+          "relation": "Même jeu de base que wr-scarecrow ; pas de nouvelle variante comptée."
+        }
+      ],
+      "human_arbitration_required": false
+    },
+    {
+      "variant_id": "rc-ten",
+      "decision": "SEPARATE_SOURCE_SCOPES_KEEP_RECORD",
+      "reason": "Consignes de Sportplan exploitées comme version communautaire ; vidéo RugbyCoaching incomplète conservée comme référence distincte. Aucun dédoublement de fiche.",
+      "components": [
+        {
+          "label": "Vidéo RugbyCoaching",
+          "locator": "Description publique",
+          "relation": "Objectif connu, déroulement non vérifié."
+        },
+        {
+          "label": "Jeu communautaire Sportplan",
+          "locator": "DESCRIPTION et COACHING POINTS",
+          "relation": "Version décrite ; provenance secondaire explicite, pas confirmation de la vidéo."
+        }
+      ],
+      "human_arbitration_required": false
+    }
+  ],
+  "audit_status": "ALL_LISTED_CASES_ASSESSED_WITH_EXPLICIT_LIMITS"
 }
