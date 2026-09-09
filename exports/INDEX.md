@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-81 fiches — les propositions terrain restent à valider par le coach.
+84 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -119,6 +119,14 @@
 | [Recevoir en trottinant](fiches/ffr-reception.md) | M10 | Documentée ; à valider |
 | [Rugby à quatre cibles](fiches/rc-netball.md) | U8 (classement du site) | 8 min / 6–10 enfants |
 | [Transmettre en trottinant](fiches/ffr-transmettre.md) | M10 | Documentée ; à valider |
+
+## Passe et soutien
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
+| [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
+| [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
 
 ## Posture
 

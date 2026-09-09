@@ -1,0 +1,193 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-carre-atelier-detail-1",
+      "variant_id": "ffr-carre-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Varier les déplacements et manipulations en travaillant équilibre et posture."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Observer les autres et l’espace ; surveiller les mains sur le ballon."
+        }
+      }
+    },
+    {
+      "id": "ffr-carre2-atelier-detail-1",
+      "variant_id": "ffr-carre2-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter, ramasser puis marquer."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Prendre l’information et utiliser les appuis ; contrôler le ramassage en course."
+        }
+      }
+    },
+    {
+      "id": "ffr-duellong-atelier-detail-1",
+      "variant_id": "ffr-duellong-atelier",
+      "source_id": "ffr-atelier-3-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Sprinter, s’orienter, marquer et poursuivre pour toucher."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler l’accélération et un aplatissement maîtrisé."
+        }
+      }
+    },
+    {
+      "id": "ffr-duels-atelier-detail-1",
+      "variant_id": "ffr-duels-atelier",
+      "source_id": "ffr-atelier-4-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "6754b8526e3ddba85c35444904205f9170524218590e50cebbf813f8e1a195e5",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Accélérer et feinter pour marquer ; soutenir le porteur."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porter à deux mains ; faire converger le soutien vers le porteur."
+        }
+      }
+    },
+    {
+      "id": "ffr-gazelles-atelier-detail-1",
+      "variant_id": "ffr-gazelles-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Découvrir l’opposition corporelle et la lutte."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner."
+        }
+      }
+    },
+    {
+      "id": "ffr-pantheres-atelier-detail-1",
+      "variant_id": "ffr-pantheres-atelier",
+      "source_id": "ffr-atelier-3-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Maintenir une posture gainée pendant le déplacement."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Observer le maintien de la posture."
+        }
+      }
+    },
+    {
+      "id": "ffr-plaquage-atelier-detail-1",
+      "variant_id": "ffr-plaquage-atelier",
+      "source_id": "ffr-atelier-2-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Apprendre le plaquage puis la libération du ballon."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "La source demande de regarder toute la progression vidéo avant d’utiliser cette situation."
+        }
+      }
+    },
+    {
+      "id": "ffr-protege-atelier-detail-1",
+      "variant_id": "ffr-protege-atelier",
+      "source_id": "ffr-atelier-1-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Progresser dans l’équilibre et la posture en opposition."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rechercher une posture semi-fléchie et un ancrage stable."
+        }
+      }
+    },
+    {
+      "id": "ffr-relais-atelier-detail-1",
+      "variant_id": "ffr-relais-atelier",
+      "source_id": "ffr-atelier-2-2025-26",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Diapositive 3, rubrique M8, texte public archivé",
+      "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner course, passage au sol, relevé, passe et réception."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Préparer les mains hautes et ouvertes ; viser la cible de passe."
+        }
+      }
+    }
+  ]
+}

@@ -23,6 +23,12 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Maintenir une posture gainée pendant le déplacement.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Observer le maintien de la posture.
+
 ## Répertoire des sources
 
 - [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositives et texte publics consultés ; PDF non téléchargé.

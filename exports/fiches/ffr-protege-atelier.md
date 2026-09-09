@@ -23,6 +23,12 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Progresser dans l’équilibre et la posture en opposition.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Rechercher une posture semi-fléchie et un ancrage stable.
+
 ## Répertoire des sources
 
 - [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.

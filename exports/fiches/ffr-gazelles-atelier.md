@@ -23,6 +23,12 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Découvrir l’opposition corporelle et la lutte.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.
+
 ## Répertoire des sources
 
 - [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.

@@ -23,6 +23,12 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Varier les déplacements et manipulations en travaillant équilibre et posture.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Observer les autres et l’espace ; surveiller les mains sur le ballon.
+
 ## Répertoire des sources
 
 - [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.

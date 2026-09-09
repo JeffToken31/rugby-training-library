@@ -23,6 +23,12 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Apprendre le plaquage puis la libération du ballon.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
+
 ## Répertoire des sources
 
 - [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositives et texte publics consultés ; PDF non téléchargé.

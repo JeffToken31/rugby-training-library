@@ -1240,9 +1240,22 @@
       "summary": "Déplacements et manipulation, avec travail d’équilibre et d’observation.",
       "theme": "manipulation",
       "title": "Carré",
+      "coach_points": "Observer les autres et l’espace ; surveiller les mains sur le ballon.",
+      "objectives": "Varier les déplacements et manipulations en travaillant équilibre et posture.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Varier les déplacements et manipulations en travaillant équilibre et posture.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-carre-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -1260,7 +1273,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Observer les autres et l’espace ; surveiller les mains sur le ballon.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-carre-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -1278,6 +1302,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-1-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-carre-atelier-detail-1",
+        "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-carre-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -1312,9 +1353,22 @@
       "summary": "Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.",
       "theme": "motricité",
       "title": "Carré 2",
+      "coach_points": "Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.",
+      "objectives": "Éviter, ramasser puis marquer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Éviter, ramasser puis marquer.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-carre2-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -1332,7 +1386,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-carre2-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -1350,6 +1415,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-1-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-carre2-atelier-detail-1",
+        "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-carre2-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -2544,6 +2626,173 @@
       "references": []
     },
     {
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "duration_min": 5,
+      "id": "wr-keep-ball",
+      "locator": "Keep Ball",
+      "material": "Un ballon par atelier ; plots pour délimiter",
+      "participants_scope": "par atelier",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Description documentaire ; adaptation U8 à valider par un coach.",
+      "source_id": "wr-noncontact",
+      "space": "5 × 5 m",
+      "status": "documented",
+      "summary": "Quatre passeurs contre un défenseur.",
+      "theme": "passe et soutien",
+      "title": "Conserver par dix passes sans interception",
+      "instructions": "Pas d’interception ni de passe au-dessus de la tête.",
+      "organisation": "Quatre passeurs contre un défenseur.",
+      "steps": "Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quatre passeurs contre un défenseur.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Pas d’interception ni de passe au-dessus de la tête.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "5 × 5 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Keep Ball",
+            "revision_id": "wr-keep-ball-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Keep Ball",
+        "revision_id": "wr-keep-ball-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-keep-ball-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation_u8": "Démarrer avec un seul ballon ; ajouter le second seulement après réussite. Faire tourner le rôle central.",
       "age_source": "U7 (classement du site)",
       "contact": "sans plaquage",
@@ -3470,9 +3719,22 @@
       "summary": "Course vers la marque avec poursuite ; distances et lancement à compléter.",
       "theme": "déplacement",
       "title": "Duel long",
+      "coach_points": "Travailler l’accélération et un aplatissement maîtrisé.",
+      "objectives": "Sprinter, s’orienter, marquer et poursuivre pour toucher.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Sprinter, s’orienter, marquer et poursuivre pour toucher.",
+          "provenance": {
+            "source_id": "ffr-atelier-3-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-duellong-atelier-detail-1",
+            "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -3490,7 +3752,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler l’accélération et un aplatissement maîtrisé.",
+          "provenance": {
+            "source_id": "ffr-atelier-3-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-duellong-atelier-detail-1",
+            "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -3508,6 +3781,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-3-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-duellong-atelier-detail-1",
+        "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-duellong-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -3542,9 +3832,22 @@
       "summary": "Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.",
       "theme": "coopération",
       "title": "Duels et soutien",
+      "coach_points": "Porter à deux mains ; faire converger le soutien vers le porteur.",
+      "objectives": "Accélérer et feinter pour marquer ; soutenir le porteur.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Accélérer et feinter pour marquer ; soutenir le porteur.",
+          "provenance": {
+            "source_id": "ffr-atelier-4-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-duels-atelier-detail-1",
+            "capture_sha256": "6754b8526e3ddba85c35444904205f9170524218590e50cebbf813f8e1a195e5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -3562,7 +3865,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter à deux mains ; faire converger le soutien vers le porteur.",
+          "provenance": {
+            "source_id": "ffr-atelier-4-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-duels-atelier-detail-1",
+            "capture_sha256": "6754b8526e3ddba85c35444904205f9170524218590e50cebbf813f8e1a195e5",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -3580,6 +3894,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-4-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-duels-atelier-detail-1",
+        "capture_sha256": "6754b8526e3ddba85c35444904205f9170524218590e50cebbf813f8e1a195e5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-duels-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -3862,6 +4193,173 @@
         "resource_type": "EXERCISE_VIDEO",
         "title": "team scarecrow tag",
         "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "duration_min": 6,
+      "id": "wr-follow-leader",
+      "locator": "Follow the Leader",
+      "material": "Un ballon par atelier ; plots pour délimiter",
+      "participants_scope": "par atelier",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Description documentaire ; adaptation U8 à valider par un coach.",
+      "source_id": "wr-noncontact",
+      "space": "5 × 5 m",
+      "status": "documented",
+      "summary": "Cinq joueurs en file suivent le porteur.",
+      "theme": "passe et soutien",
+      "title": "File avec transmission au nouveau meneur",
+      "instructions": "Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.",
+      "organisation": "Cinq joueurs en file suivent le porteur.",
+      "steps": "Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq joueurs en file suivent le porteur.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "5 × 5 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Follow the Leader",
+            "revision_id": "wr-follow-leader-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Follow the Leader",
+        "revision_id": "wr-follow-leader-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-follow-leader-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -4932,9 +5430,22 @@
       "summary": "Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.",
       "theme": "lutte",
       "title": "Les gazelles",
+      "coach_points": "Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.",
+      "objectives": "Découvrir l’opposition corporelle et la lutte.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Découvrir l’opposition corporelle et la lutte.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-gazelles-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -4952,7 +5463,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-gazelles-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -4970,6 +5492,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-1-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-gazelles-atelier-detail-1",
+        "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-gazelles-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -5912,9 +6451,22 @@
       "summary": "Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.",
       "theme": "posture",
       "title": "Panthères et chenilles",
+      "coach_points": "Observer le maintien de la posture.",
+      "objectives": "Maintenir une posture gainée pendant le déplacement.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Maintenir une posture gainée pendant le déplacement.",
+          "provenance": {
+            "source_id": "ffr-atelier-3-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-pantheres-atelier-detail-1",
+            "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -5932,7 +6484,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Observer le maintien de la posture.",
+          "provenance": {
+            "source_id": "ffr-atelier-3-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-pantheres-atelier-detail-1",
+            "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -5950,6 +6513,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-3-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-pantheres-atelier-detail-1",
+        "capture_sha256": "aec057cabc3f4df7cb1ee1720df429ca47845fb215bc1252f8e66f4a69cc39be",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-pantheres-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -7289,9 +7869,22 @@
       "summary": "Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.",
       "theme": "contact",
       "title": "Plaquage et libération",
+      "coach_points": "La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.",
+      "objectives": "Apprendre le plaquage puis la libération du ballon.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Apprendre le plaquage puis la libération du ballon.",
+          "provenance": {
+            "source_id": "ffr-atelier-2-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-plaquage-atelier-detail-1",
+            "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -7309,7 +7902,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.",
+          "provenance": {
+            "source_id": "ffr-atelier-2-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-plaquage-atelier-detail-1",
+            "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -7327,6 +7931,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-2-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-plaquage-atelier-detail-1",
+        "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-plaquage-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -7511,9 +8132,22 @@
       "summary": "Protéger son équilibre face à l’adversaire ; organisation à compléter.",
       "theme": "lutte",
       "title": "Protège-ballon",
+      "coach_points": "Rechercher une posture semi-fléchie et un ancrage stable.",
+      "objectives": "Progresser dans l’équilibre et la posture en opposition.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Progresser dans l’équilibre et la posture en opposition.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-protege-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -7531,7 +8165,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rechercher une posture semi-fléchie et un ancrage stable.",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-protege-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -7549,6 +8194,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-1-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-protege-atelier-detail-1",
+        "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-protege-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",
@@ -8872,6 +9534,173 @@
       "references": []
     },
     {
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "duration_min": 6,
+      "id": "wr-pass-support",
+      "locator": "Pass and Support",
+      "material": "Un ballon par atelier ; plots pour délimiter",
+      "participants_scope": "par atelier",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Description documentaire ; adaptation U8 à valider par un coach.",
+      "source_id": "wr-noncontact",
+      "space": "25 m de longueur",
+      "status": "documented",
+      "summary": "Cinq joueurs partent en file.",
+      "theme": "passe et soutien",
+      "title": "Relais de soutien tous les cinq mètres",
+      "instructions": "Conserver des intervalles réguliers et réceptionner en mouvement.",
+      "organisation": "Cinq joueurs partent en file.",
+      "steps": "Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq joueurs partent en file.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Conserver des intervalles réguliers et réceptionner en mouvement.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "25 m de longueur",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Pass and Support",
+            "revision_id": "wr-pass-support-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Pass and Support",
+        "revision_id": "wr-pass-support-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-pass-support-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation": null,
       "age_source": "M8",
       "duration_min": null,
@@ -8889,9 +9718,22 @@
       "summary": "Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.",
       "theme": "motricité",
       "title": "Relais — courir, rouler, passer",
+      "coach_points": "Préparer les mains hautes et ouvertes ; viser la cible de passe.",
+      "objectives": "Enchaîner course, passage au sol, relevé, passe et réception.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner course, passage au sol, relevé, passe et réception.",
+          "provenance": {
+            "source_id": "ffr-atelier-2-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-relais-atelier-detail-1",
+            "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "state": "NOT_EXTRACTED"
@@ -8909,7 +9751,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Préparer les mains hautes et ouvertes ; viser la cible de passe.",
+          "provenance": {
+            "source_id": "ffr-atelier-2-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-relais-atelier-detail-1",
+            "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -8927,6 +9780,23 @@
           "state": "NOT_EXTRACTED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-atelier-2-2025-26",
+        "actor": "assistant",
+        "checked_on": "2026-09-08",
+        "locator": "Diapositive 3, rubrique M8, texte public archivé",
+        "revision_id": "ffr-relais-atelier-detail-1",
+        "capture_sha256": "ccc708e95c8d34013ab4532f8c9ef31e3eb933fb79bf5915f35991c6db1f42ff",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-relais-atelier-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
         "checked_on": "2026-09-07",

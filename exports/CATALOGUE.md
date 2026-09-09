@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-81 fiches · 58 sources
+84 fiches · 58 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -137,6 +137,12 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Varier les déplacements et manipulations en travaillant équilibre et posture.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Observer les autres et l’espace ; surveiller les mains sur le ballon.
+
 ## Carré 2
 
 **motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -154,6 +160,12 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Carré 2 · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+**Objectifs :** Éviter, ramasser puis marquer.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
 
 ## Cercle de passes avec demi-tours sautés
 
@@ -423,6 +435,34 @@ Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 
 **Accès :** PDF public, texte consulté
 
+## Conserver par dix passes sans interception
+
+**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+
+Quatre passeurs contre un défenseur.
+
+**Matériel :** Un ballon par atelier ; plots pour délimiter
+
+**Durée atelier :** 5 min
+
+**Effectif :** 5–5 — par atelier
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Keep Ball · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Quatre passeurs contre un défenseur.
+
+**Déroulement :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
+
+**Consignes :** Pas d’interception ni de passe au-dessus de la tête.
+
+Détails extraits le 2026-09-08 — Keep Ball.
+
+**Espace source :** 5 × 5 m
+
 ## Coordonner deux ballons
 
 **manipulation · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
@@ -639,6 +679,12 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Sprinter, s’orienter, marquer et poursuivre pour toucher.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Travailler l’accélération et un aplatissement maîtrisé.
+
 ## Duels et soutien
 
 **coopération · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -656,6 +702,12 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositive 3 — Duels et soutien · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+**Objectifs :** Accélérer et feinter pour marquer ; soutenir le porteur.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Porter à deux mains ; faire converger le soutien vers le porteur.
 
 ## Épouvantails avec délivrance
 
@@ -716,6 +768,34 @@ Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur n
 Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
 
 **Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
+
+## File avec transmission au nouveau meneur
+
+**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+
+Cinq joueurs en file suivent le porteur.
+
+**Matériel :** Un ballon par atelier ; plots pour délimiter
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — par atelier
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Follow the Leader · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Cinq joueurs en file suivent le porteur.
+
+**Déroulement :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
+
+**Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
+
+Détails extraits le 2026-09-08 — Follow the Leader.
+
+**Espace source :** 5 × 5 m
 
 ## Gagne-terrain
 
@@ -1021,6 +1101,12 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Découvrir l’opposition corporelle et la lutte.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.
+
 ## Les portes à franchir
 
 **prise d’information · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
@@ -1250,6 +1336,12 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositive 3 — Panthères et chenilles · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+**Objectifs :** Maintenir une posture gainée pendant le déplacement.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Observer le maintien de la posture.
 
 ## Passe arrière avec jokers
 
@@ -1519,6 +1611,12 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Apprendre le plaquage puis la libération du ballon.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
+
 ## Premières passes en ligne
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -1566,6 +1664,12 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Protège-ballon · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+**Objectifs :** Progresser dans l’équilibre et la posture en opposition.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Rechercher une posture semi-fléchie et un ancrage stable.
 
 ## Quatre cibles, porteur immobile
 
@@ -1837,6 +1941,34 @@ Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
 **Accès :** PDF public consulté
 
+## Relais de soutien tous les cinq mètres
+
+**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+
+Cinq joueurs partent en file.
+
+**Matériel :** Un ballon par atelier ; plots pour délimiter
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — par atelier
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Cinq joueurs partent en file.
+
+**Déroulement :** Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.
+
+**Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
+
+Détails extraits le 2026-09-08 — Pass and Support.
+
+**Espace source :** 25 m de longueur
+
 ## Relais — courir, rouler, passer
 
 **motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -1854,6 +1986,12 @@ Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcour
 [Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositive 3 — Relais — courir, rouler, passer · consultée le 2026-09-07
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+
+**Objectifs :** Enchaîner course, passage au sol, relevé, passe et réception.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
 
 ## Rugby à quatre cibles
 

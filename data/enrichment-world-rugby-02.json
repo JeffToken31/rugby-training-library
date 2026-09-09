@@ -1,0 +1,142 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-keep-ball-detail-1",
+      "variant_id": "wr-keep-ball",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Keep Ball",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre passeurs contre un défenseur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Pas d’interception ni de passe au-dessus de la tête."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "5 × 5 m"
+        }
+      }
+    },
+    {
+      "id": "wr-follow-leader-detail-1",
+      "variant_id": "wr-follow-leader",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Follow the Leader",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs en file suivent le porteur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder de l’espace entre joueurs ; prendre le ballon sans ralentir."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "5 × 5 m"
+        }
+      }
+    },
+    {
+      "id": "wr-pass-support-detail-1",
+      "variant_id": "wr-pass-support",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-08",
+      "locator": "Pass and Support",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq joueurs partent en file."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Conserver des intervalles réguliers et réceptionner en mouvement."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "25 m de longueur"
+        }
+      }
+    }
+  ]
+}

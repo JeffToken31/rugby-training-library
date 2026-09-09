@@ -1,0 +1,56 @@
+{
+  "sources": [],
+  "exercises": [
+    {
+      "id": "wr-keep-ball",
+      "source_id": "wr-noncontact",
+      "title": "Conserver par dix passes sans interception",
+      "theme": "passe et soutien",
+      "summary": "Quatre passeurs contre un défenseur.",
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par atelier",
+      "duration_min": 5,
+      "space": "5 × 5 m",
+      "material": "Un ballon par atelier ; plots pour délimiter",
+      "locator": "Keep Ball",
+      "status": "documented",
+      "review": "Description documentaire ; adaptation U8 à valider par un coach."
+    },
+    {
+      "id": "wr-follow-leader",
+      "source_id": "wr-noncontact",
+      "title": "File avec transmission au nouveau meneur",
+      "theme": "passe et soutien",
+      "summary": "Cinq joueurs en file suivent le porteur.",
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par atelier",
+      "duration_min": 6,
+      "space": "5 × 5 m",
+      "material": "Un ballon par atelier ; plots pour délimiter",
+      "locator": "Follow the Leader",
+      "status": "documented",
+      "review": "Description documentaire ; adaptation U8 à valider par un coach."
+    },
+    {
+      "id": "wr-pass-support",
+      "source_id": "wr-noncontact",
+      "title": "Relais de soutien tous les cinq mètres",
+      "theme": "passe et soutien",
+      "summary": "Cinq joueurs partent en file.",
+      "age_source": "Initiation Get Into Rugby ; âge non précisé",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par atelier",
+      "duration_min": 6,
+      "space": "25 m de longueur",
+      "material": "Un ballon par atelier ; plots pour délimiter",
+      "locator": "Pass and Support",
+      "status": "documented",
+      "review": "Description documentaire ; adaptation U8 à valider par un coach."
+    }
+  ]
+}

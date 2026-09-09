@@ -13,7 +13,8 @@
     "data/world-rugby-01.json",
     "data/nz-games-01.json",
     "data/nz-games-02.json",
-    "data/nz-games-03.json"
+    "data/nz-games-03.json",
+    "data/world-rugby-02.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -31,7 +32,9 @@
     "data/enrichment-coaching-03.json",
     "data/enrichment-coaching-04.json",
     "data/enrichment-coaching-05.json",
-    "data/enrichment-parameters-01.json"
+    "data/enrichment-parameters-01.json",
+    "data/enrichment-ffr-incomplete-01.json",
+    "data/enrichment-world-rugby-02.json"
   ],
   "capture_resources": [
     "rc-piggy",

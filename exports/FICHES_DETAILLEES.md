@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-43 fiches.
+46 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -14,11 +14,13 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) — coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) — évitement ; World Rugby
 - [Chat et déplacements animaux](fiches/scot-animal.md) — motricité ; Scottish Rugby
+- [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) — passe et soutien ; World Rugby
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
 - [Deux contre un sans contact](fiches/rc-two-one.md) — passe ; RugbyCoaching.tv
 - [Épouvantails avec délivrance](fiches/wr-scarecrow.md) — évitement ; World Rugby
 - [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) — coopération ; RugbyCoaching.tv
+- [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) — passe et soutien ; World Rugby
 - [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) — prise d’information ; RugbyCoaching.tv
 - [La chasse aux rubans](fiches/rc-taggrab.md) — déplacement ; RugbyCoaching.tv
 - [Le joueur au milieu](fiches/rc-piggy.md) — passe ; RugbyCoaching.tv
@@ -41,6 +43,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Rebondir et échanger en binôme](fiches/rc-bounce.md) — manipulation ; RugbyCoaching.tv
 - [Recevoir à différentes hauteurs et passer](fiches/ffr-guide-recevoir-passer.md) — passe ; Fédération Française de Rugby
 - [Relais avec changements de portage](fiches/nz-handling-relay.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) — passe et soutien ; World Rugby
 - [Rugby à quatre cibles](fiches/rc-netball.md) — passe ; RugbyCoaching.tv
 - [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) — jeu au pied ; Fédération Française de Rugby
 - [Tag : défenseurs numérotés](fiches/rc-numbers-tag.md) — prise d’information ; RugbyCoaching.tv

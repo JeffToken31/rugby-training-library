@@ -23,6 +23,12 @@ Les paramètres non renseignés restent inconnus. Les adaptations sont des propo
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Éviter, ramasser puis marquer.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
+
 ## Répertoire des sources
 
 - [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.

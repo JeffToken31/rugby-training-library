@@ -23,6 +23,12 @@ Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcour
 
 **Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
 
+**Objectifs :** Enchaîner course, passage au sol, relevé, passe et réception.
+
+Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+
+**Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
+
 ## Répertoire des sources
 
 - [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositives et texte publics consultés ; PDF non téléchargé.
