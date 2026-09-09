@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-88 fiches — les propositions terrain restent à valider par le coach.
+91 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -103,6 +103,14 @@
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
 | [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) | Under 7 (classement du site) | Documentée ; à valider |
+
+## Opposition et soutien
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Deux contre un avec passes libres au départ](fiches/wr-tag-2v1.md) | Initiation ; âge non précisé par World Rugby | Documentée ; à valider |
+| [Trois contre deux avec passes en arrière](fiches/wr-tag-3v2.md) | Initiation ; âge non précisé par World Rugby | Documentée ; à valider |
+| [Trois contre un avec rotation du défenseur](fiches/wr-tag-3v1.md) | Initiation ; âge non précisé par World Rugby | Documentée ; à valider |
 
 ## Passe
 

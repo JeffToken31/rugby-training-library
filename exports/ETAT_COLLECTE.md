@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-88 fiches ; 79 documentées ; 9 incomplètes.
-67 fiches enrichies ; 59 ressources ; 51 ressources capturées localement.
+91 fiches ; 82 documentées ; 9 incomplètes.
+70 fiches enrichies ; 59 ressources ; 51 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 46 | 42 | 0 | 0 | 0 |
-| organisation | 57 | 31 | 0 | 0 | 0 |
-| steps | 58 | 30 | 0 | 0 | 0 |
-| instructions | 51 | 37 | 0 | 0 | 0 |
-| success_criteria | 13 | 75 | 0 | 0 | 0 |
-| common_errors | 7 | 81 | 0 | 0 | 0 |
-| coach_points | 36 | 52 | 0 | 0 | 0 |
-| duration_min | 11 | 67 | 10 | 0 | 0 |
-| players_min | 35 | 53 | 0 | 0 | 0 |
-| players_max | 36 | 52 | 0 | 0 | 0 |
-| space | 22 | 62 | 4 | 0 | 0 |
-| material | 72 | 16 | 0 | 0 | 0 |
+| objectives | 46 | 45 | 0 | 0 | 0 |
+| organisation | 60 | 31 | 0 | 0 | 0 |
+| steps | 61 | 30 | 0 | 0 | 0 |
+| instructions | 54 | 37 | 0 | 0 | 0 |
+| success_criteria | 13 | 78 | 0 | 0 | 0 |
+| common_errors | 7 | 84 | 0 | 0 | 0 |
+| coach_points | 36 | 55 | 0 | 0 | 0 |
+| duration_min | 14 | 67 | 10 | 0 | 0 |
+| players_min | 38 | 53 | 0 | 0 | 0 |
+| players_max | 39 | 52 | 0 | 0 | 0 |
+| space | 25 | 62 | 4 | 0 | 0 |
+| material | 75 | 16 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 

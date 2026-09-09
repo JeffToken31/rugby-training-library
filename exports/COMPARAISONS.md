@@ -137,6 +137,21 @@ Variantes distinctes proposées. Les postures servent au départ décalé avant 
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
 
+## Deux contre un sans contact / Deux contre un avec passes libres au départ
+
+Même famille proposée. Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.
+
+| Information | [Deux contre un sans contact](fiches/rc-two-one.md) | [Deux contre un avec passes libres au départ](fiches/wr-tag-2v1.md) |
+|---|---|---|
+| Principe | Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien reste derrière le porteur pour recevoir sans passe en avant. | Deux attaquants affrontent un défenseur ; groupe de cinq. |
+| Organisation | Deux attaquants face à un défenseur simulé. | Deux attaquants affrontent un défenseur ; groupe de cinq. |
+| Déroulement | Avancer et transmettre au soutien ; enchaîner les passages. | Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban. |
+| Consignes | Aucun contact ; le soutien garde de la profondeur. | Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point. |
+| Âge indiqué | U7 (classement du site) | Initiation ; âge non précisé par World Rugby |
+| Passage source | Description / Video Subtitles | 2 v 1 |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
 ## Épouvantails — chasseurs passeurs / Chasseurs passeurs par trois
 
 À examiner. Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.

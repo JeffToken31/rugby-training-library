@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-88 fiches · 59 sources
+91 fiches · 59 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -598,6 +598,36 @@ Parcourir cinq mètres à quatre pattes, dos horizontal.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8, atelier 3 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+## Deux contre un avec passes libres au départ
+
+**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+
+Deux attaquants affrontent un défenseur ; groupe de cinq.
+
+**Matériel :** Un ballon par groupe ; plots et rubans
+
+**Durée atelier :** 10 min
+
+**Effectif :** 5–5 — par atelier, attentes comprises
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 2 v 1 · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Deux attaquants affrontent un défenseur ; groupe de cinq.
+
+**Déroulement :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
+
+**Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
+
+Détails extraits le 2026-09-09 — 2 v 1.
+
+**Espace source :** 10 × 10 m
+
+**Famille proposée :** surnombre-rubans
 
 ## Deux contre un sans contact
 
@@ -2418,6 +2448,66 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 Détails extraits le 2026-09-09 — PDF page 19.
 
 **Manche source :** 90 secondes ; durée totale inconnue.
+
+## Trois contre deux avec passes en arrière
+
+**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+
+Trois attaquants contre deux défenseurs.
+
+**Matériel :** Un ballon par groupe ; plots et rubans
+
+**Durée atelier :** 12 min
+
+**Effectif :** 5–5 — par atelier, attentes comprises
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 3 v 2 · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Trois attaquants contre deux défenseurs.
+
+**Déroulement :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
+
+**Consignes :** Passer en arrière ; défense par prise de ruban.
+
+Détails extraits le 2026-09-09 — 3 v 2.
+
+**Espace source :** 10 × 10 m
+
+**Famille proposée :** surnombre-rubans
+
+## Trois contre un avec rotation du défenseur
+
+**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+
+Trois attaquants, un défenseur et un joueur en attente.
+
+**Matériel :** Un ballon par groupe ; plots et rubans
+
+**Durée atelier :** 10 min
+
+**Effectif :** 5–5 — par atelier, attentes comprises
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 3 v 1 · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Trois attaquants, un défenseur et un joueur en attente.
+
+**Déroulement :** Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.
+
+**Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
+
+Détails extraits le 2026-09-09 — 3 v 1.
+
+**Espace source :** 10 × 10 m
+
+**Famille proposée :** surnombre-rubans
 
 ## Trois joueurs alignés
 

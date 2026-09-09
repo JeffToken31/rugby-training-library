@@ -1,0 +1,13 @@
+{
+  "duplicate_candidates": [
+    {
+      "id": "rc-two-one--wr-tag-2v1",
+      "left_id": "rc-two-one",
+      "right_id": "wr-tag-2v1",
+      "score": 0.65,
+      "relation": "SAME_FAMILY",
+      "method_version": "editorial-5",
+      "explanation": "Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique."
+    }
+  ]
+}

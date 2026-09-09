@@ -1,0 +1,68 @@
+{
+  "families": [
+    {
+      "id": "surnombre-rubans",
+      "title": "Franchissement en surnombre avec rubans",
+      "description": "Famille proposée par IA : franchir une défense moins nombreuse et marquer."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "wr-tag-2v1",
+      "family_id": "surnombre-rubans",
+      "source_id": "wr-noncontact",
+      "title": "Deux contre un avec passes libres au départ",
+      "theme": "opposition et soutien",
+      "summary": "Deux attaquants affrontent un défenseur ; groupe de cinq.",
+      "age_source": "Initiation ; âge non précisé par World Rugby",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par atelier, attentes comprises",
+      "duration_min": 10,
+      "space": "10 × 10 m",
+      "material": "Un ballon par groupe ; plots et rubans",
+      "contact": "sans plaquage ; prise de ruban",
+      "locator": "2 v 1",
+      "status": "documented",
+      "review": "Situation documentaire ; adaptation U8 à valider."
+    },
+    {
+      "id": "wr-tag-3v1",
+      "family_id": "surnombre-rubans",
+      "source_id": "wr-noncontact",
+      "title": "Trois contre un avec rotation du défenseur",
+      "theme": "opposition et soutien",
+      "summary": "Trois attaquants, un défenseur et un joueur en attente.",
+      "age_source": "Initiation ; âge non précisé par World Rugby",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par atelier, attentes comprises",
+      "duration_min": 10,
+      "space": "10 × 10 m",
+      "material": "Un ballon par groupe ; plots et rubans",
+      "contact": "sans plaquage ; prise de ruban",
+      "locator": "3 v 1",
+      "status": "documented",
+      "review": "Situation documentaire ; adaptation U8 à valider."
+    },
+    {
+      "id": "wr-tag-3v2",
+      "family_id": "surnombre-rubans",
+      "source_id": "wr-noncontact",
+      "title": "Trois contre deux avec passes en arrière",
+      "theme": "opposition et soutien",
+      "summary": "Trois attaquants contre deux défenseurs.",
+      "age_source": "Initiation ; âge non précisé par World Rugby",
+      "players_min": 5,
+      "players_max": 5,
+      "participants_scope": "par atelier, attentes comprises",
+      "duration_min": 12,
+      "space": "10 × 10 m",
+      "material": "Un ballon par groupe ; plots et rubans",
+      "contact": "sans plaquage ; prise de ruban",
+      "locator": "3 v 2",
+      "status": "documented",
+      "review": "Situation documentaire ; adaptation U8 à valider."
+    }
+  ]
+}

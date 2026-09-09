@@ -3510,6 +3510,175 @@
       "references": []
     },
     {
+      "age_source": "Initiation ; âge non précisé par World Rugby",
+      "contact": "sans plaquage ; prise de ruban",
+      "duration_min": 10,
+      "family_id": "surnombre-rubans",
+      "id": "wr-tag-2v1",
+      "locator": "2 v 1",
+      "material": "Un ballon par groupe ; plots et rubans",
+      "participants_scope": "par atelier, attentes comprises",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Situation documentaire ; adaptation U8 à valider.",
+      "source_id": "wr-noncontact",
+      "space": "10 × 10 m",
+      "status": "documented",
+      "summary": "Deux attaquants affrontent un défenseur ; groupe de cinq.",
+      "theme": "opposition et soutien",
+      "title": "Deux contre un avec passes libres au départ",
+      "instructions": "Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.",
+      "organisation": "Deux attaquants affrontent un défenseur ; groupe de cinq.",
+      "steps": "Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux attaquants affrontent un défenseur ; groupe de cinq.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "10 × 10 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "2 v 1",
+            "revision_id": "wr-tag-2v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "2 v 1",
+        "revision_id": "wr-tag-2v1-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-tag-2v1-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation_u8": "Défenseur d’abord immobile, puis marchant. Alterner les trois rôles et chercher une passe courte.",
       "age_source": "U7 (classement du site)",
       "contact": "sans plaquage",
@@ -11916,6 +12085,344 @@
         "resource_type": "TECHNICAL_DOCUMENT",
         "title": "Primary School Teacher Resource Pack",
         "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation ; âge non précisé par World Rugby",
+      "contact": "sans plaquage ; prise de ruban",
+      "duration_min": 12,
+      "family_id": "surnombre-rubans",
+      "id": "wr-tag-3v2",
+      "locator": "3 v 2",
+      "material": "Un ballon par groupe ; plots et rubans",
+      "participants_scope": "par atelier, attentes comprises",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Situation documentaire ; adaptation U8 à valider.",
+      "source_id": "wr-noncontact",
+      "space": "10 × 10 m",
+      "status": "documented",
+      "summary": "Trois attaquants contre deux défenseurs.",
+      "theme": "opposition et soutien",
+      "title": "Trois contre deux avec passes en arrière",
+      "instructions": "Passer en arrière ; défense par prise de ruban.",
+      "organisation": "Trois attaquants contre deux défenseurs.",
+      "steps": "Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois attaquants contre deux défenseurs.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer en arrière ; défense par prise de ruban.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 12,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "10 × 10 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 2",
+            "revision_id": "wr-tag-3v2-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "3 v 2",
+        "revision_id": "wr-tag-3v2-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-tag-3v2-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation ; âge non précisé par World Rugby",
+      "contact": "sans plaquage ; prise de ruban",
+      "duration_min": 10,
+      "family_id": "surnombre-rubans",
+      "id": "wr-tag-3v1",
+      "locator": "3 v 1",
+      "material": "Un ballon par groupe ; plots et rubans",
+      "participants_scope": "par atelier, attentes comprises",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Situation documentaire ; adaptation U8 à valider.",
+      "source_id": "wr-noncontact",
+      "space": "10 × 10 m",
+      "status": "documented",
+      "summary": "Trois attaquants, un défenseur et un joueur en attente.",
+      "theme": "opposition et soutien",
+      "title": "Trois contre un avec rotation du défenseur",
+      "instructions": "Passes libres au départ ; un point pour l’essai ou la prise de ruban.",
+      "organisation": "Trois attaquants, un défenseur et un joueur en attente.",
+      "steps": "Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois attaquants, un défenseur et un joueur en attente.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passes libres au départ ; un point pour l’essai ou la prise de ruban.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "10 × 10 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "3 v 1",
+            "revision_id": "wr-tag-3v1-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "3 v 1",
+        "revision_id": "wr-tag-3v1-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-tag-3v1-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
       },
       "model_status": "REVIEWED",
       "references": []

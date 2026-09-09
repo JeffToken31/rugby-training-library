@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-57 fiches.
+60 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -18,6 +18,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) — passe et soutien ; World Rugby
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
+- [Deux contre un avec passes libres au départ](fiches/wr-tag-2v1.md) — opposition et soutien ; World Rugby
 - [Deux contre un sans contact](fiches/rc-two-one.md) — passe ; RugbyCoaching.tv
 - [Dix passes - variante communautaire documentee](fiches/rc-ten.md) — passe ; RugbyCoaching.tv
 - [Épouvantails avec délivrance](fiches/wr-scarecrow.md) — évitement ; World Rugby
@@ -59,5 +60,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Toucher avec rappel des défenseurs par couleur](fiches/rc-colour-touch.md) — prise d’information ; RugbyCoaching.tv
 - [Traverser face aux chasseurs](fiches/rc-bulldog.md) — déplacement ; RugbyCoaching.tv
 - [Traverser les zones gardées](fiches/scot-zones.md) — évitement ; Scottish Rugby
+- [Trois contre deux avec passes en arrière](fiches/wr-tag-3v2.md) — opposition et soutien ; World Rugby
+- [Trois contre un avec rotation du défenseur](fiches/wr-tag-3v1.md) — opposition et soutien ; World Rugby
 - [Trois joueurs alignés](fiches/scot-alignement.md) — prise d’information ; Scottish Rugby
 - [Vagues de passes avec relais sur l’autre rive](fiches/wr-passing-relays.md) — passe et soutien ; World Rugby
