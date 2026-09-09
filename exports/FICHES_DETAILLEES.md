@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-60 fiches.
+63 fiches.
 
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
@@ -11,6 +11,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Cercle de passes avec demi-tours sautés](fiches/rc-circle-jump.md) — coordination ; RugbyCoaching.tv
 - [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) — coopération ; RugbyCoaching.tv
 - [Changer de ligne d’essai](fiches/rc-multidirection.md) — prise d’information ; RugbyCoaching.tv
+- [Chasse aux trésors — parcours](fiches/ffr-tresors2023.md) — motricité ; FFR — Direction Technique Nationale
 - [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) — coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) — évitement ; World Rugby
 - [Chasseurs passeurs par trois](fiches/scot-corner.md) — passe ; Scottish Rugby
@@ -54,6 +55,8 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) — passe et soutien ; World Rugby
 - [Rugby à quatre cibles](fiches/rc-netball.md) — passe ; RugbyCoaching.tv
 - [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) — jeu au pied ; Fédération Française de Rugby
+- [Speedy — un ballon chacun](fiches/ffr-speedy-individuel.md) — réactivité ; FFR — Direction Technique Nationale
+- [Speedy — un ballon pour deux](fiches/ffr-speedy-partage.md) — réactivité ; FFR — Direction Technique Nationale
 - [Tag : défenseurs numérotés](fiches/rc-numbers-tag.md) — prise d’information ; RugbyCoaching.tv
 - [Tag mania et délivrance](fiches/rc-tagmania.md) — déplacement ; RugbyCoaching.tv
 - [Tennis à la main](fiches/scot-tennis.md) — coordination ; Scottish Rugby

@@ -23,6 +23,18 @@ Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suiva
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Comprendre et réaliser l’avancée.
+
+**Organisation :** Deux équipes de six, parcours et réserve centrale.
+
+**Déroulement :** Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.
+
+**Consignes :** Ballon tombé : trésor perdu ; réaliser correctement le parcours.
+
+**Critères de réussite :** Compter les trésors rapportés dans la cachette.
+
+Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisation et lancement.
+
 **Information source contradictoire :** Matériel : 5 ; récit : 6.
 
 ## Répertoire des sources

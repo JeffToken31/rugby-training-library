@@ -23,6 +23,16 @@ Même départ visuel ; les deux adversaires se disputent désormais un seul ball
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Améliorer la vitesse de réaction.
+
+**Organisation :** Même disposition, avec un ballon pour deux joueurs.
+
+**Déroulement :** Au signal visuel, disputer le ballon puis rejoindre son refuge.
+
+**Consignes :** Le joueur sans ballon peut poursuivre son adversaire.
+
+Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
+
 **Famille proposée :** reaction-course
 
 ## Répertoire des sources

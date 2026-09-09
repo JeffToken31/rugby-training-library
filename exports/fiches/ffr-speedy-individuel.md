@@ -23,6 +23,16 @@ Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejo
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Améliorer la vitesse de réaction.
+
+**Organisation :** Trois binômes de niveau proche dans trois couloirs.
+
+**Déroulement :** Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.
+
+**Consignes :** Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.
+
+Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
+
 **Espace source :** Couloirs 20 × 3 m
 
 **Famille proposée :** reaction-course

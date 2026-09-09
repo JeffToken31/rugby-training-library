@@ -1885,21 +1885,71 @@
       "summary": "Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suivant part après l’essai ou la chute du ballon.",
       "theme": "motricité",
       "title": "Chasse aux trésors — parcours",
+      "instructions": "Ballon tombé : trésor perdu ; réaliser correctement le parcours.",
+      "organisation": "Deux équipes de six, parcours et réserve centrale.",
+      "steps": "Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.",
+      "objectives": "Comprendre et réaliser l’avancée.",
+      "success_criteria": "Compter les trésors rapportés dans la cachette.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Comprendre et réaliser l’avancée.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-tresors2023-detail-2"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes de six, parcours et réserve centrale.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-tresors2023-detail-1"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-tresors2023-detail-1"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ballon tombé : trésor perdu ; réaliser correctement le parcours.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-tresors2023-detail-1"
+          }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Compter les trésors rapportés dans la cachette.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-tresors2023-detail-2"
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -1926,6 +1976,27 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2023",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+        "revision_id": "ffr-tresors2023-detail-2"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-tresors2023-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        },
+        {
+          "id": "ffr-tresors2023-detail-2",
+          "supersedes": "ffr-tresors2023-detail-1",
+          "checked_on": "2026-09-09",
+          "reason": "Objectif et critère complétés depuis la même page."
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -11040,18 +11111,58 @@
       "summary": "Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejoindre son refuge. Trois couloirs pour six enfants.",
       "theme": "réactivité",
       "title": "Speedy — un ballon chacun",
+      "instructions": "Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.",
+      "organisation": "Trois binômes de niveau proche dans trois couloirs.",
+      "steps": "Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.",
+      "objectives": "Améliorer la vitesse de réaction.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Améliorer la vitesse de réaction.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-individuel-detail-2"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois binômes de niveau proche dans trois couloirs.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-individuel-detail-1"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-individuel-detail-1"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-individuel-detail-1"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -11082,6 +11193,27 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2023",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+        "revision_id": "ffr-speedy-individuel-detail-2"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-speedy-individuel-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        },
+        {
+          "id": "ffr-speedy-individuel-detail-2",
+          "supersedes": "ffr-speedy-individuel-detail-1",
+          "checked_on": "2026-09-09",
+          "reason": "Objectif et critère complétés depuis la même page."
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",
@@ -11118,18 +11250,58 @@
       "summary": "Même départ visuel ; les deux adversaires se disputent désormais un seul ballon.",
       "theme": "réactivité",
       "title": "Speedy — un ballon pour deux",
+      "instructions": "Le joueur sans ballon peut poursuivre son adversaire.",
+      "organisation": "Même disposition, avec un ballon pour deux joueurs.",
+      "steps": "Au signal visuel, disputer le ballon puis rejoindre son refuge.",
+      "objectives": "Améliorer la vitesse de réaction.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Améliorer la vitesse de réaction.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-partage-detail-2"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Même disposition, avec un ballon pour deux joueurs.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-partage-detail-1"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal visuel, disputer le ballon puis rejoindre son refuge.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-partage-detail-1"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le joueur sans ballon peut poursuivre son adversaire.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+            "revision_id": "ffr-speedy-partage-detail-1"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -11159,6 +11331,27 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2023",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+        "revision_id": "ffr-speedy-partage-detail-2"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-speedy-partage-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        },
+        {
+          "id": "ffr-speedy-partage-detail-2",
+          "supersedes": "ffr-speedy-partage-detail-1",
+          "checked_on": "2026-09-09",
+          "reason": "Objectif et critère complétés depuis la même page."
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-07",

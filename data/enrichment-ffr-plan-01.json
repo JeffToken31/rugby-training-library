@@ -1,0 +1,135 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-speedy-individuel-detail-1",
+      "variant_id": "ffr-speedy-individuel",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois binômes de niveau proche dans trois couloirs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au bon signal visuel, ramasser son ballon et gagner le refuge opposé."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre."
+        }
+      }
+    },
+    {
+      "id": "ffr-speedy-partage-detail-1",
+      "variant_id": "ffr-speedy-partage",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Même disposition, avec un ballon pour deux joueurs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal visuel, disputer le ballon puis rejoindre son refuge."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le joueur sans ballon peut poursuivre son adversaire."
+        }
+      }
+    },
+    {
+      "id": "ffr-tresors2023-detail-1",
+      "variant_id": "ffr-tresors2023",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de six, parcours et réserve centrale."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon tombé : trésor perdu ; réaliser correctement le parcours."
+        }
+      }
+    },
+    {
+      "id": "ffr-speedy-individuel-detail-2",
+      "variant_id": "ffr-speedy-individuel",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+      "supersedes": "ffr-speedy-individuel-detail-1",
+      "revision_reason": "Objectif et critère complétés depuis la même page.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Améliorer la vitesse de réaction."
+        }
+      }
+    },
+    {
+      "id": "ffr-speedy-partage-detail-2",
+      "variant_id": "ffr-speedy-partage",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 69 (pagination fichier), organisation et lancement",
+      "supersedes": "ffr-speedy-partage-detail-1",
+      "revision_reason": "Objectif et critère complétés depuis la même page.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Améliorer la vitesse de réaction."
+        }
+      }
+    },
+    {
+      "id": "ffr-tresors2023-detail-2",
+      "variant_id": "ffr-tresors2023",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 70 (pagination fichier), organisation et lancement",
+      "supersedes": "ffr-tresors2023-detail-1",
+      "revision_reason": "Objectif et critère complétés depuis la même page.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Comprendre et réaliser l’avancée."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Compter les trésors rapportés dans la cachette."
+        }
+      }
+    }
+  ]
+}

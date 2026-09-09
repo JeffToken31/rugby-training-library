@@ -46,7 +46,8 @@
     "data/enrichment-instructions-01.json",
     "data/enrichment-community-01.json",
     "data/enrichment-world-rugby-03.json",
-    "data/enrichment-world-rugby-04.json"
+    "data/enrichment-world-rugby-04.json",
+    "data/enrichment-ffr-plan-01.json"
   ],
   "capture_resources": [
     "rc-piggy",

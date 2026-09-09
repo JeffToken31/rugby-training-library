@@ -269,6 +269,18 @@ Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suiva
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Comprendre et réaliser l’avancée.
+
+**Organisation :** Deux équipes de six, parcours et réserve centrale.
+
+**Déroulement :** Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.
+
+**Consignes :** Ballon tombé : trésor perdu ; réaliser correctement le parcours.
+
+**Critères de réussite :** Compter les trésors rapportés dans la cachette.
+
+Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisation et lancement.
+
 **Information source contradictoire :** Matériel : 5 ; récit : 6.
 
 ## Chasse collective avec retour après ballon tombé
@@ -2235,6 +2247,16 @@ Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejo
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Améliorer la vitesse de réaction.
+
+**Organisation :** Trois binômes de niveau proche dans trois couloirs.
+
+**Déroulement :** Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.
+
+**Consignes :** Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.
+
+Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
+
 **Espace source :** Couloirs 20 × 3 m
 
 **Famille proposée :** reaction-course
@@ -2256,6 +2278,16 @@ Même départ visuel ; les deux adversaires se disputent désormais un seul ball
 [Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 69 — évolution 2 · consultée le 2026-09-07
 
 **Accès :** PDF public consulté
+
+**Objectifs :** Améliorer la vitesse de réaction.
+
+**Organisation :** Même disposition, avec un ballon pour deux joueurs.
+
+**Déroulement :** Au signal visuel, disputer le ballon puis rejoindre son refuge.
+
+**Consignes :** Le joueur sans ballon peut poursuivre son adversaire.
+
+Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
 
 **Famille proposée :** reaction-course
 
