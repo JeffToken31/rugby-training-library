@@ -23,6 +23,12 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 
 **Accès :** PDF public consulté
 
+**Organisation :** Deux équipes de trois, neuf plots en carré.
+
+**Déroulement :** Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.
+
+Détails extraits le 2026-09-09 — PDF page 14 (pagination fichier), TASK et SETUP.
+
 ## Répertoire des sources
 
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.

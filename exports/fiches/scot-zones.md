@@ -23,6 +23,12 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 
 **Accès :** PDF public consulté
 
+**Organisation :** Au moins quatre carrés gardés par des défenseurs.
+
+**Déroulement :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
+
+Détails extraits le 2026-09-09 — PDF page 19 (pagination fichier), TASK et SETUP.
+
 **Manche source :** 90 secondes ; durée totale inconnue.
 
 ## Répertoire des sources

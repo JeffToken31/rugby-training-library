@@ -23,6 +23,12 @@ Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
 **Accès :** PDF public consulté
 
+**Organisation :** Files courtes ; deux plots délimitent la marque.
+
+**Déroulement :** Courir marquer entre les plots, revenir et transmettre.
+
+Détails extraits le 2026-09-09 — PDF page 12 (pagination fichier), TASK et SETUP.
+
 ## Répertoire des sources
 
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.

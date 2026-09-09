@@ -24,8 +24,8 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Information | [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
 |---|---|---|
 | Principe | Deux équipes dans le carré ; le porteur reste immobile. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
-| Organisation | Deux équipes dans le carré ; le porteur reste immobile. | Non renseigné |
-| Déroulement | Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants. | Non renseigné |
+| Organisation | Deux équipes dans le carré ; le porteur reste immobile. | Chasseurs par trois, un ballon par trio. |
+| Déroulement | Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants. | Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes. |
 | Consignes | Non renseigné | Non renseigné |
 | Âge indiqué | Under 7 (classement Rugby Toolbox) | Primaire (Écosse) |
 | Passage source | DRILL EXPLANATION et DRILL SET-UP | PDF page 20 |
@@ -69,8 +69,8 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Information | [Capturer les extraterrestres par la passe](fiches/rc-capture-aliens.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
 |---|---|---|
 | Principe | Coopérer pour toucher les fuyards au ballon. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
-| Organisation | Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards. | Non renseigné |
-| Déroulement | Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs. | Non renseigné |
+| Organisation | Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards. | Chasseurs par trois, un ballon par trio. |
+| Déroulement | Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs. | Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes. |
 | Consignes | Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs. | Non renseigné |
 | Âge indiqué | U7 (classement du site) ; adéquation U8 à valider | Primaire (Écosse) |
 | Passage source | Description et Video Subtitles de la fiche ; recommandations exclues | PDF page 20 |
@@ -114,8 +114,8 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Information | [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
 |---|---|---|
 | Principe | Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
-| Organisation | Plusieurs chasseurs coopèrent avec un ballon. | Non renseigné |
-| Déroulement | Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs. | Non renseigné |
+| Organisation | Plusieurs chasseurs coopèrent avec un ballon. | Chasseurs par trois, un ballon par trio. |
+| Déroulement | Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs. | Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes. |
 | Consignes | Le porteur ne court pas. | Non renseigné |
 | Âge indiqué | U7 (classement du site) ; adéquation U8 à valider | Primaire (Écosse) |
 | Passage source | Description / Video Subtitles | PDF page 20 |
@@ -129,8 +129,8 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Information | [Chasseurs qui se passent le ballon](fiches/munster-hunters.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
 |---|---|---|
 | Principe | Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
-| Organisation | Non renseigné | Non renseigné |
-| Déroulement | Non renseigné | Non renseigné |
+| Organisation | Non renseigné | Chasseurs par trois, un ballon par trio. |
+| Déroulement | Non renseigné | Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes. |
 | Consignes | Non renseigné | Non renseigné |
 | Âge indiqué | Primaire / mini-rugby | Primaire (Écosse) |
 | Passage source | PDF page 11 | PDF page 20 |

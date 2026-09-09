@@ -37,7 +37,8 @@
     "data/enrichment-parameters-01.json",
     "data/enrichment-ffr-incomplete-01.json",
     "data/enrichment-world-rugby-02.json",
-    "data/enrichment-nz-04.json"
+    "data/enrichment-nz-04.json",
+    "data/enrichment-scotland-03.json"
   ],
   "capture_resources": [
     "rc-piggy",

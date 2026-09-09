@@ -1,0 +1,130 @@
+{
+  "enrichments": [
+    {
+      "id": "scot-relais-organisation-20260909",
+      "variant_id": "scot-relais",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 12 (pagination fichier), TASK et SETUP",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Files courtes ; deux plots délimitent la marque."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir marquer entre les plots, revenir et transmettre."
+        }
+      }
+    },
+    {
+      "id": "scot-tennis-organisation-20260909",
+      "variant_id": "scot-tennis",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 13 (pagination fichier), TASK et SETUP",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes avec une chasuble tendue comme filet."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avec la main libre, attraper puis déposer le ballon de l’autre côté."
+        }
+      }
+    },
+    {
+      "id": "scot-alignement-organisation-20260909",
+      "variant_id": "scot-alignement",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 14 (pagination fichier), TASK et SETUP",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de trois, neuf plots en carré."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer."
+        }
+      }
+    },
+    {
+      "id": "scot-chaine-organisation-20260909",
+      "variant_id": "scot-chaine",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 18 (pagination fichier), TASK et SETUP",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chasseurs par deux, mains liées ; aire d’évitement."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes."
+        }
+      }
+    },
+    {
+      "id": "scot-zones-organisation-20260909",
+      "variant_id": "scot-zones",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 19 (pagination fichier), TASK et SETUP",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au moins quatre carrés gardés par des défenseurs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes."
+        }
+      }
+    },
+    {
+      "id": "scot-corner-organisation-20260909",
+      "variant_id": "scot-corner",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 20 (pagination fichier), TASK et SETUP",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chasseurs par trois, un ballon par trio."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes."
+        }
+      }
+    }
+  ]
+}

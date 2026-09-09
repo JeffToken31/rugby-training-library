@@ -23,6 +23,12 @@ Les paramètres non renseignés restent inconnus. Les adaptations sont des propo
 
 **Accès :** PDF public consulté
 
+**Organisation :** Binômes avec une chasuble tendue comme filet.
+
+**Déroulement :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
+
+Détails extraits le 2026-09-09 — PDF page 13 (pagination fichier), TASK et SETUP.
+
 ## Répertoire des sources
 
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.

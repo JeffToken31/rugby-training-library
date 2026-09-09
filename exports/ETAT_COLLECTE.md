@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
 85 fiches ; 76 documentées ; 9 incomplètes.
-58 fiches enrichies ; 59 ressources ; 51 ressources capturées localement.
+64 fiches enrichies ; 59 ressources ; 51 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -11,8 +11,8 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
 | objectives | 46 | 39 | 0 | 0 | 0 |
-| organisation | 47 | 38 | 0 | 0 | 0 |
-| steps | 48 | 37 | 0 | 0 | 0 |
+| organisation | 53 | 32 | 0 | 0 | 0 |
+| steps | 54 | 31 | 0 | 0 | 0 |
 | instructions | 39 | 46 | 0 | 0 | 0 |
 | success_criteria | 12 | 73 | 0 | 0 | 0 |
 | common_errors | 7 | 78 | 0 | 0 | 0 |

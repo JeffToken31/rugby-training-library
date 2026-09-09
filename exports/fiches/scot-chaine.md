@@ -23,6 +23,12 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 
 **Accès :** PDF public consulté
 
+**Organisation :** Chasseurs par deux, mains liées ; aire d’évitement.
+
+**Déroulement :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
+
+Détails extraits le 2026-09-09 — PDF page 18 (pagination fichier), TASK et SETUP.
+
 **Manche source :** 60 secondes ; durée totale inconnue.
 
 ## Répertoire des sources

@@ -349,6 +349,12 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 
 **Accès :** PDF public consulté
 
+**Organisation :** Chasseurs par trois, un ballon par trio.
+
+**Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
+
+Détails extraits le 2026-09-09 — PDF page 20 (pagination fichier), TASK et SETUP.
+
 **Manche source :** 60 secondes ; durée totale inconnue.
 
 ## Chasseurs qui se passent le ballon
@@ -894,6 +900,12 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 [Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 18 · consultée le 2026-09-07
 
 **Accès :** PDF public consulté
+
+**Organisation :** Chasseurs par deux, mains liées ; aire d’évitement.
+
+**Déroulement :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
+
+Détails extraits le 2026-09-09 — PDF page 18 (pagination fichier), TASK et SETUP.
 
 **Manche source :** 60 secondes ; durée totale inconnue.
 
@@ -1971,6 +1983,12 @@ Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
 **Accès :** PDF public consulté
 
+**Organisation :** Files courtes ; deux plots délimitent la marque.
+
+**Déroulement :** Courir marquer entre les plots, revenir et transmettre.
+
+Détails extraits le 2026-09-09 — PDF page 12 (pagination fichier), TASK et SETUP.
+
 ## Relais de soutien tous les cinq mètres
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
@@ -2209,6 +2227,12 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 
 **Accès :** PDF public consulté
 
+**Organisation :** Binômes avec une chasuble tendue comme filet.
+
+**Déroulement :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
+
+Détails extraits le 2026-09-09 — PDF page 13 (pagination fichier), TASK et SETUP.
+
 ## Toucher avec rappel des défenseurs par couleur
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -2307,6 +2331,12 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 
 **Accès :** PDF public consulté
 
+**Organisation :** Au moins quatre carrés gardés par des défenseurs.
+
+**Déroulement :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
+
+Détails extraits le 2026-09-09 — PDF page 19 (pagination fichier), TASK et SETUP.
+
 **Manche source :** 90 secondes ; durée totale inconnue.
 
 ## Trois joueurs alignés
@@ -2326,6 +2356,12 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 [Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 14 · consultée le 2026-09-07
 
 **Accès :** PDF public consulté
+
+**Organisation :** Deux équipes de trois, neuf plots en carré.
+
+**Déroulement :** Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.
+
+Détails extraits le 2026-09-09 — PDF page 14 (pagination fichier), TASK et SETUP.
 
 ## Répertoire des sources
 

@@ -23,6 +23,12 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 
 **Accès :** PDF public consulté
 
+**Organisation :** Chasseurs par trois, un ballon par trio.
+
+**Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
+
+Détails extraits le 2026-09-09 — PDF page 20 (pagination fichier), TASK et SETUP.
+
 **Manche source :** 60 secondes ; durée totale inconnue.
 
 ## Répertoire des sources
