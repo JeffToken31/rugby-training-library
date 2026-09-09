@@ -939,9 +939,20 @@
     {
       "left_id": "wr-scarecrow",
       "right_id": "munster-mud",
-      "relation": "POSSIBLE_SAME_VARIANT",
-      "reason": "Toucher, immobilisation et délivrance sous un bras communs. Vérifier le toucher au ballon et les effectifs dans Munster avant de conclure.",
-      "origin": "AI_INFERRED"
+      "relation": "SAME_CORE_GAME_PARAMETER_VARIATION",
+      "reason": "Même mécanisme de toucher, immobilisation et délivrance sous un bras. Munster prévoit deux chasseurs, 20 × 20 m et fin au plus tard après cinq minutes ; World Rugby un chasseur par groupe de cinq et changement après une minute. Versions paramétrées du même jeu ; équivalence exacte non affirmée.",
+      "origin": "AI_INFERRED",
+      "evidence": [
+        {
+          "source_id": "munster-fms",
+          "locator": "PDF page 6, HOW TO PLAY",
+          "checked_on": "2026-09-09"
+        },
+        {
+          "source_id": "wr-noncontact",
+          "locator": "Scarecrow Tag, archive locale"
+        }
+      ]
     },
     {
       "left_id": "scot-corner",
@@ -1037,6 +1048,18 @@
       ],
       "finding": "Déroulement affiché issu de Sportplan ; objectif initial issu de RugbyCoaching. Deux provenances à conserver séparément dans l’analyse.",
       "decision": "SOURCE_SCOPE_REVIEW"
+    }
+  ],
+  "canonical_game_groups": [
+    {
+      "id": "game-freeze-arm-release",
+      "members": [
+        "wr-scarecrow",
+        "munster-mud"
+      ],
+      "origin": "AI_INFERRED",
+      "status": "SAME_CORE_GAME",
+      "note": "Groupe documentaire, sans suppression de variantes ni de sources."
     }
   ]
 }

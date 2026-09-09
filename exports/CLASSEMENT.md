@@ -7,7 +7,7 @@
 - 80 fiches candidates à une variante, sans garantie d’unicité complète.
 - 9 descriptions insuffisantes : impossible de comparer les règles entièrement.
 - 2 fiches composites ou à périmètre de source ambigu.
-- 3 paires possiblement équivalentes, 1 chevauchement de ressource possible, 2 autres cas incertains/composites.
+- 2 paires possiblement équivalentes, 1 jeu de base commun identifié, 1 chevauchement de ressource possible, 2 autres cas incertains/composites.
 - 5 différences de règles explicitement documentées dans cet audit.
 - 0 fusion, suppression ou doublon certain prononcé.
 
@@ -220,7 +220,7 @@ Le nombre exact de variantes uniques reste indéterminé : ne pas soustraire mé
 
 | Fiche A | Fiche B | Conclusion documentaire | Motif |
 |---|---|---|---|
-| Épouvantails avec délivrance | La boue et la délivrance | POSSIBLE_SAME_VARIANT | Toucher, immobilisation et délivrance sous un bras communs. Vérifier le toucher au ballon et les effectifs dans Munster avant de conclure. |
+| Épouvantails avec délivrance | La boue et la délivrance | SAME_CORE_GAME_PARAMETER_VARIATION | Même jeu de base confirmé ; nombre de chasseurs, espace et rotation différents. |
 | Chasseurs passeurs par trois | Épouvantails — chasseurs passeurs | POSSIBLE_SAME_VARIANT | Chasse par passes, porteur immobile. Le sort du joueur touché et la rotation des chasseurs restent à comparer. |
 | Recevoir en trottinant | Transmettre en trottinant | POSSIBLE_SAME_VARIANT | Deux intitulés possiblement centrés sur les deux rôles du même échange au trot. Organisation complète à vérifier. |
 | Coordonner deux ballons | Passes en triangle et changement de posture | POSSIBLE_OVERLAPPING_OCCURRENCE | La ressource du triangle contient aussi des progressions à plusieurs ballons ; la fiche actuelle porte sur passe et posture. Comparer le passage exact avant de créer une autre variante. |
@@ -246,3 +246,7 @@ Le nombre exact de variantes uniques reste indéterminé : ne pas soustraire mé
 - **Dix passes** : les consignes communautaires Sportplan ne prouvent pas le déroulement de la vidéo RugbyCoaching. Maintenir les provenances distinctes.
 
 Le classement couvre tout le corpus ; les équivalences incertaines ne sont ni fusionnées ni présentées comme résolues.
+
+## Relecture Munster / World Rugby
+
+Le jeu de délivrance sous un bras est commun aux deux sources. Conserver deux versions paramétrées dans un groupe documentaire unique ; ne pas annoncer deux concepts indépendants. Le décompte exact global reste ouvert. La page FFR concernant les passes au trot n’a pas fourni de texte exploitable pour trancher : une lecture visuelle reste nécessaire.
