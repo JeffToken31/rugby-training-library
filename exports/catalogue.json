@@ -961,6 +961,7 @@
       "organisation": "Deux partenaires échangent ; un seul voit le coach.",
       "steps": "Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.",
       "objectives": "Développer la communication et la réaction au signal.",
+      "instructions": "Rester proches et communiquer pour suivre le signal.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -1005,7 +1006,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester proches et communiquer pour suivre le signal.",
+          "provenance": {
+            "source_id": "nz-follow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION et DRILL SET-UP",
+            "revision_id": "nz-follow-instructions-20260909",
+            "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1050,9 +1062,9 @@
       "enrichment_provenance": {
         "source_id": "nz-follow-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "OBJECTIVE et COACHING POINTS",
-        "revision_id": "nz-follow-coaching-20260908",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION et DRILL SET-UP",
+        "revision_id": "nz-follow-instructions-20260909",
         "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
         "capture_verified_locally": true
       },
@@ -1074,6 +1086,12 @@
           "supersedes": "nz-follow-detail-2",
           "checked_on": "2026-09-08",
           "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-follow-instructions-20260909",
+          "supersedes": "nz-follow-coaching-20260908",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -1944,6 +1962,7 @@
       "organisation": "Deux équipes dans le carré ; le porteur reste immobile.",
       "steps": "Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.",
       "objectives": "Accélérer les échanges de passes dans un jeu collectif.",
+      "instructions": "Le porteur reste immobile ; ne pas sortir du carré.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -1988,7 +2007,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur reste immobile ; ne pas sortir du carré.",
+          "provenance": {
+            "source_id": "nz-corner-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION et DRILL SET-UP",
+            "revision_id": "nz-corner-instructions-20260909",
+            "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -2033,9 +2063,9 @@
       "enrichment_provenance": {
         "source_id": "nz-corner-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "OBJECTIVE et COACHING POINTS",
-        "revision_id": "nz-corner-coaching-20260908",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION et DRILL SET-UP",
+        "revision_id": "nz-corner-instructions-20260909",
         "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
         "capture_verified_locally": true
       },
@@ -2057,6 +2087,12 @@
           "supersedes": "nz-corner-detail-2",
           "checked_on": "2026-09-08",
           "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-corner-instructions-20260909",
+          "supersedes": "nz-corner-coaching-20260908",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -2240,6 +2276,7 @@
       "title": "Chasseurs passeurs par trois",
       "organisation": "Chasseurs par trois, un ballon par trio.",
       "steps": "Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.",
+      "instructions": "Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
@@ -2273,7 +2310,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 20",
+            "revision_id": "scot-corner-instructions-20260909",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -2304,8 +2352,8 @@
         "source_id": "scot-primary",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "PDF page 20 (pagination fichier), TASK et SETUP",
-        "revision_id": "scot-corner-organisation-20260909",
+        "locator": "PDF page 20",
+        "revision_id": "scot-corner-instructions-20260909",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
@@ -2315,6 +2363,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "scot-corner-instructions-20260909",
+          "supersedes": "scot-corner-organisation-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -4765,6 +4819,7 @@
       "title": "La chaîne",
       "organisation": "Chasseurs par deux, mains liées ; aire d’évitement.",
       "steps": "Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.",
+      "instructions": "Garder les mains liées pendant la poursuite.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
@@ -4798,7 +4853,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Garder les mains liées pendant la poursuite.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 18",
+            "revision_id": "scot-chaine-instructions-20260909",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4829,8 +4895,8 @@
         "source_id": "scot-primary",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "PDF page 18 (pagination fichier), TASK et SETUP",
-        "revision_id": "scot-chaine-organisation-20260909",
+        "locator": "PDF page 18",
+        "revision_id": "scot-chaine-instructions-20260909",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
@@ -4840,6 +4906,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "scot-chaine-instructions-20260909",
+          "supersedes": "scot-chaine-organisation-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -6398,6 +6470,7 @@
       "organisation": "Deux équipes face à face, à dix mètres. Un attaquant lève la main.",
       "steps": "Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.",
       "objectives": "Travailler l’espace, la défense et la réaction.",
+      "instructions": "L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -6442,7 +6515,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.",
+          "provenance": {
+            "source_id": "nz-no-ball-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "DRILL EXPLANATION et DRILL SET-UP",
+            "revision_id": "nz-no-ball-instructions-20260909",
+            "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -6486,9 +6570,9 @@
       "enrichment_provenance": {
         "source_id": "nz-no-ball-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "OBJECTIVE et COACHING POINTS",
-        "revision_id": "nz-no-ball-coaching-20260908",
+        "checked_on": "2026-09-09",
+        "locator": "DRILL EXPLANATION et DRILL SET-UP",
+        "revision_id": "nz-no-ball-instructions-20260909",
         "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
         "capture_verified_locally": true
       },
@@ -6510,6 +6594,12 @@
           "supersedes": "nz-no-ball-detail-2",
           "checked_on": "2026-09-08",
           "reason": "Complément pédagogique vérifié dans la capture locale."
+        },
+        {
+          "id": "nz-no-ball-instructions-20260909",
+          "supersedes": "nz-no-ball-coaching-20260908",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -10794,6 +10884,7 @@
       "title": "Tennis à la main",
       "organisation": "Binômes avec une chasuble tendue comme filet.",
       "steps": "Avec la main libre, attraper puis déposer le ballon de l’autre côté.",
+      "instructions": "Tenir la chasuble d’une main et jouer le ballon avec l’autre.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
@@ -10827,7 +10918,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Tenir la chasuble d’une main et jouer le ballon avec l’autre.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 13",
+            "revision_id": "scot-tennis-instructions-20260909",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -10860,8 +10962,8 @@
         "source_id": "scot-primary",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "PDF page 13 (pagination fichier), TASK et SETUP",
-        "revision_id": "scot-tennis-organisation-20260909",
+        "locator": "PDF page 13",
+        "revision_id": "scot-tennis-instructions-20260909",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
@@ -10871,6 +10973,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "scot-tennis-instructions-20260909",
+          "supersedes": "scot-tennis-organisation-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -11284,6 +11392,7 @@
       "title": "Traverser les zones gardées",
       "organisation": "Au moins quatre carrés gardés par des défenseurs.",
       "steps": "Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.",
+      "instructions": "Les défenseurs restent dans leur carré.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
@@ -11317,7 +11426,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les défenseurs restent dans leur carré.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 19",
+            "revision_id": "scot-zones-instructions-20260909",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -11348,8 +11468,8 @@
         "source_id": "scot-primary",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "PDF page 19 (pagination fichier), TASK et SETUP",
-        "revision_id": "scot-zones-organisation-20260909",
+        "locator": "PDF page 19",
+        "revision_id": "scot-zones-instructions-20260909",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
@@ -11359,6 +11479,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "scot-zones-instructions-20260909",
+          "supersedes": "scot-zones-organisation-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {
@@ -11396,6 +11522,7 @@
       "title": "Trois joueurs alignés",
       "organisation": "Deux équipes de trois, neuf plots en carré.",
       "steps": "Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.",
+      "instructions": "Se déplacer à tour de rôle uniquement vers un plot libre.",
       "field_coverage": {
         "objectives": {
           "state": "NOT_EXTRACTED"
@@ -11429,7 +11556,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se déplacer à tour de rôle uniquement vers un plot libre.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 14",
+            "revision_id": "scot-alignement-instructions-20260909",
+            "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -11462,8 +11600,8 @@
         "source_id": "scot-primary",
         "actor": "assistant",
         "checked_on": "2026-09-09",
-        "locator": "PDF page 14 (pagination fichier), TASK et SETUP",
-        "revision_id": "scot-alignement-organisation-20260909",
+        "locator": "PDF page 14",
+        "revision_id": "scot-alignement-instructions-20260909",
         "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
         "capture_verified_locally": true
       },
@@ -11473,6 +11611,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "scot-alignement-instructions-20260909",
+          "supersedes": "scot-alignement-organisation-20260909",
+          "checked_on": "2026-09-09",
+          "reason": "Consigne explicitée depuis le contenu source déjà examiné."
         }
       ],
       "source": {

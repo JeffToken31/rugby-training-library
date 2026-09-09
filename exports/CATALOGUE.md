@@ -85,7 +85,9 @@ Deux partenaires échangent ; un seul voit le coach.
 
 **Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Consignes :** Rester proches et communiquer pour suivre le signal.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
 
 **Points coach issus de la source :** Communiquer et rester proches.
 
@@ -293,7 +295,9 @@ Deux équipes dans le carré ; le porteur reste immobile.
 
 **Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Consignes :** Le porteur reste immobile ; ne pas sortir du carré.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
 
 **Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
 
@@ -353,7 +357,9 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 
 **Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
 
-Détails extraits le 2026-09-09 — PDF page 20 (pagination fichier), TASK et SETUP.
+**Consignes :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
+
+Détails extraits le 2026-09-09 — PDF page 20.
 
 **Manche source :** 60 secondes ; durée totale inconnue.
 
@@ -905,7 +911,9 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 
 **Déroulement :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
 
-Détails extraits le 2026-09-09 — PDF page 18 (pagination fichier), TASK et SETUP.
+**Consignes :** Garder les mains liées pendant la poursuite.
+
+Détails extraits le 2026-09-09 — PDF page 18.
 
 **Manche source :** 60 secondes ; durée totale inconnue.
 
@@ -1325,7 +1333,9 @@ Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Consignes :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
 
 **Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
 
@@ -2231,7 +2241,9 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 
 **Déroulement :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
 
-Détails extraits le 2026-09-09 — PDF page 13 (pagination fichier), TASK et SETUP.
+**Consignes :** Tenir la chasuble d’une main et jouer le ballon avec l’autre.
+
+Détails extraits le 2026-09-09 — PDF page 13.
 
 ## Toucher avec rappel des défenseurs par couleur
 
@@ -2335,7 +2347,9 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 
 **Déroulement :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
 
-Détails extraits le 2026-09-09 — PDF page 19 (pagination fichier), TASK et SETUP.
+**Consignes :** Les défenseurs restent dans leur carré.
+
+Détails extraits le 2026-09-09 — PDF page 19.
 
 **Manche source :** 90 secondes ; durée totale inconnue.
 
@@ -2361,7 +2375,9 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 
 **Déroulement :** Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.
 
-Détails extraits le 2026-09-09 — PDF page 14 (pagination fichier), TASK et SETUP.
+**Consignes :** Se déplacer à tour de rôle uniquement vers un plot libre.
+
+Détails extraits le 2026-09-09 — PDF page 14.
 
 ## Répertoire des sources
 

@@ -27,7 +27,9 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 
 **Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
 
-Détails extraits le 2026-09-09 — PDF page 20 (pagination fichier), TASK et SETUP.
+**Consignes :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
+
+Détails extraits le 2026-09-09 — PDF page 20.
 
 **Manche source :** 60 secondes ; durée totale inconnue.
 

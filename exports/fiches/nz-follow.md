@@ -29,7 +29,9 @@ Deux partenaires échangent ; un seul voit le coach.
 
 **Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Consignes :** Rester proches et communiquer pour suivre le signal.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
 
 **Points coach issus de la source :** Communiquer et rester proches.
 

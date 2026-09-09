@@ -27,7 +27,9 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 
 **Déroulement :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
 
-Détails extraits le 2026-09-09 — PDF page 18 (pagination fichier), TASK et SETUP.
+**Consignes :** Garder les mains liées pendant la poursuite.
+
+Détails extraits le 2026-09-09 — PDF page 18.
 
 **Manche source :** 60 secondes ; durée totale inconnue.
 

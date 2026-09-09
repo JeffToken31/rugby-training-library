@@ -29,7 +29,9 @@ Deux équipes dans le carré ; le porteur reste immobile.
 
 **Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Consignes :** Le porteur reste immobile ; ne pas sortir du carré.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
 
 **Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
 

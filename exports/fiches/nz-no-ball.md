@@ -29,7 +29,9 @@ Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
 **Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Consignes :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
+
+Détails extraits le 2026-09-09 — DRILL EXPLANATION et DRILL SET-UP.
 
 **Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
 

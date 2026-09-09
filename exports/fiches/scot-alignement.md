@@ -27,7 +27,9 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 
 **Déroulement :** Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.
 
-Détails extraits le 2026-09-09 — PDF page 14 (pagination fichier), TASK et SETUP.
+**Consignes :** Se déplacer à tour de rôle uniquement vers un plot libre.
+
+Détails extraits le 2026-09-09 — PDF page 14.
 
 ## Répertoire des sources
 

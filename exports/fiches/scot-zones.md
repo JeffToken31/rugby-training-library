@@ -27,7 +27,9 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 
 **Déroulement :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
 
-Détails extraits le 2026-09-09 — PDF page 19 (pagination fichier), TASK et SETUP.
+**Consignes :** Les défenseurs restent dans leur carré.
+
+Détails extraits le 2026-09-09 — PDF page 19.
 
 **Manche source :** 90 secondes ; durée totale inconnue.
 

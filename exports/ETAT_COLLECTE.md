@@ -13,7 +13,7 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 | objectives | 46 | 39 | 0 | 0 | 0 |
 | organisation | 53 | 32 | 0 | 0 | 0 |
 | steps | 54 | 31 | 0 | 0 | 0 |
-| instructions | 39 | 46 | 0 | 0 | 0 |
+| instructions | 47 | 38 | 0 | 0 | 0 |
 | success_criteria | 12 | 73 | 0 | 0 | 0 |
 | common_errors | 7 | 78 | 0 | 0 | 0 |
 | coach_points | 35 | 50 | 0 | 0 | 0 |

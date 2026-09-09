@@ -1,0 +1,148 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-follow-instructions-20260909",
+      "variant_id": "nz-follow",
+      "source_id": "nz-follow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "capture_sha256": "66d861a25c6245e39488dd9f6e32ed3abe300c1a492335dbaae00bbdd519da7b",
+      "supersedes": "nz-follow-coaching-20260908",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester proches et communiquer pour suivre le signal."
+        }
+      }
+    },
+    {
+      "id": "nz-corner-instructions-20260909",
+      "variant_id": "nz-corner",
+      "source_id": "nz-corner-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "capture_sha256": "e5c7a865271c516afdd08c68a1a1e68ce504dbc85f53e9510bd87e1161d9867a",
+      "supersedes": "nz-corner-coaching-20260908",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur reste immobile ; ne pas sortir du carré."
+        }
+      }
+    },
+    {
+      "id": "scot-corner-instructions-20260909",
+      "variant_id": "scot-corner",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 20",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "supersedes": "scot-corner-organisation-20260909",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois."
+        }
+      }
+    },
+    {
+      "id": "scot-chaine-instructions-20260909",
+      "variant_id": "scot-chaine",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 18",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "supersedes": "scot-chaine-organisation-20260909",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder les mains liées pendant la poursuite."
+        }
+      }
+    },
+    {
+      "id": "nz-no-ball-instructions-20260909",
+      "variant_id": "nz-no-ball",
+      "source_id": "nz-no-ball-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "DRILL EXPLANATION et DRILL SET-UP",
+      "capture_sha256": "6b2933d34a74c334fdf3599f068ade4fa901e5cbd6f851d8c63bb9a31c9ca64d",
+      "supersedes": "nz-no-ball-coaching-20260908",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant."
+        }
+      }
+    },
+    {
+      "id": "scot-tennis-instructions-20260909",
+      "variant_id": "scot-tennis",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 13",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "supersedes": "scot-tennis-organisation-20260909",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Tenir la chasuble d’une main et jouer le ballon avec l’autre."
+        }
+      }
+    },
+    {
+      "id": "scot-zones-instructions-20260909",
+      "variant_id": "scot-zones",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 19",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "supersedes": "scot-zones-organisation-20260909",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les défenseurs restent dans leur carré."
+        }
+      }
+    },
+    {
+      "id": "scot-alignement-instructions-20260909",
+      "variant_id": "scot-alignement",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 14",
+      "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
+      "supersedes": "scot-alignement-organisation-20260909",
+      "revision_reason": "Consigne explicitée depuis le contenu source déjà examiné.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer à tour de rôle uniquement vers un plot libre."
+        }
+      }
+    }
+  ]
+}

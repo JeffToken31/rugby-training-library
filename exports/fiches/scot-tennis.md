@@ -27,7 +27,9 @@ Les paramètres non renseignés restent inconnus. Les adaptations sont des propo
 
 **Déroulement :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
 
-Détails extraits le 2026-09-09 — PDF page 13 (pagination fichier), TASK et SETUP.
+**Consignes :** Tenir la chasuble d’une main et jouer le ballon avec l’autre.
+
+Détails extraits le 2026-09-09 — PDF page 13.
 
 ## Répertoire des sources
 
