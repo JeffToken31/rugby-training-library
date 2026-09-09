@@ -2,8 +2,9 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-67 fiches.
+77 fiches.
 
+- [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
 - [Binômes guidés par le signal du coach](fiches/nz-follow.md) — prise d’information ; New Zealand Rugby — Rugby Toolbox
@@ -22,11 +23,15 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) — passe et soutien ; World Rugby
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
+- [Déplacement du crabe](fiches/munster-crabe.md) — motricité ; Munster Rugby
+- [Déplacement du gorille](fiches/munster-gorille.md) — motricité ; Munster Rugby
 - [Deux contre un avec passes libres au départ](fiches/wr-tag-2v1.md) — opposition et soutien ; World Rugby
 - [Deux contre un sans contact](fiches/rc-two-one.md) — passe ; RugbyCoaching.tv
 - [Dix passes - variante communautaire documentee](fiches/rc-ten.md) — passe ; RugbyCoaching.tv
+- [Duel debout pour avancer](fiches/ffr-lutte-avancer.md) — opposition et soutien ; FFR
 - [Épouvantails avec délivrance](fiches/wr-scarecrow.md) — évitement ; World Rugby
 - [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) — coopération ; RugbyCoaching.tv
+- [Équilibre du flamant](fiches/munster-flamant.md) — motricité ; Munster Rugby
 - [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) — passe et soutien ; World Rugby
 - [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) — prise d’information ; RugbyCoaching.tv
 - [La chaîne](fiches/scot-chaine.md) — coopération ; Scottish Rugby
@@ -36,9 +41,11 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Les statues](fiches/rc-statues.md) — déplacement ; RugbyCoaching.tv
 - [Les œufs dans les nids](fiches/rc-eggs.md) — déplacement ; RugbyCoaching.tv
 - [Manipulations autour du corps](fiches/nz-awareness.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Marcher en canard avec ballon](fiches/ffr-canard.md) — motricité ; FFR
 - [Opposition sans ballon, attaquant désigné](fiches/nz-no-ball.md) — prise d’information ; New Zealand Rugby — Rugby Toolbox
 - [Passe arrière avec jokers](fiches/scot-passback.md) — soutien ; Scottish Rugby
 - [Passer avec un soutien en retrait](fiches/rc-pairs.md) — passe ; RugbyCoaching.tv
+- [Passer puis devenir défenseur](fiches/wr-pass-defend.md) — opposition et soutien ; World Rugby
 - [Passer puis échapper au poursuivant](fiches/nz-touchdown.md) — évitement ; New Zealand Rugby — Rugby Toolbox
 - [Passer sur appel dans un espace partagé](fiches/rc-calling-pairs.md) — passe ; RugbyCoaching.tv
 - [Passes après départs dans cinq postures](fiches/wr-chain-reaction.md) — passe et soutien ; World Rugby
@@ -56,8 +63,11 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) — motricité et manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Relais avec essai](fiches/scot-relais.md) — motricité ; Scottish Rugby
 - [Relais de soutien tous les cinq mètres](fiches/wr-pass-support.md) — passe et soutien ; World Rugby
+- [Roulade et relevé](fiches/ffr-roulade-releve.md) — motricité ; FFR
 - [Rubans avec restitution avant reprise](fiches/nz-rip.md) — évitement et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Rugby à quatre cibles](fiches/rc-netball.md) — passe ; RugbyCoaching.tv
+- [Sauter le ballon et stabiliser](fiches/ffr-saut-ballon.md) — motricité ; FFR
+- [Sauts verticaux de grenouille](fiches/munster-grenouille.md) — motricité ; Munster Rugby
 - [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) — jeu au pied ; Fédération Française de Rugby
 - [Speedy — un ballon chacun](fiches/ffr-speedy-individuel.md) — réactivité ; FFR — Direction Technique Nationale
 - [Speedy — un ballon pour deux](fiches/ffr-speedy-partage.md) — réactivité ; FFR — Direction Technique Nationale

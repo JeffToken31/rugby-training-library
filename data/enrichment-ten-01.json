@@ -1,0 +1,299 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-canard-detail-1",
+      "variant_id": "ffr-canard",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 8 — Atelier 1",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfant dans un couloir."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser en canard avec le ballon à deux mains."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ne poser ni main, ni genou, ni ballon au sol."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "ffr-dos-postures-detail-1",
+      "variant_id": "ffr-dos-postures",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 8 — Atelier 2",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfant à quatre pattes."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Alterner dos plat, creux puis rond."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réaliser successivement les trois postures."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "ffr-lutte-avancer-detail-1",
+      "variant_id": "ffr-lutte-avancer",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 9 — Atelier 4",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux enfants debout dans une zone."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Mains sur les épaules adverses, chercher à avancer au signal."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester dans la zone du duel."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "ffr-saut-ballon-detail-1",
+      "variant_id": "ffr-saut-ballon",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 9 — Atelier 5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Obstacle au sol."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Sauter par-dessus à deux pieds."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Retrouver l’équilibre à la réception."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "ffr-roulade-releve-detail-1",
+      "variant_id": "ffr-roulade-releve",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 9 — Atelier 6",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travail individuel au sol."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire une roulade de type judo puis se relever."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner le relevé après la roulade."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "munster-crabe-detail-1",
+      "variant_id": "munster-crabe",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 15 — Teaching Cues",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Mains et pieds au sol."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer en crabe, hanches relevées."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Maintenir le bassin haut, comme une table."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "munster-gorille-detail-1",
+      "variant_id": "munster-gorille",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 15 — Teaching Cues",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Mains et pieds au sol."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Prendre appui sur les mains pour rapprocher les pieds, puis avancer les mains."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Déplacer les mains ensemble, puis les pieds ensemble."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "munster-flamant-detail-1",
+      "variant_id": "munster-flamant",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 15 — Teaching Cues",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Debout sur un pied, autre genou devant."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer rapidement de pied puis immobiliser la posture."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se figer après le changement."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "munster-grenouille-detail-1",
+      "variant_id": "munster-grenouille",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 15 — Teaching Cues",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Position accroupie de grenouille."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Sauter en cherchant la hauteur puis revenir au sol."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se réceptionner sans bruit."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "wr-pass-defend-detail-1",
+      "variant_id": "wr-pass-defend",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Pass, Defend, Attack",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois groupes de cinq alternent par couloir."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Défendre par prise de ruban ; les soutiens restent derrière le ballon."
+        }
+      }
+    }
+  ]
+}

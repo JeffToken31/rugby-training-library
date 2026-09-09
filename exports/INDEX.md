@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-95 fiches — les propositions terrain restent à valider par le coach.
+105 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -91,12 +91,20 @@
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Alterner trois formes du dos](fiches/ffr-dos-postures.md) | M8 | Documentée ; à valider |
 | [Carré 2](fiches/ffr-carre2-atelier.md) | M8 | À compléter |
 | [Chasse aux trésors — parcours](fiches/ffr-tresors2023.md) | M8 | Documentée ; à valider |
 | [Chat et déplacements animaux](fiches/scot-animal.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 | [Déplacement à quatre appuis](fiches/ffr-appuis.md) | M8 | Documentée ; à valider |
+| [Déplacement du crabe](fiches/munster-crabe.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
+| [Déplacement du gorille](fiches/munster-gorille.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
+| [Équilibre du flamant](fiches/munster-flamant.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
+| [Marcher en canard avec ballon](fiches/ffr-canard.md) | M8 | Documentée ; à valider |
 | [Relais avec essai](fiches/scot-relais.md) | Primaire (Écosse) | Documentée ; à valider |
 | [Relais — courir, rouler, passer](fiches/ffr-relais-atelier.md) | M8 | À compléter |
+| [Roulade et relevé](fiches/ffr-roulade-releve.md) | M8 | Documentée ; à valider |
+| [Sauter le ballon et stabiliser](fiches/ffr-saut-ballon.md) | M8 | Documentée ; à valider |
+| [Sauts verticaux de grenouille](fiches/munster-grenouille.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
 
 ## Motricité et manipulation
 
@@ -115,6 +123,8 @@
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
 | [Deux contre un avec passes libres au départ](fiches/wr-tag-2v1.md) | Initiation ; âge non précisé par World Rugby | Documentée ; à valider |
+| [Duel debout pour avancer](fiches/ffr-lutte-avancer.md) | M8 | Documentée ; à valider |
+| [Passer puis devenir défenseur](fiches/wr-pass-defend.md) | Initiation ; âge non précisé | Documentée ; à valider |
 | [Trois contre deux avec passes en arrière](fiches/wr-tag-3v2.md) | Initiation ; âge non précisé par World Rugby | Documentée ; à valider |
 | [Trois contre un avec rotation du défenseur](fiches/wr-tag-3v1.md) | Initiation ; âge non précisé par World Rugby | Documentée ; à valider |
 

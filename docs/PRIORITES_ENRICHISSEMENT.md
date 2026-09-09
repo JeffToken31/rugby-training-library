@@ -1,7 +1,5 @@
 # Prochains enrichissements prioritaires
 
-Audit du 9 septembre ; présence des champs sans validation pédagogique.
-
 | Fiche | Manques |
 |---|---|
 | Atteindre la zone opposée | consignes |
@@ -40,4 +38,4 @@ Audit du 9 septembre ; présence des champs sans validation pédagogique.
 | Slalom au pied puis essai | consignes |
 | Transmettre en trottinant | installation, déroulement, consignes |
 
-56 fiches sur 91 ont les trois champs présents.
+70 fiches sur 105 avec les trois champs ; pas de validation pédagogique implicite.

@@ -316,3 +316,18 @@ Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le cor
 - F12 : chasse à la frite, délivrance par la main.
 - F12 : même chasse, délivrance par passe (variante liée).
 - F12 : rubans avec restitution, à distinguer d’une simple collecte de rubans.
+
+## Lot de dix : corpus actuel à 105 fiches
+
+94 candidates individuelles, 9 insuffisantes et 2 composites ou à périmètre particulier ; unicité globale non certifiée. Les 105 identifiants possèdent chacun une affectation dans data/classification-audit.json.
+
+- F04 : [Marcher en canard avec ballon](fiches/ffr-canard.md) — Locomotion accroupie, distincte du déplacement à quatre appuis.
+- F04 : [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — Postures sur place, sans parcours de quadrupédie.
+- F18 : [Duel debout pour avancer](fiches/ffr-lutte-avancer.md) — But avancer et placement des mains explicites ; les Gazelles restent insuffisamment décrites pour une équivalence.
+- F04 : [Sauter le ballon et stabiliser](fiches/ffr-saut-ballon.md) — Franchissement d’obstacle, distinct du saut vertical de grenouille.
+- F04 : [Roulade et relevé](fiches/ffr-roulade-releve.md) — Tâche isolée ; le relais multi-actions inclut une roulade dans un circuit différent.
+- F04 : [Déplacement du crabe](fiches/munster-crabe.md) — Appuis en position inversée, distincts de la quadrupédie ventrale.
+- F04 : [Déplacement du gorille](fiches/munster-gorille.md) — Progression par paires d’appuis, pas marche alternée.
+- F04 : [Équilibre du flamant](fiches/munster-flamant.md) — Équilibre unipodal avec changement, pas déplacement de poursuite.
+- F04 : [Sauts verticaux de grenouille](fiches/munster-grenouille.md) — Saut vertical depuis accroupi, distinct du franchissement d’objet.
+- F16 : [Passer puis devenir défenseur](fiches/wr-pass-defend.md) — Bascule attaquant vers défenseur après la passe, absente des surnombres à rôles fixes.

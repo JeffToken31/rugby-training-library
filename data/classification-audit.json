@@ -969,6 +969,96 @@
       "discriminant": "Joueurs répartis dans le carré.",
       "source_id": "nz-rip-source",
       "locator": "DRILL EXPLANATION"
+    },
+    {
+      "variant_id": "ffr-canard",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Locomotion accroupie, distincte du déplacement à quatre appuis.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 8 — Atelier 1"
+    },
+    {
+      "variant_id": "ffr-dos-postures",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Postures sur place, sans parcours de quadrupédie.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 8 — Atelier 2"
+    },
+    {
+      "variant_id": "ffr-lutte-avancer",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "But avancer et placement des mains explicites ; les Gazelles restent insuffisamment décrites pour une équivalence.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 9 — Atelier 4"
+    },
+    {
+      "variant_id": "ffr-saut-ballon",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Franchissement d’obstacle, distinct du saut vertical de grenouille.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 9 — Atelier 5"
+    },
+    {
+      "variant_id": "ffr-roulade-releve",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Tâche isolée ; le relais multi-actions inclut une roulade dans un circuit différent.",
+      "source_id": "ffr-famille",
+      "locator": "PDF page 9 — Atelier 6"
+    },
+    {
+      "variant_id": "munster-crabe",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Appuis en position inversée, distincts de la quadrupédie ventrale.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 15 — Teaching Cues"
+    },
+    {
+      "variant_id": "munster-gorille",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression par paires d’appuis, pas marche alternée.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 15 — Teaching Cues"
+    },
+    {
+      "variant_id": "munster-flamant",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Équilibre unipodal avec changement, pas déplacement de poursuite.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 15 — Teaching Cues"
+    },
+    {
+      "variant_id": "munster-grenouille",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Saut vertical depuis accroupi, distinct du franchissement d’objet.",
+      "source_id": "munster-fms",
+      "locator": "PDF page 15 — Teaching Cues"
+    },
+    {
+      "variant_id": "wr-pass-defend",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Bascule attaquant vers défenseur après la passe, absente des surnombres à rôles fixes.",
+      "source_id": "wr-noncontact",
+      "locator": "Pass, Defend, Attack"
     }
   ],
   "pair_reviews": [
@@ -1229,5 +1319,5 @@
       "human_arbitration_required": false
     }
   ],
-  "audit_status": "BASELINE_91_PLUS_FOUR_CLASSIFIED_ADDITIONS"
+  "audit_status": "BASELINE_WITH_CLASSIFIED_COLLECTION_ADDITIONS"
 }

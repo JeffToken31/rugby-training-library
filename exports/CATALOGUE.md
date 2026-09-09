@@ -1,9 +1,35 @@
 # Bibliothèque rugby U8
 
-95 fiches · 62 sources
+105 fiches · 62 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+
+## Alterner trois formes du dos
+
+**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Enfant à quatre pattes.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8 — Atelier 2 · consultée le 2026-09-06
+
+**Accès :** PDF public, texte consulté
+
+**Organisation :** Enfant à quatre pattes.
+
+**Déroulement :** Alterner dos plat, creux puis rond.
+
+**Consignes :** Réaliser successivement les trois postures.
+
+Détails extraits le 2026-09-09 — PDF page 8 — Atelier 2.
 
 ## Atteindre la zone opposée
 
@@ -695,6 +721,58 @@ Parcourir cinq mètres à quatre pattes, dos horizontal.
 
 **Accès :** PDF public, texte consulté
 
+## Déplacement du crabe
+
+**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Mains et pieds au sol.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+
+**Accès :** PDF public consulté
+
+**Organisation :** Mains et pieds au sol.
+
+**Déroulement :** Se déplacer en crabe, hanches relevées.
+
+**Consignes :** Maintenir le bassin haut, comme une table.
+
+Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
+
+## Déplacement du gorille
+
+**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Mains et pieds au sol.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+
+**Accès :** PDF public consulté
+
+**Organisation :** Mains et pieds au sol.
+
+**Déroulement :** Prendre appui sur les mains pour rapprocher les pieds, puis avancer les mains.
+
+**Consignes :** Déplacer les mains ensemble, puis les pieds ensemble.
+
+Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
+
 ## Deux contre un avec passes libres au départ
 
 **opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
@@ -809,6 +887,32 @@ Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contrib
 
 [Sportplan Community](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION
 
+## Duel debout pour avancer
+
+**opposition et soutien · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Deux enfants debout dans une zone.
+
+**Matériel :** Objets pour délimiter
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 9 — Atelier 4 · consultée le 2026-09-06
+
+**Accès :** PDF public, texte consulté
+
+**Organisation :** Deux enfants debout dans une zone.
+
+**Déroulement :** Mains sur les épaules adverses, chercher à avancer au signal.
+
+**Consignes :** Rester dans la zone du duel.
+
+Détails extraits le 2026-09-09 — PDF page 9 — Atelier 4.
+
 ## Duel long
 
 **déplacement · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -916,6 +1020,32 @@ Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur n
 Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
 
 **Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
+
+## Équilibre du flamant
+
+**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Debout sur un pied, autre genou devant.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+
+**Accès :** PDF public consulté
+
+**Organisation :** Debout sur un pied, autre genou devant.
+
+**Déroulement :** Changer rapidement de pied puis immobiliser la posture.
+
+**Consignes :** Se figer après le changement.
+
+Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## File avec transmission au nouveau meneur
 
@@ -1445,6 +1575,32 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 **Espace source :** 10 × 10 m à ajuster selon effectif
 
+## Marcher en canard avec ballon
+
+**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Enfant dans un couloir.
+
+**Matériel :** Un ballon ou objet
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8 — Atelier 1 · consultée le 2026-09-06
+
+**Accès :** PDF public, texte consulté
+
+**Organisation :** Enfant dans un couloir.
+
+**Déroulement :** Traverser en canard avec le ballon à deux mains.
+
+**Consignes :** Ne poser ni main, ni genou, ni ballon au sol.
+
+Détails extraits le 2026-09-09 — PDF page 8 — Atelier 1.
+
 ## Opposition sans ballon, attaquant désigné
 
 **prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
@@ -1592,6 +1748,34 @@ Deux équipes cherchent la zone d’essai par des passes ; la source propose cin
 [Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 9 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+## Passer puis devenir défenseur
+
+**opposition et soutien · âge source : Initiation ; âge non précisé · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Trois groupes de cinq alternent par couloir.
+
+**Matériel :** Un ballon par groupe, plots et rubans
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — par groupe actif ; trois groupes par couloir
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass, Defend, Attack · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Trois groupes de cinq alternent par couloir.
+
+**Déroulement :** Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.
+
+**Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
+
+Détails extraits le 2026-09-09 — Pass, Defend, Attack.
+
+**Espace source :** 20 × 10 m
 
 ## Passer puis échapper au poursuivant
 
@@ -2243,6 +2427,32 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 **Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
 
+## Roulade et relevé
+
+**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Travail individuel au sol.
+
+**Matériel :** Aucun ; ballon facultatif
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 9 — Atelier 6 · consultée le 2026-09-06
+
+**Accès :** PDF public, texte consulté
+
+**Organisation :** Travail individuel au sol.
+
+**Déroulement :** Faire une roulade de type judo puis se relever.
+
+**Consignes :** Enchaîner le relevé après la roulade.
+
+Détails extraits le 2026-09-09 — PDF page 9 — Atelier 6.
+
 ## Rubans avec restitution avant reprise
 
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
@@ -2312,6 +2522,58 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 **Plus simple :** Deux cibles.
 
 **Plus difficile :** Quatre cibles et changement de cible après un point.
+
+## Sauter le ballon et stabiliser
+
+**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Obstacle au sol.
+
+**Matériel :** Un ballon ou objet
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 9 — Atelier 5 · consultée le 2026-09-06
+
+**Accès :** PDF public, texte consulté
+
+**Organisation :** Obstacle au sol.
+
+**Déroulement :** Sauter par-dessus à deux pieds.
+
+**Consignes :** Retrouver l’équilibre à la réception.
+
+Détails extraits le 2026-09-09 — PDF page 9 — Atelier 5.
+
+## Sauts verticaux de grenouille
+
+**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+
+Position accroupie de grenouille.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+
+**Accès :** PDF public consulté
+
+**Organisation :** Position accroupie de grenouille.
+
+**Déroulement :** Sauter en cherchant la hauteur puis revenir au sol.
+
+**Consignes :** Se réceptionner sans bruit.
+
+Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Slalom au pied puis essai
 

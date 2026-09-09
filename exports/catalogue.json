@@ -700,6 +700,129 @@
   ],
   "exercises": [
     {
+      "age_source": "M8",
+      "duration_min": null,
+      "id": "ffr-dos-postures",
+      "locator": "PDF page 8 — Atelier 2",
+      "material": "Aucun",
+      "original_title": "Faire dos plat, dos creux, dos rond",
+      "page_end": 8,
+      "page_start": 8,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "ffr-famille",
+      "status": "documented",
+      "summary": "Enfant à quatre pattes.",
+      "theme": "motricité",
+      "title": "Alterner trois formes du dos",
+      "instructions": "Réaliser successivement les trois postures.",
+      "organisation": "Enfant à quatre pattes.",
+      "steps": "Alterner dos plat, creux puis rond.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfant à quatre pattes.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 2",
+            "revision_id": "ffr-dos-postures-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Alterner dos plat, creux puis rond.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 2",
+            "revision_id": "ffr-dos-postures-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réaliser successivement les trois postures.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 2",
+            "revision_id": "ffr-dos-postures-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 2",
+            "revision_id": "ffr-dos-postures-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-famille",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 8 — Atelier 2",
+        "revision_id": "ffr-dos-postures-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-dos-postures-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public, texte consulté",
+        "checked_on": "2026-09-06",
+        "id": "ffr-famille",
+        "language": "fr",
+        "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
+        "publisher": "FFR",
+        "title": "Rugby à la maison en famille",
+        "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
       "duration_min": null,
       "id": "scot-endzone",
@@ -4110,6 +4233,250 @@
       "references": []
     },
     {
+      "age_source": "Primaire / mini-rugby ; âge précis non indiqué",
+      "duration_min": null,
+      "id": "munster-crabe",
+      "locator": "PDF page 15 — Teaching Cues",
+      "material": "Non renseigné",
+      "original_title": "Crab Walk",
+      "page_end": 15,
+      "page_start": 15,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "munster-fms",
+      "status": "documented",
+      "summary": "Mains et pieds au sol.",
+      "theme": "motricité",
+      "title": "Déplacement du crabe",
+      "instructions": "Maintenir le bassin haut, comme une table.",
+      "organisation": "Mains et pieds au sol.",
+      "steps": "Se déplacer en crabe, hanches relevées.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Mains et pieds au sol.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-crabe-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se déplacer en crabe, hanches relevées.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-crabe-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Maintenir le bassin haut, comme une table.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-crabe-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-crabe-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 15 — Teaching Cues",
+        "revision_id": "munster-crabe-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-crabe-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-06",
+        "id": "munster-fms",
+        "language": "en",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné.",
+        "publisher": "Munster Rugby",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Primaire / mini-rugby ; âge précis non indiqué",
+      "duration_min": null,
+      "id": "munster-gorille",
+      "locator": "PDF page 15 — Teaching Cues",
+      "material": "Non renseigné",
+      "original_title": "Gorilla Shuffle",
+      "page_end": 15,
+      "page_start": 15,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "munster-fms",
+      "status": "documented",
+      "summary": "Mains et pieds au sol.",
+      "theme": "motricité",
+      "title": "Déplacement du gorille",
+      "instructions": "Déplacer les mains ensemble, puis les pieds ensemble.",
+      "organisation": "Mains et pieds au sol.",
+      "steps": "Prendre appui sur les mains pour rapprocher les pieds, puis avancer les mains.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Mains et pieds au sol.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-gorille-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Prendre appui sur les mains pour rapprocher les pieds, puis avancer les mains.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-gorille-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Déplacer les mains ensemble, puis les pieds ensemble.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-gorille-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-gorille-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 15 — Teaching Cues",
+        "revision_id": "munster-gorille-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-gorille-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-06",
+        "id": "munster-fms",
+        "language": "en",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné.",
+        "publisher": "Munster Rugby",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Initiation ; âge non précisé par World Rugby",
       "contact": "sans plaquage ; prise de ruban",
       "duration_min": 10,
@@ -4656,6 +5023,131 @@
       "model_status": "REVIEWED"
     },
     {
+      "age_source": "M8",
+      "duration_min": null,
+      "id": "ffr-lutte-avancer",
+      "locator": "PDF page 9 — Atelier 4",
+      "material": "Objets pour délimiter",
+      "original_title": "Lutter pour avancer",
+      "page_end": 9,
+      "page_start": 9,
+      "players_max": 2,
+      "players_min": 2,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "ffr-famille",
+      "status": "documented",
+      "summary": "Deux enfants debout dans une zone.",
+      "theme": "opposition et soutien",
+      "title": "Duel debout pour avancer",
+      "instructions": "Rester dans la zone du duel.",
+      "organisation": "Deux enfants debout dans une zone.",
+      "steps": "Mains sur les épaules adverses, chercher à avancer au signal.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux enfants debout dans une zone.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 4",
+            "revision_id": "ffr-lutte-avancer-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Mains sur les épaules adverses, chercher à avancer au signal.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 4",
+            "revision_id": "ffr-lutte-avancer-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester dans la zone du duel.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 4",
+            "revision_id": "ffr-lutte-avancer-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 4",
+            "revision_id": "ffr-lutte-avancer-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-famille",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 9 — Atelier 4",
+        "revision_id": "ffr-lutte-avancer-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-lutte-avancer-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public, texte consulté",
+        "checked_on": "2026-09-06",
+        "id": "ffr-famille",
+        "language": "fr",
+        "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
+        "publisher": "FFR",
+        "title": "Rugby à la maison en famille",
+        "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation": null,
       "age_source": "M8",
       "duration_min": null,
@@ -5147,6 +5639,128 @@
         "resource_type": "EXERCISE_VIDEO",
         "title": "team scarecrow tag",
         "url": "https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Primaire / mini-rugby ; âge précis non indiqué",
+      "duration_min": null,
+      "id": "munster-flamant",
+      "locator": "PDF page 15 — Teaching Cues",
+      "material": "Non renseigné",
+      "original_title": "Flamingo Stand",
+      "page_end": 15,
+      "page_start": 15,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "munster-fms",
+      "status": "documented",
+      "summary": "Debout sur un pied, autre genou devant.",
+      "theme": "motricité",
+      "title": "Équilibre du flamant",
+      "instructions": "Se figer après le changement.",
+      "organisation": "Debout sur un pied, autre genou devant.",
+      "steps": "Changer rapidement de pied puis immobiliser la posture.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Debout sur un pied, autre genou devant.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-flamant-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer rapidement de pied puis immobiliser la posture.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-flamant-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se figer après le changement.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-flamant-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-flamant-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 15 — Teaching Cues",
+        "revision_id": "munster-flamant-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-flamant-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-06",
+        "id": "munster-fms",
+        "language": "en",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné.",
+        "publisher": "Munster Rugby",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -7298,6 +7912,129 @@
       "references": []
     },
     {
+      "age_source": "M8",
+      "duration_min": null,
+      "id": "ffr-canard",
+      "locator": "PDF page 8 — Atelier 1",
+      "material": "Un ballon ou objet",
+      "original_title": "Marcher en canard",
+      "page_end": 8,
+      "page_start": 8,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "ffr-famille",
+      "status": "documented",
+      "summary": "Enfant dans un couloir.",
+      "theme": "motricité",
+      "title": "Marcher en canard avec ballon",
+      "instructions": "Ne poser ni main, ni genou, ni ballon au sol.",
+      "organisation": "Enfant dans un couloir.",
+      "steps": "Traverser en canard avec le ballon à deux mains.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfant dans un couloir.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 1",
+            "revision_id": "ffr-canard-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Traverser en canard avec le ballon à deux mains.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 1",
+            "revision_id": "ffr-canard-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ne poser ni main, ni genou, ni ballon au sol.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 1",
+            "revision_id": "ffr-canard-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 8 — Atelier 1",
+            "revision_id": "ffr-canard-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-famille",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 8 — Atelier 1",
+        "revision_id": "ffr-canard-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-canard-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public, texte consulté",
+        "checked_on": "2026-09-06",
+        "id": "ffr-famille",
+        "language": "fr",
+        "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
+        "publisher": "FFR",
+        "title": "Rugby à la maison en famille",
+        "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Under 7 (classement Rugby Toolbox)",
       "duration_min": null,
       "id": "nz-no-ball",
@@ -8019,6 +8756,126 @@
         "publisher": "Munster Rugby",
         "title": "Fundamental Movement — mars 2021",
         "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation ; âge non précisé",
+      "duration_min": 6,
+      "id": "wr-pass-defend",
+      "locator": "Pass, Defend, Attack",
+      "material": "Un ballon par groupe, plots et rubans",
+      "original_title": "Pass, Defend, Attack",
+      "participants_scope": "par groupe actif ; trois groupes par couloir",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "wr-noncontact",
+      "space": "20 × 10 m",
+      "status": "documented",
+      "summary": "Trois groupes de cinq alternent par couloir.",
+      "theme": "opposition et soutien",
+      "title": "Passer puis devenir défenseur",
+      "instructions": "Défendre par prise de ruban ; les soutiens restent derrière le ballon.",
+      "organisation": "Trois groupes de cinq alternent par couloir.",
+      "steps": "Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois groupes de cinq alternent par couloir.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass, Defend, Attack",
+            "revision_id": "wr-pass-defend-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass, Defend, Attack",
+            "revision_id": "wr-pass-defend-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Défendre par prise de ruban ; les soutiens restent derrière le ballon.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "Pass, Defend, Attack",
+            "revision_id": "wr-pass-defend-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "Pass, Defend, Attack",
+        "revision_id": "wr-pass-defend-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-pass-defend-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
       },
       "model_status": "REVIEWED",
       "references": []
@@ -11470,6 +12327,129 @@
       "references": []
     },
     {
+      "age_source": "M8",
+      "duration_min": null,
+      "id": "ffr-roulade-releve",
+      "locator": "PDF page 9 — Atelier 6",
+      "material": "Aucun ; ballon facultatif",
+      "original_title": "Faire une roulade",
+      "page_end": 9,
+      "page_start": 9,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "ffr-famille",
+      "status": "documented",
+      "summary": "Travail individuel au sol.",
+      "theme": "motricité",
+      "title": "Roulade et relevé",
+      "instructions": "Enchaîner le relevé après la roulade.",
+      "organisation": "Travail individuel au sol.",
+      "steps": "Faire une roulade de type judo puis se relever.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travail individuel au sol.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 6",
+            "revision_id": "ffr-roulade-releve-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Faire une roulade de type judo puis se relever.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 6",
+            "revision_id": "ffr-roulade-releve-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner le relevé après la roulade.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 6",
+            "revision_id": "ffr-roulade-releve-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 6",
+            "revision_id": "ffr-roulade-releve-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-famille",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 9 — Atelier 6",
+        "revision_id": "ffr-roulade-releve-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-roulade-releve-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public, texte consulté",
+        "checked_on": "2026-09-06",
+        "id": "ffr-famille",
+        "language": "fr",
+        "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
+        "publisher": "FFR",
+        "title": "Rugby à la maison en famille",
+        "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Under 7 (classement du site)",
       "duration_min": null,
       "id": "nz-rip",
@@ -11732,6 +12712,251 @@
         "publisher": "RugbyCoaching.tv",
         "title": "Rugby Netball with 4 Goals",
         "url": "https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "M8",
+      "duration_min": null,
+      "id": "ffr-saut-ballon",
+      "locator": "PDF page 9 — Atelier 5",
+      "material": "Un ballon ou objet",
+      "original_title": "Sauter à 2 pieds par-dessus un ballon",
+      "page_end": 9,
+      "page_start": 9,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "ffr-famille",
+      "status": "documented",
+      "summary": "Obstacle au sol.",
+      "theme": "motricité",
+      "title": "Sauter le ballon et stabiliser",
+      "instructions": "Retrouver l’équilibre à la réception.",
+      "organisation": "Obstacle au sol.",
+      "steps": "Sauter par-dessus à deux pieds.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Obstacle au sol.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 5",
+            "revision_id": "ffr-saut-ballon-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Sauter par-dessus à deux pieds.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 5",
+            "revision_id": "ffr-saut-ballon-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Retrouver l’équilibre à la réception.",
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 5",
+            "revision_id": "ffr-saut-ballon-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "ffr-famille",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 9 — Atelier 5",
+            "revision_id": "ffr-saut-ballon-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-famille",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 9 — Atelier 5",
+        "revision_id": "ffr-saut-ballon-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-saut-ballon-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public, texte consulté",
+        "checked_on": "2026-09-06",
+        "id": "ffr-famille",
+        "language": "fr",
+        "note": "Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.",
+        "publisher": "FFR",
+        "title": "Rugby à la maison en famille",
+        "url": "https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Primaire / mini-rugby ; âge précis non indiqué",
+      "duration_min": null,
+      "id": "munster-grenouille",
+      "locator": "PDF page 15 — Teaching Cues",
+      "material": "Non renseigné",
+      "original_title": "Frog Leaps",
+      "page_end": 15,
+      "page_start": 15,
+      "players_max": null,
+      "players_min": null,
+      "review": "Description source ; exécution et adéquation au groupe à valider par éducateur.",
+      "source_id": "munster-fms",
+      "status": "documented",
+      "summary": "Position accroupie de grenouille.",
+      "theme": "motricité",
+      "title": "Sauts verticaux de grenouille",
+      "instructions": "Se réceptionner sans bruit.",
+      "organisation": "Position accroupie de grenouille.",
+      "steps": "Sauter en cherchant la hauteur puis revenir au sol.",
+      "field_coverage": {
+        "objectives": {
+          "state": "NOT_EXTRACTED"
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Position accroupie de grenouille.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-grenouille-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Sauter en cherchant la hauteur puis revenir au sol.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-grenouille-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se réceptionner sans bruit.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-grenouille-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-09",
+            "locator": "PDF page 15 — Teaching Cues",
+            "revision_id": "munster-grenouille-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "NOT_EXTRACTED"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-09",
+        "locator": "PDF page 15 — Teaching Cues",
+        "revision_id": "munster-grenouille-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-grenouille-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-09",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-06",
+        "id": "munster-fms",
+        "language": "en",
+        "note": "Ressource primaire et mini-rugby ; âge précis non donné.",
+        "publisher": "Munster Rugby",
+        "title": "Fundamental Movement — mars 2021",
+        "url": "https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf"
       },
       "model_status": "REVIEWED",
       "references": []
