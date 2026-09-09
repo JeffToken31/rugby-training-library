@@ -2,12 +2,13 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-77 fiches.
+97 fiches.
 
 - [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
 - [Avancer et passer avant le tag](fiches/rc-tagmatch.md) — jeu collectif ; RugbyCoaching.tv
 - [Binômes guidés par le signal du coach](fiches/nz-follow.md) — prise d’information ; New Zealand Rugby — Rugby Toolbox
+- [Bonds de kangourou vers l’avant](fiches/scot-kangaroo.md) — motricité ; Scottish Rugby
 - [Capturer les extraterrestres par la passe](fiches/rc-capture-aliens.md) — coopération ; RugbyCoaching.tv
 - [Cercle de passes avec demi-tours sautés](fiches/rc-circle-jump.md) — coordination ; RugbyCoaching.tv
 - [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) — coopération ; RugbyCoaching.tv
@@ -18,8 +19,12 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) — coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) — évitement ; World Rugby
 - [Chasseurs passeurs par trois](fiches/scot-corner.md) — passe ; Scottish Rugby
+- [Chat : libérer en roulant le ballon](fiches/scot-roll-tig.md) — évitement et opposition ; Scottish Rugby
+- [Chat chaos : délivré quand son chasseur est pris](fiches/scot-chaos-tig.md) — évitement et opposition ; Scottish Rugby
 - [Chat et déplacements animaux](fiches/scot-animal.md) — motricité ; Scottish Rugby
+- [Cinq attaquants face à cinq rideaux successifs](fiches/wr-five-walls.md) — évitement et opposition ; World Rugby
 - [Circuit de passes mémorisé](fiches/nz-memory.md) — mémoire et manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Conserver après avoir touché le sol](fiches/nz-ground-pass.md) — passe et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) — passe et soutien ; World Rugby
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
@@ -29,9 +34,11 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Deux contre un sans contact](fiches/rc-two-one.md) — passe ; RugbyCoaching.tv
 - [Dix passes - variante communautaire documentee](fiches/rc-ten.md) — passe ; RugbyCoaching.tv
 - [Duel debout pour avancer](fiches/ffr-lutte-avancer.md) — opposition et soutien ; FFR
+- [Duel d’évitement en couloir](fiches/nz-evading-player.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Épouvantails avec délivrance](fiches/wr-scarecrow.md) — évitement ; World Rugby
 - [Épouvantails — chasseurs passeurs](fiches/rc-team-scarecrow.md) — coopération ; RugbyCoaching.tv
 - [Équilibre du flamant](fiches/munster-flamant.md) — motricité ; Munster Rugby
+- [Fentes alternées du monstre](fiches/scot-monster.md) — motricité ; Scottish Rugby
 - [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) — passe et soutien ; World Rugby
 - [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) — prise d’information ; RugbyCoaching.tv
 - [La chaîne](fiches/scot-chaine.md) — coopération ; Scottish Rugby
@@ -41,7 +48,11 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Les statues](fiches/rc-statues.md) — déplacement ; RugbyCoaching.tv
 - [Les œufs dans les nids](fiches/rc-eggs.md) — déplacement ; RugbyCoaching.tv
 - [Manipulations autour du corps](fiches/nz-awareness.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Marche du grillon en tenant les chevilles](fiches/scot-cricket.md) — motricité ; Scottish Rugby
+- [Marche du singe à trois appuis](fiches/scot-monkey.md) — motricité ; Scottish Rugby
 - [Marcher en canard avec ballon](fiches/ffr-canard.md) — motricité ; FFR
+- [Miroir : rester face au porteur](fiches/nz-shadow-mirror.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
+- [Numéro appelé : ramasser puis affronter](fiches/nz-number-duel.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Opposition sans ballon, attaquant désigné](fiches/nz-no-ball.md) — prise d’information ; New Zealand Rugby — Rugby Toolbox
 - [Passe arrière avec jokers](fiches/scot-passback.md) — soutien ; Scottish Rugby
 - [Passer avec un soutien en retrait](fiches/rc-pairs.md) — passe ; RugbyCoaching.tv
@@ -52,11 +63,16 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Passes en cercle tourné vers l’extérieur](fiches/nz-circle.md) — passe ; New Zealand Rugby — Rugby Toolbox
 - [Passes en escalier par cinq](fiches/wr-formation.md) — passe et soutien ; World Rugby
 - [Passes en triangle et changement de posture](fiches/rc-triangle.md) — passe ; RugbyCoaching.tv
+- [Passes en zigzag et replacement en bout de ligne](fiches/nz-zigzag.md) — passe et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) — passe ; RugbyCoaching.tv
+- [Pieuvre à deux traversées perpendiculaires](fiches/nz-octopus-cross.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Premières passes en ligne](fiches/rc-pass-start.md) — passe ; RugbyCoaching.tv
 - [Quatre cibles, porteur immobile](fiches/rc-chaos-touch.md) — prise d’information ; RugbyCoaching.tv
 - [Quatre passeurs contre un intercepteur](fiches/rc-four-one.md) — passe ; RugbyCoaching.tv
 - [Ramasser, porter et reposer](fiches/nz-pick-place.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Ramper comme un crocodile](fiches/scot-crocodile.md) — motricité ; Scottish Rugby
+- [Rats et lapins : duel avec ballon en ligne droite](fiches/nz-rats-straight.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
+- [Rats et lapins : trajectoires libres](fiches/nz-rats-free.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Rebondir et échanger en binôme](fiches/rc-bounce.md) — manipulation ; RugbyCoaching.tv
 - [Recevoir à différentes hauteurs et passer](fiches/ffr-guide-recevoir-passer.md) — passe ; Fédération Française de Rugby
 - [Relais avec changements de portage](fiches/nz-handling-relay.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
@@ -71,10 +87,14 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) — jeu au pied ; Fédération Française de Rugby
 - [Speedy — un ballon chacun](fiches/ffr-speedy-individuel.md) — réactivité ; FFR — Direction Technique Nationale
 - [Speedy — un ballon pour deux](fiches/ffr-speedy-partage.md) — réactivité ; FFR — Direction Technique Nationale
+- [Suivre et réagir au choix de transmission](fiches/wr-follow-choice.md) — passe et coopération ; World Rugby
+- [Suivre l’ombre du porteur](fiches/nz-shadow.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Tag : défenseurs numérotés](fiches/rc-numbers-tag.md) — prise d’information ; RugbyCoaching.tv
 - [Tag mania et délivrance](fiches/rc-tagmania.md) — déplacement ; RugbyCoaching.tv
+- [Taper au pied puis passer en ligne](fiches/nz-tap-pass.md) — passe et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Tennis à la main](fiches/scot-tennis.md) — coordination ; Scottish Rugby
 - [Toucher avec rappel des défenseurs par couleur](fiches/rc-colour-touch.md) — prise d’information ; RugbyCoaching.tv
+- [Traverser et donner à un partenaire extérieur](fiches/scot-pass-pal.md) — passe et coopération ; Scottish Rugby
 - [Traverser face aux chasseurs](fiches/rc-bulldog.md) — déplacement ; RugbyCoaching.tv
 - [Traverser les zones gardées](fiches/scot-zones.md) — évitement ; Scottish Rugby
 - [Trois contre deux avec passes en arrière](fiches/wr-tag-3v2.md) — opposition et soutien ; World Rugby

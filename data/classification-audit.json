@@ -1059,6 +1059,186 @@
       "discriminant": "Bascule attaquant vers défenseur après la passe, absente des surnombres à rôles fixes.",
       "source_id": "wr-noncontact",
       "locator": "Pass, Defend, Attack"
+    },
+    {
+      "variant_id": "nz-evading-player",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Duel positionné, défenseur sur ligne ; distinct des départs réactifs avec ramassage.",
+      "source_id": "nz-evading-player-source",
+      "locator": "Evading the Player — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-octopus-cross",
+      "family_id": "F13",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.",
+      "source_id": "nz-octopus-cross-source",
+      "locator": "Octopus — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-tap-pass",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Enchaînement pose/tap/passe et déplacement de la ligne, absent des passes latérales simples.",
+      "source_id": "nz-tap-pass-source",
+      "locator": "Tap pass Tap — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-ground-pass",
+      "family_id": "F10",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante de conservation : contact au sol obligatoire, délai et interdiction de remise immédiate.",
+      "source_id": "nz-ground-pass-source",
+      "locator": "Touch the Ground Pass — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-number-duel",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles.",
+      "source_id": "nz-number-duel-source",
+      "locator": "Number Race 2 — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-shadow",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Poursuite continue en binôme sans capture ni refuge, différente du suivi collectif et des chasses à délivrance.",
+      "source_id": "nz-shadow-source",
+      "locator": "Shadow Run — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-zigzag",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.",
+      "source_id": "nz-zigzag-source",
+      "locator": "Zig Zag Passing — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-rats-straight",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Duel avec ballon et destination opposée ; munster-rats est une poursuite vers le refuge sans ballon.",
+      "source_id": "nz-rats34-source",
+      "locator": "Rats and Rabbits 3 — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-rats-free",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.",
+      "source_id": "nz-rats34-source",
+      "locator": "Rats and Rabbits 4 — organisation et déroulement"
+    },
+    {
+      "variant_id": "scot-pass-pal",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 11 — Pass to a pal"
+    },
+    {
+      "variant_id": "scot-chaos-tig",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 15 — Chaos Tig"
+    },
+    {
+      "variant_id": "scot-roll-tig",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 15 — Roll the ball tig"
+    },
+    {
+      "variant_id": "scot-monkey",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Appui manuel unilatéral, différent du gorille à deux mains.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 16 — Monkey Walk"
+    },
+    {
+      "variant_id": "scot-cricket",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 16 — Cricket Walk"
+    },
+    {
+      "variant_id": "scot-crocodile",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Coordination du même côté et posture très basse ; différente de ffr-appuis dos horizontal.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 16 — Crocodile Walk"
+    },
+    {
+      "variant_id": "scot-kangaroo",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 16 — Kangaroo Hop"
+    },
+    {
+      "variant_id": "scot-monster",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 16 — Monster Lunge"
+    },
+    {
+      "variant_id": "wr-follow-choice",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante de wr-follow-leader : choisir entre trois modes de transmission oblige le soutien à réagir.",
+      "source_id": "wr-noncontact",
+      "locator": "Pass and Support - Follow the Leader — organisation et déroulement"
+    },
+    {
+      "variant_id": "wr-five-walls",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.",
+      "source_id": "wr-noncontact",
+      "locator": "Passing - 5 v 1 x 5 — organisation et déroulement"
+    },
+    {
+      "variant_id": "nz-shadow-mirror",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.",
+      "source_id": "nz-shadow-source",
+      "locator": "Shadow Run — progression 2 — organisation et déroulement"
     }
   ],
   "pair_reviews": [

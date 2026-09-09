@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-105 fiches · 62 sources
+125 fiches · 70 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -118,6 +118,32 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 **Points coach issus de la source :** Communiquer et rester proches.
 
 **Espace source :** Grand espace, partenaires à environ un mètre
+
+## Bonds de kangourou vers l’avant
+
+**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.**
+
+Départ en demi-flexion.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Kangaroo Hop · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Départ en demi-flexion.
+
+**Déroulement :** Bondir haut et loin, réceptionner en demi-flexion puis recommencer.
+
+**Consignes :** Revenir en demi-flexion à chaque réception.
+
+Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
 
 ## Capturer les extraterrestres par la passe
 
@@ -475,6 +501,58 @@ Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une 
 
 **Accès :** PDF public consulté
 
+## Chat : libérer en roulant le ballon
+
+**évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.**
+
+Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
+
+**Matériel :** Ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 15 — Roll the ball tig · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
+
+**Déroulement :** Le joueur touché forme un tunnel avec ses jambes ; un partenaire fait rouler le ballon entre elles puis le ramasse.
+
+**Consignes :** Le passage du ballon délivre le joueur immobilisé.
+
+Détails extraits le 2026-09-09 — PDF page 15 — Roll the ball tig.
+
+## Chat chaos : délivré quand son chasseur est pris
+
+**évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.**
+
+Tous les joueurs sont chasseurs.
+
+**Matériel :** Non renseigné
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 15 — Chaos Tig · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Tous les joueurs sont chasseurs.
+
+**Déroulement :** Chercher à rester le dernier en mouvement ; un joueur touché se fige à genoux.
+
+**Consignes :** Revenir dans le jeu lorsque la personne qui vous a touché est elle-même touchée.
+
+Détails extraits le 2026-09-09 — PDF page 15 — Chaos Tig.
+
 ## Chat et déplacements animaux
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
@@ -523,6 +601,34 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 
 **Manche source :** 8 secondes ; durée totale inconnue.
 
+## Cinq attaquants face à cinq rideaux successifs
+
+**évitement et opposition · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.**
+
+Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
+
+**Matériel :** Ballons et plots
+
+**Durée atelier :** 10 min
+
+**Effectif :** 15–15 — par couloir : dix attaquants en deux groupes et cinq défenseurs
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Passing - 5 v 1 x 5 — organisation et déroulement · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
+
+**Déroulement :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
+
+**Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
+
+Détails extraits le 2026-09-09 — Passing - 5 v 1 x 5 — organisation et déroulement.
+
+**Espace source :** 30 × 20 m
+
 ## Circuit de passes mémorisé
 
 **mémoire et manipulation · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
@@ -568,6 +674,34 @@ Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 10, atelier 2 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+## Conserver après avoir touché le sol
+
+**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de conservation : contact au sol obligatoire, délai et interdiction de remise immédiate.**
+
+Deux équipes de six à douze dans le carré.
+
+**Matériel :** Un ballon, dix à douze plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 12–24 — total des deux équipes ; six à douze par équipe
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — Touch the Ground Pass — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Deux équipes de six à douze dans le carré.
+
+**Déroulement :** Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.
+
+**Consignes :** Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession.
+
+Détails extraits le 2026-09-09 — Touch the Ground Pass — organisation et déroulement.
+
+**Espace source :** 15 × 15 m
 
 ## Conserver par dix passes sans interception
 
@@ -913,6 +1047,34 @@ Deux enfants debout dans une zone.
 
 Détails extraits le 2026-09-09 — PDF page 9 — Atelier 4.
 
+## Duel d’évitement en couloir
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel positionné, défenseur sur ligne ; distinct des départs réactifs avec ramassage.**
+
+Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
+
+**Matériel :** Un ballon par binôme
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2
+
+**Adaptation U8 proposée :** Proposition IA : toucher à deux mains, sans plaquage, raffut ni coup de pied ; à confirmer par le coach.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — Evading the Player — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
+
+**Déroulement :** Déborder le défenseur en restant dans le couloir ; alterner le côté de départ.
+
+**Consignes :** Le coach choisit le mode défensif : la source permet le toucher à deux mains.
+
+Détails extraits le 2026-09-09 — Evading the Player — organisation et déroulement.
+
+**Espace source :** 22 × 15 m
+
 ## Duel long
 
 **déplacement · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -1046,6 +1208,32 @@ Debout sur un pied, autre genou devant.
 **Consignes :** Se figer après le changement.
 
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
+
+## Fentes alternées du monstre
+
+**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.**
+
+Debout, bras levés à largeur d’épaules, mains en griffes.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Monster Lunge · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Debout, bras levés à largeur d’épaules, mains en griffes.
+
+**Déroulement :** Faire une fente en avant puis recommencer avec l’autre jambe.
+
+**Consignes :** Maintenir l’équilibre pendant la fente.
+
+Détails extraits le 2026-09-09 — PDF page 16 — Monster Lunge.
 
 ## File avec transmission au nouveau meneur
 
@@ -1575,6 +1763,58 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 **Espace source :** 10 × 10 m à ajuster selon effectif
 
+## Marche du grillon en tenant les chevilles
+
+**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.**
+
+Accroupi, bras entre les jambes, mains sur les chevilles.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Cricket Walk · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Accroupi, bras entre les jambes, mains sur les chevilles.
+
+**Déroulement :** Marcher en avant, en arrière et de côté.
+
+**Consignes :** Conserver la prise aux chevilles.
+
+Détails extraits le 2026-09-09 — PDF page 16 — Cricket Walk.
+
+## Marche du singe à trois appuis
+
+**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Appui manuel unilatéral, différent du gorille à deux mains.**
+
+Deux pieds et une main en appui.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Proposition IA : changer de main avant fatigue et arrêter en cas d’inconfort ; à confirmer par le coach.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Monkey Walk · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Deux pieds et une main en appui.
+
+**Déroulement :** Se déplacer avec ces trois appuis ; changer la main utilisée lorsqu’elle fatigue.
+
+**Consignes :** Conserver deux pieds et une seule main au sol pendant le déplacement.
+
+Détails extraits le 2026-09-09 — PDF page 16 — Monkey Walk.
+
 ## Marcher en canard avec ballon
 
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -1600,6 +1840,62 @@ Enfant dans un couloir.
 **Consignes :** Ne poser ni main, ni genou, ni ballon au sol.
 
 Détails extraits le 2026-09-09 — PDF page 8 — Atelier 1.
+
+## Miroir : rester face au porteur
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.**
+
+Binôme face à face, un porteur de ballon.
+
+**Matériel :** Un ballon par binôme
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Shadow Run — progression 2 — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Binôme face à face, un porteur de ballon.
+
+**Déroulement :** Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.
+
+**Consignes :** Ballon à deux mains et tête levée ; éviter les autres binômes.
+
+Détails extraits le 2026-09-09 — Shadow Run — progression 2 — organisation et déroulement.
+
+**Espace source :** 20 × 20 m
+
+## Numéro appelé : ramasser puis affronter
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles. Source contradictoire : installation indique plusieurs ballons, liste et déroulement un seul ; ces derniers retenus.**
+
+Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
+
+**Matériel :** Un ballon et rubans selon liste et déroulement
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 10–10
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — Number Race 2 — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
+
+**Déroulement :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
+
+**Consignes :** Répéter avec un autre numéro ; rubans prévus par la source.
+
+Détails extraits le 2026-09-09 — Number Race 2 — organisation et déroulement.
+
+**Espace source :** 15 × 10 m
 
 ## Opposition sans ballon, attaquant désigné
 
@@ -1959,6 +2255,34 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 **Points coach issus de la source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
 
+## Passes en zigzag et replacement en bout de ligne
+
+**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.**
+
+Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
+
+**Matériel :** Ballons selon maîtrise, au maximum un pour deux
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Zig Zag Passing — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
+
+**Déroulement :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
+
+**Consignes :** Passer des deux côtés, communiquer et doser pour le receveur.
+
+Détails extraits le 2026-09-09 — Zig Zag Passing — organisation et déroulement.
+
+**Espace source :** 10 × 50 m
+
 ## Passes latérales en vagues de trois
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -1990,6 +2314,34 @@ Trois joueurs avancent et transmettent successivement le ballon en atteignant un
 Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
 
 **Points coach issus de la source :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
+
+## Pieuvre à deux traversées perpendiculaires
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.**
+
+Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
+
+**Matériel :** Quatre plots ; rubans si jeu au tag
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Octopus — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
+
+**Déroulement :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
+
+**Consignes :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
+
+Détails extraits le 2026-09-09 — Octopus — organisation et déroulement.
+
+**Espace source :** À ajuster au groupe
 
 ## Plaquage et libération
 
@@ -2179,6 +2531,32 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 **Espace source :** 20 × 20 m
 
+## Ramper comme un crocodile
+
+**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Coordination du même côté et posture très basse ; différente de ffr-appuis dos horizontal.**
+
+Allongé au départ, puis appui sur bras et pieds.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Crocodile Walk · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Allongé au départ, puis appui sur bras et pieds.
+
+**Déroulement :** Avancer bras et jambe gauches ensemble, puis côté droit.
+
+**Consignes :** Poitrine proche du sol et coudes hauts.
+
+Détails extraits le 2026-09-09 — PDF page 16 — Crocodile Walk.
+
 ## Rats et lapins
 
 **déplacement · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
@@ -2210,6 +2588,62 @@ Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son
 **Plus simple :** Sans poursuite.
 
 **Plus difficile :** Varier les signaux.
+
+## Rats et lapins : duel avec ballon en ligne droite
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel avec ballon et destination opposée ; munster-rats est une poursuite vers le refuge sans ballon.**
+
+Binômes face à face à dix à quinze mètres ; ballon devant eux.
+
+**Matériel :** Ballons, ceintures et rubans
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Rats and Rabbits 3 — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Binômes face à face à dix à quinze mètres ; ballon devant eux.
+
+**Déroulement :** Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.
+
+**Consignes :** Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre.
+
+Détails extraits le 2026-09-09 — Rats and Rabbits 3 — organisation et déroulement.
+
+**Espace source :** Deux lignes espacées de 10 à 15 m
+
+## Rats et lapins : trajectoires libres
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.**
+
+Même départ en binômes face à face, ballon au sol.
+
+**Matériel :** Ballons, ceintures et rubans
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Rats and Rabbits 4 — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Même départ en binômes face à face, ballon au sol.
+
+**Déroulement :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
+
+**Consignes :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
+
+Détails extraits le 2026-09-09 — Rats and Rabbits 4 — organisation et déroulement.
+
+**Espace source :** Départ à 10 à 15 m
 
 ## Rebondir et échanger en binôme
 
@@ -2665,6 +3099,62 @@ Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisati
 
 **Famille proposée :** reaction-course
 
+## Suivre et réagir au choix de transmission
+
+**passe et coopération · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Variante de wr-follow-leader : choisir entre trois modes de transmission oblige le soutien à réagir.**
+
+Groupe en file derrière le porteur.
+
+**Matériel :** Ballon et plots
+
+**Durée atelier :** 6 min
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support - Follow the Leader — organisation et déroulement · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Organisation :** Groupe en file derrière le porteur.
+
+**Déroulement :** Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue.
+
+**Consignes :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
+
+Détails extraits le 2026-09-09 — Pass and Support - Follow the Leader — organisation et déroulement.
+
+**Espace source :** 20 × 20 m
+
+## Suivre l’ombre du porteur
+
+**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Poursuite continue en binôme sans capture ni refuge, différente du suivi collectif et des chasses à délivrance.**
+
+Binômes, un ballon ; trio possible si effectif impair.
+
+**Matériel :** Un ballon par binôme
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Shadow Run — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Binômes, un ballon ; trio possible si effectif impair.
+
+**Déroulement :** Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.
+
+**Consignes :** Ballon à deux mains, tête levée pour éviter les autres binômes.
+
+Détails extraits le 2026-09-09 — Shadow Run — organisation et déroulement.
+
+**Espace source :** 20 × 20 m
+
 ## Tag : défenseurs numérotés
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
@@ -2720,6 +3210,34 @@ La première situation invite chacun à récolter des rubans. Une progression fi
 **Consignes :** Rester sur le terrain et protéger son ballon.
 
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+
+## Taper au pied puis passer en ligne
+
+**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Enchaînement pose/tap/passe et déplacement de la ligne, absent des passes latérales simples.**
+
+Groupes de quatre à cinq, alignés à deux longueurs de bras.
+
+**Matériel :** Un ballon par ligne, plots
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 4–5 — par groupe
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Tap pass Tap — organisation et déroulement · consultée le 2026-09-09
+
+**Accès :** Description publique consultée
+
+**Organisation :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
+
+**Déroulement :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
+
+**Consignes :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
+
+Détails extraits le 2026-09-09 — Tap pass Tap — organisation et déroulement.
+
+**Espace source :** 5 × 15 m
 
 ## Tennis à la main
 
@@ -2794,6 +3312,32 @@ Passer au partenaire tout en trottinant avec le ballon.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 10 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+## Traverser et donner à un partenaire extérieur
+
+**passe et coopération · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory. Source contradictoire : groupe de quatre annoncé mais quatre dehors et un dedans ; effectif numérique inconnu.**
+
+Partenaires sur les bords du carré et un porteur au centre.
+
+**Matériel :** Un ballon par groupe, plots, chasubles
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 11 — Pass to a pal · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Organisation :** Partenaires sur les bords du carré et un porteur au centre.
+
+**Déroulement :** Le porteur rejoint un partenaire extérieur et lui donne le ballon ; celui-ci traverse puis transmet à un autre partenaire de son équipe.
+
+**Consignes :** Éviter les autres joueurs pendant la traversée.
+
+Détails extraits le 2026-09-09 — PDF page 11 — Pass to a pal.
 
 ## Traverser face aux chasseurs
 
@@ -2988,16 +3532,24 @@ Détails extraits le 2026-09-09 — Relays with Passing.
 - [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — Description publique indexée consultée ; capture à vérifier.
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — Description publique indexée consultée ; capture à vérifier.
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — Description publique consultée.
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+- [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — Description publique consultée.
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
 - [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — Description publique consultée.
 - [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — Description publique consultée.
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
 - [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — Description publique consultée.
+- [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — Description publique consultée.
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — Description publique consultée.
+- [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Description publique consultée.
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
+- [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Description publique consultée.
 - [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — Description publique consultée.
+- [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Description publique consultée.
+- [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Description publique consultée.
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
+- [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Description publique consultée.
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) — Page publique découverte ; capture et contenu à vérifier.

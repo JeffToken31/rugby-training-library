@@ -1,0 +1,999 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-evading-player-detail-1",
+      "variant_id": "nz-evading-player",
+      "source_id": "nz-evading-player-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Evading the Player — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un attaquant avec ballon face à un défenseur placé sur une ligne transversale."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Déborder le défenseur en restant dans le couloir ; alterner le côté de départ."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le coach choisit le mode défensif : la source permet le toucher à deux mains."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par binôme"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "22 × 15 m"
+        }
+      }
+    },
+    {
+      "id": "nz-octopus-cross-detail-1",
+      "variant_id": "nz-octopus-cross",
+      "source_id": "nz-octopus-cross-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Octopus — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre plots ; rubans si jeu au tag"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "À ajuster au groupe"
+        }
+      }
+    },
+    {
+      "id": "nz-tap-pass-detail-1",
+      "variant_id": "nz-tap-pass",
+      "source_id": "nz-tap-pass-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Tap pass Tap — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupes de quatre à cinq, alignés à deux longueurs de bras."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par ligne, plots"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 4
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "5 × 15 m"
+        }
+      }
+    },
+    {
+      "id": "nz-ground-pass-detail-1",
+      "variant_id": "nz-ground-pass",
+      "source_id": "nz-ground-pass-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Touch the Ground Pass — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de six à douze dans le carré."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon, dix à douze plots"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 12
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 24
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "15 × 15 m"
+        }
+      }
+    },
+    {
+      "id": "nz-number-duel-detail-1",
+      "variant_id": "nz-number-duel",
+      "source_id": "nz-number-duel-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Number Race 2 — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Répéter avec un autre numéro ; rubans prévus par la source."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon et rubans selon liste et déroulement"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "15 × 10 m"
+        }
+      }
+    },
+    {
+      "id": "nz-shadow-detail-1",
+      "variant_id": "nz-shadow",
+      "source_id": "nz-shadow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Shadow Run — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes, un ballon ; trio possible si effectif impair."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains, tête levée pour éviter les autres binômes."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par binôme"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "20 × 20 m"
+        }
+      }
+    },
+    {
+      "id": "nz-zigzag-detail-1",
+      "variant_id": "nz-zigzag",
+      "source_id": "nz-zigzag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Zig Zag Passing — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer des deux côtés, communiquer et doser pour le receveur."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons selon maîtrise, au maximum un pour deux"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "10 × 50 m"
+        }
+      }
+    },
+    {
+      "id": "nz-rats-straight-detail-1",
+      "variant_id": "nz-rats-straight",
+      "source_id": "nz-rats34-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Rats and Rabbits 3 — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes face à face à dix à quinze mètres ; ballon devant eux."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons, ceintures et rubans"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes espacées de 10 à 15 m"
+        }
+      }
+    },
+    {
+      "id": "nz-rats-free-detail-1",
+      "variant_id": "nz-rats-free",
+      "source_id": "nz-rats34-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Rats and Rabbits 4 — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Même départ en binômes face à face, ballon au sol."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons, ceintures et rubans"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Départ à 10 à 15 m"
+        }
+      }
+    },
+    {
+      "id": "scot-pass-pal-detail-1",
+      "variant_id": "scot-pass-pal",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 11 — Pass to a pal",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Partenaires sur les bords du carré et un porteur au centre."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur rejoint un partenaire extérieur et lui donne le ballon ; celui-ci traverse puis transmet à un autre partenaire de son équipe."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter les autres joueurs pendant la traversée."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par groupe, plots, chasubles"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "CONFLICTING",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "CONFLICTING",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-chaos-tig-detail-1",
+      "variant_id": "scot-chaos-tig",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 15 — Chaos Tig",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Tous les joueurs sont chasseurs."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher à rester le dernier en mouvement ; un joueur touché se fige à genoux."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Revenir dans le jeu lorsque la personne qui vous a touché est elle-même touchée."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-roll-tig-detail-1",
+      "variant_id": "scot-roll-tig",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 15 — Roll the ball tig",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le joueur touché forme un tunnel avec ses jambes ; un partenaire fait rouler le ballon entre elles puis le ramasse."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le passage du ballon délivre le joueur immobilisé."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-monkey-detail-1",
+      "variant_id": "scot-monkey",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 16 — Monkey Walk",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux pieds et une main en appui."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer avec ces trois appuis ; changer la main utilisée lorsqu’elle fatigue."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Conserver deux pieds et une seule main au sol pendant le déplacement."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-cricket-detail-1",
+      "variant_id": "scot-cricket",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 16 — Cricket Walk",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Accroupi, bras entre les jambes, mains sur les chevilles."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Marcher en avant, en arrière et de côté."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Conserver la prise aux chevilles."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-crocodile-detail-1",
+      "variant_id": "scot-crocodile",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 16 — Crocodile Walk",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Allongé au départ, puis appui sur bras et pieds."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer bras et jambe gauches ensemble, puis côté droit."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Poitrine proche du sol et coudes hauts."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-kangaroo-detail-1",
+      "variant_id": "scot-kangaroo",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 16 — Kangaroo Hop",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Départ en demi-flexion."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Bondir haut et loin, réceptionner en demi-flexion puis recommencer."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Revenir en demi-flexion à chaque réception."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "scot-monster-detail-1",
+      "variant_id": "scot-monster",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "PDF page 16 — Monster Lunge",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Debout, bras levés à largeur d’épaules, mains en griffes."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Faire une fente en avant puis recommencer avec l’autre jambe."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Maintenir l’équilibre pendant la fente."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "wr-follow-choice-detail-1",
+      "variant_id": "wr-follow-choice",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Pass and Support - Follow the Leader — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupe en file derrière le porteur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon et plots"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "20 × 20 m"
+        }
+      }
+    },
+    {
+      "id": "wr-five-walls-detail-1",
+      "variant_id": "wr-five-walls",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Passing - 5 v 1 x 5 — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons et plots"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 15
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 15
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "30 × 20 m"
+        }
+      }
+    },
+    {
+      "id": "nz-shadow-mirror-detail-1",
+      "variant_id": "nz-shadow-mirror",
+      "source_id": "nz-shadow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-09",
+      "locator": "Shadow Run — progression 2 — organisation et déroulement",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binôme face à face, un porteur de ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains et tête levée ; éviter les autres binômes."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon par binôme"
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "20 × 20 m"
+        }
+      }
+    }
+  ]
+}

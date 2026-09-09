@@ -331,3 +331,28 @@ Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le cor
 - F04 : [Équilibre du flamant](fiches/munster-flamant.md) — Équilibre unipodal avec changement, pas déplacement de poursuite.
 - F04 : [Sauts verticaux de grenouille](fiches/munster-grenouille.md) — Saut vertical depuis accroupi, distinct du franchissement d’objet.
 - F16 : [Passer puis devenir défenseur](fiches/wr-pass-defend.md) — Bascule attaquant vers défenseur après la passe, absente des surnombres à rôles fixes.
+
+## Lot de vingt : corpus actuel à 125 fiches
+
+114 candidates individuelles, 9 insuffisantes et 2 composites ou à périmètre particulier ; unicité non certifiée. Toutes les 125 fiches ont une affectation éditoriale. Voir [bilan du lot](../docs/LOT_VINGT_2026-09-09.md).
+
+- F06 : [Duel d’évitement en couloir](fiches/nz-evading-player.md) — Duel positionné, défenseur sur ligne ; distinct des départs réactifs avec ramassage.
+- F13 : [Pieuvre à deux traversées perpendiculaires](fiches/nz-octopus-cross.md) — Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.
+- F09 : [Taper au pied puis passer en ligne](fiches/nz-tap-pass.md) — Enchaînement pose/tap/passe et déplacement de la ligne, absent des passes latérales simples.
+- F10 : [Conserver après avoir touché le sol](fiches/nz-ground-pass.md) — Variante de conservation : contact au sol obligatoire, délai et interdiction de remise immédiate.
+- F06 : [Numéro appelé : ramasser puis affronter](fiches/nz-number-duel.md) — Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles.
+- F06 : [Suivre l’ombre du porteur](fiches/nz-shadow.md) — Poursuite continue en binôme sans capture ni refuge, différente du suivi collectif et des chasses à délivrance.
+- F08 : [Passes en zigzag et replacement en bout de ligne](fiches/nz-zigzag.md) — Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.
+- F06 : [Rats et lapins : duel avec ballon en ligne droite](fiches/nz-rats-straight.md) — Duel avec ballon et destination opposée ; munster-rats est une poursuite vers le refuge sans ballon.
+- F06 : [Rats et lapins : trajectoires libres](fiches/nz-rats-free.md) — Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.
+- F08 : [Traverser et donner à un partenaire extérieur](fiches/scot-pass-pal.md) — Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory.
+- F12 : [Chat chaos : délivré quand son chasseur est pris](fiches/scot-chaos-tig.md) — Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.
+- F12 : [Chat : libérer en roulant le ballon](fiches/scot-roll-tig.md) — Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.
+- F04 : [Marche du singe à trois appuis](fiches/scot-monkey.md) — Appui manuel unilatéral, différent du gorille à deux mains.
+- F04 : [Marche du grillon en tenant les chevilles](fiches/scot-cricket.md) — Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.
+- F04 : [Ramper comme un crocodile](fiches/scot-crocodile.md) — Coordination du même côté et posture très basse ; différente de ffr-appuis dos horizontal.
+- F04 : [Bonds de kangourou vers l’avant](fiches/scot-kangaroo.md) — Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.
+- F04 : [Fentes alternées du monstre](fiches/scot-monster.md) — Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.
+- F07 : [Suivre et réagir au choix de transmission](fiches/wr-follow-choice.md) — Variante de wr-follow-leader : choisir entre trois modes de transmission oblige le soutien à réagir.
+- F16 : [Cinq attaquants face à cinq rideaux successifs](fiches/wr-five-walls.md) — Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.
+- F06 : [Miroir : rester face au porteur](fiches/nz-shadow-mirror.md) — Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.

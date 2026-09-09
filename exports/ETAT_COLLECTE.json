@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T20:13:13.504224+00:00",
-  "variants": 105,
-  "documented": 96,
+  "generated_at": "2026-09-09T20:27:23.847439+00:00",
+  "variants": 125,
+  "documented": 116,
   "incomplete": 9,
-  "enriched": 87,
-  "resources": 62,
-  "captured_resources": 54,
+  "enriched": 107,
+  "resources": 70,
+  "captured_resources": 62,
   "families": 2,
   "events": [],
   "resource_inventory": [
@@ -197,6 +197,17 @@
       }
     },
     {
+      "resource_id": "nz-evading-player-source",
+      "title": "Evading the Player",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/evading-the-player",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:25:52.609709+00:00"
+      }
+    },
+    {
       "resource_id": "nz-follow-source",
       "title": "Binômes guidés par le signal du coach",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1",
@@ -205,6 +216,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:15:36.143783+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-ground-pass-source",
+      "title": "Touch the Ground Pass",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:26:03.465389+00:00"
       }
     },
     {
@@ -263,6 +285,17 @@
       }
     },
     {
+      "resource_id": "nz-number-duel-source",
+      "title": "Number Race 2",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/number-race-2",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:26:07.040443+00:00"
+      }
+    },
+    {
       "resource_id": "nz-numbers-race-source",
       "title": "Course numérotée avec deux ballons",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/numbers-race",
@@ -271,6 +304,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:44:06.618673+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-octopus-cross-source",
+      "title": "Octopus",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/octopus-1",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:25:56.337009+00:00"
       }
     },
     {
@@ -285,6 +329,17 @@
       }
     },
     {
+      "resource_id": "nz-rats34-source",
+      "title": "Rats and Rabbits 3 & 4",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:26:18.037227+00:00"
+      }
+    },
+    {
       "resource_id": "nz-rip-source",
       "title": "Rip Tag",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1",
@@ -296,6 +351,28 @@
       }
     },
     {
+      "resource_id": "nz-shadow-source",
+      "title": "Shadow Run",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/shadow-run",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:26:10.687482+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-tap-pass-source",
+      "title": "Tap pass Tap",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:25:59.884619+00:00"
+      }
+    },
+    {
       "resource_id": "nz-touchdown-source",
       "title": "Passer puis échapper au poursuivant",
       "url": "https://www.rugbytoolbox.co.nz/training/technique/touchdown",
@@ -304,6 +381,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T17:32:37.650827+00:00"
+      }
+    },
+    {
+      "resource_id": "nz-zigzag-source",
+      "title": "Zig Zag Passing",
+      "url": "https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-09T20:26:14.368713+00:00"
       }
     },
     {

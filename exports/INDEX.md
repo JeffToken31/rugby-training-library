@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-105 fiches — les propositions terrain restent à valider par le coach.
+125 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -92,6 +92,7 @@
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
 | [Alterner trois formes du dos](fiches/ffr-dos-postures.md) | M8 | Documentée ; à valider |
+| [Bonds de kangourou vers l’avant](fiches/scot-kangaroo.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 | [Carré 2](fiches/ffr-carre2-atelier.md) | M8 | À compléter |
 | [Chasse aux trésors — parcours](fiches/ffr-tresors2023.md) | M8 | Documentée ; à valider |
 | [Chat et déplacements animaux](fiches/scot-animal.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
@@ -99,7 +100,11 @@
 | [Déplacement du crabe](fiches/munster-crabe.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
 | [Déplacement du gorille](fiches/munster-gorille.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
 | [Équilibre du flamant](fiches/munster-flamant.md) | Primaire / mini-rugby ; âge précis non indiqué | Documentée ; à valider |
+| [Fentes alternées du monstre](fiches/scot-monster.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
+| [Marche du grillon en tenant les chevilles](fiches/scot-cricket.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
+| [Marche du singe à trois appuis](fiches/scot-monkey.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 | [Marcher en canard avec ballon](fiches/ffr-canard.md) | M8 | Documentée ; à valider |
+| [Ramper comme un crocodile](fiches/scot-crocodile.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 | [Relais avec essai](fiches/scot-relais.md) | Primaire (Écosse) | Documentée ; à valider |
 | [Relais — courir, rouler, passer](fiches/ffr-relais-atelier.md) | M8 | À compléter |
 | [Roulade et relevé](fiches/ffr-roulade-releve.md) | M8 | Documentée ; à valider |
@@ -149,6 +154,16 @@
 | [Recevoir en trottinant](fiches/ffr-reception.md) | M10 | Documentée ; à valider |
 | [Rugby à quatre cibles](fiches/rc-netball.md) | U8 (classement du site) | 8 min / 6–10 enfants |
 | [Transmettre en trottinant](fiches/ffr-transmettre.md) | M10 | Documentée ; à valider |
+
+## Passe et coopération
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Conserver après avoir touché le sol](fiches/nz-ground-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Passes en zigzag et replacement en bout de ligne](fiches/nz-zigzag.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Suivre et réagir au choix de transmission](fiches/wr-follow-choice.md) | Initiation ; âge non précisé | Documentée ; à valider |
+| [Taper au pied puis passer en ligne](fiches/nz-tap-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Traverser et donner à un partenaire extérieur](fiches/scot-pass-pal.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 
 ## Passe et soutien
 
@@ -213,4 +228,19 @@
 | [Chasse à la frite avec délivrance par la main](fiches/nz-noodle-highfive.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Chasse à la frite avec délivrance par passe](fiches/nz-noodle-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Rubans avec restitution avant reprise](fiches/nz-rip.md) | Under 7 (classement du site) | Documentée ; à valider |
+
+## Évitement et opposition
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Chat : libérer en roulant le ballon](fiches/scot-roll-tig.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
+| [Chat chaos : délivré quand son chasseur est pris](fiches/scot-chaos-tig.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
+| [Cinq attaquants face à cinq rideaux successifs](fiches/wr-five-walls.md) | Initiation ; âge non précisé | Documentée ; à valider |
+| [Duel d’évitement en couloir](fiches/nz-evading-player.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Miroir : rester face au porteur](fiches/nz-shadow-mirror.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Numéro appelé : ramasser puis affronter](fiches/nz-number-duel.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Pieuvre à deux traversées perpendiculaires](fiches/nz-octopus-cross.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Rats et lapins : duel avec ballon en ligne droite](fiches/nz-rats-straight.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Rats et lapins : trajectoires libres](fiches/nz-rats-free.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Suivre l’ombre du porteur](fiches/nz-shadow.md) | Under 7 (classement du site) | Documentée ; à valider |
 

@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-105 fiches ; 96 documentées ; 9 incomplètes.
-87 fiches enrichies ; 62 ressources ; 54 ressources capturées localement.
+125 fiches ; 116 documentées ; 9 incomplètes.
+107 fiches enrichies ; 70 ressources ; 62 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 49 | 56 | 0 | 0 | 0 |
-| organisation | 77 | 28 | 0 | 0 | 0 |
-| steps | 78 | 27 | 0 | 0 | 0 |
-| instructions | 71 | 34 | 0 | 0 | 0 |
-| success_criteria | 14 | 91 | 0 | 0 | 0 |
-| common_errors | 7 | 98 | 0 | 0 | 0 |
-| coach_points | 36 | 69 | 0 | 0 | 0 |
-| duration_min | 15 | 63 | 27 | 0 | 0 |
-| players_min | 43 | 61 | 1 | 0 | 0 |
-| players_max | 44 | 61 | 0 | 0 | 0 |
-| space | 30 | 71 | 4 | 0 | 0 |
-| material | 85 | 20 | 0 | 0 | 0 |
+| objectives | 49 | 76 | 0 | 0 | 0 |
+| organisation | 97 | 28 | 0 | 0 | 0 |
+| steps | 98 | 27 | 0 | 0 | 0 |
+| instructions | 91 | 34 | 0 | 0 | 0 |
+| success_criteria | 14 | 111 | 0 | 0 | 0 |
+| common_errors | 7 | 118 | 0 | 0 | 0 |
+| coach_points | 36 | 89 | 0 | 0 | 0 |
+| duration_min | 17 | 63 | 45 | 0 | 0 |
+| players_min | 48 | 61 | 15 | 0 | 1 |
+| players_max | 49 | 61 | 14 | 0 | 1 |
+| space | 42 | 71 | 12 | 0 | 0 |
+| material | 104 | 21 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -50,16 +50,24 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:33.602634+00:00
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:41.381553+00:00
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
+- [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:25:52.609709+00:00
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:36.143783+00:00
+- [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:03.465389+00:00
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:02.581870+00:00
 - [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:58:56.102602+00:00
 - [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T12:47:21.075955+00:00
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:44.415925+00:00
 - [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:59:00.605195+00:00
+- [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:07.040443+00:00
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:06.618673+00:00
+- [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:25:56.337009+00:00
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:28.925914+00:00
+- [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:18.037227+00:00
 - [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:59:04.484127+00:00
+- [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:10.687482+00:00
+- [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:25:59.884619+00:00
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:37.650827+00:00
+- [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:14.368713+00:00
 - [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:26.445516+00:00
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:49.947418+00:00
 - [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:40:31.119741+00:00
