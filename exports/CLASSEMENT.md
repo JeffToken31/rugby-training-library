@@ -7,7 +7,7 @@
 - 80 fiches candidates à une variante, sans garantie d’unicité complète.
 - 9 descriptions insuffisantes : impossible de comparer les règles entièrement.
 - 2 fiches composites ou à périmètre de source ambigu.
-- 2 paires possiblement équivalentes, 1 jeu de base commun identifié, 1 chevauchement de ressource possible, 2 autres cas incertains/composites.
+- 1 paire possiblement équivalente, 1 paire de tâches complémentaires confirmée, 1 jeu de base commun identifié, 1 chevauchement de ressource possible, 2 autres cas incertains/composites.
 - 5 différences de règles explicitement documentées dans cet audit.
 - 0 fusion, suppression ou doublon certain prononcé.
 
@@ -222,7 +222,7 @@ Le nombre exact de variantes uniques reste indéterminé : ne pas soustraire mé
 |---|---|---|---|
 | Épouvantails avec délivrance | La boue et la délivrance | SAME_CORE_GAME_PARAMETER_VARIATION | Même jeu de base confirmé ; nombre de chasseurs, espace et rotation différents. |
 | Chasseurs passeurs par trois | Épouvantails — chasseurs passeurs | POSSIBLE_SAME_VARIANT | Chasse par passes, porteur immobile. Le sort du joueur touché et la rotation des chasseurs restent à comparer. |
-| Recevoir en trottinant | Transmettre en trottinant | POSSIBLE_SAME_VARIANT | Deux intitulés possiblement centrés sur les deux rôles du même échange au trot. Organisation complète à vérifier. |
+| Recevoir en trottinant | Transmettre en trottinant | COMPLEMENTARY_SKILL_TASKS | Ateliers 9 et 10 distincts : enfant receveur en mouvement, puis enfant passeur en mouvement. Même famille, tâches complémentaires. |
 | Coordonner deux ballons | Passes en triangle et changement de posture | POSSIBLE_OVERLAPPING_OCCURRENCE | La ressource du triangle contient aussi des progressions à plusieurs ballons ; la fiche actuelle porte sur passe et posture. Comparer le passage exact avant de créer une autre variante. |
 | Dix passes - variante communautaire documentee | Quatre passeurs contre un intercepteur | UNCERTAIN | Dix passes visées dans les deux cas, mais la référence communautaire prévoit deux équipes et un éloignement défensif. Ne pas assimiler une cible de score commune à une règle identique. |
 | Tag mania et délivrance | Épouvantails avec délivrance | COMPOSITE_CONTAINS_RELATED_GAME | La progression de délivrance ressemble aux épouvantails ; séparer les occurrences de Tag mania avant de compter ses variantes. |
@@ -250,3 +250,7 @@ Le classement couvre tout le corpus ; les équivalences incertaines ne sont ni f
 ## Relecture Munster / World Rugby
 
 Le jeu de délivrance sous un bras est commun aux deux sources. Conserver deux versions paramétrées dans un groupe documentaire unique ; ne pas annoncer deux concepts indépendants. Le décompte exact global reste ouvert. La page FFR concernant les passes au trot n’a pas fourni de texte exploitable pour trancher : une lecture visuelle reste nécessaire.
+
+## Réception et passe au trot : cas tranché
+
+La page 17 du guide FFR distingue explicitement les ateliers 9 et 10. Ils entraînent respectivement la réception et la passe de l’enfant en mouvement. Conserver les deux tâches complémentaires dans la même famille, sans les qualifier de doublons. La tentative de capture visuelle a échoué ; la conclusion repose sur le texte complet de la page, accessible lors de sa réouverture.

@@ -964,9 +964,16 @@
     {
       "left_id": "ffr-reception",
       "right_id": "ffr-transmettre",
-      "relation": "POSSIBLE_SAME_VARIANT",
-      "reason": "Deux intitulés possiblement centrés sur les deux rôles du même échange au trot. Organisation complète à vérifier.",
-      "origin": "AI_INFERRED"
+      "relation": "COMPLEMENTARY_SKILL_TASKS",
+      "reason": "La page 17 distingue explicitement deux ateliers : enfant en mouvement recevant du parent (9), puis enfant courant avec ballon et passant au parent (10). Tâches complémentaires de la même famille, pas deux copies de la même consigne.",
+      "origin": "AI_INFERRED",
+      "evidence": [
+        {
+          "source_id": "ffr-famille",
+          "locator": "PDF page 17, ateliers 9 et 10",
+          "checked_on": "2026-09-09"
+        }
+      ]
     },
     {
       "left_id": "rc-two-balls",
@@ -1048,6 +1055,14 @@
       ],
       "finding": "Déroulement affiché issu de Sportplan ; objectif initial issu de RugbyCoaching. Deux provenances à conserver séparément dans l’analyse.",
       "decision": "SOURCE_SCOPE_REVIEW"
+    },
+    {
+      "ids": [
+        "ffr-reception",
+        "ffr-transmettre"
+      ],
+      "finding": "Texte de la page 17 accessible lors de la nouvelle ouverture Web. Réception et émission confiées séparément à l’enfant ; deux ateliers numérotés.",
+      "decision": "KEEP_COMPLEMENTARY_TASKS"
     }
   ],
   "canonical_game_groups": [
