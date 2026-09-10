@@ -1,0 +1,687 @@
+{
+  "sources": [
+    {
+      "id": "au-pass-duck-source",
+      "title": "Pass and Duck",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-over-under-source",
+      "title": "Passing Overs and Unders",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-pop-race-source",
+      "title": "Score the Try and Pop Race",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-kick-chase-source",
+      "title": "Kick Chase",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-kick-golf-source",
+      "title": "Kick Golf",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-kick-tennis-source",
+      "title": "Kick Tennis",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-fruit-salad-source",
+      "title": "Fruit Salad",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-cone-game-source",
+      "title": "Cone Game",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-chain-relay-source",
+      "title": "Chain Relay",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-wolf-source",
+      "title": "What’s the Time Mr Wolf?",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-colour-tag-source",
+      "title": "Colour Tag",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-partner-tag-source",
+      "title": "Partner Tag",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-ufos-source",
+      "title": "UFOs",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/ufos",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "sg-team-tag-source",
+      "title": "Rugby union - team tag",
+      "url": "https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf",
+      "publisher": "School Games",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "PDF",
+      "resource_type": "EXERCISE_PDF",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-cat-mouse-source",
+      "title": "Cat and Mouse",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "WEB_PAGE",
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8."
+    },
+    {
+      "id": "au-gir-age-source",
+      "title": "Get into Rugby FAQs",
+      "url": "https://australia.rugby/participate/get-into-rugby/faqs",
+      "publisher": "Rugby Australia",
+      "language": "en",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "resource_type": "PEDAGOGICAL_CONTENT",
+      "access": "FAQ publique consultée",
+      "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice."
+    }
+  ],
+  "exercises": [
+    {
+      "id": "au-pass-duck",
+      "source_id": "au-pass-duck-source",
+      "title": "Passer, rendre et s’accroupir",
+      "original_title": "Pass and Duck",
+      "summary": "Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.",
+      "theme": "passe et coopération",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 4,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Six plots et un ballon par groupe",
+      "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-over-under",
+      "source_id": "au-over-under-source",
+      "title": "Passes alternées dessus-dessous",
+      "original_title": "Passing Overs and Unders",
+      "summary": "Files de quatre joueurs ou plus.",
+      "theme": "passe et coopération",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 4,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Six plots et un ballon par groupe",
+      "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-pop-race",
+      "source_id": "au-pop-race-source",
+      "title": "Aller au sol puis transmettre au soutien",
+      "original_title": "Score the Try and Pop Race",
+      "summary": "Groupes de trois entre deux lignes.",
+      "theme": "passe et coopération",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 3,
+      "players_max": 3,
+      "duration_min": null,
+      "space": "Deux lignes distantes d’environ 20 m",
+      "material": "Huit plots et un ballon par groupe",
+      "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Continuité au sol et soutien, sans adversaire qui plaque.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "adaptation_u8": "Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-kick-chase",
+      "source_id": "au-kick-chase-source",
+      "title": "Botter, récupérer et marquer",
+      "original_title": "Kick Chase",
+      "summary": "Joueurs alignés avec chacun un ballon.",
+      "theme": "jeu au pied",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": "Deux lignes à environ 10 m",
+      "material": "Douze plots et un ballon par joueur",
+      "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Coup de pied puis récupération et essai ; différent du slalom en conduite.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-kick-golf",
+      "source_id": "au-kick-golf-source",
+      "title": "Golf au pied",
+      "original_title": "Kick Golf",
+      "summary": "Parcours de cibles matérialisées par des plots.",
+      "theme": "jeu au pied",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Quatre plots par cible et un ballon par joueur",
+      "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Parcours avec comptage des coups ; absent des jeux de territoire au pied.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-kick-tennis",
+      "source_id": "au-kick-tennis-source",
+      "title": "Tennis au pied avec score",
+      "original_title": "Kick Tennis",
+      "summary": "Deux équipes dans deux rectangles opposés.",
+      "theme": "jeu au pied",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Douze plots et un ballon",
+      "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-fruit-salad",
+      "source_id": "au-fruit-salad-source",
+      "title": "Course dans le tunnel des fruits",
+      "original_title": "Fruit Salad",
+      "summary": "Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Aucun",
+      "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.",
+      "adaptation_u8": "Proposition IA : commencer en marchant et espacer les paires pour éviter de marcher sur les jambes ; à valider par le coach.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-cone-game",
+      "source_id": "au-cone-game-source",
+      "title": "Réagir au mot plot",
+      "original_title": "Cone Game",
+      "summary": "Binômes à longueur de bras ; plot au sol à égale distance.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 2,
+      "players_max": 2,
+      "duration_min": null,
+      "space": null,
+      "material": "Un plot pour deux joueurs",
+      "locator": "Cone Game — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-chain-relay",
+      "source_id": "au-chain-relay-source",
+      "title": "Slalomer dans la chaîne de partenaires",
+      "original_title": "Chain Relay",
+      "summary": "Deux lignes opposées, bras en T, doigts voisins qui se touchent.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Aucun",
+      "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-wolf",
+      "source_id": "au-wolf-source",
+      "title": "Quelle heure est-il, monsieur le loup ?",
+      "original_title": "What’s the Time Mr Wolf?",
+      "summary": "Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Neuf plots et un ballon par joueur",
+      "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-colour-tag",
+      "source_id": "au-colour-tag-source",
+      "title": "Couleur appelée : un chasseur contre deux",
+      "original_title": "Colour Tag",
+      "summary": "Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 3,
+      "players_max": 3,
+      "duration_min": null,
+      "space": null,
+      "material": "Trois plots colorés et deux plots d’arrivée par trio",
+      "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-partner-tag",
+      "source_id": "au-partner-tag-source",
+      "title": "Poursuite avec ballon et permutation",
+      "original_title": "Partner Tag",
+      "summary": "Binômes dans une zone, un porteur et un chasseur.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 2,
+      "players_max": 2,
+      "duration_min": null,
+      "space": null,
+      "material": "Huit plots et un ballon par binôme",
+      "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.",
+      "parent_variant_id": "nz-shadow",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-nest-pass",
+      "source_id": "au-nest",
+      "title": "Rapporter les trésors par une passe",
+      "original_title": "Rob the Nest — passing progression",
+      "summary": "Quatre équipes aux coins ; réserve centrale de ballons.",
+      "theme": "passe et coopération",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Huit plots et seize ballons",
+      "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.",
+      "parent_variant_id": "rc-eggs",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-colour-two",
+      "source_id": "au-colour-tag-source",
+      "title": "Couleur appelée : deux chasseurs contre un",
+      "original_title": "Colour Tag — reverse roles",
+      "summary": "Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 3,
+      "players_max": 3,
+      "duration_min": null,
+      "space": null,
+      "material": "Trois plots colorés et deux plots d’arrivée",
+      "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression explicite : le joueur nommé fuit et subit deux poursuivants.",
+      "parent_variant_id": "au-colour-tag",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-tennis-return",
+      "source_id": "au-kick-tennis-source",
+      "title": "Tennis au pied : élimination et retour",
+      "original_title": "Kick Tennis — elimination progression",
+      "summary": "Deux équipes dans des terrains opposés.",
+      "theme": "jeu au pied",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Douze plots et un ballon",
+      "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.",
+      "parent_variant_id": "au-kick-tennis",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-partner-release",
+      "source_id": "au-partner-tag-source",
+      "title": "Toucher, libérer au sol et changer de rôle",
+      "original_title": "Partner Tag — ground release progression",
+      "summary": "Binôme porteur-chasseur dans une zone.",
+      "theme": "passe et coopération",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 2,
+      "players_max": 2,
+      "duration_min": null,
+      "space": null,
+      "material": "Huit plots et un ballon par binôme",
+      "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression explicite avec passage au sol et ramassage pour changer de rôle.",
+      "parent_variant_id": "au-partner-tag",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "adaptation_u8": "Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "au-ufos",
+      "source_id": "au-ufos-source",
+      "title": "Éviter les plots et recevoir le ballon",
+      "original_title": "UFOs",
+      "summary": "Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.",
+      "theme": "passe et coopération",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 4,
+      "players_max": null,
+      "duration_min": null,
+      "space": "Petit carré ; partenaires à environ 2 m",
+      "material": "Quarante plots et six ballons pour le dispositif source",
+      "locator": "UFOs — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "adaptation_u8": "Proposition IA : uniquement des coupelles souples envoyées au ras du sol, sans viser le visage ; éducateur à proximité. À valider avant utilisation.",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    },
+    {
+      "id": "sg-team-tag",
+      "source_id": "sg-team-tag-source",
+      "title": "Vider le terrain au tag contre la montre",
+      "original_title": "Rugby union - team tag",
+      "summary": "Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.",
+      "theme": "évitement et réaction",
+      "age_source": "Primaire, Key Stages 1 et 2",
+      "players_min": 16,
+      "players_max": 16,
+      "duration_min": 3,
+      "space": "Environ 15 × 20 m",
+      "material": "Douze ballons, douze ceintures, quatre chasubles, plots",
+      "locator": "Rugby union - team tag — Getting started",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs. Trois minutes maximum : fin anticipée si tous les porteurs sont pris.",
+      "participants_scope": "un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois"
+    },
+    {
+      "id": "scot-break-walls",
+      "source_id": "scot-primary",
+      "title": "Marquer sur chaque bord coloré",
+      "original_title": "Break the walls",
+      "summary": "Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.",
+      "theme": "évitement et réaction",
+      "age_source": "Primaire P4–P7 ; adaptation U8 à valider",
+      "players_min": null,
+      "players_max": null,
+      "duration_min": null,
+      "space": null,
+      "material": "Ballons, plots colorés et chasubles",
+      "locator": "PDF page 21 — Break the walls",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.",
+      "page_start": 21,
+      "page_end": 21,
+      "adaptation_u8": "Proposition IA : démontrer les couleurs et commencer avec un seul carré si la règle est trop complexe ; validation terrain requise."
+    },
+    {
+      "id": "au-cat-mouse",
+      "source_id": "au-cat-mouse-source",
+      "title": "Chat et souris autour d’une forme",
+      "original_title": "Cat and Mouse",
+      "summary": "Binômes ; une forme géométrique en plots attribuée à chacun.",
+      "theme": "évitement et réaction",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "players_min": 2,
+      "players_max": 2,
+      "duration_min": null,
+      "space": null,
+      "material": "Vingt-quatre plots pour le dispositif source",
+      "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+      "status": "documented",
+      "review": "Texte source reformulé ; validation coach non effectuée. Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "references": [
+        {
+          "source_id": "au-gir-age-source",
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité."
+        }
+      ]
+    }
+  ]
+}

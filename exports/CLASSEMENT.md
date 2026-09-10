@@ -364,3 +364,28 @@ Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le cor
 - F11 : [Chasse par binômes](fiches/wr-pairs-tag.md), chasseurs remplacés après capture.
 - F16 : [Rideaux 2–1–2](fiches/wr-walls-212.md), variante de wr-five-walls.
 - F16 : [Changement du défenseur](fiches/wr-changing-defender.md), variante de wr-pass-defend.
+
+## Lot de vingt du 10 septembre : 148 fiches
+
+137 candidates, 9 descriptions insuffisantes et 2 composites ou à périmètre particulier. Unicité non certifiée. F03 couvre désormais le jeu et la conduite au pied ; F21 les renvois main/pied.
+
+- F08 : [Passer, rendre et s’accroupir](fiches/au-pass-duck.md) — Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.
+- F08 : [Passes alternées dessus-dessous](fiches/au-over-under.md) — Circulation verticale alternée et retour du dernier en tête.
+- F07 : [Aller au sol puis transmettre au soutien](fiches/au-pop-race.md) — Continuité au sol et soutien, sans adversaire qui plaque.
+- F03 : [Botter, récupérer et marquer](fiches/au-kick-chase.md) — Coup de pied puis récupération et essai ; différent du slalom en conduite.
+- F03 : [Golf au pied](fiches/au-kick-golf.md) — Parcours avec comptage des coups ; absent des jeux de territoire au pied.
+- F21 : [Tennis au pied avec score](fiches/au-kick-tennis.md) — Échange au pied vers une aire adverse ; différent du tennis à la main.
+- F06 : [Course dans le tunnel des fruits](fiches/au-fruit-salad.md) — Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.
+- F06 : [Réagir au mot plot](fiches/au-cone-game.md) — Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.
+- F05 : [Slalomer dans la chaîne de partenaires](fiches/au-chain-relay.md) — Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.
+- F13 : [Quelle heure est-il, monsieur le loup ?](fiches/au-wolf.md) — Approche par pas comptés puis déclenchement différé du duel de traversée.
+- F06 : [Couleur appelée : un chasseur contre deux](fiches/au-colour-tag.md) — Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.
+- F06 : [Poursuite avec ballon et permutation](fiches/au-partner-tag.md) — Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.
+- F19 : [Rapporter les trésors par une passe](fiches/au-nest-pass.md) — Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.
+- F06 : [Couleur appelée : deux chasseurs contre un](fiches/au-colour-two.md) — Progression explicite : le joueur nommé fuit et subit deux poursuivants.
+- F21 : [Tennis au pied : élimination et retour](fiches/au-tennis-return.md) — Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.
+- F07 : [Toucher, libérer au sol et changer de rôle](fiches/au-partner-release.md) — Progression explicite avec passage au sol et ramassage pour changer de rôle.
+- F02 : [Éviter les plots et recevoir le ballon](fiches/au-ufos.md) — Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.
+- F12 : [Vider le terrain au tag contre la montre](fiches/sg-team-tag.md) — Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs.
+- F15 : [Marquer sur chaque bord coloré](fiches/scot-break-walls.md) — Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.
+- F06 : [Chat et souris autour d’une forme](fiches/au-cat-mouse.md) — Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.

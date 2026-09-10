@@ -24,7 +24,8 @@
     "data/nz-games-05.json",
     "data/ten-activities-01.json",
     "data/twenty-activities-01.json",
-    "data/world-rugby-05.json"
+    "data/world-rugby-05.json",
+    "data/twenty-activities-02.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -57,7 +58,8 @@
     "data/enrichment-ten-01.json",
     "data/enrichment-twenty-01.json",
     "data/enrichment-objectives-20260910.json",
-    "data/enrichment-world-rugby-05.json"
+    "data/enrichment-world-rugby-05.json",
+    "data/enrichment-twenty-02.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -129,6 +131,22 @@
     "nz-number-duel-source",
     "nz-shadow-source",
     "nz-zigzag-source",
-    "nz-rats34-source"
+    "nz-rats34-source",
+    "au-pass-duck-source",
+    "au-over-under-source",
+    "au-pop-race-source",
+    "au-kick-chase-source",
+    "au-kick-golf-source",
+    "au-kick-tennis-source",
+    "au-fruit-salad-source",
+    "au-cone-game-source",
+    "au-chain-relay-source",
+    "au-wolf-source",
+    "au-colour-tag-source",
+    "au-partner-tag-source",
+    "au-ufos-source",
+    "sg-team-tag-source",
+    "au-cat-mouse-source",
+    "au-gir-age-source"
   ]
 }

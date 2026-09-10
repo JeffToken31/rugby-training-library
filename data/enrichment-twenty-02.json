@@ -1,0 +1,1104 @@
+{
+  "enrichments": [
+    {
+      "id": "au-pass-duck-detail-1",
+      "variant_id": "au-pass-duck",
+      "source_id": "au-pass-duck-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le premier reçoit, rend puis se baisse ; répéter jusqu’au dernier qui prend la place du passeur."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Former un W avec les mains ; finir le geste vers la cible."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réceptionner et doser une passe en utilisant le corps."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Six plots et un ballon par groupe"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 4
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-over-under-detail-1",
+      "variant_id": "au-over-under",
+      "source_id": "au-over-under-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Files de quatre joueurs ou plus."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attraper et passer à deux mains."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Coopérer et enchaîner les réceptions-transmissions."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Six plots et un ballon par groupe"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 4
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-pop-race-detail-1",
+      "variant_id": "au-pop-race",
+      "source_id": "au-pop-race-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupes de trois entre deux lignes."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le premier avance ; au signal tackle il va au sol et aplatit, se tourne sur le côté puis fait une petite passe au suivant. Répéter pour les trois."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attendre le signal ; transmettre depuis le côté au partenaire proche."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Maîtriser et distribuer le ballon en équipe."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Huit plots et un ballon par groupe"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes distantes d’environ 20 m"
+        }
+      }
+    },
+    {
+      "id": "au-kick-chase-detail-1",
+      "variant_id": "au-kick-chase",
+      "source_id": "au-kick-chase-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs alignés avec chacun un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Choisir et contrôler la longueur du coup de pied."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer contrôle et précision au pied."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Douze plots et un ballon par joueur"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes à environ 10 m"
+        }
+      }
+    },
+    {
+      "id": "au-kick-golf-detail-1",
+      "variant_id": "au-kick-golf",
+      "source_id": "au-kick-golf-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Parcours de cibles matérialisées par des plots."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "À tour de rôle, atteindre chaque cible en un minimum de coups de pied."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Expérimenter différents types de coups de pied selon la cible."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Doser et orienter le ballon au pied."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre plots par cible et un ballon par joueur"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-kick-tennis-detail-1",
+      "variant_id": "au-kick-tennis",
+      "source_id": "au-kick-tennis-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes dans deux rectangles opposés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le ballon doit monter au-dessus des épaules."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Précision au pied, réception et communication."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Douze plots et un ballon"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-fruit-salad-detail-1",
+      "variant_id": "au-fruit-salad",
+      "source_id": "au-fruit-salad-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enjamber les jambes des partenaires sans les heurter."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Écouter, anticiper et réagir en évitant les autres."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-cone-game-detail-1",
+      "variant_id": "au-cone-game",
+      "source_id": "au-cone-game-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Cone Game — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes à longueur de bras ; plot au sol à égale distance."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Écouter le mot annoncé avant d’agir."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Anticipation, écoute et réaction."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un plot pour deux joueurs"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-chain-relay-detail-1",
+      "variant_id": "au-chain-relay",
+      "source_id": "au-chain-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes opposées, bras en T, doigts voisins qui se touchent."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le premier slalome entre ses partenaires puis rejoint la fin ; le suivant part alors. Continuer jusqu’au passage de tous."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Regarder devant soi et orienter les appuis pour slalomer."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Agilité et coopération."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-wolf-detail-1",
+      "variant_id": "au-wolf",
+      "source_id": "au-wolf-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réagir à la réponse du loup et conserver son ballon."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Écouter, anticiper et réagir."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Neuf plots et un ballon par joueur"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-colour-tag-detail-1",
+      "variant_id": "au-colour-tag",
+      "source_id": "au-colour-tag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal de couleur, le joueur le plus proche du plot devient chasseur ; les deux autres rejoignent la ligne."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Tourner dans le sens horaire ; changer les modes de déplacement pendant la ronde."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Repérer l’espace et réagir rapidement."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois plots colorés et deux plots d’arrivée par trio"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-partner-tag-detail-1",
+      "variant_id": "au-partner-tag",
+      "source_id": "au-partner-tag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes dans une zone, un porteur et un chasseur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur évite son partenaire ; après le toucher, permuter puis reprendre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter les autres binômes."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Agilité et perception de l’espace."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Huit plots et un ballon par binôme"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-nest-pass-detail-1",
+      "variant_id": "au-nest-pass",
+      "source_id": "au-nest",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre équipes aux coins ; réserve centrale de ballons."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Départs successifs ; compter les ballons à la fin."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Coopérer, porter à deux mains et lire l’espace."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Huit plots et seize ballons"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-colour-two-detail-1",
+      "variant_id": "au-colour-two",
+      "source_id": "au-colour-tag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "À la couleur annoncée, le joueur le plus proche du plot devient fuyard ; les deux autres tentent de le toucher avant l’arrivée."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réagir au changement de rôle ; éviter les collisions."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer dans l’espace et développer l’agilité."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trois plots colorés et deux plots d’arrivée"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-tennis-return-detail-1",
+      "variant_id": "au-tennis-return",
+      "source_id": "au-kick-tennis-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes dans des terrains opposés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Botter au-dessus des épaules. Une chute élimine le joueur qui lâche ou le plus proche du point de chute ; une réception réussie fait revenir un éliminé."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher les espaces libres et communiquer à la réception."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Précision, réception et coopération."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Douze plots et un ballon"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-partner-release-detail-1",
+      "variant_id": "au-partner-release",
+      "source_id": "au-partner-tag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binôme porteur-chasseur dans une zone."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après le toucher, le porteur va au sol et libère le ballon. Le chasseur ramasse ; les rôles changent alors et la poursuite reprend."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Permuter après le ramassage, pas au moment du toucher."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Agilité et perception de l’espace."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Huit plots et un ballon par binôme"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-ufos-detail-1",
+      "variant_id": "au-ufos",
+      "source_id": "au-ufos-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "UFOs — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter les plots envoyés par les partenaires ; recevoir le ballon lorsqu’une passe arrive. Faire passer chacun au centre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder le regard disponible pour repérer obstacles et ballon."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Appuis, agilité et vision."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quarante plots et six ballons pour le dispositif source"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 4
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Petit carré ; partenaires à environ 2 m"
+        }
+      }
+    },
+    {
+      "id": "sg-team-tag-detail-1",
+      "variant_id": "sg-team-tag",
+      "source_id": "sg-team-tag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Rugby union - team tag — Getting started",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Vider le terrain aussi rapidement que possible."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Douze ballons, douze ceintures, quatre chasubles, plots"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 16
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 16
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 3
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Environ 15 × 20 m"
+        }
+      }
+    },
+    {
+      "id": "scot-break-walls-detail-1",
+      "variant_id": "scot-break-walls",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "PDF page 21 — Break the walls",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les attaquants cherchent à aplatir au-delà de chaque bord coloré. Ils peuvent courir avec le ballon mais passent lorsqu’ils sont touchés."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer régulièrement les défenseurs."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Marquer sur les différentes lignes en coopérant."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons, plots colorés et chasubles"
+        },
+        "players_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "au-cat-mouse-detail-1",
+      "variant_id": "au-cat-mouse",
+      "source_id": "au-cat-mouse-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Binômes ; une forme géométrique en plots attribuée à chacun."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le chat poursuit la souris autour de la forme."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester à l’extérieur de la forme et utiliser des appuis rapides."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Appuis, agilité et déplacement."
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Vingt-quatre plots pour le dispositif source"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 2
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    }
+  ]
+}

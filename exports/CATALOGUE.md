@@ -1,9 +1,43 @@
 # Bibliothèque rugby U8
 
-128 fiches · 70 sources
+148 fiches · 86 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+
+## Aller au sol puis transmettre au soutien
+
+**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Continuité au sol et soutien, sans adversaire qui plaque.**
+
+Groupes de trois entre deux lignes.
+
+**Matériel :** Huit plots et un ballon par groupe
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 3–3 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Score the Try and Pop Race — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Maîtriser et distribuer le ballon en équipe.
+
+**Organisation :** Groupes de trois entre deux lignes.
+
+**Déroulement :** Le premier avance ; au signal tackle il va au sol et aplatit, se tourne sur le côté puis fait une petite passe au suivant. Répéter pour les trois.
+
+**Consignes :** Attendre le signal ; transmettre depuis le côté au partenaire proche.
+
+Détails extraits le 2026-09-10 — Score the Try and Pop Race — Description, Coaching Outcome, Change It.
+
+**Espace source :** Deux lignes distantes d’environ 20 m
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Alterner trois formes du dos
 
@@ -144,6 +178,40 @@ Départ en demi-flexion.
 **Consignes :** Revenir en demi-flexion à chaque réception.
 
 Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
+
+## Botter, récupérer et marquer
+
+**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Coup de pied puis récupération et essai ; différent du slalom en conduite.**
+
+Joueurs alignés avec chacun un ballon.
+
+**Matériel :** Douze plots et un ballon par joueur
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Kick Chase — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Développer contrôle et précision au pied.
+
+**Organisation :** Joueurs alignés avec chacun un ballon.
+
+**Déroulement :** Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.
+
+**Consignes :** Choisir et contrôler la longueur du coup de pied.
+
+Détails extraits le 2026-09-10 — Kick Chase — Description, Coaching Outcome, Change It.
+
+**Espace source :** Deux lignes à environ 10 m
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Capturer les extraterrestres par la passe
 
@@ -639,6 +707,38 @@ Reprendre le jeu après un déplacement animal.
 
 Détails extraits le 2026-09-08 — PDF page 17, fiche complète.
 
+## Chat et souris autour d’une forme
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.**
+
+Binômes ; une forme géométrique en plots attribuée à chacun.
+
+**Matériel :** Vingt-quatre plots pour le dispositif source
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) — Cat and Mouse — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Appuis, agilité et déplacement.
+
+**Organisation :** Binômes ; une forme géométrique en plots attribuée à chacun.
+
+**Déroulement :** Le chat poursuit la souris autour de la forme.
+
+**Consignes :** Rester à l’extérieur de la forme et utiliser des appuis rapides.
+
+Détails extraits le 2026-09-10 — Cat and Mouse — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Chercher les espaces libres
 
 **prise d’information · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
@@ -827,6 +927,70 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 [RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie
 
+## Couleur appelée : deux chasseurs contre un
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite : le joueur nommé fuit et subit deux poursuivants.**
+
+Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.
+
+**Matériel :** Trois plots colorés et deux plots d’arrivée
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 3–3 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Colour Tag — reverse roles — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Se déplacer dans l’espace et développer l’agilité.
+
+**Organisation :** Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.
+
+**Déroulement :** À la couleur annoncée, le joueur le plus proche du plot devient fuyard ; les deux autres tentent de le toucher avant l’arrivée.
+
+**Consignes :** Réagir au changement de rôle ; éviter les collisions.
+
+Détails extraits le 2026-09-10 — Colour Tag — reverse roles — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
+## Couleur appelée : un chasseur contre deux
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.**
+
+Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.
+
+**Matériel :** Trois plots colorés et deux plots d’arrivée par trio
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 3–3 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Colour Tag — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Repérer l’espace et réagir rapidement.
+
+**Organisation :** Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.
+
+**Déroulement :** Au signal de couleur, le joueur le plus proche du plot devient chasseur ; les deux autres rejoignent la ligne.
+
+**Consignes :** Tourner dans le sens horaire ; changer les modes de déplacement pendant la ronde.
+
+Détails extraits le 2026-09-10 — Colour Tag — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Coup franc pour soi
 
 **jeu au pied · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -870,6 +1034,38 @@ Un coureur tente de boucler son parcours avant trois passes adverses.
 **Consignes :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
 
 Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+
+## Course dans le tunnel des fruits
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.**
+
+Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Proposition IA : commencer en marchant et espacer les paires pour éviter de marcher sur les jambes ; à valider par le coach.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Fruit Salad — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Écouter, anticiper et réagir en évitant les autres.
+
+**Organisation :** Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
+
+**Déroulement :** Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.
+
+**Consignes :** Enjamber les jambes des partenaires sans les heurter.
+
+Détails extraits le 2026-09-10 — Fruit Salad — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Course numérotée avec deux ballons
 
@@ -1275,6 +1471,40 @@ Debout sur un pied, autre genou devant.
 
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
+## Éviter les plots et recevoir le ballon
+
+**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.**
+
+Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.
+
+**Matériel :** Quarante plots et six ballons pour le dispositif source
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Proposition IA : uniquement des coupelles souples envoyées au ras du sol, sans viser le visage ; éducateur à proximité. À valider avant utilisation.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) — UFOs — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Appuis, agilité et vision.
+
+**Organisation :** Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.
+
+**Déroulement :** Éviter les plots envoyés par les partenaires ; recevoir le ballon lorsqu’une passe arrive. Faire passer chacun au centre.
+
+**Consignes :** Garder le regard disponible pour repérer obstacles et ballon.
+
+Détails extraits le 2026-09-10 — UFOs — Description, Coaching Outcome, Change It.
+
+**Espace source :** Petit carré ; partenaires à environ 2 m
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Fentes alternées du monstre
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.**
@@ -1376,6 +1606,38 @@ Gagner des points en franchissant des zones et en soutenant l’avancée.
 [Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 53 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+## Golf au pied
+
+**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Parcours avec comptage des coups ; absent des jeux de territoire au pied.**
+
+Parcours de cibles matérialisées par des plots.
+
+**Matériel :** Quatre plots par cible et un ballon par joueur
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Kick Golf — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Doser et orienter le ballon au pied.
+
+**Organisation :** Parcours de cibles matérialisées par des plots.
+
+**Déroulement :** À tour de rôle, atteindre chaque cible en un minimum de coups de pied.
+
+**Consignes :** Expérimenter différents types de coups de pied selon la cible.
+
+Détails extraits le 2026-09-10 — Kick Golf — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Jeu de zone avec regroupements au signal
 
@@ -1937,6 +2199,34 @@ Enfant dans un couloir.
 
 Détails extraits le 2026-09-09 — PDF page 8 — Atelier 1.
 
+## Marquer sur chaque bord coloré
+
+**évitement et réaction · âge source : Primaire P4–P7 ; adaptation U8 à valider · Texte source reformulé ; validation coach non effectuée. Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.**
+
+Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.
+
+**Matériel :** Ballons, plots colorés et chasubles
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Proposition IA : démontrer les couleurs et commencer avec un seul carré si la règle est trop complexe ; validation terrain requise.
+
+[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 21 — Break the walls · consultée le 2026-09-07
+
+**Accès :** PDF public consulté
+
+**Objectifs — proposition IA :** Marquer sur les différentes lignes en coopérant.
+
+**Organisation :** Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.
+
+**Déroulement :** Les attaquants cherchent à aplatir au-delà de chaque bord coloré. Ils peuvent courir avec le ballon mais passent lorsqu’ils sont touchés.
+
+**Consignes :** Changer régulièrement les défenseurs.
+
+Détails extraits le 2026-09-10 — PDF page 21 — Break the walls.
+
 ## Miroir : rester face au porteur
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.**
@@ -2235,6 +2525,70 @@ Choisir quand passer malgré les déplacements des autres binômes.
 
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
+## Passer, rendre et s’accroupir
+
+**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.**
+
+Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.
+
+**Matériel :** Six plots et un ballon par groupe
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Pass and Duck — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Réceptionner et doser une passe en utilisant le corps.
+
+**Organisation :** Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.
+
+**Déroulement :** Le premier reçoit, rend puis se baisse ; répéter jusqu’au dernier qui prend la place du passeur.
+
+**Consignes :** Former un W avec les mains ; finir le geste vers la cible.
+
+Détails extraits le 2026-09-10 — Pass and Duck — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
+## Passes alternées dessus-dessous
+
+**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.**
+
+Files de quatre joueurs ou plus.
+
+**Matériel :** Six plots et un ballon par groupe
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Passing Overs and Unders — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Coopérer et enchaîner les réceptions-transmissions.
+
+**Organisation :** Files de quatre joueurs ou plus.
+
+**Déroulement :** Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.
+
+**Consignes :** Attraper et passer à deux mains.
+
+Détails extraits le 2026-09-10 — Passing Overs and Unders — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Passes après départs dans cinq postures
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
@@ -2471,6 +2825,38 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 **Points coach issus de la source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
 
+## Poursuite avec ballon et permutation
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.**
+
+Binômes dans une zone, un porteur et un chasseur.
+
+**Matériel :** Huit plots et un ballon par binôme
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Partner Tag — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Agilité et perception de l’espace.
+
+**Organisation :** Binômes dans une zone, un porteur et un chasseur.
+
+**Déroulement :** Le porteur évite son partenaire ; après le toucher, permuter puis reprendre.
+
+**Consignes :** Éviter les autres binômes.
+
+Détails extraits le 2026-09-10 — Partner Tag — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Premières passes en ligne
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -2585,6 +2971,38 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 **Points coach issus de la source :** Présenter une cible de réception et décider rapidement à qui transmettre.
 
+## Quelle heure est-il, monsieur le loup ?
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.**
+
+Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
+
+**Matériel :** Neuf plots et un ballon par joueur
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Écouter, anticiper et réagir.
+
+**Organisation :** Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
+
+**Déroulement :** Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.
+
+**Consignes :** Réagir à la réponse du loup et conserver son ballon.
+
+Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Ramasser puis transmettre
 
 **passe · âge source : M8 · Source consultée — validation terrain à faire**
@@ -2660,6 +3078,38 @@ Allongé au départ, puis appui sur bras et pieds.
 **Consignes :** Poitrine proche du sol et coudes hauts.
 
 Détails extraits le 2026-09-09 — PDF page 16 — Crocodile Walk.
+
+## Rapporter les trésors par une passe
+
+**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.**
+
+Quatre équipes aux coins ; réserve centrale de ballons.
+
+**Matériel :** Huit plots et seize ballons
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Rob the Nest — passing progression — Description, Coaching Outcome, Change It · consultée le 2026-09-06
+
+**Accès :** Description publique consultée
+
+**Objectifs :** Coopérer, porter à deux mains et lire l’espace.
+
+**Organisation :** Quatre équipes aux coins ; réserve centrale de ballons.
+
+**Déroulement :** Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.
+
+**Consignes :** Départs successifs ; compter les ballons à la fin.
+
+Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Rats et lapins
 
@@ -2752,6 +3202,38 @@ Même départ en binômes face à face, ballon au sol.
 Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principles of play.
 
 **Espace source :** Départ à 10 à 15 m
+
+## Réagir au mot plot
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.**
+
+Binômes à longueur de bras ; plot au sol à égale distance.
+
+**Matériel :** Un plot pour deux joueurs
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Cone Game — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Anticipation, écoute et réaction.
+
+**Organisation :** Binômes à longueur de bras ; plot au sol à égale distance.
+
+**Déroulement :** Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.
+
+**Consignes :** Écouter le mot annoncé avant d’agir.
+
+Détails extraits le 2026-09-10 — Cone Game — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Rebondir et échanger en binôme
 
@@ -3145,6 +3627,38 @@ Détails extraits le 2026-09-08 — PDF page 26, organisation, consignes et crit
 
 **Espace source :** Zone de 5 × 5 m.
 
+## Slalomer dans la chaîne de partenaires
+
+**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.**
+
+Deux lignes opposées, bras en T, doigts voisins qui se touchent.
+
+**Matériel :** Aucun
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) — Chain Relay — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Agilité et coopération.
+
+**Organisation :** Deux lignes opposées, bras en T, doigts voisins qui se touchent.
+
+**Déroulement :** Le premier slalome entre ses partenaires puis rejoint la fin ; le suivant part alors. Continuer jusqu’au passage de tous.
+
+**Consignes :** Regarder devant soi et orienter les appuis pour slalomer.
+
+Détails extraits le 2026-09-10 — Chain Relay — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Speedy — un ballon chacun
 
 **réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
@@ -3379,6 +3893,70 @@ Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of p
 
 Détails extraits le 2026-09-09 — PDF page 13.
 
+## Tennis au pied : élimination et retour
+
+**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.**
+
+Deux équipes dans des terrains opposés.
+
+**Matériel :** Douze plots et un ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Kick Tennis — elimination progression — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Précision, réception et coopération.
+
+**Organisation :** Deux équipes dans des terrains opposés.
+
+**Déroulement :** Botter au-dessus des épaules. Une chute élimine le joueur qui lâche ou le plus proche du point de chute ; une réception réussie fait revenir un éliminé.
+
+**Consignes :** Chercher les espaces libres et communiquer à la réception.
+
+Détails extraits le 2026-09-10 — Kick Tennis — elimination progression — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
+## Tennis au pied avec score
+
+**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.**
+
+Deux équipes dans deux rectangles opposés.
+
+**Matériel :** Douze plots et un ballon
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** Non renseigné
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Kick Tennis — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Précision au pied, réception et communication.
+
+**Organisation :** Deux équipes dans deux rectangles opposés.
+
+**Déroulement :** Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.
+
+**Consignes :** Le ballon doit monter au-dessus des épaules.
+
+Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+
 ## Toucher avec rappel des défenseurs par couleur
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -3408,6 +3986,38 @@ En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent 
 Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
 
 **Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
+
+## Toucher, libérer au sol et changer de rôle
+
+**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite avec passage au sol et ramassage pour changer de rôle.**
+
+Binôme porteur-chasseur dans une zone.
+
+**Matériel :** Huit plots et un ballon par binôme
+
+**Durée atelier :** Non renseignée
+
+**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.
+
+[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Partner Tag — ground release progression — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Agilité et perception de l’espace.
+
+**Organisation :** Binôme porteur-chasseur dans une zone.
+
+**Déroulement :** Après le toucher, le porteur va au sol et libère le ballon. Le chasseur ramasse ; les rôles changent alors et la poursuite reprend.
+
+**Consignes :** Permuter après le ramassage, pas au moment du toucher.
+
+Détails extraits le 2026-09-10 — Partner Tag — ground release progression — Description, Coaching Outcome, Change It.
+
+**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Transmettre en trottinant
 
@@ -3627,11 +4237,56 @@ Détails extraits le 2026-09-09 — Relays with Passing.
 
 **Espace source :** 20 × 20 m
 
+## Vider le terrain au tag contre la montre
+
+**évitement et réaction · âge source : Primaire, Key Stages 1 et 2 · Texte source reformulé ; validation coach non effectuée. Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs. Trois minutes maximum : fin anticipée si tous les porteurs sont pris.**
+
+Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
+
+**Matériel :** Douze ballons, douze ceintures, quatre chasubles, plots
+
+**Durée atelier :** 3 min
+
+**Effectif :** 16–16 — un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : School Games](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Rugby union - team tag — Getting started · consultée le 2026-09-10
+
+**Accès :** Description publique consultée ; capture locale évaluée séparément
+
+**Objectifs :** Vider le terrain aussi rapidement que possible.
+
+**Organisation :** Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
+
+**Déroulement :** Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.
+
+**Consignes :** Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.
+
+Détails extraits le 2026-09-10 — Rugby union - team tag — Getting started.
+
+**Espace source :** Environ 15 × 20 m
+
 ## Répertoire des sources
 
+- [Cat and Mouse](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) — Description publique consultée ; capture locale évaluée séparément.
+- [Chain Relay](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) — Description publique consultée ; capture locale évaluée séparément.
+- [Colour Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Description publique consultée ; capture locale évaluée séparément.
+- [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Description publique consultée ; capture locale évaluée séparément.
 - [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Description publique consultée ; capture locale évaluée séparément.
+- [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — FAQ publique consultée.
+- [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Description publique consultée ; capture locale évaluée séparément.
+- [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Description publique consultée ; capture locale évaluée séparément.
+- [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Description publique consultée ; capture locale évaluée séparément.
 - [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description publique consultée. Variante de la famille des nids ; rattachée à la fiche existante.
 - [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+- [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Description publique consultée ; capture locale évaluée séparément.
+- [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Description publique consultée ; capture locale évaluée séparément.
+- [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Description publique consultée ; capture locale évaluée séparément.
+- [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Description publique consultée ; capture locale évaluée séparément.
+- [UFOs](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) — Description publique consultée ; capture locale évaluée séparément.
+- [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — Description publique consultée ; capture locale évaluée séparément.
 - [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.
 - [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositives et texte publics consultés ; PDF non téléchargé.
 - [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositives et texte publics consultés ; PDF non téléchargé.
@@ -3696,6 +4351,7 @@ Détails extraits le 2026-09-09 — Relays with Passing.
 - [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+- [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Description publique consultée ; capture locale évaluée séparément.
 - [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION publique consultée. Auteur non identifié sur la page ; variante documentaire, pas confirmation du déroulement de la vidéo RugbyCoaching.tv.
 - [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — Page publique consultée ; ressources détaillées à examiner. Point de départ pour élargir la collecte.
 - [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.

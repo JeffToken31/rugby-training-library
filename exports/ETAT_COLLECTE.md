@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-128 fiches ; 119 documentées ; 9 incomplètes.
-110 fiches enrichies ; 70 ressources ; 62 ressources capturées localement.
+148 fiches ; 139 documentées ; 9 incomplètes.
+130 fiches enrichies ; 86 ressources ; 62 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 64 | 64 | 0 | 0 | 0 |
-| organisation | 100 | 28 | 0 | 0 | 0 |
-| steps | 101 | 27 | 0 | 0 | 0 |
-| instructions | 94 | 34 | 0 | 0 | 0 |
-| success_criteria | 14 | 114 | 0 | 0 | 0 |
-| common_errors | 7 | 121 | 0 | 0 | 0 |
-| coach_points | 36 | 92 | 0 | 0 | 0 |
-| duration_min | 20 | 63 | 45 | 0 | 0 |
-| players_min | 51 | 61 | 15 | 0 | 1 |
-| players_max | 52 | 61 | 14 | 0 | 1 |
-| space | 45 | 71 | 12 | 0 | 0 |
-| material | 107 | 21 | 0 | 0 | 0 |
+| objectives | 84 | 64 | 0 | 0 | 0 |
+| organisation | 120 | 28 | 0 | 0 | 0 |
+| steps | 121 | 27 | 0 | 0 | 0 |
+| instructions | 114 | 34 | 0 | 0 | 0 |
+| success_criteria | 14 | 134 | 0 | 0 | 0 |
+| common_errors | 7 | 141 | 0 | 0 | 0 |
+| coach_points | 36 | 112 | 0 | 0 | 0 |
+| duration_min | 21 | 63 | 64 | 0 | 0 |
+| players_min | 62 | 61 | 24 | 0 | 1 |
+| players_max | 60 | 61 | 26 | 0 | 1 |
+| space | 49 | 71 | 28 | 0 | 0 |
+| material | 127 | 21 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -33,9 +33,24 @@ Reconstruction sans nouvelle collecte réseau.
 
 Une capture enregistrée ne garantit ni un contenu complet ni une extraction pédagogique. Les erreurs de la dernière tentative restent visibles après reconstruction hors réseau.
 
+- [Cat and Mouse](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) : Aucune capture ; pas de tentative enregistrée
+- [Chain Relay](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) : Aucune capture ; pas de tentative enregistrée
+- [Colour Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) : Aucune capture ; pas de tentative enregistrée
+- [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) : Aucune capture ; pas de tentative enregistrée
 - [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T12:00:16.356322+00:00 — Vérification robots impossible : 429
+- [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) : Aucune capture ; pas de tentative enregistrée
+- [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) : Aucune capture ; pas de tentative enregistrée
+- [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) : Aucune capture ; pas de tentative enregistrée
+- [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) : Aucune capture ; pas de tentative enregistrée
+- [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) : Aucune capture ; pas de tentative enregistrée
 - [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T16:13:05.972186+00:00 — Vérification robots impossible : 429
 - [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T16:08:29.951153+00:00 — Vérification robots impossible : 429
+- [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) : Aucune capture ; pas de tentative enregistrée
+- [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) : Aucune capture ; pas de tentative enregistrée
+- [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-10T06:21:59.142529+00:00 — Vérification robots impossible : 429
+- [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) : Aucune capture ; pas de tentative enregistrée
+- [UFOs](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) : Aucune capture ; pas de tentative enregistrée
+- [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) : Aucune capture ; pas de tentative enregistrée
 - [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:32.586510+00:00
 - [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:34.380784+00:00
 - [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:35.898964+00:00
@@ -100,6 +115,7 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:09.273362+00:00
 - [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:34:51.291986+00:00
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T10:54:36.123212+00:00
+- [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-10T06:22:00.016089+00:00 — Vérification robots impossible : 403
 - [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:19.359727+00:00
 - [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:55.775124+00:00
 - [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:09:34.431314+00:00

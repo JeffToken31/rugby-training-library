@@ -1,6 +1,54 @@
 {
   "sources": [
     {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-cat-mouse-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Cat and Mouse",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-chain-relay-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Chain Relay",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-colour-tag-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Colour Tag",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-cone-game-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Cone Game",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game"
+    },
+    {
       "access": "Description publique consultée",
       "checked_on": "2026-09-06",
       "id": "au-familiarisation",
@@ -9,6 +57,66 @@
       "publisher": "Rugby Australia",
       "title": "Ball Familiarisation",
       "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-fruit-salad-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Fruit Salad",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad"
+    },
+    {
+      "access": "FAQ publique consultée",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-gir-age-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+      "resource_type": "PEDAGOGICAL_CONTENT",
+      "title": "Get into Rugby FAQs",
+      "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-kick-chase-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Kick Chase",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-kick-golf-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Kick Golf",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-kick-tennis-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Kick Tennis",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis"
     },
     {
       "access": "Description publique consultée",
@@ -29,6 +137,78 @@
       "publisher": "Rugby Australia",
       "title": "Rugby Octopus",
       "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-over-under-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Passing Overs and Unders",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-partner-tag-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Partner Tag",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-pass-duck-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Pass and Duck",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-pop-race-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "Score the Try and Pop Race",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-ufos-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "UFOs",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/ufos"
+    },
+    {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "HTML",
+      "id": "au-wolf-source",
+      "language": "en",
+      "publisher": "Rugby Australia",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "WEB_PAGE",
+      "title": "What’s the Time Mr Wolf?",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time"
     },
     {
       "access": "Diapositives et texte publics consultés ; PDF non téléchargé",
@@ -762,6 +942,18 @@
       "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
     },
     {
+      "access": "Description publique consultée ; capture locale évaluée séparément",
+      "checked_on": "2026-09-10",
+      "format": "PDF",
+      "id": "sg-team-tag-source",
+      "language": "en",
+      "publisher": "School Games",
+      "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+      "resource_type": "EXERCISE_PDF",
+      "title": "Rugby union - team tag",
+      "url": "https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf"
+    },
+    {
       "access": "Section DESCRIPTION publique consultée",
       "checked_on": "2026-09-06",
       "id": "sportplan-ten",
@@ -795,6 +987,195 @@
     }
   ],
   "exercises": [
+    {
+      "adaptation_u8": "Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-pop-race",
+      "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+      "material": "Huit plots et un ballon par groupe",
+      "original_title": "Score the Try and Pop Race",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 3,
+      "players_min": 3,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Continuité au sol et soutien, sans adversaire qui plaque.",
+      "source_id": "au-pop-race-source",
+      "space": "Deux lignes distantes d’environ 20 m",
+      "status": "documented",
+      "summary": "Groupes de trois entre deux lignes.",
+      "theme": "passe et coopération",
+      "title": "Aller au sol puis transmettre au soutien",
+      "instructions": "Attendre le signal ; transmettre depuis le côté au partenaire proche.",
+      "objectives": "Maîtriser et distribuer le ballon en équipe.",
+      "organisation": "Groupes de trois entre deux lignes.",
+      "steps": "Le premier avance ; au signal tackle il va au sol et aplatit, se tourne sur le côté puis fait une petite passe au suivant. Répéter pour les trois.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Maîtriser et distribuer le ballon en équipe.",
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Groupes de trois entre deux lignes.",
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le premier avance ; au signal tackle il va au sol et aplatit, se tourne sur le côté puis fait une petite passe au suivant. Répéter pour les trois.",
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Attendre le signal ; transmettre depuis le côté au partenaire proche.",
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux lignes distantes d’environ 20 m",
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Huit plots et un ballon par groupe",
+          "provenance": {
+            "source_id": "au-pop-race-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pop-race-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-pop-race-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It",
+        "revision_id": "au-pop-race-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-pop-race-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-pop-race-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Score the Try and Pop Race",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race"
+      },
+      "model_status": "REVIEWED"
+    },
     {
       "age_source": "M8",
       "duration_min": null,
@@ -1581,6 +1962,193 @@
       },
       "model_status": "REVIEWED",
       "references": []
+    },
+    {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-kick-chase",
+      "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+      "material": "Douze plots et un ballon par joueur",
+      "original_title": "Kick Chase",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Coup de pied puis récupération et essai ; différent du slalom en conduite.",
+      "source_id": "au-kick-chase-source",
+      "space": "Deux lignes à environ 10 m",
+      "status": "documented",
+      "summary": "Joueurs alignés avec chacun un ballon.",
+      "theme": "jeu au pied",
+      "title": "Botter, récupérer et marquer",
+      "instructions": "Choisir et contrôler la longueur du coup de pied.",
+      "objectives": "Développer contrôle et précision au pied.",
+      "organisation": "Joueurs alignés avec chacun un ballon.",
+      "steps": "Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Développer contrôle et précision au pied.",
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs alignés avec chacun un ballon.",
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.",
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Choisir et contrôler la longueur du coup de pied.",
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux lignes à environ 10 m",
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Douze plots et un ballon par joueur",
+          "provenance": {
+            "source_id": "au-kick-chase-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-chase-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-kick-chase-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Kick Chase — Description, Coaching Outcome, Change It",
+        "revision_id": "au-kick-chase-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-kick-chase-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-kick-chase-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Kick Chase",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase"
+      },
+      "model_status": "REVIEWED"
     },
     {
       "age_source": "U7 (classement du site) ; adéquation U8 à valider",
@@ -4136,6 +4704,194 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-cat-mouse",
+      "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+      "material": "Vingt-quatre plots pour le dispositif source",
+      "original_title": "Cat and Mouse",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 2,
+      "players_min": 2,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.",
+      "source_id": "au-cat-mouse-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Binômes ; une forme géométrique en plots attribuée à chacun.",
+      "theme": "évitement et réaction",
+      "title": "Chat et souris autour d’une forme",
+      "instructions": "Rester à l’extérieur de la forme et utiliser des appuis rapides.",
+      "objectives": "Appuis, agilité et déplacement.",
+      "organisation": "Binômes ; une forme géométrique en plots attribuée à chacun.",
+      "steps": "Le chat poursuit la souris autour de la forme.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Appuis, agilité et déplacement.",
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Binômes ; une forme géométrique en plots attribuée à chacun.",
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le chat poursuit la souris autour de la forme.",
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester à l’extérieur de la forme et utiliser des appuis rapides.",
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Vingt-quatre plots pour le dispositif source",
+          "provenance": {
+            "source_id": "au-cat-mouse-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cat-mouse-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-cat-mouse-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Cat and Mouse — Description, Coaching Outcome, Change It",
+        "revision_id": "au-cat-mouse-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-cat-mouse-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-cat-mouse-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Cat and Mouse",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "adaptation": null,
       "age_source": "M8",
       "bout_seconds": 8,
@@ -5089,6 +5845,383 @@
       "model_status": "REVIEWED"
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-colour-two",
+      "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+      "material": "Trois plots colorés et deux plots d’arrivée",
+      "original_title": "Colour Tag — reverse roles",
+      "parent_variant_id": "au-colour-tag",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 3,
+      "players_min": 3,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression explicite : le joueur nommé fuit et subit deux poursuivants.",
+      "source_id": "au-colour-tag-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.",
+      "theme": "évitement et réaction",
+      "title": "Couleur appelée : deux chasseurs contre un",
+      "instructions": "Réagir au changement de rôle ; éviter les collisions.",
+      "objectives": "Se déplacer dans l’espace et développer l’agilité.",
+      "organisation": "Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.",
+      "steps": "À la couleur annoncée, le joueur le plus proche du plot devient fuyard ; les deux autres tentent de le toucher avant l’arrivée.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se déplacer dans l’espace et développer l’agilité.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "À la couleur annoncée, le joueur le plus proche du plot devient fuyard ; les deux autres tentent de le toucher avant l’arrivée.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réagir au changement de rôle ; éviter les collisions.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois plots colorés et deux plots d’arrivée",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-two-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-colour-tag-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It",
+        "revision_id": "au-colour-two-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-colour-two-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-colour-tag-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Colour Tag",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-colour-tag",
+      "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+      "material": "Trois plots colorés et deux plots d’arrivée par trio",
+      "original_title": "Colour Tag",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 3,
+      "players_min": 3,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.",
+      "source_id": "au-colour-tag-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.",
+      "theme": "évitement et réaction",
+      "title": "Couleur appelée : un chasseur contre deux",
+      "instructions": "Tourner dans le sens horaire ; changer les modes de déplacement pendant la ronde.",
+      "objectives": "Repérer l’espace et réagir rapidement.",
+      "organisation": "Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.",
+      "steps": "Au signal de couleur, le joueur le plus proche du plot devient chasseur ; les deux autres rejoignent la ligne.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Repérer l’espace et réagir rapidement.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal de couleur, le joueur le plus proche du plot devient chasseur ; les deux autres rejoignent la ligne.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Tourner dans le sens horaire ; changer les modes de déplacement pendant la ronde.",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Trois plots colorés et deux plots d’arrivée par trio",
+          "provenance": {
+            "source_id": "au-colour-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-colour-tag-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-colour-tag-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Colour Tag — Description, Coaching Outcome, Change It",
+        "revision_id": "au-colour-tag-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-colour-tag-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-colour-tag-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Colour Tag",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "adaptation_u8": "Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.",
       "age_source": "M8",
       "contact": "contact possible dans la source",
@@ -5279,6 +6412,194 @@
       },
       "model_status": "REVIEWED",
       "references": []
+    },
+    {
+      "adaptation_u8": "Proposition IA : commencer en marchant et espacer les paires pour éviter de marcher sur les jambes ; à valider par le coach.",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-fruit-salad",
+      "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+      "material": "Aucun",
+      "original_title": "Fruit Salad",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.",
+      "source_id": "au-fruit-salad-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.",
+      "theme": "évitement et réaction",
+      "title": "Course dans le tunnel des fruits",
+      "instructions": "Enjamber les jambes des partenaires sans les heurter.",
+      "objectives": "Écouter, anticiper et réagir en évitant les autres.",
+      "organisation": "Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.",
+      "steps": "Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Écouter, anticiper et réagir en évitant les autres.",
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.",
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.",
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enjamber les jambes des partenaires sans les heurter.",
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun",
+          "provenance": {
+            "source_id": "au-fruit-salad-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+            "revision_id": "au-fruit-salad-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-fruit-salad-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Fruit Salad — Description, Coaching Outcome, Change It",
+        "revision_id": "au-fruit-salad-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-fruit-salad-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-fruit-salad-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Fruit Salad",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad"
+      },
+      "model_status": "REVIEWED"
     },
     {
       "age_source": "Under 7 (classement du site)",
@@ -7257,6 +8578,195 @@
       "references": []
     },
     {
+      "adaptation_u8": "Proposition IA : uniquement des coupelles souples envoyées au ras du sol, sans viser le visage ; éducateur à proximité. À valider avant utilisation.",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-ufos",
+      "locator": "UFOs — Description, Coaching Outcome, Change It",
+      "material": "Quarante plots et six ballons pour le dispositif source",
+      "original_title": "UFOs",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": null,
+      "players_min": 4,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.",
+      "source_id": "au-ufos-source",
+      "space": "Petit carré ; partenaires à environ 2 m",
+      "status": "documented",
+      "summary": "Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.",
+      "theme": "passe et coopération",
+      "title": "Éviter les plots et recevoir le ballon",
+      "instructions": "Garder le regard disponible pour repérer obstacles et ballon.",
+      "objectives": "Appuis, agilité et vision.",
+      "organisation": "Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.",
+      "steps": "Éviter les plots envoyés par les partenaires ; recevoir le ballon lorsqu’une passe arrive. Faire passer chacun au centre.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Appuis, agilité et vision.",
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.",
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Éviter les plots envoyés par les partenaires ; recevoir le ballon lorsqu’une passe arrive. Faire passer chacun au centre.",
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Garder le regard disponible pour repérer obstacles et ballon.",
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 4,
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Petit carré ; partenaires à environ 2 m",
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quarante plots et six ballons pour le dispositif source",
+          "provenance": {
+            "source_id": "au-ufos-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "UFOs — Description, Coaching Outcome, Change It",
+            "revision_id": "au-ufos-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-ufos-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "UFOs — Description, Coaching Outcome, Change It",
+        "revision_id": "au-ufos-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-ufos-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-ufos-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "UFOs",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/ufos"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "age_source": "Primaire (Écosse) ; adéquation U8 à valider",
       "duration_min": null,
       "id": "scot-monster",
@@ -7842,6 +9352,193 @@
       },
       "model_status": "REVIEWED",
       "references": []
+    },
+    {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-kick-golf",
+      "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+      "material": "Quatre plots par cible et un ballon par joueur",
+      "original_title": "Kick Golf",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Parcours avec comptage des coups ; absent des jeux de territoire au pied.",
+      "source_id": "au-kick-golf-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Parcours de cibles matérialisées par des plots.",
+      "theme": "jeu au pied",
+      "title": "Golf au pied",
+      "instructions": "Expérimenter différents types de coups de pied selon la cible.",
+      "objectives": "Doser et orienter le ballon au pied.",
+      "organisation": "Parcours de cibles matérialisées par des plots.",
+      "steps": "À tour de rôle, atteindre chaque cible en un minimum de coups de pied.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Doser et orienter le ballon au pied.",
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Parcours de cibles matérialisées par des plots.",
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "À tour de rôle, atteindre chaque cible en un minimum de coups de pied.",
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Expérimenter différents types de coups de pied selon la cible.",
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quatre plots par cible et un ballon par joueur",
+          "provenance": {
+            "source_id": "au-kick-golf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-golf-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-kick-golf-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Kick Golf — Description, Coaching Outcome, Change It",
+        "revision_id": "au-kick-golf-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-kick-golf-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-kick-golf-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Kick Golf",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf"
+      },
+      "model_status": "REVIEWED"
     },
     {
       "age_source": "U7 (classement du site) ; adéquation U8 à valider",
@@ -10201,6 +11898,178 @@
       "references": []
     },
     {
+      "adaptation_u8": "Proposition IA : démontrer les couleurs et commencer avec un seul carré si la règle est trop complexe ; validation terrain requise.",
+      "age_source": "Primaire P4–P7 ; adaptation U8 à valider",
+      "duration_min": null,
+      "id": "scot-break-walls",
+      "locator": "PDF page 21 — Break the walls",
+      "material": "Ballons, plots colorés et chasubles",
+      "original_title": "Break the walls",
+      "page_end": 21,
+      "page_start": 21,
+      "players_max": null,
+      "players_min": null,
+      "review": "Texte source reformulé ; validation coach non effectuée. Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.",
+      "source_id": "scot-primary",
+      "space": null,
+      "status": "documented",
+      "summary": "Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.",
+      "theme": "évitement et réaction",
+      "title": "Marquer sur chaque bord coloré",
+      "instructions": "Changer régulièrement les défenseurs.",
+      "objectives": "Marquer sur les différentes lignes en coopérant.",
+      "organisation": "Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.",
+      "steps": "Les attaquants cherchent à aplatir au-delà de chaque bord coloré. Ils peuvent courir avec le ballon mais passent lorsqu’ils sont touchés.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Marquer sur les différentes lignes en coopérant.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les attaquants cherchent à aplatir au-delà de chaque bord coloré. Ils peuvent courir avec le ballon mais passent lorsqu’ils sont touchés.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer régulièrement les défenseurs.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ballons, plots colorés et chasubles",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "PDF page 21 — Break the walls",
+            "revision_id": "scot-break-walls-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "scot-primary",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "PDF page 21 — Break the walls",
+        "revision_id": "scot-break-walls-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "scot-break-walls-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-07",
+        "format": "PDF",
+        "id": "scot-primary",
+        "language": "en",
+        "publisher": "Scottish Rugby",
+        "qualification_note": "Recueil de fiches et exemples de séances ; extraction partielle.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Primary School Teacher Resource Pack",
+        "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Under 7 (classement du site)",
       "duration_min": null,
       "id": "nz-shadow-mirror",
@@ -11786,6 +13655,382 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-pass-duck",
+      "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+      "material": "Six plots et un ballon par groupe",
+      "original_title": "Pass and Duck",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": null,
+      "players_min": 4,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.",
+      "source_id": "au-pass-duck-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.",
+      "theme": "passe et coopération",
+      "title": "Passer, rendre et s’accroupir",
+      "instructions": "Former un W avec les mains ; finir le geste vers la cible.",
+      "objectives": "Réceptionner et doser une passe en utilisant le corps.",
+      "organisation": "Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.",
+      "steps": "Le premier reçoit, rend puis se baisse ; répéter jusqu’au dernier qui prend la place du passeur.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réceptionner et doser une passe en utilisant le corps.",
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.",
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le premier reçoit, rend puis se baisse ; répéter jusqu’au dernier qui prend la place du passeur.",
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Former un W avec les mains ; finir le geste vers la cible.",
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 4,
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Six plots et un ballon par groupe",
+          "provenance": {
+            "source_id": "au-pass-duck-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+            "revision_id": "au-pass-duck-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-pass-duck-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Pass and Duck — Description, Coaching Outcome, Change It",
+        "revision_id": "au-pass-duck-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-pass-duck-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-pass-duck-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Pass and Duck",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-over-under",
+      "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+      "material": "Six plots et un ballon par groupe",
+      "original_title": "Passing Overs and Unders",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": null,
+      "players_min": 4,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.",
+      "source_id": "au-over-under-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Files de quatre joueurs ou plus.",
+      "theme": "passe et coopération",
+      "title": "Passes alternées dessus-dessous",
+      "instructions": "Attraper et passer à deux mains.",
+      "objectives": "Coopérer et enchaîner les réceptions-transmissions.",
+      "organisation": "Files de quatre joueurs ou plus.",
+      "steps": "Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Coopérer et enchaîner les réceptions-transmissions.",
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Files de quatre joueurs ou plus.",
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.",
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Attraper et passer à deux mains.",
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 4,
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Six plots et un ballon par groupe",
+          "provenance": {
+            "source_id": "au-over-under-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+            "revision_id": "au-over-under-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-over-under-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It",
+        "revision_id": "au-over-under-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-over-under-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-over-under-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Passing Overs and Unders",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "age_source": "Initiation Get Into Rugby ; âge non précisé",
       "duration_min": 6,
       "id": "wr-chain-reaction",
@@ -13135,6 +15380,195 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-partner-tag",
+      "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+      "material": "Huit plots et un ballon par binôme",
+      "original_title": "Partner Tag",
+      "parent_variant_id": "nz-shadow",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 2,
+      "players_min": 2,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.",
+      "source_id": "au-partner-tag-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Binômes dans une zone, un porteur et un chasseur.",
+      "theme": "évitement et réaction",
+      "title": "Poursuite avec ballon et permutation",
+      "instructions": "Éviter les autres binômes.",
+      "objectives": "Agilité et perception de l’espace.",
+      "organisation": "Binômes dans une zone, un porteur et un chasseur.",
+      "steps": "Le porteur évite son partenaire ; après le toucher, permuter puis reprendre.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Agilité et perception de l’espace.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Binômes dans une zone, un porteur et un chasseur.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur évite son partenaire ; après le toucher, permuter puis reprendre.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Éviter les autres binômes.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Huit plots et un ballon par binôme",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-tag-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-partner-tag-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Partner Tag — Description, Coaching Outcome, Change It",
+        "revision_id": "au-partner-tag-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-partner-tag-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-partner-tag-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Partner Tag",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "age_source": "U7 (classement du site) ; adéquation U8 à valider",
       "duration_min": null,
       "id": "rc-pass-start",
@@ -13696,6 +16130,193 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-wolf",
+      "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+      "material": "Neuf plots et un ballon par joueur",
+      "original_title": "What’s the Time Mr Wolf?",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.",
+      "source_id": "au-wolf-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.",
+      "theme": "évitement et réaction",
+      "title": "Quelle heure est-il, monsieur le loup ?",
+      "instructions": "Réagir à la réponse du loup et conserver son ballon.",
+      "objectives": "Écouter, anticiper et réagir.",
+      "organisation": "Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.",
+      "steps": "Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Écouter, anticiper et réagir.",
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.",
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.",
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réagir à la réponse du loup et conserver son ballon.",
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Neuf plots et un ballon par joueur",
+          "provenance": {
+            "source_id": "au-wolf-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+            "revision_id": "au-wolf-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-wolf-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It",
+        "revision_id": "au-wolf-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-wolf-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-wolf-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "What’s the Time Mr Wolf?",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "adaptation_u8": null,
       "age_source": "M8",
       "contact": "non renseigné",
@@ -14143,6 +16764,192 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-nest-pass",
+      "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+      "material": "Huit plots et seize ballons",
+      "original_title": "Rob the Nest — passing progression",
+      "parent_variant_id": "rc-eggs",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.",
+      "source_id": "au-nest",
+      "space": null,
+      "status": "documented",
+      "summary": "Quatre équipes aux coins ; réserve centrale de ballons.",
+      "theme": "passe et coopération",
+      "title": "Rapporter les trésors par une passe",
+      "instructions": "Départs successifs ; compter les ballons à la fin.",
+      "objectives": "Coopérer, porter à deux mains et lire l’espace.",
+      "organisation": "Quatre équipes aux coins ; réserve centrale de ballons.",
+      "steps": "Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Coopérer, porter à deux mains et lire l’espace.",
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quatre équipes aux coins ; réserve centrale de ballons.",
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.",
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Départs successifs ; compter les ballons à la fin.",
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Huit plots et seize ballons",
+          "provenance": {
+            "source_id": "au-nest",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-nest-pass-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-nest",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It",
+        "revision_id": "au-nest-pass-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-nest-pass-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée",
+        "checked_on": "2026-09-06",
+        "id": "au-nest",
+        "language": "en",
+        "note": "Variante de la famille des nids ; rattachée à la fiche existante.",
+        "publisher": "Rugby Australia",
+        "title": "Rob the Nest",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "adaptation_u8": "Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.",
       "age_source": "Primaire / mini-rugby",
       "contact": "sans plaquage",
@@ -14578,6 +17385,194 @@
       },
       "model_status": "REVIEWED",
       "references": []
+    },
+    {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-cone-game",
+      "locator": "Cone Game — Description, Coaching Outcome, Change It",
+      "material": "Un plot pour deux joueurs",
+      "original_title": "Cone Game",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 2,
+      "players_min": 2,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.",
+      "source_id": "au-cone-game-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Binômes à longueur de bras ; plot au sol à égale distance.",
+      "theme": "évitement et réaction",
+      "title": "Réagir au mot plot",
+      "instructions": "Écouter le mot annoncé avant d’agir.",
+      "objectives": "Anticipation, écoute et réaction.",
+      "organisation": "Binômes à longueur de bras ; plot au sol à égale distance.",
+      "steps": "Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Anticipation, écoute et réaction.",
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Binômes à longueur de bras ; plot au sol à égale distance.",
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.",
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Écouter le mot annoncé avant d’agir.",
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un plot pour deux joueurs",
+          "provenance": {
+            "source_id": "au-cone-game-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Cone Game — Description, Coaching Outcome, Change It",
+            "revision_id": "au-cone-game-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-cone-game-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Cone Game — Description, Coaching Outcome, Change It",
+        "revision_id": "au-cone-game-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-cone-game-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-cone-game-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Cone Game",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game"
+      },
+      "model_status": "REVIEWED"
     },
     {
       "adaptation_u8": "Conserver d’abord la réception à deux mains ; choisir une surface régulière et une faible distance.",
@@ -16491,6 +19486,193 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-chain-relay",
+      "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+      "material": "Aucun",
+      "original_title": "Chain Relay",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.",
+      "source_id": "au-chain-relay-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Deux lignes opposées, bras en T, doigts voisins qui se touchent.",
+      "theme": "évitement et réaction",
+      "title": "Slalomer dans la chaîne de partenaires",
+      "instructions": "Regarder devant soi et orienter les appuis pour slalomer.",
+      "objectives": "Agilité et coopération.",
+      "organisation": "Deux lignes opposées, bras en T, doigts voisins qui se touchent.",
+      "steps": "Le premier slalome entre ses partenaires puis rejoint la fin ; le suivant part alors. Continuer jusqu’au passage de tous.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Agilité et coopération.",
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux lignes opposées, bras en T, doigts voisins qui se touchent.",
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le premier slalome entre ses partenaires puis rejoint la fin ; le suivant part alors. Continuer jusqu’au passage de tous.",
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Regarder devant soi et orienter les appuis pour slalomer.",
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun",
+          "provenance": {
+            "source_id": "au-chain-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+            "revision_id": "au-chain-relay-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-chain-relay-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Chain Relay — Description, Coaching Outcome, Change It",
+        "revision_id": "au-chain-relay-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-chain-relay-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-chain-relay-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Chain Relay",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "adaptation": null,
       "age_source": "M8",
       "contact": "sans opposition de possession",
@@ -17715,6 +20897,381 @@
       "references": []
     },
     {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-tennis-return",
+      "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+      "material": "Douze plots et un ballon",
+      "original_title": "Kick Tennis — elimination progression",
+      "parent_variant_id": "au-kick-tennis",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.",
+      "source_id": "au-kick-tennis-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Deux équipes dans des terrains opposés.",
+      "theme": "jeu au pied",
+      "title": "Tennis au pied : élimination et retour",
+      "instructions": "Chercher les espaces libres et communiquer à la réception.",
+      "objectives": "Précision, réception et coopération.",
+      "organisation": "Deux équipes dans des terrains opposés.",
+      "steps": "Botter au-dessus des épaules. Une chute élimine le joueur qui lâche ou le plus proche du point de chute ; une réception réussie fait revenir un éliminé.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Précision, réception et coopération.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes dans des terrains opposés.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Botter au-dessus des épaules. Une chute élimine le joueur qui lâche ou le plus proche du point de chute ; une réception réussie fait revenir un éliminé.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher les espaces libres et communiquer à la réception.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Douze plots et un ballon",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-tennis-return-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-kick-tennis-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It",
+        "revision_id": "au-tennis-return-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-tennis-return-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-kick-tennis-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Kick Tennis",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-kick-tennis",
+      "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+      "material": "Douze plots et un ballon",
+      "original_title": "Kick Tennis",
+      "players_max": null,
+      "players_min": null,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.",
+      "source_id": "au-kick-tennis-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Deux équipes dans deux rectangles opposés.",
+      "theme": "jeu au pied",
+      "title": "Tennis au pied avec score",
+      "instructions": "Le ballon doit monter au-dessus des épaules.",
+      "objectives": "Précision au pied, réception et communication.",
+      "organisation": "Deux équipes dans deux rectangles opposés.",
+      "steps": "Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Précision au pied, réception et communication.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes dans deux rectangles opposés.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le ballon doit monter au-dessus des épaules.",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Douze plots et un ballon",
+          "provenance": {
+            "source_id": "au-kick-tennis-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+            "revision_id": "au-kick-tennis-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-kick-tennis-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Kick Tennis — Description, Coaching Outcome, Change It",
+        "revision_id": "au-kick-tennis-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-kick-tennis-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-kick-tennis-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Kick Tennis",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis"
+      },
+      "model_status": "REVIEWED"
+    },
+    {
       "adaptation_u8": null,
       "age_source": "U7 (classement du site) ; adéquation U8 à valider",
       "coach_points": "Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.",
@@ -17856,6 +21413,196 @@
       },
       "model_status": "REVIEWED",
       "references": []
+    },
+    {
+      "adaptation_u8": "Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.",
+      "age_source": "Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider",
+      "duration_min": null,
+      "id": "au-partner-release",
+      "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+      "material": "Huit plots et un ballon par binôme",
+      "original_title": "Partner Tag — ground release progression",
+      "parent_variant_id": "au-partner-tag",
+      "participants_scope": "par groupe ou binôme ; total du dispositif non indiqué",
+      "players_max": 2,
+      "players_min": 2,
+      "references": [
+        {
+          "locator": "What is Get into Rugby? / Walla and Tri Time",
+          "source_id": "au-gir-age-source",
+          "summary": "Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.",
+          "source": {
+            "access": "FAQ publique consultée",
+            "checked_on": "2026-09-10",
+            "format": "HTML",
+            "id": "au-gir-age-source",
+            "language": "en",
+            "publisher": "Rugby Australia",
+            "qualification_note": "Périmètre 4–7 ans du programme ; ne décrit pas un exercice.",
+            "resource_type": "PEDAGOGICAL_CONTENT",
+            "title": "Get into Rugby FAQs",
+            "url": "https://australia.rugby/participate/get-into-rugby/faqs"
+          }
+        }
+      ],
+      "review": "Texte source reformulé ; validation coach non effectuée. Progression explicite avec passage au sol et ramassage pour changer de rôle.",
+      "source_id": "au-partner-tag-source",
+      "space": null,
+      "status": "documented",
+      "summary": "Binôme porteur-chasseur dans une zone.",
+      "theme": "passe et coopération",
+      "title": "Toucher, libérer au sol et changer de rôle",
+      "instructions": "Permuter après le ramassage, pas au moment du toucher.",
+      "objectives": "Agilité et perception de l’espace.",
+      "organisation": "Binôme porteur-chasseur dans une zone.",
+      "steps": "Après le toucher, le porteur va au sol et libère le ballon. Le chasseur ramasse ; les rôles changent alors et la poursuite reprend.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Agilité et perception de l’espace.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Binôme porteur-chasseur dans une zone.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après le toucher, le porteur va au sol et libère le ballon. Le chasseur ramasse ; les rôles changent alors et la poursuite reprend.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Permuter après le ramassage, pas au moment du toucher.",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 2,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Huit plots et un ballon par binôme",
+          "provenance": {
+            "source_id": "au-partner-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+            "revision_id": "au-partner-release-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "au-partner-tag-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It",
+        "revision_id": "au-partner-release-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "au-partner-release-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "HTML",
+        "id": "au-partner-tag-source",
+        "language": "en",
+        "publisher": "Rugby Australia",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "WEB_PAGE",
+        "title": "Partner Tag",
+        "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag"
+      },
+      "model_status": "REVIEWED"
     },
     {
       "adaptation_u8": "Proposition à valider : travailler en binôme, en marchant puis en trottinant.",
@@ -19014,6 +22761,176 @@
         "resource_type": "WEB_PAGE",
         "title": "Get Into Rugby — Non Contact Activities",
         "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Primaire, Key Stages 1 et 2",
+      "duration_min": 3,
+      "id": "sg-team-tag",
+      "locator": "Rugby union - team tag — Getting started",
+      "material": "Douze ballons, douze ceintures, quatre chasubles, plots",
+      "original_title": "Rugby union - team tag",
+      "participants_scope": "un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois",
+      "players_max": 16,
+      "players_min": 16,
+      "review": "Texte source reformulé ; validation coach non effectuée. Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs. Trois minutes maximum : fin anticipée si tous les porteurs sont pris.",
+      "source_id": "sg-team-tag-source",
+      "space": "Environ 15 × 20 m",
+      "status": "documented",
+      "summary": "Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.",
+      "theme": "évitement et réaction",
+      "title": "Vider le terrain au tag contre la montre",
+      "instructions": "Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.",
+      "objectives": "Vider le terrain aussi rapidement que possible.",
+      "organisation": "Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.",
+      "steps": "Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Vider le terrain aussi rapidement que possible.",
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.",
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.",
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.",
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 3,
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 16,
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 16,
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Environ 15 × 20 m",
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Douze ballons, douze ceintures, quatre chasubles, plots",
+          "provenance": {
+            "source_id": "sg-team-tag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rugby union - team tag — Getting started",
+            "revision_id": "sg-team-tag-detail-1"
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "sg-team-tag-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Rugby union - team tag — Getting started",
+        "revision_id": "sg-team-tag-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "sg-team-tag-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Description publique consultée ; capture locale évaluée séparément",
+        "checked_on": "2026-09-10",
+        "format": "PDF",
+        "id": "sg-team-tag-source",
+        "language": "en",
+        "publisher": "School Games",
+        "qualification_note": "Situation et progressions écrites, pas une durée vidéo. Contenu reformulé. Source pédagogique, pas règlement français U8.",
+        "resource_type": "EXERCISE_PDF",
+        "title": "Rugby union - team tag",
+        "url": "https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf"
       },
       "model_status": "REVIEWED",
       "references": []

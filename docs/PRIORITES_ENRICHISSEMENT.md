@@ -38,4 +38,4 @@
 | Slalom au pied puis essai | consignes |
 | Transmettre en trottinant | installation, déroulement, consignes |
 
-93 fiches sur 128 avec les trois champs ; pas de validation pédagogique implicite.
+113 fiches sur 148 avec les trois champs ; pas de validation pédagogique implicite.

@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-128 fiches — les propositions terrain restent à valider par le coach.
+148 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -56,9 +56,13 @@
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Botter, récupérer et marquer](fiches/au-kick-chase.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Conduire le ballon au pied](fiches/ffr-pied.md) | M8 | Documentée ; à valider |
 | [Coup franc pour soi](fiches/ffr-cpf.md) | M8 | Documentée ; à valider |
+| [Golf au pied](fiches/au-kick-golf.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Slalom au pied puis essai](fiches/ffr-guide-dribble.md) | M8 — guide saison 2022-2023 | Documentée ; à valider |
+| [Tennis au pied : élimination et retour](fiches/au-tennis-return.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Tennis au pied avec score](fiches/au-kick-tennis.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 
 ## Jeu collectif
 
@@ -167,10 +171,16 @@
 
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
+| [Aller au sol puis transmettre au soutien](fiches/au-pop-race.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Conserver après avoir touché le sol](fiches/nz-ground-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Éviter les plots et recevoir le ballon](fiches/au-ufos.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Passer, rendre et s’accroupir](fiches/au-pass-duck.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Passes alternées dessus-dessous](fiches/au-over-under.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Passes en zigzag et replacement en bout de ligne](fiches/nz-zigzag.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Rapporter les trésors par une passe](fiches/au-nest-pass.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Suivre et réagir au choix de transmission](fiches/wr-follow-choice.md) | Initiation ; âge non précisé | Documentée ; à valider |
 | [Taper au pied puis passer en ligne](fiches/nz-tap-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
+| [Toucher, libérer au sol et changer de rôle](fiches/au-partner-release.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Traverser et donner à un partenaire extérieur](fiches/scot-pass-pal.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
 
 ## Passe et soutien
@@ -251,4 +261,19 @@
 | [Rats et lapins : duel avec ballon en ligne droite](fiches/nz-rats-straight.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Rats et lapins : trajectoires libres](fiches/nz-rats-free.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Suivre l’ombre du porteur](fiches/nz-shadow.md) | Under 7 (classement du site) | Documentée ; à valider |
+
+## Évitement et réaction
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Chat et souris autour d’une forme](fiches/au-cat-mouse.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Couleur appelée : deux chasseurs contre un](fiches/au-colour-two.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Couleur appelée : un chasseur contre deux](fiches/au-colour-tag.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Course dans le tunnel des fruits](fiches/au-fruit-salad.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Marquer sur chaque bord coloré](fiches/scot-break-walls.md) | Primaire P4–P7 ; adaptation U8 à valider | Documentée ; à valider |
+| [Poursuite avec ballon et permutation](fiches/au-partner-tag.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Quelle heure est-il, monsieur le loup ?](fiches/au-wolf.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Réagir au mot plot](fiches/au-cone-game.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Slalomer dans la chaîne de partenaires](fiches/au-chain-relay.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
+| [Vider le terrain au tag contre la montre](fiches/sg-team-tag.md) | Primaire, Key Stages 1 et 2 | Documentée ; à valider |
 

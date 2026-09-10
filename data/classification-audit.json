@@ -15,7 +15,7 @@
     },
     {
       "id": "F03",
-      "title": "Conduite au pied",
+      "title": "Jeu et conduite au pied",
       "origin": "AI_INFERRED"
     },
     {
@@ -105,7 +105,7 @@
     },
     {
       "id": "F21",
-      "title": "Tennis de manipulation",
+      "title": "Jeux de renvoi : main et pied",
       "origin": "AI_INFERRED"
     },
     {
@@ -1266,6 +1266,186 @@
       "discriminant": "Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.",
       "source_id": "wr-noncontact",
       "locator": "Decision Making - 4 v 1"
+    },
+    {
+      "variant_id": "au-pass-duck",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.",
+      "source_id": "au-pass-duck-source",
+      "locator": "Pass and Duck — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-over-under",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Circulation verticale alternée et retour du dernier en tête.",
+      "source_id": "au-over-under-source",
+      "locator": "Passing Overs and Unders — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-pop-race",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Continuité au sol et soutien, sans adversaire qui plaque.",
+      "source_id": "au-pop-race-source",
+      "locator": "Score the Try and Pop Race — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-kick-chase",
+      "family_id": "F03",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Coup de pied puis récupération et essai ; différent du slalom en conduite.",
+      "source_id": "au-kick-chase-source",
+      "locator": "Kick Chase — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-kick-golf",
+      "family_id": "F03",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Parcours avec comptage des coups ; absent des jeux de territoire au pied.",
+      "source_id": "au-kick-golf-source",
+      "locator": "Kick Golf — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-kick-tennis",
+      "family_id": "F21",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Échange au pied vers une aire adverse ; différent du tennis à la main.",
+      "source_id": "au-kick-tennis-source",
+      "locator": "Kick Tennis — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-fruit-salad",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.",
+      "source_id": "au-fruit-salad-source",
+      "locator": "Fruit Salad — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-cone-game",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.",
+      "source_id": "au-cone-game-source",
+      "locator": "Cone Game — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-chain-relay",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.",
+      "source_id": "au-chain-relay-source",
+      "locator": "Chain Relay — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-wolf",
+      "family_id": "F13",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Approche par pas comptés puis déclenchement différé du duel de traversée.",
+      "source_id": "au-wolf-source",
+      "locator": "What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-colour-tag",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.",
+      "source_id": "au-colour-tag-source",
+      "locator": "Colour Tag — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-partner-tag",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.",
+      "source_id": "au-partner-tag-source",
+      "locator": "Partner Tag — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-nest-pass",
+      "family_id": "F19",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.",
+      "source_id": "au-nest",
+      "locator": "Rob the Nest — passing progression — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-colour-two",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression explicite : le joueur nommé fuit et subit deux poursuivants.",
+      "source_id": "au-colour-tag-source",
+      "locator": "Colour Tag — reverse roles — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-tennis-return",
+      "family_id": "F21",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.",
+      "source_id": "au-kick-tennis-source",
+      "locator": "Kick Tennis — elimination progression — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-partner-release",
+      "family_id": "F07",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Progression explicite avec passage au sol et ramassage pour changer de rôle.",
+      "source_id": "au-partner-tag-source",
+      "locator": "Partner Tag — ground release progression — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "au-ufos",
+      "family_id": "F02",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.",
+      "source_id": "au-ufos-source",
+      "locator": "UFOs — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "sg-team-tag",
+      "family_id": "F12",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs.",
+      "source_id": "sg-team-tag-source",
+      "locator": "Rugby union - team tag — Getting started"
+    },
+    {
+      "variant_id": "scot-break-walls",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.",
+      "source_id": "scot-primary",
+      "locator": "PDF page 21 — Break the walls"
+    },
+    {
+      "variant_id": "au-cat-mouse",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.",
+      "source_id": "au-cat-mouse-source",
+      "locator": "Cat and Mouse — Description, Coaching Outcome, Change It"
     }
   ],
   "pair_reviews": [

@@ -1,14 +1,42 @@
 {
-  "generated_at": "2026-09-10T06:10:41.789316+00:00",
-  "variants": 128,
-  "documented": 119,
+  "generated_at": "2026-09-10T06:23:16.988478+00:00",
+  "variants": 148,
+  "documented": 139,
   "incomplete": 9,
-  "enriched": 110,
-  "resources": 70,
+  "enriched": 130,
+  "resources": 86,
   "captured_resources": 62,
   "families": 2,
   "events": [],
   "resource_inventory": [
+    {
+      "resource_id": "au-cat-mouse-source",
+      "title": "Cat and Mouse",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-chain-relay-source",
+      "title": "Chain Relay",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-colour-tag-source",
+      "title": "Colour Tag",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-cone-game-source",
+      "title": "Cone Game",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
     {
       "resource_id": "au-familiarisation",
       "title": "Ball Familiarisation",
@@ -19,6 +47,41 @@
         "error": "Vérification robots impossible : 429",
         "started_at": "2026-09-08T12:00:16.356322+00:00"
       }
+    },
+    {
+      "resource_id": "au-fruit-salad-source",
+      "title": "Fruit Salad",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-gir-age-source",
+      "title": "Get into Rugby FAQs",
+      "url": "https://australia.rugby/participate/get-into-rugby/faqs",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-kick-chase-source",
+      "title": "Kick Chase",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-kick-golf-source",
+      "title": "Kick Golf",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-kick-tennis-source",
+      "title": "Kick Tennis",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis",
+      "capture_recorded": false,
+      "last_attempt": null
     },
     {
       "resource_id": "au-nest",
@@ -41,6 +104,52 @@
         "error": "Vérification robots impossible : 429",
         "started_at": "2026-09-08T16:08:29.951153+00:00"
       }
+    },
+    {
+      "resource_id": "au-over-under-source",
+      "title": "Passing Overs and Unders",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-partner-tag-source",
+      "title": "Partner Tag",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-pass-duck-source",
+      "title": "Pass and Duck",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Vérification robots impossible : 429",
+        "started_at": "2026-09-10T06:21:59.142529+00:00"
+      }
+    },
+    {
+      "resource_id": "au-pop-race-source",
+      "title": "Score the Try and Pop Race",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-ufos-source",
+      "title": "UFOs",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/activations/ufos",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "au-wolf-source",
+      "title": "What’s the Time Mr Wolf?",
+      "url": "https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time",
+      "capture_recorded": false,
+      "last_attempt": null
     },
     {
       "resource_id": "ffr-atelier-1-2025-26",
@@ -744,6 +853,17 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T10:54:36.123212+00:00"
+      }
+    },
+    {
+      "resource_id": "sg-team-tag-source",
+      "title": "Rugby union - team tag",
+      "url": "https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf",
+      "capture_recorded": false,
+      "last_attempt": {
+        "state": "BLOCKED",
+        "error": "Vérification robots impossible : 403",
+        "started_at": "2026-09-10T06:22:00.016089+00:00"
       }
     },
     {
