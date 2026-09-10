@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8
 
-125 fiches · 70 sources
+128 fiches · 70 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
@@ -303,6 +303,36 @@ Le coach annonce une couleur qui change la ligne visée par l’équipe en posse
 
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
+## Chaque passe change le défenseur
+
+**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.**
+
+Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
+
+**Matériel :** Ballon et plots ; rubans pour la situation de capture
+
+**Durée atelier :** 6 min
+
+**Effectif :** 5–5 — par groupe
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Decision Making - 4 v 1 · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Objectifs :** Avancer, soutenir, maintenir la continuité et marquer.
+
+**Organisation :** Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
+
+**Déroulement :** Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.
+
+**Consignes :** Après capture du ruban, passer en arrière au soutien.
+
+Détails extraits le 2026-09-10 — Decision Making - 4 v 1.
+
+**Espace source :** 30 × 10 m
+
 ## Chasse à la frite avec délivrance par la main
 
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
@@ -454,6 +484,36 @@ Détails extraits le 2026-09-08 — Section Find the Space.
 **Espace source :** 5 × 5 m par atelier
 
 **Manche source :** 60 secondes ; durée totale inconnue.
+
+## Chasse par binômes avec changement de rôle
+
+**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.**
+
+Un binôme chasseur avec ballon ; autres binômes dans le carré.
+
+**Matériel :** Ballon et plots
+
+**Durée atelier :** 6 min
+
+**Effectif :** 10–10 — par groupe
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pairs Tag · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Objectifs :** Soutenir, assurer la continuité et mettre sous pression.
+
+**Organisation :** Un binôme chasseur avec ballon ; autres binômes dans le carré.
+
+**Déroulement :** Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.
+
+**Consignes :** Porteur immobile ; passes dans toutes les directions.
+
+Détails extraits le 2026-09-10 — Pairs Tag.
+
+**Espace source :** 20 × 20 m
 
 ## Chasseurs passeurs par trois
 
@@ -619,13 +679,15 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer, soutenir, maintenir la continuité et exercer une pression défensive.
+
 **Organisation :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
 
 **Déroulement :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
 
 **Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-09 — Passing - 5 v 1 x 5 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Passing - 5 v 1 x 5 — Objective / Principles of play.
 
 **Espace source :** 30 × 20 m
 
@@ -693,13 +755,15 @@ Deux équipes de six à douze dans le carré.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Communiquer, se déplacer dans les espaces et manipuler le ballon.
+
 **Organisation :** Deux équipes de six à douze dans le carré.
 
 **Déroulement :** Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.
 
 **Consignes :** Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession.
 
-Détails extraits le 2026-09-09 — Touch the Ground Pass — organisation et déroulement.
+Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Principles of play.
 
 **Espace source :** 15 × 15 m
 
@@ -1065,13 +1129,15 @@ Un attaquant avec ballon face à un défenseur placé sur une ligne transversale
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Battre un adversaire en un contre un.
+
 **Organisation :** Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
 
 **Déroulement :** Déborder le défenseur en restant dans le couloir ; alterner le côté de départ.
 
 **Consignes :** Le coach choisit le mode défensif : la source permet le toucher à deux mains.
 
-Détails extraits le 2026-09-09 — Evading the Player — organisation et déroulement.
+Détails extraits le 2026-09-10 — Evading the Player — Objective / Principles of play.
 
 **Espace source :** 22 × 15 m
 
@@ -1262,6 +1328,36 @@ Cinq joueurs en file suivent le porteur.
 Détails extraits le 2026-09-08 — Follow the Leader.
 
 **Espace source :** 5 × 5 m
+
+## Franchir trois rideaux disposés en 2–1–2
+
+**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.**
+
+Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
+
+**Matériel :** Ballons et plots
+
+**Durée atelier :** 10 min
+
+**Effectif :** 15–15 — par couloir : dix attaquants et cinq défenseurs
+
+**Adaptation U8 proposée :** Aucune rédigée.
+
+[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Passing - 5 v 2 v 1 v 2 · consultée le 2026-09-08
+
+**Accès :** Texte public consulté
+
+**Objectifs :** Avancer, soutenir et maintenir la continuité.
+
+**Organisation :** Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
+
+**Déroulement :** Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.
+
+**Consignes :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
+
+Détails extraits le 2026-09-10 — Passing - 5 v 2 v 1 v 2.
+
+**Espace source :** 30 × 20 m
 
 ## Gagne-terrain
 
@@ -1859,13 +1955,15 @@ Binôme face à face, un porteur de ballon.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Effectuer des changements de direction rapides.
+
 **Organisation :** Binôme face à face, un porteur de ballon.
 
 **Déroulement :** Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.
 
 **Consignes :** Ballon à deux mains et tête levée ; éviter les autres binômes.
 
-Détails extraits le 2026-09-09 — Shadow Run — progression 2 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Shadow Run — progression 2 — Objective / Principles of play.
 
 **Espace source :** 20 × 20 m
 
@@ -1887,13 +1985,15 @@ Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre dé
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Accélérer, ramasser et éviter un défenseur.
+
 **Organisation :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
 
 **Déroulement :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
 
 **Consignes :** Répéter avec un autre numéro ; rubans prévus par la source.
 
-Détails extraits le 2026-09-09 — Number Race 2 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Number Race 2 — Objective / Principles of play.
 
 **Espace source :** 15 × 10 m
 
@@ -2273,13 +2373,15 @@ Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Enchaîner passe, réception et course à l’échauffement.
+
 **Organisation :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
 
 **Déroulement :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
 
 **Consignes :** Passer des deux côtés, communiquer et doser pour le receveur.
 
-Détails extraits le 2026-09-09 — Zig Zag Passing — organisation et déroulement.
+Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles of play.
 
 **Espace source :** 10 × 50 m
 
@@ -2333,13 +2435,15 @@ Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Développer l’évitement et la capture par toucher ou ruban.
+
 **Organisation :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
 **Déroulement :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
 
 **Consignes :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
 
-Détails extraits le 2026-09-09 — Octopus — organisation et déroulement.
+Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
 
 **Espace source :** À ajuster au groupe
 
@@ -2607,13 +2711,15 @@ Binômes face à face à dix à quinze mètres ; ballon devant eux.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+
 **Organisation :** Binômes face à face à dix à quinze mètres ; ballon devant eux.
 
 **Déroulement :** Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.
 
 **Consignes :** Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre.
 
-Détails extraits le 2026-09-09 — Rats and Rabbits 3 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Rats and Rabbits 3 — Objective / Principles of play.
 
 **Espace source :** Deux lignes espacées de 10 à 15 m
 
@@ -2635,13 +2741,15 @@ Même départ en binômes face à face, ballon au sol.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+
 **Organisation :** Même départ en binômes face à face, ballon au sol.
 
 **Déroulement :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
 
 **Consignes :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
 
-Détails extraits le 2026-09-09 — Rats and Rabbits 4 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principles of play.
 
 **Espace source :** Départ à 10 à 15 m
 
@@ -3117,13 +3225,15 @@ Groupe en file derrière le porteur.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer, soutenir et assurer la continuité.
+
 **Organisation :** Groupe en file derrière le porteur.
 
 **Déroulement :** Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue.
 
 **Consignes :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
 
-Détails extraits le 2026-09-09 — Pass and Support - Follow the Leader — organisation et déroulement.
+Détails extraits le 2026-09-10 — Pass and Support - Follow the Leader — Objective / Principles of play.
 
 **Espace source :** 20 × 20 m
 
@@ -3145,13 +3255,15 @@ Binômes, un ballon ; trio possible si effectif impair.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Effectuer des changements de direction rapides.
+
 **Organisation :** Binômes, un ballon ; trio possible si effectif impair.
 
 **Déroulement :** Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.
 
 **Consignes :** Ballon à deux mains, tête levée pour éviter les autres binômes.
 
-Détails extraits le 2026-09-09 — Shadow Run — organisation et déroulement.
+Détails extraits le 2026-09-10 — Shadow Run — Objective / Principles of play.
 
 **Espace source :** 20 × 20 m
 
@@ -3229,13 +3341,15 @@ Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Enchaîner un tap au pied et une passe.
+
 **Organisation :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
 **Déroulement :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
 
 **Consignes :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
 
-Détails extraits le 2026-09-09 — Tap pass Tap — organisation et déroulement.
+Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of play.
 
 **Espace source :** 5 × 15 m
 

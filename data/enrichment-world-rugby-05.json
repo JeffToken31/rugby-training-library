@@ -1,0 +1,172 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-pairs-tag-detail-1",
+      "variant_id": "wr-pairs-tag",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Pairs Tag",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un binôme chasseur avec ballon ; autres binômes dans le carré."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porteur immobile ; passes dans toutes les directions."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutenir, assurer la continuité et mettre sous pression."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "20 × 20 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon et plots"
+        }
+      }
+    },
+    {
+      "id": "wr-walls-212-detail-1",
+      "variant_id": "wr-walls-212",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Passing - 5 v 2 v 1 v 2",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, soutenir et maintenir la continuité."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 15
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 15
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "30 × 20 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballons et plots"
+        }
+      }
+    },
+    {
+      "id": "wr-changing-defender-detail-1",
+      "variant_id": "wr-changing-defender",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Decision Making - 4 v 1",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre attaquants et un défenseur ; trois groupes alternent par couloir."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après capture du ruban, passer en arrière au soutien."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, soutenir, maintenir la continuité et marquer."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 6
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "30 × 10 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon et plots ; rubans pour la situation de capture"
+        }
+      }
+    }
+  ]
+}

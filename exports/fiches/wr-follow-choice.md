@@ -23,13 +23,15 @@ Groupe en file derrière le porteur.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer, soutenir et assurer la continuité.
+
 **Organisation :** Groupe en file derrière le porteur.
 
 **Déroulement :** Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue.
 
 **Consignes :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
 
-Détails extraits le 2026-09-09 — Pass and Support - Follow the Leader — organisation et déroulement.
+Détails extraits le 2026-09-10 — Pass and Support - Follow the Leader — Objective / Principles of play.
 
 **Espace source :** 20 × 20 m
 

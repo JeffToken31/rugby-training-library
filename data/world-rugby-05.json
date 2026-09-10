@@ -1,0 +1,60 @@
+{
+  "exercises": [
+    {
+      "id": "wr-pairs-tag",
+      "source_id": "wr-noncontact",
+      "title": "Chasse par binômes avec changement de rôle",
+      "original_title": "Pairs Tag",
+      "summary": "Un binôme chasseur avec ballon ; autres binômes dans le carré.",
+      "theme": "opposition et coopération",
+      "age_source": "Initiation ; âge non précisé, adéquation U8 à valider",
+      "players_min": 10,
+      "players_max": 10,
+      "duration_min": 6,
+      "space": "20 × 20 m",
+      "material": "Ballon et plots",
+      "locator": "Pairs Tag",
+      "status": "documented",
+      "review": "Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.",
+      "participants_scope": "par groupe"
+    },
+    {
+      "id": "wr-walls-212",
+      "source_id": "wr-noncontact",
+      "title": "Franchir trois rideaux disposés en 2–1–2",
+      "original_title": "Passing - 5 v 2 v 1 v 2",
+      "summary": "Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.",
+      "theme": "opposition et coopération",
+      "age_source": "Initiation ; âge non précisé, adéquation U8 à valider",
+      "players_min": 15,
+      "players_max": 15,
+      "duration_min": 10,
+      "space": "30 × 20 m",
+      "material": "Ballons et plots",
+      "locator": "Passing - 5 v 2 v 1 v 2",
+      "status": "documented",
+      "review": "Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.",
+      "participants_scope": "par couloir : dix attaquants et cinq défenseurs",
+      "parent_variant_id": "wr-five-walls"
+    },
+    {
+      "id": "wr-changing-defender",
+      "source_id": "wr-noncontact",
+      "title": "Chaque passe change le défenseur",
+      "original_title": "Decision Making - 4 v 1",
+      "summary": "Quatre attaquants et un défenseur ; trois groupes alternent par couloir.",
+      "theme": "opposition et coopération",
+      "age_source": "Initiation ; âge non précisé, adéquation U8 à valider",
+      "players_min": 5,
+      "players_max": 5,
+      "duration_min": 6,
+      "space": "30 × 10 m",
+      "material": "Ballon et plots ; rubans pour la situation de capture",
+      "locator": "Decision Making - 4 v 1",
+      "status": "documented",
+      "review": "Source écrite consultée ; validation terrain non effectuée. Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.",
+      "participants_scope": "par groupe",
+      "parent_variant_id": "wr-pass-defend"
+    }
+  ]
+}

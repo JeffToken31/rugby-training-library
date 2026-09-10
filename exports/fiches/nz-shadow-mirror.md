@@ -23,13 +23,15 @@ Binôme face à face, un porteur de ballon.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Effectuer des changements de direction rapides.
+
 **Organisation :** Binôme face à face, un porteur de ballon.
 
 **Déroulement :** Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.
 
 **Consignes :** Ballon à deux mains et tête levée ; éviter les autres binômes.
 
-Détails extraits le 2026-09-09 — Shadow Run — progression 2 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Shadow Run — progression 2 — Objective / Principles of play.
 
 **Espace source :** 20 × 20 m
 

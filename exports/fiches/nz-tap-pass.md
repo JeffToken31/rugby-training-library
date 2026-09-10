@@ -23,13 +23,15 @@ Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Enchaîner un tap au pied et une passe.
+
 **Organisation :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
 **Déroulement :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
 
 **Consignes :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
 
-Détails extraits le 2026-09-09 — Tap pass Tap — organisation et déroulement.
+Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of play.
 
 **Espace source :** 5 × 15 m
 

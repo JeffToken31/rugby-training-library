@@ -23,13 +23,15 @@ Même départ en binômes face à face, ballon au sol.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+
 **Organisation :** Même départ en binômes face à face, ballon au sol.
 
 **Déroulement :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
 
 **Consignes :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
 
-Détails extraits le 2026-09-09 — Rats and Rabbits 4 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principles of play.
 
 **Espace source :** Départ à 10 à 15 m
 

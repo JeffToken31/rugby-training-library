@@ -23,13 +23,15 @@ Deux équipes de six à douze dans le carré.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Communiquer, se déplacer dans les espaces et manipuler le ballon.
+
 **Organisation :** Deux équipes de six à douze dans le carré.
 
 **Déroulement :** Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.
 
 **Consignes :** Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession.
 
-Détails extraits le 2026-09-09 — Touch the Ground Pass — organisation et déroulement.
+Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Principles of play.
 
 **Espace source :** 15 × 15 m
 

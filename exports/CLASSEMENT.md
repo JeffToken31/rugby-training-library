@@ -356,3 +356,11 @@ Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le cor
 - F07 : [Suivre et réagir au choix de transmission](fiches/wr-follow-choice.md) — Variante de wr-follow-leader : choisir entre trois modes de transmission oblige le soutien à réagir.
 - F16 : [Cinq attaquants face à cinq rideaux successifs](fiches/wr-five-walls.md) — Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.
 - F06 : [Miroir : rester face au porteur](fiches/nz-shadow-mirror.md) — Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.
+
+## Lot du 10 septembre : 128 fiches
+
+117 candidates, 9 descriptions insuffisantes et 2 composites ou à périmètre particulier. Unicité non certifiée.
+
+- F11 : [Chasse par binômes](fiches/wr-pairs-tag.md), chasseurs remplacés après capture.
+- F16 : [Rideaux 2–1–2](fiches/wr-walls-212.md), variante de wr-five-walls.
+- F16 : [Changement du défenseur](fiches/wr-changing-defender.md), variante de wr-pass-defend.

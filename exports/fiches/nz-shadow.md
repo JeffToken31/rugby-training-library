@@ -23,13 +23,15 @@ Binômes, un ballon ; trio possible si effectif impair.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Effectuer des changements de direction rapides.
+
 **Organisation :** Binômes, un ballon ; trio possible si effectif impair.
 
 **Déroulement :** Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.
 
 **Consignes :** Ballon à deux mains, tête levée pour éviter les autres binômes.
 
-Détails extraits le 2026-09-09 — Shadow Run — organisation et déroulement.
+Détails extraits le 2026-09-10 — Shadow Run — Objective / Principles of play.
 
 **Espace source :** 20 × 20 m
 

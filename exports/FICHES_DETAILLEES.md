@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-97 fiches.
+100 fiches.
 
 - [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
 - [Atteindre la zone opposée](fiches/scot-endzone.md) — passe ; Scottish Rugby
@@ -13,11 +13,13 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Cercle de passes avec demi-tours sautés](fiches/rc-circle-jump.md) — coordination ; RugbyCoaching.tv
 - [Cercle solidaire contre un poursuivant](fiches/rc-protect-circle.md) — coopération ; RugbyCoaching.tv
 - [Changer de ligne d’essai](fiches/rc-multidirection.md) — prise d’information ; RugbyCoaching.tv
+- [Chaque passe change le défenseur](fiches/wr-changing-defender.md) — opposition et coopération ; World Rugby
 - [Chasse à la frite avec délivrance par la main](fiches/nz-noodle-highfive.md) — évitement et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse à la frite avec délivrance par passe](fiches/nz-noodle-pass.md) — évitement et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse aux trésors — parcours](fiches/ffr-tresors2023.md) — motricité ; FFR — Direction Technique Nationale
 - [Chasse collective avec retour après ballon tombé](fiches/nz-corner.md) — coopération ; New Zealand Rugby — Rugby Toolbox
 - [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) — évitement ; World Rugby
+- [Chasse par binômes avec changement de rôle](fiches/wr-pairs-tag.md) — opposition et coopération ; World Rugby
 - [Chasseurs passeurs par trois](fiches/scot-corner.md) — passe ; Scottish Rugby
 - [Chat : libérer en roulant le ballon](fiches/scot-roll-tig.md) — évitement et opposition ; Scottish Rugby
 - [Chat chaos : délivré quand son chasseur est pris](fiches/scot-chaos-tig.md) — évitement et opposition ; Scottish Rugby
@@ -40,6 +42,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Équilibre du flamant](fiches/munster-flamant.md) — motricité ; Munster Rugby
 - [Fentes alternées du monstre](fiches/scot-monster.md) — motricité ; Scottish Rugby
 - [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) — passe et soutien ; World Rugby
+- [Franchir trois rideaux disposés en 2–1–2](fiches/wr-walls-212.md) — opposition et coopération ; World Rugby
 - [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) — prise d’information ; RugbyCoaching.tv
 - [La chaîne](fiches/scot-chaine.md) — coopération ; Scottish Rugby
 - [La chasse aux rubans](fiches/rc-taggrab.md) — déplacement ; RugbyCoaching.tv

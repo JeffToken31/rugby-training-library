@@ -23,13 +23,15 @@ Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Enchaîner passe, réception et course à l’échauffement.
+
 **Organisation :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
 
 **Déroulement :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
 
 **Consignes :** Passer des deux côtés, communiquer et doser pour le receveur.
 
-Détails extraits le 2026-09-09 — Zig Zag Passing — organisation et déroulement.
+Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles of play.
 
 **Espace source :** 10 × 50 m
 

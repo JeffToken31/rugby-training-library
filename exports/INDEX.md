@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-125 fiches — les propositions terrain restent à valider par le coach.
+128 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -122,6 +122,14 @@
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
 | [Circuit de passes mémorisé](fiches/nz-memory.md) | Under 7 (classement du site) | Documentée ; à valider |
+
+## Opposition et coopération
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Chaque passe change le défenseur](fiches/wr-changing-defender.md) | Initiation ; âge non précisé, adéquation U8 à valider | Documentée ; à valider |
+| [Chasse par binômes avec changement de rôle](fiches/wr-pairs-tag.md) | Initiation ; âge non précisé, adéquation U8 à valider | Documentée ; à valider |
+| [Franchir trois rideaux disposés en 2–1–2](fiches/wr-walls-212.md) | Initiation ; âge non précisé, adéquation U8 à valider | Documentée ; à valider |
 
 ## Opposition et soutien
 

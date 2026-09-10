@@ -2332,6 +2332,197 @@
       "references": []
     },
     {
+      "age_source": "Initiation ; âge non précisé, adéquation U8 à valider",
+      "duration_min": 6,
+      "id": "wr-changing-defender",
+      "locator": "Decision Making - 4 v 1",
+      "material": "Ballon et plots ; rubans pour la situation de capture",
+      "original_title": "Decision Making - 4 v 1",
+      "parent_variant_id": "wr-pass-defend",
+      "participants_scope": "par groupe",
+      "players_max": 5,
+      "players_min": 5,
+      "review": "Source écrite consultée ; validation terrain non effectuée. Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.",
+      "source_id": "wr-noncontact",
+      "space": "30 × 10 m",
+      "status": "documented",
+      "summary": "Quatre attaquants et un défenseur ; trois groupes alternent par couloir.",
+      "theme": "opposition et coopération",
+      "title": "Chaque passe change le défenseur",
+      "instructions": "Après capture du ruban, passer en arrière au soutien.",
+      "objectives": "Avancer, soutenir, maintenir la continuité et marquer.",
+      "organisation": "Quatre attaquants et un défenseur ; trois groupes alternent par couloir.",
+      "steps": "Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer, soutenir, maintenir la continuité et marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quatre attaquants et un défenseur ; trois groupes alternent par couloir.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après capture du ruban, passer en arrière au soutien.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "30 × 10 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ballon et plots ; rubans pour la situation de capture",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Decision Making - 4 v 1",
+            "revision_id": "wr-changing-defender-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Decision Making - 4 v 1",
+        "revision_id": "wr-changing-defender-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-changing-defender-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Under 7 (classement du site)",
       "duration_min": null,
       "id": "nz-noodle-highfive",
@@ -3111,6 +3302,196 @@
       "references": []
     },
     {
+      "age_source": "Initiation ; âge non précisé, adéquation U8 à valider",
+      "duration_min": 6,
+      "id": "wr-pairs-tag",
+      "locator": "Pairs Tag",
+      "material": "Ballon et plots",
+      "original_title": "Pairs Tag",
+      "participants_scope": "par groupe",
+      "players_max": 10,
+      "players_min": 10,
+      "review": "Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.",
+      "source_id": "wr-noncontact",
+      "space": "20 × 20 m",
+      "status": "documented",
+      "summary": "Un binôme chasseur avec ballon ; autres binômes dans le carré.",
+      "theme": "opposition et coopération",
+      "title": "Chasse par binômes avec changement de rôle",
+      "instructions": "Porteur immobile ; passes dans toutes les directions.",
+      "objectives": "Soutenir, assurer la continuité et mettre sous pression.",
+      "organisation": "Un binôme chasseur avec ballon ; autres binômes dans le carré.",
+      "steps": "Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Soutenir, assurer la continuité et mettre sous pression.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un binôme chasseur avec ballon ; autres binômes dans le carré.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porteur immobile ; passes dans toutes les directions.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 6,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "20 × 20 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ballon et plots",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pairs Tag",
+            "revision_id": "wr-pairs-tag-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Pairs Tag",
+        "revision_id": "wr-pairs-tag-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-pairs-tag-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "age_source": "Primaire (Écosse)",
       "bout_seconds": 60,
       "contact": "sans plaquage",
@@ -3851,9 +4232,21 @@
       "instructions": "Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.",
       "organisation": "Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.",
       "steps": "Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.",
+      "objectives": "Avancer, soutenir, maintenir la continuité et exercer une pression défensive.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer, soutenir, maintenir la continuité et exercer une pression défensive.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 1 x 5 — Objective / Principles of play",
+            "revision_id": "wr-five-walls-objectives-20260910",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -3964,9 +4357,11 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Passing - 5 v 1 x 5 — organisation et déroulement",
-        "revision_id": "wr-five-walls-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Passing - 5 v 1 x 5 — Objective / Principles of play",
+        "revision_id": "wr-five-walls-objectives-20260910",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -3974,6 +4369,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-five-walls-objectives-20260910",
+          "supersedes": "wr-five-walls-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -4205,9 +4606,21 @@
       "instructions": "Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession.",
       "organisation": "Deux équipes de six à douze dans le carré.",
       "steps": "Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.",
+      "objectives": "Communiquer, se déplacer dans les espaces et manipuler le ballon.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Communiquer, se déplacer dans les espaces et manipuler le ballon.",
+          "provenance": {
+            "source_id": "nz-ground-pass-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Touch the Ground Pass — Objective / Principles of play",
+            "revision_id": "nz-ground-pass-objectives-20260910",
+            "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -4318,9 +4731,11 @@
       "enrichment_provenance": {
         "source_id": "nz-ground-pass-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Touch the Ground Pass — organisation et déroulement",
-        "revision_id": "nz-ground-pass-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Touch the Ground Pass — Objective / Principles of play",
+        "revision_id": "nz-ground-pass-objectives-20260910",
+        "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -4328,6 +4743,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-ground-pass-objectives-20260910",
+          "supersedes": "nz-ground-pass-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -6057,9 +6478,21 @@
       "instructions": "Le coach choisit le mode défensif : la source permet le toucher à deux mains.",
       "organisation": "Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.",
       "steps": "Déborder le défenseur en restant dans le couloir ; alterner le côté de départ.",
+      "objectives": "Battre un adversaire en un contre un.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Battre un adversaire en un contre un.",
+          "provenance": {
+            "source_id": "nz-evading-player-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Evading the Player — Objective / Principles of play",
+            "revision_id": "nz-evading-player-objectives-20260910",
+            "capture_sha256": "14f419ed40c78f8a8a7992752cdf64641978c3059ab8cc535e6b91bbbd925a17",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -6170,9 +6603,11 @@
       "enrichment_provenance": {
         "source_id": "nz-evading-player-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Evading the Player — organisation et déroulement",
-        "revision_id": "nz-evading-player-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Evading the Player — Objective / Principles of play",
+        "revision_id": "nz-evading-player-objectives-20260910",
+        "capture_sha256": "14f419ed40c78f8a8a7992752cdf64641978c3059ab8cc535e6b91bbbd925a17",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -6180,6 +6615,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-evading-player-objectives-20260910",
+          "supersedes": "nz-evading-player-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -7125,6 +7566,197 @@
           "id": "wr-follow-leader-detail-1",
           "supersedes": null,
           "checked_on": "2026-09-08",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Texte public consulté",
+        "checked_on": "2026-09-08",
+        "format": "HTML",
+        "id": "wr-noncontact",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Recueil de situations séparées par titres ; extraction partielle, pas une séance unique.",
+        "resource_type": "WEB_PAGE",
+        "title": "Get Into Rugby — Non Contact Activities",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "Initiation ; âge non précisé, adéquation U8 à valider",
+      "duration_min": 10,
+      "id": "wr-walls-212",
+      "locator": "Passing - 5 v 2 v 1 v 2",
+      "material": "Ballons et plots",
+      "original_title": "Passing - 5 v 2 v 1 v 2",
+      "parent_variant_id": "wr-five-walls",
+      "participants_scope": "par couloir : dix attaquants et cinq défenseurs",
+      "players_max": 15,
+      "players_min": 15,
+      "review": "Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.",
+      "source_id": "wr-noncontact",
+      "space": "30 × 20 m",
+      "status": "documented",
+      "summary": "Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.",
+      "theme": "opposition et coopération",
+      "title": "Franchir trois rideaux disposés en 2–1–2",
+      "instructions": "Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.",
+      "objectives": "Avancer, soutenir et maintenir la continuité.",
+      "organisation": "Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.",
+      "steps": "Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer, soutenir et maintenir la continuité.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED"
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 15,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "players_max": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 15,
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "space": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "30 × 20 m",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ballons et plots",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Passing - 5 v 2 v 1 v 2",
+            "revision_id": "wr-walls-212-detail-1",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "wr-noncontact",
+        "actor": "assistant",
+        "checked_on": "2026-09-10",
+        "locator": "Passing - 5 v 2 v 1 v 2",
+        "revision_id": "wr-walls-212-detail-1",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
+      },
+      "enrichment_history": [
+        {
+          "id": "wr-walls-212-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-10",
           "reason": null
         }
       ],
@@ -9588,9 +10220,21 @@
       "instructions": "Ballon à deux mains et tête levée ; éviter les autres binômes.",
       "organisation": "Binôme face à face, un porteur de ballon.",
       "steps": "Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.",
+      "objectives": "Effectuer des changements de direction rapides.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Effectuer des changements de direction rapides.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Shadow Run — progression 2 — Objective / Principles of play",
+            "revision_id": "nz-shadow-mirror-objectives-20260910",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -9701,9 +10345,11 @@
       "enrichment_provenance": {
         "source_id": "nz-shadow-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Shadow Run — progression 2 — organisation et déroulement",
-        "revision_id": "nz-shadow-mirror-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Shadow Run — progression 2 — Objective / Principles of play",
+        "revision_id": "nz-shadow-mirror-objectives-20260910",
+        "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -9711,6 +10357,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-shadow-mirror-objectives-20260910",
+          "supersedes": "nz-shadow-mirror-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -9748,9 +10400,21 @@
       "instructions": "Répéter avec un autre numéro ; rubans prévus par la source.",
       "organisation": "Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.",
       "steps": "Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.",
+      "objectives": "Accélérer, ramasser et éviter un défenseur.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Accélérer, ramasser et éviter un défenseur.",
+          "provenance": {
+            "source_id": "nz-number-duel-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Number Race 2 — Objective / Principles of play",
+            "revision_id": "nz-number-duel-objectives-20260910",
+            "capture_sha256": "e3cb35ce382725d3bdff5026b4693e5881ece13da77de637a8317a471121cd4c",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -9861,9 +10525,11 @@
       "enrichment_provenance": {
         "source_id": "nz-number-duel-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Number Race 2 — organisation et déroulement",
-        "revision_id": "nz-number-duel-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Number Race 2 — Objective / Principles of play",
+        "revision_id": "nz-number-duel-objectives-20260910",
+        "capture_sha256": "e3cb35ce382725d3bdff5026b4693e5881ece13da77de637a8317a471121cd4c",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -9871,6 +10537,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-number-duel-objectives-20260910",
+          "supersedes": "nz-number-duel-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -11855,9 +12527,21 @@
       "instructions": "Passer des deux côtés, communiquer et doser pour le receveur.",
       "organisation": "Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.",
       "steps": "Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.",
+      "objectives": "Enchaîner passe, réception et course à l’échauffement.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner passe, réception et course à l’échauffement.",
+          "provenance": {
+            "source_id": "nz-zigzag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Zig Zag Passing — Objective / Principles of play",
+            "revision_id": "nz-zigzag-objectives-20260910",
+            "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -11968,9 +12652,11 @@
       "enrichment_provenance": {
         "source_id": "nz-zigzag-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Zig Zag Passing — organisation et déroulement",
-        "revision_id": "nz-zigzag-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Zig Zag Passing — Objective / Principles of play",
+        "revision_id": "nz-zigzag-objectives-20260910",
+        "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -11978,6 +12664,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-zigzag-objectives-20260910",
+          "supersedes": "nz-zigzag-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -12169,9 +12861,21 @@
       "instructions": "Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.",
       "organisation": "Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.",
       "steps": "La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.",
+      "objectives": "Développer l’évitement et la capture par toucher ou ruban.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Développer l’évitement et la capture par toucher ou ruban.",
+          "provenance": {
+            "source_id": "nz-octopus-cross-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Octopus — Objective / Principles of play",
+            "revision_id": "nz-octopus-cross-objectives-20260910",
+            "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -12282,9 +12986,11 @@
       "enrichment_provenance": {
         "source_id": "nz-octopus-cross-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Octopus — organisation et déroulement",
-        "revision_id": "nz-octopus-cross-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Octopus — Objective / Principles of play",
+        "revision_id": "nz-octopus-cross-objectives-20260910",
+        "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -12292,6 +12998,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-octopus-cross-objectives-20260910",
+          "supersedes": "nz-octopus-cross-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -13527,9 +14239,21 @@
       "instructions": "Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre.",
       "organisation": "Binômes face à face à dix à quinze mètres ; ballon devant eux.",
       "steps": "Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.",
+      "objectives": "Éviter l’adversaire et retirer ses rubans.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Éviter l’adversaire et retirer ses rubans.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rats and Rabbits 3 — Objective / Principles of play",
+            "revision_id": "nz-rats-straight-objectives-20260910",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -13640,9 +14364,11 @@
       "enrichment_provenance": {
         "source_id": "nz-rats34-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Rats and Rabbits 3 — organisation et déroulement",
-        "revision_id": "nz-rats-straight-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Rats and Rabbits 3 — Objective / Principles of play",
+        "revision_id": "nz-rats-straight-objectives-20260910",
+        "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -13650,6 +14376,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-rats-straight-objectives-20260910",
+          "supersedes": "nz-rats-straight-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -13687,9 +14419,21 @@
       "instructions": "Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.",
       "organisation": "Même départ en binômes face à face, ballon au sol.",
       "steps": "Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.",
+      "objectives": "Éviter l’adversaire et retirer ses rubans.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Éviter l’adversaire et retirer ses rubans.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Rats and Rabbits 4 — Objective / Principles of play",
+            "revision_id": "nz-rats-free-objectives-20260910",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -13800,9 +14544,11 @@
       "enrichment_provenance": {
         "source_id": "nz-rats34-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Rats and Rabbits 4 — organisation et déroulement",
-        "revision_id": "nz-rats-free-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Rats and Rabbits 4 — Objective / Principles of play",
+        "revision_id": "nz-rats-free-objectives-20260910",
+        "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -13810,6 +14556,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-rats-free-objectives-20260910",
+          "supersedes": "nz-rats-free-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -16035,9 +16787,21 @@
       "instructions": "Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.",
       "organisation": "Groupe en file derrière le porteur.",
       "steps": "Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue.",
+      "objectives": "Avancer, soutenir et assurer la continuité.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer, soutenir et assurer la continuité.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Pass and Support - Follow the Leader — Objective / Principles of play",
+            "revision_id": "wr-follow-choice-objectives-20260910",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -16148,9 +16912,11 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Pass and Support - Follow the Leader — organisation et déroulement",
-        "revision_id": "wr-follow-choice-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Pass and Support - Follow the Leader — Objective / Principles of play",
+        "revision_id": "wr-follow-choice-objectives-20260910",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -16158,6 +16924,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-follow-choice-objectives-20260910",
+          "supersedes": "wr-follow-choice-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -16194,9 +16966,21 @@
       "instructions": "Ballon à deux mains, tête levée pour éviter les autres binômes.",
       "organisation": "Binômes, un ballon ; trio possible si effectif impair.",
       "steps": "Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.",
+      "objectives": "Effectuer des changements de direction rapides.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Effectuer des changements de direction rapides.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Shadow Run — Objective / Principles of play",
+            "revision_id": "nz-shadow-objectives-20260910",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -16307,9 +17091,11 @@
       "enrichment_provenance": {
         "source_id": "nz-shadow-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Shadow Run — organisation et déroulement",
-        "revision_id": "nz-shadow-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Shadow Run — Objective / Principles of play",
+        "revision_id": "nz-shadow-objectives-20260910",
+        "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -16317,6 +17103,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-shadow-objectives-20260910",
+          "supersedes": "nz-shadow-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {
@@ -16630,9 +17422,21 @@
       "instructions": "Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.",
       "organisation": "Groupes de quatre à cinq, alignés à deux longueurs de bras.",
       "steps": "Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.",
+      "objectives": "Enchaîner un tap au pied et une passe.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner un tap au pied et une passe.",
+          "provenance": {
+            "source_id": "nz-tap-pass-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-10",
+            "locator": "Tap pass Tap — Objective / Principles of play",
+            "revision_id": "nz-tap-pass-objectives-20260910",
+            "capture_sha256": "c0e239e08e245d00770b25d21d18101fc8d158458ecd5e8718ca784c1e33b562",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -16743,9 +17547,11 @@
       "enrichment_provenance": {
         "source_id": "nz-tap-pass-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Tap pass Tap — organisation et déroulement",
-        "revision_id": "nz-tap-pass-detail-1"
+        "checked_on": "2026-09-10",
+        "locator": "Tap pass Tap — Objective / Principles of play",
+        "revision_id": "nz-tap-pass-objectives-20260910",
+        "capture_sha256": "c0e239e08e245d00770b25d21d18101fc8d158458ecd5e8718ca784c1e33b562",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -16753,6 +17559,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-tap-pass-objectives-20260910",
+          "supersedes": "nz-tap-pass-detail-1",
+          "checked_on": "2026-09-10",
+          "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
         }
       ],
       "source": {

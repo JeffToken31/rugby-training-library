@@ -23,13 +23,15 @@ Binômes face à face à dix à quinze mètres ; ballon devant eux.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+
 **Organisation :** Binômes face à face à dix à quinze mètres ; ballon devant eux.
 
 **Déroulement :** Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.
 
 **Consignes :** Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre.
 
-Détails extraits le 2026-09-09 — Rats and Rabbits 3 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Rats and Rabbits 3 — Objective / Principles of play.
 
 **Espace source :** Deux lignes espacées de 10 à 15 m
 

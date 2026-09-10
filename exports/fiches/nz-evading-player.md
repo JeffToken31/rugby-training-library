@@ -23,13 +23,15 @@ Un attaquant avec ballon face à un défenseur placé sur une ligne transversale
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Battre un adversaire en un contre un.
+
 **Organisation :** Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
 
 **Déroulement :** Déborder le défenseur en restant dans le couloir ; alterner le côté de départ.
 
 **Consignes :** Le coach choisit le mode défensif : la source permet le toucher à deux mains.
 
-Détails extraits le 2026-09-09 — Evading the Player — organisation et déroulement.
+Détails extraits le 2026-09-10 — Evading the Player — Objective / Principles of play.
 
 **Espace source :** 22 × 15 m
 

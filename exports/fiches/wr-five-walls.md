@@ -23,13 +23,15 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer, soutenir, maintenir la continuité et exercer une pression défensive.
+
 **Organisation :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
 
 **Déroulement :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
 
 **Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-09 — Passing - 5 v 1 x 5 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Passing - 5 v 1 x 5 — Objective / Principles of play.
 
 **Espace source :** 30 × 20 m
 

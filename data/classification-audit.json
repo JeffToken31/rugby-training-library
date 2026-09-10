@@ -1239,6 +1239,33 @@
       "discriminant": "Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.",
       "source_id": "nz-shadow-source",
       "locator": "Shadow Run — progression 2 — organisation et déroulement"
+    },
+    {
+      "variant_id": "wr-pairs-tag",
+      "family_id": "F11",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner.",
+      "source_id": "wr-noncontact",
+      "locator": "Pairs Tag"
+    },
+    {
+      "variant_id": "wr-walls-212",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés.",
+      "source_id": "wr-noncontact",
+      "locator": "Passing - 5 v 2 v 1 v 2"
+    },
+    {
+      "variant_id": "wr-changing-defender",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.",
+      "source_id": "wr-noncontact",
+      "locator": "Decision Making - 4 v 1"
     }
   ],
   "pair_reviews": [

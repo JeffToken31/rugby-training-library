@@ -1,0 +1,220 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-evading-player-objectives-20260910",
+      "variant_id": "nz-evading-player",
+      "source_id": "nz-evading-player-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Evading the Player — Objective / Principles of play",
+      "capture_sha256": "14f419ed40c78f8a8a7992752cdf64641978c3059ab8cc535e6b91bbbd925a17",
+      "supersedes": "nz-evading-player-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Battre un adversaire en un contre un."
+        }
+      }
+    },
+    {
+      "id": "nz-octopus-cross-objectives-20260910",
+      "variant_id": "nz-octopus-cross",
+      "source_id": "nz-octopus-cross-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Octopus — Objective / Principles of play",
+      "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+      "supersedes": "nz-octopus-cross-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer l’évitement et la capture par toucher ou ruban."
+        }
+      }
+    },
+    {
+      "id": "nz-tap-pass-objectives-20260910",
+      "variant_id": "nz-tap-pass",
+      "source_id": "nz-tap-pass-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Tap pass Tap — Objective / Principles of play",
+      "capture_sha256": "c0e239e08e245d00770b25d21d18101fc8d158458ecd5e8718ca784c1e33b562",
+      "supersedes": "nz-tap-pass-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner un tap au pied et une passe."
+        }
+      }
+    },
+    {
+      "id": "nz-ground-pass-objectives-20260910",
+      "variant_id": "nz-ground-pass",
+      "source_id": "nz-ground-pass-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Touch the Ground Pass — Objective / Principles of play",
+      "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+      "supersedes": "nz-ground-pass-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Communiquer, se déplacer dans les espaces et manipuler le ballon."
+        }
+      }
+    },
+    {
+      "id": "nz-number-duel-objectives-20260910",
+      "variant_id": "nz-number-duel",
+      "source_id": "nz-number-duel-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Number Race 2 — Objective / Principles of play",
+      "capture_sha256": "e3cb35ce382725d3bdff5026b4693e5881ece13da77de637a8317a471121cd4c",
+      "supersedes": "nz-number-duel-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Accélérer, ramasser et éviter un défenseur."
+        }
+      }
+    },
+    {
+      "id": "nz-shadow-objectives-20260910",
+      "variant_id": "nz-shadow",
+      "source_id": "nz-shadow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Shadow Run — Objective / Principles of play",
+      "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+      "supersedes": "nz-shadow-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Effectuer des changements de direction rapides."
+        }
+      }
+    },
+    {
+      "id": "nz-zigzag-objectives-20260910",
+      "variant_id": "nz-zigzag",
+      "source_id": "nz-zigzag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Zig Zag Passing — Objective / Principles of play",
+      "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+      "supersedes": "nz-zigzag-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner passe, réception et course à l’échauffement."
+        }
+      }
+    },
+    {
+      "id": "nz-rats-straight-objectives-20260910",
+      "variant_id": "nz-rats-straight",
+      "source_id": "nz-rats34-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Rats and Rabbits 3 — Objective / Principles of play",
+      "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+      "supersedes": "nz-rats-straight-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter l’adversaire et retirer ses rubans."
+        }
+      }
+    },
+    {
+      "id": "nz-rats-free-objectives-20260910",
+      "variant_id": "nz-rats-free",
+      "source_id": "nz-rats34-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Rats and Rabbits 4 — Objective / Principles of play",
+      "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+      "supersedes": "nz-rats-free-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Éviter l’adversaire et retirer ses rubans."
+        }
+      }
+    },
+    {
+      "id": "wr-follow-choice-objectives-20260910",
+      "variant_id": "wr-follow-choice",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Pass and Support - Follow the Leader — Objective / Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-follow-choice-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, soutenir et assurer la continuité."
+        }
+      }
+    },
+    {
+      "id": "wr-five-walls-objectives-20260910",
+      "variant_id": "wr-five-walls",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Passing - 5 v 1 x 5 — Objective / Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-five-walls-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, soutenir, maintenir la continuité et exercer une pression défensive."
+        }
+      }
+    },
+    {
+      "id": "nz-shadow-mirror-objectives-20260910",
+      "variant_id": "nz-shadow-mirror",
+      "source_id": "nz-shadow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-10",
+      "locator": "Shadow Run — progression 2 — Objective / Principles of play",
+      "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+      "supersedes": "nz-shadow-mirror-detail-1",
+      "revision_reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Effectuer des changements de direction rapides."
+        }
+      }
+    }
+  ]
+}

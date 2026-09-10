@@ -23,13 +23,15 @@ Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Développer l’évitement et la capture par toucher ou ruban.
+
 **Organisation :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
 **Déroulement :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
 
 **Consignes :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
 
-Détails extraits le 2026-09-09 — Octopus — organisation et déroulement.
+Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
 
 **Espace source :** À ajuster au groupe
 

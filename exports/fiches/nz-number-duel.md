@@ -23,13 +23,15 @@ Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre dé
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Accélérer, ramasser et éviter un défenseur.
+
 **Organisation :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
 
 **Déroulement :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
 
 **Consignes :** Répéter avec un autre numéro ; rubans prévus par la source.
 
-Détails extraits le 2026-09-09 — Number Race 2 — organisation et déroulement.
+Détails extraits le 2026-09-10 — Number Race 2 — Objective / Principles of play.
 
 **Espace source :** 15 × 10 m
 
