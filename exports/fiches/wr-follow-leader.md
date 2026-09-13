@@ -23,13 +23,15 @@ Cinq joueurs en file suivent le porteur.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Soutenir le porteur.
+
 **Organisation :** Cinq joueurs en file suivent le porteur.
 
 **Déroulement :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
 
 **Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-08 — Follow the Leader.
+Détails extraits le 2026-09-13 — Follow the Leader — Principles of play.
 
 **Espace source :** 5 × 5 m
 

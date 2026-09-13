@@ -23,13 +23,15 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive.
+
 **Organisation :** Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Déroulement :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
 
 **Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-Détails extraits le 2026-09-09 — 2 v 1.
+Détails extraits le 2026-09-13 — 2 v 1 — Principles of play.
 
 **Espace source :** 10 × 10 m
 

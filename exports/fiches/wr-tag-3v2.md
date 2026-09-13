@@ -23,13 +23,15 @@ Trois attaquants contre deux défenseurs.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.
+
 **Organisation :** Trois attaquants contre deux défenseurs.
 
 **Déroulement :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
 
 **Consignes :** Passer en arrière ; défense par prise de ruban.
 
-Détails extraits le 2026-09-09 — 3 v 2.
+Détails extraits le 2026-09-13 — 3 v 2 — Principles of play.
 
 **Espace source :** 10 × 10 m
 

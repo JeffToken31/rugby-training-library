@@ -23,13 +23,15 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.
+
 **Organisation :** Trois attaquants, un défenseur et un joueur en attente.
 
 **Déroulement :** Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.
 
 **Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-Détails extraits le 2026-09-09 — 3 v 1.
+Détails extraits le 2026-09-13 — 3 v 1 — Principles of play.
 
 **Espace source :** 10 × 10 m
 

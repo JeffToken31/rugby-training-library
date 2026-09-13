@@ -23,13 +23,15 @@ Cinq joueurs en file.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+
 **Organisation :** Cinq joueurs en file.
 
 **Déroulement :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
 
 **Consignes :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-09 — Pass and Support- Formation.
+Détails extraits le 2026-09-13 — Pass and Support- Formation — Principles of play.
 
 **Espace source :** 10 × 10 m
 

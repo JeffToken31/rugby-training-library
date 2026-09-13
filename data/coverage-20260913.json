@@ -1,0 +1,268 @@
+{
+  "checked_on": "2026-09-13",
+  "variants": 148,
+  "core_fields_present": 82,
+  "fields": {
+    "objectives": {
+      "present": 96,
+      "source": 95,
+      "states": {
+        "PRESENT": 96,
+        "NOT_EXTRACTED": 52
+      }
+    },
+    "organisation": {
+      "present": 120,
+      "source": 120,
+      "states": {
+        "PRESENT": 120,
+        "NOT_EXTRACTED": 28
+      }
+    },
+    "steps": {
+      "present": 121,
+      "source": 121,
+      "states": {
+        "PRESENT": 121,
+        "NOT_EXTRACTED": 27
+      }
+    },
+    "instructions": {
+      "present": 114,
+      "source": 114,
+      "states": {
+        "PRESENT": 114,
+        "NOT_EXTRACTED": 34
+      }
+    },
+    "success_criteria": {
+      "present": 14,
+      "source": 13,
+      "states": {
+        "NOT_EXTRACTED": 134,
+        "PRESENT": 14
+      }
+    },
+    "common_errors": {
+      "present": 7,
+      "source": 7,
+      "states": {
+        "NOT_EXTRACTED": 141,
+        "PRESENT": 7
+      }
+    },
+    "coach_points": {
+      "present": 36,
+      "source": 30,
+      "states": {
+        "NOT_EXTRACTED": 112,
+        "PRESENT": 36
+      }
+    },
+    "duration_min": {
+      "present": 21,
+      "source": 15,
+      "states": {
+        "NOT_STATED": 64,
+        "NOT_EXTRACTED": 63,
+        "PRESENT": 21
+      }
+    },
+    "players_min": {
+      "present": 62,
+      "source": 36,
+      "states": {
+        "PRESENT": 62,
+        "NOT_EXTRACTED": 61,
+        "NOT_STATED": 24,
+        "CONFLICTING": 1
+      }
+    },
+    "players_max": {
+      "present": 60,
+      "source": 34,
+      "states": {
+        "PRESENT": 60,
+        "NOT_EXTRACTED": 61,
+        "NOT_STATED": 26,
+        "CONFLICTING": 1
+      }
+    },
+    "space": {
+      "present": 49,
+      "source": 40,
+      "states": {
+        "PRESENT": 49,
+        "NOT_EXTRACTED": 71,
+        "NOT_STATED": 28
+      }
+    },
+    "material": {
+      "present": 127,
+      "source": 59,
+      "states": {
+        "PRESENT": 127,
+        "NOT_EXTRACTED": 21
+      }
+    }
+  },
+  "primary_source_domains": {
+    "australia.rugby": 20,
+    "api.liguenouvelleaquitaine.ffr.fr": 10,
+    "scottishrugby.org": 18,
+    "www.rugbycoaching.tv": 29,
+    "www.rugbytoolbox.co.nz": 24,
+    "fr.slideshare.net": 9,
+    "www.world.rugby": 17,
+    "api.www.ffr.fr": 6,
+    "d2cx26qpfwuhvu.cloudfront.net": 9,
+    "formation.ffr.fr": 5,
+    "media.yourschoolgames.com": 1
+  },
+  "editorial_families": {
+    "F01": {
+      "title": "Manipulation et coordination individuelle",
+      "count": 3
+    },
+    "F02": {
+      "title": "Ramasser, recevoir et transmettre",
+      "count": 6
+    },
+    "F03": {
+      "title": "Jeu et conduite au pied",
+      "count": 5
+    },
+    "F04": {
+      "title": "Motricité et postures",
+      "count": 15
+    },
+    "F05": {
+      "title": "Parcours et relais avec ballon",
+      "count": 8
+    },
+    "F06": {
+      "title": "Réaction et course en duel",
+      "count": 19
+    },
+    "F07": {
+      "title": "Passes en binôme et soutien",
+      "count": 7
+    },
+    "F08": {
+      "title": "Circulation du ballon et coordination collective",
+      "count": 9
+    },
+    "F09": {
+      "title": "Passes en progression collective",
+      "count": 7
+    },
+    "F10": {
+      "title": "Conservation et interception",
+      "count": 5
+    },
+    "F11": {
+      "title": "Chasse collective par passes",
+      "count": 6
+    },
+    "F12": {
+      "title": "Chasse, immobilisation et délivrance",
+      "count": 15
+    },
+    "F13": {
+      "title": "Traversée de défenses",
+      "count": 5
+    },
+    "F14": {
+      "title": "Protection collective d’une cible",
+      "count": 1
+    },
+    "F15": {
+      "title": "Jeux à zones de marque",
+      "count": 9
+    },
+    "F16": {
+      "title": "Surnombre et soutien face à un opposant",
+      "count": 9
+    },
+    "F17": {
+      "title": "Créer et exploiter un espace en opposition",
+      "count": 8
+    },
+    "F18": {
+      "title": "Lutte et contact",
+      "count": 4
+    },
+    "F19": {
+      "title": "Collecte de ballons",
+      "count": 2
+    },
+    "F20": {
+      "title": "Course contre échanges adverses",
+      "count": 1
+    },
+    "F21": {
+      "title": "Jeux de renvoi : main et pied",
+      "count": 3
+    },
+    "F22": {
+      "title": "Alignement collectif",
+      "count": 1
+    }
+  },
+  "sessions": 4,
+  "missing_objectives": [
+    "ffr-dos-postures",
+    "scot-kangaroo",
+    "rc-circle-jump",
+    "rc-protect-circle",
+    "nz-noodle-highfive",
+    "nz-noodle-pass",
+    "scot-corner",
+    "munster-hunters",
+    "scot-roll-tig",
+    "scot-chaos-tig",
+    "ffr-espaces2023",
+    "nz-memory",
+    "ffr-pied",
+    "ffr-cpf",
+    "rc-rounders",
+    "ffr-appuis",
+    "munster-crabe",
+    "munster-gorille",
+    "ffr-lutte-avancer",
+    "rc-team-scarecrow",
+    "munster-flamant",
+    "scot-monster",
+    "ffr-gagne",
+    "rc-endball-groups",
+    "ffr-interval",
+    "munster-mud",
+    "scot-chaine",
+    "au-octopus",
+    "au-familiarisation",
+    "munster-gates",
+    "ffr-auto",
+    "ffr-initiative",
+    "scot-cricket",
+    "scot-monkey",
+    "ffr-canard",
+    "munster-end",
+    "ffr-ramasser",
+    "scot-crocodile",
+    "munster-rats",
+    "ffr-guide-recevoir-passer",
+    "ffr-reception",
+    "scot-relais",
+    "ffr-roulade-releve",
+    "nz-rip",
+    "ffr-saut-ballon",
+    "munster-grenouille",
+    "ffr-guide-dribble",
+    "scot-tennis",
+    "ffr-transmettre",
+    "scot-pass-pal",
+    "scot-zones",
+    "scot-alignement"
+  ],
+  "interpretation": "Complétude documentaire seulement ; ni unicité ni validation pédagogique."
+}

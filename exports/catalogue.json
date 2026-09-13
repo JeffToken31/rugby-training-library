@@ -3744,9 +3744,21 @@
       "instructions": "Garder les deux mains sur le ballon ; compter les joueurs touchés.",
       "organisation": "Cinq joueurs : un chasseur et quatre fuyards.",
       "steps": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.",
+      "objectives": "Exercer une pression défensive.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Exercer une pression défensive.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Find the Space — Principles of play",
+            "revision_id": "wr-find-space-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -3834,9 +3846,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Section Find the Space",
-        "revision_id": "wr-find-space-detail-2",
+        "checked_on": "2026-09-13",
+        "locator": "Find the Space — Principles of play",
+        "revision_id": "wr-find-space-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -3852,6 +3864,12 @@
           "supersedes": "wr-find-space-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Rattachement à la capture locale désormais disponible."
+        },
+        {
+          "id": "wr-find-space-objectives-20260913",
+          "supersedes": "wr-find-space-detail-2",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -5541,9 +5559,21 @@
       "instructions": "Pas d’interception ni de passe au-dessus de la tête.",
       "organisation": "Quatre passeurs contre un défenseur.",
       "steps": "Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.",
+      "objectives": "Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Keep Ball — Principles of play",
+            "revision_id": "wr-keep-ball-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -5660,9 +5690,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Keep Ball",
-        "revision_id": "wr-keep-ball-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "Keep Ball — Principles of play",
+        "revision_id": "wr-keep-ball-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -5672,6 +5702,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "wr-keep-ball-objectives-20260913",
+          "supersedes": "wr-keep-ball-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -7129,9 +7165,21 @@
       "instructions": "Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.",
       "organisation": "Deux attaquants affrontent un défenseur ; groupe de cinq.",
       "steps": "Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.",
+      "objectives": "Avancer ; Soutenir le porteur ; Exercer une pression défensive.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Exercer une pression défensive.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "2 v 1 — Principles of play",
+            "revision_id": "wr-tag-2v1-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -7248,9 +7296,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "2 v 1",
-        "revision_id": "wr-tag-2v1-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "2 v 1 — Principles of play",
+        "revision_id": "wr-tag-2v1-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -7260,6 +7308,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-tag-2v1-objectives-20260913",
+          "supersedes": "wr-tag-2v1-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -8206,9 +8260,21 @@
       "instructions": "Toucher à deux mains à la taille sans pousser.",
       "organisation": "Cinq joueurs : un chasseur et quatre fuyards.",
       "steps": "Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.",
+      "objectives": "Exercer une pression défensive.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Exercer une pression défensive.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Scarecrow Tag — Principles of play",
+            "revision_id": "wr-scarecrow-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -8296,9 +8362,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Section Scarecrow Tag",
-        "revision_id": "wr-scarecrow-detail-2",
+        "checked_on": "2026-09-13",
+        "locator": "Scarecrow Tag — Principles of play",
+        "revision_id": "wr-scarecrow-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -8314,6 +8380,12 @@
           "supersedes": "wr-scarecrow-detail-1",
           "checked_on": "2026-09-08",
           "reason": "Rattachement à la capture locale désormais disponible."
+        },
+        {
+          "id": "wr-scarecrow-objectives-20260913",
+          "supersedes": "wr-scarecrow-detail-2",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -8946,9 +9018,21 @@
       "instructions": "Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.",
       "organisation": "Cinq joueurs en file suivent le porteur.",
       "steps": "Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.",
+      "objectives": "Soutenir le porteur.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Soutenir le porteur.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Follow the Leader — Principles of play",
+            "revision_id": "wr-follow-leader-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -9065,9 +9149,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Follow the Leader",
-        "revision_id": "wr-follow-leader-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "Follow the Leader — Principles of play",
+        "revision_id": "wr-follow-leader-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -9077,6 +9161,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "wr-follow-leader-objectives-20260913",
+          "supersedes": "wr-follow-leader-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -13175,9 +13265,21 @@
       "instructions": "Défendre par prise de ruban ; les soutiens restent derrière le ballon.",
       "organisation": "Trois groupes de cinq alternent par couloir.",
       "steps": "Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.",
+      "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Pass, Defend, Attack — Principles of play",
+            "revision_id": "wr-pass-defend-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -13248,9 +13350,11 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Pass, Defend, Attack",
-        "revision_id": "wr-pass-defend-detail-1"
+        "checked_on": "2026-09-13",
+        "locator": "Pass, Defend, Attack — Principles of play",
+        "revision_id": "wr-pass-defend-objectives-20260913",
+        "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -13258,6 +13362,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-pass-defend-objectives-20260913",
+          "supersedes": "wr-pass-defend-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -14049,9 +14159,21 @@
       "instructions": "Courir droit ; passes douces à deux mains.",
       "organisation": "Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.",
       "steps": "Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.",
+      "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Pass and Support- Chain Reaction — Principles of play",
+            "revision_id": "wr-chain-reaction-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -14168,9 +14290,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Pass and Support- Chain Reaction",
-        "revision_id": "wr-chain-reaction-detail-2",
+        "checked_on": "2026-09-13",
+        "locator": "Pass and Support- Chain Reaction — Principles of play",
+        "revision_id": "wr-chain-reaction-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -14186,6 +14308,12 @@
           "supersedes": "wr-chain-reaction-detail-1",
           "checked_on": "2026-09-09",
           "reason": "Préciser les rotations et distinguer groupe actif et effectif du couloir."
+        },
+        {
+          "id": "wr-chain-reaction-objectives-20260913",
+          "supersedes": "wr-chain-reaction-detail-2",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -14452,9 +14580,21 @@
       "instructions": "Courir droit et passer doucement à deux mains.",
       "organisation": "Cinq joueurs en file.",
       "steps": "Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.",
+      "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Pass and Support- Formation — Principles of play",
+            "revision_id": "wr-formation-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -14571,9 +14711,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Pass and Support- Formation",
-        "revision_id": "wr-formation-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "Pass and Support- Formation — Principles of play",
+        "revision_id": "wr-formation-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -14583,6 +14723,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-formation-objectives-20260913",
+          "supersedes": "wr-formation-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -18464,9 +18610,21 @@
       "instructions": "Conserver des intervalles réguliers et réceptionner en mouvement.",
       "organisation": "Cinq joueurs partent en file.",
       "steps": "Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.",
+      "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Pass and Support — Principles of play",
+            "revision_id": "wr-pass-support-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -18583,9 +18741,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Pass and Support",
-        "revision_id": "wr-pass-support-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "Pass and Support — Principles of play",
+        "revision_id": "wr-pass-support-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -18595,6 +18753,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "wr-pass-support-objectives-20260913",
+          "supersedes": "wr-pass-support-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -22149,9 +22313,21 @@
       "instructions": "Passer en arrière ; défense par prise de ruban.",
       "organisation": "Trois attaquants contre deux défenseurs.",
       "steps": "Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.",
+      "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "3 v 2 — Principles of play",
+            "revision_id": "wr-tag-3v2-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -22268,9 +22444,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "3 v 2",
-        "revision_id": "wr-tag-3v2-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "3 v 2 — Principles of play",
+        "revision_id": "wr-tag-3v2-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -22280,6 +22456,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-tag-3v2-objectives-20260913",
+          "supersedes": "wr-tag-3v2-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -22318,9 +22500,21 @@
       "instructions": "Passes libres au départ ; un point pour l’essai ou la prise de ruban.",
       "organisation": "Trois attaquants, un défenseur et un joueur en attente.",
       "steps": "Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.",
+      "objectives": "Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "3 v 1 — Principles of play",
+            "revision_id": "wr-tag-3v1-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -22437,9 +22631,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "3 v 1",
-        "revision_id": "wr-tag-3v1-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "3 v 1 — Principles of play",
+        "revision_id": "wr-tag-3v1-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -22449,6 +22643,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-tag-3v1-objectives-20260913",
+          "supersedes": "wr-tag-3v1-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {
@@ -22617,9 +22817,21 @@
       "instructions": "Les soutiens restent derrière le porteur et montrent leurs mains.",
       "organisation": "Trois équipes de cinq par couloir, deux sur une rive.",
       "steps": "Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.",
+      "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-13",
+            "locator": "Relays with Passing — Principles of play",
+            "revision_id": "wr-passing-relays-objectives-20260913",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -22736,9 +22948,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "Relays with Passing",
-        "revision_id": "wr-passing-relays-detail-1",
+        "checked_on": "2026-09-13",
+        "locator": "Relays with Passing — Principles of play",
+        "revision_id": "wr-passing-relays-objectives-20260913",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -22748,6 +22960,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "wr-passing-relays-objectives-20260913",
+          "supersedes": "wr-passing-relays-detail-1",
+          "checked_on": "2026-09-13",
+          "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
         }
       ],
       "source": {

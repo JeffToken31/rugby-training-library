@@ -23,13 +23,15 @@ Cinq joueurs partent en file.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+
 **Organisation :** Cinq joueurs partent en file.
 
 **Déroulement :** Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.
 
 **Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
 
-Détails extraits le 2026-09-08 — Pass and Support.
+Détails extraits le 2026-09-13 — Pass and Support — Principles of play.
 
 **Espace source :** 25 m de longueur
 

@@ -23,13 +23,15 @@ Trois groupes de cinq alternent par couloir.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+
 **Organisation :** Trois groupes de cinq alternent par couloir.
 
 **Déroulement :** Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.
 
 **Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
 
-Détails extraits le 2026-09-09 — Pass, Defend, Attack.
+Détails extraits le 2026-09-13 — Pass, Defend, Attack — Principles of play.
 
 **Espace source :** 20 × 10 m
 

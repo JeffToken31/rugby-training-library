@@ -1,0 +1,220 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-find-space-objectives-20260913",
+      "variant_id": "wr-find-space",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Find the Space — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-find-space-detail-2",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Exercer une pression défensive."
+        }
+      }
+    },
+    {
+      "id": "wr-keep-ball-objectives-20260913",
+      "variant_id": "wr-keep-ball",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Keep Ball — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-keep-ball-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-2v1-objectives-20260913",
+      "variant_id": "wr-tag-2v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "2 v 1 — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-2v1-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Exercer une pression défensive."
+        }
+      }
+    },
+    {
+      "id": "wr-scarecrow-objectives-20260913",
+      "variant_id": "wr-scarecrow",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Scarecrow Tag — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-scarecrow-detail-2",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Exercer une pression défensive."
+        }
+      }
+    },
+    {
+      "id": "wr-follow-leader-objectives-20260913",
+      "variant_id": "wr-follow-leader",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Follow the Leader — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-follow-leader-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutenir le porteur."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-defend-objectives-20260913",
+      "variant_id": "wr-pass-defend",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass, Defend, Attack — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-defend-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer."
+        }
+      }
+    },
+    {
+      "id": "wr-chain-reaction-objectives-20260913",
+      "variant_id": "wr-chain-reaction",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass and Support- Chain Reaction — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-chain-reaction-detail-2",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer."
+        }
+      }
+    },
+    {
+      "id": "wr-formation-objectives-20260913",
+      "variant_id": "wr-formation",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass and Support- Formation — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-formation-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-support-objectives-20260913",
+      "variant_id": "wr-pass-support",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass and Support — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-support-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-3v2-objectives-20260913",
+      "variant_id": "wr-tag-3v2",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "3 v 2 — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-3v2-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-3v1-objectives-20260913",
+      "variant_id": "wr-tag-3v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "3 v 1 — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-3v1-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer."
+        }
+      }
+    },
+    {
+      "id": "wr-passing-relays-objectives-20260913",
+      "variant_id": "wr-passing-relays",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Relays with Passing — Principles of play",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-passing-relays-detail-1",
+      "revision_reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer ; Soutenir le porteur ; Maintenir la continuité."
+        }
+      }
+    }
+  ]
+}

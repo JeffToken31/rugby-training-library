@@ -23,13 +23,15 @@ Quatre passeurs contre un défenseur.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.
+
 **Organisation :** Quatre passeurs contre un défenseur.
 
 **Déroulement :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
 
 **Consignes :** Pas d’interception ni de passe au-dessus de la tête.
 
-Détails extraits le 2026-09-08 — Keep Ball.
+Détails extraits le 2026-09-13 — Keep Ball — Principles of play.
 
 **Espace source :** 5 × 5 m
 

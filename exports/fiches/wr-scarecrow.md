@@ -23,13 +23,15 @@ Les paramètres non renseignés restent inconnus. Les adaptations sont des propo
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Exercer une pression défensive.
+
 **Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
 
 **Déroulement :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
 
 **Consignes :** Toucher à deux mains à la taille sans pousser.
 
-Détails extraits le 2026-09-08 — Section Scarecrow Tag.
+Détails extraits le 2026-09-13 — Scarecrow Tag — Principles of play.
 
 **Points coach issus de la source :** Changer le chasseur après une minute.
 

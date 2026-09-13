@@ -23,13 +23,15 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+
 **Organisation :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
 
 **Déroulement :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
 
 **Consignes :** Courir droit ; passes douces à deux mains.
 
-Détails extraits le 2026-09-09 — Pass and Support- Chain Reaction.
+Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Principles of play.
 
 **Espace source :** 20 × 10 m
 

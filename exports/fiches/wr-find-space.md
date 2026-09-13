@@ -23,13 +23,15 @@ Chasse et arrêt dans un espace libre
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Exercer une pression défensive.
+
 **Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
 
 **Déroulement :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
 
 **Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
 
-Détails extraits le 2026-09-08 — Section Find the Space.
+Détails extraits le 2026-09-13 — Find the Space — Principles of play.
 
 **Points coach issus de la source :** Changer le chasseur après une minute.
 

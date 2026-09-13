@@ -539,13 +539,15 @@ Chasse et arrêt dans un espace libre
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Exercer une pression défensive.
+
 **Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
 
 **Déroulement :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
 
 **Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
 
-Détails extraits le 2026-09-08 — Section Find the Space.
+Détails extraits le 2026-09-13 — Find the Space — Principles of play.
 
 **Points coach issus de la source :** Changer le chasseur après une minute.
 
@@ -885,13 +887,15 @@ Quatre passeurs contre un défenseur.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.
+
 **Organisation :** Quatre passeurs contre un défenseur.
 
 **Déroulement :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
 
 **Consignes :** Pas d’interception ni de passe au-dessus de la tête.
 
-Détails extraits le 2026-09-08 — Keep Ball.
+Détails extraits le 2026-09-13 — Keep Ball — Principles of play.
 
 **Espace source :** 5 × 5 m
 
@@ -1185,13 +1189,15 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive.
+
 **Organisation :** Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Déroulement :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
 
 **Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-Détails extraits le 2026-09-09 — 2 v 1.
+Détails extraits le 2026-09-13 — 2 v 1 — Principles of play.
 
 **Espace source :** 10 × 10 m
 
@@ -1403,13 +1409,15 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Exercer une pression défensive.
+
 **Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
 
 **Déroulement :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
 
 **Consignes :** Toucher à deux mains à la taille sans pousser.
 
-Détails extraits le 2026-09-08 — Section Scarecrow Tag.
+Détails extraits le 2026-09-13 — Scarecrow Tag — Principles of play.
 
 **Points coach issus de la source :** Changer le chasseur après une minute.
 
@@ -1549,13 +1557,15 @@ Cinq joueurs en file suivent le porteur.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Soutenir le porteur.
+
 **Organisation :** Cinq joueurs en file suivent le porteur.
 
 **Déroulement :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
 
 **Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-08 — Follow the Leader.
+Détails extraits le 2026-09-13 — Follow the Leader — Principles of play.
 
 **Espace source :** 5 × 5 m
 
@@ -2453,13 +2463,15 @@ Trois groupes de cinq alternent par couloir.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+
 **Organisation :** Trois groupes de cinq alternent par couloir.
 
 **Déroulement :** Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.
 
 **Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
 
-Détails extraits le 2026-09-09 — Pass, Defend, Attack.
+Détails extraits le 2026-09-13 — Pass, Defend, Attack — Principles of play.
 
 **Espace source :** 20 × 10 m
 
@@ -2607,13 +2619,15 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+
 **Organisation :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
 
 **Déroulement :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
 
 **Consignes :** Courir droit ; passes douces à deux mains.
 
-Détails extraits le 2026-09-09 — Pass and Support- Chain Reaction.
+Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Principles of play.
 
 **Espace source :** 20 × 10 m
 
@@ -2669,13 +2683,15 @@ Cinq joueurs en file.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+
 **Organisation :** Cinq joueurs en file.
 
 **Déroulement :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
 
 **Consignes :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-09 — Pass and Support- Formation.
+Détails extraits le 2026-09-13 — Pass and Support- Formation — Principles of play.
 
 **Espace source :** 10 × 10 m
 
@@ -3417,13 +3433,15 @@ Cinq joueurs partent en file.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+
 **Organisation :** Cinq joueurs partent en file.
 
 **Déroulement :** Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.
 
 **Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
 
-Détails extraits le 2026-09-08 — Pass and Support.
+Détails extraits le 2026-09-13 — Pass and Support — Principles of play.
 
 **Espace source :** 25 m de longueur
 
@@ -4141,13 +4159,15 @@ Trois attaquants contre deux défenseurs.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.
+
 **Organisation :** Trois attaquants contre deux défenseurs.
 
 **Déroulement :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
 
 **Consignes :** Passer en arrière ; défense par prise de ruban.
 
-Détails extraits le 2026-09-09 — 3 v 2.
+Détails extraits le 2026-09-13 — 3 v 2 — Principles of play.
 
 **Espace source :** 10 × 10 m
 
@@ -4171,13 +4191,15 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.
+
 **Organisation :** Trois attaquants, un défenseur et un joueur en attente.
 
 **Déroulement :** Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.
 
 **Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-Détails extraits le 2026-09-09 — 3 v 1.
+Détails extraits le 2026-09-13 — 3 v 1 — Principles of play.
 
 **Espace source :** 10 × 10 m
 
@@ -4227,13 +4249,15 @@ Trois équipes de cinq par couloir, deux sur une rive.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+
 **Organisation :** Trois équipes de cinq par couloir, deux sur une rive.
 
 **Déroulement :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
 
 **Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-09 — Relays with Passing.
+Détails extraits le 2026-09-13 — Relays with Passing — Principles of play.
 
 **Espace source :** 20 × 20 m
 

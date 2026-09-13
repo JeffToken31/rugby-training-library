@@ -23,13 +23,15 @@ Trois équipes de cinq par couloir, deux sur une rive.
 
 **Accès :** Texte public consulté
 
+**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+
 **Organisation :** Trois équipes de cinq par couloir, deux sur une rive.
 
 **Déroulement :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
 
 **Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-09 — Relays with Passing.
+Détails extraits le 2026-09-13 — Relays with Passing — Principles of play.
 
 **Espace source :** 20 × 20 m
 

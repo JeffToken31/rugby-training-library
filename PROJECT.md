@@ -56,3 +56,5 @@ Lot demandé de vingt fiches livré : docs/LOT_VINGT_2026-09-09.md. 125 fiches c
 Cadrage autonome du 10 septembre : docs/CADRAGE_AUTONOME_2026-09-10.md. Lot docs/LOT_QUALITE_2026-09-10.md : 12 objectifs sourcés ajoutés et 3 situations collectives, total 128 fiches ; 93 avec organisation, déroulement et consignes.
 
 Vingt fiches supplémentaires livrées le 10 septembre : docs/LOT_VINGT_2026-09-10.md. Total 148 ; 113 avec organisation, déroulement et consignes. Captures nouvelles bloquées (429 Rugby Australia, 403 robots School Games), sans preuve de compte nécessaire. Préparer le bilan de couverture au voisinage de 150.
+
+Bilan du 13 septembre : docs/BILAN_COUVERTURE_148.md et data/coverage-20260913.json. Douze objectifs World Rugby ajoutés ; 82 fiches réunissent objectif, organisation, déroulement et consignes. Priorité suivante : critères de réussite sourcés et situations collectives décisionnelles réellement nouvelles ; pas de reprise généraliste des chasses déjà abondantes.
