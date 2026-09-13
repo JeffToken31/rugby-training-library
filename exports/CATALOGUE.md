@@ -397,7 +397,9 @@ Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
 **Consignes :** Après capture du ruban, passer en arrière au soutien.
 
-Détails extraits le 2026-09-10 — Decision Making - 4 v 1.
+Détails extraits le 2026-09-13 — Decision Making - 4 v 1 — Coaching points.
+
+**Points coach issus de la source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
 
 **Espace source :** 30 × 10 m
 
@@ -581,7 +583,9 @@ Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
 **Consignes :** Porteur immobile ; passes dans toutes les directions.
 
-Détails extraits le 2026-09-10 — Pairs Tag.
+Détails extraits le 2026-09-13 — Pairs Tag — Coaching points.
+
+**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains.
 
 **Espace source :** 20 × 20 m
 
@@ -789,7 +793,9 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 
 **Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-10 — Passing - 5 v 1 x 5 — Objective / Principles of play.
+Détails extraits le 2026-09-13 — Passing - 5 v 1 x 5 — Coaching points.
+
+**Points coach issus de la source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur.
 
 **Espace source :** 30 × 20 m
 
@@ -895,7 +901,9 @@ Quatre passeurs contre un défenseur.
 
 **Consignes :** Pas d’interception ni de passe au-dessus de la tête.
 
-Détails extraits le 2026-09-13 — Keep Ball — Principles of play.
+Détails extraits le 2026-09-13 — Keep Ball — Coaching points.
+
+**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter.
 
 **Espace source :** 5 × 5 m
 
@@ -1197,7 +1205,9 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-Détails extraits le 2026-09-13 — 2 v 1 — Principles of play.
+Détails extraits le 2026-09-13 — 2 v 1 — Coaching points.
+
+**Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille.
 
 **Espace source :** 10 × 10 m
 
@@ -1565,7 +1575,9 @@ Cinq joueurs en file suivent le porteur.
 
 **Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-13 — Follow the Leader — Principles of play.
+Détails extraits le 2026-09-13 — Follow the Leader — Coaching points.
+
+**Points coach issus de la source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir.
 
 **Espace source :** 5 × 5 m
 
@@ -1595,7 +1607,9 @@ Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de 
 
 **Consignes :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
 
-Détails extraits le 2026-09-10 — Passing - 5 v 2 v 1 v 2.
+Détails extraits le 2026-09-13 — Passing - 5 v 2 v 1 v 2 — Coaching points.
+
+**Points coach issus de la source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher.
 
 **Espace source :** 30 × 20 m
 
@@ -2471,7 +2485,9 @@ Trois groupes de cinq alternent par couloir.
 
 **Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
 
-Détails extraits le 2026-09-13 — Pass, Defend, Attack — Principles of play.
+Détails extraits le 2026-09-13 — Pass, Defend, Attack — Coaching points.
+
+**Points coach issus de la source :** Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée.
 
 **Espace source :** 20 × 10 m
 
@@ -2627,7 +2643,9 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Consignes :** Courir droit ; passes douces à deux mains.
 
-Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Principles of play.
+Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Coaching points.
+
+**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement.
 
 **Espace source :** 20 × 10 m
 
@@ -2691,7 +2709,9 @@ Cinq joueurs en file.
 
 **Consignes :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-13 — Pass and Support- Formation — Principles of play.
+Détails extraits le 2026-09-13 — Pass and Support- Formation — Coaching points.
+
+**Points coach issus de la source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce.
 
 **Espace source :** 10 × 10 m
 
@@ -3441,7 +3461,9 @@ Cinq joueurs partent en file.
 
 **Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
 
-Détails extraits le 2026-09-13 — Pass and Support — Principles of play.
+Détails extraits le 2026-09-13 — Pass and Support — Coaching points.
+
+**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée.
 
 **Espace source :** 25 m de longueur
 
@@ -4167,7 +4189,9 @@ Trois attaquants contre deux défenseurs.
 
 **Consignes :** Passer en arrière ; défense par prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 2 — Principles of play.
+Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
+
+**Points coach issus de la source :** Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur.
 
 **Espace source :** 10 × 10 m
 
@@ -4199,7 +4223,9 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 1 — Principles of play.
+Détails extraits le 2026-09-13 — 3 v 1 — Coaching points.
+
+**Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
 
 **Espace source :** 10 × 10 m
 
@@ -4257,7 +4283,9 @@ Trois équipes de cinq par couloir, deux sur une rive.
 
 **Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-13 — Relays with Passing — Principles of play.
+Détails extraits le 2026-09-13 — Relays with Passing — Coaching points.
+
+**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible.
 
 **Espace source :** 20 × 20 m
 

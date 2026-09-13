@@ -58,3 +58,5 @@ Cadrage autonome du 10 septembre : docs/CADRAGE_AUTONOME_2026-09-10.md. Lot docs
 Vingt fiches supplémentaires livrées le 10 septembre : docs/LOT_VINGT_2026-09-10.md. Total 148 ; 113 avec organisation, déroulement et consignes. Captures nouvelles bloquées (429 Rugby Australia, 403 robots School Games), sans preuve de compte nécessaire. Préparer le bilan de couverture au voisinage de 150.
 
 Bilan du 13 septembre : docs/BILAN_COUVERTURE_148.md et data/coverage-20260913.json. Douze objectifs World Rugby ajoutés ; 82 fiches réunissent objectif, organisation, déroulement et consignes. Priorité suivante : critères de réussite sourcés et situations collectives décisionnelles réellement nouvelles ; pas de reprise généraliste des chasses déjà abondantes.
+
+Lot observations du 13 septembre : docs/LOT_OBSERVATIONS_2026-09-13.md. Quatorze fiches enrichies, 50 avec points coach ; 148 fiches au total. Prochaine collecte : exploiter les cartes Imagine Rugby déjà identifiées pour situations collectives nouvelles, en évitant les chasses et passes déjà présentes.

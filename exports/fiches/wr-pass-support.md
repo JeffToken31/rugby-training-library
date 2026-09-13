@@ -31,7 +31,9 @@ Cinq joueurs partent en file.
 
 **Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
 
-Détails extraits le 2026-09-13 — Pass and Support — Principles of play.
+Détails extraits le 2026-09-13 — Pass and Support — Coaching points.
+
+**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée.
 
 **Espace source :** 25 m de longueur
 

@@ -16,7 +16,7 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 | instructions | 114 | 34 | 0 | 0 | 0 |
 | success_criteria | 14 | 134 | 0 | 0 | 0 |
 | common_errors | 7 | 141 | 0 | 0 | 0 |
-| coach_points | 36 | 112 | 0 | 0 | 0 |
+| coach_points | 50 | 98 | 0 | 0 | 0 |
 | duration_min | 21 | 63 | 64 | 0 | 0 |
 | players_min | 62 | 61 | 24 | 0 | 1 |
 | players_max | 60 | 61 | 26 | 0 | 1 |

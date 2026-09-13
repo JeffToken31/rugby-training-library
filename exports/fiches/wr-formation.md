@@ -31,7 +31,9 @@ Cinq joueurs en file.
 
 **Consignes :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-13 — Pass and Support- Formation — Principles of play.
+Détails extraits le 2026-09-13 — Pass and Support- Formation — Coaching points.
+
+**Points coach issus de la source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce.
 
 **Espace source :** 10 × 10 m
 

@@ -31,7 +31,9 @@ Quatre passeurs contre un défenseur.
 
 **Consignes :** Pas d’interception ni de passe au-dessus de la tête.
 
-Détails extraits le 2026-09-13 — Keep Ball — Principles of play.
+Détails extraits le 2026-09-13 — Keep Ball — Coaching points.
+
+**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter.
 
 **Espace source :** 5 × 5 m
 

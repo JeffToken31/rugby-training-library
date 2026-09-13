@@ -31,7 +31,9 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-Détails extraits le 2026-09-13 — 2 v 1 — Principles of play.
+Détails extraits le 2026-09-13 — 2 v 1 — Coaching points.
+
+**Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille.
 
 **Espace source :** 10 × 10 m
 

@@ -31,7 +31,9 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Consignes :** Courir droit ; passes douces à deux mains.
 
-Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Principles of play.
+Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Coaching points.
+
+**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement.
 
 **Espace source :** 20 × 10 m
 

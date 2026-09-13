@@ -1,0 +1,256 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-changing-defender-coach-20260913",
+      "variant_id": "wr-changing-defender",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Decision Making - 4 v 1 — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-changing-defender-detail-1",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille."
+        }
+      }
+    },
+    {
+      "id": "wr-pairs-tag-coach-20260913",
+      "variant_id": "wr-pairs-tag",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pairs Tag — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pairs-tag-detail-1",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains."
+        }
+      }
+    },
+    {
+      "id": "wr-five-walls-coach-20260913",
+      "variant_id": "wr-five-walls",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Passing - 5 v 1 x 5 — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-five-walls-objectives-20260910",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur."
+        }
+      }
+    },
+    {
+      "id": "wr-keep-ball-coach-20260913",
+      "variant_id": "wr-keep-ball",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Keep Ball — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-keep-ball-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-2v1-coach-20260913",
+      "variant_id": "wr-tag-2v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "2 v 1 — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-2v1-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille."
+        }
+      }
+    },
+    {
+      "id": "wr-follow-leader-coach-20260913",
+      "variant_id": "wr-follow-leader",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Follow the Leader — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-follow-leader-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir."
+        }
+      }
+    },
+    {
+      "id": "wr-walls-212-coach-20260913",
+      "variant_id": "wr-walls-212",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Passing - 5 v 2 v 1 v 2 — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-walls-212-detail-1",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-defend-coach-20260913",
+      "variant_id": "wr-pass-defend",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass, Defend, Attack — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-defend-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée."
+        }
+      }
+    },
+    {
+      "id": "wr-chain-reaction-coach-20260913",
+      "variant_id": "wr-chain-reaction",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass and Support- Chain Reaction — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-chain-reaction-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder deux mains au ballon, courir droit avant la passe et doser doucement."
+        }
+      }
+    },
+    {
+      "id": "wr-formation-coach-20260913",
+      "variant_id": "wr-formation",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass and Support- Formation — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-formation-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-support-coach-20260913",
+      "variant_id": "wr-pass-support",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Pass and Support — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-support-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-3v2-coach-20260913",
+      "variant_id": "wr-tag-3v2",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "3 v 2 — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-3v2-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-3v1-coach-20260913",
+      "variant_id": "wr-tag-3v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "3 v 1 — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-3v1-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille."
+        }
+      }
+    },
+    {
+      "id": "wr-passing-relays-coach-20260913",
+      "variant_id": "wr-passing-relays",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-13",
+      "locator": "Relays with Passing — Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-passing-relays-objectives-20260913",
+      "revision_reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible."
+        }
+      }
+    }
+  ]
+}

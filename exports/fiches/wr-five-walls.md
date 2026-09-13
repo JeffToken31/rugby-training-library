@@ -31,7 +31,9 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 
 **Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-10 — Passing - 5 v 1 x 5 — Objective / Principles of play.
+Détails extraits le 2026-09-13 — Passing - 5 v 1 x 5 — Coaching points.
+
+**Points coach issus de la source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur.
 
 **Espace source :** 30 × 20 m
 

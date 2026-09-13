@@ -31,7 +31,9 @@ Cinq joueurs en file suivent le porteur.
 
 **Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-13 — Follow the Leader — Principles of play.
+Détails extraits le 2026-09-13 — Follow the Leader — Coaching points.
+
+**Points coach issus de la source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir.
 
 **Espace source :** 5 × 5 m
 

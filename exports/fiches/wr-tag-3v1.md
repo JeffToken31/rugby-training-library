@@ -31,7 +31,9 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 1 — Principles of play.
+Détails extraits le 2026-09-13 — 3 v 1 — Coaching points.
+
+**Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
 
 **Espace source :** 10 × 10 m
 

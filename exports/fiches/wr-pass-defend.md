@@ -31,7 +31,9 @@ Trois groupes de cinq alternent par couloir.
 
 **Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
 
-Détails extraits le 2026-09-13 — Pass, Defend, Attack — Principles of play.
+Détails extraits le 2026-09-13 — Pass, Defend, Attack — Coaching points.
+
+**Points coach issus de la source :** Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée.
 
 **Espace source :** 20 × 10 m
 

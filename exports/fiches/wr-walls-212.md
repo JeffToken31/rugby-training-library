@@ -31,7 +31,9 @@ Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de 
 
 **Consignes :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
 
-Détails extraits le 2026-09-10 — Passing - 5 v 2 v 1 v 2.
+Détails extraits le 2026-09-13 — Passing - 5 v 2 v 1 v 2 — Coaching points.
+
+**Points coach issus de la source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher.
 
 **Espace source :** 30 × 20 m
 

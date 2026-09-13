@@ -31,7 +31,9 @@ Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
 **Consignes :** Après capture du ruban, passer en arrière au soutien.
 
-Détails extraits le 2026-09-10 — Decision Making - 4 v 1.
+Détails extraits le 2026-09-13 — Decision Making - 4 v 1 — Coaching points.
+
+**Points coach issus de la source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
 
 **Espace source :** 30 × 10 m
 

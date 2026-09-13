@@ -31,7 +31,9 @@ Trois attaquants contre deux défenseurs.
 
 **Consignes :** Passer en arrière ; défense par prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 2 — Principles of play.
+Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
+
+**Points coach issus de la source :** Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur.
 
 **Espace source :** 10 × 10 m
 
