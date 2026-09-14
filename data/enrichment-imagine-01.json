@@ -1,0 +1,39 @@
+{
+  "enrichments": [
+    {
+      "id": "imagine-cold-hot-detail-1",
+      "variant_id": "imagine-cold-hot",
+      "source_id": "imagine-games-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-14",
+      "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+      "fields": {
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs en cercle avec un ballon actif."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le coach choisit une technique de passe ; la phase froide laisse du temps pour l’apprendre. Au signal chaud, accélérer les passes en conservant cette technique."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer au partenaire de son choix ; présenter les mains en W à la réception."
+        },
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Pratiquer différentes techniques de passe."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester disponible pour recevoir et compter ensemble les passes réussies."
+        }
+      }
+    }
+  ]
+}

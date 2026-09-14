@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-120 fiches.
+121 fiches.
 
 - [Aller au sol puis transmettre au soutien](fiches/au-pop-race.md) — passe et coopération ; Rugby Australia
 - [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
@@ -78,6 +78,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Passes en escalier par cinq](fiches/wr-formation.md) — passe et soutien ; World Rugby
 - [Passes en triangle et changement de posture](fiches/rc-triangle.md) — passe ; RugbyCoaching.tv
 - [Passes en zigzag et replacement en bout de ligne](fiches/nz-zigzag.md) — passe et coopération ; New Zealand Rugby — Rugby Toolbox
+- [Passes froides puis chaudes](fiches/imagine-cold-hot.md) — passe et réception ; Imagine Rugby / Youth Rugby Initiative
 - [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) — passe ; RugbyCoaching.tv
 - [Pieuvre à deux traversées perpendiculaires](fiches/nz-octopus-cross.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Poursuite avec ballon et permutation](fiches/au-partner-tag.md) — évitement et réaction ; Rugby Australia

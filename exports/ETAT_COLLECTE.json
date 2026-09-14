@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-13T19:29:37.818448+00:00",
-  "variants": 148,
-  "documented": 139,
+  "generated_at": "2026-09-14T16:20:18.463555+00:00",
+  "variants": 149,
+  "documented": 140,
   "incomplete": 9,
-  "enriched": 130,
-  "resources": 86,
+  "enriched": 131,
+  "resources": 87,
   "captured_resources": 62,
   "families": 2,
   "events": [],
@@ -260,6 +260,13 @@
         "error": "Accès interdit par robots.txt",
         "started_at": "2026-09-07T17:25:51.993926+00:00"
       }
+    },
+    {
+      "resource_id": "imagine-games-source",
+      "title": "Imagine Rugby Game Cards",
+      "url": "https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf",
+      "capture_recorded": false,
+      "last_attempt": null
     },
     {
       "resource_id": "munster-fms",

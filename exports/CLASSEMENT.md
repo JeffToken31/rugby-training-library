@@ -389,3 +389,7 @@ Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le cor
 - F12 : [Vider le terrain au tag contre la montre](fiches/sg-team-tag.md) — Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs.
 - F15 : [Marquer sur chaque bord coloré](fiches/scot-break-walls.md) — Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.
 - F06 : [Chat et souris autour d’une forme](fiches/au-cat-mouse.md) — Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.
+
+## 14 septembre : 149 fiches
+
+F08 : [Passes froides puis chaudes](fiches/imagine-cold-hot.md). 138 candidates, 9 descriptions insuffisantes et 2 composites ; unicité non certifiée.

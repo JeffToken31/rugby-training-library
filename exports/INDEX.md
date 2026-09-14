@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-148 fiches — les propositions terrain restent à valider par le coach.
+149 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -182,6 +182,12 @@
 | [Taper au pied puis passer en ligne](fiches/nz-tap-pass.md) | Under 7 (classement du site) | Documentée ; à valider |
 | [Toucher, libérer au sol et changer de rôle](fiches/au-partner-release.md) | Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider | Documentée ; à valider |
 | [Traverser et donner à un partenaire extérieur](fiches/scot-pass-pal.md) | Primaire (Écosse) ; adéquation U8 à valider | Documentée ; à valider |
+
+## Passe et réception
+
+| Exercice | Âge source | Proposition terrain |
+|---|---|---|
+| [Passes froides puis chaudes](fiches/imagine-cold-hot.md) | Débutant ; âge non précisé | Documentée ; à valider |
 
 ## Passe et soutien
 

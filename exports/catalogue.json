@@ -328,6 +328,18 @@
       "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf"
     },
     {
+      "access": "Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture",
+      "checked_on": "2026-09-14",
+      "format": "PDF",
+      "id": "imagine-games-source",
+      "language": "en",
+      "publisher": "Imagine Rugby / Youth Rugby Initiative",
+      "qualification_note": "Recueil multi-exercices, non séance ; une carte extraite seulement. Les autres cartes ne sont pas comptées.",
+      "resource_type": "PEDAGOGICAL_CONTENT",
+      "title": "Imagine Rugby Game Cards",
+      "url": "https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf"
+    },
+    {
       "access": "PDF public consulté",
       "checked_on": "2026-09-06",
       "id": "munster-fms",
@@ -15254,6 +15266,143 @@
         "resource_type": "WEB_PAGE",
         "title": "Zig Zag Passing",
         "url": "https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "adaptation_u8": "Proposition IA : commencer avec une passe courte à deux mains et un cercle adapté au groupe ; ne pas reprendre automatiquement la grande aire source.",
+      "age_source": "Débutant ; âge non précisé",
+      "duration_min": null,
+      "id": "imagine-cold-hot",
+      "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+      "material": "Deux ballons annoncés ; un actif au départ",
+      "original_title": "Cold & Hot Potato",
+      "players_max": null,
+      "players_min": null,
+      "review": "Durée source 10–15 minutes : champ scalaire laissé inconnu. Carte reformulée ; validation U8 non effectuée. Phase technique lente puis accélération avec la même technique, sans trajet mémorisé.",
+      "source_id": "imagine-games-source",
+      "space": "40 × 40 yards dans la source",
+      "status": "documented",
+      "summary": "Joueurs en cercle avec un ballon actif.",
+      "theme": "passe et réception",
+      "title": "Passes froides puis chaudes",
+      "coach_points": "Rester disponible pour recevoir et compter ensemble les passes réussies.",
+      "instructions": "Passer au partenaire de son choix ; présenter les mains en W à la réception.",
+      "objectives": "Pratiquer différentes techniques de passe.",
+      "organisation": "Joueurs en cercle avec un ballon actif.",
+      "steps": "Le coach choisit une technique de passe ; la phase froide laisse du temps pour l’apprendre. Au signal chaud, accélérer les passes en conservant cette technique.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Pratiquer différentes techniques de passe.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-14",
+            "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+            "revision_id": "imagine-cold-hot-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Joueurs en cercle avec un ballon actif.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-14",
+            "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+            "revision_id": "imagine-cold-hot-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le coach choisit une technique de passe ; la phase froide laisse du temps pour l’apprendre. Au signal chaud, accélérer les passes en conservant cette technique.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-14",
+            "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+            "revision_id": "imagine-cold-hot-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer au partenaire de son choix ; présenter les mains en W à la réception.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-14",
+            "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+            "revision_id": "imagine-cold-hot-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester disponible pour recevoir et compter ensemble les passes réussies.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-14",
+            "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+            "revision_id": "imagine-cold-hot-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "imagine-games-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-14",
+        "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié",
+        "revision_id": "imagine-cold-hot-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "imagine-cold-hot-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-14",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture",
+        "checked_on": "2026-09-14",
+        "format": "PDF",
+        "id": "imagine-games-source",
+        "language": "en",
+        "publisher": "Imagine Rugby / Youth Rugby Initiative",
+        "qualification_note": "Recueil multi-exercices, non séance ; une carte extraite seulement. Les autres cartes ne sont pas comptées.",
+        "resource_type": "PEDAGOGICAL_CONTENT",
+        "title": "Imagine Rugby Game Cards",
+        "url": "https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf"
       },
       "model_status": "REVIEWED",
       "references": []

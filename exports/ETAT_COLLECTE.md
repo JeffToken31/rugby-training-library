@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-148 fiches ; 139 documentées ; 9 incomplètes.
-130 fiches enrichies ; 86 ressources ; 62 ressources capturées localement.
+149 fiches ; 140 documentées ; 9 incomplètes.
+131 fiches enrichies ; 87 ressources ; 62 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 96 | 52 | 0 | 0 | 0 |
-| organisation | 120 | 28 | 0 | 0 | 0 |
-| steps | 121 | 27 | 0 | 0 | 0 |
-| instructions | 114 | 34 | 0 | 0 | 0 |
-| success_criteria | 14 | 134 | 0 | 0 | 0 |
-| common_errors | 7 | 141 | 0 | 0 | 0 |
-| coach_points | 50 | 98 | 0 | 0 | 0 |
-| duration_min | 21 | 63 | 64 | 0 | 0 |
-| players_min | 62 | 61 | 24 | 0 | 1 |
-| players_max | 60 | 61 | 26 | 0 | 1 |
-| space | 49 | 71 | 28 | 0 | 0 |
-| material | 127 | 21 | 0 | 0 | 0 |
+| objectives | 97 | 52 | 0 | 0 | 0 |
+| organisation | 121 | 28 | 0 | 0 | 0 |
+| steps | 122 | 27 | 0 | 0 | 0 |
+| instructions | 115 | 34 | 0 | 0 | 0 |
+| success_criteria | 14 | 135 | 0 | 0 | 0 |
+| common_errors | 7 | 142 | 0 | 0 | 0 |
+| coach_points | 51 | 98 | 0 | 0 | 0 |
+| duration_min | 21 | 64 | 64 | 0 | 0 |
+| players_min | 62 | 62 | 24 | 0 | 1 |
+| players_max | 60 | 62 | 26 | 0 | 1 |
+| space | 50 | 71 | 28 | 0 | 0 |
+| material | 128 | 21 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -61,6 +61,7 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:53.626294+00:00
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; dernière tentative : FAILED le 2026-09-08T16:13:04.294461+00:00 — Taille maximale dépassée
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-07T17:25:51.993926+00:00 — Accès interdit par robots.txt
+- [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T12:00:18.554219+00:00 — Vérification robots impossible : 403
 - [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:33.602634+00:00
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:41.381553+00:00

@@ -1446,6 +1446,15 @@
       "discriminant": "Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.",
       "source_id": "au-cat-mouse-source",
       "locator": "Cat and Mouse — Description, Coaching Outcome, Change It"
+    },
+    {
+      "variant_id": "imagine-cold-hot",
+      "family_id": "F08",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Alternance apprentissage lent puis circulation rapide avec technique conservée ; ni circuit mémorisé ni changement de posture.",
+      "source_id": "imagine-games-source",
+      "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié"
     }
   ],
   "pair_reviews": [
