@@ -23,6 +23,16 @@ Valoriser les passes qui font avancer dans un espace libre.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Entretenir la continuité collective.
+
+**Organisation :** Deux équipes de huit ou quatre contre quatre.
+
+**Déroulement :** Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5.
+
+**Consignes :** Chercher l’espace libre et libérer immédiatement au contact.
+
+Détails extraits le 2026-09-16 — PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+
 ## Répertoire des sources
 
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.

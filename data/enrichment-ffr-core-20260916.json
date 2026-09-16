@@ -1,0 +1,124 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-auto-core-20260916",
+      "variant_id": "ffr-auto",
+      "source_id": "ffr-plan2020",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Progresser ensemble pour marquer."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rester dans l’aire ; chercher un partenaire disponible face au blocage."
+        }
+      }
+    },
+    {
+      "id": "ffr-interval-core-20260916",
+      "variant_id": "ffr-interval",
+      "source_id": "ffr-plan2020",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Entretenir la continuité collective."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes de huit ou quatre contre quatre."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher l’espace libre et libérer immédiatement au contact."
+        }
+      }
+    },
+    {
+      "id": "ffr-gagne-core-20260916",
+      "variant_id": "ffr-gagne",
+      "source_id": "ffr-plan2020",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer l’avancée individuelle et collective."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes égales ; terrain découpé en zones."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porteur : avancer ou transmettre ; partenaires : soutenir."
+        }
+      }
+    },
+    {
+      "id": "ffr-initiative-core-20260916",
+      "variant_id": "ffr-initiative",
+      "source_id": "ffr-plan2020",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Observer les adversaires avant d’agir."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutenir le porteur ; défenseurs désignés : conserver la posture imposée."
+        }
+      }
+    }
+  ]
+}

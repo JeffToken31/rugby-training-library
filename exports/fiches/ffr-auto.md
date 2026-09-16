@@ -23,6 +23,16 @@ Coopérer pour faire progresser le ballon malgré les défenseurs.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Progresser ensemble pour marquer.
+
+**Organisation :** 22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon.
+
+**Déroulement :** Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur.
+
+**Consignes :** Rester dans l’aire ; chercher un partenaire disponible face au blocage.
+
+Détails extraits le 2026-09-16 — PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+
 ## Répertoire des sources
 
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.

@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-127 fiches.
+131 fiches.
 
 - [Aller au sol puis transmettre au soutien](fiches/au-pop-race.md) — passe et coopération ; Rugby Australia
 - [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
@@ -52,8 +52,10 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Fentes alternées du monstre](fiches/scot-monster.md) — motricité ; Scottish Rugby
 - [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) — passe et soutien ; World Rugby
 - [Franchir trois rideaux disposés en 2–1–2](fiches/wr-walls-212.md) — opposition et coopération ; World Rugby
+- [Gagne-terrain](fiches/ffr-gagne.md) — jeu collectif ; FFR / DTN
 - [Golf au pied](fiches/au-kick-golf.md) — jeu au pied ; Rugby Australia
 - [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) — prise d’information ; RugbyCoaching.tv
+- [Jouer les intervalles](fiches/ffr-interval.md) — prise d’information ; FFR / DTN
 - [La boue et la délivrance](fiches/munster-mud.md) — coopération ; Munster Rugby
 - [La chaîne](fiches/scot-chaine.md) — coopération ; Scottish Rugby
 - [La chasse aux rubans](fiches/rc-taggrab.md) — déplacement ; RugbyCoaching.tv
@@ -62,6 +64,8 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Les portes à franchir](fiches/munster-gates.md) — prise d’information ; Munster Rugby
 - [Les statues](fiches/rc-statues.md) — déplacement ; RugbyCoaching.tv
 - [Les œufs dans les nids](fiches/rc-eggs.md) — déplacement ; RugbyCoaching.tv
+- [L’auto-stoppeur](fiches/ffr-auto.md) — coopération ; FFR / DTN
+- [L’initiative](fiches/ffr-initiative.md) — prise d’information ; FFR / DTN
 - [Manipulations autour du corps](fiches/nz-awareness.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Marche du grillon en tenant les chevilles](fiches/scot-cricket.md) — motricité ; Scottish Rugby
 - [Marche du singe à trois appuis](fiches/scot-monkey.md) — motricité ; Scottish Rugby

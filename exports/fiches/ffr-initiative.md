@@ -23,6 +23,16 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Observer les adversaires avant d’agir.
+
+**Organisation :** Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.
+
+**Déroulement :** Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.
+
+**Consignes :** Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.
+
+Détails extraits le 2026-09-16 — PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+
 ## Répertoire des sources
 
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.

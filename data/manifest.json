@@ -72,7 +72,8 @@
     "data/enrichment-nz-core-20260916.json",
     "data/enrichment-rc-objectives-20260916.json",
     "data/enrichment-munster-core-20260916.json",
-    "data/enrichment-scot-core-20260916.json"
+    "data/enrichment-scot-core-20260916.json",
+    "data/enrichment-ffr-core-20260916.json"
   ],
   "capture_resources": [
     "rc-piggy",

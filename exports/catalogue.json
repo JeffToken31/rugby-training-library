@@ -9992,18 +9992,58 @@
       "summary": "Gagner des points en franchissant des zones et en soutenant l’avancée.",
       "theme": "jeu collectif",
       "title": "Gagne-terrain",
+      "instructions": "Porteur : avancer ou transmettre ; partenaires : soutenir.",
+      "objectives": "Développer l’avancée individuelle et collective.",
+      "organisation": "Deux équipes égales ; terrain découpé en zones.",
+      "steps": "Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Développer l’avancée individuelle et collective.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-gagne-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes égales ; terrain découpé en zones.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-gagne-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-gagne-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porteur : avancer ou transmettre ; partenaires : soutenir.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-gagne-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -10031,6 +10071,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2020",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+        "revision_id": "ffr-gagne-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-gagne-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -10386,18 +10441,58 @@
       "summary": "Valoriser les passes qui font avancer dans un espace libre.",
       "theme": "prise d’information",
       "title": "Jouer les intervalles",
+      "instructions": "Chercher l’espace libre et libérer immédiatement au contact.",
+      "objectives": "Entretenir la continuité collective.",
+      "organisation": "Deux équipes de huit ou quatre contre quatre.",
+      "steps": "Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Entretenir la continuité collective.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-interval-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes de huit ou quatre contre quatre.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-interval-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-interval-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher l’espace libre et libérer immédiatement au contact.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-interval-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -10427,6 +10522,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2020",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+        "revision_id": "ffr-interval-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-interval-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -11939,18 +12049,58 @@
       "summary": "Coopérer pour faire progresser le ballon malgré les défenseurs.",
       "theme": "coopération",
       "title": "L’auto-stoppeur",
+      "instructions": "Rester dans l’aire ; chercher un partenaire disponible face au blocage.",
+      "objectives": "Progresser ensemble pour marquer.",
+      "organisation": "22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon.",
+      "steps": "Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Progresser ensemble pour marquer.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-auto-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-auto-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-auto-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rester dans l’aire ; chercher un partenaire disponible face au blocage.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-auto-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -11978,6 +12128,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2020",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+        "revision_id": "ffr-auto-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-auto-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -12007,18 +12172,58 @@
       "summary": "Repérer les espaces ouverts par des défenseurs temporairement immobilisés.",
       "theme": "prise d’information",
       "title": "L’initiative",
+      "instructions": "Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.",
+      "objectives": "Observer les adversaires avant d’agir.",
+      "organisation": "Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.",
+      "steps": "Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Observer les adversaires avant d’agir.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-initiative-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-initiative-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-initiative-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.",
+          "provenance": {
+            "source_id": "ffr-plan2020",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+            "revision_id": "ffr-initiative-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -12049,6 +12254,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "ffr-plan2020",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020",
+        "revision_id": "ffr-initiative-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-initiative-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",

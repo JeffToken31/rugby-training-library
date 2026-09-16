@@ -1699,6 +1699,16 @@ Gagner des points en franchissant des zones et en soutenant l’avancée.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Développer l’avancée individuelle et collective.
+
+**Organisation :** Deux équipes égales ; terrain découpé en zones.
+
+**Déroulement :** Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1.
+
+**Consignes :** Porteur : avancer ou transmettre ; partenaires : soutenir.
+
+Détails extraits le 2026-09-16 — PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+
 ## Golf au pied
 
 **jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Parcours avec comptage des coups ; absent des jeux de territoire au pied.**
@@ -1776,6 +1786,16 @@ Valoriser les passes qui font avancer dans un espace libre.
 [Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 52 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+**Objectifs :** Entretenir la continuité collective.
+
+**Organisation :** Deux équipes de huit ou quatre contre quatre.
+
+**Déroulement :** Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5.
+
+**Consignes :** Chercher l’espace libre et libérer immédiatement au contact.
+
+Détails extraits le 2026-09-16 — PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
 
 ## La boue et la délivrance
 
@@ -2183,6 +2203,16 @@ Coopérer pour faire progresser le ballon malgré les défenseurs.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Progresser ensemble pour marquer.
+
+**Organisation :** 22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon.
+
+**Déroulement :** Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur.
+
+**Consignes :** Rester dans l’aire ; chercher un partenaire disponible face au blocage.
+
+Détails extraits le 2026-09-16 — PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+
 ## L’initiative
 
 **prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -2200,6 +2230,16 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 [Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 55 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+**Objectifs :** Observer les adversaires avant d’agir.
+
+**Organisation :** Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.
+
+**Déroulement :** Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.
+
+**Consignes :** Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.
+
+Détails extraits le 2026-09-16 — PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
 
 ## Manipulations autour du corps
 

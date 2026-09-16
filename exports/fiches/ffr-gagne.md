@@ -23,6 +23,16 @@ Gagner des points en franchissant des zones et en soutenant l’avancée.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Développer l’avancée individuelle et collective.
+
+**Organisation :** Deux équipes égales ; terrain découpé en zones.
+
+**Déroulement :** Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1.
+
+**Consignes :** Porteur : avancer ou transmettre ; partenaires : soutenir.
+
+Détails extraits le 2026-09-16 — PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+
 ## Répertoire des sources
 
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
