@@ -1,0 +1,71 @@
+{
+  "checked_on": "2026-09-16",
+  "source": "PDF fourni par utilisateur, atelier octobre 2025",
+  "sha256": "a96af5769a03c6c930e57f28ea3da0664646eeabe3a3fe3f8e5ddbf449665c33",
+  "local_archive": "data/raw/a96af5769a03c6c930e57f28ea3da0664646eeabe3a3fe3f8e5ddbf449665c33.pdf",
+  "redistribute_pdf": false,
+  "pages": [
+    {
+      "page": 1,
+      "links": []
+    },
+    {
+      "page": 2,
+      "links": []
+    },
+    {
+      "page": 3,
+      "links": [
+        "http://dai.ly/x61eh9a",
+        "https://www.dailymotion.com/video/x842tlu",
+        "https://www.dailymotion.com/video/x842tna",
+        "https://www.dailymotion.com/video/x842tp6",
+        "https://www.dailymotion.com/video/x842tpz",
+        "https://www.dailymotion.com/video/x842tqy",
+        "https://www.youtube.com/watch?v=qaebV3Oms98"
+      ]
+    },
+    {
+      "page": 4,
+      "links": [
+        "http://dai.ly/x61eeyr",
+        "https://www.dailymotion.com/video/x6cufyb",
+        "https://www.dailymotion.com/video/x842tt8",
+        "https://www.dailymotion.com/video/x842tu0",
+        "https://www.dailymotion.com/video/x842tv3",
+        "https://www.dailymotion.com/video/x842tvf",
+        "https://www.dailymotion.com/video/x842tvv",
+        "https://www.youtube.com/watch?v=qaebV3Oms98"
+      ]
+    },
+    {
+      "page": 5,
+      "links": [
+        "http://dai.ly/x61edgn",
+        "https://www.dailymotion.com/video/x6cuek5",
+        "https://www.dailymotion.com/video/x842tz5",
+        "https://www.dailymotion.com/video/x842tzg",
+        "https://www.dailymotion.com/video/x846np8",
+        "https://www.youtube.com/watch?v=HvL_nhdJW5Q",
+        "https://www.youtube.com/watch?v=qaebV3Oms98"
+      ]
+    },
+    {
+      "page": 6,
+      "links": [
+        "https://formation.ffr.fr/article/ecole-de-rugby-organisation-et-deroulement-dun-atelier-ffr",
+        "https://formation.ffr.fr/article/fiches-reglements-ecole-de-rugby-2025-2026",
+        "https://formation.ffr.fr/categorie/ecole-de-rugby"
+      ]
+    }
+  ],
+  "video_review_status": "NOT_VIEWED",
+  "m8_page": 3,
+  "m8_candidates": {
+    "ffr-carre-atelier": "https://www.dailymotion.com/video/x842tlu",
+    "ffr-carre2-atelier": "https://www.dailymotion.com/video/x842tna",
+    "ffr-gazelles-atelier": "https://www.dailymotion.com/video/x842tpz",
+    "ffr-protege-atelier": "https://www.dailymotion.com/video/x842tp6"
+  },
+  "mapping_note": "Correspondance candidate selon position des annotations PDF ; vérifier les titres vidéo avant ingestion pédagogique."
+}
