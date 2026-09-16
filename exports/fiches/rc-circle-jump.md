@@ -1,69 +1,60 @@
-# Bibliothèque rugby U8
+# Cercle de passes avec demi-tours sautés
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coordination · Circulation et transmission
 
-## Cercle de passes avec demi-tours sautés
-
-**coordination · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la dernière progression, chaque passe est suivie de demi-tours sautés avant la réception suivante. Le coach rapproche les plots lorsque les passes deviennent difficiles.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Video Subtitles — dernière progression · consultée le 2026-09-07
+**Objectif — source :** Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon et plots
 
-**Objectifs :** Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs en cercle, chacun sur un plot.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Joueurs en cercle, chacun sur un plot.
 
-**Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
+**Déroulement — source :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
 
-## Répertoire des sources
+**Consignes — source :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
 
-- [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
+**Points d’attention — historique non réexaminé :** Se rendre disponible à nouveau après le changement d’orientation.
 
-**Tags proposés :** Passe · Coordination · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — RugbyCoaching.tv ; Video Subtitles — dernière progression. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : rc-circle-jump-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-circle-jump-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

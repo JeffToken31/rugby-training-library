@@ -1,55 +1,46 @@
-# Bibliothèque rugby U8
+# Relais avec essai
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Motricité · Course · Relais
 
-## Relais avec essai
-
-**motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Primaire (Écosse)
 
 Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 12 · consultée le 2026-09-07
+**Objectif — source :** Se familiariser avec le ballon dans une situation structurée et peu contraignante.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Objectifs :** Se familiariser avec le ballon dans une situation structurée et peu contraignante.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Files courtes ; deux plots délimitent la marque.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Courir marquer entre les plots, revenir et transmettre.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Aplatir entre les plots, revenir puis transmettre au suivant.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 12, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Files courtes ; deux plots délimitent la marque.
 
-**Points coach issus de la source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
+**Déroulement — source :** Courir marquer entre les plots, revenir et transmettre.
 
-## Répertoire des sources
+**Consignes — source :** Aplatir entre les plots, revenir puis transmettre au suivant.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Parcours et relais avec ballon.
+**Points d’attention — source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
 
-**Tags proposés :** Passe · Motricité · Course · Relais
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -57,14 +48,14 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Dur�
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 12. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Consignes, Points d’attention : scot-primary ; PDF page 12, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 12 (pagination fichier), TASK et SETUP ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

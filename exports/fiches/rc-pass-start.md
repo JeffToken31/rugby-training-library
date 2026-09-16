@@ -1,69 +1,59 @@
-# Bibliothèque rugby U8
+# Premières passes en ligne
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Circulation et transmission
 
-## Premières passes en ligne
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Apprendre à recevoir puis transmettre vers une cible.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Apprendre à recevoir puis transmettre vers une cible.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs en ligne ; circulation du ballon dans les deux sens.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Commencer lentement à l’arrêt, puis augmenter la vitesse.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Joueurs en ligne ; circulation du ballon dans les deux sens.
+
+**Déroulement — source :** Commencer lentement à l’arrêt, puis augmenter la vitesse.
+
+**Consignes — source :** Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.
 
 **Critères de réussite — proposition IA :** Le partenaire reçoit une passe dirigée vers ses mains.
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Répertoire des sources
+**Points d’attention — information manquante :** non extrait
 
-- [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Ramasser, recevoir et transmettre.
-
-**Tags proposés :** Passe · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Durée de l’atelier, Espace : rc-pass-start-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,76 +1,61 @@
-# Bibliothèque rugby U8
+# Ramasser, porter et reposer
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Manipulation du ballon · Ramassage du ballon · Parcours
 
-## Ramasser, porter et reposer
-
-**manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Under 7 (classement du site)
 
 Une file traverse une zone où les ballons sont dispersés.
 
-**Matériel :** Cinq à huit ballons
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 15–20
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Ramasser et sécuriser le ballon au sol.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Cinq à huit ballons
 
-**Objectifs :** Ramasser et sécuriser le ballon au sol.
+**Effectif minimum — source :** 15
 
-**Organisation :** Une file traverse une zone où les ballons sont dispersés.
+**Effectif maximum — source :** 20
 
-**Déroulement :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
+**Espace — source :** 20 × 20 m
 
-**Consignes :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Erreurs fréquentes :** Lâcher ou faire rouler le ballon au lieu de le poser fermement.
+**Organisation — source :** Une file traverse une zone où les ballons sont dispersés.
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Déroulement — source :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
 
-**Espace source :** 20 × 20 m
+**Consignes — source :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
+**Erreurs fréquentes — source :** Lâcher ou faire rouler le ballon au lieu de le poser fermement.
 
-## Préparation de séance
+**Points d’attention — source :** Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Parcours et relais avec ballon.
+**Repères coach proposés par IA :** Le ballon est ramassé puis reposé avec contrôle à chaque emplacement. Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose.
 
-**Tags proposés :** Manipulation du ballon · Ramassage du ballon · Parcours
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Source principale :** [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
-**Indicateur observable :** Le ballon est ramassé puis reposé avec contrôle à chaque emplacement.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**À regarder :** Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose.
+- Objectif, Erreurs fréquentes : nz-pick-place-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-pick-place-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Points d’attention : nz-pick-place-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-pick-place-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+5 révision(s) conservée(s) dans les données de l’application.
 
-### Durée pour planifier l’atelier
-
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

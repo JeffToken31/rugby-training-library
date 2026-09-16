@@ -1,66 +1,59 @@
-# Bibliothèque rugby U8
+# Taper au pied puis passer en ligne
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Jeu au pied · Coopération · Circulation et transmission
 
-## Taper au pied puis passer en ligne
-
-**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Enchaînement pose/tap/passe et déplacement de la ligne, absent des passes latérales simples.**
+**Famille :** Passes en progression collective · **Âge source :** Under 7 (classement du site)
 
 Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
-**Matériel :** Un ballon par ligne, plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 4–5 — par groupe
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Tap pass Tap — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Enchaîner un tap au pied et une passe.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon par ligne, plots
 
-**Objectifs :** Enchaîner un tap au pied et une passe.
+**Effectif minimum — source :** 4
 
-**Organisation :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
+**Effectif maximum — source :** 5
 
-**Déroulement :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
+**Espace — source :** 5 × 15 m
 
-**Consignes :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of play.
+**Organisation — source :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
-**Espace source :** 5 × 15 m
+**Déroulement — source :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
 
-## Répertoire des sources
+**Consignes — source :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
 
-- [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en progression collective.
+**Points d’attention — information manquante :** non extrait
 
-**Tags proposés :** Passe · Jeu au pied · Coopération · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Périmètre de l’effectif :** par groupe
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — New Zealand Rugby — Rugby Toolbox ; Tap pass Tap — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-tap-pass-source ; Tap pass Tap — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-tap-pass-source ; Tap pass Tap — organisation et déroulement ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

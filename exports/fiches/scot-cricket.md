@@ -1,69 +1,60 @@
-# Bibliothèque rugby U8
+# Marche du grillon en tenant les chevilles
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Motricité · Motricité individuelle
 
-## Marche du grillon en tenant les chevilles
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Accroupi, bras entre les jambes, mains sur les chevilles.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Cricket Walk · consultée le 2026-09-07
+**Objectif — proposition IA :** Explorer plusieurs directions de déplacement en position accroupie.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Aucun
 
-**Organisation :** Accroupi, bras entre les jambes, mains sur les chevilles.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Marcher en avant, en arrière et de côté.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Conserver la prise aux chevilles.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 16 — Cricket Walk.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-## Répertoire des sources
+**Organisation — source :** Accroupi, bras entre les jambes, mains sur les chevilles.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Déroulement — source :** Marcher en avant, en arrière et de côté.
 
-## Préparation de séance
+**Consignes — source :** Conserver la prise aux chevilles.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Motricité et postures.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Motricité · Motricité individuelle
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Explorer plusieurs directions de déplacement en position accroupie.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Cricket Walk. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 4 à 6 séquences de 30 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 30 s.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Cricket Walk ; 2026-09-09
 
-**Pour prolonger :** Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

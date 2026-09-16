@@ -1,68 +1,58 @@
-# Bibliothèque rugby U8
+# Passer puis échapper au poursuivant
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Évitement · Course · Poursuite et délivrance
 
-## Passer puis échapper au poursuivant
-
-**évitement · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Deux files face à face ; le ballon circule dans une file.
 
-**Matériel :** Un ballon et un plot
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–12
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Développer la manipulation et les réactions.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Un ballon et un plot
 
-**Objectifs :** Développer la manipulation et les réactions.
+**Effectif minimum — source :** 10
 
-**Organisation :** Deux files face à face ; le ballon circule dans une file.
+**Effectif maximum — source :** 12
 
-**Déroulement :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
+**Espace — source :** 10 × 10 m ; files espacées de 4–5 m
 
-**Consignes :** Essai réussi : un point. Toucher : possession adverse à la reprise.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Organisation — source :** Deux files face à face ; le ballon circule dans une file.
 
-**Points coach issus de la source :** Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.
+**Déroulement — source :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
 
-**Espace source :** 10 × 10 m ; files espacées de 4–5 m
+**Consignes — source :** Essai réussi : un point. Toucher : possession adverse à la reprise.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — source :** Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
-
-**Tags proposés :** Passe · Évitement · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Points d’attention : nz-touchdown-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-touchdown-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-touchdown-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+4 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

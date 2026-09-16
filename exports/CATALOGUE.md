@@ -1,5322 +1,9685 @@
-# Bibliothèque rugby U8
+# Catalogue complet des exercices U8
 
-[Parcourir par compétence et forme de jeu](CATEGORIES.md)
+Point d’entrée unique : catégories, durées, installation, consignes, adaptations, sources, manques et rapprochements sont réunis ici.
 
-150 fiches · 87 sources
+**150 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+[Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)
 
+<a id="categories"></a>
+## Catégories
+
+### Compétences
+
+**Passe (59) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Circuit de passes mémorisé](#nz-memory) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Coordonner deux ballons](#rc-two-balls) · [Course autour des bases contre trois passes](#rc-rounders) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le ballon répond au signal](#au-familiarisation) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Ramasser puis transmettre](#ffr-ramasser) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Transmettre en trottinant](#ffr-transmettre) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+
+**Réception (12) :** [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes froides puis chaudes](#imagine-cold-hot) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Ramasser puis transmettre](#ffr-ramasser) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Rugby à quatre cibles](#rc-netball) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis à la main](#scot-tennis) · [Éviter les plots et recevoir le ballon](#au-ufos)
+
+**Soutien (16) :** [Avancer et passer avant le tag](#rc-tagmatch) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Duels et soutien](#ffr-duels-atelier) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en escalier par cinq](#wr-formation) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+
+**Évitement (39) :** [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Duel d’évitement en couloir](#nz-evading-player) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les portes à franchir](#munster-gates) · [Les statues](#rc-statues) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Suivre l’ombre du porteur](#nz-shadow) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Traverser les zones gardées](#scot-zones) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Éviter les plots et recevoir le ballon](#au-ufos)
+
+**Réaction au signal (22) :** [Binômes guidés par le signal du coach](#nz-follow) · [Carré 2](#ffr-carre2-atelier) · [Changer de ligne d’essai](#rc-multidirection) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Chercher les espaces libres](#ffr-espaces2023) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Vider le terrain au tag contre la montre](#sg-team-tag)
+
+**Manipulation du ballon (14) :** [Carré](#ffr-carre-atelier) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Le ballon répond au signal](#au-familiarisation) · [Manipulations autour du corps](#nz-awareness) · [Marcher en canard avec ballon](#ffr-canard) · [Ramasser, porter et reposer](#nz-pick-place) · [Rebondir et échanger en binôme](#rc-bounce) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal)
+
+**Jeu au pied (9) :** [Botter, récupérer et marquer](#au-kick-chase) · [Conduire le ballon au pied](#ffr-pied) · [Coup franc pour soi](#ffr-cpf) · [Golf au pied](#au-kick-golf) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis)
+
+**Motricité (19) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chat et déplacements animaux](#scot-animal) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Ramper comme un crocodile](#scot-crocodile) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
+
+**Coopération (35) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Course autour des bases contre trois passes](#rc-rounders) · [Dix passes - variante communautaire documentee](#rc-ten) · [Duels et soutien](#ffr-duels-atelier) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [La boue et la délivrance](#munster-mud) · [La chaîne](#scot-chaine) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Passer dans la zone d’arrivée](#munster-end) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rubans avec restitution avant reprise](#nz-rip) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+
+**Prise d’information (21) :** [Binômes guidés par le signal du coach](#nz-follow) · [Changer de ligne d’essai](#rc-multidirection) · [Chercher les espaces libres](#ffr-espaces2023) · [Circuit de passes mémorisé](#nz-memory) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Réagir au mot plot](#au-cone-game) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Trois joueurs alignés](#scot-alignement) · [Éviter les plots et recevoir le ballon](#au-ufos)
+
+**Lutte (3) :** [Duel debout pour avancer](#ffr-lutte-avancer) · [Les gazelles](#ffr-gazelles-atelier) · [Protège-ballon](#ffr-protege-atelier)
+
+**Plaquage (1) :** [Plaquage et libération](#ffr-plaquage-atelier)
+
+**Équilibre et postures (5) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Équilibre du flamant](#munster-flamant)
+
+**Ramassage du ballon (19) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chercher les espaces libres](#ffr-espaces2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Le ballon répond au signal](#au-familiarisation) · [Les œufs dans les nids](#rc-eggs) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Ramasser puis transmettre](#ffr-ramasser) · [Ramasser, porter et reposer](#nz-pick-place) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
+
+**Coordination (8) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Manipulations autour du corps](#nz-awareness) · [Marche du singe à trois appuis](#scot-monkey) · [Ramper comme un crocodile](#scot-crocodile) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Tennis à la main](#scot-tennis)
+
+**Course (19) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Duel long](#ffr-duellong-atelier) · [La chasse aux rubans](#rc-taggrab) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs dans les nids](#rc-eggs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec essai](#scot-relais) · [Tag mania et délivrance](#rc-tagmania) · [Traverser face aux chasseurs](#rc-bulldog)
+
+**Conservation du ballon (5) :** [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Dix passes - variante communautaire documentee](#rc-ten) · [Le joueur au milieu](#rc-piggy) · [Quatre passeurs contre un intercepteur](#rc-four-one)
+
+### Formes de jeu
+
+**Relais (10) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+
+**Poursuite et délivrance (35) :** [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+
+**Duel (13) :** [Chat et souris autour d’une forme](#au-cat-mouse) · [Duel debout pour avancer](#ffr-lutte-avancer) · [Duel d’évitement en couloir](#nz-evading-player) · [Duel long](#ffr-duellong-atelier) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre l’ombre du porteur](#nz-shadow) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
+
+**Circulation et transmission (28) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Ramasser puis transmettre](#ffr-ramasser) · [Rebondir et échanger en binôme](#rc-bounce) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis à la main](#scot-tennis) · [Transmettre en trottinant](#ffr-transmettre) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+
+**Opposition collective (30) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
+
+**Parcours (7) :** [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Ramasser, porter et reposer](#nz-pick-place) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Slalomer dans la chaîne de partenaires](#au-chain-relay)
+
+**Collecte de ballons (3) :** [Carré 2](#ffr-carre2-atelier) · [Les œufs dans les nids](#rc-eggs) · [Rapporter les trésors par une passe](#au-nest-pass)
+
+**Surnombre (7) :** [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Le joueur au milieu](#rc-piggy) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
+
+**Motricité individuelle (15) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Ramper comme un crocodile](#scot-crocodile) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
+
+<a id="controle"></a>
+## Doublons et informations manquantes
+
+Relecture des 16 rapprochements enregistrés et contrôle exhaustif des déroulements identiques. Ne certifie pas l’absence de doublons sémantiques dans tout le corpus.
+
+11175 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
+
+Neuf fiches complétées en points coach après relecture des archives locales ; les neuf descriptions insuffisantes restent à part. Les autres champs absents ne sont pas déclarés introuvables : leur relecture exhaustive reste à poursuivre.
+
+- Variantes conservées séparément : [rc-four-one](#rc-four-one) / [rc-piggy](#rc-piggy) — Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.
+- Variantes conservées séparément : [imagine-depth-running](#imagine-depth-running) / [rc-lateral-three](#rc-lateral-three) — Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.
+- Doublon probable — ne pas compter comme nouveauté : [imagine-depth-running](#imagine-depth-running) / [wr-chain-reaction](#wr-chain-reaction) — Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.
+- Rapprochement non résolu : [nz-corner](#nz-corner) / [scot-corner](#scot-corner) — Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+- Variantes conservées séparément : [rc-aliens](#rc-aliens) / [rc-capture-aliens](#rc-capture-aliens) — Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+- Variantes conservées séparément : [rc-calling-pairs](#rc-calling-pairs) / [rc-pairs](#rc-pairs) — Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+- Rapprochement non résolu : [rc-capture-aliens](#rc-capture-aliens) / [scot-corner](#scot-corner) — Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+- Variantes conservées séparément : [rc-chaos-touch](#rc-chaos-touch) / [rc-netball](#rc-netball) — Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+- Variantes conservées séparément : [rc-four-one](#rc-four-one) / [wr-keep-ball](#wr-keep-ball) — Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+- Variantes conservées séparément : [rc-lateral-three](#rc-lateral-three) / [wr-passing-relays](#wr-passing-relays) — Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
+- Variantes conservées séparément : [rc-triangle](#rc-triangle) / [wr-chain-reaction](#wr-chain-reaction) — Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.
+- Variantes conservées séparément : [rc-two-one](#rc-two-one) / [wr-tag-2v1](#wr-tag-2v1) — Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.
+- Rapprochement non résolu : [rc-team-scarecrow](#rc-team-scarecrow) / [scot-corner](#scot-corner) — Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
+- Rapprochement non résolu : [munster-hunters](#munster-hunters) / [scot-corner](#scot-corner) — Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.
+- Variantes conservées séparément : [wr-follow-leader](#wr-follow-leader) / [wr-pass-support](#wr-pass-support) — Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+- Variantes conservées séparément : [wr-formation](#wr-formation) / [wr-pass-support](#wr-pass-support) — Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
+
+<a id="fiches"></a>
+## Toutes les fiches
+
+<a id="au-pop-race"></a>
 ## Aller au sol puis transmettre au soutien
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Relais
 
-**Tags proposés :** Passe · Coopération · Relais
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Continuité au sol et soutien, sans adversaire qui plaque.**
+**Famille :** Passes en binôme et soutien · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Groupes de trois entre deux lignes.
 
-**Matériel :** Huit plots et un ballon par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Maîtriser et distribuer le ballon en équipe.
+
+**Matériel — source :** Huit plots et un ballon par groupe
+
+**Effectif minimum — source :** 3
+
+**Effectif maximum — source :** 3
+
+**Espace — source :** Deux lignes distantes d’environ 20 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Groupes de trois entre deux lignes.
+
+**Déroulement — source :** Le premier avance ; au signal tackle il va au sol et aplatit, se tourne sur le côté puis fait une petite passe au suivant. Répéter pour les trois.
+
+**Consignes — source :** Attendre le signal ; transmettre depuis le côté au partenaire proche.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
 
 **Adaptation U8 proposée :** Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Score the Try and Pop Race — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**À décider pour la séance :**
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-**Objectifs :** Maîtriser et distribuer le ballon en équipe.
+**Source principale :** [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Rugby Australia ; Score the Try and Pop Race — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-**Organisation :** Groupes de trois entre deux lignes.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-**Déroulement :** Le premier avance ; au signal tackle il va au sol et aplatit, se tourne sur le côté puis fait une petite passe au suivant. Répéter pour les trois.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Attendre le signal ; transmettre depuis le côté au partenaire proche.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-pop-race-source ; Score the Try and Pop Race — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Détails extraits le 2026-09-10 — Score the Try and Pop Race — Description, Coaching Outcome, Change It.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Espace source :** Deux lignes distantes d’environ 20 m
+</details>
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+[Retour aux catégories](#categories)
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+---
 
+<a id="ffr-dos-postures"></a>
 ## Alterner trois formes du dos
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
-
-**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Enfant à quatre pattes.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8 — Atelier 2 · consultée le 2026-09-06
+**Objectif — source :** Alterner dos plat, creux et rond.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Aucun
 
-**Objectifs :** Alterner dos plat, creux et rond.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Enfant à quatre pattes.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Alterner dos plat, creux puis rond.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Réaliser successivement les trois postures.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Enfant à quatre pattes.
 
+**Déroulement — source :** Alterner dos plat, creux puis rond.
+
+**Consignes — source :** Réaliser successivement les trois postures.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 2. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : ffr-famille ; PDF page 8 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 8 — Atelier 2 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-endzone"></a>
 ## Atteindre la zone opposée
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-
-**passe · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+**Famille :** Jeux à zones de marque · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Atteindre la zone adverse en courant ou passant.
 
-**Matériel :** Plots, chasubles et ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 22 (pagination fichier) · consultée le 2026-09-07
+**Objectif — source :** Atteindre la zone adverse en courant ou passant.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Plots, chasubles et ballon
 
-**Objectifs :** Atteindre la zone adverse en courant ou passant.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes équilibrées ; une zone de marque à chaque extrémité.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 22, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Deux équipes équilibrées ; une zone de marque à chaque extrémité.
 
+**Déroulement — source :** Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.
+
+**Consignes — source :** Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 22 (pagination fichier). Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Matériel : scot-primary ; PDF page 22, fiche complète ; 2026-09-08
+- Consignes : scot-primary ; PDF page 22, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-tagmatch"></a>
 ## Avancer et passer avant le tag
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Soutien · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Soutien · Coopération · Opposition collective
-
-**jeu collectif · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Jeux à zones de marque · **Âge source :** Non précisé
 
 Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la passe avant le tag et relance rapidement pour solliciter soutien et replacement. Les délais de passe de cette vidéo sont propres à ce jeu.
 
-**Matériel :** Ballon, rubans et chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Trouver des espaces et soutenir pour marquer.
+
+**Matériel — historique non réexaminé :** Ballon, rubans et chasubles
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes de tag et deux directions de marque opposées.
+
+**Déroulement — source :** Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.
+
+**Consignes — source :** La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
 
 **Adaptation U8 proposée :** Adapter les règles au cadre de ton club ; encourager le soutien sans imposer une passe systématique lorsqu’un espace libre permet d’avancer.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Trouver des espaces et soutenir pour marquer.
+**Source principale :** [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Deux équipes de tag et deux directions de marque opposées.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention : rc-tagmatch ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
 
-**Consignes :** La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+</details>
 
-**Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
+[Retour aux catégories](#categories)
 
+---
+
+<a id="nz-follow"></a>
 ## Binômes guidés par le signal du coach
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Prise d’information
 
-**Tags proposés :** Réaction au signal · Prise d’information
-
-**prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+**Famille :** Passes en binôme et soutien · **Âge source :** Under 7 (classement Rugby Toolbox)
 
 Deux partenaires échangent ; un seul voit le coach.
 
-**Matériel :** Un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2 — Par binôme ; plusieurs binômes possibles
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+**Objectif — source :** Développer la communication et la réaction au signal.
 
-**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+**Matériel — source :** Un ballon par binôme
 
-**Objectifs :** Développer la communication et la réaction au signal.
+**Effectif minimum — source :** 2
 
-**Organisation :** Deux partenaires échangent ; un seul voit le coach.
+**Effectif maximum — source :** 2
 
-**Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
+**Espace — source :** Grand espace, partenaires à environ un mètre
 
-**Consignes :** Rester proches et communiquer pour suivre le signal.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Organisation — source :** Deux partenaires échangent ; un seul voit le coach.
 
-**Points coach issus de la source :** Communiquer et rester proches.
+**Déroulement — source :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
 
-**Espace source :** Grand espace, partenaires à environ un mètre
+**Consignes — source :** Rester proches et communiquer pour suivre le signal.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Communiquer et rester proches.
+
+**Périmètre de l’effectif :** Par binôme ; plusieurs binômes possibles
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-follow-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Points d’attention : nz-follow-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Consignes : nz-follow-source ; DRILL EXPLANATION et DRILL SET-UP ; 2026-09-09
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-follow-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-kangaroo"></a>
 ## Bonds de kangourou vers l’avant
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Départ en demi-flexion.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Kangaroo Hop · consultée le 2026-09-07
+**Objectif — proposition IA :** Coordonner impulsion et réception équilibrée lors de bonds successifs.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Aucun
 
-**Organisation :** Départ en demi-flexion.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Bondir haut et loin, réceptionner en demi-flexion puis recommencer.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Revenir en demi-flexion à chaque réception.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Départ en demi-flexion.
+
+**Déroulement — source :** Bondir haut et loin, réceptionner en demi-flexion puis recommencer.
+
+**Consignes — source :** Revenir en demi-flexion à chaque réception.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Kangaroo Hop. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Kangaroo Hop ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-kick-chase"></a>
 ## Botter, récupérer et marquer
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Jeu au pied · Ramassage du ballon · Course
 
-**Tags proposés :** Jeu au pied · Ramassage du ballon · Course
-
-**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Coup de pied puis récupération et essai ; différent du slalom en conduite.**
+**Famille :** Jeu et conduite au pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Joueurs alignés avec chacun un ballon.
 
-**Matériel :** Douze plots et un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Kick Chase — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Développer contrôle et précision au pied.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Douze plots et un ballon par joueur
 
-**Objectifs :** Développer contrôle et précision au pied.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Joueurs alignés avec chacun un ballon.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.
+**Espace — source :** Deux lignes à environ 10 m
 
-**Consignes :** Choisir et contrôler la longueur du coup de pied.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Kick Chase — Description, Coaching Outcome, Change It.
+**Organisation — source :** Joueurs alignés avec chacun un ballon.
 
-**Espace source :** Deux lignes à environ 10 m
+**Déroulement — source :** Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Consignes — source :** Choisir et contrôler la longueur du coup de pied.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Critères de réussite — information manquante :** non extrait
 
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Rugby Australia ; Kick Chase — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-chase-source ; Kick Chase — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-capture-aliens"></a>
 ## Capturer les extraterrestres par la passe
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Chasse collective par passes · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Coopérer pour toucher les fuyards au ballon.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Coopérer pour toucher les fuyards au ballon.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballon et plots
 
-**Objectifs :** Coopérer pour toucher les fuyards au ballon.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Organisation — source :** Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.
 
+**Déroulement — source :** Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.
+
+**Consignes — source :** Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Variantes conservées séparément :** [Les extraterrestres](#rc-aliens). Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](#scot-corner). Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+
+**Comparaison éditoriale complémentaire :** [nz-corner](#nz-corner) — Sortie puis retour sur ballon tombé contre conversion en chasseur.
+
+**Source principale :** [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Matériel : rc-capture-aliens-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-carre-atelier"></a>
 ## Carré
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Manipulation du ballon
 
-**Tags proposés :** Manipulation du ballon
-
-**manipulation · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Manipulation et coordination individuelle · **Âge source :** M8
 
 Déplacements et manipulation, avec travail d’équilibre et d’observation.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Varier les déplacements et manipulations en travaillant équilibre et posture.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Carré · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Varier les déplacements et manipulations en travaillant équilibre et posture.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Observer les autres et l’espace ; surveiller les mains sur le ballon.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Observer les autres et l’espace ; surveiller les mains sur le ballon.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Carré. Vérification documentaire : 2026-09-07.
+
+**Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tlu). Association issue des annotations, visionnage non validé par l’assistant.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-carre2-atelier"></a>
 ## Carré 2
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
 
-**Tags proposés :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
-
-**motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Collecte de ballons · **Âge source :** M8
 
 Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Carré 2 · consultée le 2026-09-07
+**Objectif — source :** Éviter, ramasser puis marquer.
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Matériel — information manquante :** non extrait
 
-**Objectifs :** Éviter, ramasser puis marquer.
+**Effectif minimum — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Effectif maximum — information manquante :** non extrait
 
-**Points coach issus de la source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
+**Espace — information manquante :** non extrait
 
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — observation utilisateur :** Trois groupes de cinq à six enfants environ, chacun avec son camp ; ballons au centre ; numéros attribués aux enfants dans chaque groupe.
+
+**Déroulement — observation utilisateur :** Au numéro appelé, les enfants correspondants prennent un ballon au centre et le rapportent dans leur camp. Les appels se succèdent rapidement.; Lorsque le centre est vide, tous peuvent prendre des ballons dans les camps adverses et les rapporter dans le leur, un ballon à la fois.
+
+**Consignes — observation utilisateur :** Ne pas empêcher les voleurs de venir prendre les ballons.; Transporter un seul ballon à la fois.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
+
+**Repères coach proposés par IA :** L’enfant rapporte un seul ballon à la fois et laisse les autres prendre les ballons librement. Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp.
+
+**Observation utilisateur :** Vidéo décrite par utilisateur ; non visionnée par assistant ; aucune validation pédagogique implicite
+
+**Incertitudes rapportées :** Numérotation décrite de 1 à 5, alors que les groupes pourraient comprendre six enfants : nombre exact non confirmé.; Fin de jeu et désignation du vainqueur non précisées.; Dimensions et nombre total de ballons inconnus ; durée prescrite inconnue malgré environ 30 secondes observées.
+
+**Temps observé :** approx_seconds : 30; scope : Durée évoquée lors de la description de la seconde phase ; périmètre exact non confirmé; is_prescribed_duration : False — ne constitue pas une durée prescrite.
+
+[Vidéo décrite par l’utilisateur](https://www.dailymotion.com/video/x842tna)
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Carré 2. Vérification documentaire : 2026-09-07.
+
+**Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tna). Association issue des annotations, visionnage non validé par l’assistant.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Organisation, Déroulement, Consignes : ffr-carre2-user-observation-20260916 ;  ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-circle-jump"></a>
 ## Cercle de passes avec demi-tours sautés
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coordination · Circulation et transmission
 
-**Tags proposés :** Passe · Coordination · Circulation et transmission
-
-**coordination · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la dernière progression, chaque passe est suivie de demi-tours sautés avant la réception suivante. Le coach rapproche les plots lorsque les passes deviennent difficiles.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Video Subtitles — dernière progression · consultée le 2026-09-07
+**Objectif — source :** Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon et plots
 
-**Objectifs :** Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs en cercle, chacun sur un plot.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Joueurs en cercle, chacun sur un plot.
 
-**Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
+**Déroulement — source :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
 
+**Consignes — source :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — historique non réexaminé :** Se rendre disponible à nouveau après le changement d’orientation.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — RugbyCoaching.tv ; Video Subtitles — dernière progression. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : rc-circle-jump-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-circle-jump-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-protect-circle"></a>
 ## Cercle solidaire contre un poursuivant
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Coopération · Poursuite et délivrance
 
-**Tags proposés :** Coopération · Poursuite et délivrance
-
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Protection collective d’une cible · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.
 
-**Matériel :** Aucun matériel pour cette situation
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–6
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Video Subtitles — première situation en cercle · consultée le 2026-09-07
+**Objectif — source :** Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Aucun matériel pour cette situation
 
-**Objectifs :** Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.
+**Effectif minimum — historique non réexaminé :** 6
 
-**Organisation :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
+**Effectif maximum — historique non réexaminé :** 6
 
-**Déroulement :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
 
+**Déroulement — source :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
+
+**Consignes — source :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — RugbyCoaching.tv ; Video Subtitles — première situation en cercle. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : rc-protect-circle-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-protect-circle-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-multidirection"></a>
 ## Changer de ligne d’essai
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Prise d’information · Opposition collective
 
-**Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
-
-**prise d’information · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site)
 
 Le coach annonce une couleur qui change la ligne visée par l’équipe en possession. Les équipes se réorganisent. La vidéo ajoute une pause de quatre secondes au défenseur après toucher.
 
-**Matériel :** Ballon et repères colorés
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Réagir à un changement de cible.
+
+**Matériel — historique non réexaminé :** Ballon et repères colorés
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Équipes en opposition, lignes repérées par couleur.
+
+**Déroulement — source :** La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.
+
+**Consignes — source :** Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Commencer avec deux directions et une annonce entre les actions. Introduire le changement pendant le jeu seulement après compréhension.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Réagir à un changement de cible.
+**Source principale :** [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Équipes en opposition, lignes repérées par couleur.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.
+- Objectif, Organisation, Déroulement, Consignes : rc-multidirection ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
 
-**Consignes :** Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-changing-defender"></a>
 ## Chaque passe change le défenseur
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-
-**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé, adéquation U8 à valider
 
 Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
-**Matériel :** Ballon et plots ; rubans pour la situation de capture
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer, soutenir, maintenir la continuité et marquer.
 
-**Effectif :** 5–5 — par groupe
+**Matériel — source :** Ballon et plots ; rubans pour la situation de capture
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Decision Making - 4 v 1 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 30 × 10 m
 
-**Objectifs :** Avancer, soutenir, maintenir la continuité et marquer.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
+**Organisation — source :** Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
-**Déroulement :** Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.
+**Déroulement — source :** Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.
 
-**Consignes :** Après capture du ruban, passer en arrière au soutien.
+**Consignes — source :** Après capture du ruban, passer en arrière au soutien.
 
-Détails extraits le 2026-09-16 — Decision Making - 4 v 1 — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Imposer au moins deux passes en arrière avant de marquer complique l’attaque ; élargir le couloir la facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 30 × 10 m
+**Points d’attention — source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Imposer au moins deux passes en arrière avant de marquer complique l’attaque ; élargir le couloir la facilite.
 
-## Chasse à la frite avec délivrance par la main
+**Périmètre de l’effectif :** par groupe
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Decision Making - 4 v 1. Vérification documentaire : 2026-09-08.
 
-**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Decision Making - 4 v 1 ; 2026-09-10
+- Points d’attention : wr-noncontact ; Decision Making - 4 v 1 — Difficulty ; Coaching points conservés ; 2026-09-16
 
-Deux chasseurs avec frites, autres joueurs avec ballon.
+3 révision(s) conservée(s) dans les données de l’application.
 
-**Matériel :** Deux frites et six à huit ballons
+</details>
 
-**Durée atelier :** Non renseignée
+[Retour aux catégories](#categories)
 
-**Effectif :** 10–10
+---
 
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — DRILL EXPLANATION · consultée le 2026-09-09
-
-**Accès :** Description publique consultée
-
-**Objectifs :** Travailler l’évitement.
-
-**Organisation :** Deux chasseurs avec frites, autres joueurs avec ballon.
-
-**Déroulement :** Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.
-
-**Consignes :** Les chasseurs cherchent à immobiliser tous les joueurs.
-
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
-
-**Espace source :** 15 × 10 m
-
-## Chasse à la frite avec délivrance par passe
-
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
-
-**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
-
-Même chasse ; le joueur touché pose son ballon à ses pieds.
-
-**Matériel :** Deux frites et six à huit ballons
-
-**Durée atelier :** Non renseignée
-
-**Effectif :** 10–10
-
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — DRILL EXPLANATION — progression Noodle tag 2 · consultée le 2026-09-09
-
-**Accès :** Description publique consultée
-
-**Objectifs :** Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.
-
-**Organisation :** Même chasse ; le joueur touché pose son ballon à ses pieds.
-
-**Déroulement :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
-
-**Consignes :** Reprendre l’évitement après délivrance.
-
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
-
-**Espace source :** 15 × 10 m
-
+<a id="ffr-tresors2023"></a>
 ## Chasse aux trésors — parcours
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Ramassage du ballon · Course · Relais · Parcours
 
-**Tags proposés :** Motricité · Ramassage du ballon · Course · Relais · Parcours
-
-**motricité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Parcours et relais avec ballon · **Âge source :** M8
 
 Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suivant part après l’essai ou la chute du ballon.
 
-**Matériel :** Plots, cerceaux, piquets ; quantité de ballons ambiguë
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 12–12
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 70 · consultée le 2026-09-07
+**Objectif — source :** Comprendre et réaliser l’avancée.
 
-**Accès :** PDF public consulté
+**Matériel — historique non réexaminé :** Plots, cerceaux, piquets ; quantité de ballons ambiguë
 
-**Objectifs :** Comprendre et réaliser l’avancée.
+**Effectif minimum — historique non réexaminé :** 12
 
-**Organisation :** Deux équipes de six, parcours et réserve centrale.
+**Effectif maximum — historique non réexaminé :** 12
 
-**Déroulement :** Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Ballon tombé : trésor perdu ; réaliser correctement le parcours.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Compter les trésors rapportés dans la cachette.
+**Organisation — source :** Deux équipes de six, parcours et réserve centrale.
 
-Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisation et lancement.
+**Déroulement — source :** Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.
 
-**Information source contradictoire :** Matériel : 5 ; récit : 6.
+**Consignes — source :** Ballon tombé : trésor perdu ; réaliser correctement le parcours.
 
+**Critères de réussite — source :** Compter les trésors rapportés dans la cachette.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Contradictions documentaires :** Matériel : 5 ; récit : 6.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 70. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite : ffr-plan2023 ; PDF page 70 (pagination fichier), organisation et lancement ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-corner"></a>
 ## Chasse collective avec retour après ballon tombé
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-
-**coopération · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+**Famille :** Chasse collective par passes · **Âge source :** Under 7 (classement Rugby Toolbox)
 
 Deux équipes dans le carré ; le porteur reste immobile.
 
-**Matériel :** Un ballon et quatre plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–20 — Total réparti en deux équipes
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+**Objectif — source :** Accélérer les échanges de passes dans un jeu collectif.
 
-**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+**Matériel — source :** Un ballon et quatre plots
 
-**Objectifs :** Accélérer les échanges de passes dans un jeu collectif.
+**Effectif minimum — source :** 10
 
-**Organisation :** Deux équipes dans le carré ; le porteur reste immobile.
+**Effectif maximum — source :** 20
 
-**Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
+**Espace — source :** Carré de 10 × 10 m
 
-**Consignes :** Le porteur reste immobile ; ne pas sortir du carré.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Organisation — source :** Deux équipes dans le carré ; le porteur reste immobile.
 
-**Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
+**Déroulement — source :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
 
-**Espace source :** Carré de 10 × 10 m
+**Consignes — source :** Le porteur reste immobile ; ne pas sortir du carré.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Se concentrer sur une cible et offrir un soutien proche.
+
+**Périmètre de l’effectif :** Total réparti en deux équipes
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](#scot-corner). Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+**Comparaison éditoriale complémentaire :** [rc-capture-aliens](#rc-capture-aliens) — Sortie puis retour sur ballon tombé contre conversion en chasseur.
+
+**Source principale :** [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-corner-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Points d’attention : nz-corner-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Consignes : nz-corner-source ; DRILL EXPLANATION et DRILL SET-UP ; 2026-09-09
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-corner-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-find-space"></a>
 ## Chasse et arrêt dans un espace libre
 
-**Planifier l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-
-**évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Initiation Get Into Rugby ; âge précis non indiqué
 
 Chasse et arrêt dans un espace libre
 
-**Matériel :** Source pour six ateliers : six ballons et douze plots
+**Durée pour préparer l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Exercer une pression défensive.
 
-**Effectif :** 5–5 — Par atelier ; source organisée en six ateliers parallèles
+**Matériel — historique non réexaminé :** Source pour six ateliers : six ballons et douze plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — historique non réexaminé :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Section Find the Space · consultée le 2026-09-08
+**Effectif maximum — historique non réexaminé :** 5
 
-**Accès :** Texte public consulté
+**Espace — historique non réexaminé :** 5 × 5 m par atelier
 
-**Objectifs :** Exercer une pression défensive.
+**Durée de l’atelier — historique non réexaminé :** 6
 
-**Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
+**Organisation — source :** Cinq joueurs : un chasseur et quatre fuyards.
 
-**Déroulement :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
+**Déroulement — source :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
 
-**Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
+**Consignes — source :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
 
-**Critères de réussite :** Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.
+**Critères de réussite — source :** Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.
 
-Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching points.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Changer le chasseur après une minute.
+**Points d’attention — source :** Changer le chasseur après une minute.
 
-**Espace source :** 5 × 5 m par atelier
+**Périmètre de l’effectif :** Par atelier ; source organisée en six ateliers parallèles
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
 
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Find the Space. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Find the Space — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Points d’attention : wr-noncontact ; Section Find the Space ; 2026-09-08
+- Critères de réussite : wr-noncontact ; Find the Space — How to play / Coaching points ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-pairs-tag"></a>
 ## Chasse par binômes avec changement de rôle
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Évitement · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
-
-**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.**
+**Famille :** Chasse collective par passes · **Âge source :** Initiation ; âge non précisé, adéquation U8 à valider
 
 Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Soutenir, assurer la continuité et mettre sous pression.
 
-**Effectif :** 10–10 — par groupe
+**Matériel — source :** Ballon et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 10
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pairs Tag · consultée le 2026-09-08
+**Effectif maximum — source :** 10
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 20 m
 
-**Objectifs :** Soutenir, assurer la continuité et mettre sous pression.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Un binôme chasseur avec ballon ; autres binômes dans le carré.
+**Organisation — source :** Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
-**Déroulement :** Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.
+**Déroulement — source :** Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.
 
-**Consignes :** Porteur immobile ; passes dans toutes les directions.
+**Consignes — source :** Porteur immobile ; passes dans toutes les directions.
 
-Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 20 × 20 m
+**Points d’attention — source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite.
 
+**Périmètre de l’effectif :** par groupe
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pairs Tag. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Pairs Tag ; 2026-09-10
+- Points d’attention : wr-noncontact ; Pairs Tag — Difficulty ; Coaching points conservés ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-noodle-highfive"></a>
+## Chasse à la frite avec délivrance par la main
+
+**Catégories proposées :** Évitement · Coopération · Poursuite et délivrance
+
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Under 7 (classement du site)
+
+Deux chasseurs avec frites, autres joueurs avec ballon.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Travailler l’évitement.
+
+**Matériel — historique non réexaminé :** Deux frites et six à huit ballons
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 10
+
+**Espace — historique non réexaminé :** 15 × 10 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Deux chasseurs avec frites, autres joueurs avec ballon.
+
+**Déroulement — source :** Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.
+
+**Consignes — source :** Les chasseurs cherchent à immobiliser tous les joueurs.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-noodle-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-noodle-source ; DRILL EXPLANATION ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-noodle-pass"></a>
+## Chasse à la frite avec délivrance par passe
+
+**Catégories proposées :** Passe · Évitement · Coopération · Poursuite et délivrance
+
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Under 7 (classement du site)
+
+Même chasse ; le joueur touché pose son ballon à ses pieds.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.
+
+**Matériel — historique non réexaminé :** Deux frites et six à huit ballons
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 10
+
+**Espace — historique non réexaminé :** 15 × 10 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Même chasse ; le joueur touché pose son ballon à ses pieds.
+
+**Déroulement — source :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
+
+**Consignes — source :** Reprendre l’évitement après délivrance.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION — progression Noodle tag 2. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-noodle-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-noodle-source ; DRILL EXPLANATION — progression Noodle tag 2 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-corner"></a>
 ## Chasseurs passeurs par trois
 
-**Planifier l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-
-**passe · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Chasse collective par passes · **Âge source :** Primaire (Écosse)
 
 Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — source :** Travailler réception, passe et évitement.
 
-**Effectif :** Non renseigné
+**Matériel — information manquante :** non extrait
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — information manquante :** non extrait
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 20 · consultée le 2026-09-07
+**Effectif maximum — information manquante :** non extrait
 
-**Accès :** PDF public consulté
+**Espace — information manquante :** non extrait
 
-**Objectifs :** Travailler réception, passe et évitement.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Organisation :** Chasseurs par trois, un ballon par trio.
+**Organisation — source :** Chasseurs par trois, un ballon par trio.
 
-**Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
+**Déroulement — source :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
 
-**Consignes :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
+**Consignes — source :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
 
-Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK et texte de la carte.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+**Points d’attention — source :** Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.
 
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Rapprochement non résolu :** [Chasse collective avec retour après ballon tombé](#nz-corner). Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+**Rapprochement non résolu :** [Capturer les extraterrestres par la passe](#rc-capture-aliens). Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+
+**Rapprochement non résolu :** [Épouvantails — chasseurs passeurs](#rc-team-scarecrow). Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
+
+**Rapprochement non résolu :** [Chasseurs qui se passent le ballon](#munster-hunters). Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.
+
+**Comparaison éditoriale complémentaire :** [rc-team-scarecrow](#rc-team-scarecrow) — Conserver séparément. Chasseurs par trois dans Scottish Rugby, changements par paires dans les sous-titres RugbyCoaching. Sort du joueur touché insuffisamment décrit pour prouver une équivalence.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 20. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : scot-primary ; PDF page 20, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 20 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 20 ; 2026-09-09
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="munster-hunters"></a>
 ## Chasseurs qui se passent le ballon
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-
-**coopération · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Chasse collective par passes · **Âge source :** Primaire / mini-rugby
 
 Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Course, passes, évitement et coopération.
+
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Carré de 20 mètres ; chasseurs avec un ballon.
+
+**Déroulement — source :** Passes entre chasseurs pour toucher ; proies capturées en prison.
+
+**Consignes — source :** Terminer lorsque toutes les proies sont capturées.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 11 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Course, passes, évitement et coopération.
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](#scot-corner). Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.
 
-**Organisation :** Carré de 20 mètres ; chasseurs avec un ballon.
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 11. Vérification documentaire : 2026-09-06.
 
-**Déroulement :** Passes entre chasseurs pour toucher ; proies capturées en prison.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Terminer lorsque toutes les proies sont capturées.
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 11 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-Détails extraits le 2026-09-16 — PDF page 11 (numérotation 1-based) — Game Card, How to play.
+1 révision(s) conservée(s) dans les données de l’application.
 
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-roll-tig"></a>
 ## Chat : libérer en roulant le ballon
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Manipulation du ballon · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Manipulation du ballon · Poursuite et délivrance
-
-**évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 15 — Roll the ball tig · consultée le 2026-09-07
+**Objectif — proposition IA :** Repérer un partenaire immobilisé et contrôler un ballon roulé pour le délivrer.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Ballon
 
-**Organisation :** Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Le joueur touché forme un tunnel avec ses jambes ; un partenaire fait rouler le ballon entre elles puis le ramasse.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Le passage du ballon délivre le joueur immobilisé.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 15 — Roll the ball tig.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
+
+**Déroulement — source :** Le joueur touché forme un tunnel avec ses jambes ; un partenaire fait rouler le ballon entre elles puis le ramasse.
+
+**Consignes — source :** Le passage du ballon délivre le joueur immobilisé.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Roll the ball tig. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 15 — Roll the ball tig ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-chaos-tig"></a>
 ## Chat chaos : délivré quand son chasseur est pris
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-
-**évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Tous les joueurs sont chasseurs.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 15 — Chaos Tig · consultée le 2026-09-07
+**Objectif — proposition IA :** Observer les autres joueurs et réagir aux changements de statut dans une poursuite.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Organisation :** Tous les joueurs sont chasseurs.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Chercher à rester le dernier en mouvement ; un joueur touché se fige à genoux.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Revenir dans le jeu lorsque la personne qui vous a touché est elle-même touchée.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 15 — Chaos Tig.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Tous les joueurs sont chasseurs.
+
+**Déroulement — source :** Chercher à rester le dernier en mouvement ; un joueur touché se fige à genoux.
+
+**Consignes — source :** Revenir dans le jeu lorsque la personne qui vous a touché est elle-même touchée.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Chaos Tig. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : scot-primary ; PDF page 15 — Chaos Tig ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-animal"></a>
 ## Chat et déplacements animaux
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Motricité · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Motricité · Poursuite et délivrance
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Reprendre le jeu après un déplacement animal.
 
-**Matériel :** Plots et chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 17 (pagination fichier) · consultée le 2026-09-07
+**Objectif — source :** Reprendre le jeu après un déplacement animal.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Plots et chasubles
 
-**Objectifs :** Reprendre le jeu après un déplacement animal.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.
 
+**Déroulement — source :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
+
+**Consignes — source :** Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 17 (pagination fichier). Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Matériel : scot-primary ; PDF page 17, fiche complète ; 2026-09-08
+- Consignes : scot-primary ; PDF page 17, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-cat-mouse"></a>
 ## Chat et souris autour d’une forme
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
 
-**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Binômes ; une forme géométrique en plots attribuée à chacun.
 
-**Matériel :** Vingt-quatre plots pour le dispositif source
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) — Cat and Mouse — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Appuis, agilité et déplacement.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Vingt-quatre plots pour le dispositif source
 
-**Objectifs :** Appuis, agilité et déplacement.
+**Effectif minimum — source :** 2
 
-**Organisation :** Binômes ; une forme géométrique en plots attribuée à chacun.
+**Effectif maximum — source :** 2
 
-**Déroulement :** Le chat poursuit la souris autour de la forme.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Rester à l’extérieur de la forme et utiliser des appuis rapides.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Cat and Mouse — Description, Coaching Outcome, Change It.
+**Organisation — source :** Binômes ; une forme géométrique en plots attribuée à chacun.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Le chat poursuit la souris autour de la forme.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Rester à l’extérieur de la forme et utiliser des appuis rapides.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Cat and Mouse](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) — Rugby Australia ; Cat and Mouse — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-cat-mouse-source ; Cat and Mouse — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-espaces2023"></a>
 ## Chercher les espaces libres
 
-**Planifier l’atelier :** Manche documentée : 8 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+**Catégories proposées :** Réaction au signal · Prise d’information · Ramassage du ballon
 
-**Tags proposés :** Réaction au signal · Prise d’information · Ramassage du ballon
-
-**prise d’information · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Réaction et course en duel · **Âge source :** M8
 
 Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.
 
-**Matériel :** 4 ballons, plots, chasubles
+**Durée pour préparer l’atelier :** Manche documentée : 8 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — source :** Avancer pour marquer rapidement.
 
-**Effectif :** 12–12
+**Matériel — historique non réexaminé :** 4 ballons, plots, chasubles
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — historique non réexaminé :** 12
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 66 · consultée le 2026-09-07
+**Effectif maximum — historique non réexaminé :** 12
 
-**Accès :** PDF public consulté
+**Espace — historique non réexaminé :** 15 × 15 m ; camps 3 × 3 m
 
-**Objectifs :** Avancer pour marquer rapidement.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Organisation :** Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres.
+**Organisation — source :** Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres.
 
-**Déroulement :** Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur.
+**Déroulement — source :** Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur.
 
-**Consignes :** Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte.
+**Consignes — source :** Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte.
 
-Détails extraits le 2026-09-16 — PDF page 66.
+**Critères de réussite — information manquante :** non extrait
 
-**Espace source :** 15 × 15 m ; camps 3 × 3 m
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Manche source :** 8 secondes ; durée totale inconnue.
+**Points d’attention — information manquante :** non extrait
 
+**Durée d’une manche dans la source :** 8 secondes ; distincte de la durée totale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 66. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2023 ; PDF page 66 ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-five-walls"></a>
 ## Cinq attaquants face à cinq rideaux successifs
 
-**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Évitement · Opposition collective
 
-**Tags proposés :** Évitement · Opposition collective
-
-**évitement et opposition · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé
 
 Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer, soutenir, maintenir la continuité et exercer une pression défensive.
 
-**Effectif :** 15–15 — par couloir : dix attaquants en deux groupes et cinq défenseurs
+**Matériel — source :** Ballons et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 15
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Passing - 5 v 1 x 5 — organisation et déroulement · consultée le 2026-09-08
+**Effectif maximum — source :** 15
 
-**Accès :** Texte public consulté
+**Espace — source :** 30 × 20 m
 
-**Objectifs :** Avancer, soutenir, maintenir la continuité et exercer une pression défensive.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
+**Organisation — source :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
 
-**Déroulement :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
+**Déroulement — source :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
 
-**Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
+**Consignes — source :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-16 — Passing - 5 v 1 x 5 — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur. Réglages proposés par la source : Autoriser les défenseurs à avancer et reculer complique ; les espacer de dix mètres facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 30 × 20 m
+**Points d’attention — source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur. Réglages proposés par la source : Autoriser les défenseurs à avancer et reculer complique ; les espacer de dix mètres facilite.
 
+**Périmètre de l’effectif :** par couloir : dix attaquants en deux groupes et cinq défenseurs
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 1 x 5 — organisation et déroulement. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Passing - 5 v 1 x 5 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Passing - 5 v 1 x 5 — organisation et déroulement ; 2026-09-09
+- Points d’attention : wr-noncontact ; Passing - 5 v 1 x 5 — Difficulty ; Coaching points conservés ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-memory"></a>
 ## Circuit de passes mémorisé
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
 
-**Tags proposés :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
-
-**mémoire et manipulation · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
 Joueurs assis en cercle.
 
-**Matériel :** Ballons ; un au départ
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 5–15
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/memory) — DRILL EXPLANATION · consultée le 2026-09-09
+**Objectif — source :** Travailler la manipulation du ballon en mémorisant son destinataire.
 
-**Accès :** Description publique consultée
+**Matériel — historique non réexaminé :** Ballons ; un au départ
 
-**Objectifs :** Travailler la manipulation du ballon en mémorisant son destinataire.
+**Effectif minimum — historique non réexaminé :** 5
 
-**Organisation :** Joueurs assis en cercle.
+**Effectif maximum — historique non réexaminé :** 15
 
-**Déroulement :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
+**Espace — historique non réexaminé :** Cercle, joueurs espacés d’un mètre
 
-**Consignes :** Communiquer et éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Joueurs assis en cercle.
 
-**Espace source :** Cercle, joueurs espacés d’un mètre
+**Déroulement — source :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
 
+**Consignes — source :** Communiquer et éviter les collisions.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements.
+
+**Repères coach proposés par IA :** Chaque enfant retrouve le destinataire prévu dans le circuit mémorisé. Distinguer une erreur de mémorisation d’une difficulté de transmission.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-memory-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-memory-source ; DRILL EXPLANATION ; 2026-09-09
+- Points d’attention : nz-memory-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-pied"></a>
 ## Conduire le ballon au pied
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Jeu au pied
 
-**Tags proposés :** Jeu au pied
-
-**jeu au pied · âge source : M8 · Source consultée — validation terrain à faire**
+**Famille :** Jeu et conduite au pied · **Âge source :** M8
 
 Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 10, atelier 2 · consultée le 2026-09-06
+**Objectif — source :** Contrôler le ballon des deux pieds.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Contrôler le ballon des deux pieds.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Un ballon ; zone cible délimitée.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Progresser en conduisant, puis atteindre la zone.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Utiliser pied droit et gauche.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Un ballon ; zone cible délimitée.
 
+**Déroulement — source :** Progresser en conduisant, puis atteindre la zone.
+
+**Consignes — source :** Utiliser pied droit et gauche.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 10, atelier 2. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 10 — atelier correspondant ; pagination fichier ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-ground-pass"></a>
 ## Conserver après avoir touché le sol
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Conservation du ballon · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
-
-**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de conservation : contact au sol obligatoire, délai et interdiction de remise immédiate.**
+**Famille :** Conservation et interception · **Âge source :** Under 7 (classement du site)
 
 Deux équipes de six à douze dans le carré.
 
-**Matériel :** Un ballon, dix à douze plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 12–24 — total des deux équipes ; six à douze par équipe
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — Touch the Ground Pass — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Communiquer, se déplacer dans les espaces et manipuler le ballon.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon, dix à douze plots
 
-**Objectifs :** Communiquer, se déplacer dans les espaces et manipuler le ballon.
+**Effectif minimum — source :** 12
 
-**Organisation :** Deux équipes de six à douze dans le carré.
+**Effectif maximum — source :** 24
 
-**Déroulement :** Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.
+**Espace — source :** 15 × 15 m
 
-**Consignes :** Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Principles of play.
+**Organisation — source :** Deux équipes de six à douze dans le carré.
 
-**Espace source :** 15 × 15 m
+**Déroulement — source :** Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.
 
+**Consignes — source :** Porteur immobile, trois secondes maximum, pas de retour au passeur ; défense à un mètre. Chute ou interception : changer de possession.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Le porteur recherche deux ou trois solutions de passe. Encourager les échanges verbaux et l’utilisation de toute l’aire de jeu.
+
+**Périmètre de l’effectif :** total des deux équipes ; six à douze par équipe
+
+**Repères coach proposés par IA :** Le porteur touche le sol avec le ballon avant de transmettre à un partenaire disponible. Vérifier que la contrainte de toucher le sol n’efface pas la recherche d’une solution de passe.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — New Zealand Rugby — Rugby Toolbox ; Touch the Ground Pass — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-ground-pass-source ; Touch the Ground Pass — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-ground-pass-source ; Touch the Ground Pass — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-ground-pass-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-keep-ball"></a>
 ## Conserver par dix passes sans interception
 
-**Planifier l’atelier :** 5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
 
-**Tags proposés :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+**Famille :** Conservation et interception · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Quatre passeurs contre un défenseur.
 
-**Matériel :** Un ballon par atelier ; plots pour délimiter
+**Durée pour préparer l’atelier :** 5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 5 min
+**Objectif — source :** Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.
 
-**Effectif :** 5–5 — par atelier
+**Matériel — historique non réexaminé :** Un ballon par atelier ; plots pour délimiter
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Keep Ball · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 5 × 5 m
 
-**Objectifs :** Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.
+**Durée de l’atelier — source :** 5
 
-**Organisation :** Quatre passeurs contre un défenseur.
+**Organisation — source :** Quatre passeurs contre un défenseur.
 
-**Déroulement :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
+**Déroulement — source :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
 
-**Consignes :** Pas d’interception ni de passe au-dessus de la tête.
+**Consignes — source :** Pas d’interception ni de passe au-dessus de la tête.
 
-**Critères de réussite :** Réussir dix passes collectivement avant la reprise du décompte.
+**Critères de réussite — source :** Réussir dix passes collectivement avant la reprise du décompte.
 
-Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite.
+**Points d’attention — source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite.
 
-**Espace source :** 5 × 5 m
+**Périmètre de l’effectif :** par atelier
 
+**Variantes conservées séparément :** [Quatre passeurs contre un intercepteur](#rc-four-one). Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+**Comparaison éditoriale complémentaire :** [rc-four-one](#rc-four-one) — Toucher du porteur sans interception contre défense par interception.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Keep Ball. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Keep Ball — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Keep Ball ; 2026-09-08
+- Critères de réussite : wr-noncontact ; Keep Ball — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; Keep Ball — Difficulty ; Coaching points conservés ; 2026-09-16
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-two-balls"></a>
 ## Coordonner deux ballons
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Passe · Manipulation du ballon · Circulation et transmission
 
-**Tags proposés :** Passe · Manipulation du ballon · Circulation et transmission
-
-**manipulation · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** U7 (classement du site)
 
 Un joueur alterne les échanges avec deux ballons circulant sur des trajets différents. Rapprocher les partenaires et installer le rythme avant d’accélérer.
 
-**Matériel :** Deux ballons
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Coordonner les échanges de deux ballons.
+
+**Matériel — historique non réexaminé :** Deux ballons
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — information manquante :** non extrait
+
+**Déroulement — source :** Alterner deux circuits de passe ; installer le rythme avant d’accélérer.
+
+**Consignes — source :** Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges.
 
 **Adaptation U8 proposée :** Démarrer avec un seul ballon ; ajouter le second seulement après réussite. Faire tourner le rôle central.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Coordonner les échanges de deux ballons.
+**Relecture des manques :** Les sous-titres désignent les circuits par « ici/là » sans décrire les positions : organisation non récupérable dans ce texte.
 
-**Déroulement :** Alterner deux circuits de passe ; installer le rythme avant d’accélérer.
+**Comparaison éditoriale complémentaire :** [rc-triangle](#rc-triangle) — La fiche triangle sélectionne passe puis assis-relevé ; la fiche deux ballons sélectionne deux circuits simultanés. Tâches distinctes. La ressource du triangle montre aussi un passage multiballon : ne pas recompter ce passage sans comparaison.
 
-**Consignes :** Présenter une cible avec les mains ; rapprocher les partenaires si nécessaire.
+**Source principale :** [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+**Référence complémentaire :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie. La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
 
-**Points coach issus de la source :** Montrer les mains comme cible ; rapprocher les joueurs avant d’accélérer les échanges.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Variante sourcée complémentaire :** La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
+- Objectif, Déroulement, Consignes : rc-two-balls ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
+- Points d’attention : rc-two-balls ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-[RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie
+2 révision(s) conservée(s) dans les données de l’application.
 
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-colour-two"></a>
 ## Couleur appelée : deux chasseurs contre un
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite : le joueur nommé fuit et subit deux poursuivants.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.
 
-**Matériel :** Trois plots colorés et deux plots d’arrivée
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Colour Tag — reverse roles — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Se déplacer dans l’espace et développer l’agilité.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Trois plots colorés et deux plots d’arrivée
 
-**Objectifs :** Se déplacer dans l’espace et développer l’agilité.
+**Effectif minimum — source :** 3
 
-**Organisation :** Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.
+**Effectif maximum — source :** 3
 
-**Déroulement :** À la couleur annoncée, le joueur le plus proche du plot devient fuyard ; les deux autres tentent de le toucher avant l’arrivée.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Réagir au changement de rôle ; éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Colour Tag — reverse roles — Description, Coaching Outcome, Change It.
+**Organisation — source :** Trio en ronde horaire autour des plots colorés ; une ligne d’arrivée.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** À la couleur annoncée, le joueur le plus proche du plot devient fuyard ; les deux autres tentent de le toucher avant l’arrivée.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Réagir au changement de rôle ; éviter les collisions.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Colour Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Rugby Australia ; Colour Tag — reverse roles — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-colour-tag-source ; Colour Tag — reverse roles — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-colour-tag"></a>
 ## Couleur appelée : un chasseur contre deux
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.
 
-**Matériel :** Trois plots colorés et deux plots d’arrivée par trio
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Colour Tag — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Repérer l’espace et réagir rapidement.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Trois plots colorés et deux plots d’arrivée par trio
 
-**Objectifs :** Repérer l’espace et réagir rapidement.
+**Effectif minimum — source :** 3
 
-**Organisation :** Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.
+**Effectif maximum — source :** 3
 
-**Déroulement :** Au signal de couleur, le joueur le plus proche du plot devient chasseur ; les deux autres rejoignent la ligne.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Tourner dans le sens horaire ; changer les modes de déplacement pendant la ronde.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Colour Tag — Description, Coaching Outcome, Change It.
+**Organisation — source :** Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Au signal de couleur, le joueur le plus proche du plot devient chasseur ; les deux autres rejoignent la ligne.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Tourner dans le sens horaire ; changer les modes de déplacement pendant la ronde.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Colour Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Rugby Australia ; Colour Tag — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-colour-tag-source ; Colour Tag — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-cpf"></a>
 ## Coup franc pour soi
 
-**Planifier l’atelier :** 15 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Jeu au pied
 
-**Tags proposés :** Jeu au pied
-
-**jeu au pied · âge source : M8 · Archive documentée — règles actuelles à vérifier**
+**Famille :** Jeu et conduite au pied · **Âge source :** M8
 
 Maîtriser la remise en jeu et partir dans un espace libre.
 
-**Matériel :** Plots, ballons, chasubles
+**Durée pour préparer l’atelier :** 15 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 15 min
+**Objectif — source :** Maîtriser le coup franc et repérer l’espace libre.
 
-**Effectif :** 4–4
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — historique non réexaminé :** 4
+
+**Effectif maximum — historique non réexaminé :** 4
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — historique non réexaminé :** 15
+
+**Organisation — source :** Quatre joueurs face à face ; losange et plot central.
+
+**Déroulement — source :** Au signal, travailler en aller-retour.
+
+**Consignes — source :** Ballon à deux mains ; augmenter progressivement la vitesse.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.
 
-[Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 71 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Maîtriser le coup franc et repérer l’espace libre.
+**Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 71. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Quatre joueurs face à face ; losange et plot central.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Au signal, travailler en aller-retour.
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 71 — atelier correspondant ; pagination fichier ; 2026-09-16
 
-**Consignes :** Ballon à deux mains ; augmenter progressivement la vitesse.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-16 — PDF page 71 — atelier correspondant ; pagination fichier.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-rounders"></a>
 ## Course autour des bases contre trois passes
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Ramassage du ballon · Course
 
-**Tags proposés :** Passe · Coopération · Ramassage du ballon · Course
-
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Texte source consulté ; validation terrain non effectuée.**
+**Famille :** Course contre échanges adverses · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Un coureur tente de boucler son parcours avant trois passes adverses.
 
-**Matériel :** Ballon ; bases à matérialiser
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — Video Subtitles : consignes du parcours et des trois passes · consultée le 2026-09-07
+**Objectif — source :** Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — historique non réexaminé :** Ballon ; bases à matérialiser
 
-**Objectifs :** Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.
 
+**Déroulement — source :** Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.
+
+**Consignes — source :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — RugbyCoaching.tv ; Video Subtitles : consignes du parcours et des trois passes. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : rc-rounders-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-rounders-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-fruit-salad"></a>
 ## Course dans le tunnel des fruits
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Course · Parcours
 
-**Tags proposés :** Réaction au signal · Course · Parcours
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Écouter, anticiper et réagir en évitant les autres.
+
+**Matériel — source :** Aucun
+
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
+
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
+
+**Espace — information manquante :** non indiqué dans le passage examiné
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
+
+**Déroulement — source :** Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.
+
+**Consignes — source :** Enjamber les jambes des partenaires sans les heurter.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition IA : commencer en marchant et espacer les paires pour éviter de marcher sur les jambes ; à valider par le coach.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Fruit Salad — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**À décider pour la séance :**
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Écouter, anticiper et réagir en évitant les autres.
+**Source principale :** [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Rugby Australia ; Fruit Salad — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-**Organisation :** Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-**Déroulement :** Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Enjamber les jambes des partenaires sans les heurter.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-fruit-salad-source ; Fruit Salad — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Détails extraits le 2026-09-10 — Fruit Salad — Description, Coaching Outcome, Change It.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+</details>
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+[Retour aux catégories](#categories)
 
+---
+
+<a id="nz-numbers-race"></a>
 ## Course numérotée avec deux ballons
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Ramassage du ballon · Course
 
-**Tags proposés :** Réaction au signal · Ramassage du ballon · Course
-
-**course · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Deux lignes face à face ; cinq binômes numérotés.
 
-**Matériel :** Deux ballons
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–10 — par groupe
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Sprinter et ramasser un ballon.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Deux ballons
 
-**Objectifs :** Sprinter et ramasser un ballon.
+**Effectif minimum — source :** 10
 
-**Organisation :** Deux lignes face à face ; cinq binômes numérotés.
+**Effectif maximum — source :** 10
 
-**Déroulement :** Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit.
+**Espace — source :** 15 × 10 m
 
-**Consignes :** Courir chacun avec son ballon vers l’extrémité opposée.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-08 — Description et paramètres du jeu.
+**Organisation — source :** Deux lignes face à face ; cinq binômes numérotés.
 
-**Espace source :** 15 × 10 m
+**Déroulement — source :** Au numéro appelé, les deux joueurs ramassent chacun un ballon et courent marquer à l’autre extrémité. Appeler un autre numéro pour repartir de cet endroit.
 
+**Consignes — source :** Courir chacun avec son ballon vers l’extrémité opposée.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-numbers-race-source ; Description et paramètres du jeu ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="imagine-depth-running"></a>
 ## Créer la profondeur par des départs en postures décalées
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-
-**passe et soutien · âge source : Intermédiaire ; âge non précisé · Durée source : 10–15 minutes. Validation U8 non effectuée. Comparaison éditoriale : même famille que les passes en progression, départs corporels distincts organisant la profondeur.**
+**Famille :** Passes en progression collective · **Âge source :** Intermédiaire ; âge non précisé
 
 Quatre passeurs partent de postures différentes pour former une ligne en profondeur.
 
-**Matériel :** Ballons et huit cônes
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 4–4 — Par vague ; plusieurs vagues possibles
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Construire la profondeur et l’espace de la ligne offensive.
+
+**Matériel — historique non réexaminé :** Ballons et huit cônes
+
+**Effectif minimum — historique non réexaminé :** 4
+
+**Effectif maximum — historique non réexaminé :** 4
+
+**Espace — historique non réexaminé :** 20 × 20 yards
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos.
+
+**Déroulement — source :** Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file.
+
+**Consignes — source :** Passer latéralement ou en arrière.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Montrer les mains et accompagner la passe vers sa cible. Ralentir ou décaler les cônes si la profondeur manque.
+
+**Périmètre de l’effectif :** Par vague ; plusieurs vagues possibles
 
 **Adaptation U8 proposée :** Proposition IA : commencer à allure lente ; vérifier que chacun se relève aisément avant de poursuivre.
 
-[Source : Imagine Rugby / Youth Rugby Initiative](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026 · consultée le 2026-09-14
+**À décider pour la séance :**
 
-**Accès :** Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-**Objectifs :** Construire la profondeur et l’espace de la ligne offensive.
+**Variantes conservées séparément :** [Passes latérales en vagues de trois](#rc-lateral-three). Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.
 
-**Organisation :** Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos.
+**Doublon probable — ne pas compter comme nouveauté :** [Passes après départs dans cinq postures](#wr-chain-reaction). Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.
 
-**Déroulement :** Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file.
+**Source principale :** [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Imagine Rugby / Youth Rugby Initiative ; Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026. Vérification documentaire : 2026-09-14.
 
-**Consignes :** Passer latéralement ou en arrière.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-16 — Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026.
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention : imagine-games-source ; Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026 ; 2026-09-16
 
-**Points coach issus de la source :** Montrer les mains et accompagner la passe vers sa cible. Ralentir ou décaler les cônes si la profondeur manque.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Espace source :** 20 × 20 yards
+</details>
 
-## Déplacement à quatre appuis
+[Retour aux catégories](#categories)
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+---
 
-**Tags proposés :** Motricité · Motricité individuelle
-
-**motricité · âge source : M8 · Source consultée — validation terrain à faire**
-
-Parcourir cinq mètres à quatre pattes, dos horizontal.
-
-**Matériel :** Aucun
-
-**Durée atelier :** Non renseignée
-
-**Effectif :** Non renseigné
-
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8, atelier 3 · consultée le 2026-09-06
-
-**Accès :** PDF public, texte consulté
-
-**Objectifs :** Avancer en maintenant le dos horizontal.
-
-**Organisation :** Trajet de cinq mètres.
-
-**Déroulement :** Marcher à quatre pattes.
-
-**Consignes :** Conserver le dos plat.
-
-Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
-
-## Déplacement du crabe
-
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-**Tags proposés :** Motricité · Coordination · Motricité individuelle
-
-**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
-
-Mains et pieds au sol.
-
-**Matériel :** Non renseigné
-
-**Durée atelier :** Non renseignée
-
-**Effectif :** Non renseigné
-
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
-
-**Accès :** PDF public consulté
-
-**Organisation :** Mains et pieds au sol.
-
-**Déroulement :** Se déplacer en crabe, hanches relevées.
-
-**Consignes :** Maintenir le bassin haut, comme une table.
-
-Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
-
-## Déplacement du gorille
-
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-**Tags proposés :** Motricité · Coordination · Motricité individuelle
-
-**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
-
-Mains et pieds au sol.
-
-**Matériel :** Non renseigné
-
-**Durée atelier :** Non renseignée
-
-**Effectif :** Non renseigné
-
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
-
-**Accès :** PDF public consulté
-
-**Organisation :** Mains et pieds au sol.
-
-**Déroulement :** Prendre appui sur les mains pour rapprocher les pieds, puis avancer les mains.
-
-**Consignes :** Déplacer les mains ensemble, puis les pieds ensemble.
-
-Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
-
+<a id="wr-tag-2v1"></a>
 ## Deux contre un avec passes libres au départ
 
-**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
-
-**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé par World Rugby
 
 Deux attaquants affrontent un défenseur ; groupe de cinq.
 
-**Matériel :** Un ballon par groupe ; plots et rubans
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Exercer une pression défensive.
 
-**Effectif :** 5–5 — par atelier, attentes comprises
+**Matériel — historique non réexaminé :** Un ballon par groupe ; plots et rubans
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 2 v 1 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Deux attaquants affrontent un défenseur ; groupe de cinq.
+**Organisation — source :** Deux attaquants affrontent un défenseur ; groupe de cinq.
 
-**Déroulement :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
+**Déroulement — source :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
 
-**Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
+**Consignes — source :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-**Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
+**Critères de réussite — source :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
 
-Détails extraits le 2026-09-16 — 2 v 1 — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
+**Points d’attention — source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
 
-**Espace source :** 10 × 10 m
+**Périmètre de l’effectif :** par atelier, attentes comprises
 
-**Famille proposée :** surnombre-rubans
+**Variantes conservées séparément :** [Deux contre un sans contact](#rc-two-one). Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.
 
+**Comparaison éditoriale complémentaire :** [rc-two-one](#rc-two-one) — Rubans et passes libres au départ contre défense simulée et soutien en retrait.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 2 v 1. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; 2 v 1 — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; 2 v 1 ; 2026-09-09
+- Critères de réussite : wr-noncontact ; 2 v 1 — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; 2 v 1 — Difficulty ; Coaching points conservés ; 2026-09-16
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-two-one"></a>
 ## Deux contre un sans contact
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Surnombre
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Surnombre
-
-**passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** U7 (classement du site)
 
 Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien reste derrière le porteur pour recevoir sans passe en avant.
 
-**Matériel :** Ballon ; couloir à matérialiser
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Passer malgré la présence d’un défenseur.
+
+**Matériel — historique non réexaminé :** Ballon ; couloir à matérialiser
+
+**Effectif minimum — historique non réexaminé :** 3
+
+**Effectif maximum — historique non réexaminé :** 3
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux attaquants face à un défenseur simulé.
+
+**Déroulement — source :** Avancer et transmettre au soutien ; enchaîner les passages.
+
+**Consignes — source :** Aucun contact ; le soutien garde de la profondeur.
+
+**Critères de réussite — source :** Rester en profondeur pour permettre une passe sans passe en avant.
+
+**Erreurs fréquentes — source :** Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.
+
+**Points d’attention — source :** Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.
 
 **Adaptation U8 proposée :** Défenseur d’abord immobile, puis marchant. Alterner les trois rôles et chercher une passe courte.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Regard du porteur et profondeur du soutien.; duration_min : 8; easier : Défenseur immobile.; harder : Défenseur marchant, toucher sans plaquer.; players_max : 9; players_min : 6; setup : Deux ou trois trios ; un ballon par trio.; steps : Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage.
 
-**Objectifs :** Passer malgré la présence d’un défenseur.
+**Repères coach proposés par IA :** Le porteur transmet à son soutien lorsqu’il devient disponible face au défenseur. Observer le choix entre avancer et passer, et pas seulement le nombre de passes.
 
-**Organisation :** Deux attaquants face à un défenseur simulé.
+**À décider pour la séance :**
 
-**Déroulement :** Avancer et transmettre au soutien ; enchaîner les passages.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Consignes :** Aucun contact ; le soutien garde de la profondeur.
+**Variantes conservées séparément :** [Deux contre un avec passes libres au départ](#wr-tag-2v1). Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.
 
-**Critères de réussite :** Rester en profondeur pour permettre une passe sans passe en avant.
+**Comparaison éditoriale complémentaire :** [wr-tag-2v1](#wr-tag-2v1) — Rubans et passes libres au départ contre défense simulée et soutien en retrait.
 
-**Erreurs fréquentes :** Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.
+**Source principale :** [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Points coach issus de la source :** Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.
+- Objectif, Organisation, Déroulement, Consignes : rc-two-one ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Erreurs fréquentes, Points d’attention : rc-two-one ; Description et Video Subtitles, avant Up Next In Playlist ; 2026-09-08
 
-### Proposition terrain U8 — à valider
+2 révision(s) conservée(s) dans les données de l’application.
 
-8 min · 6 à 9 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+</details>
 
-**Installation :** Deux ou trois trios ; un ballon par trio.
+[Retour aux catégories](#categories)
 
-**Déroulement :** Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage.
+---
 
-**À observer :** Regard du porteur et profondeur du soutien.
-
-**Plus simple :** Défenseur immobile.
-
-**Plus difficile :** Défenseur marchant, toucher sans plaquer.
-
+<a id="rc-ten"></a>
 ## Dix passes - variante communautaire documentee
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Conservation du ballon · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
-
-**passe · âge source : U8 (classement du site) · Variante Sportplan documentee ; video initiale incomplete**
+**Famille :** Conservation et interception · **Âge source :** U8 (classement du site)
 
 Objectif annoncé : se rendre disponible sans ballon et communiquer avec le porteur. Le déroulement n’est pas documenté dans le texte consulté.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique · consultée le 2026-09-06
+**Objectif — source :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
 
-**Accès :** Description publique seulement ; déroulement non vérifié
+**Matériel — information manquante :** non extrait
 
-**Objectifs :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation — Variante Sportplan Community :** Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement — Variante Sportplan Community :** Enchaîner dix passes sans chute ni interception.
+**Espace — information manquante :** non extrait
 
-**Consignes — Variante Sportplan Community :** Les défenseurs restent à au moins un mètre du porteur.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite — Variante Sportplan Community :** Réussir dix passes consécutives.
+**Organisation — source :** Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.
 
-Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contribution, après article général.
+**Déroulement — source :** Enchaîner dix passes sans chute ni interception.
 
-**Points coach issus de la source :** Encourager la communication, les déplacements sans ballon et les passes courtes et précises.
+**Consignes — source :** Les défenseurs restent à au moins un mètre du porteur.
 
-**Variante sourcée complémentaire :** Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
+**Critères de réussite — source :** Réussir dix passes consécutives.
 
-[Sportplan Community](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION
+**Erreurs fréquentes — information manquante :** non extrait
 
+**Points d’attention — source :** Encourager la communication, les déplacements sans ballon et les passes courtes et précises.
+
+**Repères coach proposés par IA :** L’équipe conserve le ballon en proposant des solutions au porteur. Repérer les joueurs immobiles et les passes tentées à travers un intercepteur.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Comparaison éditoriale complémentaire :** [rc-four-one](#rc-four-one) — Sportplan décrit deux équipes et une distance défensive minimale ; quatre-contre-un décrit quatre passeurs et un intercepteur. Cible de dix passes commune, identité non démontrée. Conserver séparément avec périmètre Sportplan explicite.
+
+**Source principale :** [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — RugbyCoaching.tv ; Description publique. Vérification documentaire : 2026-09-06.
+
+**Référence complémentaire :** [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION. Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : rc-ten ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
+- Organisation, Déroulement, Consignes, Critères de réussite, Points d’attention : sportplan-ten ; DESCRIPTION et COACHING POINTS de la contribution, après article général ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-lutte-avancer"></a>
 ## Duel debout pour avancer
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Lutte · Duel
 
-**Tags proposés :** Lutte · Duel
-
-**opposition et soutien · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Lutte et contact · **Âge source :** M8
 
 Deux enfants debout dans une zone.
 
-**Matériel :** Objets pour délimiter
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 9 — Atelier 4 · consultée le 2026-09-06
+**Objectif — source :** Avancer face à un adversaire debout.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Objets pour délimiter
 
-**Objectifs :** Avancer face à un adversaire debout.
+**Effectif minimum — historique non réexaminé :** 2
 
-**Organisation :** Deux enfants debout dans une zone.
+**Effectif maximum — historique non réexaminé :** 2
 
-**Déroulement :** Mains sur les épaules adverses, chercher à avancer au signal.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Rester dans la zone du duel.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Deux enfants debout dans une zone.
 
+**Déroulement — source :** Mains sur les épaules adverses, chercher à avancer au signal.
+
+**Consignes — source :** Rester dans la zone du duel.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 4. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : ffr-famille ; PDF page 9 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 9 — Atelier 4 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-evading-player"></a>
 ## Duel d’évitement en couloir
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Duel
 
-**Tags proposés :** Évitement · Duel
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel positionné, défenseur sur ligne ; distinct des départs réactifs avec ramassage.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
 
-**Matériel :** Un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Battre un adversaire en un contre un.
+
+**Matériel — source :** Un ballon par binôme
+
+**Effectif minimum — source :** 2
+
+**Effectif maximum — source :** 2
+
+**Espace — source :** 22 × 15 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
+
+**Déroulement — source :** Déborder le défenseur en restant dans le couloir ; alterner le côté de départ.
+
+**Consignes — source :** Le coach choisit le mode défensif : la source permet le toucher à deux mains.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition IA : toucher à deux mains, sans plaquage, raffut ni coup de pied ; à confirmer par le coach.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — Evading the Player — organisation et déroulement · consultée le 2026-09-09
+**À décider pour la séance :**
 
-**Accès :** Description publique consultée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-**Objectifs :** Battre un adversaire en un contre un.
+**Source principale :** [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — New Zealand Rugby — Rugby Toolbox ; Evading the Player — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-**Organisation :** Un attaquant avec ballon face à un défenseur placé sur une ligne transversale.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Déborder le défenseur en restant dans le couloir ; alterner le côté de départ.
+- Objectif : nz-evading-player-source ; Evading the Player — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-evading-player-source ; Evading the Player — organisation et déroulement ; 2026-09-09
 
-**Consignes :** Le coach choisit le mode défensif : la source permet le toucher à deux mains.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-10 — Evading the Player — Objective / Principles of play.
+</details>
 
-**Espace source :** 22 × 15 m
+[Retour aux catégories](#categories)
 
+---
+
+<a id="ffr-duellong-atelier"></a>
 ## Duel long
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Course · Duel
 
-**Tags proposés :** Course · Duel
-
-**déplacement · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Réaction et course en duel · **Âge source :** M8
 
 Course vers la marque avec poursuite ; distances et lancement à compléter.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Sprinter, s’orienter, marquer et poursuivre pour toucher.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositive 3 — Duel long · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Sprinter, s’orienter, marquer et poursuivre pour toucher.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Travailler l’accélération et un aplatissement maîtrisé.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Travailler l’accélération et un aplatissement maîtrisé.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duel long. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-3-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-duels-atelier"></a>
 ## Duels et soutien
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Soutien · Coopération
 
-**Tags proposés :** Soutien · Coopération
-
-**coopération · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** M8
 
 Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Accélérer et feinter pour marquer ; soutenir le porteur.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositive 3 — Duels et soutien · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Accélérer et feinter pour marquer ; soutenir le porteur.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Porter à deux mains ; faire converger le soutien vers le porteur.
+**Organisation — information manquante :** non extrait
 
-## Épouvantails avec délivrance
+**Déroulement — information manquante :** non extrait
 
-**Planifier l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Consignes — information manquante :** non extrait
 
-**Tags proposés :** Évitement · Poursuite et délivrance
+**Critères de réussite — information manquante :** non extrait
 
-**évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
+**Erreurs fréquentes — information manquante :** non extrait
 
-Épouvantails avec délivrance
+**Points d’attention — source :** Porter à deux mains ; faire converger le soutien vers le porteur.
 
-**Matériel :** Source pour six ateliers : six ballons et douze plots
+**À décider pour la séance :**
 
-**Durée atelier :** 5 min
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
 
-**Effectif :** 5–5 — Par atelier ; source organisée en six ateliers parallèles
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Source principale :** [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duels et soutien. Vérification documentaire : 2026-09-07.
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Section Scarecrow Tag · consultée le 2026-09-08
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Accès :** Texte public consulté
+- Objectif, Points d’attention : ffr-atelier-4-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
 
-**Objectifs :** Exercer une pression défensive.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
+</details>
 
-**Déroulement :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
+[Retour aux catégories](#categories)
 
-**Consignes :** Toucher à deux mains à la taille sans pousser.
+---
 
-Détails extraits le 2026-09-16 — Scarecrow Tag — Difficulty ; Coaching points conservés.
+<a id="munster-crabe"></a>
+## Déplacement du crabe
 
-**Points coach issus de la source :** Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite.
+**Catégories proposées :** Motricité · Coordination · Motricité individuelle
 
-**Espace source :** 5 × 5 m par atelier
+**Famille :** Motricité et postures · **Âge source :** Primaire / mini-rugby ; âge précis non indiqué
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+Mains et pieds au sol.
 
-## Épouvantails — chasseurs passeurs
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.
+**Objectif — proposition IA :** Coordonner les déplacements en appui sur les mains et les pieds.
 
-**Matériel :** Ballon
+**Matériel — information manquante :** non extrait
 
-**Durée atelier :** Non renseignée
+**Effectif minimum — information manquante :** non extrait
 
-**Effectif :** Non renseigné
+**Effectif maximum — information manquante :** non extrait
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Espace — information manquante :** non extrait
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description / Video Subtitles · consultée le 2026-09-07
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Organisation — source :** Mains et pieds au sol.
 
-**Organisation :** Plusieurs chasseurs coopèrent avec un ballon.
+**Déroulement — source :** Se déplacer en crabe, hanches relevées.
 
-**Déroulement :** Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.
+**Consignes — source :** Maintenir le bassin haut, comme une table.
 
-**Consignes :** Le porteur ne court pas.
+**Critères de réussite — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
+**Points d’attention — information manquante :** non extrait
 
-## Équilibre du flamant
+**À décider pour la séance :**
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
-**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Debout sur un pied, autre genou devant.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : munster-fms ; PDF page 15 — Teaching Cues ; 2026-09-09
 
-**Matériel :** Non renseigné
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Durée atelier :** Non renseignée
+</details>
 
-**Effectif :** Non renseigné
+[Retour aux catégories](#categories)
 
-**Adaptation U8 proposée :** Aucune rédigée.
+---
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+<a id="munster-gorille"></a>
+## Déplacement du gorille
 
-**Accès :** PDF public consulté
+**Catégories proposées :** Motricité · Coordination · Motricité individuelle
 
-**Organisation :** Debout sur un pied, autre genou devant.
+**Famille :** Motricité et postures · **Âge source :** Primaire / mini-rugby ; âge précis non indiqué
 
-**Déroulement :** Changer rapidement de pied puis immobiliser la posture.
+Mains et pieds au sol.
 
-**Consignes :** Se figer après le changement.
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-## Éviter les plots et recevoir le ballon
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-**Tags proposés :** Réception · Évitement · Prise d’information
+**Objectif — proposition IA :** Enchaîner appuis des mains et rapprochement des pieds.
 
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.**
+**Matériel — information manquante :** non extrait
 
-Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.
+**Effectif minimum — information manquante :** non extrait
 
-**Matériel :** Quarante plots et six ballons pour le dispositif source
+**Effectif maximum — information manquante :** non extrait
 
-**Durée atelier :** Non renseignée
+**Espace — information manquante :** non extrait
 
-**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Adaptation U8 proposée :** Proposition IA : uniquement des coupelles souples envoyées au ras du sol, sans viser le visage ; éducateur à proximité. À valider avant utilisation.
+**Organisation — source :** Mains et pieds au sol.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) — UFOs — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Déroulement — source :** Prendre appui sur les mains pour rapprocher les pieds, puis avancer les mains.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Consignes — source :** Déplacer les mains ensemble, puis les pieds ensemble.
 
-**Objectifs :** Appuis, agilité et vision.
+**Critères de réussite — information manquante :** non extrait
 
-**Organisation :** Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Déroulement :** Éviter les plots envoyés par les partenaires ; recevoir le ballon lorsqu’une passe arrive. Faire passer chacun au centre.
+**Points d’attention — information manquante :** non extrait
 
-**Consignes :** Garder le regard disponible pour repérer obstacles et ballon.
+**À décider pour la séance :**
 
-Détails extraits le 2026-09-10 — UFOs — Description, Coaching Outcome, Change It.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
 
-**Espace source :** Petit carré ; partenaires à environ 2 m
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : munster-fms ; PDF page 15 — Teaching Cues ; 2026-09-09
 
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-appuis"></a>
+## Déplacement à quatre appuis
+
+**Catégories proposées :** Motricité · Motricité individuelle
+
+**Famille :** Motricité et postures · **Âge source :** M8
+
+Parcourir cinq mètres à quatre pattes, dos horizontal.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
+
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Avancer en maintenant le dos horizontal.
+
+**Matériel — historique non réexaminé :** Aucun
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trajet de cinq mètres.
+
+**Déroulement — source :** Marcher à quatre pattes.
+
+**Consignes — source :** Conserver le dos plat.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8, atelier 3. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 8 — atelier correspondant ; pagination fichier ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-monster"></a>
 ## Fentes alternées du monstre
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Motricité individuelle
 
-**Tags proposés :** Motricité · Motricité individuelle
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Debout, bras levés à largeur d’épaules, mains en griffes.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Monster Lunge · consultée le 2026-09-07
+**Objectif — proposition IA :** Contrôler une succession de fentes alternées.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Aucun
 
-**Organisation :** Debout, bras levés à largeur d’épaules, mains en griffes.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Faire une fente en avant puis recommencer avec l’autre jambe.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Maintenir l’équilibre pendant la fente.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 16 — Monster Lunge.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Debout, bras levés à largeur d’épaules, mains en griffes.
+
+**Déroulement — source :** Faire une fente en avant puis recommencer avec l’autre jambe.
+
+**Consignes — source :** Maintenir l’équilibre pendant la fente.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Monster Lunge. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Monster Lunge ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-follow-leader"></a>
 ## File avec transmission au nouveau meneur
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Soutien · Manipulation du ballon · Circulation et transmission
 
-**Tags proposés :** Soutien · Manipulation du ballon · Circulation et transmission
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Cinq joueurs en file suivent le porteur.
 
-**Matériel :** Un ballon par atelier ; plots pour délimiter
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Soutenir le porteur.
 
-**Effectif :** 5–5 — par atelier
+**Matériel — historique non réexaminé :** Un ballon par atelier ; plots pour délimiter
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Follow the Leader · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 5 × 5 m
 
-**Objectifs :** Soutenir le porteur.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Cinq joueurs en file suivent le porteur.
+**Organisation — source :** Cinq joueurs en file suivent le porteur.
 
-**Déroulement :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
+**Déroulement — source :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
 
-**Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
+**Consignes — source :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-16 — Follow the Leader — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 5 × 5 m
+**Points d’attention — source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
+**Périmètre de l’effectif :** par atelier
+
+**Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](#wr-pass-support). Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Follow the Leader. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Follow the Leader — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Follow the Leader ; 2026-09-08
+- Points d’attention : wr-noncontact ; Follow the Leader — Difficulty ; Coaching points conservés ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-walls-212"></a>
 ## Franchir trois rideaux disposés en 2–1–2
 
-**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-
-**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé, adéquation U8 à valider
 
 Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer, soutenir et maintenir la continuité.
 
-**Effectif :** 15–15 — par couloir : dix attaquants et cinq défenseurs
+**Matériel — source :** Ballons et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 15
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Passing - 5 v 2 v 1 v 2 · consultée le 2026-09-08
+**Effectif maximum — source :** 15
 
-**Accès :** Texte public consulté
+**Espace — source :** 30 × 20 m
 
-**Objectifs :** Avancer, soutenir et maintenir la continuité.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
+**Organisation — source :** Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
 
-**Déroulement :** Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.
+**Déroulement — source :** Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.
 
-**Consignes :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
+**Consignes — source :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
 
-Détails extraits le 2026-09-16 — Passing - 5 v 2 v 1 v 2 — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher. Réglages proposés par la source : Complexifier : libérer les déplacements défensifs ou laisser choisir leur disposition. Simplifier : espacer les lignes de dix mètres ou faire marcher les défenseurs.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 30 × 20 m
+**Points d’attention — source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher. Réglages proposés par la source : Complexifier : libérer les déplacements défensifs ou laisser choisir leur disposition. Simplifier : espacer les lignes de dix mètres ou faire marcher les défenseurs.
 
+**Périmètre de l’effectif :** par couloir : dix attaquants et cinq défenseurs
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 2 v 1 v 2. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Passing - 5 v 2 v 1 v 2 ; 2026-09-10
+- Points d’attention : wr-noncontact ; Passing - 5 v 2 v 1 v 2 — Difficulty ; Coaching points conservés ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-gagne"></a>
 ## Gagne-terrain
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-
-**jeu collectif · âge source : M8 · Archive documentée — règles actuelles à vérifier**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** M8
 
 Gagner des points en franchissant des zones et en soutenant l’avancée.
 
-**Matériel :** Plots, ballons, chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Développer l’avancée individuelle et collective.
+
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes égales ; terrain découpé en zones.
+
+**Déroulement — source :** Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1.
+
+**Consignes — source :** Porteur : avancer ou transmettre ; partenaires : soutenir.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.
 
-[Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 53 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Développer l’avancée individuelle et collective.
+**Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 53. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Deux équipes égales ; terrain découpé en zones.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Démarrer sur passe du coach ; zone franchie : +1, essai : +5, relais positif : +1.
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020 ; 2026-09-16
 
-**Consignes :** Porteur : avancer ou transmettre ; partenaires : soutenir.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-16 — PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-kick-golf"></a>
 ## Golf au pied
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Jeu au pied
 
-**Tags proposés :** Jeu au pied
-
-**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Parcours avec comptage des coups ; absent des jeux de territoire au pied.**
+**Famille :** Jeu et conduite au pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Parcours de cibles matérialisées par des plots.
 
-**Matériel :** Quatre plots par cible et un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Kick Golf — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Doser et orienter le ballon au pied.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Quatre plots par cible et un ballon par joueur
 
-**Objectifs :** Doser et orienter le ballon au pied.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Parcours de cibles matérialisées par des plots.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** À tour de rôle, atteindre chaque cible en un minimum de coups de pied.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Expérimenter différents types de coups de pied selon la cible.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Kick Golf — Description, Coaching Outcome, Change It.
+**Organisation — source :** Parcours de cibles matérialisées par des plots.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** À tour de rôle, atteindre chaque cible en un minimum de coups de pied.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Expérimenter différents types de coups de pied selon la cible.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Rugby Australia ; Kick Golf — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-golf-source ; Kick Golf — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-endball-groups"></a>
 ## Jeu de zone avec regroupements au signal
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réaction au signal · Prise d’information · Opposition collective
 
-**Tags proposés :** Passe · Réaction au signal · Prise d’information · Opposition collective
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Video Subtitles — progression avec nombres · consultée le 2026-09-07
+**Objectif — source :** Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes jouant vers une zone de marque.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Passes dans toutes les directions ; transmettre rapidement après toucher.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Deux équipes jouant vers une zone de marque.
 
+**Déroulement — source :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
+
+**Consignes — source :** Passes dans toutes les directions ; transmettre rapidement après toucher.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — RugbyCoaching.tv ; Video Subtitles — progression avec nombres. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : rc-endball-groups-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-endball-groups-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-interval"></a>
 ## Jouer les intervalles
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Prise d’information · Opposition collective
 
-**Tags proposés :** Passe · Prise d’information · Opposition collective
-
-**prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** M8
 
 Valoriser les passes qui font avancer dans un espace libre.
 
-**Matériel :** Plots, ballons, chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 8–8
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Entretenir la continuité collective.
+
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — historique non réexaminé :** 8
+
+**Effectif maximum — historique non réexaminé :** 8
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes de huit ou quatre contre quatre.
+
+**Déroulement — source :** Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5.
+
+**Consignes — source :** Chercher l’espace libre et libérer immédiatement au contact.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.
 
-[Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 52 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Entretenir la continuité collective.
+**Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 52. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Deux équipes de huit ou quatre contre quatre.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Départ sur coup franc ; passe faisant avancer : +1 ; blocage sans libération : −2 ; essai : +5.
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020 ; 2026-09-16
 
-**Consignes :** Chercher l’espace libre et libérer immédiatement au contact.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-16 — PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="munster-mud"></a>
 ## La boue et la délivrance
 
-**Planifier l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Évitement · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
-
-**coopération · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire / mini-rugby
 
 Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passant sous un bras.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 5 min
+**Objectif — source :** Évitement et communication.
 
-**Effectif :** Non renseigné
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — historique non réexaminé :** 5
+
+**Organisation — source :** Carré de 20 mètres ; deux chasseurs avec ballon.
+
+**Déroulement — source :** Touché : rester immobile, bras ouverts ; un partenaire passe dessous pour délivrer.
+
+**Consignes — source :** Changer les chasseurs après capture générale ou cinq minutes.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 6 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Évitement et communication.
+**Comparaison éditoriale complémentaire :** [wr-scarecrow](#wr-scarecrow) — Même mécanisme de toucher, immobilisation et délivrance sous un bras. Munster prévoit deux chasseurs, 20 × 20 m et fin au plus tard après cinq minutes ; World Rugby un chasseur par groupe de cinq et changement après une minute. Versions paramétrées du même jeu ; équivalence exacte non affirmée.
 
-**Organisation :** Carré de 20 mètres ; deux chasseurs avec ballon.
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 6. Vérification documentaire : 2026-09-06.
 
-**Déroulement :** Touché : rester immobile, bras ouverts ; un partenaire passe dessous pour délivrer.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Changer les chasseurs après capture générale ou cinq minutes.
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 6 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-Détails extraits le 2026-09-16 — PDF page 6 (numérotation 1-based) — Game Card, How to play.
+1 révision(s) conservée(s) dans les données de l’application.
 
-## La chaîne
+</details>
 
-**Planifier l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+[Retour aux catégories](#categories)
 
-**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+---
 
-**coopération · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
-
-Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. Recommencer après une minute.
-
-**Matériel :** Non renseigné
-
-**Durée atelier :** Non renseignée
-
-**Effectif :** Non renseigné
-
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 18 · consultée le 2026-09-07
-
-**Accès :** PDF public consulté
-
-**Organisation :** Chasseurs par deux, mains liées ; aire d’évitement.
-
-**Déroulement :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
-
-**Consignes :** Garder les mains liées pendant la poursuite.
-
-Détails extraits le 2026-09-09 — PDF page 18.
-
-**Manche source :** 60 secondes ; durée totale inconnue.
-
+<a id="rc-taggrab"></a>
 ## La chasse aux rubans
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-
-**déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** U7 (classement du site)
 
 Deux chasseurs sont désignés parmi deux équipes. Ils collectent les rubans des autres joueurs, qui tentent de les éviter dans l’espace de jeu.
 
-**Matériel :** Ceintures et rubans de tag
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter et attraper les rubans.
+
+**Matériel — historique non réexaminé :** Ceintures et rubans de tag
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux chasseurs désignés, un de chaque équipe.
+
+**Déroulement — source :** Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.
+
+**Consignes — source :** Continuer à se déplacer dans la zone.
+
+**Critères de réussite — source :** Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Encourager le mouvement continu et les changements d’appuis.
 
 **Adaptation U8 proposée :** Changer souvent les chasseurs. Utiliser un espace large, sans saisie des vêtements ni poussée.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Regarder devant soi ; saisir seulement le ruban.; duration_min : 6; easier : Un chasseur.; harder : Coopération entre les deux chasseurs.; players_max : 10; players_min : 6; setup : Aire délimitée ; rubans pour chacun.; steps : Deux chasseurs collectent les rubans. Courtes manches puis restitution et changement de chasseurs.
 
-**Objectifs :** Éviter et attraper les rubans.
+**À décider pour la séance :**
 
-**Organisation :** Deux chasseurs désignés, un de chaque équipe.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Déroulement :** Les chasseurs collectent les rubans des autres joueurs ; compter à l’arrêt.
+**Source principale :** [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Continuer à se déplacer dans la zone.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Critères de réussite :** Les chasseurs récupèrent les rubans ; les autres cherchent à les conserver en évitant les chasseurs.
+- Objectif, Organisation, Déroulement, Consignes : rc-taggrab ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Points d’attention : rc-taggrab ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+2 révision(s) conservée(s) dans les données de l’application.
 
-**Points coach issus de la source :** Encourager le mouvement continu et les changements d’appuis.
+</details>
 
-### Proposition terrain U8 — à valider
+[Retour aux catégories](#categories)
 
-6 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+---
 
-**Installation :** Aire délimitée ; rubans pour chacun.
+<a id="scot-chaine"></a>
+## La chaîne
 
-**Déroulement :** Deux chasseurs collectent les rubans. Courtes manches puis restitution et changement de chasseurs.
+**Catégories proposées :** Évitement · Coopération · Poursuite et délivrance
 
-**À observer :** Regarder devant soi ; saisir seulement le ruban.
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse)
 
-**Plus simple :** Un chasseur.
+Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. Recommencer après une minute.
 
-**Plus difficile :** Coopération entre les deux chasseurs.
+**Durée pour préparer l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
+**Objectif — proposition IA :** Coordonner ses déplacements avec ses partenaires pendant une poursuite.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Chasseurs par deux, mains liées ; aire d’évitement.
+
+**Déroulement — source :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
+
+**Consignes — source :** Garder les mains liées pendant la poursuite.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 18. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 18 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 18 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-octopus"></a>
 ## La pieuvre et les algues
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-
-**déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Traversée de défenses · **Âge source :** Non précisé
 
 Traverser sans être touché par les pieuvres. Un joueur touché devient une algue immobile qui peut toucher les passants. Continuer jusqu’à capture du groupe.
 
-**Matériel :** Neuf plots et quatre ballons indiqués par la source
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Développer perception de l’espace, agilité et confiance dans le déplacement.
+
+**Matériel — historique non réexaminé :** Neuf plots et quatre ballons indiqués par la source
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne.
+
+**Déroulement — source :** Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants.
+
+**Consignes — source :** Les algues restent sur place ; continuer jusqu’à capture générale.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Limiter les algues ou relancer une manche dès que le passage devient trop encombré. Sans ballon au début.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Sections Description / Equipment / Change It · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description publique consultée
+coach : Choisir un passage libre.; duration_min : 6; easier : Marcher sans ballon.; harder : Porter un ballon à deux mains.; players_max : 10; players_min : 6; setup : Deux lignes opposées, un chasseur et un espace large.; steps : Traverser au signal ; les touchés deviennent immobiles. Relancer avant encombrement.
 
-**Objectifs :** Développer perception de l’espace, agilité et confiance dans le déplacement.
+**À décider pour la séance :**
 
-**Organisation :** Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Déroulement :** Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants.
+**Source principale :** [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Les algues restent sur place ; continuer jusqu’à capture générale.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
+- Objectif, Organisation, Déroulement, Consignes : au-octopus ; Description et Coaching Outcome ; texte public consulté ; 2026-09-16
 
-### Proposition terrain U8 — à valider
+1 révision(s) conservée(s) dans les données de l’application.
 
-6 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+</details>
 
-**Installation :** Deux lignes opposées, un chasseur et un espace large.
+[Retour aux catégories](#categories)
 
-**Déroulement :** Traverser au signal ; les touchés deviennent immobiles. Relancer avant encombrement.
+---
 
-**À observer :** Choisir un passage libre.
-
-**Plus simple :** Marcher sans ballon.
-
-**Plus difficile :** Porter un ballon à deux mains.
-
+<a id="au-familiarisation"></a>
 ## Le ballon répond au signal
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Manipulation du ballon · Ramassage du ballon
 
-**Tags proposés :** Passe · Manipulation du ballon · Ramassage du ballon
-
-**manipulation · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Manipulation et coordination individuelle · **Âge source :** Non précisé
 
 Dans un espace délimité, chacun se déplace avec un ballon. Au signal, effectuer une action : poser et ramasser, transmettre, marquer ou réaliser une petite passe.
 
-**Matériel :** Neuf plots ; un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Développer la maîtrise et la familiarité du ballon à son rythme.
+
+**Matériel — historique non réexaminé :** Neuf plots ; un ballon par joueur
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Joueurs dispersés dans une aire délimitée, chacun avec un ballon.
+
+**Déroulement — source :** Se déplacer puis exécuter au signal les manipulations demandées : poser-ramasser, passer, aplatir, petite passe haute.
+
+**Consignes — source :** Réagir au signal du coach pour changer de geste.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Commencer avec deux consignes distinctes, puis en ajouter une. Garder de l’espace entre joueurs.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Sections Description / Equipment / Change It · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description publique consultée
+coach : Ballon contrôlé et tête relevée.; duration_min : 7; easier : Action à l’arrêt.; harder : Deux signaux successifs.; players_max : 12; players_min : 4; setup : Un ballon par enfant dans une aire espacée.; steps : Alterner déplacement et signaux poser-ramasser ou marquer. Ajouter un échange avec un voisin.
 
-**Objectifs :** Développer la maîtrise et la familiarité du ballon à son rythme.
+**À décider pour la séance :**
 
-**Organisation :** Joueurs dispersés dans une aire délimitée, chacun avec un ballon.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Déroulement :** Se déplacer puis exécuter au signal les manipulations demandées : poser-ramasser, passer, aplatir, petite passe haute.
+**Source principale :** [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Réagir au signal du coach pour changer de geste.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
+- Objectif, Organisation, Déroulement, Consignes : au-familiarisation ; Description et Coaching Outcome ; texte public consulté ; 2026-09-16
 
-### Proposition terrain U8 — à valider
+1 révision(s) conservée(s) dans les données de l’application.
 
-7 min · 4 à 12 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+</details>
 
-**Installation :** Un ballon par enfant dans une aire espacée.
+[Retour aux catégories](#categories)
 
-**Déroulement :** Alterner déplacement et signaux poser-ramasser ou marquer. Ajouter un échange avec un voisin.
+---
 
-**À observer :** Ballon contrôlé et tête relevée.
-
-**Plus simple :** Action à l’arrêt.
-
-**Plus difficile :** Deux signaux successifs.
-
+<a id="rc-piggy"></a>
 ## Le joueur au milieu
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
 
-**Tags proposés :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
-
-**passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Conservation et interception · **Âge source :** U7 (classement du site)
 
 Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe autour de l’intercepteur. Changer les rôles et travailler la communication. La source propose des manches d’une minute puis trente secondes.
 
-**Matériel :** Un ballon ; espace délimité
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 4–4
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Conserver le ballon et se rendre disponible.
+
+**Matériel — historique non réexaminé :** Un ballon ; espace délimité
+
+**Effectif minimum — historique non réexaminé :** 4
+
+**Effectif maximum — historique non réexaminé :** 4
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trois passeurs et un intercepteur.
+
+**Déroulement — source :** Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.
+
+**Consignes — source :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
+
+**Critères de réussite — source :** Conserver le ballon hors de portée de l’intercepteur pendant la manche.
+
+**Erreurs fréquentes — source :** Partenaires immobiles ; absence de communication.
+
+**Points d’attention — source :** Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.
 
 **Adaptation U8 proposée :** Commencer avec un défenseur qui marche, puis le rendre libre. Montrer les mains et appeler le porteur.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Offrir une ligne de passe et appeler.; duration_min : 6; easier : Intercepteur marchant.; harder : Réduire légèrement le carré.; players_max : 8; players_min : 4; setup : Un ou deux carrés de quatre enfants.; steps : Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche.
 
-**Objectifs :** Conserver le ballon et se rendre disponible.
+**Repères coach proposés par IA :** Un partenaire se déplace pour offrir une ligne de passe libre. Repérer si les non-porteurs restent cachés derrière l’intercepteur.
 
-**Organisation :** Trois passeurs et un intercepteur.
+**À décider pour la séance :**
 
-**Déroulement :** Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Consignes :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
+**Variantes conservées séparément :** [Quatre passeurs contre un intercepteur](#rc-four-one). Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.
 
-**Critères de réussite :** Conserver le ballon hors de portée de l’intercepteur pendant la manche.
+**Source principale :** [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Erreurs fréquentes :** Partenaires immobiles ; absence de communication.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+- Objectif, Organisation, Déroulement, Consignes : rc-piggy ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Erreurs fréquentes, Points d’attention : rc-piggy ; Description et Video Subtitles, avant Up Next In Playlist ; 2026-09-08
 
-**Points coach issus de la source :** Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.
+2 révision(s) conservée(s) dans les données de l’application.
 
-### Proposition terrain U8 — à valider
+</details>
 
-6 min · 4 à 8 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+[Retour aux catégories](#categories)
 
-**Installation :** Un ou deux carrés de quatre enfants.
+---
 
-**Déroulement :** Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche.
-
-**À observer :** Offrir une ligne de passe et appeler.
-
-**Plus simple :** Intercepteur marchant.
-
-**Plus difficile :** Réduire légèrement le carré.
-
+<a id="rc-aliens"></a>
 ## Les extraterrestres
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-
-**déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** U7 (classement du site)
 
 Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejoint les chasseurs ; la poursuite continue jusqu’au dernier joueur.
 
-**Matériel :** Plusieurs ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter les chasseurs et changer de rôle.
+
+**Matériel — historique non réexaminé :** Plusieurs ballons
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Aire délimitée, chasseurs avec ballon, ballons accessibles autour.
+
+**Déroulement — source :** Le joueur touché prend un ballon et rejoint les chasseurs.
+
+**Consignes — source :** Rester dans les limites et chercher un passage libre.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Commencer en marchant avec un chasseur. Prévoir des manches courtes et toucher sans projeter le ballon.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Éviter les chasseurs et changer de rôle.
+**Variantes conservées séparément :** [Capturer les extraterrestres par la passe](#rc-capture-aliens). Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-**Organisation :** Aire délimitée, chasseurs avec ballon, ballons accessibles autour.
+**Comparaison éditoriale complémentaire :** [rc-bulldog](#rc-bulldog) — Les touchés deviennent chasseurs dans les deux cas ; chasse libre au ballon contre traversées successives sans ballon.
 
-**Déroulement :** Le joueur touché prend un ballon et rejoint les chasseurs.
+**Source principale :** [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Rester dans les limites et chercher un passage libre.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+- Objectif, Organisation, Déroulement, Consignes : rc-aliens ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
 
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-gazelles-atelier"></a>
 ## Les gazelles
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Lutte
 
-**Tags proposés :** Lutte
-
-**lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Lutte et contact · **Âge source :** M8
 
 Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Découvrir l’opposition corporelle et la lutte.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Les gazelles · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Découvrir l’opposition corporelle et la lutte.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Les gazelles. Vérification documentaire : 2026-09-07.
+
+**Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tpz). Association issue des annotations, visionnage non validé par l’assistant.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="munster-gates"></a>
 ## Les portes à franchir
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Prise d’information · Opposition collective
 
-**Tags proposés :** Évitement · Prise d’information · Opposition collective
-
-**prise d’information · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** Primaire / mini-rugby
 
 Marquer en franchissant une porte libre, puis passer ; ne pas reprendre immédiatement la même porte.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Vision, espace, réception-passe et évitement.
+
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes égales ; portes de plots dispersées.
+
+**Déroulement — source :** Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.
+
+**Consignes — source :** Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 7 · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** PDF public consulté
+coach : Lever la tête et trouver une porte libre.; duration_min : 8; easier : Sans opposition.; harder : Ajouter une passe à un partenaire différent.; players_max : 10; players_min : 6; setup : Portes espacées, deux équipes et un ballon.; steps : Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point.
 
-**Objectifs :** Vision, espace, réception-passe et évitement.
+**Repères coach proposés par IA :** Le porteur repère une porte accessible et la franchit sans être touché. Observer s’il regarde les portes et les défenseurs avant de s’engager.
 
-**Organisation :** Deux équipes égales ; portes de plots dispersées.
+**À décider pour la séance :**
 
-**Déroulement :** Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Consignes :** Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 7. Vérification documentaire : 2026-09-06.
 
-Détails extraits le 2026-09-16 — PDF page 7 (numérotation 1-based) — Game Card, How to play.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-### Proposition terrain U8 — à valider
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 7 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-8 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Installation :** Portes espacées, deux équipes et un ballon.
+</details>
 
-**Déroulement :** Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point.
+[Retour aux catégories](#categories)
 
-**À observer :** Lever la tête et trouver une porte libre.
+---
 
-**Plus simple :** Sans opposition.
-
-**Plus difficile :** Ajouter une passe à un partenaire différent.
-
+<a id="rc-statues"></a>
 ## Les statues
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-
-**déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** U7 (classement du site)
 
 Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent immobiles. Chronométrer la capture de tout le groupe, puis changer les chasseurs.
 
-**Matériel :** Trois ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter ; coopérer entre chasseurs.
+
+**Matériel — historique non réexaminé :** Trois ballons
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trois chasseurs porteurs d’un ballon.
+
+**Déroulement — source :** Le joueur touché s’immobilise ; chronométrer la capture de tous.
+
+**Consignes — source :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
+
+**Critères de réussite — source :** Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
 
 **Adaptation U8 proposée :** Manches courtes ; une nouvelle manche remet tout le monde en jeu. Demander de regarder devant soi.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Éviter ; coopérer entre chasseurs.
+**Source principale :** [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Trois chasseurs porteurs d’un ballon.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Le joueur touché s’immobilise ; chronométrer la capture de tous.
+- Objectif, Organisation, Déroulement, Consignes : rc-statues ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Points d’attention : rc-statues ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-**Consignes :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
+2 révision(s) conservée(s) dans les données de l’application.
 
-**Critères de réussite :** Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.
+</details>
 
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+[Retour aux catégories](#categories)
 
-**Points coach issus de la source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
+---
 
+<a id="rc-eggs"></a>
 ## Les œufs dans les nids
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Ramassage du ballon · Course · Collecte de ballons
 
-**Tags proposés :** Ramassage du ballon · Course · Collecte de ballons
-
-**déplacement · âge source : 11–12 ans · Source consultée — validation terrain à faire**
+**Famille :** Collecte de ballons · **Âge source :** 11–12 ans
 
 Par équipes de trois, rapporter les ballons des autres nids, un à la fois. Une progression interdit de garder son nid. Compter les ballons à la fin.
 
-**Matériel :** Plusieurs ballons ; nids à matérialiser
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Collecter davantage de ballons que les autres équipes.
+
+**Matériel — historique non réexaminé :** Plusieurs ballons ; nids à matérialiser
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Équipes de trois, avec un nid par équipe.
+
+**Déroulement — source :** Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.
+
+**Consignes — source :** Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Montrer simplement la tâche, puis construire les progressions par petites étapes.
 
 **Adaptation U8 proposée :** Proposition U8 à valider : montrer un trajet, faire une manche courte sans défense des nids, espacer les zones pour réduire les croisements.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres : équipes de trois et collecte · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
+coach : Lever la tête et poser sans jeter.; duration_min : 6; easier : Réserve centrale au départ.; harder : Transmission courte avant de déposer.; players_max : 12; players_min : 6; setup : Trois ou quatre nids espacés et plusieurs ballons.; steps : Rapporter un ballon à la fois depuis les nids voisins. Personne ne garde son nid. Compter puis recommencer.
 
-**Objectifs :** Collecter davantage de ballons que les autres équipes.
+**À décider pour la séance :**
 
-**Organisation :** Équipes de trois, avec un nid par équipe.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Déroulement :** Rapporter les ballons des autres nids, un seul à la fois ; compter à la fin.
+**Source principale :** [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — RugbyCoaching.tv ; Sous-titres : équipes de trois et collecte. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Dans la progression présentée, personne ne garde le nid : tous vont chercher des ballons.
+**Référence complémentaire :** [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description / Change It. Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe.
 
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Points coach issus de la source :** Montrer simplement la tâche, puis construire les progressions par petites étapes.
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention : rc-eggs ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
 
-**Variante sourcée complémentaire :** Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe.
+1 révision(s) conservée(s) dans les données de l’application.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description / Change It
+</details>
 
-### Proposition terrain U8 — à valider
+[Retour aux catégories](#categories)
 
-6 min · 6 à 12 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+---
 
-**Installation :** Trois ou quatre nids espacés et plusieurs ballons.
-
-**Déroulement :** Rapporter un ballon à la fois depuis les nids voisins. Personne ne garde son nid. Compter puis recommencer.
-
-**À observer :** Lever la tête et poser sans jeter.
-
-**Plus simple :** Réserve centrale au départ.
-
-**Plus difficile :** Transmission courte avant de déposer.
-
+<a id="ffr-auto"></a>
 ## L’auto-stoppeur
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération
 
-**Tags proposés :** Passe · Coopération
-
-**coopération · âge source : M8 · Archive documentée — règles actuelles à vérifier**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** M8
 
 Coopérer pour faire progresser le ballon malgré les défenseurs.
 
-**Matériel :** Plots, ballons, chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Progresser ensemble pour marquer.
+
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** 22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon.
+
+**Déroulement — source :** Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur.
+
+**Consignes — source :** Rester dans l’aire ; chercher un partenaire disponible face au blocage.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.
 
-[Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 51 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Progresser ensemble pour marquer.
+**Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 51. Vérification documentaire : 2026-09-06.
 
-**Organisation :** 22 × 15 mètres, zones tous les 4,5 mètres ; plots et ballon.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Deux signaux : remise du ballon, puis départ. Trois essais avec changement du premier porteur.
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020 ; 2026-09-16
 
-**Consignes :** Rester dans l’aire ; chercher un partenaire disponible face au blocage.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-16 — PDF page 51 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-initiative"></a>
 ## L’initiative
 
-**Planifier l’atelier :** 20 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Prise d’information · Opposition collective
 
-**Tags proposés :** Prise d’information · Opposition collective
-
-**prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** M8
 
 Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 
-**Matériel :** Plots, ballons, chasubles
+**Durée pour préparer l’atelier :** 20 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 20 min
+**Objectif — source :** Observer les adversaires avant d’agir.
 
-**Effectif :** 10–10
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 10
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — historique non réexaminé :** 20
+
+**Organisation — source :** Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.
+
+**Déroulement — source :** Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.
+
+**Consignes — source :** Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.
 
-[Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 55 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Observer les adversaires avant d’agir.
+**Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 55. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020 ; 2026-09-16
 
-**Consignes :** Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-16 — PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-awareness"></a>
 ## Manipulations autour du corps
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Coordination
 
-**Tags proposés :** Manipulation du ballon · Coordination
-
-**manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Manipulation et coordination individuelle · **Âge source :** Under 7 (classement du site)
 
 Joueurs espacés dans la zone.
 
-**Matériel :** Un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Se familiariser avec le ballon par différentes manipulations.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Un ballon par joueur
 
-**Objectifs :** Se familiariser avec le ballon par différentes manipulations.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs espacés dans la zone.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
+**Espace — source :** 10 × 10 m à ajuster selon effectif
 
-**Consignes :** Chercher la maîtrise et éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Critères de réussite :** Réaliser les manipulations sans erreur.
+**Organisation — source :** Joueurs espacés dans la zone.
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Déroulement — source :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
 
-**Points coach issus de la source :** Se déplacer vers les espaces libres et éviter les autres joueurs.
+**Consignes — source :** Chercher la maîtrise et éviter les collisions.
 
-**Espace source :** 10 × 10 m à ajuster selon effectif
+**Critères de réussite — source :** Réaliser les manipulations sans erreur.
 
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Se déplacer vers les espaces libres et éviter les autres joueurs.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Critères de réussite, Points d’attention : nz-awareness-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-awareness-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Durée de l’atelier, Espace, Matériel : nz-awareness-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-cricket"></a>
 ## Marche du grillon en tenant les chevilles
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Motricité individuelle
 
-**Tags proposés :** Motricité · Motricité individuelle
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Accroupi, bras entre les jambes, mains sur les chevilles.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Cricket Walk · consultée le 2026-09-07
+**Objectif — proposition IA :** Explorer plusieurs directions de déplacement en position accroupie.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Aucun
 
-**Organisation :** Accroupi, bras entre les jambes, mains sur les chevilles.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Marcher en avant, en arrière et de côté.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Conserver la prise aux chevilles.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 16 — Cricket Walk.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Accroupi, bras entre les jambes, mains sur les chevilles.
+
+**Déroulement — source :** Marcher en avant, en arrière et de côté.
+
+**Consignes — source :** Conserver la prise aux chevilles.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Cricket Walk. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Cricket Walk ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-monkey"></a>
 ## Marche du singe à trois appuis
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Coordination · Motricité individuelle
 
-**Tags proposés :** Motricité · Coordination · Motricité individuelle
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Appui manuel unilatéral, différent du gorille à deux mains.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Deux pieds et une main en appui.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Coordonner un déplacement à trois appuis.
+
+**Matériel — source :** Aucun
+
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
+
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
+
+**Espace — information manquante :** non indiqué dans le passage examiné
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Deux pieds et une main en appui.
+
+**Déroulement — source :** Se déplacer avec ces trois appuis ; changer la main utilisée lorsqu’elle fatigue.
+
+**Consignes — source :** Conserver deux pieds et une seule main au sol pendant le déplacement.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition IA : changer de main avant fatigue et arrêter en cas d’inconfort ; à confirmer par le coach.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Monkey Walk · consultée le 2026-09-07
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Organisation :** Deux pieds et une main en appui.
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Monkey Walk. Vérification documentaire : 2026-09-07.
 
-**Déroulement :** Se déplacer avec ces trois appuis ; changer la main utilisée lorsqu’elle fatigue.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Conserver deux pieds et une seule main au sol pendant le déplacement.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Monkey Walk ; 2026-09-09
 
-Détails extraits le 2026-09-09 — PDF page 16 — Monkey Walk.
+1 révision(s) conservée(s) dans les données de l’application.
 
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-canard"></a>
 ## Marcher en canard avec ballon
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Motricité · Motricité individuelle
 
-**Tags proposés :** Manipulation du ballon · Motricité · Motricité individuelle
-
-**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Enfant dans un couloir.
 
-**Matériel :** Un ballon ou objet
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8 — Atelier 1 · consultée le 2026-09-06
+**Objectif — source :** Traverser accroupi, ballon tenu sans appui supplémentaire.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Un ballon ou objet
 
-**Objectifs :** Traverser accroupi, ballon tenu sans appui supplémentaire.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Enfant dans un couloir.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Traverser en canard avec le ballon à deux mains.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Ne poser ni main, ni genou, ni ballon au sol.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Enfant dans un couloir.
 
+**Déroulement — source :** Traverser en canard avec le ballon à deux mains.
+
+**Consignes — source :** Ne poser ni main, ni genou, ni ballon au sol.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 1. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : ffr-famille ; PDF page 8 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 8 — Atelier 1 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-break-walls"></a>
 ## Marquer sur chaque bord coloré
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Évitement · Réaction au signal · Opposition collective
 
-**Tags proposés :** Passe · Évitement · Réaction au signal · Opposition collective
-
-**évitement et réaction · âge source : Primaire P4–P7 ; adaptation U8 à valider · Texte source reformulé ; validation coach non effectuée. Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.**
+**Famille :** Jeux à zones de marque · **Âge source :** Primaire P4–P7 ; adaptation U8 à valider
 
 Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.
 
-**Matériel :** Ballons, plots colorés et chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Marquer sur les différentes lignes en coopérant.
+
+**Matériel — source :** Ballons, plots colorés et chasubles
+
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
+
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
+
+**Espace — information manquante :** non indiqué dans le passage examiné
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.
+
+**Déroulement — source :** Les attaquants cherchent à aplatir au-delà de chaque bord coloré. Ils peuvent courir avec le ballon mais passent lorsqu’ils sont touchés.
+
+**Consignes — source :** Changer régulièrement les défenseurs.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition IA : démontrer les couleurs et commencer avec un seul carré si la règle est trop complexe ; validation terrain requise.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 21 — Break the walls · consultée le 2026-09-07
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs — proposition IA :** Marquer sur les différentes lignes en coopérant.
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 21 — Break the walls. Vérification documentaire : 2026-09-07.
 
-**Organisation :** Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Les attaquants cherchent à aplatir au-delà de chaque bord coloré. Ils peuvent courir avec le ballon mais passent lorsqu’ils sont touchés.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 21 — Break the walls ; 2026-09-10
 
-**Consignes :** Changer régulièrement les défenseurs.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-10 — PDF page 21 — Break the walls.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-shadow-mirror"></a>
 ## Miroir : rester face au porteur
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Duel
 
-**Tags proposés :** Évitement · Duel
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Binôme face à face, un porteur de ballon.
 
-**Matériel :** Un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Shadow Run — progression 2 — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Effectuer des changements de direction rapides.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon par binôme
 
-**Objectifs :** Effectuer des changements de direction rapides.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Binôme face à face, un porteur de ballon.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.
+**Espace — source :** 20 × 20 m
 
-**Consignes :** Ballon à deux mains et tête levée ; éviter les autres binômes.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Shadow Run — progression 2 — Objective / Principles of play.
+**Organisation — source :** Binôme face à face, un porteur de ballon.
 
-**Espace source :** 20 × 20 m
+**Déroulement — source :** Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.
 
+**Consignes — source :** Ballon à deux mains et tête levée ; éviter les autres binômes.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.
+
+**Repères coach proposés par IA :** Le partenaire reste face au porteur pendant ses changements de direction. Observer le replacement après un changement de direction plutôt que la vitesse seule.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — New Zealand Rugby — Rugby Toolbox ; Shadow Run — progression 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-shadow-source ; Shadow Run — progression 2 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-shadow-source ; Shadow Run — progression 2 — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-shadow-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-number-duel"></a>
 ## Numéro appelé : ramasser puis affronter
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Ramassage du ballon · Duel
 
-**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Duel
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles. Source contradictoire : installation indique plusieurs ballons, liste et déroulement un seul ; ces derniers retenus.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
 
-**Matériel :** Un ballon et rubans selon liste et déroulement
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–10
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — Number Race 2 — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Accélérer, ramasser et éviter un défenseur.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon et rubans selon liste et déroulement
 
-**Objectifs :** Accélérer, ramasser et éviter un défenseur.
+**Effectif minimum — source :** 10
 
-**Organisation :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
+**Effectif maximum — source :** 10
 
-**Déroulement :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
+**Espace — source :** 15 × 10 m
 
-**Consignes :** Répéter avec un autre numéro ; rubans prévus par la source.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Number Race 2 — Objective / Principles of play.
+**Organisation — source :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
 
-**Espace source :** 15 × 10 m
+**Déroulement — source :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
 
+**Consignes — source :** Répéter avec un autre numéro ; rubans prévus par la source.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — New Zealand Rugby — Rugby Toolbox ; Number Race 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-number-duel-source ; Number Race 2 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-number-duel-source ; Number Race 2 — organisation et déroulement ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-no-ball"></a>
 ## Opposition sans ballon, attaquant désigné
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Prise d’information · Opposition collective
 
-**Tags proposés :** Prise d’information · Opposition collective
-
-**prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** Under 7 (classement Rugby Toolbox)
 
 Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
-**Matériel :** Chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné — Total ; minimum non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+**Objectif — source :** Travailler l’espace, la défense et la réaction.
 
-**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+**Matériel — source :** Chasubles
 
-**Objectifs :** Travailler l’espace, la défense et la réaction.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
+**Effectif maximum — source :** 10
 
-**Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
+**Espace — source :** 10 × 15 m
 
-**Consignes :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Organisation — source :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
-**Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
+**Déroulement — source :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
 
-**Espace source :** 10 × 15 m
+**Consignes — source :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — proposition IA :** Reconnaître rapidement le nouveau porteur symbolique.
+
+**Périmètre de l’effectif :** Total ; minimum non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+
+**Source principale :** [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-no-ball-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Points d’attention : nz-no-ball-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Consignes : nz-no-ball-source ; DRILL EXPLANATION et DRILL SET-UP ; 2026-09-09
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-no-ball-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-pantheres-atelier"></a>
 ## Panthères et chenilles
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Équilibre et postures · Motricité individuelle
 
-**Tags proposés :** Équilibre et postures · Motricité individuelle
-
-**posture · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Maintenir une posture gainée pendant le déplacement.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositive 3 — Panthères et chenilles · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Maintenir une posture gainée pendant le déplacement.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Observer le maintien de la posture.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Observer le maintien de la posture.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Panthères et chenilles. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-3-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-passback"></a>
 ## Passe arrière avec jokers
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Soutien · Opposition collective
 
-**Tags proposés :** Passe · Soutien · Opposition collective
-
-**soutien · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+**Famille :** Jeux à zones de marque · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Avancer en soutenant le porteur.
 
-**Matériel :** Plots, chasubles et ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 23 (pagination fichier) · consultée le 2026-09-07
+**Objectif — source :** Avancer en soutenant le porteur.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Plots, chasubles et ballon
 
-**Objectifs :** Avancer en soutenant le porteur.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes, deux zones de marque et deux jokers toujours attaquants.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 23, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Deux équipes, deux zones de marque et deux jokers toujours attaquants.
 
+**Déroulement — source :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
+
+**Consignes — source :** Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 23 (pagination fichier). Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Matériel : scot-primary ; PDF page 23, fiche complète ; 2026-09-08
+- Consignes : scot-primary ; PDF page 23, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-pairs"></a>
 ## Passer avec un soutien en retrait
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-
-**passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Passes en binôme et soutien · **Âge source :** U7 (classement du site)
 
 Deux joueurs avancent et échangent une passe courte. Une progression ajoute un obstacle représentant le défenseur : le soutien doit rester en retrait pour recevoir derrière cet obstacle.
 
-**Matériel :** Ballon, plots ; bouclier dans la progression
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Recevoir en soutien du porteur.
+
+**Matériel — historique non réexaminé :** Ballon, plots ; bouclier dans la progression
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Binômes en mouvement ; obstacle représentant un défenseur dans la progression.
+
+**Déroulement — source :** Courir puis passer derrière l’obstacle à son partenaire.
+
+**Consignes — source :** Privilégier une passe courte et rester en retrait.
+
+**Critères de réussite — source :** Recevoir en mouvement en restant en retrait du porteur.
+
+**Erreurs fréquentes — source :** Soutien à hauteur ou devant le porteur, rendant la passe difficile.
+
+**Points d’attention — source :** Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.
 
 **Adaptation U8 proposée :** Commencer en marchant dans des couloirs parallèles. Utiliser un plot comme repère avant un défenseur passif.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Mains prêtes et receveur derrière le porteur.; duration_min : 7; easier : Marcher et rapprocher les partenaires.; harder : Trottiner puis ajouter un repère de défenseur.; players_max : 8; players_min : 4; setup : Binômes en couloirs parallèles ; un ballon par binôme.; steps : Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour.
 
-**Objectifs :** Recevoir en soutien du porteur.
+**Repères coach proposés par IA :** La passe atteint le partenaire en retrait sans l’obliger à s’arrêter. Regarder si le soutien reste disponible après le déplacement autour de l’obstacle.
 
-**Organisation :** Binômes en mouvement ; obstacle représentant un défenseur dans la progression.
+**À décider pour la séance :**
 
-**Déroulement :** Courir puis passer derrière l’obstacle à son partenaire.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Consignes :** Privilégier une passe courte et rester en retrait.
+**Variantes conservées séparément :** [Passer sur appel dans un espace partagé](#rc-calling-pairs). Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-**Critères de réussite :** Recevoir en mouvement en restant en retrait du porteur.
+**Source principale :** [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Erreurs fréquentes :** Soutien à hauteur ou devant le porteur, rendant la passe difficile.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
+- Objectif, Organisation, Déroulement, Consignes : rc-pairs ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Erreurs fréquentes, Points d’attention : rc-pairs ; Description et Video Subtitles, avant Up Next In Playlist ; 2026-09-08
 
-**Points coach issus de la source :** Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.
+2 révision(s) conservée(s) dans les données de l’application.
 
-### Proposition terrain U8 — à valider
+</details>
 
-7 min · 4 à 8 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+[Retour aux catégories](#categories)
 
-**Installation :** Binômes en couloirs parallèles ; un ballon par binôme.
+---
 
-**Déroulement :** Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour.
-
-**À observer :** Mains prêtes et receveur derrière le porteur.
-
-**Plus simple :** Marcher et rapprocher les partenaires.
-
-**Plus difficile :** Trottiner puis ajouter un repère de défenseur.
-
+<a id="munster-end"></a>
 ## Passer dans la zone d’arrivée
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-
-**jeu collectif · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Jeux à zones de marque · **Âge source :** Primaire / mini-rugby
 
 Deux équipes cherchent la zone d’essai par des passes ; la source propose cinq touchers pour marquer.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Réception-passe, déplacement offensif et communication défensive.
+
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes égales ; dimensions selon effectif.
+
+**Déroulement — source :** Passer librement pour marquer en zone ; cinq touchers disponibles.
+
+**Consignes — source :** Défense : intercepter ; possession change aussi après marque ou sortie.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 9 · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** PDF public consulté
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Réception-passe, déplacement offensif et communication défensive.
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 9. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Deux équipes égales ; dimensions selon effectif.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Passer librement pour marquer en zone ; cinq touchers disponibles.
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 9 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-**Consignes :** Défense : intercepter ; possession change aussi après marque ou sortie.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-16 — PDF page 9 (numérotation 1-based) — Game Card, How to play.
+</details>
 
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-pass-defend"></a>
 ## Passer puis devenir défenseur
 
-**Planifier l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
-
-**opposition et soutien · âge source : Initiation ; âge non précisé · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé
 
 Trois groupes de cinq alternent par couloir.
 
-**Matériel :** Un ballon par groupe, plots et rubans
+**Durée pour préparer l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
 
-**Effectif :** 5–5 — par groupe actif ; trois groupes par couloir
+**Matériel — historique non réexaminé :** Un ballon par groupe, plots et rubans
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — historique non réexaminé :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass, Defend, Attack · consultée le 2026-09-08
+**Effectif maximum — historique non réexaminé :** 5
 
-**Accès :** Texte public consulté
+**Espace — historique non réexaminé :** 20 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+**Durée de l’atelier — historique non réexaminé :** 6
 
-**Organisation :** Trois groupes de cinq alternent par couloir.
+**Organisation — source :** Trois groupes de cinq alternent par couloir.
 
-**Déroulement :** Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.
+**Déroulement — source :** Le porteur passe, dépasse la mi-distance et se retourne en défense ; les quatre autres cherchent à le franchir.
 
-**Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
+**Consignes — source :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
 
-Détails extraits le 2026-09-16 — Pass, Defend, Attack — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée. Réglages proposés par la source : Deux joueurs deviennent défenseurs pour compliquer l’attaque ; limiter le déplacement du défenseur, par exemple latéralement, complique sa tâche.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 20 × 10 m
+**Points d’attention — source :** Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée. Réglages proposés par la source : Deux joueurs deviennent défenseurs pour compliquer l’attaque ; limiter le déplacement du défenseur, par exemple latéralement, complique sa tâche.
 
+**Périmètre de l’effectif :** par groupe actif ; trois groupes par couloir
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass, Defend, Attack. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Pass, Defend, Attack — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes : wr-noncontact ; Pass, Defend, Attack ; 2026-09-09
+- Points d’attention : wr-noncontact ; Pass, Defend, Attack — Difficulty ; Coaching points conservés ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-touchdown"></a>
 ## Passer puis échapper au poursuivant
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Passe · Évitement · Course · Poursuite et délivrance
-
-**évitement · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Deux files face à face ; le ballon circule dans une file.
 
-**Matériel :** Un ballon et un plot
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–12
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Développer la manipulation et les réactions.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Un ballon et un plot
 
-**Objectifs :** Développer la manipulation et les réactions.
+**Effectif minimum — source :** 10
 
-**Organisation :** Deux files face à face ; le ballon circule dans une file.
+**Effectif maximum — source :** 12
 
-**Déroulement :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
+**Espace — source :** 10 × 10 m ; files espacées de 4–5 m
 
-**Consignes :** Essai réussi : un point. Toucher : possession adverse à la reprise.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Organisation — source :** Deux files face à face ; le ballon circule dans une file.
 
-**Points coach issus de la source :** Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.
+**Déroulement — source :** Au signal, le porteur contourne son équipe et aplatit près du plot. Son vis-à-vis le poursuit par le même trajet.
 
-**Espace source :** 10 × 10 m ; files espacées de 4–5 m
+**Consignes — source :** Essai réussi : un point. Toucher : possession adverse à la reprise.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Équilibrer les duels ; encourager changements d’appuis, courbes et accélérations.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : nz-touchdown-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-touchdown-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-touchdown-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-calling-pairs"></a>
 ## Passer sur appel dans un espace partagé
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
-**Tags proposés :** Passe · Réception · Circulation et transmission
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Passes en binôme et soutien · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Choisir quand passer malgré les déplacements des autres binômes.
 
-**Matériel :** Ballons
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Choisir quand passer malgré les déplacements des autres binômes.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballons
 
-**Objectifs :** Choisir quand passer malgré les déplacements des autres binômes.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
+**Organisation — source :** Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Déroulement — source :** Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.
 
+**Consignes — source :** Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.
+
+**Critères de réussite — source :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Repères coach proposés par IA :** Le receveur appelle et contrôle le ballon pendant le déplacement. Regarder si l’appel précède la passe et si les binômes évitent de se gêner.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Variantes conservées séparément :** [Passer avec un soutien en retrait](#rc-pairs). Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+
+**Source principale :** [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Matériel : rc-calling-pairs-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-pass-duck"></a>
 ## Passer, rendre et s’accroupir
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Coopération · Circulation et transmission
 
-**Tags proposés :** Passe · Réception · Coopération · Circulation et transmission
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.
 
-**Matériel :** Six plots et un ballon par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Pass and Duck — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Réceptionner et doser une passe en utilisant le corps.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Six plots et un ballon par groupe
 
-**Objectifs :** Réceptionner et doser une passe en utilisant le corps.
+**Effectif minimum — source :** 4
 
-**Organisation :** Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Le premier reçoit, rend puis se baisse ; répéter jusqu’au dernier qui prend la place du passeur.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Former un W avec les mains ; finir le geste vers la cible.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Pass and Duck — Description, Coaching Outcome, Change It.
+**Organisation — source :** Une file d’au moins quatre joueurs ; un passeur face à elle à deux pas.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Le premier reçoit, rend puis se baisse ; répéter jusqu’au dernier qui prend la place du passeur.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Former un W avec les mains ; finir le geste vers la cible.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Rugby Australia ; Pass and Duck — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-pass-duck-source ; Pass and Duck — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-over-under"></a>
 ## Passes alternées dessus-dessous
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Relais · Circulation et transmission
 
-**Tags proposés :** Passe · Coopération · Relais · Circulation et transmission
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Files de quatre joueurs ou plus.
 
-**Matériel :** Six plots et un ballon par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Passing Overs and Unders — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Coopérer et enchaîner les réceptions-transmissions.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Six plots et un ballon par groupe
 
-**Objectifs :** Coopérer et enchaîner les réceptions-transmissions.
+**Effectif minimum — source :** 4
 
-**Organisation :** Files de quatre joueurs ou plus.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Attraper et passer à deux mains.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Passing Overs and Unders — Description, Coaching Outcome, Change It.
+**Organisation — source :** Files de quatre joueurs ou plus.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Attraper et passer à deux mains.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Rugby Australia ; Passing Overs and Unders — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-over-under-source ; Passing Overs and Unders — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-chain-reaction"></a>
 ## Passes après départs dans cinq postures
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Départs debout, un genou, deux genoux, allongé et assis.
 
-**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
 
-**Effectif :** 5–5 — par groupe actif
+**Matériel — historique non réexaminé :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support- Chain Reaction · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
+**Organisation — source :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
 
-**Déroulement :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
+**Déroulement — source :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
 
-**Consignes :** Courir droit ; passes douces à deux mains.
+**Consignes — source :** Courir droit ; passes douces à deux mains.
 
-**Critères de réussite :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
+**Critères de réussite — source :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
 
-Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
+**Points d’attention — source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
-**Espace source :** 20 × 10 m
+**Périmètre de l’effectif :** par groupe actif
 
+**Doublon probable — ne pas compter comme nouveauté :** [Créer la profondeur par des départs en postures décalées](#imagine-depth-running). Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.
+
+**Variantes conservées séparément :** [Passes en triangle et changement de posture](#rc-triangle). Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support- Chain Reaction. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Pass and Support- Chain Reaction — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Pass and Support- Chain Reaction ; 2026-09-09
+- Critères de réussite : wr-noncontact ; Pass and Support- Chain Reaction — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés ; 2026-09-16
+
+6 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-circle"></a>
 ## Passes en cercle tourné vers l’extérieur
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Circulation et transmission
 
-**Tags proposés :** Passe · Circulation et transmission
-
-**passe · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
 Cercles en compétition, joueurs tournés vers l’extérieur.
 
-**Matériel :** Un ballon par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–8
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Développer la passe et la réception.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Un ballon par groupe
 
-**Objectifs :** Développer la passe et la réception.
+**Effectif minimum — source :** 6
 
-**Organisation :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
+**Effectif maximum — source :** 8
 
-**Déroulement :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
+**Espace — source :** 10 × 10 m
 
-**Consignes :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Erreurs fréquentes :** Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.
+**Organisation — source :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Déroulement — source :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
 
-**Points coach issus de la source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
+**Consignes — source :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
 
-**Espace source :** 10 × 10 m
+**Critères de réussite — information manquante :** non extrait
 
+**Erreurs fréquentes — source :** Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.
+
+**Points d’attention — source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Erreurs fréquentes, Points d’attention : nz-circle-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-circle-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-circle-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-formation"></a>
 ## Passes en escalier par cinq
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Cinq joueurs en file.
 
-**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
 
-**Effectif :** 5–5 — par groupe actif
+**Matériel — historique non réexaminé :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support- Formation · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Cinq joueurs en file.
+**Organisation — source :** Cinq joueurs en file.
 
-**Déroulement :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
+**Déroulement — source :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
 
-**Consignes :** Courir droit et passer doucement à deux mains.
+**Consignes — source :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-16 — Pass and Support- Formation — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 10 × 10 m
+**Points d’attention — source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
+**Périmètre de l’effectif :** par groupe actif
+
+**Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](#wr-pass-support). Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support- Formation. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Pass and Support- Formation — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Pass and Support- Formation ; 2026-09-09
+- Points d’attention : wr-noncontact ; Pass and Support- Formation — Difficulty ; Coaching points conservés ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-triangle"></a>
 ## Passes en triangle et changement de posture
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
-**Tags proposés :** Passe · Réception · Circulation et transmission
-
-**passe · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** U9 (classement du site)
 
 En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons.
 
-**Matériel :** Un ballon pour la situation de départ
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Recevoir après un changement de posture.
+
+**Matériel — historique non réexaminé :** Un ballon pour la situation de départ
+
+**Effectif minimum — historique non réexaminé :** 3
+
+**Effectif maximum — historique non réexaminé :** 3
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trois joueurs en triangle.
+
+**Déroulement — source :** Passer, s’asseoir et se relever avant de recevoir à nouveau.
+
+**Consignes — source :** Présenter les mains tôt ; reprendre le rythme de circulation.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
 
 **Adaptation U8 proposée :** Garder un seul ballon et ralentir. Remplacer l’assise par un demi-tour si les enfants perdent le rythme.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description / Video Subtitles · consultée le 2026-09-06
+**Repères coach proposés par IA :** Le joueur se relève à temps pour recevoir après avoir passé et s’être assis. Distinguer les pertes de balle liées à la passe de celles liées au changement de posture.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+**À décider pour la séance :**
 
-**Objectifs :** Recevoir après un changement de posture.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Organisation :** Trois joueurs en triangle.
+**Variantes conservées séparément :** [Passes après départs dans cinq postures](#wr-chain-reaction). Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.
 
-**Déroulement :** Passer, s’asseoir et se relever avant de recevoir à nouveau.
+**Comparaison éditoriale complémentaire :** [rc-two-balls](#rc-two-balls) — La fiche triangle sélectionne passe puis assis-relevé ; la fiche deux ballons sélectionne deux circuits simultanés. Tâches distinctes. La ressource du triangle montre aussi un passage multiballon : ne pas recompter ce passage sans comparaison.
 
-**Consignes :** Présenter les mains tôt ; reprendre le rythme de circulation.
+**Source principale :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Points coach issus de la source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
+- Objectif, Organisation, Déroulement, Consignes : rc-triangle ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Points d’attention : rc-triangle ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-zigzag"></a>
 ## Passes en zigzag et replacement en bout de ligne
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Circulation et transmission
 
-**Tags proposés :** Passe · Coopération · Circulation et transmission
-
-**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
 Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
 
-**Matériel :** Ballons selon maîtrise, au maximum un pour deux
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Zig Zag Passing — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Enchaîner passe, réception et course à l’échauffement.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Ballons selon maîtrise, au maximum un pour deux
 
-**Objectifs :** Enchaîner passe, réception et course à l’échauffement.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
+**Espace — source :** 10 × 50 m
 
-**Consignes :** Passer des deux côtés, communiquer et doser pour le receveur.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles of play.
+**Organisation — source :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
 
-**Espace source :** 10 × 50 m
+**Déroulement — source :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
 
+**Consignes — source :** Passer des deux côtés, communiquer et doser pour le receveur.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — New Zealand Rugby — Rugby Toolbox ; Zig Zag Passing — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-zigzag-source ; Zig Zag Passing — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-zigzag-source ; Zig Zag Passing — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-zigzag-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="imagine-cold-hot"></a>
 ## Passes froides puis chaudes
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
-**Tags proposés :** Passe · Réception · Circulation et transmission
-
-**passe et réception · âge source : Débutant ; âge non précisé · Durée source 10–15 minutes : champ scalaire laissé inconnu. Carte reformulée ; validation U8 non effectuée. Phase technique lente puis accélération avec la même technique, sans trajet mémorisé.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Débutant ; âge non précisé
 
 Joueurs en cercle avec un ballon actif.
 
-**Matériel :** Deux ballons annoncés ; un actif au départ
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Pratiquer différentes techniques de passe.
+
+**Matériel — historique non réexaminé :** Deux ballons annoncés ; un actif au départ
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — historique non réexaminé :** 40 × 40 yards dans la source
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Joueurs en cercle avec un ballon actif.
+
+**Déroulement — source :** Le coach choisit une technique de passe ; la phase froide laisse du temps pour l’apprendre. Au signal chaud, accélérer les passes en conservant cette technique.
+
+**Consignes — source :** Passer au partenaire de son choix ; présenter les mains en W à la réception.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Rester disponible pour recevoir et compter ensemble les passes réussies.
 
 **Adaptation U8 proposée :** Proposition IA : commencer avec une passe courte à deux mains et un cercle adapté au groupe ; ne pas reprendre automatiquement la grande aire source.
 
-[Source : Imagine Rugby / Youth Rugby Initiative](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié · consultée le 2026-09-14
+**À décider pour la séance :**
 
-**Accès :** Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
 
-**Objectifs :** Pratiquer différentes techniques de passe.
+**Source principale :** [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Imagine Rugby / Youth Rugby Initiative ; Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié. Vérification documentaire : 2026-09-14.
 
-**Organisation :** Joueurs en cercle avec un ballon actif.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Le coach choisit une technique de passe ; la phase froide laisse du temps pour l’apprendre. Au signal chaud, accélérer les passes en conservant cette technique.
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention : imagine-games-source ; Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié ; 2026-09-14
 
-**Consignes :** Passer au partenaire de son choix ; présenter les mains en W à la réception.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-14 — Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié.
+</details>
 
-**Points coach issus de la source :** Rester disponible pour recevoir et compter ensemble les passes réussies.
+[Retour aux catégories](#categories)
 
-**Espace source :** 40 × 40 yards dans la source
+---
 
+<a id="rc-lateral-three"></a>
 ## Passes latérales en vagues de trois
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Circulation et transmission
 
-**Tags proposés :** Passe · Circulation et transmission
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Passes en progression collective · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Enchaîner course, réception et passe.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Enchaîner course, réception et passe.
+**Effectif minimum — historique non réexaminé :** 3
 
-**Organisation :** Vagues de trois, avec une ligne repère.
+**Effectif maximum — historique non réexaminé :** 3
 
-**Déroulement :** Transmettre successivement puis travailler dans l’autre sens.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Rester derrière le porteur et montrer les mains tôt.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Erreurs fréquentes :** Receveur en avance sur le porteur.
+**Organisation — source :** Vagues de trois, avec une ligne repère.
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Déroulement — source :** Transmettre successivement puis travailler dans l’autre sens.
 
-**Points coach issus de la source :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
+**Consignes — source :** Rester derrière le porteur et montrer les mains tôt.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — source :** Receveur en avance sur le porteur.
+
+**Points d’attention — historique non réexaminé :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
+
+**Repères coach proposés par IA :** Les trois joueurs font circuler le ballon dans les deux sens. Observer la disponibilité du joueur suivant avant chaque transmission.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Variantes conservées séparément :** [Créer la profondeur par des départs en postures décalées](#imagine-depth-running). Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.
+
+**Variantes conservées séparément :** [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
+
+**Source principale :** [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Erreurs fréquentes, Durée de l’atelier, Espace : rc-lateral-three-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-octopus-cross"></a>
 ## Pieuvre à deux traversées perpendiculaires
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.**
+**Famille :** Traversée de défenses · **Âge source :** Under 7 (classement du site)
 
 Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
-**Matériel :** Quatre plots ; rubans si jeu au tag
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Octopus — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Développer l’évitement et la capture par toucher ou ruban.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Quatre plots ; rubans si jeu au tag
 
-**Objectifs :** Développer l’évitement et la capture par toucher ou ruban.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
+**Espace — source :** À ajuster au groupe
 
-**Consignes :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
+**Organisation — source :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
-**Espace source :** À ajuster au groupe
+**Déroulement — source :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
 
+**Consignes — source :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — New Zealand Rugby — Rugby Toolbox ; Octopus — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-octopus-cross-source ; Octopus — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-octopus-cross-source ; Octopus — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-octopus-cross-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-plaquage-atelier"></a>
 ## Plaquage et libération
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Plaquage
 
-**Tags proposés :** Plaquage
-
-**contact · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Lutte et contact · **Âge source :** M8
 
 Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Apprendre le plaquage puis la libération du ballon.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositive 3 — Plaquage et libération · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Apprendre le plaquage puis la libération du ballon.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Plaquage et libération. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-2-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-partner-tag"></a>
 ## Poursuite avec ballon et permutation
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
 
-**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Binômes dans une zone, un porteur et un chasseur.
 
-**Matériel :** Huit plots et un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Partner Tag — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Agilité et perception de l’espace.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Huit plots et un ballon par binôme
 
-**Objectifs :** Agilité et perception de l’espace.
+**Effectif minimum — source :** 2
 
-**Organisation :** Binômes dans une zone, un porteur et un chasseur.
+**Effectif maximum — source :** 2
 
-**Déroulement :** Le porteur évite son partenaire ; après le toucher, permuter puis reprendre.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Éviter les autres binômes.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Partner Tag — Description, Coaching Outcome, Change It.
+**Organisation — source :** Binômes dans une zone, un porteur et un chasseur.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Le porteur évite son partenaire ; après le toucher, permuter puis reprendre.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Éviter les autres binômes.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Rugby Australia ; Partner Tag — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-partner-tag-source ; Partner Tag — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-pass-start"></a>
 ## Premières passes en ligne
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Circulation et transmission
 
-**Tags proposés :** Passe · Circulation et transmission
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Apprendre à recevoir puis transmettre vers une cible.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Apprendre à recevoir puis transmettre vers une cible.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs en ligne ; circulation du ballon dans les deux sens.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Commencer lentement à l’arrêt, puis augmenter la vitesse.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Joueurs en ligne ; circulation du ballon dans les deux sens.
+
+**Déroulement — source :** Commencer lentement à l’arrêt, puis augmenter la vitesse.
+
+**Consignes — source :** Mains prêtes ; réceptionner, regarder, passer vers les mains du partenaire.
 
 **Critères de réussite — proposition IA :** Le partenaire reçoit une passe dirigée vers ses mains.
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Erreurs fréquentes — information manquante :** non extrait
 
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Durée de l’atelier, Espace : rc-pass-start-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-protege-atelier"></a>
 ## Protège-ballon
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Lutte
 
-**Tags proposés :** Lutte
-
-**lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Lutte et contact · **Âge source :** M8
 
 Protéger son équilibre face à l’adversaire ; organisation à compléter.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Progresser dans l’équilibre et la posture en opposition.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Protège-ballon · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Progresser dans l’équilibre et la posture en opposition.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Rechercher une posture semi-fléchie et un ancrage stable.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Rechercher une posture semi-fléchie et un ancrage stable.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Protège-ballon. Vérification documentaire : 2026-09-07.
+
+**Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tp6). Association issue des annotations, visionnage non validé par l’assistant.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-chaos-touch"></a>
 ## Quatre cibles, porteur immobile
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Prise d’information · Opposition collective
 
-**Tags proposés :** Passe · Réception · Prise d’information · Opposition collective
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Trouver un partenaire libre dans une zone de marque.
 
-**Matériel :** Ballon et plots de couleurs
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Trouver un partenaire libre dans une zone de marque.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballon et plots de couleurs
 
-**Objectifs :** Trouver un partenaire libre dans une zone de marque.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Organisation — source :** Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.
 
+**Déroulement — source :** Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.
+
+**Consignes — source :** Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Variantes conservées séparément :** [Rugby à quatre cibles](#rc-netball). Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+
+**Source principale :** [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Matériel : rc-chaos-touch-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-four-one"></a>
 ## Quatre passeurs contre un intercepteur
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Conservation du ballon · Opposition collective · Surnombre
 
-**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective · Surnombre
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Conservation et interception · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 5–5
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Décider rapidement et conserver le ballon.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Décider rapidement et conserver le ballon.
+**Effectif minimum — historique non réexaminé :** 5
 
-**Organisation :** Quatre passeurs contre un intercepteur.
+**Effectif maximum — historique non réexaminé :** 5
 
-**Déroulement :** Chercher une série de dix passes.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Appeler et présenter les mains avant de recevoir.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Critères de réussite :** Atteindre dix passes.
+**Organisation — source :** Quatre passeurs contre un intercepteur.
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Déroulement — source :** Chercher une série de dix passes.
 
-**Points coach issus de la source :** Présenter une cible de réception et décider rapidement à qui transmettre.
+**Consignes — source :** Appeler et présenter les mains avant de recevoir.
 
+**Critères de réussite — source :** Atteindre dix passes.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — historique non réexaminé :** Présenter une cible de réception et décider rapidement à qui transmettre.
+
+**Repères coach proposés par IA :** Le groupe enchaîne des passes sans interception en renouvelant les solutions. Observer le déplacement des passeurs entre deux réceptions.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Variantes conservées séparément :** [Le joueur au milieu](#rc-piggy). Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.
+
+**Variantes conservées séparément :** [Conserver par dix passes sans interception](#wr-keep-ball). Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+**Comparaison éditoriale complémentaire :** [rc-ten](#rc-ten) — Sportplan décrit deux équipes et une distance défensive minimale ; quatre-contre-un décrit quatre passeurs et un intercepteur. Cible de dix passes commune, identité non démontrée. Conserver séparément avec périmètre Sportplan explicite.
+
+**Comparaison éditoriale complémentaire :** [wr-keep-ball](#wr-keep-ball) — Toucher du porteur sans interception contre défense par interception.
+
+**Source principale :** [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Durée de l’atelier, Espace : rc-four-one-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-wolf"></a>
 ## Quelle heure est-il, monsieur le loup ?
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.**
+**Famille :** Traversée de défenses · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
 
-**Matériel :** Neuf plots et un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Écouter, anticiper et réagir.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Neuf plots et un ballon par joueur
 
-**Objectifs :** Écouter, anticiper et réagir.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Réagir à la réponse du loup et conserver son ballon.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It.
+**Organisation — source :** Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Réagir à la réponse du loup et conserver son ballon.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — Rugby Australia ; What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-wolf-source ; What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-ramasser"></a>
 ## Ramasser puis transmettre
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Ramassage du ballon · Circulation et transmission
 
-**Tags proposés :** Passe · Réception · Ramassage du ballon · Circulation et transmission
-
-**passe · âge source : M8 · Source consultée — validation terrain à faire**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** M8
 
 Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloigner progressivement la cible.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 10, atelier 1 · consultée le 2026-09-06
+**Objectif — source :** Ramasser, transmettre et réceptionner.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Ramasser, transmettre et réceptionner.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Ballon au sol ; partenaire ou cible.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Ramasser puis passer ; travailler aussi la réception.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Diriger la passe vers son destinataire.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Ballon au sol ; partenaire ou cible.
 
+**Déroulement — source :** Ramasser puis passer ; travailler aussi la réception.
+
+**Consignes — source :** Diriger la passe vers son destinataire.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Repères coach proposés par IA :** L’enfant maîtrise le ballon ramassé avant de le transmettre. Observer séparément le ramassage et la transmission pour identifier la difficulté.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 10, atelier 1. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 10 — atelier correspondant ; pagination fichier ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-pick-place"></a>
 ## Ramasser, porter et reposer
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Ramassage du ballon · Parcours
 
-**Tags proposés :** Manipulation du ballon · Ramassage du ballon · Parcours
-
-**manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Under 7 (classement du site)
 
 Une file traverse une zone où les ballons sont dispersés.
 
-**Matériel :** Cinq à huit ballons
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 15–20
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Ramasser et sécuriser le ballon au sol.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Cinq à huit ballons
 
-**Objectifs :** Ramasser et sécuriser le ballon au sol.
+**Effectif minimum — source :** 15
 
-**Organisation :** Une file traverse une zone où les ballons sont dispersés.
+**Effectif maximum — source :** 20
 
-**Déroulement :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
+**Espace — source :** 20 × 20 m
 
-**Consignes :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Erreurs fréquentes :** Lâcher ou faire rouler le ballon au lieu de le poser fermement.
+**Organisation — source :** Une file traverse une zone où les ballons sont dispersés.
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Déroulement — source :** Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.
 
-**Espace source :** 20 × 20 m
+**Consignes — source :** Poser fermement à deux mains, alternativement à gauche et à droite ; ne pas jeter.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — source :** Lâcher ou faire rouler le ballon au lieu de le poser fermement.
+
+**Points d’attention — source :** Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite.
+
+**Repères coach proposés par IA :** Le ballon est ramassé puis reposé avec contrôle à chaque emplacement. Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Erreurs fréquentes : nz-pick-place-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-pick-place-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Points d’attention : nz-pick-place-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-pick-place-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-crocodile"></a>
 ## Ramper comme un crocodile
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Coordination · Motricité individuelle
 
-**Tags proposés :** Motricité · Coordination · Motricité individuelle
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Coordination du même côté et posture très basse ; différente de ffr-appuis dos horizontal.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Allongé au départ, puis appui sur bras et pieds.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Crocodile Walk · consultée le 2026-09-07
+**Objectif — proposition IA :** Coordonner les appuis des bras et des jambes dans un déplacement au sol.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Aucun
 
-**Organisation :** Allongé au départ, puis appui sur bras et pieds.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Avancer bras et jambe gauches ensemble, puis côté droit.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Poitrine proche du sol et coudes hauts.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 16 — Crocodile Walk.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Allongé au départ, puis appui sur bras et pieds.
+
+**Déroulement — source :** Avancer bras et jambe gauches ensemble, puis côté droit.
+
+**Consignes — source :** Poitrine proche du sol et coudes hauts.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Crocodile Walk. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Crocodile Walk ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-nest-pass"></a>
 ## Rapporter les trésors par une passe
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
 
-**Tags proposés :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.**
+**Famille :** Collecte de ballons · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Quatre équipes aux coins ; réserve centrale de ballons.
 
-**Matériel :** Huit plots et seize ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Rob the Nest — passing progression — Description, Coaching Outcome, Change It · consultée le 2026-09-06
+**Objectif — source :** Coopérer, porter à deux mains et lire l’espace.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Huit plots et seize ballons
 
-**Objectifs :** Coopérer, porter à deux mains et lire l’espace.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Quatre équipes aux coins ; réserve centrale de ballons.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Départs successifs ; compter les ballons à la fin.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Description, Coaching Outcome, Change It.
+**Organisation — source :** Quatre équipes aux coins ; réserve centrale de ballons.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Départs successifs ; compter les ballons à la fin.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Repères coach proposés par IA :** Le ballon collecté rejoint le camp grâce à une passe contrôlée. Observer le lien entre collecteur et receveur ; rappeler la restitution prévue si le ballon tombe.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Rugby Australia ; Rob the Nest — passing progression — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-06.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-nest ; Rob the Nest — passing progression — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="munster-rats"></a>
 ## Rats et lapins
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
-
-**déplacement · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Réaction et course en duel · **Âge source :** Primaire / mini-rugby
 
 Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son partenaire.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Vitesse, anticipation et évitement.
+
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux lignes appariées ; refuges à 10–20 mètres.
+
+**Déroulement — source :** L’équipe appelée fuit ; ses partenaires adverses poursuivent.
+
+**Consignes — source :** Rejoindre le refuge sans être touché.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 5 · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** PDF public consulté
+coach : Réaction au signal, chacun dans sa voie.; duration_min : 6; easier : Sans poursuite.; harder : Varier les signaux.; players_max : 10; players_min : 4; setup : Paires face à face avec deux refuges.; steps : Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche.
 
-**Objectifs :** Vitesse, anticipation et évitement.
+**À décider pour la séance :**
 
-**Organisation :** Deux lignes appariées ; refuges à 10–20 mètres.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Déroulement :** L’équipe appelée fuit ; ses partenaires adverses poursuivent.
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 5. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Rejoindre le refuge sans être touché.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-16 — PDF page 5 (numérotation 1-based) — Game Card, How to play.
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 5 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-### Proposition terrain U8 — à valider
+1 révision(s) conservée(s) dans les données de l’application.
 
-6 min · 4 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+</details>
 
-**Installation :** Paires face à face avec deux refuges.
+[Retour aux catégories](#categories)
 
-**Déroulement :** Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche.
+---
 
-**À observer :** Réaction au signal, chacun dans sa voie.
-
-**Plus simple :** Sans poursuite.
-
-**Plus difficile :** Varier les signaux.
-
+<a id="nz-rats-straight"></a>
 ## Rats et lapins : duel avec ballon en ligne droite
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
 
-**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel avec ballon et destination opposée ; munster-rats est une poursuite vers le refuge sans ballon.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Binômes face à face à dix à quinze mètres ; ballon devant eux.
 
-**Matériel :** Ballons, ceintures et rubans
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Rats and Rabbits 3 — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Éviter l’adversaire et retirer ses rubans.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Ballons, ceintures et rubans
 
-**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Binômes face à face à dix à quinze mètres ; ballon devant eux.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.
+**Espace — source :** Deux lignes espacées de 10 à 15 m
 
-**Consignes :** Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Rats and Rabbits 3 — Objective / Principles of play.
+**Organisation — source :** Binômes face à face à dix à quinze mètres ; ballon devant eux.
 
-**Espace source :** Deux lignes espacées de 10 à 15 m
+**Déroulement — source :** Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.
 
+**Consignes — source :** Courir droit. Après capture, lever le ruban, annoncer Rip puis le rendre.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — New Zealand Rugby — Rugby Toolbox ; Rats and Rabbits 3 — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-rats34-source ; Rats and Rabbits 3 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-rats34-source ; Rats and Rabbits 3 — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-rats34-source ; COACHING POINTS, archive locale ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-rats-free"></a>
 ## Rats et lapins : trajectoires libres
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
 
-**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Même départ en binômes face à face, ballon au sol.
 
-**Matériel :** Ballons, ceintures et rubans
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Rats and Rabbits 4 — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Éviter l’adversaire et retirer ses rubans.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Ballons, ceintures et rubans
 
-**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Même départ en binômes face à face, ballon au sol.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
+**Espace — source :** Départ à 10 à 15 m
 
-**Consignes :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principles of play.
+**Organisation — source :** Même départ en binômes face à face, ballon au sol.
 
-**Espace source :** Départ à 10 à 15 m
+**Déroulement — source :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
 
-## Réagir au mot plot
+**Consignes — source :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Réaction au signal · Prise d’information · Duel
+**Erreurs fréquentes — information manquante :** non extrait
 
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.**
+**Points d’attention — source :** Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.
 
-Binômes à longueur de bras ; plot au sol à égale distance.
+**À décider pour la séance :**
 
-**Matériel :** Un plot pour deux joueurs
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
 
-**Durée atelier :** Non renseignée
+**Source principale :** [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — New Zealand Rugby — Rugby Toolbox ; Rats and Rabbits 4 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Adaptation U8 proposée :** Aucune rédigée.
+- Objectif : nz-rats34-source ; Rats and Rabbits 4 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-rats34-source ; Rats and Rabbits 4 — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-rats34-source ; COACHING POINTS, archive locale ; 2026-09-16
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Cone Game — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+3 révision(s) conservée(s) dans les données de l’application.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+</details>
 
-**Objectifs :** Anticipation, écoute et réaction.
+[Retour aux catégories](#categories)
 
-**Organisation :** Binômes à longueur de bras ; plot au sol à égale distance.
+---
 
-**Déroulement :** Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.
-
-**Consignes :** Écouter le mot annoncé avant d’agir.
-
-Détails extraits le 2026-09-10 — Cone Game — Description, Coaching Outcome, Change It.
-
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
-
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
-
+<a id="rc-bounce"></a>
 ## Rebondir et échanger en binôme
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Circulation et transmission
 
-**Tags proposés :** Manipulation du ballon · Circulation et transmission
-
-**manipulation · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Passes en binôme et soutien · **Âge source :** U9 (classement du site)
 
 Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond avec un partenaire. Une progression travaille la réception d’une seule main en changeant de côté.
 
-**Matériel :** Un ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Coordonner réception et rebond.
+
+**Matériel — historique non réexaminé :** Un ballon
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux partenaires face à face.
+
+**Déroulement — source :** Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.
+
+**Consignes — source :** Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — source :** Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner.
+
+**Points d’attention — source :** Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.
 
 **Adaptation U8 proposée :** Conserver d’abord la réception à deux mains ; choisir une surface régulière et une faible distance.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Coordonner réception et rebond.
+**Source principale :** [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Organisation :** Deux partenaires face à face.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Déroulement :** Faire rebondir le ballon sur sa pointe, puis échanger avec le partenaire.
+- Objectif, Organisation, Déroulement, Consignes : rc-bounce ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Erreurs fréquentes, Points d’attention : rc-bounce ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-**Consignes :** Progression à une main : réceptionner sans bloquer contre le corps ; changer de main.
+2 révision(s) conservée(s) dans les données de l’application.
 
-**Erreurs fréquentes :** Bloquer le ballon contre le corps dans la progression où seule la main doit réceptionner.
+</details>
 
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+[Retour aux catégories](#categories)
 
-**Points coach issus de la source :** Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.
+---
 
-## Recevoir à différentes hauteurs et passer
-
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-**Tags proposés :** Passe · Réception · Circulation et transmission
-
-**passe · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
-
-Recevoir à différentes hauteurs et passer
-
-**Matériel :** Ballons et plots
-
-**Durée atelier :** Non renseignée
-
-**Effectif :** 4–4
-
-**Adaptation U8 proposée :** Aucune rédigée.
-
-[Source : Fédération Française de Rugby](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF page 24 · consultée le 2026-09-08
-
-**Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
-
-**Objectifs :** Recevoir, ramasser et transmettre à un partenaire.
-
-**Organisation :** Un passeur, un joueur actif et deux réceptionneurs.
-
-**Déroulement :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
-
-**Consignes :** Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot.
-
-**Critères de réussite :** Passer en mouvement vers le partenaire.
-
-Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagination fichier.
-
-**Espace source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
-
+<a id="ffr-reception"></a>
 ## Recevoir en trottinant
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réception · Circulation et transmission
 
-**Tags proposés :** Réception · Circulation et transmission
-
-**passe · âge source : M10 · Source consultée — validation terrain à faire**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** M10
 
 Réceptionner une passe pendant un déplacement au petit trot.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Réceptionner en déplacement.
+
+**Matériel — historique non réexaminé :** Ballon
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Enfant et parent passeur, un ballon.
+
+**Déroulement — source :** Trottiner puis recevoir.
+
+**Consignes — source :** Attraper sans interrompre le déplacement.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition à valider : commencer en marchant, à courte distance, sans opposition.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 9 · consultée le 2026-09-06
+**Repères coach proposés par IA :** L’enfant contrôle la passe tout en poursuivant son déplacement au petit trot. Repérer s’il regarde le ballon suffisamment tôt pour préparer sa réception.
 
-**Accès :** PDF public, texte consulté
+**À décider pour la séance :**
 
-**Objectifs :** Réceptionner en déplacement.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Organisation :** Enfant et parent passeur, un ballon.
+**Comparaison éditoriale complémentaire :** [ffr-transmettre](#ffr-transmettre) — La page 17 distingue explicitement deux ateliers : enfant en mouvement recevant du parent (9), puis enfant courant avec ballon et passant au parent (10). Tâches complémentaires de la même famille, pas deux copies de la même consigne.
 
-**Déroulement :** Trottiner puis recevoir.
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 17, atelier 9. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Attraper sans interrompre le déplacement.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
+- Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 17 — atelier correspondant ; pagination fichier ; 2026-09-16
 
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-guide-recevoir-passer"></a>
+## Recevoir à différentes hauteurs et passer
+
+**Catégories proposées :** Passe · Réception · Circulation et transmission
+
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** M8 — guide saison 2022-2023
+
+Recevoir à différentes hauteurs et passer
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Recevoir, ramasser et transmettre à un partenaire.
+
+**Matériel — historique non réexaminé :** Ballons et plots
+
+**Effectif minimum — historique non réexaminé :** 4
+
+**Effectif maximum — historique non réexaminé :** 4
+
+**Espace — source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Un passeur, un joueur actif et deux réceptionneurs.
+
+**Déroulement — source :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
+
+**Consignes — source :** Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot.
+
+**Critères de réussite — source :** Passer en mouvement vers le partenaire.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 24. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Consignes : ffr-guide-m8-2023 ; PDF page 24 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Critères de réussite, Espace : ffr-guide-m8-2023 ; PDF page 24, organisation, consignes et critères ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-handling-relay"></a>
 ## Relais avec changements de portage
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Course · Relais · Parcours
 
-**Tags proposés :** Manipulation du ballon · Course · Relais · Parcours
-
-**manipulation · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Under 7 (classement du site)
 
 Groupes alignés devant quatre plots espacés de dix mètres.
 
-**Matériel :** Un ballon et quatre plots par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–6 — par groupe
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Améliorer la manipulation du ballon.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon et quatre plots par groupe
 
-**Objectifs :** Améliorer la manipulation du ballon.
+**Effectif minimum — source :** 3
 
-**Organisation :** Groupes alignés devant quatre plots espacés de dix mètres.
+**Effectif maximum — source :** 6
 
-**Déroulement :** Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.
+**Espace — source :** 40 × 20 m
 
-**Consignes :** Feinter avant de changer de direction.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Organisation — source :** Groupes alignés devant quatre plots espacés de dix mètres.
 
-**Points coach issus de la source :** Feinter avant de s’écarter dans le changement de direction.
+**Déroulement — source :** Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.
 
-**Espace source :** 40 × 20 m
+**Consignes — source :** Feinter avant de changer de direction.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Feinter avant de s’écarter dans le changement de direction.
+
+**Périmètre de l’effectif :** par groupe
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-handling-relay-source ; Description et paramètres du jeu ; 2026-09-08
+- Points d’attention : nz-handling-relay-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-multi-relay"></a>
 ## Relais avec cinq manipulations successives
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Jeu au pied · Motricité · Ramassage du ballon · Relais · Parcours
 
-**Tags proposés :** Manipulation du ballon · Jeu au pied · Motricité · Ramassage du ballon · Relais · Parcours
-
-**motricité et manipulation · âge source : Under 7 (classement du site) · Description source ; progression et passage au sol à adapter au niveau des enfants.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Under 7 (classement du site)
 
 Trois files réalisent un relais avec une action différente à chaque tour.
 
-**Matériel :** Un ballon par groupe ; repères de parcours
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–15
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-09
+**Objectif — source :** Pratiquer plusieurs habiletés avec le ballon.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon par groupe ; repères de parcours
 
-**Objectifs :** Pratiquer plusieurs habiletés avec le ballon.
+**Effectif minimum — source :** 6
 
-**Organisation :** Trois files face à un repère situé à quinze mètres.
+**Effectif maximum — source :** 15
 
-**Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
+**Espace — source :** 20 × 20 m ; repère à 15 m
 
-**Consignes :** Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Trois files face à un repère situé à quinze mètres.
 
-**Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
+**Déroulement — source :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
 
-**Espace source :** 20 × 20 m ; repère à 15 m
+**Consignes — source :** Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Points d’attention : nz-multi-relay-source ; Description et coaching points ; 2026-09-09
+- Consignes : nz-multi-relay-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-multi-relay-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-relais"></a>
 ## Relais avec essai
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Motricité · Course · Relais
 
-**Tags proposés :** Passe · Motricité · Course · Relais
-
-**motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Primaire (Écosse)
 
 Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 12 · consultée le 2026-09-07
+**Objectif — source :** Se familiariser avec le ballon dans une situation structurée et peu contraignante.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Objectifs :** Se familiariser avec le ballon dans une situation structurée et peu contraignante.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Files courtes ; deux plots délimitent la marque.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Courir marquer entre les plots, revenir et transmettre.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Aplatir entre les plots, revenir puis transmettre au suivant.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 12, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Files courtes ; deux plots délimitent la marque.
 
-**Points coach issus de la source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
+**Déroulement — source :** Courir marquer entre les plots, revenir et transmettre.
 
+**Consignes — source :** Aplatir entre les plots, revenir puis transmettre au suivant.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 12. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Consignes, Points d’attention : scot-primary ; PDF page 12, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 12 (pagination fichier), TASK et SETUP ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-pass-support"></a>
 ## Relais de soutien tous les cinq mètres
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Soutien · Manipulation du ballon · Relais · Circulation et transmission
 
-**Tags proposés :** Soutien · Manipulation du ballon · Relais · Circulation et transmission
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Cinq joueurs partent en file.
 
-**Matériel :** Un ballon par atelier ; plots pour délimiter
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
 
-**Effectif :** 5–5 — par atelier
+**Matériel — historique non réexaminé :** Un ballon par atelier ; plots pour délimiter
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 25 m de longueur
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Cinq joueurs partent en file.
+**Organisation — source :** Cinq joueurs partent en file.
 
-**Déroulement :** Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.
+**Déroulement — source :** Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.
 
-**Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
+**Consignes — source :** Conserver des intervalles réguliers et réceptionner en mouvement.
 
-**Critères de réussite :** Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.
+**Critères de réussite — source :** Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.
 
-Détails extraits le 2026-09-16 — Pass and Support — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
+**Points d’attention — source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
-**Espace source :** 25 m de longueur
+**Périmètre de l’effectif :** par atelier
 
+**Variantes conservées séparément :** [File avec transmission au nouveau meneur](#wr-follow-leader). Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
+
+**Variantes conservées séparément :** [Passes en escalier par cinq](#wr-formation). Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Pass and Support — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Pass and Support ; 2026-09-08
+- Critères de réussite : wr-noncontact ; Pass and Support — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; Pass and Support — Difficulty ; Coaching points conservés ; 2026-09-16
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-relais-atelier"></a>
 ## Relais — courir, rouler, passer
 
-**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+**Catégories proposées :** Passe · Motricité · Relais
 
-**Tags proposés :** Passe · Motricité · Relais
-
-**motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Parcours et relais avec ballon · **Âge source :** M8
 
 Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Enchaîner course, passage au sol, relevé, passe et réception.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositive 3 — Relais — courir, rouler, passer · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Enchaîner course, passage au sol, relevé, passe et réception.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
+**Organisation — information manquante :** non extrait
 
+**Déroulement — information manquante :** non extrait
+
+**Consignes — information manquante :** non extrait
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
+
+**Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Relais — courir, rouler, passer. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-2-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-roulade-releve"></a>
 ## Roulade et relevé
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Motricité individuelle
 
-**Tags proposés :** Motricité · Motricité individuelle
-
-**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Travail individuel au sol.
 
-**Matériel :** Aucun ; ballon facultatif
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 9 — Atelier 6 · consultée le 2026-09-06
+**Objectif — source :** Enchaîner roulade et relevé.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Aucun ; ballon facultatif
 
-**Objectifs :** Enchaîner roulade et relevé.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Travail individuel au sol.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Faire une roulade de type judo puis se relever.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Enchaîner le relevé après la roulade.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Travail individuel au sol.
 
+**Déroulement — source :** Faire une roulade de type judo puis se relever.
+
+**Consignes — source :** Enchaîner le relevé après la roulade.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 6. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : ffr-famille ; PDF page 9 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 9 — Atelier 6 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-rip"></a>
 ## Rubans avec restitution avant reprise
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Coopération · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
-
-**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Under 7 (classement du site)
 
 Joueurs répartis dans le carré.
 
-**Matériel :** Ceintures et rubans
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — DRILL EXPLANATION · consultée le 2026-09-09
+**Objectif — source :** Prendre les rubans des adversaires et les éviter.
 
-**Accès :** Description publique consultée
+**Matériel — historique non réexaminé :** Ceintures et rubans
 
-**Objectifs :** Prendre les rubans des adversaires et les éviter.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs répartis dans le carré.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
+**Espace — historique non réexaminé :** 10 × 10 m
 
-**Consignes :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Joueurs répartis dans le carré.
 
-**Espace source :** 10 × 10 m
+**Déroulement — source :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
 
+**Consignes — source :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-rip-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-rip-source ; DRILL EXPLANATION ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-netball"></a>
 ## Rugby à quatre cibles
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Réception · Coopération · Opposition collective
 
-**Tags proposés :** Passe · Réception · Coopération · Opposition collective
-
-**passe · âge source : U8 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Jeux à zones de marque · **Âge source :** U8 (classement du site)
 
 Marquer par une passe à un partenaire dans une cible. Quatre cibles favorisent le déplacement ; changer de cible après un point. La source demande une passe rapide après toucher et insiste sur les passes courtes.
 
-**Matériel :** Ballon ; quatre zones cibles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Repérer un partenaire et une cible libres.
+
+**Matériel — historique non réexaminé :** Ballon ; quatre zones cibles
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes et quatre zones de marque.
+
+**Déroulement — source :** Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.
+
+**Consignes — source :** Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition U8 à valider : découvrir les cibles sans opposition avant d’ajouter un toucher. Les consignes de la vidéo ne sont pas le règlement FFR.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Description et sous-titres · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Sous-titres publics consultés ; lecture vidéo non vérifiée
+coach : Se démarquer vers une zone disponible.; duration_min : 8; easier : Deux cibles.; harder : Quatre cibles et changement de cible après un point.; players_max : 10; players_min : 6; setup : Quatre zones cibles, deux équipes et un ballon.; steps : Marquer en passant à un partenaire dans une cible. Proposition : au toucher, le porteur s’arrête et peut passer ; le défenseur recule.
 
-**Objectifs :** Repérer un partenaire et une cible libres.
+**À décider pour la séance :**
 
-**Organisation :** Deux équipes et quatre zones de marque.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Déroulement :** Marquer par une passe réceptionnée dans une cible ; changer de cible après la marque.
+**Variantes conservées séparément :** [Quatre cibles, porteur immobile](#rc-chaos-touch). Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-**Consignes :** Règle source : transmettre sous une seconde après toucher ; préférer les passes courtes.
+**Source principale :** [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — RugbyCoaching.tv ; Description et sous-titres. Vérification documentaire : 2026-09-06.
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-### Proposition terrain U8 — à valider
+- Objectif, Organisation, Déroulement, Consignes : rc-netball ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
 
-8 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Installation :** Quatre zones cibles, deux équipes et un ballon.
+</details>
 
-**Déroulement :** Marquer en passant à un partenaire dans une cible. Proposition : au toucher, le porteur s’arrête et peut passer ; le défenseur recule.
+[Retour aux catégories](#categories)
 
-**À observer :** Se démarquer vers une zone disponible.
+---
 
-**Plus simple :** Deux cibles.
+<a id="au-cone-game"></a>
+## Réagir au mot plot
 
-**Plus difficile :** Quatre cibles et changement de cible après un point.
+**Catégories proposées :** Réaction au signal · Prise d’information · Duel
 
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
+
+Binômes à longueur de bras ; plot au sol à égale distance.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Anticipation, écoute et réaction.
+
+**Matériel — source :** Un plot pour deux joueurs
+
+**Effectif minimum — source :** 2
+
+**Effectif maximum — source :** 2
+
+**Espace — information manquante :** non indiqué dans le passage examiné
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Binômes à longueur de bras ; plot au sol à égale distance.
+
+**Déroulement — source :** Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.
+
+**Consignes — source :** Écouter le mot annoncé avant d’agir.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Rugby Australia ; Cone Game — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-cone-game-source ; Cone Game — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-saut-ballon"></a>
 ## Sauter le ballon et stabiliser
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
-
-**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Obstacle au sol.
 
-**Matériel :** Un ballon ou objet
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 9 — Atelier 5 · consultée le 2026-09-06
+**Objectif — source :** Franchir le ballon et stabiliser la réception.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Un ballon ou objet
 
-**Objectifs :** Franchir le ballon et stabiliser la réception.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Obstacle au sol.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Sauter par-dessus à deux pieds.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Retrouver l’équilibre à la réception.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Obstacle au sol.
 
+**Déroulement — source :** Sauter par-dessus à deux pieds.
+
+**Consignes — source :** Retrouver l’équilibre à la réception.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 5. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : ffr-famille ; PDF page 9 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 9 — Atelier 5 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="munster-grenouille"></a>
 ## Sauts verticaux de grenouille
 
-**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Motricité · Motricité individuelle
 
-**Tags proposés :** Motricité · Motricité individuelle
-
-**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** Primaire / mini-rugby ; âge précis non indiqué
 
 Position accroupie de grenouille.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+**Objectif — proposition IA :** Contrôler une impulsion verticale et le retour au sol.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Organisation :** Position accroupie de grenouille.
+**Effectif minimum — information manquante :** non extrait
 
-**Déroulement :** Sauter en cherchant la hauteur puis revenir au sol.
+**Effectif maximum — information manquante :** non extrait
 
-**Consignes :** Se réceptionner sans bruit.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Position accroupie de grenouille.
+
+**Déroulement — source :** Sauter en cherchant la hauteur puis revenir au sol.
+
+**Consignes — source :** Se réceptionner sans bruit.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : munster-fms ; PDF page 15 — Teaching Cues ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-guide-dribble"></a>
 ## Slalom au pied puis essai
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Jeu au pied · Parcours
 
-**Tags proposés :** Jeu au pied · Parcours
-
-**jeu au pied · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
+**Famille :** Jeu et conduite au pied · **Âge source :** M8 — guide saison 2022-2023
 
 Slalom au pied puis essai
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Fédération Française de Rugby](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF page 26 · consultée le 2026-09-08
+**Objectif — source :** Effectuer un coup franc et conduire des deux pieds.
 
-**Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
+**Matériel — historique non réexaminé :** Ballons et plots
 
-**Objectifs :** Effectuer un coup franc et conduire des deux pieds.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Un ballon par joueur ; trois plots de slalom.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
+**Espace — source :** Zone de 5 × 5 m.
 
-**Consignes :** Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Garder le ballon dans la zone et doser les touches.
+**Organisation — source :** Un ballon par joueur ; trois plots de slalom.
 
-Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagination fichier.
+**Déroulement — source :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
 
-**Espace source :** Zone de 5 × 5 m.
+**Consignes — source :** Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone.
 
+**Critères de réussite — source :** Garder le ballon dans la zone et doser les touches.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 26. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Consignes : ffr-guide-m8-2023 ; PDF page 26 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Critères de réussite, Espace : ffr-guide-m8-2023 ; PDF page 26, organisation, consignes et critères ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-chain-relay"></a>
 ## Slalomer dans la chaîne de partenaires
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Coordination · Relais · Parcours
 
-**Tags proposés :** Évitement · Coordination · Relais · Parcours
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Deux lignes opposées, bras en T, doigts voisins qui se touchent.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) — Chain Relay — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Agilité et coopération.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Aucun
 
-**Objectifs :** Agilité et coopération.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux lignes opposées, bras en T, doigts voisins qui se touchent.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Le premier slalome entre ses partenaires puis rejoint la fin ; le suivant part alors. Continuer jusqu’au passage de tous.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Regarder devant soi et orienter les appuis pour slalomer.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Chain Relay — Description, Coaching Outcome, Change It.
+**Organisation — source :** Deux lignes opposées, bras en T, doigts voisins qui se touchent.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Le premier slalome entre ses partenaires puis rejoint la fin ; le suivant part alors. Continuer jusqu’au passage de tous.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Regarder devant soi et orienter les appuis pour slalomer.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Chain Relay](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) — Rugby Australia ; Chain Relay — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-chain-relay-source ; Chain Relay — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-speedy-individuel"></a>
 ## Speedy — un ballon chacun
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Ramassage du ballon
 
-**Tags proposés :** Réaction au signal · Ramassage du ballon
-
-**réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Réaction et course en duel · **Âge source :** M8
 
 Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejoindre son refuge. Trois couloirs pour six enfants.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–6
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 69 · consultée le 2026-09-07
+**Objectif — source :** Améliorer la vitesse de réaction.
 
-**Accès :** PDF public consulté
+**Matériel — historique non réexaminé :** Ballons et plots
 
-**Objectifs :** Améliorer la vitesse de réaction.
+**Effectif minimum — historique non réexaminé :** 6
 
-**Organisation :** Trois binômes de niveau proche dans trois couloirs.
+**Effectif maximum — historique non réexaminé :** 6
 
-**Déroulement :** Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.
+**Espace — historique non réexaminé :** Couloirs 20 × 3 m
 
-**Consignes :** Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
+**Organisation — source :** Trois binômes de niveau proche dans trois couloirs.
 
-**Espace source :** Couloirs 20 × 3 m
+**Déroulement — source :** Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.
 
-**Famille proposée :** reaction-course
+**Consignes — source :** Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Comparaison éditoriale complémentaire :** [ffr-speedy-partage](#ffr-speedy-partage) — Un ballon chacun contre un ballon disputé ; opposition de possession différente.
+
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 69. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2023 ; PDF page 69 (pagination fichier), organisation et lancement ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-speedy-partage"></a>
 ## Speedy — un ballon pour deux
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Ramassage du ballon · Duel
 
-**Tags proposés :** Réaction au signal · Ramassage du ballon · Duel
-
-**réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Réaction et course en duel · **Âge source :** M8
 
 Même départ visuel ; les deux adversaires se disputent désormais un seul ballon.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–6
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 69 — évolution 2 · consultée le 2026-09-07
+**Objectif — source :** Améliorer la vitesse de réaction.
 
-**Accès :** PDF public consulté
+**Matériel — historique non réexaminé :** Ballons et plots
 
-**Objectifs :** Améliorer la vitesse de réaction.
+**Effectif minimum — historique non réexaminé :** 6
 
-**Organisation :** Même disposition, avec un ballon pour deux joueurs.
+**Effectif maximum — historique non réexaminé :** 6
 
-**Déroulement :** Au signal visuel, disputer le ballon puis rejoindre son refuge.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Le joueur sans ballon peut poursuivre son adversaire.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
+**Organisation — source :** Même disposition, avec un ballon pour deux joueurs.
 
-**Famille proposée :** reaction-course
+**Déroulement — source :** Au signal visuel, disputer le ballon puis rejoindre son refuge.
 
+**Consignes — source :** Le joueur sans ballon peut poursuivre son adversaire.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Comparaison éditoriale complémentaire :** [ffr-speedy-individuel](#ffr-speedy-individuel) — Un ballon chacun contre un ballon disputé ; opposition de possession différente.
+
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 69 — évolution 2. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2023 ; PDF page 69 (pagination fichier), organisation et lancement ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-follow-choice"></a>
 ## Suivre et réagir au choix de transmission
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Coopération · Ramassage du ballon · Circulation et transmission
 
-**Tags proposés :** Passe · Coopération · Ramassage du ballon · Circulation et transmission
-
-**passe et coopération · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Variante de wr-follow-leader : choisir entre trois modes de transmission oblige le soutien à réagir.**
+**Famille :** Passes en binôme et soutien · **Âge source :** Initiation ; âge non précisé
 
 Groupe en file derrière le porteur.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer, soutenir et assurer la continuité.
 
-**Effectif :** Non renseigné
+**Matériel — source :** Ballon et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support - Follow the Leader — organisation et déroulement · consultée le 2026-09-08
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 20 m
 
-**Objectifs :** Avancer, soutenir et assurer la continuité.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Groupe en file derrière le porteur.
+**Organisation — source :** Groupe en file derrière le porteur.
 
-**Déroulement :** Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue.
+**Déroulement — source :** Au signal, le meneur s’arrête : ballon présenté, passé ou posé. Le suivant récupère, devient meneur ; l’ancien rejoint la queue.
 
-**Consignes :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
+**Consignes — source :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
 
-Détails extraits le 2026-09-16 — Pass and Support- Follow the Leader — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Soutenir à environ cinq mètres, sans suivre trop près ; essayer de prendre le ballon sans ralentir. Pour ramasser : fléchir les genoux et garder la tête levée. Réglages proposés par la source : Complexifier : laisser les joueurs décider quand transmettre ; travailler aussi à deux ou trois avec davantage de ballons. Simplifier : marcher ou trottiner.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 20 × 20 m
+**Points d’attention — source :** Soutenir à environ cinq mètres, sans suivre trop près ; essayer de prendre le ballon sans ralentir. Pour ramasser : fléchir les genoux et garder la tête levée. Réglages proposés par la source : Complexifier : laisser les joueurs décider quand transmettre ; travailler aussi à deux ou trois avec davantage de ballons. Simplifier : marcher ou trottiner.
 
+**À décider pour la séance :**
+
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support - Follow the Leader — organisation et déroulement. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Pass and Support - Follow the Leader — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Pass and Support - Follow the Leader — organisation et déroulement ; 2026-09-09
+- Points d’attention : wr-noncontact ; Pass and Support- Follow the Leader — Difficulty ; Coaching points conservés ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-shadow"></a>
 ## Suivre l’ombre du porteur
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Duel
 
-**Tags proposés :** Évitement · Duel
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Poursuite continue en binôme sans capture ni refuge, différente du suivi collectif et des chasses à délivrance.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Binômes, un ballon ; trio possible si effectif impair.
 
-**Matériel :** Un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Shadow Run — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Effectuer des changements de direction rapides.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon par binôme
 
-**Objectifs :** Effectuer des changements de direction rapides.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Binômes, un ballon ; trio possible si effectif impair.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.
+**Espace — source :** 20 × 20 m
 
-**Consignes :** Ballon à deux mains, tête levée pour éviter les autres binômes.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Shadow Run — Objective / Principles of play.
+**Organisation — source :** Binômes, un ballon ; trio possible si effectif impair.
 
-**Espace source :** 20 × 20 m
+**Déroulement — source :** Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.
 
+**Consignes — source :** Ballon à deux mains, tête levée pour éviter les autres binômes.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.
+
+**Repères coach proposés par IA :** Le partenaire suit les changements de direction en conservant la distance prévue. Observer la réaction aux changements d’appui, sans transformer le suivi en contact.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — New Zealand Rugby — Rugby Toolbox ; Shadow Run — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : nz-shadow-source ; Shadow Run — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-shadow-source ; Shadow Run — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-shadow-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-numbers-tag"></a>
 ## Tag : défenseurs numérotés
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réaction au signal · Prise d’information · Opposition collective
 
-**Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Repérer et exploiter les espaces créés dans la défense.
 
-**Matériel :** Ballon et rubans de tag
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Repérer et exploiter les espaces créés dans la défense.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballon et rubans de tag
 
-**Objectifs :** Repérer et exploiter les espaces créés dans la défense.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Organisation — source :** Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.
 
+**Déroulement — source :** Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.
+
+**Consignes — source :** Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Matériel : rc-numbers-tag-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-tagmania"></a>
 ## Tag mania et délivrance
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-
-**déplacement · âge source : Non précisé ; classement U7 · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Non précisé ; classement U7
 
 La première situation invite chacun à récolter des rubans. Une progression fige les joueurs touchés et permet à un partenaire de les délivrer en passant sous leurs bras.
 
-**Matériel :** Rubans ; ballons pour les progressions
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Changer d’appuis et éviter les chasseurs.
+
+**Matériel — historique non réexaminé :** Rubans ; ballons pour les progressions
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Aire délimitée, rubans ; ballons pour la progression.
+
+**Déroulement — source :** D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.
+
+**Consignes — source :** Rester sur le terrain et protéger son ballon.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Séparer les deux règles : d’abord collecte, puis jeu de délivrance. Pour simplifier, délivrer par une tape dans la main.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Changer d’appuis et éviter les chasseurs.
+**Comparaison éditoriale complémentaire :** [wr-scarecrow](#wr-scarecrow) — La deuxième situation des sous-titres TAG Progressions décrit toucher au ballon puis délivrance sous les bras : même mécanisme que Scarecrow. Ne pas compter la fiche composite comme une nouvelle variante individuelle.
 
-**Organisation :** Aire délimitée, rubans ; ballons pour la progression.
+**Source principale :** [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Déroulement :** D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Rester sur le terrain et protéger son ballon.
+- Objectif, Organisation, Déroulement, Consignes : rc-tagmania ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
 
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
+1 révision(s) conservée(s) dans les données de l’application.
 
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="nz-tap-pass"></a>
 ## Taper au pied puis passer en ligne
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Jeu au pied · Coopération · Circulation et transmission
 
-**Tags proposés :** Passe · Jeu au pied · Coopération · Circulation et transmission
-
-**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Enchaînement pose/tap/passe et déplacement de la ligne, absent des passes latérales simples.**
+**Famille :** Passes en progression collective · **Âge source :** Under 7 (classement du site)
 
 Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
-**Matériel :** Un ballon par ligne, plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 4–5 — par groupe
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Tap pass Tap — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Enchaîner un tap au pied et une passe.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon par ligne, plots
 
-**Objectifs :** Enchaîner un tap au pied et une passe.
+**Effectif minimum — source :** 4
 
-**Organisation :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
+**Effectif maximum — source :** 5
 
-**Déroulement :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
+**Espace — source :** 5 × 15 m
 
-**Consignes :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of play.
+**Organisation — source :** Groupes de quatre à cinq, alignés à deux longueurs de bras.
 
-**Espace source :** 5 × 15 m
+**Déroulement — source :** Chaque receveur pose le ballon, fait un tap puis passe ; le dernier dépose près du plot. Recommencer sur la ligne suivante.
 
-## Tennis à la main
+**Consignes — source :** Le groupe suivant utilise le ballon déposé ; retour à l’extérieur du couloir.
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Réception · Coordination · Circulation et transmission
+**Erreurs fréquentes — information manquante :** non extrait
 
-**coordination · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Points d’attention — information manquante :** non extrait
 
-À deux, tenir une chasuble comme filet ; de la main libre, réceptionner puis lâcher le ballon par-dessus.
+**Périmètre de l’effectif :** par groupe
 
-**Matériel :** Non renseigné
+**À décider pour la séance :**
 
-**Durée atelier :** Non renseignée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-**Effectif :** 2–2
+**Source principale :** [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — New Zealand Rugby — Rugby Toolbox ; Tap pass Tap — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 13 · consultée le 2026-09-07
+- Objectif : nz-tap-pass-source ; Tap pass Tap — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-tap-pass-source ; Tap pass Tap — organisation et déroulement ; 2026-09-09
 
-**Accès :** PDF public consulté
+2 révision(s) conservée(s) dans les données de l’application.
 
-**Organisation :** Binômes avec une chasuble tendue comme filet.
+</details>
 
-**Déroulement :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
+[Retour aux catégories](#categories)
 
-**Consignes :** Tenir la chasuble d’une main et jouer le ballon avec l’autre.
+---
 
-Détails extraits le 2026-09-09 — PDF page 13.
-
+<a id="au-tennis-return"></a>
 ## Tennis au pied : élimination et retour
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Réception · Jeu au pied · Opposition collective
 
-**Tags proposés :** Réception · Jeu au pied · Opposition collective
-
-**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.**
+**Famille :** Jeux de renvoi : main et pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Deux équipes dans des terrains opposés.
 
-**Matériel :** Douze plots et un ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Kick Tennis — elimination progression — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Précision, réception et coopération.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Douze plots et un ballon
 
-**Objectifs :** Précision, réception et coopération.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux équipes dans des terrains opposés.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Botter au-dessus des épaules. Une chute élimine le joueur qui lâche ou le plus proche du point de chute ; une réception réussie fait revenir un éliminé.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Chercher les espaces libres et communiquer à la réception.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Kick Tennis — elimination progression — Description, Coaching Outcome, Change It.
+**Organisation — source :** Deux équipes dans des terrains opposés.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Botter au-dessus des épaules. Une chute élimine le joueur qui lâche ou le plus proche du point de chute ; une réception réussie fait revenir un éliminé.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Chercher les espaces libres et communiquer à la réception.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Rugby Australia ; Kick Tennis — elimination progression — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-tennis-source ; Kick Tennis — elimination progression — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-kick-tennis"></a>
 ## Tennis au pied avec score
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Jeu au pied · Opposition collective
 
-**Tags proposés :** Jeu au pied · Opposition collective
-
-**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.**
+**Famille :** Jeux de renvoi : main et pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Deux équipes dans deux rectangles opposés.
 
-**Matériel :** Douze plots et un ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Kick Tennis — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Précision au pied, réception et communication.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Douze plots et un ballon
 
-**Objectifs :** Précision au pied, réception et communication.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux équipes dans deux rectangles opposés.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Le ballon doit monter au-dessus des épaules.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcome, Change It.
+**Organisation — source :** Deux équipes dans deux rectangles opposés.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Le ballon doit monter au-dessus des épaules.
 
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Rugby Australia ; Kick Tennis — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-tennis-source ; Kick Tennis — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-tennis"></a>
+## Tennis à la main
+
+**Catégories proposées :** Réception · Coordination · Circulation et transmission
+
+**Famille :** Jeux de renvoi : main et pied · **Âge source :** Primaire (Écosse)
+
+À deux, tenir une chasuble comme filet ; de la main libre, réceptionner puis lâcher le ballon par-dessus.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Coordonner réception et transmission d’une main avec un partenaire.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Binômes avec une chasuble tendue comme filet.
+
+**Déroulement — source :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
+
+**Consignes — source :** Tenir la chasuble d’une main et jouer le ballon avec l’autre.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 13. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 13 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 13 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-colour-touch"></a>
 ## Toucher avec rappel des défenseurs par couleur
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Prise d’information · Opposition collective
 
-**Tags proposés :** Prise d’information · Opposition collective
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent à leur ligne d’essai pendant que l’attaque continue. La source impose une passe sous une seconde après toucher et un genou au sol au défenseur qui touche.
 
-**Matériel :** Ballon et chasubles de couleurs
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Exploiter un espace libéré par la défense.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon et chasubles de couleurs
 
-**Objectifs :** Exploiter un espace libéré par la défense.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Équipes opposées ; défenseurs identifiables par couleur.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Organisation — source :** Équipes opposées ; défenseurs identifiables par couleur.
 
-**Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
+**Déroulement — source :** Au rappel de leur couleur, les défenseurs rejoignent leur ligne ; l’attaque poursuit.
 
+**Consignes — source :** Règle de cet exercice : passe sous une seconde après toucher ; le défenseur ayant touché s’agenouille.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — historique non réexaminé :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Espace : rc-colour-touch-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-partner-release"></a>
 ## Toucher, libérer au sol et changer de rôle
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Ramassage du ballon · Poursuite et délivrance · Duel
 
-**Tags proposés :** Évitement · Ramassage du ballon · Poursuite et délivrance · Duel
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite avec passage au sol et ramassage pour changer de rôle.**
+**Famille :** Passes en binôme et soutien · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Binôme porteur-chasseur dans une zone.
 
-**Matériel :** Huit plots et un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Agilité et perception de l’espace.
+
+**Matériel — source :** Huit plots et un ballon par binôme
+
+**Effectif minimum — source :** 2
+
+**Effectif maximum — source :** 2
+
+**Espace — information manquante :** non indiqué dans le passage examiné
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Binôme porteur-chasseur dans une zone.
+
+**Déroulement — source :** Après le toucher, le porteur va au sol et libère le ballon. Le chasseur ramasse ; les rôles changent alors et la poursuite reprend.
+
+**Consignes — source :** Permuter après le ramassage, pas au moment du toucher.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
 
 **Adaptation U8 proposée :** Proposition IA : apprendre séparément la descente au sol sur surface adaptée, sans chute provoquée par un partenaire ; à valider par le coach.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Partner Tag — ground release progression — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**À décider pour la séance :**
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Agilité et perception de l’espace.
+**Source principale :** [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Rugby Australia ; Partner Tag — ground release progression — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-**Organisation :** Binôme porteur-chasseur dans une zone.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-**Déroulement :** Après le toucher, le porteur va au sol et libère le ballon. Le chasseur ramasse ; les rôles changent alors et la poursuite reprend.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Permuter après le ramassage, pas au moment du toucher.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-partner-tag-source ; Partner Tag — ground release progression — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Détails extraits le 2026-09-10 — Partner Tag — ground release progression — Description, Coaching Outcome, Change It.
+1 révision(s) conservée(s) dans les données de l’application.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+</details>
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+[Retour aux catégories](#categories)
 
+---
+
+<a id="ffr-transmettre"></a>
 ## Transmettre en trottinant
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Passe · Circulation et transmission
 
-**Tags proposés :** Passe · Circulation et transmission
-
-**passe · âge source : M10 · Source consultée — validation terrain à faire**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** M10
 
 Passer au partenaire tout en trottinant avec le ballon.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Passer en déplacement.
+
+**Matériel — historique non réexaminé :** Ballon
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Enfant porteur et parent réceptionneur.
+
+**Déroulement — source :** Trottiner puis transmettre.
+
+**Consignes — source :** Orienter la passe vers le parent.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition à valider : travailler en binôme, en marchant puis en trottinant.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 10 · consultée le 2026-09-06
+**Repères coach proposés par IA :** L’enfant transmet au partenaire pendant son déplacement. Observer si le partenaire peut recevoir sans devoir courir après le ballon.
 
-**Accès :** PDF public, texte consulté
+**À décider pour la séance :**
 
-**Objectifs :** Passer en déplacement.
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Organisation :** Enfant porteur et parent réceptionneur.
+**Comparaison éditoriale complémentaire :** [ffr-reception](#ffr-reception) — La page 17 distingue explicitement deux ateliers : enfant en mouvement recevant du parent (9), puis enfant courant avec ballon et passant au parent (10). Tâches complémentaires de la même famille, pas deux copies de la même consigne.
 
-**Déroulement :** Trottiner puis transmettre.
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 17, atelier 10. Vérification documentaire : 2026-09-06.
 
-**Consignes :** Orienter la passe vers le parent.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
+- Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 17 — atelier correspondant ; pagination fichier ; 2026-09-16
 
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-pass-pal"></a>
 ## Traverser et donner à un partenaire extérieur
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Manipulation du ballon · Coopération · Circulation et transmission
 
-**Tags proposés :** Manipulation du ballon · Coopération · Circulation et transmission
-
-**passe et coopération · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory. Source contradictoire : groupe de quatre annoncé mais quatre dehors et un dedans ; effectif numérique inconnu.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Partenaires sur les bords du carré et un porteur au centre.
 
-**Matériel :** Un ballon par groupe, plots, chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 11 — Pass to a pal · consultée le 2026-09-07
+**Objectif — proposition IA :** Repérer un partenaire disponible et enchaîner déplacement et transmission.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Un ballon par groupe, plots, chasubles
 
-**Organisation :** Partenaires sur les bords du carré et un porteur au centre.
+**Effectif minimum — information manquante :** contradiction à résoudre
 
-**Déroulement :** Le porteur rejoint un partenaire extérieur et lui donne le ballon ; celui-ci traverse puis transmet à un autre partenaire de son équipe.
+**Effectif maximum — information manquante :** contradiction à résoudre
 
-**Consignes :** Éviter les autres joueurs pendant la traversée.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 11 — Pass to a pal.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
+**Organisation — source :** Partenaires sur les bords du carré et un porteur au centre.
+
+**Déroulement — source :** Le porteur rejoint un partenaire extérieur et lui donne le ballon ; celui-ci traverse puis transmet à un autre partenaire de son équipe.
+
+**Consignes — source :** Éviter les autres joueurs pendant la traversée.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 11 — Pass to a pal. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 11 — Pass to a pal ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-bulldog"></a>
 ## Traverser face aux chasseurs
 
-**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-
-**déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Traversée de défenses · **Âge source :** Non précisé
 
 Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent progressivement la défense, qui s’organise pour fermer les espaces.
 
-**Matériel :** Terrain délimité
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–10
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter les défenseurs ; défendre collectivement.
+
+**Matériel — historique non réexaminé :** Terrain délimité
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 10
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Huit traversants face à deux chasseurs au départ.
+
+**Déroulement — source :** Traverser ; les joueurs touchés rejoignent les chasseurs.
+
+**Consignes — source :** Les défenseurs communiquent pour couvrir les espaces.
+
+**Critères de réussite — source :** Traverser sans être touché ; le dernier attaquant restant gagne.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.
 
 **Adaptation U8 proposée :** Faire plusieurs courtes manches et limiter le nombre de chasseurs pour préserver des possibilités de passage.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description / Video Subtitles · consultée le 2026-09-06
+**À décider pour la séance :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
 
-**Objectifs :** Éviter les défenseurs ; défendre collectivement.
+**Comparaison éditoriale complémentaire :** [rc-aliens](#rc-aliens) — Les touchés deviennent chasseurs dans les deux cas ; chasse libre au ballon contre traversées successives sans ballon.
 
-**Organisation :** Huit traversants face à deux chasseurs au départ.
+**Source principale :** [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Déroulement :** Traverser ; les joueurs touchés rejoignent les chasseurs.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Consignes :** Les défenseurs communiquent pour couvrir les espaces.
+- Objectif, Organisation, Déroulement, Consignes : rc-bulldog ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Points d’attention : rc-bulldog ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-**Critères de réussite :** Traverser sans être touché ; le dernier attaquant restant gagne.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
+</details>
 
-**Points coach issus de la source :** Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.
+[Retour aux catégories](#categories)
 
+---
+
+<a id="scot-zones"></a>
 ## Traverser les zones gardées
 
-**Planifier l’atelier :** Manche documentée : 90 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+**Catégories proposées :** Évitement
 
-**Tags proposés :** Évitement
-
-**évitement · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Traversée de défenses · **Âge source :** Primaire (Écosse)
 
 Franchir les carrés sans être touché. Les défenseurs restent dans leur carré ; les remplacer après quatre-vingt-dix secondes.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Manche documentée : 90 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — proposition IA :** Observer un défenseur et choisir un passage pour franchir sa zone.
 
-**Effectif :** Non renseigné
+**Matériel — information manquante :** non extrait
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — information manquante :** non extrait
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 19 · consultée le 2026-09-07
+**Effectif maximum — information manquante :** non extrait
 
-**Accès :** PDF public consulté
+**Espace — information manquante :** non extrait
 
-**Organisation :** Au moins quatre carrés gardés par des défenseurs.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Déroulement :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
+**Organisation — source :** Au moins quatre carrés gardés par des défenseurs.
 
-**Consignes :** Les défenseurs restent dans leur carré.
+**Déroulement — source :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
 
-Détails extraits le 2026-09-09 — PDF page 19.
+**Consignes — source :** Les défenseurs restent dans leur carré.
 
-**Manche source :** 90 secondes ; durée totale inconnue.
+**Critères de réussite — information manquante :** non extrait
 
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Durée d’une manche dans la source :** 90 secondes ; distincte de la durée totale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 19. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 19 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 19 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-tag-3v2"></a>
 ## Trois contre deux avec passes en arrière
 
-**Planifier l’atelier :** 12 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
-
-**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé par World Rugby
 
 Trois attaquants contre deux défenseurs.
 
-**Matériel :** Un ballon par groupe ; plots et rubans
+**Durée pour préparer l’atelier :** 12 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 12 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.
 
-**Effectif :** 5–5 — par atelier, attentes comprises
+**Matériel — historique non réexaminé :** Un ballon par groupe ; plots et rubans
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 3 v 2 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.
+**Durée de l’atelier — source :** 12
 
-**Organisation :** Trois attaquants contre deux défenseurs.
+**Organisation — source :** Trois attaquants contre deux défenseurs.
 
-**Déroulement :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
+**Déroulement — source :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
 
-**Consignes :** Passer en arrière ; défense par prise de ruban.
+**Consignes — source :** Passer en arrière ; défense par prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 10 × 10 m
+**Points d’attention — source :** Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur.
 
-**Famille proposée :** surnombre-rubans
+**Périmètre de l’effectif :** par atelier, attentes comprises
 
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 3 v 2. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; 3 v 2 — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; 3 v 2 ; 2026-09-09
+- Points d’attention : wr-noncontact ; 3 v 2 — Coaching points ; 2026-09-13
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-tag-3v1"></a>
 ## Trois contre un avec rotation du défenseur
 
-**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
-
-**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé par World Rugby
 
 Trois attaquants, un défenseur et un joueur en attente.
 
-**Matériel :** Un ballon par groupe ; plots et rubans
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.
 
-**Effectif :** 5–5 — par atelier, attentes comprises
+**Matériel — historique non réexaminé :** Un ballon par groupe ; plots et rubans
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 3 v 1 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Trois attaquants, un défenseur et un joueur en attente.
+**Organisation — source :** Trois attaquants, un défenseur et un joueur en attente.
 
-**Déroulement :** Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.
+**Déroulement — source :** Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.
 
-**Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
+**Consignes — source :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-**Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
+**Critères de réussite — source :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
 
-Détails extraits le 2026-09-16 — 3 v 1 — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
+**Points d’attention — source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
 
-**Espace source :** 10 × 10 m
+**Périmètre de l’effectif :** par atelier, attentes comprises
 
-**Famille proposée :** surnombre-rubans
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 3 v 1. Vérification documentaire : 2026-09-08.
 
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; 3 v 1 — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; 3 v 1 ; 2026-09-09
+- Critères de réussite : wr-noncontact ; 3 v 1 — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; 3 v 1 — Difficulty ; Coaching points conservés ; 2026-09-16
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="scot-alignement"></a>
 ## Trois joueurs alignés
 
-**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Catégories proposées :** Prise d’information
 
-**Tags proposés :** Prise d’information
-
-**prise d’information · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Alignement collectif · **Âge source :** Primaire (Écosse)
 
 Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement de trois gagne.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–6
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 14 · consultée le 2026-09-07
+**Objectif — proposition IA :** Observer les positions des partenaires et choisir une place pour former un alignement.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Organisation :** Deux équipes de trois, neuf plots en carré.
+**Effectif minimum — historique non réexaminé :** 6
 
-**Déroulement :** Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.
+**Effectif maximum — historique non réexaminé :** 6
 
-**Consignes :** Se déplacer à tour de rôle uniquement vers un plot libre.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 14.
+**Durée de l’atelier — information manquante :** non extrait
 
+**Organisation — source :** Deux équipes de trois, neuf plots en carré.
+
+**Déroulement — source :** Se déplacer à tour de rôle vers un plot libre ; aligner trois joueurs pour marquer, puis recommencer.
+
+**Consignes — source :** Se déplacer à tour de rôle uniquement vers un plot libre.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 14. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 14 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 14 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-passing-relays"></a>
 ## Vagues de passes avec relais sur l’autre rive
 
-**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Passe · Soutien · Relais · Circulation et transmission
 
-**Tags proposés :** Passe · Soutien · Relais · Circulation et transmission
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Trois équipes de cinq par couloir, deux sur une rive.
 
-**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
 
-**Effectif :** 15–15 — par couloir
+**Matériel — historique non réexaminé :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 15
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Relays with Passing · consultée le 2026-09-08
+**Effectif maximum — source :** 15
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 20 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Trois équipes de cinq par couloir, deux sur une rive.
+**Organisation — source :** Trois équipes de cinq par couloir, deux sur une rive.
 
-**Déroulement :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
+**Déroulement — source :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
 
-**Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
+**Consignes — source :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-16 — Relays with Passing — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 20 × 20 m
+**Points d’attention — source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
+**Périmètre de l’effectif :** par couloir
+
+**Variantes conservées séparément :** [Passes latérales en vagues de trois](#rc-lateral-three). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Relays with Passing. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Relays with Passing — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Relays with Passing ; 2026-09-09
+- Points d’attention : wr-noncontact ; Relays with Passing — Difficulty ; Coaching points conservés ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="sg-team-tag"></a>
 ## Vider le terrain au tag contre la montre
 
-**Planifier l’atelier :** 3 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+**Catégories proposées :** Évitement · Réaction au signal · Poursuite et délivrance
 
-**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
-
-**évitement et réaction · âge source : Primaire, Key Stages 1 et 2 · Texte source reformulé ; validation coach non effectuée. Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs. Trois minutes maximum : fin anticipée si tous les porteurs sont pris.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire, Key Stages 1 et 2
 
 Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
 
-**Matériel :** Douze ballons, douze ceintures, quatre chasubles, plots
+**Durée pour préparer l’atelier :** 3 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 3 min
+**Objectif — source :** Vider le terrain aussi rapidement que possible.
 
-**Effectif :** 16–16 — un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois
+**Matériel — source :** Douze ballons, douze ceintures, quatre chasubles, plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 16
 
-[Source : School Games](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Rugby union - team tag — Getting started · consultée le 2026-09-10
+**Effectif maximum — source :** 16
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Espace — source :** Environ 15 × 20 m
 
-**Objectifs :** Vider le terrain aussi rapidement que possible.
+**Durée de l’atelier — source :** 3
 
-**Organisation :** Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
+**Organisation — source :** Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
 
-**Déroulement :** Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.
+**Déroulement — source :** Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.
 
-**Consignes :** Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.
+**Consignes — source :** Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.
 
-Détails extraits le 2026-09-10 — Rugby union - team tag — Getting started.
+**Critères de réussite — information manquante :** non extrait
 
-**Espace source :** Environ 15 × 20 m
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Répertoire des sources
+**Points d’attention — information manquante :** non extrait
 
-- [Cat and Mouse](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) — Description publique consultée ; capture locale évaluée séparément.
-- [Chain Relay](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) — Description publique consultée ; capture locale évaluée séparément.
-- [Colour Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) — Description publique consultée ; capture locale évaluée séparément.
-- [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Description publique consultée ; capture locale évaluée séparément.
-- [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Description publique consultée ; capture locale évaluée séparément.
-- [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — FAQ publique consultée.
-- [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Description publique consultée ; capture locale évaluée séparément.
-- [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Description publique consultée ; capture locale évaluée séparément.
-- [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Description publique consultée ; capture locale évaluée séparément.
-- [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description publique consultée. Variante de la famille des nids ; rattachée à la fiche existante.
-- [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Description publique consultée ; capture locale évaluée séparément.
-- [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Description publique consultée ; capture locale évaluée séparément.
-- [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Description publique consultée ; capture locale évaluée séparément.
-- [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Description publique consultée ; capture locale évaluée séparément.
-- [UFOs](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) — Description publique consultée ; capture locale évaluée séparément.
-- [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — Description publique consultée ; capture locale évaluée séparément.
-- [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.
-- [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositives et texte publics consultés ; PDF non téléchargé.
-- [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — Diapositives et texte publics consultés ; PDF non téléchargé.
-- [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositives et texte publics consultés ; PDF non téléchargé.
-- [M8 : échauffement et préparation physique](https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique) — Page publique ; vidéo non analysée. Répertoire à approfondir. Situations issues des journées 2014.
-- [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
-- [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF consulté via recherche documentaire ; capture locale à vérifier.
-- [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) — Page publique, liens documentaires repérés. Guide éducateur et livret joueur à examiner.
-- [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
-- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
-- [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture.
-- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
-- [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — Description publique indexée consultée ; capture à vérifier.
-- [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — Description publique indexée consultée ; capture à vérifier.
-- [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
-- [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — Description publique consultée.
-- [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
-- [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — Description publique consultée.
-- [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
-- [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — Description publique consultée.
-- [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — Description publique consultée.
-- [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
-- [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — Description publique consultée.
-- [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — Description publique consultée.
-- [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — Description publique consultée.
-- [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Description publique consultée.
-- [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
-- [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Description publique consultée.
-- [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — Description publique consultée.
-- [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Description publique consultée.
-- [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Description publique consultée.
-- [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
-- [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Description publique consultée.
-- [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) — Page publique découverte ; capture et contenu à vérifier.
-- [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — Page publique découverte ; capture et contenu à vérifier.
-- [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — Page publique découverte ; capture et contenu à vérifier.
-- [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — Page publique découverte ; capture et contenu à vérifier.
-- [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.
-- [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [stg hare hound](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-hare-hound/10000814) — Page publique découverte ; capture et contenu à vérifier.
-- [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.
-- [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — Page publique découverte ; capture et contenu à vérifier.
-- [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — Page publique découverte ; capture et contenu à vérifier.
-- [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description et sous-titres publics consultés ; vidéo non téléchargée.
-- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
-- [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
-- [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Description publique consultée ; capture locale évaluée séparément.
-- [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION publique consultée. Auteur non identifié sur la page ; variante documentaire, pas confirmation du déroulement de la vidéo RugbyCoaching.tv.
-- [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — Page publique consultée ; ressources détaillées à examiner. Point de départ pour élargir la collecte.
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Périmètre de l’effectif :** un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois
+
+**Source principale :** [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — School Games ; Rugby union - team tag — Getting started. Vérification documentaire : 2026-09-10.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : sg-team-tag-source ; Rugby union - team tag — Getting started ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-scarecrow"></a>
+## Épouvantails avec délivrance
+
+**Catégories proposées :** Évitement · Poursuite et délivrance
+
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Initiation Get Into Rugby ; âge précis non indiqué
+
+Épouvantails avec délivrance
+
+**Durée pour préparer l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Exercer une pression défensive.
+
+**Matériel — historique non réexaminé :** Source pour six ateliers : six ballons et douze plots
+
+**Effectif minimum — historique non réexaminé :** 5
+
+**Effectif maximum — historique non réexaminé :** 5
+
+**Espace — historique non réexaminé :** 5 × 5 m par atelier
+
+**Durée de l’atelier — historique non réexaminé :** 5
+
+**Organisation — source :** Cinq joueurs : un chasseur et quatre fuyards.
+
+**Déroulement — source :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
+
+**Consignes — source :** Toucher à deux mains à la taille sans pousser.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite.
+
+**Périmètre de l’effectif :** Par atelier ; source organisée en six ateliers parallèles
+
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
+
+**Comparaison éditoriale complémentaire :** [munster-mud](#munster-mud) — Même mécanisme de toucher, immobilisation et délivrance sous un bras. Munster prévoit deux chasseurs, 20 × 20 m et fin au plus tard après cinq minutes ; World Rugby un chasseur par groupe de cinq et changement après une minute. Versions paramétrées du même jeu ; équivalence exacte non affirmée.
+
+**Comparaison éditoriale complémentaire :** [rc-tagmania](#rc-tagmania) — La deuxième situation des sous-titres TAG Progressions décrit toucher au ballon puis délivrance sous les bras : même mécanisme que Scarecrow. Ne pas compter la fiche composite comme une nouvelle variante individuelle.
+
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Scarecrow Tag. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif : wr-noncontact ; Scarecrow Tag — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes : wr-noncontact ; Section Scarecrow Tag ; 2026-09-08
+- Points d’attention : wr-noncontact ; Scarecrow Tag — Difficulty ; Coaching points conservés ; 2026-09-16
+
+4 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="rc-team-scarecrow"></a>
+## Épouvantails — chasseurs passeurs
+
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
+
+**Famille :** Chasse collective par passes · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
+
+Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.
+
+**Matériel — historique non réexaminé :** Ballon
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Plusieurs chasseurs coopèrent avec un ballon.
+
+**Déroulement — source :** Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.
+
+**Consignes — source :** Le porteur ne court pas.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — historique non réexaminé :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](#scot-corner). Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
+
+**Comparaison éditoriale complémentaire :** [scot-corner](#scot-corner) — Conserver séparément. Chasseurs par trois dans Scottish Rugby, changements par paires dans les sous-titres RugbyCoaching. Sort du joueur touché insuffisamment décrit pour prouver une équivalence.
+
+**Source principale :** [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-team-scarecrow-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="munster-flamant"></a>
+## Équilibre du flamant
+
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
+
+**Famille :** Motricité et postures · **Âge source :** Primaire / mini-rugby ; âge précis non indiqué
+
+Debout sur un pied, autre genou devant.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
+
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Retrouver un équilibre sur un pied après un changement d’appui.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Debout sur un pied, autre genou devant.
+
+**Déroulement — source :** Changer rapidement de pied puis immobiliser la posture.
+
+**Consignes — source :** Se figer après le changement.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Repères coach proposés par IA :** L’enfant retrouve une posture stable après le changement de pied. Observer la stabilité après le changement, sans transformer la durée tenue en classement des enfants.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : munster-fms ; PDF page 15 — Teaching Cues ; 2026-09-09
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="au-ufos"></a>
+## Éviter les plots et recevoir le ballon
+
+**Catégories proposées :** Réception · Évitement · Prise d’information
+
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
+
+Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Appuis, agilité et vision.
+
+**Matériel — source :** Quarante plots et six ballons pour le dispositif source
+
+**Effectif minimum — source :** 4
+
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
+
+**Espace — source :** Petit carré ; partenaires à environ 2 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Groupes d’au moins quatre ; un joueur dans un petit carré, partenaires à environ deux mètres.
+
+**Déroulement — source :** Éviter les plots envoyés par les partenaires ; recevoir le ballon lorsqu’une passe arrive. Faire passer chacun au centre.
+
+**Consignes — source :** Garder le regard disponible pour repérer obstacles et ballon.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
+
+**Adaptation U8 proposée :** Proposition IA : uniquement des coupelles souples envoyées au ras du sol, sans viser le visage ; éducateur à proximité. À valider avant utilisation.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+
+**Source principale :** [UFOs](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) — Rugby Australia ; UFOs — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
+
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-ufos-source ; UFOs — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---

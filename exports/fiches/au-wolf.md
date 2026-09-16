@@ -1,71 +1,61 @@
-# Bibliothèque rugby U8
+# Quelle heure est-il, monsieur le loup ?
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
-## Quelle heure est-il, monsieur le loup ?
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.**
+**Famille :** Traversée de défenses · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
 
-**Matériel :** Neuf plots et un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Écouter, anticiper et réagir.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Neuf plots et un ballon par joueur
 
-**Objectifs :** Écouter, anticiper et réagir.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Réagir à la réponse du loup et conserver son ballon.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It.
+**Organisation — source :** Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Demander l’heure et avancer du nombre de pas annoncé. Au signal Try Scoring Time, dépasser le loup pour marquer avant d’être touché.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Réagir à la réponse du loup et conserver son ballon.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — Description publique consultée ; capture locale évaluée séparément.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Traversée de défenses.
-
-**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — Rugby Australia ; What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-wolf-source ; What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

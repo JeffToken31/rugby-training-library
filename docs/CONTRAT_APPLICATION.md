@@ -64,3 +64,9 @@ La dimension « forme de jeu » n’est pas forcée quand aucun des formats déf
 
 ## Durées de planification
 `planning_duration` distingue PLANNING_PROPOSAL, EXISTING_DURATION, KNOWN_ROUND_DURATION et INSUFFICIENT_DESCRIPTION. Une proposition expose profil, durée minimum/maximum en secondes, explication, nombre de séquences, temps par séquence, pauses et retour. Les totaux incluent explication et retours, excluent le changement de station. Ce sont des hypothèses éditoriales à confirmer, pas une mesure du temps actif individuel. Les champs documentaires sont inchangés. Les profils et affectations sont versionnés dans data/timing-proposals.json.
+
+## Catalogue centralisé
+
+`unified_catalogue.py` produit le catalogue et les fiches individuelles à partir du même rendu de `APPLICATION.json`. Les anciennes vues DUREES, CATEGORIES, COMPARAISONS et bilans de préparation redirigent vers le catalogue. Les fichiers de données restent séparés pour conserver la provenance et reconstruire l’ensemble ; la lecture utilisateur est centralisée.
+
+`consolidation_review` conserve le contrôle des déroulements identiques et la relecture des 16 rapprochements déjà enregistrés. Un doublon probable n’entraîne pas une suppression : les deux sources restent accessibles. `missing_review` donne les limites constatées sur les neuf descriptions insuffisantes. Ne pas assimiler le contrôle exact des textes à une preuve d’unicité sémantique.

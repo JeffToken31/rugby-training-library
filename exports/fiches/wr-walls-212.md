@@ -1,60 +1,49 @@
-# Bibliothèque rugby U8
+# Franchir trois rideaux disposés en 2–1–2
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-## Franchir trois rideaux disposés en 2–1–2
-
-**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé, adéquation U8 à valider
 
 Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer, soutenir et maintenir la continuité.
 
-**Effectif :** 15–15 — par couloir : dix attaquants et cinq défenseurs
+**Matériel — source :** Ballons et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 15
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Passing - 5 v 2 v 1 v 2 · consultée le 2026-09-08
+**Effectif maximum — source :** 15
 
-**Accès :** Texte public consulté
+**Espace — source :** 30 × 20 m
 
-**Objectifs :** Avancer, soutenir et maintenir la continuité.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
+**Organisation — source :** Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
 
-**Déroulement :** Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.
+**Déroulement — source :** Attaquer alternativement depuis chaque extrémité pour marquer ; permuter après les deux passages.
 
-**Consignes :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
+**Consignes — source :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
 
-Détails extraits le 2026-09-16 — Passing - 5 v 2 v 1 v 2 — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher. Réglages proposés par la source : Complexifier : libérer les déplacements défensifs ou laisser choisir leur disposition. Simplifier : espacer les lignes de dix mètres ou faire marcher les défenseurs.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 30 × 20 m
+**Points d’attention — source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher. Réglages proposés par la source : Complexifier : libérer les déplacements défensifs ou laisser choisir leur disposition. Simplifier : espacer les lignes de dix mètres ou faire marcher les défenseurs.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par couloir : dix attaquants et cinq défenseurs
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 2 v 1 v 2. Vérification documentaire : 2026-09-08.
 
-## Préparation de séance
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Passing - 5 v 2 v 1 v 2 ; 2026-09-10
+- Points d’attention : wr-noncontact ; Passing - 5 v 2 v 1 v 2 — Difficulty ; Coaching points conservés ; 2026-09-16
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

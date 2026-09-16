@@ -1,70 +1,58 @@
-# Bibliothèque rugby U8
+# Passes en cercle tourné vers l’extérieur
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Circulation et transmission
 
-## Passes en cercle tourné vers l’extérieur
-
-**passe · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
 Cercles en compétition, joueurs tournés vers l’extérieur.
 
-**Matériel :** Un ballon par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–8
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Développer la passe et la réception.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Un ballon par groupe
 
-**Objectifs :** Développer la passe et la réception.
+**Effectif minimum — source :** 6
 
-**Organisation :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
+**Effectif maximum — source :** 8
 
-**Déroulement :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
+**Espace — source :** 10 × 10 m
 
-**Consignes :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Erreurs fréquentes :** Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.
+**Organisation — source :** Groupes de 6 à 8 en cercles concurrents, joueurs tournés vers l’extérieur.
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Déroulement — source :** Passer au voisin ; comparer le tour terminé, le nombre de passes dans le temps choisi ou la série sans chute.
 
-**Points coach issus de la source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
+**Consignes — source :** Montrer les mains et tourner les épaules ; diriger le ballon devant le réceptionneur.
 
-**Espace source :** 10 × 10 m
+**Critères de réussite — information manquante :** non extrait
 
-## Répertoire des sources
+**Erreurs fréquentes — source :** Passer bras tendus, ce qui peut envoyer le ballon derrière le réceptionneur.
 
-- [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — Description publique indexée consultée ; capture à vérifier.
+**Points d’attention — source :** Garder les bras souples, fléchir les coudes et tourner les épaules.
 
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
-
-**Tags proposés :** Passe · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Erreurs fréquentes, Points d’attention : nz-circle-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-circle-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-circle-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+4 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

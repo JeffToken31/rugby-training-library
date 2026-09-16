@@ -1,60 +1,49 @@
-# Bibliothèque rugby U8
+# Chasse par binômes avec changement de rôle
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Évitement · Coopération · Poursuite et délivrance
 
-## Chasse par binômes avec changement de rôle
-
-**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.**
+**Famille :** Chasse collective par passes · **Âge source :** Initiation ; âge non précisé, adéquation U8 à valider
 
 Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Soutenir, assurer la continuité et mettre sous pression.
 
-**Effectif :** 10–10 — par groupe
+**Matériel — source :** Ballon et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 10
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pairs Tag · consultée le 2026-09-08
+**Effectif maximum — source :** 10
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 20 m
 
-**Objectifs :** Soutenir, assurer la continuité et mettre sous pression.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Un binôme chasseur avec ballon ; autres binômes dans le carré.
+**Organisation — source :** Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
-**Déroulement :** Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.
+**Déroulement — source :** Se passer le ballon pour toucher un adversaire ; le binôme touché devient chasseur.
 
-**Consignes :** Porteur immobile ; passes dans toutes les directions.
+**Consignes — source :** Porteur immobile ; passes dans toutes les directions.
 
-Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 20 × 20 m
+**Points d’attention — source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par groupe
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pairs Tag. Vérification documentaire : 2026-09-08.
 
-## Préparation de séance
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse collective par passes.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Pairs Tag ; 2026-09-10
+- Points d’attention : wr-noncontact ; Pairs Tag — Difficulty ; Coaching points conservés ; 2026-09-16
 
-**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

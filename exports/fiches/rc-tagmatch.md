@@ -1,69 +1,61 @@
-# Bibliothèque rugby U8
+# Avancer et passer avant le tag
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Coopération · Opposition collective
 
-## Avancer et passer avant le tag
-
-**jeu collectif · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Jeux à zones de marque · **Âge source :** Non précisé
 
 Deux équipes cherchent les espaces pour marquer en tag. Le coach encourage la passe avant le tag et relance rapidement pour solliciter soutien et replacement. Les délais de passe de cette vidéo sont propres à ce jeu.
 
-**Matériel :** Ballon, rubans et chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Trouver des espaces et soutenir pour marquer.
+
+**Matériel — historique non réexaminé :** Ballon, rubans et chasubles
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes de tag et deux directions de marque opposées.
+
+**Déroulement — source :** Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.
+
+**Consignes — source :** La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
 
 **Adaptation U8 proposée :** Adapter les règles au cadre de ton club ; encourager le soutien sans imposer une passe systématique lorsqu’un espace libre permet d’avancer.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description / Video Subtitles · consultée le 2026-09-06
-
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Trouver des espaces et soutenir pour marquer.
-
-**Organisation :** Deux équipes de tag et deux directions de marque opposées.
-
-**Déroulement :** Avancer, passer vers l’arrière et soutenir. Le coach remet rapidement un ballon en jeu pour provoquer une réorganisation.
-
-**Consignes :** La vidéo impose une passe sous trois secondes après tag ; ce délai est une règle de cette situation.
-
-Détails extraits le 2026-09-08 — Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten.
-
-**Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
-
-## Répertoire des sources
-
-- [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeux à zones de marque.
-
-**Tags proposés :** Passe · Soutien · Coopération · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention : rc-tagmatch ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

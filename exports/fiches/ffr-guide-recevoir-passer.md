@@ -1,68 +1,57 @@
-# Bibliothèque rugby U8
+# Recevoir à différentes hauteurs et passer
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
-## Recevoir à différentes hauteurs et passer
-
-**passe · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** M8 — guide saison 2022-2023
 
 Recevoir à différentes hauteurs et passer
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 4–4
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Fédération Française de Rugby](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF page 24 · consultée le 2026-09-08
+**Objectif — source :** Recevoir, ramasser et transmettre à un partenaire.
 
-**Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
+**Matériel — historique non réexaminé :** Ballons et plots
 
-**Objectifs :** Recevoir, ramasser et transmettre à un partenaire.
+**Effectif minimum — historique non réexaminé :** 4
 
-**Organisation :** Un passeur, un joueur actif et deux réceptionneurs.
+**Effectif maximum — historique non réexaminé :** 4
 
-**Déroulement :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
+**Espace — source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
 
-**Consignes :** Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Passer en mouvement vers le partenaire.
+**Organisation — source :** Un passeur, un joueur actif et deux réceptionneurs.
 
-Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagination fichier.
+**Déroulement — source :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
 
-**Espace source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
+**Consignes — source :** Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot.
 
-## Répertoire des sources
+**Critères de réussite — source :** Passer en mouvement vers le partenaire.
 
-- [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF consulté via recherche documentaire ; capture locale à vérifier.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Ramasser, recevoir et transmettre.
-
-**Tags proposés :** Passe · Réception · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 24. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Consignes : ffr-guide-m8-2023 ; PDF page 24 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Critères de réussite, Espace : ffr-guide-m8-2023 ; PDF page 24, organisation, consignes et critères ; 2026-09-08
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

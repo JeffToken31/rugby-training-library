@@ -2,16 +2,11 @@
 
 **150 fiches conservées, 22 familles proposées, aucune collecte supplémentaire.** Ce n’est pas un décompte de jeux uniques. Dépôt privé, sans données enfants.
 
-- [Bilan actuel des 150 fiches](exports/QUALITE_APPLICATION.md)
-- [Repères pédagogiques ajoutés aux fiches](exports/AMELIORATIONS_FICHES.md)
-- [Durées pour planifier les ateliers](exports/DUREES.md)
-- [Fonctionnement souhaité de la génération IA](docs/GENERATION_SEANCES_IA.md)
-- [Exercices par compétence et forme de jeu](exports/CATEGORIES.md)
-- [Catalogue et descriptions](exports/CATALOGUE.md)
-- [Cadrage du créateur de séances](docs/INTERFACE_SEANCES.md)
-- [Contrat des données pour l’application](docs/CONTRAT_APPLICATION.md)
-- [Rapprochements entre exercices](exports/COMPARAISONS.md)
-- [Cadrage courant](PROJECT.md)
+**[Ouvrir le catalogue complet](exports/CATALOGUE.md)**
+
+Toutes les fiches, catégories, durées, repères coach, adaptations, sources et rapprochements sont réunis dans ce catalogue. Les anciennes vues séparées redirigent vers ses sections. Les fiches individuelles contiennent le même contenu pour un partage direct.
+
+Pour le cadrage et le développement : [interface](docs/INTERFACE_SEANCES.md), [génération IA](docs/GENERATION_SEANCES_IA.md), [contrat des données](docs/CONTRAT_APPLICATION.md), [priorité actuelle](PROJECT.md). Les rapports LOT_* sont des archives de travail, pas le parcours de lecture courant.
 
 ## Reconstruire et vérifier
 

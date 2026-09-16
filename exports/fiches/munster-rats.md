@@ -1,81 +1,65 @@
-# Bibliothèque rugby U8
+# Rats et lapins
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
-## Rats et lapins
-
-**déplacement · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Réaction et course en duel · **Âge source :** Primaire / mini-rugby
 
 Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son partenaire.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Vitesse, anticipation et évitement.
+
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux lignes appariées ; refuges à 10–20 mètres.
+
+**Déroulement — source :** L’équipe appelée fuit ; ses partenaires adverses poursuivent.
+
+**Consignes — source :** Rejoindre le refuge sans être touché.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 5 · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** PDF public consulté
+coach : Réaction au signal, chacun dans sa voie.; duration_min : 6; easier : Sans poursuite.; harder : Varier les signaux.; players_max : 10; players_min : 4; setup : Paires face à face avec deux refuges.; steps : Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche.
 
-**Objectifs :** Vitesse, anticipation et évitement.
-
-**Organisation :** Deux lignes appariées ; refuges à 10–20 mètres.
-
-**Déroulement :** L’équipe appelée fuit ; ses partenaires adverses poursuivent.
-
-**Consignes :** Rejoindre le refuge sans être touché.
-
-Détails extraits le 2026-09-16 — PDF page 5 (numérotation 1-based) — Game Card, How to play.
-
-### Proposition terrain U8 — à valider
-
-6 min · 4 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
-
-**Installation :** Paires face à face avec deux refuges.
-
-**Déroulement :** Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche.
-
-**À observer :** Réaction au signal, chacun dans sa voie.
-
-**Plus simple :** Sans poursuite.
-
-**Plus difficile :** Varier les signaux.
-
-## Répertoire des sources
-
-- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
-
-**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 5. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 5 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,72 +1,60 @@
-# Bibliothèque rugby U8
+# Botter, récupérer et marquer
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Jeu au pied · Ramassage du ballon · Course
 
-## Botter, récupérer et marquer
-
-**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Coup de pied puis récupération et essai ; différent du slalom en conduite.**
+**Famille :** Jeu et conduite au pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Joueurs alignés avec chacun un ballon.
 
-**Matériel :** Douze plots et un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Kick Chase — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Développer contrôle et précision au pied.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Douze plots et un ballon par joueur
 
-**Objectifs :** Développer contrôle et précision au pied.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Joueurs alignés avec chacun un ballon.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.
+**Espace — source :** Deux lignes à environ 10 m
 
-**Consignes :** Choisir et contrôler la longueur du coup de pied.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Kick Chase — Description, Coaching Outcome, Change It.
+**Organisation — source :** Joueurs alignés avec chacun un ballon.
 
-**Espace source :** Deux lignes à environ 10 m
+**Déroulement — source :** Au signal, botter, poursuivre le ballon puis marquer. Essayer différents types de coups de pied.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Consignes — source :** Choisir et contrôler la longueur du coup de pied.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Critères de réussite — information manquante :** non extrait
 
-## Répertoire des sources
+**Erreurs fréquentes — information manquante :** non extrait
 
-- [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Description publique consultée ; capture locale évaluée séparément.
+**Points d’attention — information manquante :** non extrait
 
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeu et conduite au pied.
-
-**Tags proposés :** Jeu au pied · Ramassage du ballon · Course
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) — Rugby Australia ; Kick Chase — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-chase-source ; Kick Chase — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

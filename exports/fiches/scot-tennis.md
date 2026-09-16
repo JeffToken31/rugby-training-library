@@ -1,68 +1,60 @@
-# Bibliothèque rugby U8
+# Tennis à la main
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réception · Coordination · Circulation et transmission
 
-## Tennis à la main
-
-**coordination · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Jeux de renvoi : main et pied · **Âge source :** Primaire (Écosse)
 
 À deux, tenir une chasuble comme filet ; de la main libre, réceptionner puis lâcher le ballon par-dessus.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 13 · consultée le 2026-09-07
+**Objectif — proposition IA :** Coordonner réception et transmission d’une main avec un partenaire.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Organisation :** Binômes avec une chasuble tendue comme filet.
+**Effectif minimum — historique non réexaminé :** 2
 
-**Déroulement :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
+**Effectif maximum — historique non réexaminé :** 2
 
-**Consignes :** Tenir la chasuble d’une main et jouer le ballon avec l’autre.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 13.
+**Durée de l’atelier — information manquante :** non extrait
 
-## Répertoire des sources
+**Organisation — source :** Binômes avec une chasuble tendue comme filet.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Déroulement — source :** Avec la main libre, attraper puis déposer le ballon de l’autre côté.
 
-## Préparation de séance
+**Consignes — source :** Tenir la chasuble d’une main et jouer le ballon avec l’autre.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Jeux de renvoi : main et pied.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Réception · Coordination · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Coordonner réception et transmission d’une main avec un partenaire.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 13. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 13 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 13 ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,64 +1,52 @@
-# Bibliothèque rugby U8
+# Chasse et arrêt dans un espace libre
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-## Chasse et arrêt dans un espace libre
-
-**évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Initiation Get Into Rugby ; âge précis non indiqué
 
 Chasse et arrêt dans un espace libre
 
-**Matériel :** Source pour six ateliers : six ballons et douze plots
+**Durée pour préparer l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Exercer une pression défensive.
 
-**Effectif :** 5–5 — Par atelier ; source organisée en six ateliers parallèles
+**Matériel — historique non réexaminé :** Source pour six ateliers : six ballons et douze plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — historique non réexaminé :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Section Find the Space · consultée le 2026-09-08
+**Effectif maximum — historique non réexaminé :** 5
 
-**Accès :** Texte public consulté
+**Espace — historique non réexaminé :** 5 × 5 m par atelier
 
-**Objectifs :** Exercer une pression défensive.
+**Durée de l’atelier — historique non réexaminé :** 6
 
-**Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
+**Organisation — source :** Cinq joueurs : un chasseur et quatre fuyards.
 
-**Déroulement :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
+**Déroulement — source :** Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.
 
-**Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
+**Consignes — source :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
 
-**Critères de réussite :** Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.
+**Critères de réussite — source :** Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.
 
-Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching points.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Changer le chasseur après une minute.
+**Points d’attention — source :** Changer le chasseur après une minute.
 
-**Espace source :** 5 × 5 m par atelier
+**Périmètre de l’effectif :** Par atelier ; source organisée en six ateliers parallèles
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
 
-## Répertoire des sources
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Find the Space. Vérification documentaire : 2026-09-08.
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-## Préparation de séance
+- Objectif : wr-noncontact ; Find the Space — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Points d’attention : wr-noncontact ; Section Find the Space ; 2026-09-08
+- Critères de réussite : wr-noncontact ; Find the Space — How to play / Coaching points ; 2026-09-16
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+4 révision(s) conservée(s) dans les données de l’application.
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

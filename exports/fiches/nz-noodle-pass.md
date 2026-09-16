@@ -1,66 +1,57 @@
-# Bibliothèque rugby U8
+# Chasse à la frite avec délivrance par passe
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Évitement · Coopération · Poursuite et délivrance
 
-## Chasse à la frite avec délivrance par passe
-
-**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Under 7 (classement du site)
 
 Même chasse ; le joueur touché pose son ballon à ses pieds.
 
-**Matériel :** Deux frites et six à huit ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–10
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — DRILL EXPLANATION — progression Noodle tag 2 · consultée le 2026-09-09
+**Objectif — source :** Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.
 
-**Accès :** Description publique consultée
+**Matériel — historique non réexaminé :** Deux frites et six à huit ballons
 
-**Objectifs :** Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.
+**Effectif minimum — historique non réexaminé :** 10
 
-**Organisation :** Même chasse ; le joueur touché pose son ballon à ses pieds.
+**Effectif maximum — historique non réexaminé :** 10
 
-**Déroulement :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
+**Espace — historique non réexaminé :** 15 × 10 m
 
-**Consignes :** Reprendre l’évitement après délivrance.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Même chasse ; le joueur touché pose son ballon à ses pieds.
 
-**Espace source :** 15 × 10 m
+**Déroulement — source :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
 
-## Répertoire des sources
+**Consignes — source :** Reprendre l’évitement après délivrance.
 
-- [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+**Points d’attention — information manquante :** non extrait
 
-**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION — progression Noodle tag 2. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-noodle-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-noodle-source ; DRILL EXPLANATION — progression Noodle tag 2 ; 2026-09-09
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

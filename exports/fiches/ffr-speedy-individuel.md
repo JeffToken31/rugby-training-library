@@ -1,68 +1,58 @@
-# Bibliothèque rugby U8
+# Speedy — un ballon chacun
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Ramassage du ballon
 
-## Speedy — un ballon chacun
-
-**réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Réaction et course en duel · **Âge source :** M8
 
 Par binômes, réagir au plot de la bonne couleur, ramasser son ballon puis rejoindre son refuge. Trois couloirs pour six enfants.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–6
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 69 · consultée le 2026-09-07
+**Objectif — source :** Améliorer la vitesse de réaction.
 
-**Accès :** PDF public consulté
+**Matériel — historique non réexaminé :** Ballons et plots
 
-**Objectifs :** Améliorer la vitesse de réaction.
+**Effectif minimum — historique non réexaminé :** 6
 
-**Organisation :** Trois binômes de niveau proche dans trois couloirs.
+**Effectif maximum — historique non réexaminé :** 6
 
-**Déroulement :** Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.
+**Espace — historique non réexaminé :** Couloirs 20 × 3 m
 
-**Consignes :** Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisation et lancement.
+**Organisation — source :** Trois binômes de niveau proche dans trois couloirs.
 
-**Espace source :** Couloirs 20 × 3 m
+**Déroulement — source :** Au bon signal visuel, ramasser son ballon et gagner le refuge opposé.
 
-**Famille proposée :** reaction-course
+**Consignes — source :** Réagir à la couleur montrée, pas à celle annoncée ; ramasser en équilibre.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
-
-**Tags proposés :** Réaction au signal · Ramassage du ballon
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Comparaison éditoriale complémentaire :** [ffr-speedy-partage](ffr-speedy-partage.md) — Un ballon chacun contre un ballon disputé ; opposition de possession différente.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 69. Vérification documentaire : 2026-09-07.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2023 ; PDF page 69 (pagination fichier), organisation et lancement ; 2026-09-09
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>

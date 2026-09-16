@@ -1,70 +1,62 @@
-# Bibliothèque rugby U8
+# Passes alternées dessus-dessous
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Relais · Circulation et transmission
 
-## Passes alternées dessus-dessous
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Files de quatre joueurs ou plus.
 
-**Matériel :** Six plots et un ballon par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Passing Overs and Unders — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Coopérer et enchaîner les réceptions-transmissions.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Six plots et un ballon par groupe
 
-**Objectifs :** Coopérer et enchaîner les réceptions-transmissions.
+**Effectif minimum — source :** 4
 
-**Organisation :** Files de quatre joueurs ou plus.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Attraper et passer à deux mains.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Passing Overs and Unders — Description, Coaching Outcome, Change It.
+**Organisation — source :** Files de quatre joueurs ou plus.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Transmettre au-dessus de la tête puis entre les jambes en alternance ; le dernier revient devant. Terminer quand tous ont mené.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Attraper et passer à deux mains.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Description publique consultée ; capture locale évaluée séparément.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
 
-**Tags proposés :** Passe · Coopération · Relais · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) — Rugby Australia ; Passing Overs and Unders — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-over-under-source ; Passing Overs and Unders — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

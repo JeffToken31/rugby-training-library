@@ -1,64 +1,55 @@
-# Bibliothèque rugby U8
+# Deux contre un avec passes libres au départ
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
-## Deux contre un avec passes libres au départ
-
-**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé par World Rugby
 
 Deux attaquants affrontent un défenseur ; groupe de cinq.
 
-**Matériel :** Un ballon par groupe ; plots et rubans
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Exercer une pression défensive.
 
-**Effectif :** 5–5 — par atelier, attentes comprises
+**Matériel — historique non réexaminé :** Un ballon par groupe ; plots et rubans
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 2 v 1 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Exercer une pression défensive.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Deux attaquants affrontent un défenseur ; groupe de cinq.
+**Organisation — source :** Deux attaquants affrontent un défenseur ; groupe de cinq.
 
-**Déroulement :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
+**Déroulement — source :** Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.
 
-**Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
+**Consignes — source :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-**Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
+**Critères de réussite — source :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
 
-Détails extraits le 2026-09-16 — 2 v 1 — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
+**Points d’attention — source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
 
-**Espace source :** 10 × 10 m
+**Périmètre de l’effectif :** par atelier, attentes comprises
 
-**Famille proposée :** surnombre-rubans
+**Variantes conservées séparément :** [Deux contre un sans contact](rc-two-one.md). Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.
 
-## Répertoire des sources
+**Comparaison éditoriale complémentaire :** [rc-two-one](rc-two-one.md) — Rubans et passes libres au départ contre défense simulée et soutien en retrait.
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 2 v 1. Vérification documentaire : 2026-09-08.
 
-## Préparation de séance
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
+- Objectif : wr-noncontact ; 2 v 1 — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; 2 v 1 ; 2026-09-09
+- Critères de réussite : wr-noncontact ; 2 v 1 — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; 2 v 1 — Difficulty ; Coaching points conservés ; 2026-09-16
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+5 révision(s) conservée(s) dans les données de l’application.
 
-Informations encore absentes : Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

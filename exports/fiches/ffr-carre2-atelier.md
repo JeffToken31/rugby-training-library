@@ -1,64 +1,56 @@
-# Bibliothèque rugby U8
+# Carré 2
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
 
-## Carré 2
-
-**motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Collecte de ballons · **Âge source :** M8
 
 Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositive 3 — Carré 2 · consultée le 2026-09-07
+**Objectif — source :** Éviter, ramasser puis marquer.
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Matériel — information manquante :** non extrait
 
-**Objectifs :** Éviter, ramasser puis marquer.
+**Effectif minimum — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Effectif maximum — information manquante :** non extrait
 
-**Points coach issus de la source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
+**Espace — information manquante :** non extrait
 
-## Répertoire des sources
+**Durée de l’atelier — information manquante :** non extrait
 
-- [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — Diapositives et texte publics consultés ; PDF non téléchargé.
+**Organisation — observation utilisateur :** Trois groupes de cinq à six enfants environ, chacun avec son camp ; ballons au centre ; numéros attribués aux enfants dans chaque groupe.
 
-## Préparation de séance
+**Déroulement — observation utilisateur :** Au numéro appelé, les enfants correspondants prennent un ballon au centre et le rapportent dans leur camp. Les appels se succèdent rapidement.; Lorsque le centre est vide, tous peuvent prendre des ballons dans les camps adverses et les rapporter dans le leur, un ballon à la fois.
 
-État : Observation utilisateur. Aucune validation coach implicite.
-Famille proposée : Collecte de ballons.
+**Consignes — observation utilisateur :** Ne pas empêcher les voleurs de venir prendre les ballons.; Transporter un seul ballon à la fois.
 
-**Tags proposés :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Critères de réussite — information manquante :** non extrait
 
-**Organisation — observation rapportée**
+**Erreurs fréquentes — information manquante :** non extrait
 
-Trois groupes de cinq à six enfants environ, chacun avec son camp ; ballons au centre ; numéros attribués aux enfants dans chaque groupe.
+**Points d’attention — source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
 
-**Déroulement — observation rapportée**
+**Repères coach proposés par IA :** L’enfant rapporte un seul ballon à la fois et laisse les autres prendre les ballons librement. Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp.
 
-Au numéro appelé, les enfants correspondants prennent un ballon au centre et le rapportent dans leur camp. Les appels se succèdent rapidement. ; Lorsque le centre est vide, tous peuvent prendre des ballons dans les camps adverses et les rapporter dans le leur, un ballon à la fois.
+**Observation utilisateur :** Vidéo décrite par utilisateur ; non visionnée par assistant ; aucune validation pédagogique implicite
 
-**Consignes — observation rapportée**
+**Incertitudes rapportées :** Numérotation décrite de 1 à 5, alors que les groupes pourraient comprendre six enfants : nombre exact non confirmé.; Fin de jeu et désignation du vainqueur non précisées.; Dimensions et nombre total de ballons inconnus ; durée prescrite inconnue malgré environ 30 secondes observées.
 
-Ne pas empêcher les voleurs de venir prendre les ballons. ; Transporter un seul ballon à la fois.
+**Temps observé :** approx_seconds : 30; scope : Durée évoquée lors de la description de la seconde phase ; périmètre exact non confirmé; is_prescribed_duration : False — ne constitue pas une durée prescrite.
 
-Incertitudes : Numérotation décrite de 1 à 5, alors que les groupes pourraient comprendre six enfants : nombre exact non confirmé. ; Fin de jeu et désignation du vainqueur non précisées. ; Dimensions et nombre total de ballons inconnus ; durée prescrite inconnue malgré environ 30 secondes observées.
-Environ 30 secondes rapportées : observation, pas une durée prescrite.
+[Vidéo décrite par l’utilisateur](https://www.dailymotion.com/video/x842tna)
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -66,22 +58,16 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Dur�
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Carré 2. Vérification documentaire : 2026-09-07.
 
-**Indicateur observable :** L’enfant rapporte un seul ballon à la fois et laisse les autres prendre les ballons librement.
+**Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tna). Association issue des annotations, visionnage non validé par l’assistant.
 
-**À regarder :** Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Organisation, Déroulement, Consignes : ffr-carre2-user-observation-20260916 ;  ; 2026-09-16
 
-### Durée pour planifier l’atelier
+1 révision(s) conservée(s) dans les données de l’application.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

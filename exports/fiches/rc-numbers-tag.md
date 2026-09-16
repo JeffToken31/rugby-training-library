@@ -1,67 +1,59 @@
-# Bibliothèque rugby U8
+# Tag : défenseurs numérotés
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Prise d’information · Opposition collective
 
-## Tag : défenseurs numérotés
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Repérer et exploiter les espaces créés dans la défense.
 
-**Matériel :** Ballon et rubans de tag
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Repérer et exploiter les espaces créés dans la défense.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballon et rubans de tag
 
-**Objectifs :** Repérer et exploiter les espaces créés dans la défense.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Organisation — source :** Deux équipes de tag ; attribuer successivement les numéros 1, 2 et 3 aux joueurs.
 
-## Répertoire des sources
+**Déroulement — source :** Le coach annonce une équipe et un numéro : les défenseurs concernés posent un genou au sol, puis reprennent au signal.
 
-- [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — Page publique découverte ; capture et contenu à vérifier.
+**Consignes — source :** Chercher les espaces autour des défenseurs immobilisés et ailleurs ; accélérer dans le passage libre.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Créer et exploiter un espace en opposition.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes, Matériel : rc-numbers-tag-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

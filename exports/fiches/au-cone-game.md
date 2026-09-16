@@ -1,69 +1,61 @@
-# Bibliothèque rugby U8
+# Réagir au mot plot
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Prise d’information · Duel
 
-## Réagir au mot plot
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Binômes à longueur de bras ; plot au sol à égale distance.
 
-**Matériel :** Un plot pour deux joueurs
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2 — par groupe ou binôme ; total du dispositif non indiqué
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Cone Game — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Anticipation, écoute et réaction.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Un plot pour deux joueurs
 
-**Objectifs :** Anticipation, écoute et réaction.
+**Effectif minimum — source :** 2
 
-**Organisation :** Binômes à longueur de bras ; plot au sol à égale distance.
+**Effectif maximum — source :** 2
 
-**Déroulement :** Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Écouter le mot annoncé avant d’agir.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Cone Game — Description, Coaching Outcome, Change It.
+**Organisation — source :** Binômes à longueur de bras ; plot au sol à égale distance.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Toucher les parties du corps nommées ; au mot plot, saisir le plot avant son partenaire.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Écouter le mot annoncé avant d’agir.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Description publique consultée ; capture locale évaluée séparément.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
+**Périmètre de l’effectif :** par groupe ou binôme ; total du dispositif non indiqué
 
-**Tags proposés :** Réaction au signal · Prise d’information · Duel
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Rugby Australia ; Cone Game — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-cone-game-source ; Cone Game — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

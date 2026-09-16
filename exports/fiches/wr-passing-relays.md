@@ -1,60 +1,52 @@
-# Bibliothèque rugby U8
+# Vagues de passes avec relais sur l’autre rive
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Relais · Circulation et transmission
 
-## Vagues de passes avec relais sur l’autre rive
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Trois équipes de cinq par couloir, deux sur une rive.
 
-**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
 
-**Effectif :** 15–15 — par couloir
+**Matériel — historique non réexaminé :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 15
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Relays with Passing · consultée le 2026-09-08
+**Effectif maximum — source :** 15
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 20 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Trois équipes de cinq par couloir, deux sur une rive.
+**Organisation — source :** Trois équipes de cinq par couloir, deux sur une rive.
 
-**Déroulement :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
+**Déroulement — source :** Traverser en passant en arrière ; transmettre à l’équipe opposée, qui repart.
 
-**Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
+**Consignes — source :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-16 — Relays with Passing — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 20 × 20 m
+**Points d’attention — source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par couloir
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Variantes conservées séparément :** [Passes latérales en vagues de trois](rc-lateral-three.md). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
 
-## Préparation de séance
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Relays with Passing. Vérification documentaire : 2026-09-08.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en progression collective.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Tags proposés :** Passe · Soutien · Relais · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+- Objectif : wr-noncontact ; Relays with Passing — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Relays with Passing ; 2026-09-09
+- Points d’attention : wr-noncontact ; Relays with Passing — Difficulty ; Coaching points conservés ; 2026-09-16
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
+4 révision(s) conservée(s) dans les données de l’application.
 
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

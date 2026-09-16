@@ -1,67 +1,61 @@
-# Bibliothèque rugby U8
+# Quatre cibles, porteur immobile
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Réception · Prise d’information · Opposition collective
 
-## Quatre cibles, porteur immobile
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Trouver un partenaire libre dans une zone de marque.
 
-**Matériel :** Ballon et plots de couleurs
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Trouver un partenaire libre dans une zone de marque.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballon et plots de couleurs
 
-**Objectifs :** Trouver un partenaire libre dans une zone de marque.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Organisation — source :** Deux équipes de trois ou quatre joueurs ; quatre carrés de couleurs.
 
-## Répertoire des sources
+**Déroulement — source :** Marquer en réceptionnant dans un carré. Interception ou ballon tombé : changer la possession.
 
-- [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — Page publique découverte ; capture et contenu à vérifier.
+**Consignes — source :** Aucun contact ni course ballon en main. Passes dans toutes les directions ; défenseurs interdits dans les carrés.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeux à zones de marque.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Passe · Réception · Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Variantes conservées séparément :** [Rugby à quatre cibles](rc-netball.md). Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Source principale :** [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+- Objectif, Organisation, Déroulement, Consignes, Matériel : rc-chaos-touch-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

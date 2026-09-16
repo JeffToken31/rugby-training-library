@@ -1,77 +1,63 @@
-# Bibliothèque rugby U8
+# Passes latérales en vagues de trois
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Circulation et transmission
 
-## Passes latérales en vagues de trois
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Passes en progression collective · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Enchaîner course, réception et passe.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Enchaîner course, réception et passe.
+**Effectif minimum — historique non réexaminé :** 3
 
-**Organisation :** Vagues de trois, avec une ligne repère.
+**Effectif maximum — historique non réexaminé :** 3
 
-**Déroulement :** Transmettre successivement puis travailler dans l’autre sens.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Rester derrière le porteur et montrer les mains tôt.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Erreurs fréquentes :** Receveur en avance sur le porteur.
+**Organisation — source :** Vagues de trois, avec une ligne repère.
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Déroulement — source :** Transmettre successivement puis travailler dans l’autre sens.
 
-**Points coach issus de la source :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
+**Consignes — source :** Rester derrière le porteur et montrer les mains tôt.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+**Erreurs fréquentes — source :** Receveur en avance sur le porteur.
 
-## Préparation de séance
+**Points d’attention — historique non réexaminé :** Montrer les mains tôt, recevoir devant soi, appeler et garder la profondeur.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en progression collective.
+**Repères coach proposés par IA :** Les trois joueurs font circuler le ballon dans les deux sens. Observer la disponibilité du joueur suivant avant chaque transmission.
 
-**Tags proposés :** Passe · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Créer la profondeur par des départs en postures décalées](imagine-depth-running.md). Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.
 
-**Indicateur observable :** Les trois joueurs font circuler le ballon dans les deux sens.
+**Variantes conservées séparément :** [Vagues de passes avec relais sur l’autre rive](wr-passing-relays.md). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
 
-**À regarder :** Observer la disponibilité du joueur suivant avant chaque transmission.
+**Source principale :** [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-### Durée pour planifier l’atelier
+- Objectif, Organisation, Déroulement, Consignes, Erreurs fréquentes, Durée de l’atelier, Espace : rc-lateral-three-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+1 révision(s) conservée(s) dans les données de l’application.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

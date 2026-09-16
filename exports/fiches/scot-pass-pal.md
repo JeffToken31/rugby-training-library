@@ -1,69 +1,60 @@
-# Bibliothèque rugby U8
+# Traverser et donner à un partenaire extérieur
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Manipulation du ballon · Coopération · Circulation et transmission
 
-## Traverser et donner à un partenaire extérieur
-
-**passe et coopération · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory. Source contradictoire : groupe de quatre annoncé mais quatre dehors et un dedans ; effectif numérique inconnu.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Partenaires sur les bords du carré et un porteur au centre.
 
-**Matériel :** Un ballon par groupe, plots, chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 11 — Pass to a pal · consultée le 2026-09-07
+**Objectif — proposition IA :** Repérer un partenaire disponible et enchaîner déplacement et transmission.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Un ballon par groupe, plots, chasubles
 
-**Organisation :** Partenaires sur les bords du carré et un porteur au centre.
+**Effectif minimum — information manquante :** contradiction à résoudre
 
-**Déroulement :** Le porteur rejoint un partenaire extérieur et lui donne le ballon ; celui-ci traverse puis transmet à un autre partenaire de son équipe.
+**Effectif maximum — information manquante :** contradiction à résoudre
 
-**Consignes :** Éviter les autres joueurs pendant la traversée.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 11 — Pass to a pal.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-## Répertoire des sources
+**Organisation — source :** Partenaires sur les bords du carré et un porteur au centre.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Déroulement — source :** Le porteur rejoint un partenaire extérieur et lui donne le ballon ; celui-ci traverse puis transmet à un autre partenaire de son équipe.
 
-## Préparation de séance
+**Consignes — source :** Éviter les autres joueurs pendant la traversée.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Manipulation du ballon · Coopération · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Repérer un partenaire disponible et enchaîner déplacement et transmission.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-- Fixer le nombre de joueurs actifs et ceux en attente. **La source est contradictoire sur ce paramètre.**
-- Vérifier la capacité du dispositif pour le groupe prévu. **La source est contradictoire sur ce paramètre.**
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 11 — Pass to a pal. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 11 — Pass to a pal ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,60 +1,52 @@
-# Bibliothèque rugby U8
+# Chercher les espaces libres
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Prise d’information · Ramassage du ballon
 
-## Chercher les espaces libres
-
-**prise d’information · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Réaction et course en duel · **Âge source :** M8
 
 Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.
 
-**Matériel :** 4 ballons, plots, chasubles
+**Durée pour préparer l’atelier :** Manche documentée : 8 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — source :** Avancer pour marquer rapidement.
 
-**Effectif :** 12–12
+**Matériel — historique non réexaminé :** 4 ballons, plots, chasubles
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — historique non réexaminé :** 12
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 66 · consultée le 2026-09-07
+**Effectif maximum — historique non réexaminé :** 12
 
-**Accès :** PDF public consulté
+**Espace — historique non réexaminé :** 15 × 15 m ; camps 3 × 3 m
 
-**Objectifs :** Avancer pour marquer rapidement.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Organisation :** Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres.
+**Organisation — source :** Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres.
 
-**Déroulement :** Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur.
+**Déroulement — source :** Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur.
 
-**Consignes :** Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte.
+**Consignes — source :** Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte.
 
-Détails extraits le 2026-09-16 — PDF page 66.
+**Critères de réussite — information manquante :** non extrait
 
-**Espace source :** 15 × 15 m ; camps 3 × 3 m
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Manche source :** 8 secondes ; durée totale inconnue.
+**Points d’attention — information manquante :** non extrait
 
-## Répertoire des sources
+**Durée d’une manche dans la source :** 8 secondes ; distincte de la durée totale.
 
-- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
-
-**Tags proposés :** Réaction au signal · Prise d’information · Ramassage du ballon
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 66. Vérification documentaire : 2026-09-07.
 
-Manche documentée : 8 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2023 ; PDF page 66 ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

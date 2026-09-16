@@ -1,68 +1,60 @@
-# Bibliothèque rugby U8
+# Pieuvre à deux traversées perpendiculaires
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-## Pieuvre à deux traversées perpendiculaires
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.**
+**Famille :** Traversée de défenses · **Âge source :** Under 7 (classement du site)
 
 Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
-**Matériel :** Quatre plots ; rubans si jeu au tag
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Octopus — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Développer l’évitement et la capture par toucher ou ruban.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Quatre plots ; rubans si jeu au tag
 
-**Objectifs :** Développer l’évitement et la capture par toucher ou ruban.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
+**Espace — source :** À ajuster au groupe
 
-**Consignes :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
+**Organisation — source :** Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
 
-**Espace source :** À ajuster au groupe
+**Déroulement — source :** La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.
 
-## Répertoire des sources
+**Consignes — source :** Les tentacules touchent ou arrachent un ruban sans déplacer leurs pieds. Viser les hanches, éviter les collisions.
 
-- [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Traversée de défenses.
+**Points d’attention — source :** Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban.
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — New Zealand Rugby — Rugby Toolbox ; Octopus — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-octopus-cross-source ; Octopus — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-octopus-cross-source ; Octopus — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-octopus-cross-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

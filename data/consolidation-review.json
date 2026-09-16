@@ -1,0 +1,269 @@
+{
+  "scope": "Relecture des 16 rapprochements enregistrés et contrôle exhaustif des déroulements identiques. Ne certifie pas l’absence de doublons sémantiques dans tout le corpus.",
+  "pair_reviews": [
+    {
+      "left_id": "rc-four-one",
+      "right_id": "rc-piggy",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "imagine-depth-running",
+      "right_id": "rc-lateral-three",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "imagine-depth-running",
+      "right_id": "wr-chain-reaction",
+      "decision": "PROBABLE_DUPLICATE",
+      "reason": "Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "nz-corner",
+      "right_id": "scot-corner",
+      "decision": "UNRESOLVED",
+      "reason": "Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-aliens",
+      "right_id": "rc-capture-aliens",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-calling-pairs",
+      "right_id": "rc-pairs",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-capture-aliens",
+      "right_id": "scot-corner",
+      "decision": "UNRESOLVED",
+      "reason": "Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-chaos-touch",
+      "right_id": "rc-netball",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-four-one",
+      "right_id": "wr-keep-ball",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-lateral-three",
+      "right_id": "wr-passing-relays",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-triangle",
+      "right_id": "wr-chain-reaction",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-two-one",
+      "right_id": "wr-tag-2v1",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "rc-team-scarecrow",
+      "right_id": "scot-corner",
+      "decision": "UNRESOLVED",
+      "reason": "Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "munster-hunters",
+      "right_id": "scot-corner",
+      "decision": "UNRESOLVED",
+      "reason": "Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "wr-follow-leader",
+      "right_id": "wr-pass-support",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    },
+    {
+      "left_id": "wr-formation",
+      "right_id": "wr-pass-support",
+      "decision": "KEEP_DISTINCT_VARIANTS",
+      "reason": "Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.",
+      "basis_fields": [
+        "organisation",
+        "steps",
+        "instructions"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16"
+    }
+  ],
+  "missing_review": [
+    {
+      "variant_id": "ffr-carre-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-duellong-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-duels-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-gazelles-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-pantheres-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-plaquage-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-protege-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "ffr-relais-atelier",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+    },
+    {
+      "variant_id": "rc-two-balls",
+      "checked_on": "2026-09-16",
+      "basis": "Archive texte locale de la source principale, section propre à la situation",
+      "conclusion": "Les sous-titres désignent les circuits par « ici/là » sans décrire les positions : organisation non récupérable dans ce texte."
+    }
+  ]
+}

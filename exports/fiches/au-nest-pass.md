@@ -1,79 +1,63 @@
-# Bibliothèque rugby U8
+# Rapporter les trésors par une passe
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
 
-## Rapporter les trésors par une passe
-
-**passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.**
+**Famille :** Collecte de ballons · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Quatre équipes aux coins ; réserve centrale de ballons.
 
-**Matériel :** Huit plots et seize ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Rob the Nest — passing progression — Description, Coaching Outcome, Change It · consultée le 2026-09-06
+**Objectif — source :** Coopérer, porter à deux mains et lire l’espace.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Huit plots et seize ballons
 
-**Objectifs :** Coopérer, porter à deux mains et lire l’espace.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Quatre équipes aux coins ; réserve centrale de ballons.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Départs successifs ; compter les ballons à la fin.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Description, Coaching Outcome, Change It.
+**Organisation — source :** Quatre équipes aux coins ; réserve centrale de ballons.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Un joueur par équipe collecte puis passe vers son coin ; si le ballon tombe, le rendre à la réserve. Après épuisement, voler dans les autres camps.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Départs successifs ; compter les ballons à la fin.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description publique consultée. Variante de la famille des nids ; rattachée à la fiche existante.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Collecte de ballons.
+**Repères coach proposés par IA :** Le ballon collecté rejoint le camp grâce à une passe contrôlée. Observer le lien entre collecteur et receveur ; rappeler la restitution prévue si le ballon tombe.
 
-**Tags proposés :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Source principale :** [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Rugby Australia ; Rob the Nest — passing progression — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-06.
 
-**Indicateur observable :** Le ballon collecté rejoint le camp grâce à une passe contrôlée.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-**À regarder :** Observer le lien entre collecteur et receveur ; rappeler la restitution prévue si le ballon tombe.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-nest ; Rob the Nest — passing progression — Description, Coaching Outcome, Change It ; 2026-09-10
 
-### Durée pour planifier l’atelier
+1 révision(s) conservée(s) dans les données de l’application.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

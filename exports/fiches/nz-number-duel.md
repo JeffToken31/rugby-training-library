@@ -1,66 +1,57 @@
-# Bibliothèque rugby U8
+# Numéro appelé : ramasser puis affronter
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Réaction au signal · Ramassage du ballon · Duel
 
-## Numéro appelé : ramasser puis affronter
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles. Source contradictoire : installation indique plusieurs ballons, liste et déroulement un seul ; ces derniers retenus.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
 
-**Matériel :** Un ballon et rubans selon liste et déroulement
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–10
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — Number Race 2 — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Accélérer, ramasser et éviter un défenseur.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon et rubans selon liste et déroulement
 
-**Objectifs :** Accélérer, ramasser et éviter un défenseur.
+**Effectif minimum — source :** 10
 
-**Organisation :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
+**Effectif maximum — source :** 10
 
-**Déroulement :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
+**Espace — source :** 15 × 10 m
 
-**Consignes :** Répéter avec un autre numéro ; rubans prévus par la source.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Number Race 2 — Objective / Principles of play.
+**Organisation — source :** Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
 
-**Espace source :** 15 × 10 m
+**Déroulement — source :** Au numéro appelé, l’attaquant ramasse et vise l’extrémité opposée. Le défenseur contourne son extrémité puis avance pour défendre.
 
-## Répertoire des sources
+**Consignes — source :** Répéter avec un autre numéro ; rubans prévus par la source.
 
-- [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
+**Points d’attention — information manquante :** non extrait
 
-**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Duel
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — New Zealand Rugby — Rugby Toolbox ; Number Race 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-number-duel-source ; Number Race 2 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-number-duel-source ; Number Race 2 — organisation et déroulement ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

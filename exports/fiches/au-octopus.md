@@ -1,81 +1,65 @@
-# Bibliothèque rugby U8
+# La pieuvre et les algues
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-## La pieuvre et les algues
-
-**déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Traversée de défenses · **Âge source :** Non précisé
 
 Traverser sans être touché par les pieuvres. Un joueur touché devient une algue immobile qui peut toucher les passants. Continuer jusqu’à capture du groupe.
 
-**Matériel :** Neuf plots et quatre ballons indiqués par la source
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Développer perception de l’espace, agilité et confiance dans le déplacement.
+
+**Matériel — historique non réexaminé :** Neuf plots et quatre ballons indiqués par la source
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne.
+
+**Déroulement — source :** Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants.
+
+**Consignes — source :** Les algues restent sur place ; continuer jusqu’à capture générale.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Limiter les algues ou relancer une manche dès que le passage devient trop encombré. Sans ballon au début.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Sections Description / Equipment / Change It · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description publique consultée
+coach : Choisir un passage libre.; duration_min : 6; easier : Marcher sans ballon.; harder : Porter un ballon à deux mains.; players_max : 10; players_min : 6; setup : Deux lignes opposées, un chasseur et un espace large.; steps : Traverser au signal ; les touchés deviennent immobiles. Relancer avant encombrement.
 
-**Objectifs :** Développer perception de l’espace, agilité et confiance dans le déplacement.
-
-**Organisation :** Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne.
-
-**Déroulement :** Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants.
-
-**Consignes :** Les algues restent sur place ; continuer jusqu’à capture générale.
-
-Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
-
-### Proposition terrain U8 — à valider
-
-6 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
-
-**Installation :** Deux lignes opposées, un chasseur et un espace large.
-
-**Déroulement :** Traverser au signal ; les touchés deviennent immobiles. Relancer avant encombrement.
-
-**À observer :** Choisir un passage libre.
-
-**Plus simple :** Marcher sans ballon.
-
-**Plus difficile :** Porter un ballon à deux mains.
-
-## Répertoire des sources
-
-- [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Traversée de défenses.
-
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes : au-octopus ; Description et Coaching Outcome ; texte public consulté ; 2026-09-16
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

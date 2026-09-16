@@ -1,69 +1,60 @@
-# Bibliothèque rugby U8
+# Chat : libérer en roulant le ballon
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Manipulation du ballon · Poursuite et délivrance
 
-## Chat : libérer en roulant le ballon
-
-**évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 15 — Roll the ball tig · consultée le 2026-09-07
+**Objectif — proposition IA :** Repérer un partenaire immobilisé et contrôler un ballon roulé pour le délivrer.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Ballon
 
-**Organisation :** Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Le joueur touché forme un tunnel avec ses jambes ; un partenaire fait rouler le ballon entre elles puis le ramasse.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Le passage du ballon délivre le joueur immobilisé.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 15 — Roll the ball tig.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-## Répertoire des sources
+**Organisation — source :** Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Déroulement — source :** Le joueur touché forme un tunnel avec ses jambes ; un partenaire fait rouler le ballon entre elles puis le ramasse.
 
-## Préparation de séance
+**Consignes — source :** Le passage du ballon délivre le joueur immobilisé.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Évitement · Manipulation du ballon · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Repérer un partenaire immobilisé et contrôler un ballon roulé pour le délivrer.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Roll the ball tig. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 15 — Roll the ball tig ; 2026-09-09
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

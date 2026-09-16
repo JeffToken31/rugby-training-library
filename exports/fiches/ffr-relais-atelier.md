@@ -1,49 +1,42 @@
-# Bibliothèque rugby U8
+# Relais — courir, rouler, passer
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Motricité · Relais
 
-## Relais — courir, rouler, passer
-
-**motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Parcours et relais avec ballon · **Âge source :** M8
 
 Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Enchaîner course, passage au sol, relevé, passe et réception.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositive 3 — Relais — courir, rouler, passer · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Enchaîner course, passage au sol, relevé, passe et réception.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
+**Organisation — information manquante :** non extrait
 
-## Répertoire des sources
+**Déroulement — information manquante :** non extrait
 
-- [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — Diapositives et texte publics consultés ; PDF non téléchargé.
+**Consignes — information manquante :** non extrait
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Description insuffisante. Aucune validation coach implicite.
-Famille proposée : Parcours et relais avec ballon.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Passe · Motricité · Relais
-Classement provisoire.
+**Points d’attention — source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
 
-Informations encore absentes : Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -51,8 +44,15 @@ Informations encore absentes : Organisation, Déroulement, Consignes, Critères 
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-**Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Relais — courir, rouler, passer. Vérification documentaire : 2026-09-07.
 
-Durée non estimée : déroulement insuffisamment décrit.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-2-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

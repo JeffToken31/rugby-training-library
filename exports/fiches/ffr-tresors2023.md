@@ -1,69 +1,59 @@
-# Bibliothèque rugby U8
+# Chasse aux trésors — parcours
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Motricité · Ramassage du ballon · Course · Relais · Parcours
 
-## Chasse aux trésors — parcours
-
-**motricité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
+**Famille :** Parcours et relais avec ballon · **Âge source :** M8
 
 Deux équipes de six passent par paires : sauts, ramassage puis slalom. Le suivant part après l’essai ou la chute du ballon.
 
-**Matériel :** Plots, cerceaux, piquets ; quantité de ballons ambiguë
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 12–12
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR — Direction Technique Nationale](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — Page 70 · consultée le 2026-09-07
+**Objectif — source :** Comprendre et réaliser l’avancée.
 
-**Accès :** PDF public consulté
+**Matériel — historique non réexaminé :** Plots, cerceaux, piquets ; quantité de ballons ambiguë
 
-**Objectifs :** Comprendre et réaliser l’avancée.
+**Effectif minimum — historique non réexaminé :** 12
 
-**Organisation :** Deux équipes de six, parcours et réserve centrale.
+**Effectif maximum — historique non réexaminé :** 12
 
-**Déroulement :** Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Ballon tombé : trésor perdu ; réaliser correctement le parcours.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Compter les trésors rapportés dans la cachette.
+**Organisation — source :** Deux équipes de six, parcours et réserve centrale.
 
-Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisation et lancement.
+**Déroulement — source :** Sauter, ramasser puis slalomer. La paire suivante part après essai ou chute ; replacer les ballons après trois duels.
 
-**Information source contradictoire :** Matériel : 5 ; récit : 6.
+**Consignes — source :** Ballon tombé : trésor perdu ; réaliser correctement le parcours.
 
-## Répertoire des sources
+**Critères de réussite — source :** Compter les trésors rapportés dans la cachette.
 
-- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Parcours et relais avec ballon.
+**Contradictions documentaires :** Matériel : 5 ; récit : 6.
 
-**Tags proposés :** Motricité · Ramassage du ballon · Course · Relais · Parcours
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 70. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite : ffr-plan2023 ; PDF page 70 (pagination fichier), organisation et lancement ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

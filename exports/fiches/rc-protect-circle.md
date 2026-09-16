@@ -1,65 +1,58 @@
-# Bibliothèque rugby U8
+# Cercle solidaire contre un poursuivant
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Coopération · Poursuite et délivrance
 
-## Cercle solidaire contre un poursuivant
-
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Protection collective d’une cible · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.
 
-**Matériel :** Aucun matériel pour cette situation
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–6
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Video Subtitles — première situation en cercle · consultée le 2026-09-07
+**Objectif — source :** Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Aucun matériel pour cette situation
 
-**Objectifs :** Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.
+**Effectif minimum — historique non réexaminé :** 6
 
-**Organisation :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
+**Effectif maximum — historique non réexaminé :** 6
 
-**Déroulement :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
 
-## Répertoire des sources
+**Déroulement — source :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
 
-- [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+**Consignes — source :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Protection collective d’une cible.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — RugbyCoaching.tv ; Video Subtitles — première situation en cercle. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : rc-protect-circle-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-protect-circle-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,71 +1,64 @@
-# Bibliothèque rugby U8
+# Épouvantails — chasseurs passeurs
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-## Épouvantails — chasseurs passeurs
-
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Chasse collective par passes · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — proposition IA :** Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Organisation :** Plusieurs chasseurs coopèrent avec un ballon.
+**Effectif minimum — information manquante :** non extrait
 
-**Déroulement :** Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.
+**Effectif maximum — information manquante :** non extrait
 
-**Consignes :** Le porteur ne court pas.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
+**Organisation — source :** Plusieurs chasseurs coopèrent avec un ballon.
 
-## Répertoire des sources
+**Déroulement — source :** Passer, puis courir près d’un fuyard pour recevoir et le toucher. Changer régulièrement les chasseurs.
 
-- [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+**Consignes — source :** Le porteur ne court pas.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Chasse collective par passes.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — historique non réexaminé :** Passer puis se rapprocher d’une cible ; coopérer pour toucher.
 
-**Objectif — proposition IA**
-
-Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](scot-corner.md). Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Comparaison éditoriale complémentaire :** [scot-corner](scot-corner.md) — Conserver séparément. Chasseurs par trois dans Scottish Rugby, changements par paires dans les sous-titres RugbyCoaching. Sort du joueur touché insuffisamment décrit pour prouver une équivalence.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+**Source principale :** [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-team-scarecrow-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

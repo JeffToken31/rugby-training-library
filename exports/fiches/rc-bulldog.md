@@ -1,69 +1,62 @@
-# Bibliothèque rugby U8
+# Traverser face aux chasseurs
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-## Traverser face aux chasseurs
-
-**déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
+**Famille :** Traversée de défenses · **Âge source :** Non précisé
 
 Huit coureurs traversent face à deux chasseurs. Les joueurs touchés rejoignent progressivement la défense, qui s’organise pour fermer les espaces.
 
-**Matériel :** Terrain délimité
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–10
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter les défenseurs ; défendre collectivement.
+
+**Matériel — historique non réexaminé :** Terrain délimité
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 10
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Huit traversants face à deux chasseurs au départ.
+
+**Déroulement — source :** Traverser ; les joueurs touchés rejoignent les chasseurs.
+
+**Consignes — source :** Les défenseurs communiquent pour couvrir les espaces.
+
+**Critères de réussite — source :** Traverser sans être touché ; le dernier attaquant restant gagne.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.
 
 **Adaptation U8 proposée :** Faire plusieurs courtes manches et limiter le nombre de chasseurs pour préserver des possibilités de passage.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description / Video Subtitles · consultée le 2026-09-06
-
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Éviter les défenseurs ; défendre collectivement.
-
-**Organisation :** Huit traversants face à deux chasseurs au départ.
-
-**Déroulement :** Traverser ; les joueurs touchés rejoignent les chasseurs.
-
-**Consignes :** Les défenseurs communiquent pour couvrir les espaces.
-
-**Critères de réussite :** Traverser sans être touché ; le dernier attaquant restant gagne.
-
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
-
-**Points coach issus de la source :** Les défenseurs se parlent et se déplacent ensemble pour fermer les espaces.
-
-## Répertoire des sources
-
-- [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Traversée de défenses.
-
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Comparaison éditoriale complémentaire :** [rc-aliens](rc-aliens.md) — Les touchés deviennent chasseurs dans les deux cas ; chasse libre au ballon contre traversées successives sans ballon.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Source principale :** [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+- Objectif, Organisation, Déroulement, Consignes : rc-bulldog ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Points d’attention : rc-bulldog ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>

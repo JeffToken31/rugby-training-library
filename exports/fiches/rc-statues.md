@@ -1,71 +1,62 @@
-# Bibliothèque rugby U8
+# Les statues
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-## Les statues
-
-**déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** U7 (classement du site)
 
 Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent immobiles. Chronométrer la capture de tout le groupe, puis changer les chasseurs.
 
-**Matériel :** Trois ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter ; coopérer entre chasseurs.
+
+**Matériel — historique non réexaminé :** Trois ballons
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trois chasseurs porteurs d’un ballon.
+
+**Déroulement — source :** Le joueur touché s’immobilise ; chronométrer la capture de tous.
+
+**Consignes — source :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
+
+**Critères de réussite — source :** Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
 
 **Adaptation U8 proposée :** Manches courtes ; une nouvelle manche remet tout le monde en jeu. Demander de regarder devant soi.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description / Video Subtitles · consultée le 2026-09-06
-
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Éviter ; coopérer entre chasseurs.
-
-**Organisation :** Trois chasseurs porteurs d’un ballon.
-
-**Déroulement :** Le joueur touché s’immobilise ; chronométrer la capture de tous.
-
-**Consignes :** Ballon tenu à deux mains ; statue pieds joints, mains sur la tête.
-
-**Critères de réussite :** Les chasseurs cherchent à immobiliser tous les joueurs ; comparer le temps nécessaire.
-
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
-
-**Points coach issus de la source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
-
-## Répertoire des sources
-
-- [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
-
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes : rc-statues ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Points d’attention : rc-statues ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

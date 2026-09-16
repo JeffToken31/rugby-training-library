@@ -1,57 +1,42 @@
-# Bibliothèque rugby U8
+# Traverser les zones gardées
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement
 
-## Traverser les zones gardées
-
-**évitement · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Traversée de défenses · **Âge source :** Primaire (Écosse)
 
 Franchir les carrés sans être touché. Les défenseurs restent dans leur carré ; les remplacer après quatre-vingt-dix secondes.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Manche documentée : 90 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — proposition IA :** Observer un défenseur et choisir un passage pour franchir sa zone.
 
-**Effectif :** Non renseigné
+**Matériel — information manquante :** non extrait
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — information manquante :** non extrait
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 19 · consultée le 2026-09-07
+**Effectif maximum — information manquante :** non extrait
 
-**Accès :** PDF public consulté
+**Espace — information manquante :** non extrait
 
-**Organisation :** Au moins quatre carrés gardés par des défenseurs.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Déroulement :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
+**Organisation — source :** Au moins quatre carrés gardés par des défenseurs.
 
-**Consignes :** Les défenseurs restent dans leur carré.
+**Déroulement — source :** Traverser sans toucher pour un point. Défenseurs dans leur carré ; rotation après quatre-vingt-dix secondes.
 
-Détails extraits le 2026-09-09 — PDF page 19.
+**Consignes — source :** Les défenseurs restent dans leur carré.
 
-**Manche source :** 90 secondes ; durée totale inconnue.
+**Critères de réussite — information manquante :** non extrait
 
-## Répertoire des sources
+**Erreurs fréquentes — information manquante :** non extrait
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Points d’attention — information manquante :** non extrait
 
-## Préparation de séance
+**Durée d’une manche dans la source :** 90 secondes ; distincte de la durée totale.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Traversée de défenses.
-
-**Tags proposés :** Évitement
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-**Objectif — proposition IA**
-
-Observer un défenseur et choisir un passage pour franchir sa zone.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -59,6 +44,15 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 19. Vérification documentaire : 2026-09-07.
 
-Manche documentée : 90 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 19 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 19 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>

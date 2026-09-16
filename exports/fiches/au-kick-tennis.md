@@ -1,71 +1,61 @@
-# Bibliothèque rugby U8
+# Tennis au pied avec score
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Jeu au pied · Opposition collective
 
-## Tennis au pied avec score
-
-**jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.**
+**Famille :** Jeux de renvoi : main et pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Deux équipes dans deux rectangles opposés.
 
-**Matériel :** Douze plots et un ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Kick Tennis — Description, Coaching Outcome, Change It · consultée le 2026-09-10
+**Objectif — source :** Précision au pied, réception et communication.
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Matériel — source :** Douze plots et un ballon
 
-**Objectifs :** Précision au pied, réception et communication.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux équipes dans deux rectangles opposés.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Le ballon doit monter au-dessus des épaules.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcome, Change It.
+**Organisation — source :** Deux équipes dans deux rectangles opposés.
 
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+**Déroulement — source :** Botter pour faire tomber le ballon dans le terrain adverse ; compter un point à chaque réussite. Comparer les scores à la fin du temps choisi.
 
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
+**Consignes — source :** Le ballon doit monter au-dessus des épaules.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Description publique consultée ; capture locale évaluée séparément.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeux de renvoi : main et pied.
-
-**Tags proposés :** Jeu au pied · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Rugby Australia ; Kick Tennis — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-tennis-source ; Kick Tennis — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

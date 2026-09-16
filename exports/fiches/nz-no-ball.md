@@ -1,69 +1,62 @@
-# Bibliothèque rugby U8
+# Opposition sans ballon, attaquant désigné
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Prise d’information · Opposition collective
 
-## Opposition sans ballon, attaquant désigné
-
-**prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** Under 7 (classement Rugby Toolbox)
 
 Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
-**Matériel :** Chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné — Total ; minimum non indiqué
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+**Objectif — source :** Travailler l’espace, la défense et la réaction.
 
-**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+**Matériel — source :** Chasubles
 
-**Objectifs :** Travailler l’espace, la défense et la réaction.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
+**Effectif maximum — source :** 10
 
-**Déroulement :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
+**Espace — source :** 10 × 15 m
 
-**Consignes :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Organisation — source :** Deux équipes face à face, à dix mètres. Un attaquant lève la main.
 
-**Points coach issus de la source :** Reconnaître rapidement le nouveau porteur symbolique.
+**Déroulement — source :** Chercher la ligne adverse ; si l’attaquant est touché, le défenseur lève la main et devient attaquant, avec inversion des rôles.
 
-**Espace source :** 10 × 15 m
+**Consignes — source :** L’attaquant désigné garde la main levée ; après toucher, le défenseur devient attaquant.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — proposition IA :** Reconnaître rapidement le nouveau porteur symbolique.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Créer et exploiter un espace en opposition.
+**Périmètre de l’effectif :** Total ; minimum non indiqué
 
-**Tags proposés :** Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-no-ball-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Points d’attention : nz-no-ball-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Consignes : nz-no-ball-source ; DRILL EXPLANATION et DRILL SET-UP ; 2026-09-09
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-no-ball-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+5 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

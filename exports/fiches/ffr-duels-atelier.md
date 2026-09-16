@@ -1,49 +1,42 @@
-# Bibliothèque rugby U8
+# Duels et soutien
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Soutien · Coopération
 
-## Duels et soutien
-
-**coopération · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** M8
 
 Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Durée atelier :** Non renseignée
+**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
 
-**Effectif :** Non renseigné
+**Objectif — source :** Accélérer et feinter pour marquer ; soutenir le porteur.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Matériel — information manquante :** non extrait
 
-[Source : FFR — document intégré sur formation.ffr.fr](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositive 3 — Duels et soutien · consultée le 2026-09-07
+**Effectif minimum — information manquante :** non extrait
 
-**Accès :** Diapositives et texte publics consultés ; PDF non téléchargé
+**Effectif maximum — information manquante :** non extrait
 
-**Objectifs :** Accélérer et feinter pour marquer ; soutenir le porteur.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public archivé.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Points coach issus de la source :** Porter à deux mains ; faire converger le soutien vers le porteur.
+**Organisation — information manquante :** non extrait
 
-## Répertoire des sources
+**Déroulement — information manquante :** non extrait
 
-- [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositives et texte publics consultés ; PDF non téléchargé.
+**Consignes — information manquante :** non extrait
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Description insuffisante. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Soutien · Coopération
-Classement provisoire.
+**Points d’attention — source :** Porter à deux mains ; faire converger le soutien vers le porteur.
 
-Informations encore absentes : Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -51,8 +44,15 @@ Informations encore absentes : Organisation, Déroulement, Consignes, Critères 
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-**Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**
+**Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duels et soutien. Vérification documentaire : 2026-09-07.
 
-Durée non estimée : déroulement insuffisamment décrit.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : ffr-atelier-4-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

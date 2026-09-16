@@ -1,0 +1,166 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-ground-pass-archive-review-20260916",
+      "variant_id": "nz-ground-pass",
+      "source_id": "nz-ground-pass-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+      "supersedes": "nz-ground-pass-objectives-20260910",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le porteur recherche deux ou trois solutions de passe. Encourager les échanges verbaux et l’utilisation de toute l’aire de jeu."
+        }
+      }
+    },
+    {
+      "id": "nz-memory-archive-review-20260916",
+      "variant_id": "nz-memory",
+      "source_id": "nz-memory-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+      "supersedes": "nz-memory-core-20260916",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements."
+        }
+      }
+    },
+    {
+      "id": "nz-octopus-cross-archive-review-20260916",
+      "variant_id": "nz-octopus-cross",
+      "source_id": "nz-octopus-cross-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+      "supersedes": "nz-octopus-cross-objectives-20260910",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban."
+        }
+      }
+    },
+    {
+      "id": "nz-pick-place-archive-review-20260916",
+      "variant_id": "nz-pick-place",
+      "source_id": "nz-pick-place-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+      "supersedes": "nz-pick-place-parameters-20260908",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite."
+        }
+      }
+    },
+    {
+      "id": "nz-shadow-archive-review-20260916",
+      "variant_id": "nz-shadow",
+      "source_id": "nz-shadow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+      "supersedes": "nz-shadow-objectives-20260910",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs."
+        }
+      }
+    },
+    {
+      "id": "nz-shadow-mirror-archive-review-20260916",
+      "variant_id": "nz-shadow-mirror",
+      "source_id": "nz-shadow-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+      "supersedes": "nz-shadow-mirror-objectives-20260910",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs."
+        }
+      }
+    },
+    {
+      "id": "nz-zigzag-archive-review-20260916",
+      "variant_id": "nz-zigzag",
+      "source_id": "nz-zigzag-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+      "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+      "supersedes": "nz-zigzag-objectives-20260910",
+      "revision_reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire."
+        }
+      }
+    },
+    {
+      "id": "nz-rats-free-archive-review-20260916",
+      "variant_id": "nz-rats-free",
+      "source_id": "nz-rats34-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS, archive locale",
+      "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+      "supersedes": "nz-rats-free-objectives-20260910",
+      "revision_reason": "Relecture hors réseau des points coach communs aux deux situations de la ressource.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ."
+        }
+      }
+    },
+    {
+      "id": "nz-rats-straight-archive-review-20260916",
+      "variant_id": "nz-rats-straight",
+      "source_id": "nz-rats34-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "COACHING POINTS, archive locale",
+      "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+      "supersedes": "nz-rats-straight-objectives-20260910",
+      "revision_reason": "Relecture hors réseau des points coach communs aux deux situations de la ressource.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ."
+        }
+      }
+    }
+  ]
+}

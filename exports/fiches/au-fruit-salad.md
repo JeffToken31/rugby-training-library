@@ -1,71 +1,63 @@
-# Bibliothèque rugby U8
+# Course dans le tunnel des fruits
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Course · Parcours
 
-## Course dans le tunnel des fruits
-
-**évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.**
+**Famille :** Réaction et course en duel · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
 Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Écouter, anticiper et réagir en évitant les autres.
+
+**Matériel — source :** Aucun
+
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
+
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
+
+**Espace — information manquante :** non indiqué dans le passage examiné
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
+
+**Déroulement — source :** Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.
+
+**Consignes — source :** Enjamber les jambes des partenaires sans les heurter.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition IA : commencer en marchant et espacer les paires pour éviter de marcher sur les jambes ; à valider par le coach.
 
-[Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Fruit Salad — Description, Coaching Outcome, Change It · consultée le 2026-09-10
-
-**Accès :** Description publique consultée ; capture locale évaluée séparément
-
-**Objectifs :** Écouter, anticiper et réagir en évitant les autres.
-
-**Organisation :** Deux équipes assises face à face, pieds en contact ; chaque paire porte un nom de fruit.
-
-**Déroulement :** Au nom appelé, les deux joueurs se lèvent, parcourent le tunnel, contournent leur équipe puis reviennent par le tunnel.
-
-**Consignes :** Enjamber les jambes des partenaires sans les heurter.
-
-Détails extraits le 2026-09-10 — Fruit Salad — Description, Coaching Outcome, Change It.
-
-**Variante sourcée complémentaire :** Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
-
-[Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
-
-## Répertoire des sources
-
-- [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Description publique consultée ; capture locale évaluée séparément.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
-
-**Tags proposés :** Réaction au signal · Course · Parcours
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) — Rugby Australia ; Fruit Salad — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-fruit-salad-source ; Fruit Salad — Description, Coaching Outcome, Change It ; 2026-09-10
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

@@ -1,55 +1,48 @@
-# Bibliothèque rugby U8
+# Équilibre du flamant
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
 
-## Équilibre du flamant
-
-**motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** Primaire / mini-rugby ; âge précis non indiqué
 
 Debout sur un pied, autre genou devant.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 15 — Teaching Cues · consultée le 2026-09-06
+**Objectif — proposition IA :** Retrouver un équilibre sur un pied après un changement d’appui.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Organisation :** Debout sur un pied, autre genou devant.
+**Effectif minimum — information manquante :** non extrait
 
-**Déroulement :** Changer rapidement de pied puis immobiliser la posture.
+**Effectif maximum — information manquante :** non extrait
 
-**Consignes :** Se figer après le changement.
+**Espace — information manquante :** non extrait
 
-Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-## Répertoire des sources
+**Organisation — source :** Debout sur un pied, autre genou devant.
 
-- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
+**Déroulement — source :** Changer rapidement de pied puis immobiliser la posture.
 
-## Préparation de séance
+**Consignes — source :** Se figer après le changement.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Motricité et postures.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Retrouver un équilibre sur un pied après un changement d’appui.
+**Repères coach proposés par IA :** L’enfant retrouve une posture stable après le changement de pied. Observer la stabilité après le changement, sans transformer la durée tenue en classement des enfants.
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -57,22 +50,14 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
-**Indicateur observable :** L’enfant retrouve une posture stable après le changement de pied.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**À regarder :** Observer la stabilité après le changement, sans transformer la durée tenue en classement des enfants.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : munster-fms ; PDF page 15 — Teaching Cues ; 2026-09-09
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+1 révision(s) conservée(s) dans les données de l’application.
 
-### Durée pour planifier l’atelier
-
-Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 4 à 6 séquences de 30 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 30 s.
-
-**Pour prolonger :** Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,67 +1,60 @@
-# Bibliothèque rugby U8
+# Marcher en canard avec ballon
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Manipulation du ballon · Motricité · Motricité individuelle
 
-## Marcher en canard avec ballon
-
-**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Enfant dans un couloir.
 
-**Matériel :** Un ballon ou objet
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8 — Atelier 1 · consultée le 2026-09-06
+**Objectif — source :** Traverser accroupi, ballon tenu sans appui supplémentaire.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Un ballon ou objet
 
-**Objectifs :** Traverser accroupi, ballon tenu sans appui supplémentaire.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Enfant dans un couloir.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Traverser en canard avec le ballon à deux mains.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Ne poser ni main, ni genou, ni ballon au sol.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Enfant dans un couloir.
 
-## Répertoire des sources
+**Déroulement — source :** Traverser en canard avec le ballon à deux mains.
 
-- [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
+**Consignes — source :** Ne poser ni main, ni genou, ni ballon au sol.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Motricité et postures.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Manipulation du ballon · Motricité · Motricité individuelle
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 1. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 4 à 6 séquences de 30 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 30 s.
+- Objectif : ffr-famille ; PDF page 8 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 8 — Atelier 1 ; 2026-09-09
 
-**Pour prolonger :** Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

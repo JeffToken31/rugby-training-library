@@ -1,93 +1,68 @@
-# Bibliothèque rugby U8
+# Passer avec un soutien en retrait
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-## Passer avec un soutien en retrait
-
-**passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Passes en binôme et soutien · **Âge source :** U7 (classement du site)
 
 Deux joueurs avancent et échangent une passe courte. Une progression ajoute un obstacle représentant le défenseur : le soutien doit rester en retrait pour recevoir derrière cet obstacle.
 
-**Matériel :** Ballon, plots ; bouclier dans la progression
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Recevoir en soutien du porteur.
+
+**Matériel — historique non réexaminé :** Ballon, plots ; bouclier dans la progression
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Binômes en mouvement ; obstacle représentant un défenseur dans la progression.
+
+**Déroulement — source :** Courir puis passer derrière l’obstacle à son partenaire.
+
+**Consignes — source :** Privilégier une passe courte et rester en retrait.
+
+**Critères de réussite — source :** Recevoir en mouvement en restant en retrait du porteur.
+
+**Erreurs fréquentes — source :** Soutien à hauteur ou devant le porteur, rendant la passe difficile.
+
+**Points d’attention — source :** Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.
 
 **Adaptation U8 proposée :** Commencer en marchant dans des couloirs parallèles. Utiliser un plot comme repère avant un défenseur passif.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Mains prêtes et receveur derrière le porteur.; duration_min : 7; easier : Marcher et rapprocher les partenaires.; harder : Trottiner puis ajouter un repère de défenseur.; players_max : 8; players_min : 4; setup : Binômes en couloirs parallèles ; un ballon par binôme.; steps : Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour.
 
-**Objectifs :** Recevoir en soutien du porteur.
+**Repères coach proposés par IA :** La passe atteint le partenaire en retrait sans l’obliger à s’arrêter. Regarder si le soutien reste disponible après le déplacement autour de l’obstacle.
 
-**Organisation :** Binômes en mouvement ; obstacle représentant un défenseur dans la progression.
-
-**Déroulement :** Courir puis passer derrière l’obstacle à son partenaire.
-
-**Consignes :** Privilégier une passe courte et rester en retrait.
-
-**Critères de réussite :** Recevoir en mouvement en restant en retrait du porteur.
-
-**Erreurs fréquentes :** Soutien à hauteur ou devant le porteur, rendant la passe difficile.
-
-Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
-
-**Points coach issus de la source :** Montrer une cible avec les mains ; limiter les files d’attente et garder des passages courts et actifs.
-
-### Proposition terrain U8 — à valider
-
-7 min · 4 à 8 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
-
-**Installation :** Binômes en couloirs parallèles ; un ballon par binôme.
-
-**Déroulement :** Avancer ensemble et passer au partenaire en retrait. Inverser les rôles au retour.
-
-**À observer :** Mains prêtes et receveur derrière le porteur.
-
-**Plus simple :** Marcher et rapprocher les partenaires.
-
-**Plus difficile :** Trottiner puis ajouter un repère de défenseur.
-
-## Répertoire des sources
-
-- [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en binôme et soutien.
-
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Passer sur appel dans un espace partagé](rc-calling-pairs.md). Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-**Indicateur observable :** La passe atteint le partenaire en retrait sans l’obliger à s’arrêter.
+**Source principale :** [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**À regarder :** Regarder si le soutien reste disponible après le déplacement autour de l’obstacle.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+- Objectif, Organisation, Déroulement, Consignes : rc-pairs ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Erreurs fréquentes, Points d’attention : rc-pairs ; Description et Video Subtitles, avant Up Next In Playlist ; 2026-09-08
 
-### Durée pour planifier l’atelier
+2 révision(s) conservée(s) dans les données de l’application.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

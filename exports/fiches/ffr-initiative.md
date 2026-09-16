@@ -1,56 +1,52 @@
-# Bibliothèque rugby U8
+# L’initiative
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Prise d’information · Opposition collective
 
-## L’initiative
-
-**prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** M8
 
 Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 
-**Matériel :** Plots, ballons, chasubles
+**Durée pour préparer l’atelier :** 20 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 20 min
+**Objectif — source :** Observer les adversaires avant d’agir.
 
-**Effectif :** 10–10
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 10
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — historique non réexaminé :** 20
+
+**Organisation — source :** Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.
+
+**Déroulement — source :** Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.
+
+**Consignes — source :** Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Archive à relire avec le coach ; choisir une forme sans plaquage pour le premier essai et vérifier les règles locales.
 
-[Source : FFR / DTN](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF page 55 · consultée le 2026-09-06
-
-**Accès :** PDF public consulté
-
-**Objectifs :** Observer les adversaires avant d’agir.
-
-**Organisation :** Cinq contre cinq ; 30 × 20 mètres, équipes distantes de cinq mètres.
-
-**Déroulement :** Attaquants retournés, le coach immobilise certains défenseurs ; départ sur coup franc.
-
-**Consignes :** Soutenir le porteur ; défenseurs désignés : conserver la posture imposée.
-
-Détails extraits le 2026-09-16 — PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
-
-## Répertoire des sources
-
-- [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Créer et exploiter un espace en opposition.
-
-**Tags proposés :** Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 55. Vérification documentaire : 2026-09-06.
 
-20 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020 ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

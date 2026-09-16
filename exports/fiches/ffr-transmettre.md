@@ -1,75 +1,65 @@
-# Bibliothèque rugby U8
+# Transmettre en trottinant
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Circulation et transmission
 
-## Transmettre en trottinant
-
-**passe · âge source : M10 · Source consultée — validation terrain à faire**
+**Famille :** Ramasser, recevoir et transmettre · **Âge source :** M10
 
 Passer au partenaire tout en trottinant avec le ballon.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Passer en déplacement.
+
+**Matériel — historique non réexaminé :** Ballon
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Enfant porteur et parent réceptionneur.
+
+**Déroulement — source :** Trottiner puis transmettre.
+
+**Consignes — source :** Orienter la passe vers le parent.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition à valider : travailler en binôme, en marchant puis en trottinant.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 10 · consultée le 2026-09-06
+**Repères coach proposés par IA :** L’enfant transmet au partenaire pendant son déplacement. Observer si le partenaire peut recevoir sans devoir courir après le ballon.
 
-**Accès :** PDF public, texte consulté
-
-**Objectifs :** Passer en déplacement.
-
-**Organisation :** Enfant porteur et parent réceptionneur.
-
-**Déroulement :** Trottiner puis transmettre.
-
-**Consignes :** Orienter la passe vers le parent.
-
-Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
-
-## Répertoire des sources
-
-- [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Ramasser, recevoir et transmettre.
-
-**Tags proposés :** Passe · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Comparaison éditoriale complémentaire :** [ffr-reception](ffr-reception.md) — La page 17 distingue explicitement deux ateliers : enfant en mouvement recevant du parent (9), puis enfant courant avec ballon et passant au parent (10). Tâches complémentaires de la même famille, pas deux copies de la même consigne.
 
-**Indicateur observable :** L’enfant transmet au partenaire pendant son déplacement.
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 17, atelier 10. Vérification documentaire : 2026-09-06.
 
-**À regarder :** Observer si le partenaire peut recevoir sans devoir courir après le ballon.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+- Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 17 — atelier correspondant ; pagination fichier ; 2026-09-16
 
-### Durée pour planifier l’atelier
+1 révision(s) conservée(s) dans les données de l’application.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

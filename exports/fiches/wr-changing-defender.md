@@ -1,60 +1,49 @@
-# Bibliothèque rugby U8
+# Chaque passe change le défenseur
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Opposition collective
 
-## Chaque passe change le défenseur
-
-**opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé, adéquation U8 à valider
 
 Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
-**Matériel :** Ballon et plots ; rubans pour la situation de capture
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer, soutenir, maintenir la continuité et marquer.
 
-**Effectif :** 5–5 — par groupe
+**Matériel — source :** Ballon et plots ; rubans pour la situation de capture
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Decision Making - 4 v 1 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 30 × 10 m
 
-**Objectifs :** Avancer, soutenir, maintenir la continuité et marquer.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
+**Organisation — source :** Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
-**Déroulement :** Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.
+**Déroulement — source :** Le passeur devient défenseur ; l’ancien défenseur rejoint l’attaque. Chercher à marquer.
 
-**Consignes :** Après capture du ruban, passer en arrière au soutien.
+**Consignes — source :** Après capture du ruban, passer en arrière au soutien.
 
-Détails extraits le 2026-09-16 — Decision Making - 4 v 1 — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Imposer au moins deux passes en arrière avant de marquer complique l’attaque ; élargir le couloir la facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 30 × 10 m
+**Points d’attention — source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Imposer au moins deux passes en arrière avant de marquer complique l’attaque ; élargir le couloir la facilite.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par groupe
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Decision Making - 4 v 1. Vérification documentaire : 2026-09-08.
 
-## Préparation de séance
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Decision Making - 4 v 1 ; 2026-09-10
+- Points d’attention : wr-noncontact ; Decision Making - 4 v 1 — Difficulty ; Coaching points conservés ; 2026-09-16
 
-**Tags proposés :** Passe · Coopération · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

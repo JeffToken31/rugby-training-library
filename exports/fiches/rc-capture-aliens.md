@@ -1,67 +1,65 @@
-# Bibliothèque rugby U8
+# Capturer les extraterrestres par la passe
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-## Capturer les extraterrestres par la passe
-
-**coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Chasse collective par passes · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Coopérer pour toucher les fuyards au ballon.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Coopérer pour toucher les fuyards au ballon.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballon et plots
 
-**Objectifs :** Coopérer pour toucher les fuyards au ballon.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Organisation — source :** Deux chasseurs partagent un ballon dans une aire délimitée ; les autres sont des fuyards.
 
-## Répertoire des sources
+**Déroulement — source :** Passer à un partenaire proche d’un fuyard. Le joueur touché rejoint les chasseurs.
 
-- [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — Page publique découverte ; capture et contenu à vérifier.
+**Consignes — source :** Le porteur reste immobile. Toucher le maillot ou le short avec le ballon tenu à deux mains. Sortir des limites fait rejoindre les chasseurs.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse collective par passes.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Variantes conservées séparément :** [Les extraterrestres](rc-aliens.md). Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](scot-corner.md). Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+**Comparaison éditoriale complémentaire :** [nz-corner](nz-corner.md) — Sortie puis retour sur ballon tombé contre conversion en chasseur.
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+**Source principale :** [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Matériel : rc-capture-aliens-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

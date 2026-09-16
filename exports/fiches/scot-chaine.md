@@ -1,57 +1,42 @@
-# Bibliothèque rugby U8
+# La chaîne
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Coopération · Poursuite et délivrance
 
-## La chaîne
-
-**coopération · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse)
 
 Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. Recommencer après une minute.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — proposition IA :** Coordonner ses déplacements avec ses partenaires pendant une poursuite.
 
-**Effectif :** Non renseigné
+**Matériel — information manquante :** non extrait
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — information manquante :** non extrait
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 18 · consultée le 2026-09-07
+**Effectif maximum — information manquante :** non extrait
 
-**Accès :** PDF public consulté
+**Espace — information manquante :** non extrait
 
-**Organisation :** Chasseurs par deux, mains liées ; aire d’évitement.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Déroulement :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
+**Organisation — source :** Chasseurs par deux, mains liées ; aire d’évitement.
 
-**Consignes :** Garder les mains liées pendant la poursuite.
+**Déroulement — source :** Toucher sans rompre la chaîne ; les touchés la rejoignent. Changer les chasseurs après soixante secondes.
 
-Détails extraits le 2026-09-09 — PDF page 18.
+**Consignes — source :** Garder les mains liées pendant la poursuite.
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+**Critères de réussite — information manquante :** non extrait
 
-## Répertoire des sources
+**Erreurs fréquentes — information manquante :** non extrait
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Points d’attention — information manquante :** non extrait
 
-## Préparation de séance
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
-
-**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-**Objectif — proposition IA**
-
-Coordonner ses déplacements avec ses partenaires pendant une poursuite.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -59,6 +44,15 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 18. Vérification documentaire : 2026-09-07.
 
-Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 18 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 18 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>

@@ -1,60 +1,52 @@
-# Bibliothèque rugby U8
+# File avec transmission au nouveau meneur
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Soutien · Manipulation du ballon · Circulation et transmission
 
-## File avec transmission au nouveau meneur
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Cinq joueurs en file suivent le porteur.
 
-**Matériel :** Un ballon par atelier ; plots pour délimiter
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Soutenir le porteur.
 
-**Effectif :** 5–5 — par atelier
+**Matériel — historique non réexaminé :** Un ballon par atelier ; plots pour délimiter
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Follow the Leader · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 5 × 5 m
 
-**Objectifs :** Soutenir le porteur.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Cinq joueurs en file suivent le porteur.
+**Organisation — source :** Cinq joueurs en file suivent le porteur.
 
-**Déroulement :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
+**Déroulement — source :** Au signal, le meneur s’arrête et présente le ballon sur le côté. Le suivant le prend et mène ; l’ancien meneur rejoint la fin.
 
-**Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
+**Consignes — source :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-16 — Follow the Leader — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 5 × 5 m
+**Points d’attention — source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par atelier
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](wr-pass-support.md). Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
-## Préparation de séance
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Follow the Leader. Vérification documentaire : 2026-09-08.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en progression collective.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Tags proposés :** Soutien · Manipulation du ballon · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+- Objectif : wr-noncontact ; Follow the Leader — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Follow the Leader ; 2026-09-08
+- Points d’attention : wr-noncontact ; Follow the Leader — Difficulty ; Coaching points conservés ; 2026-09-16
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
+4 révision(s) conservée(s) dans les données de l’application.
 
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

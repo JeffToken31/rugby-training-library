@@ -1,69 +1,60 @@
-# Bibliothèque rugby U8
+# Bonds de kangourou vers l’avant
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
 
-## Bonds de kangourou vers l’avant
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.**
+**Famille :** Motricité et postures · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Départ en demi-flexion.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 16 — Kangaroo Hop · consultée le 2026-09-07
+**Objectif — proposition IA :** Coordonner impulsion et réception équilibrée lors de bonds successifs.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Aucun
 
-**Organisation :** Départ en demi-flexion.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Bondir haut et loin, réceptionner en demi-flexion puis recommencer.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Revenir en demi-flexion à chaque réception.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-## Répertoire des sources
+**Organisation — source :** Départ en demi-flexion.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Déroulement — source :** Bondir haut et loin, réceptionner en demi-flexion puis recommencer.
 
-## Préparation de séance
+**Consignes — source :** Revenir en demi-flexion à chaque réception.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Motricité et postures.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Coordonner impulsion et réception équilibrée lors de bonds successifs.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Kangaroo Hop. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 4 à 6 séquences de 30 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 30 s.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : scot-primary ; PDF page 16 — Kangaroo Hop ; 2026-09-09
 
-**Pour prolonger :** Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,68 +1,65 @@
-# Bibliothèque rugby U8
+# Chasse collective avec retour après ballon tombé
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-## Chasse collective avec retour après ballon tombé
-
-**coopération · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+**Famille :** Chasse collective par passes · **Âge source :** Under 7 (classement Rugby Toolbox)
 
 Deux équipes dans le carré ; le porteur reste immobile.
 
-**Matériel :** Un ballon et quatre plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 10–20 — Total réparti en deux équipes
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+**Objectif — source :** Accélérer les échanges de passes dans un jeu collectif.
 
-**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+**Matériel — source :** Un ballon et quatre plots
 
-**Objectifs :** Accélérer les échanges de passes dans un jeu collectif.
+**Effectif minimum — source :** 10
 
-**Organisation :** Deux équipes dans le carré ; le porteur reste immobile.
+**Effectif maximum — source :** 20
 
-**Déroulement :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
+**Espace — source :** Carré de 10 × 10 m
 
-**Consignes :** Le porteur reste immobile ; ne pas sortir du carré.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Organisation — source :** Deux équipes dans le carré ; le porteur reste immobile.
 
-**Points coach issus de la source :** Se concentrer sur une cible et offrir un soutien proche.
+**Déroulement — source :** Les chasseurs passent pour toucher un adversaire au ballon. Le joueur touché sort ; un ballon tombé change la possession et fait revenir les sortants.
 
-**Espace source :** Carré de 10 × 10 m
+**Consignes — source :** Le porteur reste immobile ; ne pas sortir du carré.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — source :** Se concentrer sur une cible et offrir un soutien proche.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse collective par passes.
+**Périmètre de l’effectif :** Total réparti en deux équipes
 
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Rapprochement non résolu :** [Chasseurs passeurs par trois](scot-corner.md). Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Comparaison éditoriale complémentaire :** [rc-capture-aliens](rc-capture-aliens.md) — Sortie puis retour sur ballon tombé contre conversion en chasseur.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+**Source principale :** [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+- Objectif : nz-corner-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Points d’attention : nz-corner-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Consignes : nz-corner-source ; DRILL EXPLANATION et DRILL SET-UP ; 2026-09-09
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-corner-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
+
+5 révision(s) conservée(s) dans les données de l’application.
+
+</details>

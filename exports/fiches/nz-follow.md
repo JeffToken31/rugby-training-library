@@ -1,68 +1,61 @@
-# Bibliothèque rugby U8
+# Binômes guidés par le signal du coach
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Prise d’information
 
-## Binômes guidés par le signal du coach
-
-**prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
+**Famille :** Passes en binôme et soutien · **Âge source :** Under 7 (classement Rugby Toolbox)
 
 Deux partenaires échangent ; un seul voit le coach.
 
-**Matériel :** Un ballon par binôme
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 2–2 — Par binôme ; plusieurs binômes possibles
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — DRILL EXPLANATION et DRILL SET-UP · consultée le 2026-09-08
+**Objectif — source :** Développer la communication et la réaction au signal.
 
-**Accès :** Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée
+**Matériel — source :** Un ballon par binôme
 
-**Objectifs :** Développer la communication et la réaction au signal.
+**Effectif minimum — source :** 2
 
-**Organisation :** Deux partenaires échangent ; un seul voit le coach.
+**Effectif maximum — source :** 2
 
-**Déroulement :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
+**Espace — source :** Grand espace, partenaires à environ un mètre
 
-**Consignes :** Rester proches et communiquer pour suivre le signal.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Organisation — source :** Deux partenaires échangent ; un seul voit le coach.
 
-**Points coach issus de la source :** Communiquer et rester proches.
+**Déroulement — source :** Au signal, suivre la direction montrée ; le partenaire qui voit guide l’autre.
 
-**Espace source :** Grand espace, partenaires à environ un mètre
+**Consignes — source :** Rester proches et communiquer pour suivre le signal.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — source :** Communiquer et rester proches.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en binôme et soutien.
+**Périmètre de l’effectif :** Par binôme ; plusieurs binômes possibles
 
-**Tags proposés :** Réaction au signal · Prise d’information
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-follow-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Points d’attention : nz-follow-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Consignes : nz-follow-source ; DRILL EXPLANATION et DRILL SET-UP ; 2026-09-09
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-follow-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+5 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

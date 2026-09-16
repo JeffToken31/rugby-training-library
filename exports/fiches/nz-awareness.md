@@ -1,72 +1,60 @@
-# Bibliothèque rugby U8
+# Manipulations autour du corps
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Manipulation du ballon · Coordination
 
-## Manipulations autour du corps
-
-**manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
+**Famille :** Manipulation et coordination individuelle · **Âge source :** Under 7 (classement du site)
 
 Joueurs espacés dans la zone.
 
-**Matériel :** Un ballon par joueur
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Se familiariser avec le ballon par différentes manipulations.
 
-**Accès :** Description publique indexée consultée ; capture à vérifier
+**Matériel — source :** Un ballon par joueur
 
-**Objectifs :** Se familiariser avec le ballon par différentes manipulations.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs espacés dans la zone.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
+**Espace — source :** 10 × 10 m à ajuster selon effectif
 
-**Consignes :** Chercher la maîtrise et éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Critères de réussite :** Réaliser les manipulations sans erreur.
+**Organisation — source :** Joueurs espacés dans la zone.
 
-Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale.
+**Déroulement — source :** Faire circuler le ballon autour de la tête, taille, genoux et chevilles, puis en huit entre les jambes.
 
-**Points coach issus de la source :** Se déplacer vers les espaces libres et éviter les autres joueurs.
+**Consignes — source :** Chercher la maîtrise et éviter les collisions.
 
-**Espace source :** 10 × 10 m à ajuster selon effectif
+**Critères de réussite — source :** Réaliser les manipulations sans erreur.
 
-## Répertoire des sources
+**Erreurs fréquentes — information manquante :** non extrait
 
-- [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — Description publique indexée consultée ; capture à vérifier.
+**Points d’attention — source :** Se déplacer vers les espaces libres et éviter les autres joueurs.
 
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Manipulation et coordination individuelle.
-
-**Tags proposés :** Manipulation du ballon · Coordination
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Critères de réussite, Points d’attention : nz-awareness-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
+- Organisation, Déroulement, Consignes : nz-awareness-source ; DRILL EXPLANATION et COACHING POINTS ; 2026-09-08
+- Durée de l’atelier, Espace, Matériel : nz-awareness-source ; EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale ; 2026-09-08
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+4 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

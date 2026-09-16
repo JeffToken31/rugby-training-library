@@ -1,93 +1,70 @@
-# Bibliothèque rugby U8
+# Deux contre un sans contact
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Surnombre
 
-## Deux contre un sans contact
-
-**passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** U7 (classement du site)
 
 Deux attaquants avancent face à un défenseur simulé, sans contact. Le soutien reste derrière le porteur pour recevoir sans passe en avant.
 
-**Matériel :** Ballon ; couloir à matérialiser
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Passer malgré la présence d’un défenseur.
+
+**Matériel — historique non réexaminé :** Ballon ; couloir à matérialiser
+
+**Effectif minimum — historique non réexaminé :** 3
+
+**Effectif maximum — historique non réexaminé :** 3
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux attaquants face à un défenseur simulé.
+
+**Déroulement — source :** Avancer et transmettre au soutien ; enchaîner les passages.
+
+**Consignes — source :** Aucun contact ; le soutien garde de la profondeur.
+
+**Critères de réussite — source :** Rester en profondeur pour permettre une passe sans passe en avant.
+
+**Erreurs fréquentes — source :** Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.
+
+**Points d’attention — source :** Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.
 
 **Adaptation U8 proposée :** Défenseur d’abord immobile, puis marchant. Alterner les trois rôles et chercher une passe courte.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Regard du porteur et profondeur du soutien.; duration_min : 8; easier : Défenseur immobile.; harder : Défenseur marchant, toucher sans plaquer.; players_max : 9; players_min : 6; setup : Deux ou trois trios ; un ballon par trio.; steps : Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage.
 
-**Objectifs :** Passer malgré la présence d’un défenseur.
+**Repères coach proposés par IA :** Le porteur transmet à son soutien lorsqu’il devient disponible face au défenseur. Observer le choix entre avancer et passer, et pas seulement le nombre de passes.
 
-**Organisation :** Deux attaquants face à un défenseur simulé.
-
-**Déroulement :** Avancer et transmettre au soutien ; enchaîner les passages.
-
-**Consignes :** Aucun contact ; le soutien garde de la profondeur.
-
-**Critères de réussite :** Rester en profondeur pour permettre une passe sans passe en avant.
-
-**Erreurs fréquentes :** Soutien trop à plat, obligeant le porteur à transmettre vers l’avant.
-
-Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
-
-**Points coach issus de la source :** Faire jouer le défenseur sans contact ; rappeler au soutien de rester en retrait.
-
-### Proposition terrain U8 — à valider
-
-8 min · 6 à 9 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
-
-**Installation :** Deux ou trois trios ; un ballon par trio.
-
-**Déroulement :** Deux attaquants franchissent le couloir face à un défenseur passif. Rotation à chaque passage.
-
-**À observer :** Regard du porteur et profondeur du soutien.
-
-**Plus simple :** Défenseur immobile.
-
-**Plus difficile :** Défenseur marchant, toucher sans plaquer.
-
-## Répertoire des sources
-
-- [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
-
-**Tags proposés :** Passe · Soutien · Prise d’information · Surnombre
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Deux contre un avec passes libres au départ](wr-tag-2v1.md). Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.
 
-**Indicateur observable :** Le porteur transmet à son soutien lorsqu’il devient disponible face au défenseur.
+**Comparaison éditoriale complémentaire :** [wr-tag-2v1](wr-tag-2v1.md) — Rubans et passes libres au départ contre défense simulée et soutien en retrait.
 
-**À regarder :** Observer le choix entre avancer et passer, et pas seulement le nombre de passes.
+**Source principale :** [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-### Durée pour planifier l’atelier
+- Objectif, Organisation, Déroulement, Consignes : rc-two-one ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Erreurs fréquentes, Points d’attention : rc-two-one ; Description et Video Subtitles, avant Up Next In Playlist ; 2026-09-08
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+2 révision(s) conservée(s) dans les données de l’application.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,67 +1,60 @@
-# Bibliothèque rugby U8
+# Passe arrière avec jokers
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Opposition collective
 
-## Passe arrière avec jokers
-
-**soutien · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+**Famille :** Jeux à zones de marque · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Avancer en soutenant le porteur.
 
-**Matériel :** Plots, chasubles et ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 23 (pagination fichier) · consultée le 2026-09-07
+**Objectif — source :** Avancer en soutenant le porteur.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Plots, chasubles et ballon
 
-**Objectifs :** Avancer en soutenant le porteur.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes, deux zones de marque et deux jokers toujours attaquants.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 23, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Deux équipes, deux zones de marque et deux jokers toujours attaquants.
 
-## Répertoire des sources
+**Déroulement — source :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Consignes — source :** Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeux à zones de marque.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Passe · Soutien · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 23 (pagination fichier). Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Matériel : scot-primary ; PDF page 23, fiche complète ; 2026-09-08
+- Consignes : scot-primary ; PDF page 23, pagination du fichier — TASK et texte de la carte ; 2026-09-16
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

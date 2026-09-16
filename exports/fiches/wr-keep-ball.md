@@ -1,62 +1,55 @@
-# Bibliothèque rugby U8
+# Conserver par dix passes sans interception
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
 
-## Conserver par dix passes sans interception
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
+**Famille :** Conservation et interception · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Quatre passeurs contre un défenseur.
 
-**Matériel :** Un ballon par atelier ; plots pour délimiter
+**Durée pour préparer l’atelier :** 5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 5 min
+**Objectif — source :** Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.
 
-**Effectif :** 5–5 — par atelier
+**Matériel — historique non réexaminé :** Un ballon par atelier ; plots pour délimiter
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Keep Ball · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 5 × 5 m
 
-**Objectifs :** Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.
+**Durée de l’atelier — source :** 5
 
-**Organisation :** Quatre passeurs contre un défenseur.
+**Organisation — source :** Quatre passeurs contre un défenseur.
 
-**Déroulement :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
+**Déroulement — source :** Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.
 
-**Consignes :** Pas d’interception ni de passe au-dessus de la tête.
+**Consignes — source :** Pas d’interception ni de passe au-dessus de la tête.
 
-**Critères de réussite :** Réussir dix passes collectivement avant la reprise du décompte.
+**Critères de réussite — source :** Réussir dix passes collectivement avant la reprise du décompte.
 
-Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite.
+**Points d’attention — source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite.
 
-**Espace source :** 5 × 5 m
+**Périmètre de l’effectif :** par atelier
 
-## Répertoire des sources
+**Variantes conservées séparément :** [Quatre passeurs contre un intercepteur](rc-four-one.md). Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Comparaison éditoriale complémentaire :** [rc-four-one](rc-four-one.md) — Toucher du porteur sans interception contre défense par interception.
 
-## Préparation de séance
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Keep Ball. Vérification documentaire : 2026-09-08.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Conservation et interception.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Tags proposés :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+- Objectif : wr-noncontact ; Keep Ball — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Keep Ball ; 2026-09-08
+- Critères de réussite : wr-noncontact ; Keep Ball — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; Keep Ball — Difficulty ; Coaching points conservés ; 2026-09-16
 
-Informations encore absentes : Erreurs fréquentes.
+5 révision(s) conservée(s) dans les données de l’application.
 
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

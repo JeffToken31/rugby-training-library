@@ -1,70 +1,59 @@
-# Bibliothèque rugby U8
+# Slalom au pied puis essai
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Jeu au pied · Parcours
 
-## Slalom au pied puis essai
-
-**jeu au pied · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
+**Famille :** Jeu et conduite au pied · **Âge source :** M8 — guide saison 2022-2023
 
 Slalom au pied puis essai
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Fédération Française de Rugby](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF page 26 · consultée le 2026-09-08
+**Objectif — source :** Effectuer un coup franc et conduire des deux pieds.
 
-**Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
+**Matériel — historique non réexaminé :** Ballons et plots
 
-**Objectifs :** Effectuer un coup franc et conduire des deux pieds.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Un ballon par joueur ; trois plots de slalom.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
+**Espace — source :** Zone de 5 × 5 m.
 
-**Consignes :** Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Garder le ballon dans la zone et doser les touches.
+**Organisation — source :** Un ballon par joueur ; trois plots de slalom.
 
-Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagination fichier.
+**Déroulement — source :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
 
-**Espace source :** Zone de 5 × 5 m.
+**Consignes — source :** Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone.
 
-## Répertoire des sources
+**Critères de réussite — source :** Garder le ballon dans la zone et doser les touches.
 
-- [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF consulté via recherche documentaire ; capture locale à vérifier.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeu et conduite au pied.
-
-**Tags proposés :** Jeu au pied · Parcours
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 26. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Consignes : ffr-guide-m8-2023 ; PDF page 26 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Critères de réussite, Espace : ffr-guide-m8-2023 ; PDF page 26, organisation, consignes et critères ; 2026-09-08
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

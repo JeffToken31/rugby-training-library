@@ -1,57 +1,42 @@
-# Bibliothèque rugby U8
+# Chasseurs passeurs par trois
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
 
-## Chasseurs passeurs par trois
-
-**passe · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
+**Famille :** Chasse collective par passes · **Âge source :** Primaire (Écosse)
 
 Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
-**Durée atelier :** Non renseignée
+**Objectif — source :** Travailler réception, passe et évitement.
 
-**Effectif :** Non renseigné
+**Matériel — information manquante :** non extrait
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — information manquante :** non extrait
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 20 · consultée le 2026-09-07
+**Effectif maximum — information manquante :** non extrait
 
-**Accès :** PDF public consulté
+**Espace — information manquante :** non extrait
 
-**Objectifs :** Travailler réception, passe et évitement.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Organisation :** Chasseurs par trois, un ballon par trio.
+**Organisation — source :** Chasseurs par trois, un ballon par trio.
 
-**Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
+**Déroulement — source :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
 
-**Consignes :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
+**Consignes — source :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
 
-Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK et texte de la carte.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+**Points d’attention — source :** Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.
 
-## Répertoire des sources
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse collective par passes.
-
-**Tags proposés :** Passe · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -59,6 +44,25 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Dur�
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Durée pour planifier l’atelier
+**Rapprochement non résolu :** [Chasse collective avec retour après ballon tombé](nz-corner.md). Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
-Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+**Rapprochement non résolu :** [Capturer les extraterrestres par la passe](rc-capture-aliens.md). Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
+
+**Rapprochement non résolu :** [Épouvantails — chasseurs passeurs](rc-team-scarecrow.md). Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.
+
+**Rapprochement non résolu :** [Chasseurs qui se passent le ballon](munster-hunters.md). Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.
+
+**Comparaison éditoriale complémentaire :** [rc-team-scarecrow](rc-team-scarecrow.md) — Conserver séparément. Chasseurs par trois dans Scottish Rugby, changements par paires dans les sous-titres RugbyCoaching. Sort du joueur touché insuffisamment décrit pour prouver une équivalence.
+
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 20. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Points d’attention : scot-primary ; PDF page 20, pagination du fichier — TASK et texte de la carte ; 2026-09-16
+- Organisation, Déroulement : scot-primary ; PDF page 20 (pagination fichier), TASK et SETUP ; 2026-09-09
+- Consignes : scot-primary ; PDF page 20 ; 2026-09-09
+
+3 révision(s) conservée(s) dans les données de l’application.
+
+</details>

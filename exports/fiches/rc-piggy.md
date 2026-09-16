@@ -1,93 +1,68 @@
-# Bibliothèque rugby U8
+# Le joueur au milieu
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
 
-## Le joueur au milieu
-
-**passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Conservation et interception · **Âge source :** U7 (classement du site)
 
 Le porteur reste immobile ; ses deux partenaires cherchent une ligne de passe autour de l’intercepteur. Changer les rôles et travailler la communication. La source propose des manches d’une minute puis trente secondes.
 
-**Matériel :** Un ballon ; espace délimité
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 4–4
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Conserver le ballon et se rendre disponible.
+
+**Matériel — historique non réexaminé :** Un ballon ; espace délimité
+
+**Effectif minimum — historique non réexaminé :** 4
+
+**Effectif maximum — historique non réexaminé :** 4
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trois passeurs et un intercepteur.
+
+**Déroulement — source :** Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.
+
+**Consignes — source :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
+
+**Critères de réussite — source :** Conserver le ballon hors de portée de l’intercepteur pendant la manche.
+
+**Erreurs fréquentes — source :** Partenaires immobiles ; absence de communication.
+
+**Points d’attention — source :** Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.
 
 **Adaptation U8 proposée :** Commencer avec un défenseur qui marche, puis le rendre libre. Montrer les mains et appeler le porteur.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — Description / Video Subtitles · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
+coach : Offrir une ligne de passe et appeler.; duration_min : 6; easier : Intercepteur marchant.; harder : Réduire légèrement le carré.; players_max : 8; players_min : 4; setup : Un ou deux carrés de quatre enfants.; steps : Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche.
 
-**Objectifs :** Conserver le ballon et se rendre disponible.
+**Repères coach proposés par IA :** Un partenaire se déplace pour offrir une ligne de passe libre. Repérer si les non-porteurs restent cachés derrière l’intercepteur.
 
-**Organisation :** Trois passeurs et un intercepteur.
-
-**Déroulement :** Le porteur reste immobile ; les deux partenaires se déplacent pour ouvrir une passe.
-
-**Consignes :** Appeler et montrer les mains ; l’intercepteur cherche à récupérer le ballon.
-
-**Critères de réussite :** Conserver le ballon hors de portée de l’intercepteur pendant la manche.
-
-**Erreurs fréquentes :** Partenaires immobiles ; absence de communication.
-
-Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Next In Playlist.
-
-**Points coach issus de la source :** Faire bouger les partenaires sans ballon ; demander une annonce utile et des mains ouvertes.
-
-### Proposition terrain U8 — à valider
-
-6 min · 4 à 8 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
-
-**Installation :** Un ou deux carrés de quatre enfants.
-
-**Déroulement :** Trois joueurs conservent le ballon face à un intercepteur. Le porteur reste immobile. Changer les rôles après chaque courte manche.
-
-**À observer :** Offrir une ligne de passe et appeler.
-
-**Plus simple :** Intercepteur marchant.
-
-**Plus difficile :** Réduire légèrement le carré.
-
-## Répertoire des sources
-
-- [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Conservation et interception.
-
-**Tags proposés :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Quatre passeurs contre un intercepteur](rc-four-one.md). Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.
 
-**Indicateur observable :** Un partenaire se déplace pour offrir une ligne de passe libre.
+**Source principale :** [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**À regarder :** Repérer si les non-porteurs restent cachés derrière l’intercepteur.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+- Objectif, Organisation, Déroulement, Consignes : rc-piggy ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Critères de réussite, Erreurs fréquentes, Points d’attention : rc-piggy ; Description et Video Subtitles, avant Up Next In Playlist ; 2026-09-08
 
-### Durée pour planifier l’atelier
+2 révision(s) conservée(s) dans les données de l’application.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

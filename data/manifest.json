@@ -75,7 +75,8 @@
     "data/enrichment-scot-core-20260916.json",
     "data/enrichment-ffr-core-20260916.json",
     "data/enrichment-completion-20260916.json",
-    "data/enrichment-completion-extra-20260916.json"
+    "data/enrichment-completion-extra-20260916.json",
+    "data/enrichment-local-review-20260916.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -176,6 +177,7 @@
     ],
     "tags": "data/exercise-tags.json",
     "coach_cues": "data/coach-cues.json",
-    "timings": "data/timing-proposals.json"
+    "timings": "data/timing-proposals.json",
+    "consolidation_review": "data/consolidation-review.json"
   }
 }

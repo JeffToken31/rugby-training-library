@@ -1,67 +1,60 @@
-# Bibliothèque rugby U8
+# Alterner trois formes du dos
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
 
-## Alterner trois formes du dos
-
-**motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
+**Famille :** Motricité et postures · **Âge source :** M8
 
 Enfant à quatre pattes.
 
-**Matériel :** Aucun
+**Durée pour préparer l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 4–6 séquences de 30 s ; 30 s entre les séquences ; retour final 30 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8 — Atelier 2 · consultée le 2026-09-06
+**Objectif — source :** Alterner dos plat, creux et rond.
 
-**Accès :** PDF public, texte consulté
+**Matériel — historique non réexaminé :** Aucun
 
-**Objectifs :** Alterner dos plat, creux et rond.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Enfant à quatre pattes.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Alterner dos plat, creux puis rond.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Réaliser successivement les trois postures.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
+**Organisation — source :** Enfant à quatre pattes.
 
-## Répertoire des sources
+**Déroulement — source :** Alterner dos plat, creux puis rond.
 
-- [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
+**Consignes — source :** Réaliser successivement les trois postures.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Motricité et postures.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 2. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 4 à 6 séquences de 30 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 30 s.
+- Objectif : ffr-famille ; PDF page 8 — atelier correspondant ; pagination fichier ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 8 — Atelier 2 ; 2026-09-09
 
-**Pour prolonger :** Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

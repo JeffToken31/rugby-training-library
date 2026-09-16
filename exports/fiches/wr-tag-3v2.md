@@ -1,62 +1,50 @@
-# Bibliothèque rugby U8
+# Trois contre deux avec passes en arrière
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
-## Trois contre deux avec passes en arrière
-
-**opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé par World Rugby
 
 Trois attaquants contre deux défenseurs.
 
-**Matériel :** Un ballon par groupe ; plots et rubans
+**Durée pour préparer l’atelier :** 12 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 12 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.
 
-**Effectif :** 5–5 — par atelier, attentes comprises
+**Matériel — historique non réexaminé :** Un ballon par groupe ; plots et rubans
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — 3 v 2 · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive ; Marquer.
+**Durée de l’atelier — source :** 12
 
-**Organisation :** Trois attaquants contre deux défenseurs.
+**Organisation — source :** Trois attaquants contre deux défenseurs.
 
-**Déroulement :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
+**Déroulement — source :** Franchir la défense et marquer ; échanger un attaquant et un défenseur après chaque passage.
 
-**Consignes :** Passer en arrière ; défense par prise de ruban.
+**Consignes — source :** Passer en arrière ; défense par prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 10 × 10 m
+**Points d’attention — source :** Exploiter l’espace ; soutien derrière le ballon, passes précoces et communication. Les deux défenseurs communiquent et regardent la taille du porteur.
 
-**Famille proposée :** surnombre-rubans
+**Périmètre de l’effectif :** par atelier, attentes comprises
 
-## Répertoire des sources
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 3 v 2. Vérification documentaire : 2026-09-08.
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-## Préparation de séance
+- Objectif : wr-noncontact ; 3 v 2 — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; 3 v 2 ; 2026-09-09
+- Points d’attention : wr-noncontact ; 3 v 2 — Coaching points ; 2026-09-13
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
+3 révision(s) conservée(s) dans les données de l’application.
 
-**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-12 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

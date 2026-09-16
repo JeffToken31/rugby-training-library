@@ -1,68 +1,60 @@
-# Bibliothèque rugby U8
+# Passes en zigzag et replacement en bout de ligne
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Circulation et transmission
 
-## Passes en zigzag et replacement en bout de ligne
-
-**passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
 Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
 
-**Matériel :** Ballons selon maîtrise, au maximum un pour deux
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Zig Zag Passing — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Enchaîner passe, réception et course à l’échauffement.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Ballons selon maîtrise, au maximum un pour deux
 
-**Objectifs :** Enchaîner passe, réception et course à l’échauffement.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
+**Espace — source :** 10 × 50 m
 
-**Consignes :** Passer des deux côtés, communiquer et doser pour le receveur.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles of play.
+**Organisation — source :** Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
 
-**Espace source :** 10 × 50 m
+**Déroulement — source :** Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.
 
-## Répertoire des sources
+**Consignes — source :** Passer des deux côtés, communiquer et doser pour le receveur.
 
-- [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
+**Points d’attention — source :** Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire.
 
-**Tags proposés :** Passe · Coopération · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — New Zealand Rugby — Rugby Toolbox ; Zig Zag Passing — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-zigzag-source ; Zig Zag Passing — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-zigzag-source ; Zig Zag Passing — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-zigzag-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

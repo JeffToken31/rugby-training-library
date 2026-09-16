@@ -1,75 +1,66 @@
-# Bibliothèque rugby U8
+# Passes en triangle et changement de posture
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
-## Passes en triangle et changement de posture
-
-**passe · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** U9 (classement du site)
 
 En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons.
 
-**Matériel :** Un ballon pour la situation de départ
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–3
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Recevoir après un changement de posture.
+
+**Matériel — historique non réexaminé :** Un ballon pour la situation de départ
+
+**Effectif minimum — historique non réexaminé :** 3
+
+**Effectif maximum — historique non réexaminé :** 3
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Trois joueurs en triangle.
+
+**Déroulement — source :** Passer, s’asseoir et se relever avant de recevoir à nouveau.
+
+**Consignes — source :** Présenter les mains tôt ; reprendre le rythme de circulation.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
 
 **Adaptation U8 proposée :** Garder un seul ballon et ralentir. Remplacer l’assise par un demi-tour si les enfants perdent le rythme.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description / Video Subtitles · consultée le 2026-09-06
+**Repères coach proposés par IA :** Le joueur se relève à temps pour recevoir après avoir passé et s’être assis. Distinguer les pertes de balle liées à la passe de celles liées au changement de posture.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Recevoir après un changement de posture.
-
-**Organisation :** Trois joueurs en triangle.
-
-**Déroulement :** Passer, s’asseoir et se relever avant de recevoir à nouveau.
-
-**Consignes :** Présenter les mains tôt ; reprendre le rythme de circulation.
-
-Détails extraits le 2026-09-08 — Description et sous-titres du contenu principal uniquement.
-
-**Points coach issus de la source :** Après la passe, s’asseoir puis se relever rapidement ; préparer les mains pour la réception suivante.
-
-## Répertoire des sources
-
-- [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
-
-**Tags proposés :** Passe · Réception · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Passes après départs dans cinq postures](wr-chain-reaction.md). Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.
 
-**Indicateur observable :** Le joueur se relève à temps pour recevoir après avoir passé et s’être assis.
+**Comparaison éditoriale complémentaire :** [rc-two-balls](rc-two-balls.md) — La fiche triangle sélectionne passe puis assis-relevé ; la fiche deux ballons sélectionne deux circuits simultanés. Tâches distinctes. La ressource du triangle montre aussi un passage multiballon : ne pas recompter ce passage sans comparaison.
 
-**À regarder :** Distinguer les pertes de balle liées à la passe de celles liées au changement de posture.
+**Source principale :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-### Durée pour planifier l’atelier
+- Objectif, Organisation, Déroulement, Consignes : rc-triangle ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+- Points d’attention : rc-triangle ; Description et sous-titres du contenu principal uniquement ; 2026-09-08
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+2 révision(s) conservée(s) dans les données de l’application.
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

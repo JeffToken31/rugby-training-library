@@ -111,6 +111,9 @@ def build(db, root, config):
     if config.get("timings"):
         import timing
         timing.attach(payload, read(root / config["timings"]))
+    if config.get("consolidation_review"):
+        import unified_catalogue
+        unified_catalogue.attach(payload, read(root / config["consolidation_review"]))
     payload["content_sha256"] = hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     return payload
 
@@ -156,4 +159,7 @@ def export(db, root, out, config):
     if config.get("timings"):
         import timing
         timing.export(payload, out)
+    if config.get("consolidation_review"):
+        import unified_catalogue
+        unified_catalogue.export(payload, out)
     return payload["summary"]

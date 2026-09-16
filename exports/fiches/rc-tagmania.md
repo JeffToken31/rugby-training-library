@@ -1,67 +1,63 @@
-# Bibliothèque rugby U8
+# Tag mania et délivrance
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-## Tag mania et délivrance
-
-**déplacement · âge source : Non précisé ; classement U7 · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Non précisé ; classement U7
 
 La première situation invite chacun à récolter des rubans. Une progression fige les joueurs touchés et permet à un partenaire de les délivrer en passant sous leurs bras.
 
-**Matériel :** Rubans ; ballons pour les progressions
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Changer d’appuis et éviter les chasseurs.
+
+**Matériel — historique non réexaminé :** Rubans ; ballons pour les progressions
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Aire délimitée, rubans ; ballons pour la progression.
+
+**Déroulement — source :** D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.
+
+**Consignes — source :** Rester sur le terrain et protéger son ballon.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Séparer les deux règles : d’abord collecte, puis jeu de délivrance. Pour simplifier, délivrer par une tape dans la main.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description / Video Subtitles · consultée le 2026-09-06
-
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Changer d’appuis et éviter les chasseurs.
-
-**Organisation :** Aire délimitée, rubans ; ballons pour la progression.
-
-**Déroulement :** D’abord récolter les rubans ; ensuite toucher au ballon et délivrer en passant sous les bras.
-
-**Consignes :** Rester sur le terrain et protéger son ballon.
-
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
-
-## Répertoire des sources
-
-- [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
-
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Comparaison éditoriale complémentaire :** [wr-scarecrow](wr-scarecrow.md) — La deuxième situation des sous-titres TAG Progressions décrit toucher au ballon puis délivrance sous les bras : même mécanisme que Scarecrow. Ne pas compter la fiche composite comme une nouvelle variante individuelle.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Source principale :** [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+- Objectif, Organisation, Déroulement, Consignes : rc-tagmania ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

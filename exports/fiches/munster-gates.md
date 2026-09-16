@@ -1,89 +1,67 @@
-# Bibliothèque rugby U8
+# Les portes à franchir
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Prise d’information · Opposition collective
 
-## Les portes à franchir
-
-**prise d’information · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
+**Famille :** Créer et exploiter un espace en opposition · **Âge source :** Primaire / mini-rugby
 
 Marquer en franchissant une porte libre, puis passer ; ne pas reprendre immédiatement la même porte.
 
-**Matériel :** Ballon et plots
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Vision, espace, réception-passe et évitement.
+
+**Matériel — historique non réexaminé :** Ballon et plots
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Deux équipes égales ; portes de plots dispersées.
+
+**Déroulement — source :** Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.
+
+**Consignes — source :** Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Proposition : commencer en marchant, faire tourner rapidement les rôles et éviter une longue attente des joueurs touchés.
 
-[Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 7 · consultée le 2026-09-06
+**Réglages U8 historiques proposés, distincts de la source :**
 
-**Accès :** PDF public consulté
+coach : Lever la tête et trouver une porte libre.; duration_min : 8; easier : Sans opposition.; harder : Ajouter une passe à un partenaire différent.; players_max : 10; players_min : 6; setup : Portes espacées, deux équipes et un ballon.; steps : Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point.
 
-**Objectifs :** Vision, espace, réception-passe et évitement.
+**Repères coach proposés par IA :** Le porteur repère une porte accessible et la franchit sans être touché. Observer s’il regarde les portes et les défenseurs avant de s’engager.
 
-**Organisation :** Deux équipes égales ; portes de plots dispersées.
-
-**Déroulement :** Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.
-
-**Consignes :** Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.
-
-Détails extraits le 2026-09-16 — PDF page 7 (numérotation 1-based) — Game Card, How to play.
-
-### Proposition terrain U8 — à valider
-
-8 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
-
-**Installation :** Portes espacées, deux équipes et un ballon.
-
-**Déroulement :** Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point.
-
-**À observer :** Lever la tête et trouver une porte libre.
-
-**Plus simple :** Sans opposition.
-
-**Plus difficile :** Ajouter une passe à un partenaire différent.
-
-## Répertoire des sources
-
-- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Créer et exploiter un espace en opposition.
-
-**Tags proposés :** Évitement · Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 7. Vérification documentaire : 2026-09-06.
 
-**Indicateur observable :** Le porteur repère une porte accessible et la franchit sans être touché.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**À regarder :** Observer s’il regarde les portes et les défenseurs avant de s’engager.
+- Objectif, Organisation, Déroulement, Consignes : munster-fms ; PDF page 7 (numérotation 1-based) — Game Card, How to play ; 2026-09-16
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+1 révision(s) conservée(s) dans les données de l’application.
 
-### Durée pour planifier l’atelier
-
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,68 +1,60 @@
-# Bibliothèque rugby U8
+# Rats et lapins : trajectoires libres
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
 
-## Rats et lapins : trajectoires libres
-
-**évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.**
+**Famille :** Réaction et course en duel · **Âge source :** Under 7 (classement du site)
 
 Même départ en binômes face à face, ballon au sol.
 
-**Matériel :** Ballons, ceintures et rubans
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Rats and Rabbits 4 — organisation et déroulement · consultée le 2026-09-09
+**Objectif — source :** Éviter l’adversaire et retirer ses rubans.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Ballons, ceintures et rubans
 
-**Objectifs :** Éviter l’adversaire et retirer ses rubans.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Organisation :** Même départ en binômes face à face, ballon au sol.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
+**Espace — source :** Départ à 10 à 15 m
 
-**Consignes :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principles of play.
+**Organisation — source :** Même départ en binômes face à face, ballon au sol.
 
-**Espace source :** Départ à 10 à 15 m
+**Déroulement — source :** Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.
 
-## Répertoire des sources
+**Consignes — source :** Trajectoires libres au lieu du trajet droit ; annoncer la capture et restituer le ruban.
 
-- [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Réaction et course en duel.
+**Points d’attention — source :** Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.
 
-**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — New Zealand Rugby — Rugby Toolbox ; Rats and Rabbits 4 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-rats34-source ; Rats and Rabbits 4 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-rats34-source ; Rats and Rabbits 4 — organisation et déroulement ; 2026-09-09
+- Points d’attention : nz-rats34-source ; COACHING POINTS, archive locale ; 2026-09-16
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

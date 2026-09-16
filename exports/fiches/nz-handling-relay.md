@@ -1,68 +1,59 @@
-# Bibliothèque rugby U8
+# Relais avec changements de portage
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Manipulation du ballon · Course · Relais · Parcours
 
-## Relais avec changements de portage
-
-**manipulation · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Under 7 (classement du site)
 
 Groupes alignés devant quatre plots espacés de dix mètres.
 
-**Matériel :** Un ballon et quatre plots par groupe
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 3–6 — par groupe
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-08
+**Objectif — source :** Améliorer la manipulation du ballon.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon et quatre plots par groupe
 
-**Objectifs :** Améliorer la manipulation du ballon.
+**Effectif minimum — source :** 3
 
-**Organisation :** Groupes alignés devant quatre plots espacés de dix mètres.
+**Effectif maximum — source :** 6
 
-**Déroulement :** Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.
+**Espace — source :** 40 × 20 m
 
-**Consignes :** Feinter avant de changer de direction.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
+**Organisation — source :** Groupes alignés devant quatre plots espacés de dix mètres.
 
-**Points coach issus de la source :** Feinter avant de s’écarter dans le changement de direction.
+**Déroulement — source :** Porter à deux mains, sous le bras droit, à deux mains puis sous le bras gauche sur quatre tronçons. Revenir en slalom et transmettre au suivant.
 
-**Espace source :** 40 × 20 m
+**Consignes — source :** Feinter avant de changer de direction.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — source :** Feinter avant de s’écarter dans le changement de direction.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Parcours et relais avec ballon.
+**Périmètre de l’effectif :** par groupe
 
-**Tags proposés :** Manipulation du ballon · Course · Relais · Parcours
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-handling-relay-source ; Description et paramètres du jeu ; 2026-09-08
+- Points d’attention : nz-handling-relay-source ; OBJECTIVE et COACHING POINTS ; 2026-09-08
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

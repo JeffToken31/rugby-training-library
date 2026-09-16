@@ -5541,6 +5541,7 @@
       "organisation": "Joueurs assis en cercle.",
       "steps": "Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.",
       "objectives": "Travailler la manipulation du ballon en mémorisant son destinataire.",
+      "coach_points": "Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -5599,7 +5600,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-memory-archive-review-20260916",
+            "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -5634,8 +5646,8 @@
         "source_id": "nz-memory-source",
         "actor": "assistant",
         "checked_on": "2026-09-16",
-        "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
-        "revision_id": "nz-memory-core-20260916",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-memory-archive-review-20260916",
         "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
         "capture_verified_locally": true
       },
@@ -5651,6 +5663,12 @@
           "supersedes": "nz-memory-detail-1",
           "checked_on": "2026-09-16",
           "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
+        },
+        {
+          "id": "nz-memory-archive-review-20260916",
+          "supersedes": "nz-memory-core-20260916",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {
@@ -5812,6 +5830,7 @@
       "organisation": "Deux équipes de six à douze dans le carré.",
       "steps": "Avant chaque passe, toucher le sol avec le ballon ; viser six à dix passes pour un point puis rendre la possession.",
       "objectives": "Communiquer, se déplacer dans les espaces et manipuler le ballon.",
+      "coach_points": "Le porteur recherche deux ou trois solutions de passe. Encourager les échanges verbaux et l’utilisation de toute l’aire de jeu.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -5870,7 +5889,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur recherche deux ou trois solutions de passe. Encourager les échanges verbaux et l’utilisation de toute l’aire de jeu.",
+          "provenance": {
+            "source_id": "nz-ground-pass-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-ground-pass-archive-review-20260916",
+            "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -5936,9 +5966,9 @@
       "enrichment_provenance": {
         "source_id": "nz-ground-pass-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Touch the Ground Pass — Objective / Principles of play",
-        "revision_id": "nz-ground-pass-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-ground-pass-archive-review-20260916",
         "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
         "capture_verified_locally": true
       },
@@ -5954,6 +5984,12 @@
           "supersedes": "nz-ground-pass-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-ground-pass-archive-review-20260916",
+          "supersedes": "nz-ground-pass-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {
@@ -13507,6 +13543,7 @@
       "organisation": "Binôme face à face, un porteur de ballon.",
       "steps": "Le partenaire cherche à rester devant le porteur pendant ses changements de direction ; permuter les rôles s’il est dépassé.",
       "objectives": "Effectuer des changements de direction rapides.",
+      "coach_points": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -13565,7 +13602,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-shadow-mirror-archive-review-20260916",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -13631,9 +13679,9 @@
       "enrichment_provenance": {
         "source_id": "nz-shadow-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Shadow Run — progression 2 — Objective / Principles of play",
-        "revision_id": "nz-shadow-mirror-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-shadow-mirror-archive-review-20260916",
         "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
         "capture_verified_locally": true
       },
@@ -13649,6 +13697,12 @@
           "supersedes": "nz-shadow-mirror-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-shadow-mirror-archive-review-20260916",
+          "supersedes": "nz-shadow-mirror-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {
@@ -16405,6 +16459,7 @@
       "organisation": "Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.",
       "steps": "Faire circuler les ballons alternativement entre les lignes. Après avoir traité tous les ballons, courir en bout de ligne ; avancer ainsi dans le couloir.",
       "objectives": "Enchaîner passe, réception et course à l’échauffement.",
+      "coach_points": "Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -16463,7 +16518,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire.",
+          "provenance": {
+            "source_id": "nz-zigzag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-zigzag-archive-review-20260916",
+            "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -16529,9 +16595,9 @@
       "enrichment_provenance": {
         "source_id": "nz-zigzag-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Zig Zag Passing — Objective / Principles of play",
-        "revision_id": "nz-zigzag-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-zigzag-archive-review-20260916",
         "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
         "capture_verified_locally": true
       },
@@ -16547,6 +16613,12 @@
           "supersedes": "nz-zigzag-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-zigzag-archive-review-20260916",
+          "supersedes": "nz-zigzag-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {
@@ -16876,6 +16948,7 @@
       "organisation": "Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.",
       "steps": "La pieuvre appelle un groupe qui traverse ; les joueurs touchés deviennent des tentacules au lieu de capture.",
       "objectives": "Développer l’évitement et la capture par toucher ou ruban.",
+      "coach_points": "Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -16934,7 +17007,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban.",
+          "provenance": {
+            "source_id": "nz-octopus-cross-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-octopus-cross-archive-review-20260916",
+            "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -17000,9 +17084,9 @@
       "enrichment_provenance": {
         "source_id": "nz-octopus-cross-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Octopus — Objective / Principles of play",
-        "revision_id": "nz-octopus-cross-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-octopus-cross-archive-review-20260916",
         "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
         "capture_verified_locally": true
       },
@@ -17018,6 +17102,12 @@
           "supersedes": "nz-octopus-cross-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-octopus-cross-archive-review-20260916",
+          "supersedes": "nz-octopus-cross-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {
@@ -18228,6 +18318,7 @@
       "steps": "Ramasser chaque ballon, courir deux mètres et le reposer. Partir quand le précédent est à mi-parcours, puis revenir en fin de file.",
       "common_errors": "Lâcher ou faire rouler le ballon au lieu de le poser fermement.",
       "objectives": "Ramasser et sécuriser le ballon au sol.",
+      "coach_points": "Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -18303,7 +18394,18 @@
           }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-pick-place-archive-review-20260916",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -18379,9 +18481,9 @@
       "enrichment_provenance": {
         "source_id": "nz-pick-place-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "EQUIPMENT, GROUP SIZE et AREA ; description sans durée totale",
-        "revision_id": "nz-pick-place-parameters-20260908",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-pick-place-archive-review-20260916",
         "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
         "capture_verified_locally": true
       },
@@ -18409,6 +18511,12 @@
           "supersedes": "nz-pick-place-coaching-20260908",
           "checked_on": "2026-09-08",
           "reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée."
+        },
+        {
+          "id": "nz-pick-place-archive-review-20260916",
+          "supersedes": "nz-pick-place-parameters-20260908",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {
@@ -18926,6 +19034,7 @@
       "organisation": "Binômes face à face à dix à quinze mètres ; ballon devant eux.",
       "steps": "Le camp nommé ramasse et tente de marquer en face ; son adversaire cherche le ruban. Compter les évasions réussies.",
       "objectives": "Éviter l’adversaire et retirer ses rubans.",
+      "coach_points": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -18984,7 +19093,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS, archive locale",
+            "revision_id": "nz-rats-straight-archive-review-20260916",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -19050,9 +19170,9 @@
       "enrichment_provenance": {
         "source_id": "nz-rats34-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Rats and Rabbits 3 — Objective / Principles of play",
-        "revision_id": "nz-rats-straight-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS, archive locale",
+        "revision_id": "nz-rats-straight-archive-review-20260916",
         "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
         "capture_verified_locally": true
       },
@@ -19068,6 +19188,12 @@
           "supersedes": "nz-rats-straight-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-rats-straight-archive-review-20260916",
+          "supersedes": "nz-rats-straight-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau des points coach communs aux deux situations de la ressource."
         }
       ],
       "source": {
@@ -19106,6 +19232,7 @@
       "organisation": "Même départ en binômes face à face, ballon au sol.",
       "steps": "Au nom appelé, ramasser et tenter l’évasion avec ballon ; l’adversaire cherche le ruban. Compter les réussites.",
       "objectives": "Éviter l’adversaire et retirer ses rubans.",
+      "coach_points": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -19164,7 +19291,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS, archive locale",
+            "revision_id": "nz-rats-free-archive-review-20260916",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -19230,9 +19368,9 @@
       "enrichment_provenance": {
         "source_id": "nz-rats34-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Rats and Rabbits 4 — Objective / Principles of play",
-        "revision_id": "nz-rats-free-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS, archive locale",
+        "revision_id": "nz-rats-free-archive-review-20260916",
         "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
         "capture_verified_locally": true
       },
@@ -19248,6 +19386,12 @@
           "supersedes": "nz-rats-free-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-rats-free-archive-review-20260916",
+          "supersedes": "nz-rats-free-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau des points coach communs aux deux situations de la ressource."
         }
       ],
       "source": {
@@ -22317,6 +22461,7 @@
       "organisation": "Binômes, un ballon ; trio possible si effectif impair.",
       "steps": "Au signal, le porteur esquive et son partenaire le suit à environ un mètre. Séquences de cinq à quinze secondes, récupération similaire.",
       "objectives": "Effectuer des changements de direction rapides.",
+      "coach_points": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -22375,7 +22520,18 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-shadow-archive-review-20260916",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -22441,9 +22597,9 @@
       "enrichment_provenance": {
         "source_id": "nz-shadow-source",
         "actor": "assistant",
-        "checked_on": "2026-09-10",
-        "locator": "Shadow Run — Objective / Principles of play",
-        "revision_id": "nz-shadow-objectives-20260910",
+        "checked_on": "2026-09-16",
+        "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+        "revision_id": "nz-shadow-archive-review-20260916",
         "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
         "capture_verified_locally": true
       },
@@ -22459,6 +22615,12 @@
           "supersedes": "nz-shadow-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-shadow-archive-review-20260916",
+          "supersedes": "nz-shadow-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "source": {

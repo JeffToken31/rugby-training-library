@@ -1,77 +1,67 @@
-# Bibliothèque rugby U8
+# Quatre passeurs contre un intercepteur
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Conservation du ballon · Opposition collective · Surnombre
 
-## Quatre passeurs contre un intercepteur
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Conservation et interception · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Quatre joueurs conservent le ballon face à un intercepteur et cherchent dix passes consécutives. Préparer les mains et appeler le porteur.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 5–5
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description / Video Subtitles · consultée le 2026-09-07
+**Objectif — source :** Décider rapidement et conserver le ballon.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Décider rapidement et conserver le ballon.
+**Effectif minimum — historique non réexaminé :** 5
 
-**Organisation :** Quatre passeurs contre un intercepteur.
+**Effectif maximum — historique non réexaminé :** 5
 
-**Déroulement :** Chercher une série de dix passes.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Appeler et présenter les mains avant de recevoir.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-**Critères de réussite :** Atteindre dix passes.
+**Organisation — source :** Quatre passeurs contre un intercepteur.
 
-Détails extraits le 2026-09-07 — Description / Video Subtitles — texte public consulté.
+**Déroulement — source :** Chercher une série de dix passes.
 
-**Points coach issus de la source :** Présenter une cible de réception et décider rapidement à qui transmettre.
+**Consignes — source :** Appeler et présenter les mains avant de recevoir.
 
-## Répertoire des sources
+**Critères de réussite — source :** Atteindre dix passes.
 
-- [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — historique non réexaminé :** Présenter une cible de réception et décider rapidement à qui transmettre.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Conservation et interception.
+**Repères coach proposés par IA :** Le groupe enchaîne des passes sans interception en renouvelant les solutions. Observer le déplacement des passeurs entre deux réceptions.
 
-**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective · Surnombre
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Le joueur au milieu](rc-piggy.md). Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.
 
-**Indicateur observable :** Le groupe enchaîne des passes sans interception en renouvelant les solutions.
+**Variantes conservées séparément :** [Conserver par dix passes sans interception](wr-keep-ball.md). Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
-**À regarder :** Observer le déplacement des passeurs entre deux réceptions.
+**Comparaison éditoriale complémentaire :** [rc-ten](rc-ten.md) — Sportplan décrit deux équipes et une distance défensive minimale ; quatre-contre-un décrit quatre passeurs et un intercepteur. Cible de dix passes commune, identité non démontrée. Conserver séparément avec périmètre Sportplan explicite.
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+**Comparaison éditoriale complémentaire :** [wr-keep-ball](wr-keep-ball.md) — Toucher du porteur sans interception contre défense par interception.
 
-### Durée pour planifier l’atelier
+**Source principale :** [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Durée de l’atelier, Espace : rc-four-one-source ; Description / Video Subtitles — texte public consulté ; 2026-09-07
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

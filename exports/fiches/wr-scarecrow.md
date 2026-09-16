@@ -1,62 +1,56 @@
-# Bibliothèque rugby U8
+# Épouvantails avec délivrance
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-## Épouvantails avec délivrance
-
-**évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Initiation Get Into Rugby ; âge précis non indiqué
 
 Épouvantails avec délivrance
 
-**Matériel :** Source pour six ateliers : six ballons et douze plots
+**Durée pour préparer l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 5 min
+**Objectif — source :** Exercer une pression défensive.
 
-**Effectif :** 5–5 — Par atelier ; source organisée en six ateliers parallèles
+**Matériel — historique non réexaminé :** Source pour six ateliers : six ballons et douze plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — historique non réexaminé :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Section Scarecrow Tag · consultée le 2026-09-08
+**Effectif maximum — historique non réexaminé :** 5
 
-**Accès :** Texte public consulté
+**Espace — historique non réexaminé :** 5 × 5 m par atelier
 
-**Objectifs :** Exercer une pression défensive.
+**Durée de l’atelier — historique non réexaminé :** 5
 
-**Organisation :** Cinq joueurs : un chasseur et quatre fuyards.
+**Organisation — source :** Cinq joueurs : un chasseur et quatre fuyards.
 
-**Déroulement :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
+**Déroulement — source :** Le chasseur touche au ballon ; le joueur touché écarte les bras. Un partenaire passe dessous pour le délivrer.
 
-**Consignes :** Toucher à deux mains à la taille sans pousser.
+**Consignes — source :** Toucher à deux mains à la taille sans pousser.
 
-Détails extraits le 2026-09-16 — Scarecrow Tag — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 5 × 5 m par atelier
+**Points d’attention — source :** Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite.
 
-**Manche source :** 60 secondes ; durée totale inconnue.
+**Périmètre de l’effectif :** Par atelier ; source organisée en six ateliers parallèles
 
-## Répertoire des sources
+**Durée d’une manche dans la source :** 60 secondes ; distincte de la durée totale.
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Comparaison éditoriale complémentaire :** [munster-mud](munster-mud.md) — Même mécanisme de toucher, immobilisation et délivrance sous un bras. Munster prévoit deux chasseurs, 20 × 20 m et fin au plus tard après cinq minutes ; World Rugby un chasseur par groupe de cinq et changement après une minute. Versions paramétrées du même jeu ; équivalence exacte non affirmée.
 
-## Préparation de séance
+**Comparaison éditoriale complémentaire :** [rc-tagmania](rc-tagmania.md) — La deuxième situation des sous-titres TAG Progressions décrit toucher au ballon puis délivrance sous les bras : même mécanisme que Scarecrow. Ne pas compter la fiche composite comme une nouvelle variante individuelle.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Scarecrow Tag. Vérification documentaire : 2026-09-08.
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
+- Objectif : wr-noncontact ; Scarecrow Tag — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes : wr-noncontact ; Section Scarecrow Tag ; 2026-09-08
+- Points d’attention : wr-noncontact ; Scarecrow Tag — Difficulty ; Coaching points conservés ; 2026-09-16
 
-### Réglages à préparer pour ma séance
+4 révision(s) conservée(s) dans les données de l’application.
 
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

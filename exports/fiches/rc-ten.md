@@ -1,61 +1,48 @@
-# Bibliothèque rugby U8
+# Dix passes - variante communautaire documentee
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Coopération · Conservation du ballon · Opposition collective
 
-## Dix passes - variante communautaire documentee
-
-**passe · âge source : U8 (classement du site) · Variante Sportplan documentee ; video initiale incomplete**
+**Famille :** Conservation et interception · **Âge source :** U8 (classement du site)
 
 Objectif annoncé : se rendre disponible sans ballon et communiquer avec le porteur. Le déroulement n’est pas documenté dans le texte consulté.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique · consultée le 2026-09-06
+**Objectif — source :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
 
-**Accès :** Description publique seulement ; déroulement non vérifié
+**Matériel — information manquante :** non extrait
 
-**Objectifs :** Se rendre disponible sans ballon et communiquer pour faciliter la passe.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation — Variante Sportplan Community :** Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement — Variante Sportplan Community :** Enchaîner dix passes sans chute ni interception.
+**Espace — information manquante :** non extrait
 
-**Consignes — Variante Sportplan Community :** Les défenseurs restent à au moins un mètre du porteur.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite — Variante Sportplan Community :** Réussir dix passes consécutives.
+**Organisation — source :** Deux équipes avec chasubles ; démarrer à six enfants et accueillir les arrivants.
 
-Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contribution, après article général.
+**Déroulement — source :** Enchaîner dix passes sans chute ni interception.
 
-**Points coach issus de la source :** Encourager la communication, les déplacements sans ballon et les passes courtes et précises.
+**Consignes — source :** Les défenseurs restent à au moins un mètre du porteur.
 
-**Variante sourcée complémentaire :** Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
+**Critères de réussite — source :** Réussir dix passes consécutives.
 
-[Sportplan Community](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Répertoire des sources
+**Points d’attention — source :** Encourager la communication, les déplacements sans ballon et les passes courtes et précises.
 
-- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
+**Repères coach proposés par IA :** L’équipe conserve le ballon en proposant des solutions au porteur. Repérer les joueurs immobiles et les passes tentées à travers un intercepteur.
 
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Conservation et interception.
-
-**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -63,22 +50,18 @@ Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Effec
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Comparaison éditoriale complémentaire :** [rc-four-one](rc-four-one.md) — Sportplan décrit deux équipes et une distance défensive minimale ; quatre-contre-un décrit quatre passeurs et un intercepteur. Cible de dix passes commune, identité non démontrée. Conserver séparément avec périmètre Sportplan explicite.
 
-**Indicateur observable :** L’équipe conserve le ballon en proposant des solutions au porteur.
+**Source principale :** [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — RugbyCoaching.tv ; Description publique. Vérification documentaire : 2026-09-06.
 
-**À regarder :** Repérer les joueurs immobiles et les passes tentées à travers un intercepteur.
+**Référence complémentaire :** [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION. Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-### Durée pour planifier l’atelier
+- Objectif : rc-ten ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
+- Organisation, Déroulement, Consignes, Critères de réussite, Points d’attention : sportplan-ten ; DESCRIPTION et COACHING POINTS de la contribution, après article général ; 2026-09-09
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+2 révision(s) conservée(s) dans les données de l’application.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

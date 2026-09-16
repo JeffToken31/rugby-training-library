@@ -1,62 +1,55 @@
-# Bibliothèque rugby U8
+# Passes après départs dans cinq postures
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-## Passes après départs dans cinq postures
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Départs debout, un genou, deux genoux, allongé et assis.
 
-**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
 
-**Effectif :** 5–5 — par groupe actif
+**Matériel — historique non réexaminé :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support- Chain Reaction · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 20 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
+**Organisation — source :** Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis.
 
-**Déroulement :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
+**Déroulement — source :** Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.
 
-**Consignes :** Courir droit ; passes douces à deux mains.
+**Consignes — source :** Courir droit ; passes douces à deux mains.
 
-**Critères de réussite :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
+**Critères de réussite — source :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
 
-Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
+**Points d’attention — source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
-**Espace source :** 20 × 10 m
+**Périmètre de l’effectif :** par groupe actif
 
-## Répertoire des sources
+**Doublon probable — ne pas compter comme nouveauté :** [Créer la profondeur par des départs en postures décalées](imagine-depth-running.md). Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Variantes conservées séparément :** [Passes en triangle et changement de posture](rc-triangle.md). Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.
 
-## Préparation de séance
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support- Chain Reaction. Vérification documentaire : 2026-09-08.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en progression collective.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+- Objectif : wr-noncontact ; Pass and Support- Chain Reaction — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Pass and Support- Chain Reaction ; 2026-09-09
+- Critères de réussite : wr-noncontact ; Pass and Support- Chain Reaction — How to play / Coaching points ; 2026-09-16
+- Points d’attention : wr-noncontact ; Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés ; 2026-09-16
 
-Informations encore absentes : Erreurs fréquentes.
+6 révision(s) conservée(s) dans les données de l’application.
 
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

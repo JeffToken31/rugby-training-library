@@ -520,7 +520,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-chain-relay",
@@ -921,7 +923,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-colour-tag",
@@ -1308,7 +1312,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-colour-two",
@@ -1695,7 +1701,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-cone-game",
@@ -2082,7 +2090,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-familiarisation",
@@ -2392,7 +2402,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-fruit-salad",
@@ -2791,7 +2803,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-kick-chase",
@@ -3184,7 +3198,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-kick-golf",
@@ -3579,7 +3595,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-kick-tennis",
@@ -3976,7 +3994,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-nest-pass",
@@ -4385,7 +4405,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-octopus",
@@ -4695,7 +4717,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-over-under",
@@ -5090,7 +5114,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-partner-release",
@@ -5479,7 +5505,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-partner-tag",
@@ -5868,7 +5896,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-pass-duck",
@@ -6263,7 +6293,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-pop-race",
@@ -6644,7 +6676,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-tennis-return",
@@ -7043,7 +7077,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-ufos",
@@ -7430,7 +7466,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "au-wolf",
@@ -7831,7 +7869,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-appuis",
@@ -8130,7 +8170,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-auto",
@@ -8429,7 +8471,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-canard",
@@ -8752,7 +8796,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-carre-atelier",
@@ -9023,6 +9069,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-carre-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -9383,7 +9436,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-cpf",
@@ -9654,7 +9709,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-dos-postures",
@@ -9977,7 +10034,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-duellong-atelier",
@@ -10250,6 +10309,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-duellong-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -10523,6 +10589,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-duels-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -10801,7 +10874,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-gagne",
@@ -11102,7 +11177,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-gazelles-atelier",
@@ -11373,6 +11450,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-gazelles-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -11705,7 +11789,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-guide-recevoir-passer",
@@ -12031,7 +12117,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-initiative",
@@ -12304,7 +12392,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-interval",
@@ -12597,7 +12687,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-lutte-avancer",
@@ -12910,7 +13002,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-pantheres-atelier",
@@ -13183,6 +13277,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-pantheres-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -13480,7 +13581,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-plaquage-atelier",
@@ -13751,6 +13854,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-plaquage-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -14022,6 +14132,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-protege-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -14335,7 +14452,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-reception",
@@ -14660,7 +14779,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-relais-atelier",
@@ -14935,6 +15056,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "ffr-relais-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
       }
     },
     {
@@ -15256,7 +15384,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-saut-ballon",
@@ -15579,7 +15709,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-speedy-individuel",
@@ -15884,7 +16016,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-speedy-partage",
@@ -16195,7 +16329,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-transmettre",
@@ -16520,7 +16656,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "ffr-tresors2023",
@@ -16850,7 +16988,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "imagine-cold-hot",
@@ -17164,7 +17304,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "imagine-depth-running",
@@ -17493,7 +17635,36 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "imagine-depth-running",
+          "right_id": "rc-lateral-three",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "imagine-depth-running",
+          "right_id": "wr-chain-reaction",
+          "decision": "PROBABLE_DUPLICATE",
+          "reason": "Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "munster-crabe",
@@ -17809,7 +17980,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-end",
@@ -18110,7 +18283,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-flamant",
@@ -18436,7 +18611,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-gates",
@@ -18756,7 +18933,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-gorille",
@@ -19072,7 +19251,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-grenouille",
@@ -19386,7 +19567,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-hunters",
@@ -19699,7 +19882,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "munster-hunters",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "munster-mud",
@@ -20002,7 +20201,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "munster-rats",
@@ -20314,7 +20515,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-awareness",
@@ -20739,7 +20942,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-circle",
@@ -21192,7 +21397,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-corner",
@@ -21655,7 +21862,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "nz-corner",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "nz-evading-player",
@@ -22026,7 +22249,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-follow",
@@ -22466,7 +22691,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-ground-pass",
@@ -22547,8 +22774,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur recherche deux ou trois solutions de passe. Encourager les échanges verbaux et l’utilisation de toute l’aire de jeu.",
+          "provenance": {
+            "source_id": "nz-ground-pass-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-ground-pass-archive-review-20260916",
+            "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -22671,8 +22908,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le porteur recherche deux ou trois solutions de passe. Encourager les échanges verbaux et l’utilisation de toute l’aire de jeu.",
+          "provenance": {
+            "source_id": "nz-ground-pass-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-ground-pass-archive-review-20260916",
+            "capture_sha256": "e1805ded5fbee6f58c9473c156b1a9cc7c2c2896b680ecea0bb27c97f94fbcf0",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -22761,6 +23008,12 @@
           "supersedes": "nz-ground-pass-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-ground-pass-archive-review-20260916",
+          "supersedes": "nz-ground-pass-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -22785,7 +23038,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min"
         ],
         "core_origins": {
@@ -22851,7 +23103,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-handling-relay",
@@ -23283,7 +23537,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-memory",
@@ -23364,8 +23620,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-memory-archive-review-20260916",
+            "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -23460,8 +23726,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-memory-archive-review-20260916",
+            "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -23522,6 +23798,12 @@
           "supersedes": "nz-memory-detail-1",
           "checked_on": "2026-09-16",
           "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
+        },
+        {
+          "id": "nz-memory-archive-review-20260916",
+          "supersedes": "nz-memory-core-20260916",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -23546,7 +23828,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min"
         ],
         "core_origins": {
@@ -23612,7 +23893,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-multi-relay",
@@ -24032,7 +24315,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-no-ball",
@@ -24478,7 +24763,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-noodle-highfive",
@@ -24795,7 +25082,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-noodle-pass",
@@ -25114,7 +25403,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-number-duel",
@@ -25489,7 +25780,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-numbers-race",
@@ -25894,7 +26187,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-octopus-cross",
@@ -25975,8 +26270,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban.",
+          "provenance": {
+            "source_id": "nz-octopus-cross-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-octopus-cross-archive-review-20260916",
+            "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -26099,8 +26404,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Chercher les espaces libres et éviter les autres joueurs. La source demande de viser la zone des hanches pour le toucher ou la prise de ruban.",
+          "provenance": {
+            "source_id": "nz-octopus-cross-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-octopus-cross-archive-review-20260916",
+            "capture_sha256": "8acafd66299cf9d262d6429a8fed7600be4942b6bb36bb6c8ea8a59f8338a3ee",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -26189,6 +26504,12 @@
           "supersedes": "nz-octopus-cross-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-octopus-cross-archive-review-20260916",
+          "supersedes": "nz-octopus-cross-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -26203,7 +26524,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min",
           "players_min",
           "players_max"
@@ -26277,7 +26597,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-pick-place",
@@ -26374,8 +26696,18 @@
           }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-pick-place-archive-review-20260916",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -26524,8 +26856,18 @@
           }
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Poser le ballon fermement à deux mains, sans le lâcher ni le faire rouler. S’exercer à le poser à gauche et à droite.",
+          "provenance": {
+            "source_id": "nz-pick-place-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-pick-place-archive-review-20260916",
+            "capture_sha256": "28939bc9e9d3af25f96558dbcfd1aa9197fbfee756dbe4ce099a91acc106c900",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -26636,6 +26978,12 @@
           "supersedes": "nz-pick-place-coaching-20260908",
           "checked_on": "2026-09-08",
           "reason": "Vérification des paramètres historiques sur la description source ; absence de durée explicitée."
+        },
+        {
+          "id": "nz-pick-place-archive-review-20260916",
+          "supersedes": "nz-pick-place-parameters-20260908",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -26659,7 +27007,6 @@
         "missing_core": [],
         "missing_fields": [
           "success_criteria",
-          "coach_points",
           "duration_min"
         ],
         "core_origins": {
@@ -26723,7 +27070,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-rats-free",
@@ -26804,8 +27153,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS, archive locale",
+            "revision_id": "nz-rats-free-archive-review-20260916",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -26928,8 +27287,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS, archive locale",
+            "revision_id": "nz-rats-free-archive-review-20260916",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -27018,6 +27387,12 @@
           "supersedes": "nz-rats-free-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-rats-free-archive-review-20260916",
+          "supersedes": "nz-rats-free-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau des points coach communs aux deux situations de la ressource."
         }
       ],
       "observation": null,
@@ -27032,7 +27407,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min",
           "players_min",
           "players_max"
@@ -27112,7 +27486,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-rats-straight",
@@ -27193,8 +27569,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS, archive locale",
+            "revision_id": "nz-rats-straight-archive-review-20260916",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -27317,8 +27703,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Favoriser l’écoute du signal, la réaction rapide et l’accélération au départ.",
+          "provenance": {
+            "source_id": "nz-rats34-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS, archive locale",
+            "revision_id": "nz-rats-straight-archive-review-20260916",
+            "capture_sha256": "9048e729663892bc81c15c198bdf88e0586d09b54dba3d6a67d6b3d6344838c1",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -27407,6 +27803,12 @@
           "supersedes": "nz-rats-straight-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-rats-straight-archive-review-20260916",
+          "supersedes": "nz-rats-straight-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau des points coach communs aux deux situations de la ressource."
         }
       ],
       "observation": null,
@@ -27421,7 +27823,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min",
           "players_min",
           "players_max"
@@ -27501,7 +27902,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-rip",
@@ -27826,7 +28229,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-shadow",
@@ -27907,8 +28312,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-shadow-archive-review-20260916",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -28031,8 +28446,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-shadow-archive-review-20260916",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -28121,6 +28546,12 @@
           "supersedes": "nz-shadow-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-shadow-archive-review-20260916",
+          "supersedes": "nz-shadow-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -28145,7 +28576,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min",
           "players_min",
           "players_max"
@@ -28219,7 +28649,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-shadow-mirror",
@@ -28300,8 +28732,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-shadow-mirror-archive-review-20260916",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -28424,8 +28866,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Porter le ballon à deux mains ; garder la tête levée et regarder autour de soi pour éviter les autres joueurs.",
+          "provenance": {
+            "source_id": "nz-shadow-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-shadow-mirror-archive-review-20260916",
+            "capture_sha256": "65eb6f5f3f36a52a922be74465a1c6780300544b5813a0d5b22ba24d5f3070e7",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -28514,6 +28966,12 @@
           "supersedes": "nz-shadow-mirror-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-shadow-mirror-archive-review-20260916",
+          "supersedes": "nz-shadow-mirror-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -28538,7 +28996,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min",
           "players_min",
           "players_max"
@@ -28612,7 +29069,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-tap-pass",
@@ -28987,7 +29446,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-touchdown",
@@ -29425,7 +29886,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "nz-zigzag",
@@ -29506,8 +29969,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire.",
+          "provenance": {
+            "source_id": "nz-zigzag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-zigzag-archive-review-20260916",
+            "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -29630,8 +30103,18 @@
           "value": null
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler la passe des deux côtés, communiquer et transmettre avec précision à une vitesse adaptée au partenaire.",
+          "provenance": {
+            "source_id": "nz-zigzag-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "COACHING POINTS / Key Coaching Points, archive locale déjà collectée",
+            "revision_id": "nz-zigzag-archive-review-20260916",
+            "capture_sha256": "9e276560e4d47f8c96515dcc110e7f34fcd5f4e9186322992c9d5994d06ab4fc",
+            "capture_verified_locally": true
+          }
         },
         "duration_min": {
           "origin": "SOURCE",
@@ -29720,6 +30203,12 @@
           "supersedes": "nz-zigzag-detail-1",
           "checked_on": "2026-09-10",
           "reason": "Objectifs présents dans l’archive, non encore extraits dans le champ dédié."
+        },
+        {
+          "id": "nz-zigzag-archive-review-20260916",
+          "supersedes": "nz-zigzag-objectives-20260910",
+          "checked_on": "2026-09-16",
+          "reason": "Relecture hors réseau : points coach présents dans le texte local mais absents de la fiche."
         }
       ],
       "observation": null,
@@ -29734,7 +30223,6 @@
         "missing_fields": [
           "success_criteria",
           "common_errors",
-          "coach_points",
           "duration_min",
           "players_min",
           "players_max"
@@ -29810,7 +30298,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-aliens",
@@ -30148,7 +30638,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-aliens",
+          "right_id": "rc-capture-aliens",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-bounce",
@@ -30499,7 +31005,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-bulldog",
@@ -30861,7 +31369,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-calling-pairs",
@@ -31245,7 +31755,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-calling-pairs",
+          "right_id": "rc-pairs",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-capture-aliens",
@@ -31614,7 +32140,36 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-aliens",
+          "right_id": "rc-capture-aliens",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "rc-capture-aliens",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-chaos-touch",
@@ -31965,7 +32520,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-chaos-touch",
+          "right_id": "rc-netball",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-circle-jump",
@@ -32291,7 +32862,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-colour-touch",
@@ -32625,7 +33198,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-eggs",
@@ -32986,7 +33561,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-endball-groups",
@@ -33313,7 +33890,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-four-one",
@@ -33711,7 +34290,36 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-four-one",
+          "right_id": "rc-piggy",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "rc-four-one",
+          "right_id": "wr-keep-ball",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-lateral-three",
@@ -34085,7 +34693,36 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "imagine-depth-running",
+          "right_id": "rc-lateral-three",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "rc-lateral-three",
+          "right_id": "wr-passing-relays",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-multidirection",
@@ -34402,7 +35039,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-netball",
@@ -34742,7 +35381,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-chaos-touch",
+          "right_id": "rc-netball",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-numbers-tag",
@@ -35079,7 +35734,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-pairs",
@@ -35482,7 +36139,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-calling-pairs",
+          "right_id": "rc-pairs",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-pass-start",
@@ -35830,7 +36503,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-piggy",
@@ -36239,7 +36914,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-four-one",
+          "right_id": "rc-piggy",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-protect-circle",
@@ -36554,7 +37245,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-rounders",
@@ -36881,7 +37574,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-statues",
@@ -37242,7 +37937,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-taggrab",
@@ -37612,7 +38309,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-tagmania",
@@ -37939,7 +38638,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-tagmatch",
@@ -38277,7 +38978,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-team-scarecrow",
@@ -38610,7 +39313,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-team-scarecrow",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-ten",
@@ -39033,7 +39752,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "rc-triangle",
@@ -39399,7 +40120,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-triangle",
+          "right_id": "wr-chain-reaction",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "rc-two-balls",
@@ -39735,6 +40472,13 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": {
+        "variant_id": "rc-two-balls",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "Les sous-titres désignent les circuits par « ici/là » sans décrire les positions : organisation non récupérable dans ce texte."
       }
     },
     {
@@ -40149,7 +40893,23 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-two-one",
+          "right_id": "wr-tag-2v1",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "scot-alignement",
@@ -40457,7 +41217,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-animal",
@@ -40796,7 +41558,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-break-walls",
@@ -41179,7 +41943,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-chaine",
@@ -41485,7 +42251,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-chaos-tig",
@@ -41849,7 +42617,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-corner",
@@ -42236,7 +43006,62 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "nz-corner",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "rc-capture-aliens",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "rc-team-scarecrow",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "munster-hunters",
+          "right_id": "scot-corner",
+          "decision": "UNRESOLVED",
+          "reason": "Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "scot-cricket",
@@ -42610,7 +43435,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-crocodile",
@@ -42986,7 +43813,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-endzone",
@@ -43325,7 +44154,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-kangaroo",
@@ -43701,7 +44532,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-monkey",
@@ -44077,7 +44910,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-monster",
@@ -44451,7 +45286,9 @@
         "max_seconds": 420,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-pass-pal",
@@ -44827,7 +45664,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-passback",
@@ -45166,7 +46005,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-relais",
@@ -45504,7 +46345,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-roll-tig",
@@ -45880,7 +46723,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-tennis",
@@ -46192,7 +47037,9 @@
         "max_seconds": 450,
         "includes_briefing": true,
         "includes_group_transition": false
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "scot-zones",
@@ -46494,7 +47341,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "sg-team-tag",
@@ -46836,7 +47685,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-chain-reaction",
@@ -47287,7 +48138,36 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "imagine-depth-running",
+          "right_id": "wr-chain-reaction",
+          "decision": "PROBABLE_DUPLICATE",
+          "reason": "Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "rc-triangle",
+          "right_id": "wr-chain-reaction",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-changing-defender",
@@ -47696,7 +48576,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-find-space",
@@ -48038,7 +48920,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-five-walls",
@@ -48419,7 +49303,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-follow-choice",
@@ -48811,7 +49697,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-follow-leader",
@@ -49220,7 +50108,23 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "wr-follow-leader",
+          "right_id": "wr-pass-support",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-formation",
@@ -49629,7 +50533,23 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "wr-formation",
+          "right_id": "wr-pass-support",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-keep-ball",
@@ -50076,7 +50996,23 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-four-one",
+          "right_id": "wr-keep-ball",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-pairs-tag",
@@ -50487,7 +51423,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-pass-defend",
@@ -50804,7 +51742,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-pass-support",
@@ -51251,7 +52191,36 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "wr-follow-leader",
+          "right_id": "wr-pass-support",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        },
+        {
+          "left_id": "wr-formation",
+          "right_id": "wr-pass-support",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-passing-relays",
@@ -51662,7 +52631,23 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-lateral-three",
+          "right_id": "wr-passing-relays",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-scarecrow",
@@ -52014,7 +52999,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-tag-2v1",
@@ -52461,7 +53448,23 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [
+        {
+          "left_id": "rc-two-one",
+          "right_id": "wr-tag-2v1",
+          "decision": "KEEP_DISTINCT_VARIANTS",
+          "reason": "Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.",
+          "basis_fields": [
+            "organisation",
+            "steps",
+            "instructions"
+          ],
+          "origin": "AI_INFERRED",
+          "reviewed_on": "2026-09-16"
+        }
+      ],
+      "missing_review": null
     },
     {
       "id": "wr-tag-3v1",
@@ -52887,7 +53890,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-tag-3v2",
@@ -53282,7 +54287,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     },
     {
       "id": "wr-walls-212",
@@ -53691,7 +54698,9 @@
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
         "coach_confirmation_required": true,
         "profile_id": null
-      }
+      },
+      "duplicate_review": [],
+      "missing_review": null
     }
   ],
   "canonical_game_groups": [
@@ -53932,5 +54941,276 @@
       }
     ]
   },
-  "content_sha256": "c1d1bad897001d42d72cc47dba7226a77f4d6ff44477770ef0e4411e4026f9d3"
+  "consolidation_review": {
+    "scope": "Relecture des 16 rapprochements enregistrés et contrôle exhaustif des déroulements identiques. Ne certifie pas l’absence de doublons sémantiques dans tout le corpus.",
+    "pair_reviews": [
+      {
+        "left_id": "rc-four-one",
+        "right_id": "rc-piggy",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Même principe de conservation ; quatre passeurs contre trois dans la fiche historique. Rapprochement éditorial, pas validation coach.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "imagine-depth-running",
+        "right_id": "rc-lateral-three",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "imagine-depth-running",
+        "right_id": "wr-chain-reaction",
+        "decision": "PROBABLE_DUPLICATE",
+        "reason": "Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "nz-corner",
+        "right_id": "scot-corner",
+        "decision": "UNRESOLVED",
+        "reason": "Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-aliens",
+        "right_id": "rc-capture-aliens",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-calling-pairs",
+        "right_id": "rc-pairs",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-capture-aliens",
+        "right_id": "scot-corner",
+        "decision": "UNRESOLVED",
+        "reason": "Chasse collective par passes avec porteur immobile. Comparer le devenir du joueur touché et la fin de manche : conversion en chasseur explicitée seulement dans Capture the Aliens. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-chaos-touch",
+        "right_id": "rc-netball",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-four-one",
+        "right_id": "wr-keep-ball",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Même conservation à quatre contre un et cible de dix passes, mais World Rugby interdit les interceptions et autorise le toucher du porteur ; RugbyCoaching travaille l’interception. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-lateral-three",
+        "right_id": "wr-passing-relays",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-triangle",
+        "right_id": "wr-chain-reaction",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Les postures servent au départ décalé avant des passes en ligne chez World Rugby ; le triangle RugbyCoaching impose de changer de posture après la passe. Proposition IA, score heuristique ; sans fusion.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-two-one",
+        "right_id": "wr-tag-2v1",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Surnombre offensif commun. RugbyCoaching emploie un défenseur sans contact pour travailler la profondeur ; World Rugby prévoit prise de ruban, score et passes libres au début. Famille proposée par IA, sans fusion ; score heuristique.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "rc-team-scarecrow",
+        "right_id": "scot-corner",
+        "decision": "UNRESOLVED",
+        "reason": "Chasseurs passeurs, porteur immobile ; effectif et suite des captures à comparer avant fusion.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "munster-hunters",
+        "right_id": "scot-corner",
+        "decision": "UNRESOLVED",
+        "reason": "Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "wr-follow-leader",
+        "right_id": "wr-pass-support",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      },
+      {
+        "left_id": "wr-formation",
+        "right_id": "wr-pass-support",
+        "decision": "KEEP_DISTINCT_VARIANTS",
+        "reason": "Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.",
+        "basis_fields": [
+          "organisation",
+          "steps",
+          "instructions"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16"
+      }
+    ],
+    "missing_review": [
+      {
+        "variant_id": "ffr-carre-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-duellong-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-duels-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-gazelles-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-pantheres-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-plaquage-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-protege-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "ffr-relais-atelier",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
+      },
+      {
+        "variant_id": "rc-two-balls",
+        "checked_on": "2026-09-16",
+        "basis": "Archive texte locale de la source principale, section propre à la situation",
+        "conclusion": "Les sous-titres désignent les circuits par « ici/là » sans décrire les positions : organisation non récupérable dans ce texte."
+      }
+    ],
+    "exact_steps_pairs": [],
+    "pairs_checked": 11175
+  },
+  "content_sha256": "bdbab515341f0c2d113269345273b60bc72131e82684208a1da29182e09bcd85"
 }

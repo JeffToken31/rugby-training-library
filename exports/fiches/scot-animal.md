@@ -1,67 +1,60 @@
-# Bibliothèque rugby U8
+# Chat et déplacements animaux
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Motricité · Poursuite et délivrance
 
-## Chat et déplacements animaux
-
-**motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Reprendre le jeu après un déplacement animal.
 
-**Matériel :** Plots et chasubles
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 17 (pagination fichier) · consultée le 2026-09-07
+**Objectif — source :** Reprendre le jeu après un déplacement animal.
 
-**Accès :** PDF public consulté
+**Matériel — source :** Plots et chasubles
 
-**Objectifs :** Reprendre le jeu après un déplacement animal.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK et texte de la carte.
+**Organisation — source :** Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.
 
-## Répertoire des sources
+**Déroulement — source :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Consignes — source :** Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Évitement · Motricité · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 17 (pagination fichier). Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Matériel : scot-primary ; PDF page 17, fiche complète ; 2026-09-08
+- Consignes : scot-primary ; PDF page 17, pagination du fichier — TASK et texte de la carte ; 2026-09-16
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

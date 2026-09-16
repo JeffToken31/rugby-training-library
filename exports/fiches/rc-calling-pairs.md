@@ -1,77 +1,63 @@
-# Bibliothèque rugby U8
+# Passer sur appel dans un espace partagé
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
-## Passer sur appel dans un espace partagé
-
-**passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
+**Famille :** Passes en binôme et soutien · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Choisir quand passer malgré les déplacements des autres binômes.
 
-**Matériel :** Ballons
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — Description et Video Subtitles de la fiche ; recommandations exclues · consultée le 2026-09-07
+**Objectif — source :** Choisir quand passer malgré les déplacements des autres binômes.
 
-**Accès :** Page publique découverte ; capture et contenu à vérifier
+**Matériel — source :** Ballons
 
-**Objectifs :** Choisir quand passer malgré les déplacements des autres binômes.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.
+**Durée de l’atelier — information manquante :** non extrait
 
-**Critères de réussite :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
+**Organisation — source :** Plusieurs binômes se déplacent dans une même aire, avec un ballon par paire.
 
-Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
+**Déroulement — source :** Marcher, trottiner ou courir en échangeant ; compter les passes réussies puis changer le compteur.
 
-## Répertoire des sources
+**Consignes — source :** Passer seulement après l’appel du partenaire et lorsque ses mains présentent une cible ; s’immobiliser au signal.
 
-- [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — Page publique découverte ; capture et contenu à vérifier.
+**Critères de réussite — source :** Compter les passes réussies pendant la manche ; comparer son résultat au passage suivant.
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en binôme et soutien.
+**Points d’attention — information manquante :** non extrait
 
-**Tags proposés :** Passe · Réception · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Repères coach proposés par IA :** Le receveur appelle et contrôle le ballon pendant le déplacement. Regarder si l’appel précède la passe et si les binômes évitent de se gêner.
 
-Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Variantes conservées séparément :** [Passer avec un soutien en retrait](rc-pairs.md). Deux situations de passe en binômes. L’une travaille l’appel dans un espace partagé ; l’autre le soutien derrière un obstacle. Ne pas assimiler leurs consignes. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-**Indicateur observable :** Le receveur appelle et contrôle le ballon pendant le déplacement.
+**Source principale :** [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
-**À regarder :** Regarder si l’appel précède la passe et si les binômes évitent de se gêner.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Matériel : rc-calling-pairs-source ; Description et Video Subtitles de la fiche ; recommandations exclues ; 2026-09-08
 
-### Durée pour planifier l’atelier
+2 révision(s) conservée(s) dans les données de l’application.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

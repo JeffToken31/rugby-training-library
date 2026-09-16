@@ -1,60 +1,50 @@
-# Bibliothèque rugby U8
+# Cinq attaquants face à cinq rideaux successifs
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Opposition collective
 
-## Cinq attaquants face à cinq rideaux successifs
-
-**évitement et opposition · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.**
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé
 
 Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
 
-**Matériel :** Ballons et plots
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 10 min
+**Objectif — source :** Avancer, soutenir, maintenir la continuité et exercer une pression défensive.
 
-**Effectif :** 15–15 — par couloir : dix attaquants en deux groupes et cinq défenseurs
+**Matériel — source :** Ballons et plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 15
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Passing - 5 v 1 x 5 — organisation et déroulement · consultée le 2026-09-08
+**Effectif maximum — source :** 15
 
-**Accès :** Texte public consulté
+**Espace — source :** 30 × 20 m
 
-**Objectifs :** Avancer, soutenir, maintenir la continuité et exercer une pression défensive.
+**Durée de l’atelier — source :** 10
 
-**Organisation :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
+**Organisation — source :** Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq mètres.
 
-**Déroulement :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
+**Déroulement — source :** Traverser les rideaux en passant pour marquer ; changer les défenseurs après le passage des deux groupes.
 
-**Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
+**Consignes — source :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-16 — Passing - 5 v 1 x 5 — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur. Réglages proposés par la source : Autoriser les défenseurs à avancer et reculer complique ; les espacer de dix mètres facilite.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 30 × 20 m
+**Points d’attention — source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur. Réglages proposés par la source : Autoriser les défenseurs à avancer et reculer complique ; les espacer de dix mètres facilite.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par couloir : dix attaquants en deux groupes et cinq défenseurs
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 1 x 5 — organisation et déroulement. Vérification documentaire : 2026-09-08.
 
-## Préparation de séance
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Surnombre et soutien face à un opposant.
+- Objectif : wr-noncontact ; Passing - 5 v 1 x 5 — Objective / Principles of play ; 2026-09-10
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : wr-noncontact ; Passing - 5 v 1 x 5 — organisation et déroulement ; 2026-09-09
+- Points d’attention : wr-noncontact ; Passing - 5 v 1 x 5 — Difficulty ; Coaching points conservés ; 2026-09-16
 
-**Tags proposés :** Évitement · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+4 révision(s) conservée(s) dans les données de l’application.
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
-
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

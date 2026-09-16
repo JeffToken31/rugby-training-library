@@ -1,67 +1,60 @@
-# Bibliothèque rugby U8
+# Jeu de zone avec regroupements au signal
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Réaction au signal · Prise d’information · Opposition collective
 
-## Jeu de zone avec regroupements au signal
-
-**prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
+**Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
 Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.
 
-**Matériel :** Ballon
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Video Subtitles — progression avec nombres · consultée le 2026-09-07
+**Objectif — source :** Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.
 
-**Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
+**Matériel — historique non réexaminé :** Ballon
 
-**Objectifs :** Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Deux équipes jouant vers une zone de marque.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
+**Espace — information manquante :** non extrait
 
-**Consignes :** Passes dans toutes les directions ; transmettre rapidement après toucher.
+**Durée de l’atelier — information manquante :** non extrait
 
-Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
+**Organisation — source :** Deux équipes jouant vers une zone de marque.
 
-## Répertoire des sources
+**Déroulement — source :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
 
-- [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+**Consignes — source :** Passes dans toutes les directions ; transmettre rapidement après toucher.
 
-## Préparation de séance
+**Critères de réussite — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeux à zones de marque.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Tags proposés :** Passe · Réaction au signal · Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Points d’attention — information manquante :** non extrait
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — RugbyCoaching.tv ; Video Subtitles — progression avec nombres. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : rc-endball-groups-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
+- Organisation, Déroulement, Consignes : rc-endball-groups-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,68 +1,59 @@
-# Bibliothèque rugby U8
+# Rubans avec restitution avant reprise
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Coopération · Poursuite et délivrance
 
-## Rubans avec restitution avant reprise
-
-**évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Under 7 (classement du site)
 
 Joueurs répartis dans le carré.
 
-**Matériel :** Ceintures et rubans
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — DRILL EXPLANATION · consultée le 2026-09-09
+**Objectif — source :** Prendre les rubans des adversaires et les éviter.
 
-**Accès :** Description publique consultée
+**Matériel — historique non réexaminé :** Ceintures et rubans
 
-**Objectifs :** Prendre les rubans des adversaires et les éviter.
+**Effectif minimum — information manquante :** non extrait
 
-**Organisation :** Joueurs répartis dans le carré.
+**Effectif maximum — information manquante :** non extrait
 
-**Déroulement :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
+**Espace — historique non réexaminé :** 10 × 10 m
 
-**Consignes :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Joueurs répartis dans le carré.
 
-**Espace source :** 10 × 10 m
+**Déroulement — source :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
 
-## Répertoire des sources
+**Consignes — source :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
 
-- [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+**Points d’attention — information manquante :** non extrait
 
-**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif : nz-rip-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-rip-source ; DRILL EXPLANATION ; 2026-09-09
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+2 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

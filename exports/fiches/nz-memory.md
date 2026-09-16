@@ -1,74 +1,60 @@
-# Bibliothèque rugby U8
+# Circuit de passes mémorisé
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
 
-## Circuit de passes mémorisé
-
-**mémoire et manipulation · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
+**Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
 Joueurs assis en cercle.
 
-**Matériel :** Ballons ; un au départ
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 5–15
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/memory) — DRILL EXPLANATION · consultée le 2026-09-09
+**Objectif — source :** Travailler la manipulation du ballon en mémorisant son destinataire.
 
-**Accès :** Description publique consultée
+**Matériel — historique non réexaminé :** Ballons ; un au départ
 
-**Objectifs :** Travailler la manipulation du ballon en mémorisant son destinataire.
+**Effectif minimum — historique non réexaminé :** 5
 
-**Organisation :** Joueurs assis en cercle.
+**Effectif maximum — historique non réexaminé :** 15
 
-**Déroulement :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
+**Espace — historique non réexaminé :** Cercle, joueurs espacés d’un mètre
 
-**Consignes :** Communiquer et éviter les collisions.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Joueurs assis en cercle.
 
-**Espace source :** Cercle, joueurs espacés d’un mètre
+**Déroulement — source :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
 
-## Répertoire des sources
+**Consignes — source :** Communiquer et éviter les collisions.
 
-- [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — Description publique consultée.
+**Critères de réussite — information manquante :** non extrait
 
-## Préparation de séance
+**Erreurs fréquentes — information manquante :** non extrait
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Circulation du ballon et coordination collective.
+**Points d’attention — source :** Présenter les mains pour recevoir, communiquer et éviter les collisions pendant les déplacements.
 
-**Tags proposés :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Repères coach proposés par IA :** Chaque enfant retrouve le destinataire prévu dans le circuit mémorisé. Distinguer une erreur de mémorisation d’une difficulté de transmission.
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Repères pédagogiques proposés — à adapter par l’éducateur
+**Source principale :** [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
-**Indicateur observable :** Chaque enfant retrouve le destinataire prévu dans le circuit mémorisé.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**À regarder :** Distinguer une erreur de mémorisation d’une difficulté de transmission.
+- Objectif : nz-memory-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier : nz-memory-source ; DRILL EXPLANATION ; 2026-09-09
+- Points d’attention : nz-memory-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
 
-Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+3 révision(s) conservée(s) dans les données de l’application.
 
-### Durée pour planifier l’atelier
-
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
-
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

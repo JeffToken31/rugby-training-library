@@ -1,67 +1,65 @@
-# Bibliothèque rugby U8
+# Les extraterrestres
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Course · Poursuite et délivrance
 
-## Les extraterrestres
-
-**déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** U7 (classement du site)
 
 Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejoint les chasseurs ; la poursuite continue jusqu’au dernier joueur.
 
-**Matériel :** Plusieurs ballons
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Éviter les chasseurs et changer de rôle.
+
+**Matériel — historique non réexaminé :** Plusieurs ballons
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Aire délimitée, chasseurs avec ballon, ballons accessibles autour.
+
+**Déroulement — source :** Le joueur touché prend un ballon et rejoint les chasseurs.
+
+**Consignes — source :** Rester dans les limites et chercher un passage libre.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Commencer en marchant avec un chasseur. Prévoir des manches courtes et toucher sans projeter le ballon.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description / Video Subtitles · consultée le 2026-09-06
-
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Éviter les chasseurs et changer de rôle.
-
-**Organisation :** Aire délimitée, chasseurs avec ballon, ballons accessibles autour.
-
-**Déroulement :** Le joueur touché prend un ballon et rejoint les chasseurs.
-
-**Consignes :** Rester dans les limites et chercher un passage libre.
-
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
-
-## Répertoire des sources
-
-- [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
-
-**Tags proposés :** Évitement · Course · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Variantes conservées séparément :** [Capturer les extraterrestres par la passe](rc-capture-aliens.md). Même thème de chasse. Le porteur se déplace dans la première fiche ; il reste immobile et coopère par passes dans la seconde. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+**Comparaison éditoriale complémentaire :** [rc-bulldog](rc-bulldog.md) — Les touchés deviennent chasseurs dans les deux cas ; chasse libre au ballon contre traversées successives sans ballon.
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+**Source principale :** [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+- Objectif, Organisation, Déroulement, Consignes : rc-aliens ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>

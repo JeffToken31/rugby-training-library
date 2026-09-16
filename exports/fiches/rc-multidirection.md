@@ -1,67 +1,61 @@
-# Bibliothèque rugby U8
+# Changer de ligne d’essai
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Réaction au signal · Prise d’information · Opposition collective
 
-## Changer de ligne d’essai
-
-**prise d’information · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
+**Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site)
 
 Le coach annonce une couleur qui change la ligne visée par l’équipe en possession. Les équipes se réorganisent. La vidéo ajoute une pause de quatre secondes au défenseur après toucher.
 
-**Matériel :** Ballon et repères colorés
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Réagir à un changement de cible.
+
+**Matériel — historique non réexaminé :** Ballon et repères colorés
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non extrait
+
+**Organisation — source :** Équipes en opposition, lignes repérées par couleur.
+
+**Déroulement — source :** La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.
+
+**Consignes — source :** Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
 
 **Adaptation U8 proposée :** Commencer avec deux directions et une annonce entre les actions. Introduire le changement pendant le jeu seulement après compréhension.
 
-[Source : RugbyCoaching.tv](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — Description / Video Subtitles · consultée le 2026-09-06
-
-**Accès :** Description et sous-titres publics consultés ; vidéo non vérifiée
-
-**Objectifs :** Réagir à un changement de cible.
-
-**Organisation :** Équipes en opposition, lignes repérées par couleur.
-
-**Déroulement :** La couleur annoncée devient la ligne à attaquer pour l’équipe porteuse.
-
-**Consignes :** Règle source : passe sous une seconde après toucher ; défenseur à genou quatre secondes.
-
-Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
-
-## Répertoire des sources
-
-- [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
-
-## Préparation de séance
-
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Jeux à zones de marque.
-
-**Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Consignes : rc-multidirection ; Description et Video Subtitles ; hors recommandations de vidéos voisines ; 2026-09-07
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

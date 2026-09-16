@@ -1,55 +1,46 @@
-# Bibliothèque rugby U8
+# Chat chaos : délivré quand son chasseur est pris
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Poursuite et délivrance
 
-## Chat chaos : délivré quand son chasseur est pris
-
-**évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
 Tous les joueurs sont chasseurs.
 
-**Matériel :** Non renseigné
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** Non renseigné
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : Scottish Rugby](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF page 15 — Chaos Tig · consultée le 2026-09-07
+**Objectif — proposition IA :** Observer les autres joueurs et réagir aux changements de statut dans une poursuite.
 
-**Accès :** PDF public consulté
+**Matériel — information manquante :** non extrait
 
-**Organisation :** Tous les joueurs sont chasseurs.
+**Effectif minimum — information manquante :** non indiqué dans le passage examiné
 
-**Déroulement :** Chercher à rester le dernier en mouvement ; un joueur touché se fige à genoux.
+**Effectif maximum — information manquante :** non indiqué dans le passage examiné
 
-**Consignes :** Revenir dans le jeu lorsque la personne qui vous a touché est elle-même touchée.
+**Espace — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-09 — PDF page 15 — Chaos Tig.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-## Répertoire des sources
+**Organisation — source :** Tous les joueurs sont chasseurs.
 
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+**Déroulement — source :** Chercher à rester le dernier en mouvement ; un joueur touché se fige à genoux.
 
-## Préparation de séance
+**Consignes — source :** Revenir dans le jeu lorsque la personne qui vous a touché est elle-même touchée.
 
-État : Objectif proposé à confirmer. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+**Critères de réussite — information manquante :** non extrait
 
-**Tags proposés :** Évitement · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Objectif — proposition IA**
+**Points d’attention — information manquante :** non extrait
 
-Observer les autres joueurs et réagir aux changements de statut dans une poursuite.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
@@ -57,14 +48,14 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Chaos Tig. Vérification documentaire : 2026-09-07.
 
-Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif :  ;  ; 2026-09-16
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : scot-primary ; PDF page 15 — Chaos Tig ; 2026-09-09
 
-**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+1 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

@@ -1,68 +1,58 @@
-# Bibliothèque rugby U8
+# Relais avec cinq manipulations successives
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Manipulation du ballon · Jeu au pied · Motricité · Ramassage du ballon · Relais · Parcours
 
-## Relais avec cinq manipulations successives
-
-**motricité et manipulation · âge source : Under 7 (classement du site) · Description source ; progression et passage au sol à adapter au niveau des enfants.**
+**Famille :** Parcours et relais avec ballon · **Âge source :** Under 7 (classement du site)
 
 Trois files réalisent un relais avec une action différente à chaque tour.
 
-**Matériel :** Un ballon par groupe ; repères de parcours
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
-**Durée atelier :** Non renseignée
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
 
-**Effectif :** 6–15
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-[Source : New Zealand Rugby — Rugby Toolbox](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — DRILL SET-UP et DRILL EXPLANATION · consultée le 2026-09-09
+**Objectif — source :** Pratiquer plusieurs habiletés avec le ballon.
 
-**Accès :** Description publique consultée
+**Matériel — source :** Un ballon par groupe ; repères de parcours
 
-**Objectifs :** Pratiquer plusieurs habiletés avec le ballon.
+**Effectif minimum — source :** 6
 
-**Organisation :** Trois files face à un repère situé à quinze mètres.
+**Effectif maximum — source :** 15
 
-**Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
+**Espace — source :** 20 × 20 m ; repère à 15 m
 
-**Consignes :** Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
 
-Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
+**Organisation — source :** Trois files face à un repère situé à quinze mètres.
 
-**Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
+**Déroulement — source :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
 
-**Espace source :** 20 × 20 m ; repère à 15 m
+**Consignes — source :** Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.
 
-## Répertoire des sources
+**Critères de réussite — information manquante :** non extrait
 
-- [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — Description publique consultée.
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Préparation de séance
+**Points d’attention — source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Parcours et relais avec ballon.
-
-**Tags proposés :** Manipulation du ballon · Jeu au pied · Motricité · Ramassage du ballon · Relais · Parcours
-Classement éditorial ; plusieurs catégories possibles sans duplication.
-
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier.
-
-### Réglages à préparer pour ma séance
+**À décider pour la séance :**
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
-### Durée pour planifier l’atelier
+**Source principale :** [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
-Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-- Explication et démonstration : 60 s.
-- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
-- Retour final : 60 s.
+- Objectif, Organisation, Déroulement, Points d’attention : nz-multi-relay-source ; Description et coaching points ; 2026-09-09
+- Consignes : nz-multi-relay-source ; Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée ; 2026-09-16
+- Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : nz-multi-relay-source ; EQUIPMENT, GROUP SIZE, AREA et description ; 2026-09-09
 
-**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+3 révision(s) conservée(s) dans les données de l’application.
 
-Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.
+</details>

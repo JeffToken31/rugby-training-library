@@ -1,58 +1,48 @@
-# Bibliothèque rugby U8
+# Vider le terrain au tag contre la montre
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Évitement · Réaction au signal · Poursuite et délivrance
 
-## Vider le terrain au tag contre la montre
-
-**évitement et réaction · âge source : Primaire, Key Stages 1 et 2 · Texte source reformulé ; validation coach non effectuée. Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs. Trois minutes maximum : fin anticipée si tous les porteurs sont pris.**
+**Famille :** Chasse, immobilisation et délivrance · **Âge source :** Primaire, Key Stages 1 et 2
 
 Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
 
-**Matériel :** Douze ballons, douze ceintures, quatre chasubles, plots
+**Durée pour préparer l’atelier :** 3 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 3 min
+**Objectif — source :** Vider le terrain aussi rapidement que possible.
 
-**Effectif :** 16–16 — un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois
+**Matériel — source :** Douze ballons, douze ceintures, quatre chasubles, plots
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 16
 
-[Source : School Games](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Rugby union - team tag — Getting started · consultée le 2026-09-10
+**Effectif maximum — source :** 16
 
-**Accès :** Description publique consultée ; capture locale évaluée séparément
+**Espace — source :** Environ 15 × 20 m
 
-**Objectifs :** Vider le terrain aussi rapidement que possible.
+**Durée de l’atelier — source :** 3
 
-**Organisation :** Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
+**Organisation — source :** Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jointes au départ. Prévoir une zone d’activité annexe.
 
-**Déroulement :** Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.
+**Déroulement — source :** Au départ, les défenseurs se séparent et chassent. Les porteurs capturés vont pratiquer course et évitement dans l’annexe. La prochaine équipe tente de faire mieux.
 
-**Consignes :** Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.
+**Consignes — source :** Rendre le ruban avant de repartir ; ne pas cacher les rubans, pousser ou repousser le défenseur. Arrêter après trois minutes ou quand tous sont pris.
 
-Détails extraits le 2026-09-10 — Rugby union - team tag — Getting started.
+**Critères de réussite — information manquante :** non extrait
 
-**Espace source :** Environ 15 × 20 m
+**Erreurs fréquentes — information manquante :** non extrait
 
-## Répertoire des sources
+**Points d’attention — information manquante :** non extrait
 
-- [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Description publique consultée ; capture locale évaluée séparément.
+**Périmètre de l’effectif :** un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois
 
-## Préparation de séance
+**Source principale :** [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — School Games ; Rugby union - team tag — Getting started. Vérification documentaire : 2026-09-10.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Chasse, immobilisation et délivrance.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : sg-team-tag-source ; Rugby union - team tag — Getting started ; 2026-09-10
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention.
+1 révision(s) conservée(s) dans les données de l’application.
 
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-3 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>

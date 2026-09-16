@@ -1,60 +1,52 @@
-# Bibliothèque rugby U8
+# Passes en escalier par cinq
 
-1 fiches · 1 sources
+[Retour au catalogue complet](../CATALOGUE.md)
 
-Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
-Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
+**Catégories proposées :** Passe · Soutien · Circulation et transmission
 
-## Passes en escalier par cinq
-
-**passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
+**Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
 Cinq joueurs en file.
 
-**Matériel :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
+**Durée pour préparer l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
-**Durée atelier :** 6 min
+**Objectif — source :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
 
-**Effectif :** 5–5 — par groupe actif
+**Matériel — historique non réexaminé :** Ballon par groupe pour la chaîne et la formation ; un par couloir pour les relais. Plots.
 
-**Adaptation U8 proposée :** Aucune rédigée.
+**Effectif minimum — source :** 5
 
-[Source : World Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Pass and Support- Formation · consultée le 2026-09-08
+**Effectif maximum — source :** 5
 
-**Accès :** Texte public consulté
+**Espace — source :** 10 × 10 m
 
-**Objectifs :** Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.
+**Durée de l’atelier — source :** 6
 
-**Organisation :** Cinq joueurs en file.
+**Organisation — source :** Cinq joueurs en file.
 
-**Déroulement :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
+**Déroulement — source :** Chacun avance deux mètres puis passe à droite au suivant. Refaire à gauche.
 
-**Consignes :** Courir droit et passer doucement à deux mains.
+**Consignes — source :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-16 — Pass and Support- Formation — Difficulty ; Coaching points conservés.
+**Critères de réussite — information manquante :** non extrait
 
-**Points coach issus de la source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
+**Erreurs fréquentes — information manquante :** non extrait
 
-**Espace source :** 10 × 10 m
+**Points d’attention — source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
-## Répertoire des sources
+**Périmètre de l’effectif :** par groupe actif
 
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+**Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](wr-pass-support.md). Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
 
-## Préparation de séance
+**Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support- Formation. Vérification documentaire : 2026-09-08.
 
-État : Noyau documentaire présent. Aucune validation coach implicite.
-Famille proposée : Passes en progression collective.
+<details>
+<summary>Provenance par rubrique et historique</summary>
 
-**Tags proposés :** Passe · Soutien · Circulation et transmission
-Classement éditorial ; plusieurs catégories possibles sans duplication.
+- Objectif : wr-noncontact ; Pass and Support- Formation — Principles of play ; 2026-09-13
+- Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace : wr-noncontact ; Pass and Support- Formation ; 2026-09-09
+- Points d’attention : wr-noncontact ; Pass and Support- Formation — Difficulty ; Coaching points conservés ; 2026-09-16
 
-Informations encore absentes : Critères de réussite, Erreurs fréquentes.
+4 révision(s) conservée(s) dans les données de l’application.
 
-### Réglages à préparer pour ma séance
-
-Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
-
-### Durée pour planifier l’atelier
-
-6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+</details>
