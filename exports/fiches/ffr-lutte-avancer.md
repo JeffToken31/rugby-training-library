@@ -23,13 +23,15 @@ Deux enfants debout dans une zone.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Avancer face à un adversaire debout.
+
 **Organisation :** Deux enfants debout dans une zone.
 
 **Déroulement :** Mains sur les épaules adverses, chercher à avancer au signal.
 
 **Consignes :** Rester dans la zone du duel.
 
-Détails extraits le 2026-09-09 — PDF page 9 — Atelier 4.
+Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Répertoire des sources
 

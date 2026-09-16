@@ -23,6 +23,16 @@ Parcourir cinq mètres à quatre pattes, dos horizontal.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Avancer en maintenant le dos horizontal.
+
+**Organisation :** Trajet de cinq mètres.
+
+**Déroulement :** Marcher à quatre pattes.
+
+**Consignes :** Conserver le dos plat.
+
+Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
+
 ## Répertoire des sources
 
 - [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.

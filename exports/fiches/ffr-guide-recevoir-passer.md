@@ -23,13 +23,17 @@ Recevoir à différentes hauteurs et passer
 
 **Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
 
+**Objectifs :** Recevoir, ramasser et transmettre à un partenaire.
+
 **Organisation :** Un passeur, un joueur actif et deux réceptionneurs.
 
 **Déroulement :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
 
+**Consignes :** Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot.
+
 **Critères de réussite :** Passer en mouvement vers le partenaire.
 
-Détails extraits le 2026-09-08 — PDF page 24, organisation, consignes et critères.
+Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagination fichier.
 
 **Espace source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
 

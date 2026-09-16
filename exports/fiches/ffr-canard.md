@@ -23,13 +23,15 @@ Enfant dans un couloir.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Traverser accroupi, ballon tenu sans appui supplémentaire.
+
 **Organisation :** Enfant dans un couloir.
 
 **Déroulement :** Traverser en canard avec le ballon à deux mains.
 
 **Consignes :** Ne poser ni main, ni genou, ni ballon au sol.
 
-Détails extraits le 2026-09-09 — PDF page 8 — Atelier 1.
+Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
 
 ## Répertoire des sources
 

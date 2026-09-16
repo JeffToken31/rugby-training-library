@@ -23,6 +23,16 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Avancer pour marquer rapidement.
+
+**Organisation :** Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres.
+
+**Déroulement :** Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur.
+
+**Consignes :** Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte.
+
+Détails extraits le 2026-09-16 — PDF page 66.
+
 **Espace source :** 15 × 15 m ; camps 3 × 3 m
 
 **Manche source :** 8 secondes ; durée totale inconnue.

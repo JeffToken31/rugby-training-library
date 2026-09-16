@@ -23,13 +23,15 @@ Enfant à quatre pattes.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Alterner dos plat, creux et rond.
+
 **Organisation :** Enfant à quatre pattes.
 
 **Déroulement :** Alterner dos plat, creux puis rond.
 
 **Consignes :** Réaliser successivement les trois postures.
 
-Détails extraits le 2026-09-09 — PDF page 8 — Atelier 2.
+Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
 
 ## Répertoire des sources
 

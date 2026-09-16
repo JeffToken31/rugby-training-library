@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-131 fiches.
+140 fiches.
 
 - [Aller au sol puis transmettre au soutien](fiches/au-pop-race.md) — passe et coopération ; Rugby Australia
 - [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
@@ -28,16 +28,20 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Chat chaos : délivré quand son chasseur est pris](fiches/scot-chaos-tig.md) — évitement et opposition ; Scottish Rugby
 - [Chat et déplacements animaux](fiches/scot-animal.md) — motricité ; Scottish Rugby
 - [Chat et souris autour d’une forme](fiches/au-cat-mouse.md) — évitement et réaction ; Rugby Australia
+- [Chercher les espaces libres](fiches/ffr-espaces2023.md) — prise d’information ; FFR — Direction Technique Nationale
 - [Cinq attaquants face à cinq rideaux successifs](fiches/wr-five-walls.md) — évitement et opposition ; World Rugby
 - [Circuit de passes mémorisé](fiches/nz-memory.md) — mémoire et manipulation ; New Zealand Rugby — Rugby Toolbox
+- [Conduire le ballon au pied](fiches/ffr-pied.md) — jeu au pied ; FFR
 - [Conserver après avoir touché le sol](fiches/nz-ground-pass.md) — passe et coopération ; New Zealand Rugby — Rugby Toolbox
 - [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) — passe et soutien ; World Rugby
 - [Couleur appelée : deux chasseurs contre un](fiches/au-colour-two.md) — évitement et réaction ; Rugby Australia
 - [Couleur appelée : un chasseur contre deux](fiches/au-colour-tag.md) — évitement et réaction ; Rugby Australia
+- [Coup franc pour soi](fiches/ffr-cpf.md) — jeu au pied ; FFR / DTN
 - [Course autour des bases contre trois passes](fiches/rc-rounders.md) — coopération ; RugbyCoaching.tv
 - [Course dans le tunnel des fruits](fiches/au-fruit-salad.md) — évitement et réaction ; Rugby Australia
 - [Course numérotée avec deux ballons](fiches/nz-numbers-race.md) — course ; New Zealand Rugby — Rugby Toolbox
 - [Créer la profondeur par des départs en postures décalées](fiches/imagine-depth-running.md) — passe et soutien ; Imagine Rugby / Youth Rugby Initiative
+- [Déplacement à quatre appuis](fiches/ffr-appuis.md) — motricité ; FFR
 - [Déplacement du crabe](fiches/munster-crabe.md) — motricité ; Munster Rugby
 - [Déplacement du gorille](fiches/munster-gorille.md) — motricité ; Munster Rugby
 - [Deux contre un avec passes libres au départ](fiches/wr-tag-2v1.md) — opposition et soutien ; World Rugby
@@ -59,6 +63,8 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [La boue et la délivrance](fiches/munster-mud.md) — coopération ; Munster Rugby
 - [La chaîne](fiches/scot-chaine.md) — coopération ; Scottish Rugby
 - [La chasse aux rubans](fiches/rc-taggrab.md) — déplacement ; RugbyCoaching.tv
+- [La pieuvre et les algues](fiches/au-octopus.md) — déplacement ; Rugby Australia
+- [Le ballon répond au signal](fiches/au-familiarisation.md) — manipulation ; Rugby Australia
 - [Le joueur au milieu](fiches/rc-piggy.md) — passe ; RugbyCoaching.tv
 - [Les extraterrestres](fiches/rc-aliens.md) — déplacement ; RugbyCoaching.tv
 - [Les portes à franchir](fiches/munster-gates.md) — prise d’information ; Munster Rugby
@@ -95,6 +101,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Quatre cibles, porteur immobile](fiches/rc-chaos-touch.md) — prise d’information ; RugbyCoaching.tv
 - [Quatre passeurs contre un intercepteur](fiches/rc-four-one.md) — passe ; RugbyCoaching.tv
 - [Quelle heure est-il, monsieur le loup ?](fiches/au-wolf.md) — évitement et réaction ; Rugby Australia
+- [Ramasser puis transmettre](fiches/ffr-ramasser.md) — passe ; FFR
 - [Ramasser, porter et reposer](fiches/nz-pick-place.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Ramper comme un crocodile](fiches/scot-crocodile.md) — motricité ; Scottish Rugby
 - [Rapporter les trésors par une passe](fiches/au-nest-pass.md) — passe et coopération ; Rugby Australia
@@ -104,6 +111,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Réagir au mot plot](fiches/au-cone-game.md) — évitement et réaction ; Rugby Australia
 - [Rebondir et échanger en binôme](fiches/rc-bounce.md) — manipulation ; RugbyCoaching.tv
 - [Recevoir à différentes hauteurs et passer](fiches/ffr-guide-recevoir-passer.md) — passe ; Fédération Française de Rugby
+- [Recevoir en trottinant](fiches/ffr-reception.md) — passe ; FFR
 - [Relais avec changements de portage](fiches/nz-handling-relay.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Relais avec cinq manipulations successives](fiches/nz-multi-relay.md) — motricité et manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Relais avec essai](fiches/scot-relais.md) — motricité ; Scottish Rugby
@@ -127,6 +135,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Tennis au pied avec score](fiches/au-kick-tennis.md) — jeu au pied ; Rugby Australia
 - [Toucher avec rappel des défenseurs par couleur](fiches/rc-colour-touch.md) — prise d’information ; RugbyCoaching.tv
 - [Toucher, libérer au sol et changer de rôle](fiches/au-partner-release.md) — passe et coopération ; Rugby Australia
+- [Transmettre en trottinant](fiches/ffr-transmettre.md) — passe ; FFR
 - [Traverser et donner à un partenaire extérieur](fiches/scot-pass-pal.md) — passe et coopération ; Scottish Rugby
 - [Traverser face aux chasseurs](fiches/rc-bulldog.md) — déplacement ; RugbyCoaching.tv
 - [Traverser les zones gardées](fiches/scot-zones.md) — évitement ; Scottish Rugby

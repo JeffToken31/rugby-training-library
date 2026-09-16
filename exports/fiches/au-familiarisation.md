@@ -23,6 +23,16 @@ Dans un espace délimité, chacun se déplace avec un ballon. Au signal, effectu
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Développer la maîtrise et la familiarité du ballon à son rythme.
+
+**Organisation :** Joueurs dispersés dans une aire délimitée, chacun avec un ballon.
+
+**Déroulement :** Se déplacer puis exécuter au signal les manipulations demandées : poser-ramasser, passer, aplatir, petite passe haute.
+
+**Consignes :** Réagir au signal du coach pour changer de geste.
+
+Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
+
 ### Proposition terrain U8 — à valider
 
 7 min · 4 à 12 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

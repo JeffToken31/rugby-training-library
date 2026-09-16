@@ -1,0 +1,94 @@
+{
+  "enrichments": [
+    {
+      "id": "au-familiarisation-completion-20260916",
+      "variant_id": "au-familiarisation",
+      "source_id": "au-familiarisation",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Description et Coaching Outcome ; texte public consulté",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer la maîtrise et la familiarité du ballon à son rythme."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Joueurs dispersés dans une aire délimitée, chacun avec un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer puis exécuter au signal les manipulations demandées : poser-ramasser, passer, aplatir, petite passe haute."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réagir au signal du coach pour changer de geste."
+        }
+      }
+    },
+    {
+      "id": "au-octopus-completion-20260916",
+      "variant_id": "au-octopus",
+      "source_id": "au-octopus",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Description et Coaching Outcome ; texte public consulté",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Développer perception de l’espace, agilité et confiance dans le déplacement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les algues restent sur place ; continuer jusqu’à capture générale."
+        }
+      }
+    },
+    {
+      "id": "ffr-espaces2023-completion-20260916",
+      "variant_id": "ffr-espaces2023",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 66",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer pour marquer rapidement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte."
+        }
+      }
+    }
+  ]
+}

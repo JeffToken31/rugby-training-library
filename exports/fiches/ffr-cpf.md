@@ -23,6 +23,16 @@ Maîtriser la remise en jeu et partir dans un espace libre.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Maîtriser le coup franc et repérer l’espace libre.
+
+**Organisation :** Quatre joueurs face à face ; losange et plot central.
+
+**Déroulement :** Au signal, travailler en aller-retour.
+
+**Consignes :** Ballon à deux mains ; augmenter progressivement la vitesse.
+
+Détails extraits le 2026-09-16 — PDF page 71 — atelier correspondant ; pagination fichier.
+
 ## Répertoire des sources
 
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — PDF public consulté. Archive pédagogique, pas le règlement 2026–2027. Consignes de contact à vérifier auprès du club.

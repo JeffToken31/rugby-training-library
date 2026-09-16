@@ -1,0 +1,313 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-dos-postures-completion-20260916",
+      "variant_id": "ffr-dos-postures",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 8 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Alterner dos plat, creux et rond."
+        }
+      },
+      "supersedes": "ffr-dos-postures-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-canard-completion-20260916",
+      "variant_id": "ffr-canard",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 8 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser accroupi, ballon tenu sans appui supplémentaire."
+        }
+      },
+      "supersedes": "ffr-canard-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-lutte-avancer-completion-20260916",
+      "variant_id": "ffr-lutte-avancer",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 9 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer face à un adversaire debout."
+        }
+      },
+      "supersedes": "ffr-lutte-avancer-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-saut-ballon-completion-20260916",
+      "variant_id": "ffr-saut-ballon",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 9 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Franchir le ballon et stabiliser la réception."
+        }
+      },
+      "supersedes": "ffr-saut-ballon-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-roulade-releve-completion-20260916",
+      "variant_id": "ffr-roulade-releve",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 9 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner roulade et relevé."
+        }
+      },
+      "supersedes": "ffr-roulade-releve-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-appuis-completion-20260916",
+      "variant_id": "ffr-appuis",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 8 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer en maintenant le dos horizontal."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trajet de cinq mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Marcher à quatre pattes."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Conserver le dos plat."
+        }
+      }
+    },
+    {
+      "id": "ffr-pied-completion-20260916",
+      "variant_id": "ffr-pied",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 10 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Contrôler le ballon des deux pieds."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un ballon ; zone cible délimitée."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Progresser en conduisant, puis atteindre la zone."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Utiliser pied droit et gauche."
+        }
+      }
+    },
+    {
+      "id": "ffr-ramasser-completion-20260916",
+      "variant_id": "ffr-ramasser",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 10 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ramasser, transmettre et réceptionner."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon au sol ; partenaire ou cible."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ramasser puis passer ; travailler aussi la réception."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Diriger la passe vers son destinataire."
+        }
+      }
+    },
+    {
+      "id": "ffr-reception-completion-20260916",
+      "variant_id": "ffr-reception",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 17 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réceptionner en déplacement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfant et parent passeur, un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trottiner puis recevoir."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attraper sans interrompre le déplacement."
+        }
+      }
+    },
+    {
+      "id": "ffr-transmettre-completion-20260916",
+      "variant_id": "ffr-transmettre",
+      "source_id": "ffr-famille",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 17 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer en déplacement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfant porteur et parent réceptionneur."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Trottiner puis transmettre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Orienter la passe vers le parent."
+        }
+      }
+    },
+    {
+      "id": "ffr-guide-recevoir-passer-completion-20260916",
+      "variant_id": "ffr-guide-recevoir-passer",
+      "source_id": "ffr-guide-m8-2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 24 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Recevoir, ramasser et transmettre à un partenaire."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot."
+        }
+      },
+      "supersedes": "ffr-guide-recevoir-passer-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-guide-dribble-completion-20260916",
+      "variant_id": "ffr-guide-dribble",
+      "source_id": "ffr-guide-m8-2023",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 26 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Effectuer un coup franc et conduire des deux pieds."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone."
+        }
+      },
+      "supersedes": "ffr-guide-dribble-detail-1",
+      "revision_reason": "Complément documentaire de la source propre à la fiche ; catégorie et réserves historiques conservées."
+    },
+    {
+      "id": "ffr-cpf-completion-20260916",
+      "variant_id": "ffr-cpf",
+      "source_id": "ffr-plan2020",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 71 — atelier correspondant ; pagination fichier",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Maîtriser le coup franc et repérer l’espace libre."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre joueurs face à face ; losange et plot central."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, travailler en aller-retour."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains ; augmenter progressivement la vitesse."
+        }
+      }
+    }
+  ]
+}

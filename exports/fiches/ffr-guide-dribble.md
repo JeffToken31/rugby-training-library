@@ -23,13 +23,17 @@ Slalom au pied puis essai
 
 **Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
 
+**Objectifs :** Effectuer un coup franc et conduire des deux pieds.
+
 **Organisation :** Un ballon par joueur ; trois plots de slalom.
 
 **Déroulement :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
 
+**Consignes :** Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone.
+
 **Critères de réussite :** Garder le ballon dans la zone et doser les touches.
 
-Détails extraits le 2026-09-08 — PDF page 26, organisation, consignes et critères.
+Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagination fichier.
 
 **Espace source :** Zone de 5 × 5 m.
 

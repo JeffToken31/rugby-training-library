@@ -23,13 +23,15 @@ Travail individuel au sol.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Enchaîner roulade et relevé.
+
 **Organisation :** Travail individuel au sol.
 
 **Déroulement :** Faire une roulade de type judo puis se relever.
 
 **Consignes :** Enchaîner le relevé après la roulade.
 
-Détails extraits le 2026-09-09 — PDF page 9 — Atelier 6.
+Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Répertoire des sources
 

@@ -57,13 +57,15 @@ Enfant à quatre pattes.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Alterner dos plat, creux et rond.
+
 **Organisation :** Enfant à quatre pattes.
 
 **Déroulement :** Alterner dos plat, creux puis rond.
 
 **Consignes :** Réaliser successivement les trois postures.
 
-Détails extraits le 2026-09-09 — PDF page 8 — Atelier 2.
+Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
 
 ## Atteindre la zone opposée
 
@@ -791,6 +793,16 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Avancer pour marquer rapidement.
+
+**Organisation :** Deux équipes numérotées ; quatre camps de 3 × 3 mètres dans une aire de 15 × 15 mètres.
+
+**Déroulement :** Deux numéros appelés ; au second signal, quatre joueurs prennent chacun un ballon central et marquent selon leur couleur.
+
+**Consignes :** Un seul ballon ; éviter les camps ; marquer en moins de huit secondes sans perte.
+
+Détails extraits le 2026-09-16 — PDF page 66.
+
 **Espace source :** 15 × 15 m ; camps 3 × 3 m
 
 **Manche source :** 8 secondes ; durée totale inconnue.
@@ -874,6 +886,16 @@ Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 10, atelier 2 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+**Objectifs :** Contrôler le ballon des deux pieds.
+
+**Organisation :** Un ballon ; zone cible délimitée.
+
+**Déroulement :** Progresser en conduisant, puis atteindre la zone.
+
+**Consignes :** Utiliser pied droit et gauche.
+
+Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
 
 ## Conserver après avoir touché le sol
 
@@ -1053,6 +1075,16 @@ Maîtriser la remise en jeu et partir dans un espace libre.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Maîtriser le coup franc et repérer l’espace libre.
+
+**Organisation :** Quatre joueurs face à face ; losange et plot central.
+
+**Déroulement :** Au signal, travailler en aller-retour.
+
+**Consignes :** Ballon à deux mains ; augmenter progressivement la vitesse.
+
+Détails extraits le 2026-09-16 — PDF page 71 — atelier correspondant ; pagination fichier.
+
 ## Course autour des bases contre trois passes
 
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Texte source consulté ; validation terrain non effectuée.**
@@ -1192,6 +1224,16 @@ Parcourir cinq mètres à quatre pattes, dos horizontal.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 8, atelier 3 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+**Objectifs :** Avancer en maintenant le dos horizontal.
+
+**Organisation :** Trajet de cinq mètres.
+
+**Déroulement :** Marcher à quatre pattes.
+
+**Consignes :** Conserver le dos plat.
+
+Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
 
 ## Déplacement du crabe
 
@@ -1383,13 +1425,15 @@ Deux enfants debout dans une zone.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Avancer face à un adversaire debout.
+
 **Organisation :** Deux enfants debout dans une zone.
 
 **Déroulement :** Mains sur les épaules adverses, chercher à avancer au signal.
 
 **Consignes :** Rester dans la zone du duel.
 
-Détails extraits le 2026-09-09 — PDF page 9 — Atelier 4.
+Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Duel d’évitement en couloir
 
@@ -1917,6 +1961,16 @@ Traverser sans être touché par les pieuvres. Un joueur touché devient une alg
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Développer perception de l’espace, agilité et confiance dans le déplacement.
+
+**Organisation :** Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne.
+
+**Déroulement :** Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants.
+
+**Consignes :** Les algues restent sur place ; continuer jusqu’à capture générale.
+
+Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
+
 ### Proposition terrain U8 — à valider
 
 6 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.
@@ -1948,6 +2002,16 @@ Dans un espace délimité, chacun se déplace avec un ballon. Au signal, effectu
 [Source : Rugby Australia](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Sections Description / Equipment / Change It · consultée le 2026-09-06
 
 **Accès :** Description publique consultée
+
+**Objectifs :** Développer la maîtrise et la familiarité du ballon à son rythme.
+
+**Organisation :** Joueurs dispersés dans une aire délimitée, chacun avec un ballon.
+
+**Déroulement :** Se déplacer puis exécuter au signal les manipulations demandées : poser-ramasser, passer, aplatir, petite passe haute.
+
+**Consignes :** Réagir au signal du coach pour changer de geste.
+
+Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
 
 ### Proposition terrain U8 — à valider
 
@@ -2345,13 +2409,15 @@ Enfant dans un couloir.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Traverser accroupi, ballon tenu sans appui supplémentaire.
+
 **Organisation :** Enfant dans un couloir.
 
 **Déroulement :** Traverser en canard avec le ballon à deux mains.
 
 **Consignes :** Ne poser ni main, ni genou, ni ballon au sol.
 
-Détails extraits le 2026-09-09 — PDF page 8 — Atelier 1.
+Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagination fichier.
 
 ## Marquer sur chaque bord coloré
 
@@ -3233,6 +3299,16 @@ Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloign
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Ramasser, transmettre et réceptionner.
+
+**Organisation :** Ballon au sol ; partenaire ou cible.
+
+**Déroulement :** Ramasser puis passer ; travailler aussi la réception.
+
+**Consignes :** Diriger la passe vers son destinataire.
+
+Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
+
 ## Ramasser, porter et reposer
 
 **manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
@@ -3507,13 +3583,17 @@ Recevoir à différentes hauteurs et passer
 
 **Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
 
+**Objectifs :** Recevoir, ramasser et transmettre à un partenaire.
+
 **Organisation :** Un passeur, un joueur actif et deux réceptionneurs.
 
 **Déroulement :** Recevoir au sol, au ventre ou au-dessus de la tête ; avancer et passer alternativement de chaque côté, puis revenir par le plot repère.
 
+**Consignes :** Saisir dans le carré ; avancer en passant alternativement à droite et à gauche, puis revenir par le plot.
+
 **Critères de réussite :** Passer en mouvement vers le partenaire.
 
-Détails extraits le 2026-09-08 — PDF page 24, organisation, consignes et critères.
+Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagination fichier.
 
 **Espace source :** Carré de 1 × 1 m ; partenaires à 2–3 m.
 
@@ -3534,6 +3614,16 @@ Réceptionner une passe pendant un déplacement au petit trot.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 9 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+**Objectifs :** Réceptionner en déplacement.
+
+**Organisation :** Enfant et parent passeur, un ballon.
+
+**Déroulement :** Trottiner puis recevoir.
+
+**Consignes :** Attraper sans interrompre le déplacement.
+
+Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
 
 ## Relais avec changements de portage
 
@@ -3705,13 +3795,15 @@ Travail individuel au sol.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Enchaîner roulade et relevé.
+
 **Organisation :** Travail individuel au sol.
 
 **Déroulement :** Faire une roulade de type judo puis se relever.
 
 **Consignes :** Enchaîner le relevé après la roulade.
 
-Détails extraits le 2026-09-09 — PDF page 9 — Atelier 6.
+Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Rubans avec restitution avant reprise
 
@@ -3803,13 +3895,15 @@ Obstacle au sol.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Franchir le ballon et stabiliser la réception.
+
 **Organisation :** Obstacle au sol.
 
 **Déroulement :** Sauter par-dessus à deux pieds.
 
 **Consignes :** Retrouver l’équilibre à la réception.
 
-Détails extraits le 2026-09-09 — PDF page 9 — Atelier 5.
+Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Sauts verticaux de grenouille
 
@@ -3855,13 +3949,17 @@ Slalom au pied puis essai
 
 **Accès :** PDF consulté via recherche documentaire ; capture locale à vérifier
 
+**Objectifs :** Effectuer un coup franc et conduire des deux pieds.
+
 **Organisation :** Un ballon par joueur ; trois plots de slalom.
 
 **Déroulement :** Commencer par un coup de pied franc, slalomer avec les deux pieds, pousser le ballon à la sortie puis aplatir en courant.
 
+**Consignes :** Après le coup franc, slalomer entre trois plots des deux pieds, pousser le ballon puis aplatir dans la zone.
+
 **Critères de réussite :** Garder le ballon dans la zone et doser les touches.
 
-Détails extraits le 2026-09-08 — PDF page 26, organisation, consignes et critères.
+Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagination fichier.
 
 **Espace source :** Zone de 5 × 5 m.
 
@@ -4276,6 +4374,16 @@ Passer au partenaire tout en trottinant avec le ballon.
 [Source : FFR](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF page 17, atelier 10 · consultée le 2026-09-06
 
 **Accès :** PDF public, texte consulté
+
+**Objectifs :** Passer en déplacement.
+
+**Organisation :** Enfant porteur et parent réceptionneur.
+
+**Déroulement :** Trottiner puis transmettre.
+
+**Consignes :** Orienter la passe vers le parent.
+
+Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
 
 ## Traverser et donner à un partenaire extérieur
 

@@ -23,6 +23,16 @@ Traverser sans être touché par les pieuvres. Un joueur touché devient une alg
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Développer perception de l’espace, agilité et confiance dans le déplacement.
+
+**Organisation :** Aire délimitée ; jusqu’à trois poulpes ; autres joueurs sur une ligne.
+
+**Déroulement :** Au signal, traverser sans toucher ; les capturés deviennent des algues immobiles qui tentent de toucher les suivants.
+
+**Consignes :** Les algues restent sur place ; continuer jusqu’à capture générale.
+
+Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte public consulté.
+
 ### Proposition terrain U8 — à valider
 
 6 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

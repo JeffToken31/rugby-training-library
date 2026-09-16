@@ -23,13 +23,15 @@ Obstacle au sol.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Franchir le ballon et stabiliser la réception.
+
 **Organisation :** Obstacle au sol.
 
 **Déroulement :** Sauter par-dessus à deux pieds.
 
 **Consignes :** Retrouver l’équilibre à la réception.
 
-Détails extraits le 2026-09-09 — PDF page 9 — Atelier 5.
+Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Répertoire des sources
 

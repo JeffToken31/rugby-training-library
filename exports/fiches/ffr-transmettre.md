@@ -23,6 +23,16 @@ Passer au partenaire tout en trottinant avec le ballon.
 
 **Accès :** PDF public, texte consulté
 
+**Objectifs :** Passer en déplacement.
+
+**Organisation :** Enfant porteur et parent réceptionneur.
+
+**Déroulement :** Trottiner puis transmettre.
+
+**Consignes :** Orienter la passe vers le parent.
+
+Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
+
 ## Répertoire des sources
 
 - [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — PDF public, texte consulté. Document ancien conçu pour la maison ; ne constitue pas le règlement actuel.
