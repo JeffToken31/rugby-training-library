@@ -74,3 +74,5 @@ Lot Rugby Toolbox : docs/LOT_NZ_ESSENTIELS_2026-09-16.md. Cinq fiches complété
 Lot objectifs RugbyCoaching : docs/LOT_RC_OBJECTIFS_2026-09-16.md. Quatre objectifs explicites ajoutés ; 93/150 fiches avec les quatre champs essentiels. Jeu à deux ballons : organisation visuelle restant à vérifier.
 
 Lot Munster : docs/LOT_MUNSTER_2026-09-16.md. Cinq jeux complétés ; 98/150 fiches avec les quatre champs essentiels, 137 enrichies. PDF lisible via lecteur web ; capture locale bloquée au contrôle robots.
+
+Lot écossais : docs/LOT_ECOSSE_ESSENTIELS_2026-09-16.md. Cinq fiches complétées ; 103/150 réunissent objectif, organisation, déroulement et consignes. Les objectifs non explicités restent inconnus.

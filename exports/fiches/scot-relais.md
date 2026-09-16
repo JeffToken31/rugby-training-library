@@ -23,11 +23,17 @@ Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Se familiariser avec le ballon dans une situation structurée et peu contraignante.
+
 **Organisation :** Files courtes ; deux plots délimitent la marque.
 
 **Déroulement :** Courir marquer entre les plots, revenir et transmettre.
 
-Détails extraits le 2026-09-09 — PDF page 12 (pagination fichier), TASK et SETUP.
+**Consignes :** Aplatir entre les plots, revenir puis transmettre au suivant.
+
+Détails extraits le 2026-09-16 — PDF page 12, pagination du fichier — TASK et texte de la carte.
+
+**Points coach issus de la source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
 
 ## Répertoire des sources
 

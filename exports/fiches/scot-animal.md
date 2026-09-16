@@ -29,7 +29,9 @@ Reprendre le jeu après un déplacement animal.
 
 **Déroulement :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
 
-Détails extraits le 2026-09-08 — PDF page 17, fiche complète.
+**Consignes :** Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.
+
+Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK et texte de la carte.
 
 ## Répertoire des sources
 

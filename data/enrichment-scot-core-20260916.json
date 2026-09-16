@@ -1,0 +1,104 @@
+{
+  "enrichments": [
+    {
+      "id": "scot-relais-core-scot-20260916",
+      "variant_id": "scot-relais",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 12, pagination du fichier — TASK et texte de la carte",
+      "supersedes": "scot-relais-organisation-20260909",
+      "revision_reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se familiariser avec le ballon dans une situation structurée et peu contraignante."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aplatir entre les plots, revenir puis transmettre au suivant."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Limiter les files d’attente pour préserver l’activité et l’engagement."
+        }
+      }
+    },
+    {
+      "id": "scot-animal-core-scot-20260916",
+      "variant_id": "scot-animal",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 17, pagination du fichier — TASK et texte de la carte",
+      "supersedes": "scot-animal-detail-1",
+      "revision_reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer."
+        }
+      }
+    },
+    {
+      "id": "scot-endzone-core-scot-20260916",
+      "variant_id": "scot-endzone",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 22, pagination du fichier — TASK et texte de la carte",
+      "supersedes": "scot-endzone-detail-1",
+      "revision_reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions."
+        }
+      }
+    },
+    {
+      "id": "scot-passback-core-scot-20260916",
+      "variant_id": "scot-passback",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 23, pagination du fichier — TASK et texte de la carte",
+      "supersedes": "scot-passback-detail-1",
+      "revision_reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe."
+        }
+      }
+    },
+    {
+      "id": "scot-corner-core-scot-20260916",
+      "variant_id": "scot-corner",
+      "source_id": "scot-primary",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 20, pagination du fichier — TASK et texte de la carte",
+      "supersedes": "scot-corner-instructions-20260909",
+      "revision_reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler réception, passe et évitement."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes."
+        }
+      }
+    }
+  ]
+}

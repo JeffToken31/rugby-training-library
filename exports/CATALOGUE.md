@@ -89,7 +89,9 @@ Atteindre la zone adverse en courant ou passant.
 
 **Déroulement :** Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.
 
-Détails extraits le 2026-09-08 — PDF page 22, fiche complète.
+**Consignes :** Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions.
+
+Détails extraits le 2026-09-16 — PDF page 22, pagination du fichier — TASK et texte de la carte.
 
 ## Avancer et passer avant le tag
 
@@ -617,13 +619,17 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Travailler réception, passe et évitement.
+
 **Organisation :** Chasseurs par trois, un ballon par trio.
 
 **Déroulement :** Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.
 
 **Consignes :** Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.
 
-Détails extraits le 2026-09-09 — PDF page 20.
+Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK et texte de la carte.
+
+**Points coach issus de la source :** Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.
 
 **Manche source :** 60 secondes ; durée totale inconnue.
 
@@ -731,7 +737,9 @@ Reprendre le jeu après un déplacement animal.
 
 **Déroulement :** Après un toucher, effectuer un déplacement animal puis revenir jouer.
 
-Détails extraits le 2026-09-08 — PDF page 17, fiche complète.
+**Consignes :** Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.
+
+Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK et texte de la carte.
 
 ## Chat et souris autour d’une forme
 
@@ -2473,7 +2481,9 @@ Avancer en soutenant le porteur.
 
 **Déroulement :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
 
-Détails extraits le 2026-09-08 — PDF page 23, fiche complète.
+**Consignes :** Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.
+
+Détails extraits le 2026-09-16 — PDF page 23, pagination du fichier — TASK et texte de la carte.
 
 ## Passer avec un soutien en retrait
 
@@ -3567,11 +3577,17 @@ Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Se familiariser avec le ballon dans une situation structurée et peu contraignante.
+
 **Organisation :** Files courtes ; deux plots délimitent la marque.
 
 **Déroulement :** Courir marquer entre les plots, revenir et transmettre.
 
-Détails extraits le 2026-09-09 — PDF page 12 (pagination fichier), TASK et SETUP.
+**Consignes :** Aplatir entre les plots, revenir puis transmettre au suivant.
+
+Détails extraits le 2026-09-16 — PDF page 12, pagination du fichier — TASK et texte de la carte.
+
+**Points coach issus de la source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
 
 ## Relais de soutien tous les cinq mètres
 

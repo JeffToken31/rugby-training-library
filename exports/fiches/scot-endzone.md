@@ -29,7 +29,9 @@ Atteindre la zone adverse en courant ou passant.
 
 **Déroulement :** Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.
 
-Détails extraits le 2026-09-08 — PDF page 22, fiche complète.
+**Consignes :** Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions.
+
+Détails extraits le 2026-09-16 — PDF page 22, pagination du fichier — TASK et texte de la carte.
 
 ## Répertoire des sources
 

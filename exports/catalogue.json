@@ -1330,6 +1330,7 @@
       "objectives": "Atteindre la zone adverse en courant ou passant.",
       "organisation": "Deux équipes équilibrées ; une zone de marque à chaque extrémité.",
       "steps": "Après toucher, passer sous trois pas ; passes possibles dans toutes les directions.",
+      "instructions": "Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -1374,7 +1375,16 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après toucher adverse, transmettre dans les trois pas ; passes autorisées dans toutes les directions.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 22, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-endzone-core-scot-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -1415,11 +1425,9 @@
       "enrichment_provenance": {
         "source_id": "scot-primary",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "PDF page 22, fiche complète",
-        "revision_id": "scot-endzone-detail-1",
-        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
-        "capture_verified_locally": true
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 22, pagination du fichier — TASK et texte de la carte",
+        "revision_id": "scot-endzone-core-scot-20260916"
       },
       "enrichment_history": [
         {
@@ -1427,6 +1435,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "scot-endzone-core-scot-20260916",
+          "supersedes": "scot-endzone-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée."
         }
       ],
       "source": {
@@ -4252,9 +4266,20 @@
       "organisation": "Chasseurs par trois, un ballon par trio.",
       "steps": "Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes.",
       "instructions": "Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois.",
+      "coach_points": "Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.",
+      "objectives": "Travailler réception, passe et évitement.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler réception, passe et évitement.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 20, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-corner-core-scot-20260916"
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -4305,7 +4330,16 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Coopérer pour poursuivre un adversaire à la fois ; défi possible : captures en soixante secondes.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 20, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-corner-core-scot-20260916"
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -4326,11 +4360,9 @@
       "enrichment_provenance": {
         "source_id": "scot-primary",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "PDF page 20",
-        "revision_id": "scot-corner-instructions-20260909",
-        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
-        "capture_verified_locally": true
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 20, pagination du fichier — TASK et texte de la carte",
+        "revision_id": "scot-corner-core-scot-20260916"
       },
       "enrichment_history": [
         {
@@ -4344,6 +4376,12 @@
           "supersedes": "scot-corner-organisation-20260909",
           "checked_on": "2026-09-09",
           "reason": "Consigne explicitée depuis le contenu source déjà examiné."
+        },
+        {
+          "id": "scot-corner-core-scot-20260916",
+          "supersedes": "scot-corner-instructions-20260909",
+          "checked_on": "2026-09-16",
+          "reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée."
         }
       ],
       "source": {
@@ -4816,6 +4854,7 @@
       "objectives": "Reprendre le jeu après un déplacement animal.",
       "organisation": "Aire délimitée ; chasseurs en chasubles ; espace moteur séparé.",
       "steps": "Après un toucher, effectuer un déplacement animal puis revenir jouer.",
+      "instructions": "Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -4860,7 +4899,16 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après avoir été touché, réaliser le mouvement animal demandé pour revenir jouer.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 17, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-animal-core-scot-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4901,11 +4949,9 @@
       "enrichment_provenance": {
         "source_id": "scot-primary",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "PDF page 17, fiche complète",
-        "revision_id": "scot-animal-detail-1",
-        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
-        "capture_verified_locally": true
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 17, pagination du fichier — TASK et texte de la carte",
+        "revision_id": "scot-animal-core-scot-20260916"
       },
       "enrichment_history": [
         {
@@ -4913,6 +4959,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "scot-animal-core-scot-20260916",
+          "supersedes": "scot-animal-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée."
         }
       ],
       "source": {
@@ -13553,6 +13605,7 @@
       "objectives": "Avancer en soutenant le porteur.",
       "organisation": "Deux équipes, deux zones de marque et deux jokers toujours attaquants.",
       "steps": "Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.",
+      "instructions": "Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -13597,7 +13650,16 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 23, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-passback-core-scot-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -13638,11 +13700,9 @@
       "enrichment_provenance": {
         "source_id": "scot-primary",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "PDF page 23, fiche complète",
-        "revision_id": "scot-passback-detail-1",
-        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
-        "capture_verified_locally": true
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 23, pagination du fichier — TASK et texte de la carte",
+        "revision_id": "scot-passback-core-scot-20260916"
       },
       "enrichment_history": [
         {
@@ -13650,6 +13710,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "scot-passback-core-scot-20260916",
+          "supersedes": "scot-passback-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée."
         }
       ],
       "source": {
@@ -19531,9 +19597,21 @@
       "title": "Relais avec essai",
       "organisation": "Files courtes ; deux plots délimitent la marque.",
       "steps": "Courir marquer entre les plots, revenir et transmettre.",
+      "coach_points": "Limiter les files d’attente pour préserver l’activité et l’engagement.",
+      "instructions": "Aplatir entre les plots, revenir puis transmettre au suivant.",
+      "objectives": "Se familiariser avec le ballon dans une situation structurée et peu contraignante.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se familiariser avec le ballon dans une situation structurée et peu contraignante.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 12, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-relais-core-scot-20260916"
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -19564,7 +19642,16 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aplatir entre les plots, revenir puis transmettre au suivant.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 12, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-relais-core-scot-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -19573,7 +19660,16 @@
           "state": "NOT_EXTRACTED"
         },
         "coach_points": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Limiter les files d’attente pour préserver l’activité et l’engagement.",
+          "provenance": {
+            "source_id": "scot-primary",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 12, pagination du fichier — TASK et texte de la carte",
+            "revision_id": "scot-relais-core-scot-20260916"
+          }
         },
         "duration_min": {
           "state": "NOT_EXTRACTED"
@@ -19594,11 +19690,9 @@
       "enrichment_provenance": {
         "source_id": "scot-primary",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "PDF page 12 (pagination fichier), TASK et SETUP",
-        "revision_id": "scot-relais-organisation-20260909",
-        "capture_sha256": "2e61dace1184b6b60391da5ade00d0fc04b295ba5e418f18eb24a7216e4dc1f6",
-        "capture_verified_locally": true
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 12, pagination du fichier — TASK et texte de la carte",
+        "revision_id": "scot-relais-core-scot-20260916"
       },
       "enrichment_history": [
         {
@@ -19606,6 +19700,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "scot-relais-core-scot-20260916",
+          "supersedes": "scot-relais-organisation-20260909",
+          "checked_on": "2026-09-16",
+          "reason": "Complément explicite de la carte source ; aucune attribution des objectifs de séance à une activité isolée."
         }
       ],
       "source": {

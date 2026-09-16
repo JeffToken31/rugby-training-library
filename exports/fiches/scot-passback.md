@@ -29,7 +29,9 @@ Avancer en soutenant le porteur.
 
 **Déroulement :** Après toucher à deux mains, passer en arrière. Les défenseurs reculent derrière le ballon sans intercepter cette passe.
 
-Détails extraits le 2026-09-08 — PDF page 23, fiche complète.
+**Consignes :** Après toucher à deux mains, passer en arrière ; défenseurs : se replacer de leur côté du ballon sans intercepter cette passe.
+
+Détails extraits le 2026-09-16 — PDF page 23, pagination du fichier — TASK et texte de la carte.
 
 ## Répertoire des sources
 
