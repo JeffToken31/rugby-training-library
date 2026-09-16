@@ -52,3 +52,7 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
+
+### Durée pour planifier l’atelier
+
+5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.

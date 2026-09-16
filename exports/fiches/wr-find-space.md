@@ -58,3 +58,7 @@ Informations encore absentes : Erreurs fréquentes.
 ### Réglages à préparer pour ma séance
 
 Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.
+
+### Durée pour planifier l’atelier
+
+6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.

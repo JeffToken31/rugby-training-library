@@ -62,3 +62,15 @@ Informations encore absentes : Critères de réussite, Points d’attention, Dur
 **À regarder :** Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose.
 
 Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+
+### Durée pour planifier l’atelier
+
+Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+- Explication et démonstration : 60 s.
+- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
+- Retour final : 60 s.
+
+**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.

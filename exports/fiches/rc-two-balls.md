@@ -59,3 +59,7 @@ Informations encore absentes : Organisation, Critères de réussite, Erreurs fr�
 - Définir les limites et dimensions adaptées au groupe.
 
 **Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**
+
+### Durée pour planifier l’atelier
+
+Durée non estimée : déroulement insuffisamment décrit.

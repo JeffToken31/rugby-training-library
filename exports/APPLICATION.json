@@ -498,6 +498,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-cat-mouse",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -877,6 +899,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-chain-relay",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -1242,6 +1286,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-colour-tag",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -1607,6 +1673,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-colour-two",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -1972,6 +2060,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-cone-game",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -2260,6 +2370,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-familiarisation",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -2637,6 +2769,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-fruit-salad",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -3008,6 +3162,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-kick-chase",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -3381,6 +3557,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-kick-golf",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -3756,6 +3954,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-kick-tennis",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -4143,6 +4363,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-nest-pass",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -4431,6 +4673,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-octopus",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -4804,6 +5068,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-over-under",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -5171,6 +5457,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-partner-release",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -5538,6 +5846,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-partner-tag",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -5911,6 +6241,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-pass-duck",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -6270,6 +6622,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-pop-race",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -6647,6 +7021,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-tennis-return",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -7012,6 +7408,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-ufos",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -7391,6 +7809,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "au-wolf",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -7668,6 +8108,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-appuis",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -7945,6 +8407,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-auto",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -8246,6 +8730,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-canard",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -8509,6 +9015,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-carre-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -8847,6 +9361,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-carre2-atelier",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -9110,6 +9646,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-cpf",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -9411,6 +9955,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-dos-postures",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -9676,6 +10242,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-duellong-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -9941,6 +10515,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-duels-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -10211,6 +10793,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-espaces2023",
+        "origin": "AI_INFERRED",
+        "status": "KNOWN_ROUND_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -10490,6 +11080,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-gagne",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -10753,6 +11365,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-gazelles-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -11063,6 +11683,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-guide-dribble",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -11367,6 +12009,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-guide-recevoir-passer",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -11632,6 +12296,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-initiative",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -11903,6 +12575,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-interval",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -12194,6 +12888,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-lutte-avancer",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -12459,6 +13175,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-pantheres-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -12734,6 +13458,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-pied",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -12997,6 +13743,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-plaquage-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -13260,6 +14014,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-protege-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -13551,6 +14313,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-ramasser",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -13854,6 +14638,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-reception",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -14121,6 +14927,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-relais-atelier",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -14420,6 +15234,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-roulade-releve",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -14721,6 +15557,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-saut-ballon",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -15004,6 +15862,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-speedy-individuel",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -15293,6 +16173,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-speedy-partage",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -15596,6 +16498,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-transmettre",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -15904,6 +16828,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-tresors2023",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -16196,6 +17142,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "imagine-cold-hot",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -16503,6 +17471,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "imagine-depth-running",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -16797,6 +17787,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-crabe",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -17076,6 +18088,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-end",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -17380,6 +18414,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-flamant",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -17678,6 +18734,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-gates",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -17972,6 +19050,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-gorille",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -18264,6 +19364,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-grenouille",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -18555,6 +19677,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-hunters",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -18850,6 +19994,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-mud",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -19140,6 +20292,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "munster-rats",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -19543,6 +20717,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-awareness",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -19974,6 +21170,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-circle",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -20415,6 +21633,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-corner",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -20764,6 +22004,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-evading-player",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -21182,6 +22444,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-follow",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -21545,6 +22829,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-ground-pass",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -21955,6 +23261,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-handling-relay",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -22262,6 +23590,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-memory",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -22660,6 +24010,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-multi-relay",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -23084,6 +24456,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-no-ball",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -23379,6 +24773,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-noodle-highfive",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -23676,6 +25092,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-noodle-pass",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -24029,6 +25467,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-number-duel",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -24412,6 +25872,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-numbers-race",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -24773,6 +26255,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-octopus-cross",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -25197,6 +26701,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-pick-place",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -25564,6 +27090,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-rats-free",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -25931,6 +27479,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-rats-straight",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -26234,6 +27804,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-rip",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -26605,6 +28197,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-shadow",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -26976,6 +28590,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-shadow-mirror",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -27329,6 +28965,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-tap-pass",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -27745,6 +29403,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-touchdown",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -28108,6 +29788,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "nz-zigzag",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -28424,6 +30126,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-aliens",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -28753,6 +30477,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-bounce",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -29093,6 +30839,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-bulldog",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -29455,6 +31223,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-calling-pairs",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -29802,6 +31592,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-capture-aliens",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -30131,6 +31943,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-chaos-touch",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -30435,6 +32269,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-circle-jump",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -30747,6 +32603,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-colour-touch",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -31086,6 +32964,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-eggs",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -31391,6 +33291,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-endball-groups",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -31767,6 +33689,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-four-one",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -32119,6 +34063,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-lateral-three",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -32414,6 +34380,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-multidirection",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -32732,6 +34720,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-netball",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -33047,6 +35057,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-numbers-tag",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -33428,6 +35460,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-pairs",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -33754,6 +35808,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-pass-start",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -34141,6 +36217,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-piggy",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -34434,6 +36532,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-protect-circle",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -34739,6 +36859,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-rounders",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -35078,6 +37220,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-statues",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -35426,6 +37590,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-taggrab",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -35731,6 +37917,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-tagmania",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -36047,6 +38255,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-tagmatch",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -36358,6 +38588,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-team-scarecrow",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -36759,6 +39011,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-ten",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -37103,6 +39377,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-triangle",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -37431,6 +39727,14 @@
           "theme"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-two-balls",
+        "origin": "AI_INFERRED",
+        "status": "INSUFFICIENT_DESCRIPTION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -37823,6 +40127,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "rc-two-one",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -38109,6 +40435,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-alignement",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -38426,6 +40774,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-animal",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -38787,6 +41157,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-break-walls",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -39085,6 +41477,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-chaine",
+        "origin": "AI_INFERRED",
+        "status": "KNOWN_ROUND_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -39427,6 +41827,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-chaos-tig",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -39806,6 +42228,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-corner",
+        "origin": "AI_INFERRED",
+        "status": "KNOWN_ROUND_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -40158,6 +42588,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-cricket",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -40512,6 +42964,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-crocodile",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -40829,6 +43303,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-endzone",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -41183,6 +43679,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-kangaroo",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -41537,6 +44055,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-monkey",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -41889,6 +44429,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-monster",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "motor",
+        "profile": {
+          "label": "Bloc court de motricité",
+          "intro_seconds": 60,
+          "round_seconds": 30,
+          "rounds_min": 4,
+          "rounds_max": 6,
+          "between_seconds": 30,
+          "outro_seconds": 30,
+          "extension": "Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps."
+        },
+        "min_seconds": 300,
+        "max_seconds": 420,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -42243,6 +44805,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-pass-pal",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -42560,6 +45144,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-passback",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -42876,6 +45482,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-relais",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -43230,6 +45858,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-roll-tig",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -43520,6 +46170,28 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-tennis",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
       }
     },
     {
@@ -43814,6 +46486,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "scot-zones",
+        "origin": "AI_INFERRED",
+        "status": "KNOWN_ROUND_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -44148,6 +46828,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "sg-team-tag",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -44591,6 +47279,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-chain-reaction",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -44992,6 +47688,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-changing-defender",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -45326,6 +48030,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-find-space",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -45699,6 +48411,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-five-walls",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -46083,6 +48803,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-follow-choice",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -46484,6 +49212,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-follow-leader",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -46885,6 +49621,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-formation",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -47324,6 +50068,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-keep-ball",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -47727,6 +50479,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-pairs-tag",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -48036,6 +50796,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-pass-defend",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -48475,6 +51243,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-pass-support",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -48878,6 +51654,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-passing-relays",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -49222,6 +52006,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-scarecrow",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -49661,6 +52453,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-tag-2v1",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -50079,6 +52879,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-tag-3v1",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -50466,6 +53274,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-tag-3v2",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     },
     {
@@ -50867,6 +53683,14 @@
           "fields.steps"
         ],
         "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-walls-212",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
       }
     }
   ],
@@ -51108,5 +53932,5 @@
       }
     ]
   },
-  "content_sha256": "46b5eb91a1b4d7ffd9f57fa10fb304b912f7ba024bb6940d43d1bdf36c1899e4"
+  "content_sha256": "c1d1bad897001d42d72cc47dba7226a77f4d6ff44477770ef0e4411e4026f9d3"
 }

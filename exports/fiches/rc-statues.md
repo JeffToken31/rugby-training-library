@@ -57,3 +57,15 @@ Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Effec
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
+
+### Durée pour planifier l’atelier
+
+Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+- Explication et démonstration : 60 s.
+- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
+- Retour final : 60 s.
+
+**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.

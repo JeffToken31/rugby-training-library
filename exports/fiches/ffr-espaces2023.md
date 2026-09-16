@@ -54,3 +54,7 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 ### Réglages à préparer pour ma séance
 
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+### Durée pour planifier l’atelier
+
+Manche documentée : 8 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.

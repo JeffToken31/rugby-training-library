@@ -56,3 +56,15 @@ Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
+
+### Durée pour planifier l’atelier
+
+Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+- Explication et démonstration : 60 s.
+- 3 à 4 séquences de 60 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
+- Retour final : 60 s.
+
+**Pour prolonger :** Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.

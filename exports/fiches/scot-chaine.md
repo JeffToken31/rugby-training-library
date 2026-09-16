@@ -58,3 +58,7 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
+
+### Durée pour planifier l’atelier
+
+Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.

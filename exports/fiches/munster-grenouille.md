@@ -56,3 +56,15 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 - Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
+
+### Durée pour planifier l’atelier
+
+Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+- Explication et démonstration : 60 s.
+- 4 à 6 séquences de 30 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
+- Retour final : 30 s.
+
+**Pour prolonger :** Ajouter un passage après une pause ou changer de tâche ; ne pas prolonger un effort continu pour remplir le temps.
+
+Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.

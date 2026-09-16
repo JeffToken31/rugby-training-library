@@ -9,6 +9,8 @@ Les paramètres non renseignés restent inconnus. Les adaptations sont des propo
 
 ## Aller au sol puis transmettre au soutien
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Relais
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Continuité au sol et soutien, sans adversaire qui plaque.**
@@ -45,6 +47,8 @@ Détails extraits le 2026-09-10 — Score the Try and Pop Race — Description, 
 
 ## Alterner trois formes du dos
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
 
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -75,6 +79,8 @@ Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagin
 
 ## Atteindre la zone opposée
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Opposition collective
 
 **passe · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
@@ -104,6 +110,8 @@ Atteindre la zone adverse en courant ou passant.
 Détails extraits le 2026-09-16 — PDF page 22, pagination du fichier — TASK et texte de la carte.
 
 ## Avancer et passer avant le tag
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Soutien · Coopération · Opposition collective
 
@@ -136,6 +144,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 **Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
 
 ## Binômes guidés par le signal du coach
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Réaction au signal · Prise d’information
 
@@ -171,6 +181,8 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 ## Bonds de kangourou vers l’avant
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.**
@@ -198,6 +210,8 @@ Départ en demi-flexion.
 Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
 
 ## Botter, récupérer et marquer
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Jeu au pied · Ramassage du ballon · Course
 
@@ -235,6 +249,8 @@ Détails extraits le 2026-09-10 — Kick Chase — Description, Coaching Outcome
 
 ## Capturer les extraterrestres par la passe
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Poursuite et délivrance
 
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
@@ -265,6 +281,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 
 ## Carré
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Manipulation du ballon
 
 **manipulation · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -291,6 +309,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 ## Carré 2
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
 
 **motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -316,6 +336,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
 
 ## Cercle de passes avec demi-tours sautés
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Coordination · Circulation et transmission
 
@@ -349,6 +371,8 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 
 ## Cercle solidaire contre un poursuivant
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Coopération · Poursuite et délivrance
 
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -379,6 +403,8 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 
 ## Changer de ligne d’essai
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
 
 **prise d’information · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
@@ -408,6 +434,8 @@ Le coach annonce une couleur qui change la ligne visée par l’équipe en posse
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
 ## Chaque passe change le défenseur
+
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Coopération · Opposition collective
 
@@ -443,6 +471,8 @@ Détails extraits le 2026-09-16 — Decision Making - 4 v 1 — Difficulty ; Coa
 
 ## Chasse à la frite avec délivrance par la main
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Coopération · Poursuite et délivrance
 
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
@@ -475,6 +505,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 
 ## Chasse à la frite avec délivrance par passe
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
 
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
@@ -506,6 +538,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 **Espace source :** 15 × 10 m
 
 ## Chasse aux trésors — parcours
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Motricité · Ramassage du ballon · Course · Relais · Parcours
 
@@ -541,6 +575,8 @@ Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisati
 
 ## Chasse collective avec retour après ballon tombé
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Poursuite et délivrance
 
 **coopération · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
@@ -574,6 +610,8 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 **Espace source :** Carré de 10 × 10 m
 
 ## Chasse et arrêt dans un espace libre
+
+**Planifier l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Évitement · Poursuite et délivrance
 
@@ -613,6 +651,8 @@ Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching po
 
 ## Chasse par binômes avec changement de rôle
 
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
 **Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
 
 **opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.**
@@ -646,6 +686,8 @@ Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points c
 **Espace source :** 20 × 20 m
 
 ## Chasseurs passeurs par trois
+
+**Planifier l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
 
 **Tags proposés :** Passe · Coopération · Poursuite et délivrance
 
@@ -681,6 +723,8 @@ Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK 
 
 ## Chasseurs qui se passent le ballon
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Poursuite et délivrance
 
 **coopération · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
@@ -711,6 +755,8 @@ Détails extraits le 2026-09-16 — PDF page 11 (numérotation 1-based) — Game
 
 ## Chat : libérer en roulant le ballon
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Manipulation du ballon · Poursuite et délivrance
 
 **évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.**
@@ -739,6 +785,8 @@ Détails extraits le 2026-09-09 — PDF page 15 — Roll the ball tig.
 
 ## Chat chaos : délivré quand son chasseur est pris
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Poursuite et délivrance
 
 **évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.**
@@ -766,6 +814,8 @@ Tous les joueurs sont chasseurs.
 Détails extraits le 2026-09-09 — PDF page 15 — Chaos Tig.
 
 ## Chat et déplacements animaux
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Motricité · Poursuite et délivrance
 
@@ -796,6 +846,8 @@ Reprendre le jeu après un déplacement animal.
 Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK et texte de la carte.
 
 ## Chat et souris autour d’une forme
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
 
@@ -831,6 +883,8 @@ Détails extraits le 2026-09-10 — Cat and Mouse — Description, Coaching Outc
 
 ## Chercher les espaces libres
 
+**Planifier l’atelier :** Manche documentée : 8 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+
 **Tags proposés :** Réaction au signal · Prise d’information · Ramassage du ballon
 
 **prise d’information · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
@@ -864,6 +918,8 @@ Détails extraits le 2026-09-16 — PDF page 66.
 **Manche source :** 8 secondes ; durée totale inconnue.
 
 ## Cinq attaquants face à cinq rideaux successifs
+
+**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Évitement · Opposition collective
 
@@ -899,6 +955,8 @@ Détails extraits le 2026-09-16 — Passing - 5 v 1 x 5 — Difficulty ; Coachin
 
 ## Circuit de passes mémorisé
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
 
 **mémoire et manipulation · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
@@ -931,6 +989,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 
 ## Conduire le ballon au pied
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Jeu au pied
 
 **jeu au pied · âge source : M8 · Source consultée — validation terrain à faire**
@@ -960,6 +1020,8 @@ Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
 
 ## Conserver après avoir touché le sol
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
 
@@ -992,6 +1054,8 @@ Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Princi
 **Espace source :** 15 × 15 m
 
 ## Conserver par dix passes sans interception
+
+**Planifier l’atelier :** 5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
 
@@ -1029,6 +1093,8 @@ Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points c
 
 ## Coordonner deux ballons
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Passe · Manipulation du ballon · Circulation et transmission
 
 **manipulation · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
@@ -1062,6 +1128,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 [RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie
 
 ## Couleur appelée : deux chasseurs contre un
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
 
@@ -1097,6 +1165,8 @@ Détails extraits le 2026-09-10 — Colour Tag — reverse roles — Description
 
 ## Couleur appelée : un chasseur contre deux
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.**
@@ -1131,6 +1201,8 @@ Détails extraits le 2026-09-10 — Colour Tag — Description, Coaching Outcome
 
 ## Coup franc pour soi
 
+**Planifier l’atelier :** 15 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
 **Tags proposés :** Jeu au pied
 
 **jeu au pied · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -1161,6 +1233,8 @@ Détails extraits le 2026-09-16 — PDF page 71 — atelier correspondant ; pagi
 
 ## Course autour des bases contre trois passes
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Ramassage du ballon · Course
 
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Texte source consulté ; validation terrain non effectuée.**
@@ -1190,6 +1264,8 @@ Un coureur tente de boucler son parcours avant trois passes adverses.
 Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Course dans le tunnel des fruits
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Réaction au signal · Course · Parcours
 
@@ -1225,6 +1301,8 @@ Détails extraits le 2026-09-10 — Fruit Salad — Description, Coaching Outcom
 
 ## Course numérotée avec deux ballons
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réaction au signal · Ramassage du ballon · Course
 
 **course · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
@@ -1256,6 +1334,8 @@ Détails extraits le 2026-09-08 — Description et paramètres du jeu.
 **Espace source :** 15 × 10 m
 
 ## Créer la profondeur par des départs en postures décalées
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Soutien · Circulation et transmission
 
@@ -1291,6 +1371,8 @@ Détails extraits le 2026-09-16 — Carte Depth Running — How to Play ; page n
 
 ## Déplacement à quatre appuis
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Motricité individuelle
 
 **motricité · âge source : M8 · Source consultée — validation terrain à faire**
@@ -1321,6 +1403,8 @@ Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagin
 
 ## Déplacement du crabe
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Coordination · Motricité individuelle
 
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -1349,6 +1433,8 @@ Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Déplacement du gorille
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Coordination · Motricité individuelle
 
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -1376,6 +1462,8 @@ Mains et pieds au sol.
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Deux contre un avec passes libres au départ
+
+**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
@@ -1414,6 +1502,8 @@ Détails extraits le 2026-09-16 — 2 v 1 — Difficulty ; Coaching points conse
 **Famille proposée :** surnombre-rubans
 
 ## Deux contre un sans contact
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Soutien · Prise d’information · Surnombre
 
@@ -1465,6 +1555,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 
 ## Dix passes - variante communautaire documentee
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
 
 **passe · âge source : U8 (classement du site) · Variante Sportplan documentee ; video initiale incomplete**
@@ -1503,6 +1595,8 @@ Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contrib
 
 ## Duel debout pour avancer
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Lutte · Duel
 
 **opposition et soutien · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -1532,6 +1626,8 @@ Deux enfants debout dans une zone.
 Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Duel d’évitement en couloir
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Duel
 
@@ -1565,6 +1661,8 @@ Détails extraits le 2026-09-10 — Evading the Player — Objective / Principle
 
 ## Duel long
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Course · Duel
 
 **déplacement · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -1591,6 +1689,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 ## Duels et soutien
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Soutien · Coopération
 
 **coopération · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -1616,6 +1716,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Porter à deux mains ; faire converger le soutien vers le porteur.
 
 ## Épouvantails avec délivrance
+
+**Planifier l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Évitement · Poursuite et délivrance
 
@@ -1653,6 +1755,8 @@ Détails extraits le 2026-09-16 — Scarecrow Tag — Difficulty ; Coaching poin
 
 ## Épouvantails — chasseurs passeurs
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Poursuite et délivrance
 
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -1683,6 +1787,8 @@ Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progre
 
 ## Équilibre du flamant
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
 
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -1710,6 +1816,8 @@ Debout sur un pied, autre genou devant.
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Éviter les plots et recevoir le ballon
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Réception · Évitement · Prise d’information
 
@@ -1747,6 +1855,8 @@ Détails extraits le 2026-09-10 — UFOs — Description, Coaching Outcome, Chan
 
 ## Fentes alternées du monstre
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Motricité individuelle
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.**
@@ -1774,6 +1884,8 @@ Debout, bras levés à largeur d’épaules, mains en griffes.
 Détails extraits le 2026-09-09 — PDF page 16 — Monster Lunge.
 
 ## File avec transmission au nouveau meneur
+
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Soutien · Manipulation du ballon · Circulation et transmission
 
@@ -1809,6 +1921,8 @@ Détails extraits le 2026-09-16 — Follow the Leader — Difficulty ; Coaching 
 
 ## Franchir trois rideaux disposés en 2–1–2
 
+**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
 **Tags proposés :** Passe · Coopération · Opposition collective
 
 **opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.**
@@ -1843,6 +1957,8 @@ Détails extraits le 2026-09-16 — Passing - 5 v 2 v 1 v 2 — Difficulty ; Coa
 
 ## Gagne-terrain
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Opposition collective
 
 **jeu collectif · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -1872,6 +1988,8 @@ Gagner des points en franchissant des zones et en soutenant l’avancée.
 Détails extraits le 2026-09-16 — PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
 
 ## Golf au pied
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Jeu au pied
 
@@ -1907,6 +2025,8 @@ Détails extraits le 2026-09-10 — Kick Golf — Description, Coaching Outcome,
 
 ## Jeu de zone avec regroupements au signal
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Réaction au signal · Prise d’information · Opposition collective
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -1936,6 +2056,8 @@ Deux équipes progressent vers une zone de marque, avec des passes possibles dan
 Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Jouer les intervalles
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Prise d’information · Opposition collective
 
@@ -1967,6 +2089,8 @@ Détails extraits le 2026-09-16 — PDF page 52 — objectif, dispositif, lancem
 
 ## La boue et la délivrance
 
+**Planifier l’atelier :** 5 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
 **Tags proposés :** Évitement · Coopération · Poursuite et délivrance
 
 **coopération · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
@@ -1997,6 +2121,8 @@ Détails extraits le 2026-09-16 — PDF page 6 (numérotation 1-based) — Game 
 
 ## La chaîne
 
+**Planifier l’atelier :** Manche documentée : 60 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+
 **Tags proposés :** Évitement · Coopération · Poursuite et délivrance
 
 **coopération · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -2026,6 +2152,8 @@ Détails extraits le 2026-09-09 — PDF page 18.
 **Manche source :** 60 secondes ; durée totale inconnue.
 
 ## La chasse aux rubans
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 
@@ -2075,6 +2203,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 ## La pieuvre et les algues
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 
 **déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
@@ -2119,6 +2249,8 @@ Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte publ
 
 ## Le ballon répond au signal
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Manipulation du ballon · Ramassage du ballon
 
 **manipulation · âge source : Non précisé · Source consultée — validation terrain à faire**
@@ -2162,6 +2294,8 @@ Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte publ
 **Plus difficile :** Deux signaux successifs.
 
 ## Le joueur au milieu
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
 
@@ -2213,6 +2347,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 
 ## Les extraterrestres
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 
 **déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
@@ -2243,6 +2379,8 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 
 ## Les gazelles
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Lutte
 
 **lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -2268,6 +2406,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.
 
 ## Les portes à franchir
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Prise d’information · Opposition collective
 
@@ -2313,6 +2453,8 @@ Détails extraits le 2026-09-16 — PDF page 7 (numérotation 1-based) — Game 
 
 ## Les statues
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 
 **déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
@@ -2346,6 +2488,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 **Points coach issus de la source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
 
 ## Les œufs dans les nids
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Ramassage du ballon · Course · Collecte de ballons
 
@@ -2397,6 +2541,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 
 ## L’auto-stoppeur
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération
 
 **coopération · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -2427,6 +2573,8 @@ Détails extraits le 2026-09-16 — PDF page 51 — objectif, dispositif, lancem
 
 ## L’initiative
 
+**Planifier l’atelier :** 20 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
 **Tags proposés :** Prise d’information · Opposition collective
 
 **prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
@@ -2456,6 +2604,8 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 Détails extraits le 2026-09-16 — PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
 
 ## Manipulations autour du corps
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Manipulation du ballon · Coordination
 
@@ -2493,6 +2643,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Marche du grillon en tenant les chevilles
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Motricité individuelle
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.**
@@ -2521,6 +2673,8 @@ Détails extraits le 2026-09-09 — PDF page 16 — Cricket Walk.
 
 ## Marche du singe à trois appuis
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Coordination · Motricité individuelle
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Appui manuel unilatéral, différent du gorille à deux mains.**
@@ -2548,6 +2702,8 @@ Deux pieds et une main en appui.
 Détails extraits le 2026-09-09 — PDF page 16 — Monkey Walk.
 
 ## Marcher en canard avec ballon
+
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Manipulation du ballon · Motricité · Motricité individuelle
 
@@ -2579,6 +2735,8 @@ Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagin
 
 ## Marquer sur chaque bord coloré
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Évitement · Réaction au signal · Opposition collective
 
 **évitement et réaction · âge source : Primaire P4–P7 ; adaptation U8 à valider · Texte source reformulé ; validation coach non effectuée. Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.**
@@ -2608,6 +2766,8 @@ Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l
 Détails extraits le 2026-09-10 — PDF page 21 — Break the walls.
 
 ## Miroir : rester face au porteur
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Duel
 
@@ -2641,6 +2801,8 @@ Détails extraits le 2026-09-10 — Shadow Run — progression 2 — Objective /
 
 ## Numéro appelé : ramasser puis affronter
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Duel
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles. Source contradictoire : installation indique plusieurs ballons, liste et déroulement un seul ; ces derniers retenus.**
@@ -2672,6 +2834,8 @@ Détails extraits le 2026-09-10 — Number Race 2 — Objective / Principles of 
 **Espace source :** 15 × 10 m
 
 ## Opposition sans ballon, attaquant désigné
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Prise d’information · Opposition collective
 
@@ -2707,6 +2871,8 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 ## Panthères et chenilles
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Équilibre et postures · Motricité individuelle
 
 **posture · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -2732,6 +2898,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Observer le maintien de la posture.
 
 ## Passe arrière avec jokers
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Soutien · Opposition collective
 
@@ -2762,6 +2930,8 @@ Avancer en soutenant le porteur.
 Détails extraits le 2026-09-16 — PDF page 23, pagination du fichier — TASK et texte de la carte.
 
 ## Passer avec un soutien en retrait
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Soutien · Circulation et transmission
 
@@ -2813,6 +2983,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 
 ## Passer dans la zone d’arrivée
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Opposition collective
 
 **jeu collectif · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
@@ -2842,6 +3014,8 @@ Deux équipes cherchent la zone d’essai par des passes ; la source propose cin
 Détails extraits le 2026-09-16 — PDF page 9 (numérotation 1-based) — Game Card, How to play.
 
 ## Passer puis devenir défenseur
+
+**Planifier l’atelier :** 6 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
@@ -2877,6 +3051,8 @@ Détails extraits le 2026-09-16 — Pass, Defend, Attack — Difficulty ; Coachi
 
 ## Passer puis échapper au poursuivant
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Évitement · Course · Poursuite et délivrance
 
 **évitement · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
@@ -2911,6 +3087,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Passer sur appel dans un espace partagé
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Réception · Circulation et transmission
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
@@ -2942,6 +3120,8 @@ Choisir quand passer malgré les déplacements des autres binômes.
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
 ## Passer, rendre et s’accroupir
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Réception · Coopération · Circulation et transmission
 
@@ -2977,6 +3157,8 @@ Détails extraits le 2026-09-10 — Pass and Duck — Description, Coaching Outc
 
 ## Passes alternées dessus-dessous
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Relais · Circulation et transmission
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.**
@@ -3010,6 +3192,8 @@ Détails extraits le 2026-09-10 — Passing Overs and Unders — Description, Co
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Passes après départs dans cinq postures
+
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Circulation et transmission
 
@@ -3047,6 +3231,8 @@ Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficu
 
 ## Passes en cercle tourné vers l’extérieur
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Circulation et transmission
 
 **passe · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
@@ -3083,6 +3269,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Passes en escalier par cinq
 
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
 **Tags proposés :** Passe · Soutien · Circulation et transmission
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
@@ -3117,6 +3305,8 @@ Détails extraits le 2026-09-16 — Pass and Support- Formation — Difficulty ;
 
 ## Passes en triangle et changement de posture
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Réception · Circulation et transmission
 
 **passe · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
@@ -3149,6 +3339,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 ## Passes en zigzag et replacement en bout de ligne
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Coopération · Circulation et transmission
 
 **passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.**
@@ -3180,6 +3372,8 @@ Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles o
 **Espace source :** 10 × 50 m
 
 ## Passes froides puis chaudes
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Réception · Circulation et transmission
 
@@ -3215,6 +3409,8 @@ Détails extraits le 2026-09-14 — Carte Cold & Hot Potato — How to Play ; nu
 
 ## Passes latérales en vagues de trois
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Circulation et transmission
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -3249,6 +3445,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 ## Pieuvre à deux traversées perpendiculaires
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Poursuite et délivrance
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.**
@@ -3281,6 +3479,8 @@ Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
 
 ## Plaquage et libération
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Plaquage
 
 **contact · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -3306,6 +3506,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
 
 ## Poursuite avec ballon et permutation
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
 
@@ -3341,6 +3543,8 @@ Détails extraits le 2026-09-10 — Partner Tag — Description, Coaching Outcom
 
 ## Premières passes en ligne
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Circulation et transmission
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -3373,6 +3577,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 ## Protège-ballon
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Lutte
 
 **lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -3398,6 +3604,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Rechercher une posture semi-fléchie et un ancrage stable.
 
 ## Quatre cibles, porteur immobile
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Réception · Prise d’information · Opposition collective
 
@@ -3428,6 +3636,8 @@ Trouver un partenaire libre dans une zone de marque.
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
 ## Quatre passeurs contre un intercepteur
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective · Surnombre
 
@@ -3463,6 +3673,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 ## Quelle heure est-il, monsieur le loup ?
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.**
@@ -3497,6 +3709,8 @@ Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, 
 
 ## Ramasser puis transmettre
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Réception · Ramassage du ballon · Circulation et transmission
 
 **passe · âge source : M8 · Source consultée — validation terrain à faire**
@@ -3526,6 +3740,8 @@ Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloign
 Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
 
 ## Ramasser, porter et reposer
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Manipulation du ballon · Ramassage du ballon · Parcours
 
@@ -3561,6 +3777,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Ramper comme un crocodile
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Coordination · Motricité individuelle
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Coordination du même côté et posture très basse ; différente de ffr-appuis dos horizontal.**
@@ -3588,6 +3806,8 @@ Allongé au départ, puis appui sur bras et pieds.
 Détails extraits le 2026-09-09 — PDF page 16 — Crocodile Walk.
 
 ## Rapporter les trésors par une passe
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
 
@@ -3622,6 +3842,8 @@ Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Des
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Rats et lapins
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
@@ -3667,6 +3889,8 @@ Détails extraits le 2026-09-16 — PDF page 5 (numérotation 1-based) — Game 
 
 ## Rats et lapins : duel avec ballon en ligne droite
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel avec ballon et destination opposée ; munster-rats est une poursuite vers le refuge sans ballon.**
@@ -3699,6 +3923,8 @@ Détails extraits le 2026-09-10 — Rats and Rabbits 3 — Objective / Principle
 
 ## Rats et lapins : trajectoires libres
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.**
@@ -3730,6 +3956,8 @@ Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principle
 **Espace source :** Départ à 10 à 15 m
 
 ## Réagir au mot plot
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Réaction au signal · Prise d’information · Duel
 
@@ -3765,6 +3993,8 @@ Détails extraits le 2026-09-10 — Cone Game — Description, Coaching Outcome,
 
 ## Rebondir et échanger en binôme
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Manipulation du ballon · Circulation et transmission
 
 **manipulation · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
@@ -3798,6 +4028,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 **Points coach issus de la source :** Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.
 
 ## Recevoir à différentes hauteurs et passer
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Réception · Circulation et transmission
 
@@ -3833,6 +4065,8 @@ Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagi
 
 ## Recevoir en trottinant
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réception · Circulation et transmission
 
 **passe · âge source : M10 · Source consultée — validation terrain à faire**
@@ -3862,6 +4096,8 @@ Réceptionner une passe pendant un déplacement au petit trot.
 Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
 
 ## Relais avec changements de portage
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Manipulation du ballon · Course · Relais · Parcours
 
@@ -3897,6 +4133,8 @@ Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 ## Relais avec cinq manipulations successives
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Manipulation du ballon · Jeu au pied · Motricité · Ramassage du ballon · Relais · Parcours
 
 **motricité et manipulation · âge source : Under 7 (classement du site) · Description source ; progression et passage au sol à adapter au niveau des enfants.**
@@ -3931,6 +4169,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 
 ## Relais avec essai
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Motricité · Course · Relais
 
 **motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -3962,6 +4202,8 @@ Détails extraits le 2026-09-16 — PDF page 12, pagination du fichier — TASK 
 **Points coach issus de la source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
 
 ## Relais de soutien tous les cinq mètres
+
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Soutien · Manipulation du ballon · Relais · Circulation et transmission
 
@@ -3999,6 +4241,8 @@ Détails extraits le 2026-09-16 — Pass and Support — Difficulty ; Coaching p
 
 ## Relais — courir, rouler, passer
 
+**Planifier l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
+
 **Tags proposés :** Passe · Motricité · Relais
 
 **motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
@@ -4024,6 +4268,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
 
 ## Roulade et relevé
+
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Motricité · Motricité individuelle
 
@@ -4054,6 +4300,8 @@ Travail individuel au sol.
 Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Rubans avec restitution avant reprise
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Coopération · Poursuite et délivrance
 
@@ -4086,6 +4334,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 **Espace source :** 10 × 10 m
 
 ## Rugby à quatre cibles
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Réception · Coopération · Opposition collective
 
@@ -4131,6 +4381,8 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 
 ## Sauter le ballon et stabiliser
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
 
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -4161,6 +4413,8 @@ Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagin
 
 ## Sauts verticaux de grenouille
 
+**Planifier l’atelier :** Budget proposé : 5 à 7 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Motricité · Motricité individuelle
 
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
@@ -4188,6 +4442,8 @@ Position accroupie de grenouille.
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Slalom au pied puis essai
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Jeu au pied · Parcours
 
@@ -4223,6 +4479,8 @@ Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagi
 
 ## Slalomer dans la chaîne de partenaires
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Coordination · Relais · Parcours
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.**
@@ -4256,6 +4514,8 @@ Détails extraits le 2026-09-10 — Chain Relay — Description, Coaching Outcom
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Speedy — un ballon chacun
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Réaction au signal · Ramassage du ballon
 
@@ -4291,6 +4551,8 @@ Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisati
 
 ## Speedy — un ballon pour deux
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réaction au signal · Ramassage du ballon · Duel
 
 **réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
@@ -4322,6 +4584,8 @@ Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisati
 **Famille proposée :** reaction-course
 
 ## Suivre et réagir au choix de transmission
+
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Coopération · Ramassage du ballon · Circulation et transmission
 
@@ -4357,6 +4621,8 @@ Détails extraits le 2026-09-16 — Pass and Support- Follow the Leader — Diff
 
 ## Suivre l’ombre du porteur
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Duel
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Poursuite continue en binôme sans capture ni refuge, différente du suivi collectif et des chasses à délivrance.**
@@ -4389,6 +4655,8 @@ Détails extraits le 2026-09-10 — Shadow Run — Objective / Principles of pla
 
 ## Tag : défenseurs numérotés
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
@@ -4419,6 +4687,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 
 ## Tag mania et délivrance
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 
 **déplacement · âge source : Non précisé ; classement U7 · Source consultée — validation terrain à faire**
@@ -4448,6 +4718,8 @@ La première situation invite chacun à récolter des rubans. Une progression fi
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
 ## Taper au pied puis passer en ligne
+
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Passe · Jeu au pied · Coopération · Circulation et transmission
 
@@ -4481,6 +4753,8 @@ Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of p
 
 ## Tennis à la main
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Réception · Coordination · Circulation et transmission
 
 **coordination · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -4508,6 +4782,8 @@ Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of p
 Détails extraits le 2026-09-09 — PDF page 13.
 
 ## Tennis au pied : élimination et retour
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Réception · Jeu au pied · Opposition collective
 
@@ -4543,6 +4819,8 @@ Détails extraits le 2026-09-10 — Kick Tennis — elimination progression — 
 
 ## Tennis au pied avec score
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Jeu au pied · Opposition collective
 
 **jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.**
@@ -4577,6 +4855,8 @@ Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcom
 
 ## Toucher avec rappel des défenseurs par couleur
 
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Prise d’information · Opposition collective
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
@@ -4608,6 +4888,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 **Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
 
 ## Toucher, libérer au sol et changer de rôle
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Ramassage du ballon · Poursuite et délivrance · Duel
 
@@ -4643,6 +4925,8 @@ Détails extraits le 2026-09-10 — Partner Tag — ground release progression �
 
 ## Transmettre en trottinant
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Passe · Circulation et transmission
 
 **passe · âge source : M10 · Source consultée — validation terrain à faire**
@@ -4673,6 +4957,8 @@ Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagi
 
 ## Traverser et donner à un partenaire extérieur
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Manipulation du ballon · Coopération · Circulation et transmission
 
 **passe et coopération · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory. Source contradictoire : groupe de quatre annoncé mais quatre dehors et un dedans ; effectif numérique inconnu.**
@@ -4700,6 +4986,8 @@ Partenaires sur les bords du carré et un porteur au centre.
 Détails extraits le 2026-09-09 — PDF page 11 — Pass to a pal.
 
 ## Traverser face aux chasseurs
+
+**Planifier l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
 
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 
@@ -4735,6 +5023,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 ## Traverser les zones gardées
 
+**Planifier l’atelier :** Manche documentée : 90 secondes. Choisir le nombre de manches, les pauses et les explications pour fixer la durée totale ; ne pas confondre manche et atelier.
+
 **Tags proposés :** Évitement
 
 **évitement · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -4764,6 +5054,8 @@ Détails extraits le 2026-09-09 — PDF page 19.
 **Manche source :** 90 secondes ; durée totale inconnue.
 
 ## Trois contre deux avec passes en arrière
+
+**Planifier l’atelier :** 12 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
@@ -4800,6 +5092,8 @@ Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
 **Famille proposée :** surnombre-rubans
 
 ## Trois contre un avec rotation du défenseur
+
+**Planifier l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
@@ -4839,6 +5133,8 @@ Détails extraits le 2026-09-16 — 3 v 1 — Difficulty ; Coaching points conse
 
 ## Trois joueurs alignés
 
+**Planifier l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
 **Tags proposés :** Prise d’information
 
 **prise d’information · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -4866,6 +5162,8 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 Détails extraits le 2026-09-09 — PDF page 14.
 
 ## Vagues de passes avec relais sur l’autre rive
+
+**Planifier l’atelier :** 6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Passe · Soutien · Relais · Circulation et transmission
 
@@ -4900,6 +5198,8 @@ Détails extraits le 2026-09-16 — Relays with Passing — Difficulty ; Coachin
 **Espace source :** 20 × 20 m
 
 ## Vider le terrain au tag contre la montre
+
+**Planifier l’atelier :** 3 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
 
 **Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
 

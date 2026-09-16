@@ -50,3 +50,7 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Poin
 ### Réglages à préparer pour ma séance
 
 - Définir les limites et dimensions adaptées au groupe.
+
+### Durée pour planifier l’atelier
+
+20 min — durée historique, périmètre à vérifier. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.

@@ -24,3 +24,6 @@ Historique conservé dans docs/archive/PROJECT_avant_consolidation.md. Les ancie
 ## Répartition du travail confirmée
 
 L’utilisateur confie ici les actions sur la base : affiner les informations existantes, attribuer les tags et permettre plusieurs catégories sans dupliquer les fiches. Le cadrage de l’application sera mené dans une autre conversation ; ne pas lancer son développement ici. Les tags sont versionnés dans data/exercise-tags.json et intégrés à la reconstruction. Aucune collecte supplémentaire.
+
+## Génération IA souhaitée
+L’utilisateur veut demander des propositions de séances selon ses attentes dans le créateur, puis les modifier et les adapter. Voir docs/GENERATION_SEANCES_IA.md. Préparer les données utiles ici ; cadrage et interface restent dans l’autre conversation. Les budgets de durée proposés sont séparés des faits sources et ne constituent pas des prescriptions d’effort.

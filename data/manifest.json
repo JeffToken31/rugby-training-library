@@ -175,6 +175,7 @@
       "data/ffr-atelier1-video-links.json"
     ],
     "tags": "data/exercise-tags.json",
-    "coach_cues": "data/coach-cues.json"
+    "coach_cues": "data/coach-cues.json",
+    "timings": "data/timing-proposals.json"
   }
 }

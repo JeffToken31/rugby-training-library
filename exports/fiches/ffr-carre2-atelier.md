@@ -73,3 +73,15 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Dur�
 **À regarder :** Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp.
 
 Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.
+
+### Durée pour planifier l’atelier
+
+Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+- Explication et démonstration : 60 s.
+- 2 à 3 séquences de 90 s, avec 30 s entre deux séquences pour récupérer, permuter ou corriger.
+- Retour final : 60 s.
+
+**Pour prolonger :** Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Les séquences incluent les passages et l’attente éventuelle ; adapter à l’effectif, aux réactions des enfants et au dispositif. Ce n’est pas une durée d’effort continu imposée.

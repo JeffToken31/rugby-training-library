@@ -55,3 +55,7 @@ Informations encore absentes : Critères de réussite, Erreurs fréquentes, Effe
 
 - Fixer le nombre de joueurs actifs et ceux en attente.
 - Vérifier la capacité du dispositif pour le groupe prévu.
+
+### Durée pour planifier l’atelier
+
+6 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.

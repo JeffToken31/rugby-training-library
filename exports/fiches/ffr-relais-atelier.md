@@ -52,3 +52,7 @@ Informations encore absentes : Organisation, Déroulement, Consignes, Critères 
 - Lister et préparer le matériel nécessaire.
 
 **Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**
+
+### Durée pour planifier l’atelier
+
+Durée non estimée : déroulement insuffisamment décrit.

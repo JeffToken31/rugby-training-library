@@ -108,6 +108,9 @@ def build(db, root, config):
     if config.get("tags"):
         import exercise_tags
         exercise_tags.attach(payload, read(root / config["tags"]))
+    if config.get("timings"):
+        import timing
+        timing.attach(payload, read(root / config["timings"]))
     payload["content_sha256"] = hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     return payload
 
@@ -150,4 +153,7 @@ def export(db, root, out, config):
     (out / "QUALITE_APPLICATION.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
     import fiche_preparation
     fiche_preparation.export(payload, out)
+    if config.get("timings"):
+        import timing
+        timing.export(payload, out)
     return payload["summary"]
