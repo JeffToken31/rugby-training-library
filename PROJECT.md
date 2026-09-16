@@ -85,3 +85,5 @@ Suspendre les nouveaux exercices ; poursuivre la complétion. Bilan exhaustif : 
 PDF atelier octobre reçu : docs/LIENS_VIDEO_ATELIER1.md. Sept liens page M8 extraits, dont quatre candidats utiles aux fiches. Lecture vidéo non validée ; ne plus redemander le PDF octobre.
 
 Carré 2 décrit oralement par utilisateur : docs/OBSERVATION_CARRE2.md et data/observation-carre2-20260916.json. Deux phases et installation renseignées comme observation rapportée, distincte de SOURCE et COACH_VALIDATED. Défense et fin du jeu demandées ; conserver les inconnues en attendant.
+
+Précision Carré 2 : voleurs non entravés, environ 30 secondes observées sans durée prescrite ni critère de fin confirmé. Rapidité = interprétation utilisateur, non validation officielle.

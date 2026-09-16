@@ -15,6 +15,12 @@ La formule dictée « envole le ballon » est interprétée comme « on vole les
 
 ## Points encore inconnus
 
-Possibilité de défendre ou toucher un voleur ; signal de fin et condition de victoire ; nombre exact de joueurs et de ballons ; dimensions ; durée. Aucun de ces paramètres n’est inventé.
+Signal de fin et condition de victoire ; nombre exact de joueurs et de ballons ; dimensions ; durée prescrite. Aucun de ces paramètres n’est inventé.
 
 Le récit apporte l’installation et les deux phases, mais reste une observation rapportée. Il ne modifie pas les compteurs de complétude sourcée. Comparer ensuite la structure au jeu au-nest-pass ; le simple changement de nom ne prouve pas un exercice distinct.
+
+## Précisions rapportées par l’utilisateur
+
+Les joueurs ne doivent pas empêcher les voleurs de prendre les ballons. Une durée d’environ 30 secondes est évoquée dans la description de la deuxième phase ; ce temps observé ne constitue pas une prescription. Le signal ou critère exact d’arrêt reste inconnu. Les hypothèses d’arrêt au temps, au nombre de ballons ou au ressenti ne sont pas enregistrées comme règles.
+
+L’utilisateur estime que le jeu sollicite la rapidité : interprétation pédagogique personnelle, non objectif officiel confirmé de la vidéo.
