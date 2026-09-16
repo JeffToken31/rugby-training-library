@@ -47,4 +47,17 @@ Famille proposée : Circulation du ballon et coordination collective.
 **Tags proposés :** Passe · Réception · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, duration_min, space.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Le joueur se relève à temps pour recevoir après avoir passé et s’être assis.
+
+**À regarder :** Distinguer les pertes de balle liées à la passe de celles liées au changement de posture.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

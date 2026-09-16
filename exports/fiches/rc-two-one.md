@@ -65,4 +65,17 @@ Famille proposée : Surnombre et soutien face à un opposant.
 **Tags proposés :** Passe · Soutien · Prise d’information · Surnombre
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : duration_min, space.
+Informations encore absentes : Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Le porteur transmet à son soutien lorsqu’il devient disponible face au défenseur.
+
+**À regarder :** Observer le choix entre avancer et passer, et pas seulement le nombre de passes.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

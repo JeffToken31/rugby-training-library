@@ -51,4 +51,8 @@ Famille proposée : Passes en progression collective.
 **Tags proposés :** Passe · Soutien · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors.
+Informations encore absentes : Erreurs fréquentes.
+
+### Réglages à préparer pour ma séance
+
+Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.

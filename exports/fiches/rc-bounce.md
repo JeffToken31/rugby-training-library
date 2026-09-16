@@ -49,4 +49,9 @@ Famille proposée : Passes en binôme et soutien.
 **Tags proposés :** Manipulation du ballon · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, duration_min, space.
+Informations encore absentes : Critères de réussite, Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.

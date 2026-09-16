@@ -49,4 +49,8 @@ Famille proposée : Passes en progression collective.
 **Tags proposés :** Soutien · Manipulation du ballon · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes.
+
+### Réglages à préparer pour ma séance
+
+Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.

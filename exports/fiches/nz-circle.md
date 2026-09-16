@@ -51,4 +51,8 @@ Famille proposée : Circulation du ballon et coordination collective.
 **Tags proposés :** Passe · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, duration_min.
+Informations encore absentes : Critères de réussite, Durée de l’atelier.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.

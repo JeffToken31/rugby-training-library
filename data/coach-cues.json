@@ -1,0 +1,226 @@
+{
+  "version": 1,
+  "scope": "Repères pédagogiques proposés à partir des descriptions existantes, sans nouvelle collecte et sans validation coach. Ils ne remplacent pas les critères des sources.",
+  "records": [
+    {
+      "variant_id": "rc-pairs",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "La passe atteint le partenaire en retrait sans l’obliger à s’arrêter.",
+      "coach_observation": "Regarder si le soutien reste disponible après le déplacement autour de l’obstacle."
+    },
+    {
+      "variant_id": "rc-two-one",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le porteur transmet à son soutien lorsqu’il devient disponible face au défenseur.",
+      "coach_observation": "Observer le choix entre avancer et passer, et pas seulement le nombre de passes."
+    },
+    {
+      "variant_id": "rc-piggy",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Un partenaire se déplace pour offrir une ligne de passe libre.",
+      "coach_observation": "Repérer si les non-porteurs restent cachés derrière l’intercepteur."
+    },
+    {
+      "variant_id": "rc-four-one",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le groupe enchaîne des passes sans interception en renouvelant les solutions.",
+      "coach_observation": "Observer le déplacement des passeurs entre deux réceptions."
+    },
+    {
+      "variant_id": "rc-calling-pairs",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le receveur appelle et contrôle le ballon pendant le déplacement.",
+      "coach_observation": "Regarder si l’appel précède la passe et si les binômes évitent de se gêner."
+    },
+    {
+      "variant_id": "rc-lateral-three",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Les trois joueurs font circuler le ballon dans les deux sens.",
+      "coach_observation": "Observer la disponibilité du joueur suivant avant chaque transmission."
+    },
+    {
+      "variant_id": "rc-triangle",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le joueur se relève à temps pour recevoir après avoir passé et s’être assis.",
+      "coach_observation": "Distinguer les pertes de balle liées à la passe de celles liées au changement de posture."
+    },
+    {
+      "variant_id": "rc-ten",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "L’équipe conserve le ballon en proposant des solutions au porteur.",
+      "coach_observation": "Repérer les joueurs immobiles et les passes tentées à travers un intercepteur."
+    },
+    {
+      "variant_id": "munster-gates",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le porteur repère une porte accessible et la franchit sans être touché.",
+      "coach_observation": "Observer s’il regarde les portes et les défenseurs avant de s’engager."
+    },
+    {
+      "variant_id": "munster-flamant",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "L’enfant retrouve une posture stable après le changement de pied.",
+      "coach_observation": "Observer la stabilité après le changement, sans transformer la durée tenue en classement des enfants."
+    },
+    {
+      "variant_id": "nz-pick-place",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le ballon est ramassé puis reposé avec contrôle à chaque emplacement.",
+      "coach_observation": "Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose."
+    },
+    {
+      "variant_id": "nz-shadow",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le partenaire suit les changements de direction en conservant la distance prévue.",
+      "coach_observation": "Observer la réaction aux changements d’appui, sans transformer le suivi en contact."
+    },
+    {
+      "variant_id": "nz-shadow-mirror",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le partenaire reste face au porteur pendant ses changements de direction.",
+      "coach_observation": "Observer le replacement après un changement de direction plutôt que la vitesse seule."
+    },
+    {
+      "variant_id": "nz-ground-pass",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le porteur touche le sol avec le ballon avant de transmettre à un partenaire disponible.",
+      "coach_observation": "Vérifier que la contrainte de toucher le sol n’efface pas la recherche d’une solution de passe."
+    },
+    {
+      "variant_id": "nz-memory",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Chaque enfant retrouve le destinataire prévu dans le circuit mémorisé.",
+      "coach_observation": "Distinguer une erreur de mémorisation d’une difficulté de transmission."
+    },
+    {
+      "variant_id": "ffr-ramasser",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "L’enfant maîtrise le ballon ramassé avant de le transmettre.",
+      "coach_observation": "Observer séparément le ramassage et la transmission pour identifier la difficulté."
+    },
+    {
+      "variant_id": "ffr-reception",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "L’enfant contrôle la passe tout en poursuivant son déplacement au petit trot.",
+      "coach_observation": "Repérer s’il regarde le ballon suffisamment tôt pour préparer sa réception."
+    },
+    {
+      "variant_id": "ffr-transmettre",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "L’enfant transmet au partenaire pendant son déplacement.",
+      "coach_observation": "Observer si le partenaire peut recevoir sans devoir courir après le ballon."
+    },
+    {
+      "variant_id": "au-nest-pass",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "Le ballon collecté rejoint le camp grâce à une passe contrôlée.",
+      "coach_observation": "Observer le lien entre collecteur et receveur ; rappeler la restitution prévue si le ballon tombe."
+    },
+    {
+      "variant_id": "ffr-carre2-atelier",
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "basis_fields": [
+        "fields.steps",
+        "fields.instructions"
+      ],
+      "success_indicator": "L’enfant rapporte un seul ballon à la fois et laisse les autres prendre les ballons librement.",
+      "coach_observation": "Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp."
+    }
+  ]
+}

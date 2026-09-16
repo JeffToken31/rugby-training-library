@@ -49,4 +49,13 @@ Famille proposée : Circulation du ballon et coordination collective.
 **Tags proposés :** Passe · Manipulation du ballon · Circulation et transmission
 Classement provisoire.
 
-Champs à préciser : organisation, success_criteria, common_errors, duration_min, players_min, players_max, space.
+Informations encore absentes : Organisation, Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**

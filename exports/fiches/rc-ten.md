@@ -53,4 +53,20 @@ Famille proposée : Conservation et interception.
 **Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors, duration_min, players_min, players_max, space, material.
+Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** L’équipe conserve le ballon en proposant des solutions au porteur.
+
+**À regarder :** Repérer les joueurs immobiles et les passes tentées à travers un intercepteur.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

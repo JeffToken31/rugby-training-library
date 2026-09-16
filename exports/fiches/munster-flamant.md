@@ -43,8 +43,24 @@ Famille proposée : Motricité et postures.
 **Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-**objectives — AI_INFERRED**
+**Objectif — proposition IA**
 
 Retrouver un équilibre sur un pied après un changement d’appui.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space, material.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** L’enfant retrouve une posture stable après le changement de pied.
+
+**À regarder :** Observer la stabilité après le changement, sans transformer la durée tenue en classement des enfants.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

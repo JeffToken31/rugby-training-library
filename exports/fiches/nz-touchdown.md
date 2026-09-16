@@ -49,4 +49,8 @@ Famille proposée : Réaction et course en duel.
 **Tags proposés :** Passe · Évitement · Course · Poursuite et délivrance
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, duration_min.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.

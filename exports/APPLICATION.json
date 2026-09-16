@@ -437,6 +437,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -460,6 +463,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "format:poursuite",
@@ -789,6 +804,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -814,6 +832,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "format:relais",
@@ -1143,6 +1183,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -1166,6 +1209,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement",
@@ -1493,6 +1548,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -1516,6 +1574,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement",
@@ -1843,6 +1913,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -1866,6 +1939,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:prise-information",
@@ -2104,6 +2189,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -2129,6 +2217,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "skill:manipulation",
         "skill:passe",
@@ -2456,6 +2566,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -2481,6 +2594,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "skill:course",
@@ -2808,6 +2943,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -2832,6 +2970,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "skill:course",
         "skill:jeu-pied",
@@ -3159,6 +3314,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -3184,6 +3342,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "skill:jeu-pied"
       ],
@@ -3507,6 +3687,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -3532,6 +3715,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:jeu-pied"
@@ -3855,6 +4060,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "au-nest-pass",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le ballon collecté rejoint le camp grâce à une passe contrôlée.",
+        "coach_observation": "Observer le lien entre collecteur et receveur ; rappeler la restitution prévue si le ballon tombe."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -3880,6 +4098,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:collecte",
         "skill:cooperation",
@@ -4120,6 +4360,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -4145,6 +4388,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -4472,6 +4737,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -4496,6 +4764,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "format:relais",
@@ -4825,6 +5110,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -4848,6 +5136,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "format:poursuite",
@@ -5177,6 +5477,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -5200,6 +5503,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "format:poursuite",
@@ -5529,6 +5844,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -5553,6 +5871,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:cooperation",
@@ -5882,6 +6217,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -5904,6 +6242,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:relais",
         "skill:cooperation",
@@ -6231,6 +6576,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -6256,6 +6604,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:jeu-pied",
@@ -6583,6 +6953,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -6606,6 +6979,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "skill:evitement",
         "skill:prise-information",
@@ -6933,6 +7318,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -6958,6 +7346,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -7189,6 +7599,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -7214,6 +7627,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:motricite"
@@ -7441,6 +7876,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -7466,6 +7904,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "skill:cooperation",
         "skill:passe"
@@ -7715,6 +8175,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -7740,6 +8203,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:manipulation",
@@ -7946,6 +8431,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -7978,6 +8466,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:manipulation"
       ],
@@ -8244,6 +8759,19 @@
         },
         "followup_note": "Utilisateur confirme que les voleurs ne doivent pas être empêchés ; hypothèses de fin au temps ou au ressenti non retenues comme règles."
       },
+      "coach_cues": {
+        "variant_id": "ffr-carre2-atelier",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "L’enfant rapporte un seul ballon à la fois et laisse les autres prendre les ballons librement.",
+        "coach_observation": "Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -8269,6 +8797,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:collecte",
         "skill:course",
@@ -8506,6 +9061,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -8528,6 +9086,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "skill:jeu-pied"
       ],
@@ -8775,6 +9340,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -8800,6 +9368,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:equilibre",
@@ -9006,6 +9596,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -9038,6 +9631,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:course"
@@ -9241,6 +9861,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -9273,6 +9896,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:cooperation",
         "skill:soutien"
@@ -9508,6 +10158,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": 8,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -9530,6 +10183,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "skill:prise-information",
         "skill:ramassage",
@@ -9759,6 +10419,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -9784,6 +10447,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -9990,6 +10675,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -10022,6 +10710,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:lutte"
       ],
@@ -10286,6 +11001,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -10309,6 +11027,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "skill:jeu-pied"
@@ -10580,6 +11315,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -10601,6 +11339,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -10836,6 +11581,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -10858,6 +11606,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:prise-information"
@@ -11089,6 +11844,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -11112,6 +11870,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:passe",
@@ -11367,6 +12137,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -11390,6 +12163,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:lutte"
@@ -11594,6 +12379,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -11626,6 +12414,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:equilibre"
@@ -11852,6 +12667,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -11877,6 +12695,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "skill:jeu-pied"
       ],
@@ -12079,6 +12919,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -12111,6 +12954,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:plaquage"
       ],
@@ -12312,6 +13182,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -12344,6 +13217,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:lutte"
       ],
@@ -12568,6 +13468,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "ffr-ramasser",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "L’enfant maîtrise le ballon ramassé avant de le transmettre.",
+        "coach_observation": "Observer séparément le ramassage et la transmission pour identifier la difficulté."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -12593,6 +13506,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -12824,6 +13759,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "ffr-reception",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "L’enfant contrôle la passe tout en poursuivant son déplacement au petit trot.",
+        "coach_observation": "Repérer s’il regarde le ballon suffisamment tôt pour préparer sa réception."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -12865,6 +13813,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:reception"
@@ -13069,6 +14039,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -13101,6 +14074,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:relais",
         "skill:motricite",
@@ -13351,6 +14351,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -13376,6 +14379,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:motricite"
@@ -13625,6 +14650,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -13650,6 +14678,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:equilibre",
@@ -13894,6 +14944,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -13925,6 +14978,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "skill:ramassage",
         "skill:reaction"
@@ -14165,6 +15225,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -14197,6 +15260,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:ramassage",
@@ -14426,6 +15501,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "ffr-transmettre",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "L’enfant transmet au partenaire pendant son déplacement.",
+        "coach_observation": "Observer si le partenaire peut recevoir sans devoir courir après le ballon."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -14467,6 +15555,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe"
@@ -14723,6 +15833,18 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [
+        {
+          "field": "balls",
+          "note": "Matériel : 5 ; récit : 6.",
+          "values": [
+            5,
+            6
+          ]
+        }
+      ],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -14745,6 +15867,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "format:relais",
@@ -14998,6 +16132,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -15021,6 +16158,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -15274,6 +16428,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "imagine-depth-running--rc-lateral-three",
@@ -15318,6 +16475,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -15556,6 +16720,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -15582,6 +16749,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:coordination",
@@ -15811,6 +17005,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -15836,6 +17033,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -16074,6 +17293,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "munster-flamant",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "L’enfant retrouve une posture stable après le changement de pied.",
+        "coach_observation": "Observer la stabilité après le changement, sans transformer la durée tenue en classement des enfants."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -16100,6 +17332,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:equilibre",
@@ -16338,6 +17597,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "munster-gates",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le porteur repère une porte accessible et la franchit sans être touché.",
+        "coach_observation": "Observer s’il regarde les portes et les défenseurs avant de s’engager."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -16363,6 +17635,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:evitement",
@@ -16601,6 +17895,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -16627,6 +17924,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:coordination",
@@ -16865,6 +18189,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -16891,6 +18218,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:motricite"
@@ -17118,6 +18472,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "scot-corner-munster",
@@ -17155,6 +18512,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -17386,6 +18765,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -17430,6 +18812,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -17668,6 +19067,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -17693,6 +19095,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -18058,6 +19482,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -18080,6 +19507,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "skill:coordination",
         "skill:manipulation"
@@ -18481,6 +19925,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -18501,6 +19948,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe"
@@ -18888,6 +20342,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "nz-corner--scot-corner",
@@ -18930,6 +20387,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -19249,6 +20713,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -19271,6 +20738,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:evitement"
@@ -19658,6 +21132,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -19679,6 +21156,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "skill:prise-information",
         "skill:reaction"
@@ -19996,6 +21480,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "nz-ground-pass",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le porteur touche le sol avec le ballon avant de transmettre à un partenaire disponible.",
+        "coach_observation": "Vérifier que la contrainte de toucher le sol n’efface pas la recherche d’une solution de passe."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -20018,6 +21515,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:conservation",
@@ -20397,6 +21901,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -20418,6 +21925,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "format:relais",
@@ -20683,6 +22197,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "nz-memory",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Chaque enfant retrouve le destinataire prévu dans le circuit mémorisé.",
+        "coach_observation": "Distinguer une erreur de mémorisation d’une difficulté de transmission."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -20705,6 +22232,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:manipulation",
@@ -21068,6 +22602,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -21089,6 +22626,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "format:relais",
@@ -21484,6 +23028,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -21506,6 +23053,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:prise-information"
@@ -21767,6 +23326,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -21789,6 +23351,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -22052,6 +23621,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -22074,6 +23646,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -22395,6 +23974,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -22417,6 +23999,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:evitement",
@@ -22770,6 +24359,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -22792,6 +24384,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "skill:course",
         "skill:ramassage",
@@ -23111,6 +24710,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -23135,6 +24737,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement"
@@ -23516,6 +25135,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "nz-pick-place",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le ballon est ramassé puis reposé avec contrôle à chaque emplacement.",
+        "coach_observation": "Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -23537,6 +25169,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:parcours",
         "skill:manipulation",
@@ -23856,6 +25495,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -23880,6 +25522,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "format:poursuite",
@@ -24203,6 +25862,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -24227,6 +25889,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "format:poursuite",
@@ -24490,6 +26169,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -24514,6 +26196,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -24833,6 +26532,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "nz-shadow",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le partenaire suit les changements de direction en conservant la distance prévue.",
+        "coach_observation": "Observer la réaction aux changements d’appui, sans transformer le suivi en contact."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -24857,6 +26569,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:evitement"
@@ -25174,6 +26903,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "nz-shadow-mirror",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le partenaire reste face au porteur pendant ses changements de direction.",
+        "coach_observation": "Observer le replacement après un changement de direction plutôt que la vitesse seule."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -25198,6 +26940,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:duel",
         "skill:evitement"
@@ -25515,6 +27274,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -25537,6 +27299,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:cooperation",
@@ -25922,6 +27691,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -25943,6 +27715,13 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -26264,6 +28043,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -26288,6 +28070,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:cooperation",
@@ -26533,6 +28332,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-aliens--rc-capture-aliens",
@@ -26579,6 +28381,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -26874,6 +28698,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -26895,6 +28722,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:manipulation"
@@ -27188,6 +29027,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -27218,6 +29060,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -27509,6 +29363,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-calling-pairs",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le receveur appelle et contrôle le ballon pendant le déplacement.",
+        "coach_observation": "Regarder si l’appel précède la passe et si les binômes évitent de se gêner."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-calling-pairs--rc-pairs",
@@ -27545,6 +29412,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -27810,6 +29699,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-aliens--rc-capture-aliens",
@@ -27867,6 +29759,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -28132,6 +30046,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-chaos-touch--rc-netball",
@@ -28169,6 +30086,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:passe",
@@ -28426,6 +30365,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -28450,6 +30392,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:coordination",
@@ -28715,6 +30679,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -28739,6 +30706,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:prise-information"
@@ -29027,6 +31016,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -29051,6 +31043,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:collecte",
         "skill:course",
@@ -29304,6 +31318,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -29329,6 +31346,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:passe",
@@ -29616,6 +31655,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-four-one",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le groupe enchaîne des passes sans interception en renouvelant les solutions.",
+        "coach_observation": "Observer le déplacement des passeurs entre deux réceptions."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "four-one-piggy",
@@ -29678,6 +31730,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "format:surnombre",
@@ -29967,6 +32031,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-lateral-three",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Les trois joueurs font circuler le ballon dans les deux sens.",
+        "coach_observation": "Observer la disponibilité du joueur suivant avant chaque transmission."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "imagine-depth-running--rc-lateral-three",
@@ -30011,6 +32088,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe"
@@ -30254,6 +32343,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -30279,6 +32371,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:prise-information",
@@ -30533,6 +32647,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-chaos-touch--rc-netball",
@@ -30570,6 +32687,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -30837,6 +32976,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -30862,6 +33004,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:prise-information",
@@ -31186,6 +33350,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-pairs",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "La passe atteint le partenaire en retrait sans l’obliger à s’arrêter.",
+        "coach_observation": "Regarder si le soutien reste disponible après le déplacement autour de l’obstacle."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-calling-pairs--rc-pairs",
@@ -31218,6 +33395,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -31497,6 +33686,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -31521,6 +33713,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe"
@@ -31843,6 +34057,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-piggy",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Un partenaire se déplace pour offrir une ligne de passe libre.",
+        "coach_observation": "Repérer si les non-porteurs restent cachés derrière l’intercepteur."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "four-one-piggy",
@@ -31875,6 +34102,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "format:surnombre",
@@ -32138,6 +34377,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -32161,6 +34403,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation"
@@ -32412,6 +34666,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -32437,6 +34694,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "skill:cooperation",
         "skill:course",
@@ -32730,6 +35009,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -32753,6 +35035,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -33053,6 +35357,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -33076,6 +35383,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -33321,6 +35650,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -33356,6 +35688,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:course",
@@ -33621,6 +35975,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -33645,6 +36002,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -33887,6 +36266,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "scarecrow-corner",
@@ -33933,6 +36315,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -34258,6 +36662,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-ten",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "L’équipe conserve le ballon en proposant des solutions au porteur.",
+        "coach_observation": "Repérer les joueurs immobiles et les passes tentées à travers un intercepteur."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -34292,6 +36709,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:conservation",
@@ -34569,6 +37013,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-triangle",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le joueur se relève à temps pour recevoir après avoir passé et s’être assis.",
+        "coach_observation": "Distinguer les pertes de balle liées à la passe de celles liées au changement de posture."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-triangle--wr-chain-reaction",
@@ -34613,6 +37070,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -34880,6 +37349,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -34917,6 +37389,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": false
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:manipulation",
@@ -35240,6 +37734,19 @@
         }
       ],
       "observation": null,
+      "coach_cues": {
+        "variant_id": "rc-two-one",
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "basis_fields": [
+          "fields.steps",
+          "fields.instructions"
+        ],
+        "success_indicator": "Le porteur transmet à son soutien lorsqu’il devient disponible face au défenseur.",
+        "coach_observation": "Observer le choix entre avancer et passer, et pas seulement le nombre de passes."
+      },
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-two-one--wr-tag-2v1",
@@ -35281,6 +37788,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:surnombre",
         "skill:passe",
@@ -35529,6 +38048,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -35553,6 +38075,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:prise-information"
       ],
@@ -35816,6 +38355,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -35841,6 +38383,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement",
@@ -36150,6 +38714,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -36175,6 +38742,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:evitement",
@@ -36419,6 +39008,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": 60,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -36445,6 +39037,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -36733,6 +39352,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -36759,6 +39381,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement"
@@ -37026,6 +39675,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": 60,
       "related_candidates": [
         {
           "id": "nz-corner--scot-corner",
@@ -37106,6 +39758,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -37410,6 +40089,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -37435,6 +40117,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:motricite"
@@ -37737,6 +40441,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -37762,6 +40469,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:coordination",
@@ -38029,6 +40758,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -38054,6 +40786,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -38358,6 +41112,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -38383,6 +41140,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:equilibre",
@@ -38687,6 +41466,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -38712,6 +41494,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:coordination",
@@ -39016,6 +41820,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -39041,6 +41848,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:motricite-individuelle",
         "skill:motricite"
@@ -39343,6 +42172,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -39368,6 +42200,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "CONFLICTING",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "CONFLICTING",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:cooperation",
@@ -39635,6 +42489,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -39660,6 +42517,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:opposition-collective",
         "skill:passe",
@@ -39919,6 +42798,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -39944,6 +42826,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:relais",
         "skill:course",
@@ -40250,6 +43159,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -40275,6 +43187,28 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_STATED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement",
@@ -40521,6 +43455,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -40545,6 +43482,23 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:coordination",
@@ -40787,6 +43741,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": 90,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -40813,6 +43770,33 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
       "tag_ids": [
         "skill:evitement"
       ],
@@ -41118,6 +44102,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -41139,6 +44126,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement",
@@ -41536,6 +44524,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "imagine-depth-running--wr-chain-reaction",
@@ -41578,6 +44569,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -41955,6 +44947,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -41975,6 +44970,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -42288,6 +45284,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": 60,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -42307,6 +45306,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement"
@@ -42656,6 +45656,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -42676,6 +45679,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "skill:evitement"
@@ -43019,6 +46023,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -43041,6 +46048,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [
+        {
+          "field": "players_min",
+          "state": "NOT_STATED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_STATED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        }
+      ],
       "tag_ids": [
         "format:circulation",
         "skill:cooperation",
@@ -43408,6 +46427,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "wr-follow-leader--wr-pass-support",
@@ -43440,6 +46462,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:circulation",
         "skill:manipulation",
@@ -43805,6 +46828,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "wr-formation--wr-pass-support",
@@ -43837,6 +46863,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:circulation",
         "skill:passe",
@@ -44228,6 +47255,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-four-one--wr-keep-ball",
@@ -44268,6 +47298,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "skill:conservation",
@@ -44649,6 +47680,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -44669,6 +47703,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
@@ -44952,6 +47987,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -44972,6 +48010,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "format:surnombre",
@@ -45367,6 +48406,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "wr-follow-leader--wr-pass-support",
@@ -45409,6 +48451,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:circulation",
         "format:relais",
@@ -45776,6 +48819,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-lateral-three--wr-passing-relays",
@@ -45808,6 +48854,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:circulation",
         "format:relais",
@@ -46103,6 +49150,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": 60,
       "related_candidates": [],
       "comparison_reviews": [
         {
@@ -46152,6 +49202,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:poursuite",
         "skill:evitement"
@@ -46541,6 +49592,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [
         {
           "id": "rc-two-one--wr-tag-2v1",
@@ -46581,6 +49635,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "format:surnombre",
@@ -46976,6 +50031,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -46995,6 +50053,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "format:surnombre",
@@ -47358,6 +50417,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -47378,6 +50440,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "format:surnombre",
@@ -47759,6 +50822,9 @@
         }
       ],
       "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
       "related_candidates": [],
       "comparison_reviews": [],
       "quality": {
@@ -47779,6 +50845,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
+      "preparation_questions": [],
       "tag_ids": [
         "format:opposition-collective",
         "skill:cooperation",
@@ -48041,5 +51108,5 @@
       }
     ]
   },
-  "content_sha256": "a1dacf3cf218ac624fb91e991d29b4aabff33ca0e708caef56679dbfb400e423"
+  "content_sha256": "46b5eb91a1b4d7ffd9f57fa10fb304b912f7ba024bb6940d43d1bdf36c1899e4"
 }

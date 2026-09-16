@@ -43,8 +43,16 @@ Famille proposée : Motricité et postures.
 **Tags proposés :** Motricité · Motricité individuelle
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-**objectives — AI_INFERRED**
+**Objectif — proposition IA**
 
 Contrôler une impulsion verticale et le retour au sol.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space, material.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.

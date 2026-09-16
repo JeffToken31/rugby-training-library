@@ -57,3 +57,7 @@ Les 17 compétences et 10 formes de jeu sont combinables. Un même identifiant p
 `exercise_tags.select` implémente ET/OU, rejette les tags inconnus et exclut par défaut les fiches INCOMPLETE. Le tag Plaquage pointe actuellement vers une fiche encore incomplète : afficher ce manque plutôt que proposer une autre activité de contact comme équivalente. Absence d’un tag ≠ preuve d’absence d’une compétence. Niveau de contact et adéquation U8 restent distincts et non déduits.
 
 La dimension « forme de jeu » n’est pas forcée quand aucun des formats définis ne décrit correctement la fiche. Les tags sont affichés dans le catalogue, dans chaque fiche et dans exports/CATEGORIES.md.
+
+## Repères de préparation des fiches
+
+`preparation_questions` contient les réglages à définir selon les paramètres absents ou contradictoires : champ, état documentaire et question lisible. Ce ne sont pas des règles ajoutées à la source. `coach_cues`, lorsqu’il existe, contient un indicateur observable et un point d’observation proposés (AI_INFERRED), avec date et champs de référence. Les critères documentaires restent dans `fields.success_criteria` sans remplacement. Vingt fiches bénéficient de ces compléments ; les autres restent sans proposition plutôt que recevoir un texte générique. `source_conflicts` et `bout_seconds` conservent aussi les contradictions historiques et les durées de manche, distinctes de la durée totale.

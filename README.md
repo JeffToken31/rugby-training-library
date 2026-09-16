@@ -3,6 +3,7 @@
 **150 fiches conservées, 22 familles proposées, aucune collecte supplémentaire.** Ce n’est pas un décompte de jeux uniques. Dépôt privé, sans données enfants.
 
 - [Bilan actuel des 150 fiches](exports/QUALITE_APPLICATION.md)
+- [Repères pédagogiques ajoutés aux fiches](exports/AMELIORATIONS_FICHES.md)
 - [Exercices par compétence et forme de jeu](exports/CATEGORIES.md)
 - [Catalogue et descriptions](exports/CATALOGUE.md)
 - [Cadrage du créateur de séances](docs/INTERFACE_SEANCES.md)

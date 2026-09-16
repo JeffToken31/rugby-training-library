@@ -47,4 +47,8 @@ Famille proposée : Chasse, immobilisation et délivrance.
 **Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, coach_points.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention.
+
+### Réglages à préparer pour ma séance
+
+Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.

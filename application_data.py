@@ -39,6 +39,9 @@ def build(db, root, config):
     for r in relations + reviews:
         if r["left_id"] not in ids or r["right_id"] not in ids:
             raise ValueError("Rapprochement hors corpus")
+    cues = unique(read(root / config["coach_cues"])["records"], "variant_id") if config.get("coach_cues") else {}
+    if set(cues) - ids or any(c["origin"] != "AI_INFERRED" for c in cues.values()):
+        raise ValueError("Repères pédagogiques invalides")
     records = []
     for e in items:
         eid = e["id"]
@@ -82,13 +85,18 @@ def build(db, root, config):
             "u8_proposed_settings":e.get("u8_plan"), "participants_scope":e.get("participants_scope"),
             "fields":fields, "documentary_fields":source_fields, "source":e["source"],
             "locator":e["locator"], "references":e.get("references", []), "history":e.get("enrichment_history", []),
-            "observation":observation, "related_candidates":related, "comparison_reviews":reviewed,
+            "observation":observation, "coach_cues":cues.get(eid),
+            "source_conflicts":e.get("source_conflicts", []), "bout_seconds":e.get("bout_seconds"),
+            "related_candidates":related, "comparison_reviews":reviewed,
             "quality":{"state":state, "missing_core":missing,
                 "missing_fields":[f for f in enrichments.FIELDS if fields[f]["state"] != "PRESENT"],
                 "core_origins":{f:fields[f].get("origin") for f in CORE},
                 "coach_validated":False, "u8_suitability":"TO_REVIEW", "contact_level":"UNKNOWN",
                 "default_visible":state != "INCOMPLETE"},
         })
+    import fiche_preparation
+    for record in records:
+        record["preparation_questions"] = fiche_preparation.preparation(record)
     counts = dict(sorted(Counter(e["quality"]["state"] for e in records).items()))
     payload = {"schema_version":1, "core_fields":list(CORE), "field_names":list(enrichments.FIELDS),
         "families":list(families.values()), "exercises":records,
@@ -134,10 +142,12 @@ def export(db, root, out, config):
                 item = e["fields"][f]
                 if item.get("origin") in ("AI_INFERRED", "USER_REPORTED") and item != e["documentary_fields"][f]:
                     value = item["value"]
-                    extra += ["", f"**{f} — {item['origin']}**", "", " ; ".join(value) if isinstance(value, list) else value]
+                    extra += ["", f"**{dict(objectives='Objectif', organisation='Organisation', steps='Déroulement', instructions='Consignes')[f]} — {dict(AI_INFERRED='proposition IA', USER_REPORTED='observation rapportée')[item['origin']]}**", "", " ; ".join(value) if isinstance(value, list) else value]
             if e["observation"]:
                 extra += ["", "Incertitudes : " + " ; ".join(e["observation"]["uncertainties"]), "Environ 30 secondes rapportées : observation, pas une durée prescrite."]
             extra += ["", "Champs à préciser : " + (", ".join(e["quality"]["missing_fields"]) or "aucun parmi les champs suivis") + ".", ""]
             path.write_text(path.read_text(encoding="utf-8") + "\n".join(extra), encoding="utf-8")
     (out / "QUALITE_APPLICATION.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
+    import fiche_preparation
+    fiche_preparation.export(payload, out)
     return payload["summary"]

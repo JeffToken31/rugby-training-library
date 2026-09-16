@@ -49,4 +49,9 @@ Famille proposée : Parcours et relais avec ballon.
 **Tags proposés :** Motricité · Ramassage du ballon · Course · Relais · Parcours
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors, coach_points, duration_min, space.
+Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.

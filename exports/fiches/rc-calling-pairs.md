@@ -47,4 +47,19 @@ Famille proposée : Passes en binôme et soutien.
 **Tags proposés :** Passe · Réception · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors, coach_points, duration_min, players_min, players_max, space.
+Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Le receveur appelle et contrôle le ballon pendant le déplacement.
+
+**À regarder :** Regarder si l’appel précède la passe et si les binômes évitent de se gêner.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

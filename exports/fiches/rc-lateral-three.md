@@ -49,4 +49,17 @@ Famille proposée : Passes en progression collective.
 **Tags proposés :** Passe · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, duration_min, space.
+Informations encore absentes : Critères de réussite, Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Les trois joueurs font circuler le ballon dans les deux sens.
+
+**À regarder :** Observer la disponibilité du joueur suivant avant chaque transmission.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

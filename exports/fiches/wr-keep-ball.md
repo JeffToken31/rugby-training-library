@@ -51,4 +51,8 @@ Famille proposée : Conservation et interception.
 **Tags proposés :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors.
+Informations encore absentes : Erreurs fréquentes.
+
+### Réglages à préparer pour ma séance
+
+Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.

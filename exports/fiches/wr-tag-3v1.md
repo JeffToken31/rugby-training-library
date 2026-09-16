@@ -53,4 +53,8 @@ Famille proposée : Surnombre et soutien face à un opposant.
 **Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors.
+Informations encore absentes : Erreurs fréquentes.
+
+### Réglages à préparer pour ma séance
+
+Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour.

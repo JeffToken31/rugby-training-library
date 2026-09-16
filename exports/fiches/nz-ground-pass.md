@@ -47,4 +47,16 @@ Famille proposée : Conservation et interception.
 **Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Le porteur touche le sol avec le ballon avant de transmettre à un partenaire disponible.
+
+**À regarder :** Vérifier que la contrainte de toucher le sol n’efface pas la recherche d’une solution de passe.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

@@ -47,4 +47,16 @@ Famille proposée : Circulation du ballon et coordination collective.
 **Tags proposés :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Chaque enfant retrouve le destinataire prévu dans le circuit mémorisé.
+
+**À regarder :** Distinguer une erreur de mémorisation d’une difficulté de transmission.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

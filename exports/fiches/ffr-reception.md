@@ -45,4 +45,19 @@ Famille proposée : Ramasser, recevoir et transmettre.
 **Tags proposés :** Réception · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** L’enfant contrôle la passe tout en poursuivant son déplacement au petit trot.
+
+**À regarder :** Repérer s’il regarde le ballon suffisamment tôt pour préparer sa réception.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

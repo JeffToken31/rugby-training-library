@@ -41,19 +41,35 @@ Famille proposée : Collecte de ballons.
 **Tags proposés :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-**organisation — USER_REPORTED**
+**Organisation — observation rapportée**
 
 Trois groupes de cinq à six enfants environ, chacun avec son camp ; ballons au centre ; numéros attribués aux enfants dans chaque groupe.
 
-**steps — USER_REPORTED**
+**Déroulement — observation rapportée**
 
 Au numéro appelé, les enfants correspondants prennent un ballon au centre et le rapportent dans leur camp. Les appels se succèdent rapidement. ; Lorsque le centre est vide, tous peuvent prendre des ballons dans les camps adverses et les rapporter dans le leur, un ballon à la fois.
 
-**instructions — USER_REPORTED**
+**Consignes — observation rapportée**
 
 Ne pas empêcher les voleurs de venir prendre les ballons. ; Transporter un seul ballon à la fois.
 
 Incertitudes : Numérotation décrite de 1 à 5, alors que les groupes pourraient comprendre six enfants : nombre exact non confirmé. ; Fin de jeu et désignation du vainqueur non précisées. ; Dimensions et nombre total de ballons inconnus ; durée prescrite inconnue malgré environ 30 secondes observées.
 Environ 30 secondes rapportées : observation, pas une durée prescrite.
 
-Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space, material.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** L’enfant rapporte un seul ballon à la fois et laisse les autres prendre les ballons librement.
+
+**À regarder :** Observer la réaction au numéro puis le changement de fonctionnement lorsque le centre est vide. Ne pas introduire de défense du camp.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

@@ -49,4 +49,10 @@ Famille proposée : Jeu et conduite au pied.
 **Tags proposés :** Jeu au pied · Parcours
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors, coach_points, duration_min, players_min, players_max.
+Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif minimum, Effectif maximum.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.

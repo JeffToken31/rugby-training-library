@@ -65,4 +65,17 @@ Famille proposée : Passes en binôme et soutien.
 **Tags proposés :** Passe · Soutien · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : duration_min, space.
+Informations encore absentes : Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** La passe atteint le partenaire en retrait sans l’obliger à s’arrêter.
+
+**À regarder :** Regarder si le soutien reste disponible après le déplacement autour de l’obstacle.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

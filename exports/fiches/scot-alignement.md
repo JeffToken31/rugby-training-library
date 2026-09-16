@@ -43,8 +43,14 @@ Famille proposée : Alignement collectif.
 **Tags proposés :** Prise d’information
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-**objectives — AI_INFERRED**
+**Objectif — proposition IA**
 
 Observer les positions des partenaires et choisir une place pour former un alignement.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space, material.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Espace, Matériel.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.

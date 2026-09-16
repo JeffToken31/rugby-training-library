@@ -49,4 +49,8 @@ Famille proposée : Ramasser, recevoir et transmettre.
 **Tags proposés :** Passe · Réception · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors, coach_points, duration_min.
+Informations encore absentes : Erreurs fréquentes, Points d’attention, Durée de l’atelier.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.

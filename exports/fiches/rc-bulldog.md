@@ -49,4 +49,9 @@ Famille proposée : Traversée de défenses.
 **Tags proposés :** Évitement · Course · Poursuite et délivrance
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : common_errors, duration_min, space.
+Informations encore absentes : Erreurs fréquentes, Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.

@@ -41,4 +41,14 @@ Famille proposée : Motricité et postures.
 **Tags proposés :** Équilibre et postures · Motricité individuelle
 Classement provisoire.
 
-Champs à préciser : organisation, steps, instructions, success_criteria, common_errors, duration_min, players_min, players_max, space, material.
+Informations encore absentes : Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**

@@ -65,4 +65,17 @@ Famille proposée : Conservation et interception.
 **Tags proposés :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : duration_min, space.
+Informations encore absentes : Durée de l’atelier, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Définir les limites et dimensions adaptées au groupe.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Un partenaire se déplace pour offrir une ligne de passe libre.
+
+**À regarder :** Repérer si les non-porteurs restent cachés derrière l’intercepteur.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

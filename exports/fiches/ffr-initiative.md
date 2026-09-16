@@ -45,4 +45,8 @@ Famille proposée : Créer et exploiter un espace en opposition.
 **Tags proposés :** Prise d’information · Opposition collective
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, coach_points, space.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Définir les limites et dimensions adaptées au groupe.

@@ -49,4 +49,9 @@ Famille proposée : Passes en binôme et soutien.
 **Tags proposés :** Passe · Coopération · Ramassage du ballon · Circulation et transmission
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, players_min, players_max.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Effectif minimum, Effectif maximum.
+
+### Réglages à préparer pour ma séance
+
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.

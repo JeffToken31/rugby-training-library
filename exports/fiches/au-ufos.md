@@ -51,4 +51,9 @@ Famille proposée : Ramasser, recevoir et transmettre.
 **Tags proposés :** Réception · Évitement · Prise d’information
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_max.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier, Effectif maximum.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Vérifier la capacité du dispositif pour le groupe prévu.

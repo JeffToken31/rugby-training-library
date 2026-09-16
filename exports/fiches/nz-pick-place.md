@@ -49,4 +49,16 @@ Famille proposée : Parcours et relais avec ballon.
 **Tags proposés :** Manipulation du ballon · Ramassage du ballon · Parcours
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-Champs à préciser : success_criteria, coach_points, duration_min.
+Informations encore absentes : Critères de réussite, Points d’attention, Durée de l’atelier.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+### Repères pédagogiques proposés — à adapter par l’éducateur
+
+**Indicateur observable :** Le ballon est ramassé puis reposé avec contrôle à chaque emplacement.
+
+**À regarder :** Regarder si l’enfant ralentit suffisamment pour contrôler le ramassage et la pose.
+
+Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source.

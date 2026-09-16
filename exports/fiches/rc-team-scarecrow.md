@@ -45,8 +45,15 @@ Famille proposée : Chasse collective par passes.
 **Tags proposés :** Passe · Coopération · Poursuite et délivrance
 Classement éditorial ; plusieurs catégories possibles sans duplication.
 
-**objectives — AI_INFERRED**
+**Objectif — proposition IA**
 
 Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.
 
-Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.
+Informations encore absentes : Critères de réussite, Erreurs fréquentes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace.
+
+### Réglages à préparer pour ma séance
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
