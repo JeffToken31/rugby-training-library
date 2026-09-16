@@ -1,0 +1,26 @@
+{
+  "id": "ffr-carre2-user-observation-20260916",
+  "variant_id": "ffr-carre2-atelier",
+  "evidence_type": "USER_REPORTED_VIDEO_OBSERVATION",
+  "reported_on": "2026-09-16",
+  "video_url": "https://www.dailymotion.com/video/x842tna",
+  "verification": "Vidéo décrite par utilisateur ; non visionnée par assistant ; aucune validation pédagogique implicite",
+  "organisation": "Trois groupes de cinq à six enfants environ, chacun avec son camp ; ballons au centre ; numéros attribués aux enfants dans chaque groupe.",
+  "steps": [
+    "Au numéro appelé, les enfants correspondants prennent un ballon au centre et le rapportent dans leur camp. Les appels se succèdent rapidement.",
+    "Lorsque le centre est vide, tous peuvent prendre des ballons dans les camps adverses et les rapporter dans le leur, un ballon à la fois."
+  ],
+  "uncertainties": [
+    "Numérotation décrite de 1 à 5, alors que les groupes pourraient comprendre six enfants : nombre exact non confirmé.",
+    "Possibilité de défendre ou toucher les voleurs non précisée.",
+    "Fin de jeu et désignation du vainqueur non précisées.",
+    "Dimensions, durée et nombre total de ballons inconnus."
+  ],
+  "transcription_interpretation": {
+    "heard": "Allez, envole le ballon",
+    "proposed": "Allez, on vole les ballons",
+    "origin": "AI_INFERRED",
+    "basis": "La phase suivante est décrite explicitement comme une prise dans les camps adverses."
+  },
+  "deduplication_note": "Comparer au-nest-pass avant de considérer cette situation comme unique ; aucune fusion sur la seule ressemblance."
+}

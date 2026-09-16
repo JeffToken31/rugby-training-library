@@ -83,3 +83,5 @@ Lot FFR : docs/LOT_FFR_ESSENTIELS_2026-09-16.md. Quatre archives pédagogiques c
 Suspendre les nouveaux exercices ; poursuivre la complétion. Bilan exhaustif : docs/COMPLETION_150.md et data/completion-audit-20260916.json. 123 fiches avec quatre champs essentiels ; 17 objectifs non documentés ; 10 cas nécessitant un support visuel. 150 enrichies ne signifie pas 150 complètes. Dernière reprise : 16 fiches enrichies. Ne pas annoncer la fin avant résolution des manques.
 
 PDF atelier octobre reçu : docs/LIENS_VIDEO_ATELIER1.md. Sept liens page M8 extraits, dont quatre candidats utiles aux fiches. Lecture vidéo non validée ; ne plus redemander le PDF octobre.
+
+Carré 2 décrit oralement par utilisateur : docs/OBSERVATION_CARRE2.md et data/observation-carre2-20260916.json. Deux phases et installation renseignées comme observation rapportée, distincte de SOURCE et COACH_VALIDATED. Défense et fin du jeu demandées ; conserver les inconnues en attendant.
