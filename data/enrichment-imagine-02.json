@@ -1,0 +1,39 @@
+{
+  "enrichments": [
+    {
+      "id": "imagine-depth-running-detail-1",
+      "variant_id": "imagine-depth-running",
+      "source_id": "imagine-games-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Construire la profondeur et l’espace de la ligne offensive."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer latéralement ou en arrière."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Montrer les mains et accompagner la passe vers sa cible. Ralentir ou décaler les cônes si la profondeur manque."
+        }
+      }
+    }
+  ]
+}

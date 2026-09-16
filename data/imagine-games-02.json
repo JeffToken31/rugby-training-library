@@ -1,0 +1,34 @@
+{
+  "exercises": [
+    {
+      "id": "imagine-depth-running",
+      "source_id": "imagine-games-source",
+      "title": "Créer la profondeur par des départs en postures décalées",
+      "original_title": "Depth Running",
+      "summary": "Quatre passeurs partent de postures différentes pour former une ligne en profondeur.",
+      "theme": "passe et soutien",
+      "age_source": "Intermédiaire ; âge non précisé",
+      "players_min": 4,
+      "players_max": 4,
+      "participants_scope": "Par vague ; plusieurs vagues possibles",
+      "duration_min": null,
+      "space": "20 × 20 yards",
+      "material": "Ballons et huit cônes",
+      "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+      "status": "documented",
+      "review": "Durée source : 10–15 minutes. Validation U8 non effectuée. Comparaison éditoriale : même famille que les passes en progression, départs corporels distincts organisant la profondeur.",
+      "adaptation_u8": "Proposition IA : commencer à allure lente ; vérifier que chacun se relève aisément avant de poursuivre."
+    }
+  ],
+  "duplicate_candidates": [
+    {
+      "id": "imagine-depth-running--rc-lateral-three",
+      "left_id": "imagine-depth-running",
+      "right_id": "rc-lateral-three",
+      "score": 0.65,
+      "relation": "DIFFERENT_VARIANT",
+      "method_version": "editorial-20260916",
+      "explanation": "Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité."
+    }
+  ]
+}

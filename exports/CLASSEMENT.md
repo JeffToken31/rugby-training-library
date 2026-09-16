@@ -393,3 +393,7 @@ Le bilan des 91 fiches ci-dessus est le périmètre de l’audit initial. Le cor
 ## 14 septembre : 149 fiches
 
 F08 : [Passes froides puis chaudes](fiches/imagine-cold-hot.md). 138 candidates, 9 descriptions insuffisantes et 2 composites ; unicité non certifiée.
+
+## Complément du 16 septembre 2026
+
+150 fiches classées. imagine-depth-running rejoint F09 ; comparaison conservée avec rc-lateral-three, sans fusion. Le nombre de fiches ne certifie pas le nombre de jeux uniques.

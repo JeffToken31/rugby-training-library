@@ -6917,6 +6917,146 @@
       "references": []
     },
     {
+      "adaptation_u8": "Proposition IA : commencer à allure lente ; vérifier que chacun se relève aisément avant de poursuivre.",
+      "age_source": "Intermédiaire ; âge non précisé",
+      "duration_min": null,
+      "id": "imagine-depth-running",
+      "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+      "material": "Ballons et huit cônes",
+      "original_title": "Depth Running",
+      "participants_scope": "Par vague ; plusieurs vagues possibles",
+      "players_max": 4,
+      "players_min": 4,
+      "review": "Durée source : 10–15 minutes. Validation U8 non effectuée. Comparaison éditoriale : même famille que les passes en progression, départs corporels distincts organisant la profondeur.",
+      "source_id": "imagine-games-source",
+      "space": "20 × 20 yards",
+      "status": "documented",
+      "summary": "Quatre passeurs partent de postures différentes pour former une ligne en profondeur.",
+      "theme": "passe et soutien",
+      "title": "Créer la profondeur par des départs en postures décalées",
+      "coach_points": "Montrer les mains et accompagner la passe vers sa cible. Ralentir ou décaler les cônes si la profondeur manque.",
+      "instructions": "Passer latéralement ou en arrière.",
+      "objectives": "Construire la profondeur et l’espace de la ligne offensive.",
+      "organisation": "Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos.",
+      "steps": "Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Construire la profondeur et l’espace de la ligne offensive.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+            "revision_id": "imagine-depth-running-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+            "revision_id": "imagine-depth-running-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+            "revision_id": "imagine-depth-running-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer latéralement ou en arrière.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+            "revision_id": "imagine-depth-running-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Montrer les mains et accompagner la passe vers sa cible. Ralentir ou décaler les cônes si la profondeur manque.",
+          "provenance": {
+            "source_id": "imagine-games-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+            "revision_id": "imagine-depth-running-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_EXTRACTED"
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "imagine-games-source",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026",
+        "revision_id": "imagine-depth-running-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "imagine-depth-running-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture",
+        "checked_on": "2026-09-14",
+        "format": "PDF",
+        "id": "imagine-games-source",
+        "language": "en",
+        "publisher": "Imagine Rugby / Youth Rugby Initiative",
+        "qualification_note": "Recueil multi-exercices, non séance ; une carte extraite seulement. Les autres cartes ne sont pas comptées.",
+        "resource_type": "PEDAGOGICAL_CONTENT",
+        "title": "Imagine Rugby Game Cards",
+        "url": "https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
       "adaptation_u8": null,
       "age_source": "M8",
       "contact": "non renseigné",

@@ -17,6 +17,21 @@ Variantes distinctes proposées. Même principe de conservation ; quatre passeur
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
 
+## Créer la profondeur par des départs en postures décalées / Passes latérales en vagues de trois
+
+Variantes distinctes proposées. Même famille de passes en progression. Ici quatre postures initiales créent le décalage ; la fiche RugbyCoaching utilise une ligne repère à trois. Comparaison IA, sans fusion ni certification d’unicité.
+
+| Information | [Créer la profondeur par des départs en postures décalées](fiches/imagine-depth-running.md) | [Passes latérales en vagues de trois](fiches/rc-lateral-three.md) |
+|---|---|---|
+| Principe | Quatre passeurs partent de postures différentes pour former une ligne en profondeur. | Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés. |
+| Organisation | Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos. | Vagues de trois, avec une ligne repère. |
+| Déroulement | Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file. | Transmettre successivement puis travailler dans l’autre sens. |
+| Consignes | Passer latéralement ou en arrière. | Rester derrière le porteur et montrer les mains tôt. |
+| Âge indiqué | Intermédiaire ; âge non précisé | U7 (classement du site) ; adéquation U8 à valider |
+| Passage source | Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026 | Description / Video Subtitles |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
 ## Chasse collective avec retour après ballon tombé / Chasseurs passeurs par trois
 
 À examiner. Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.

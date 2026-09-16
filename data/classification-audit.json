@@ -1455,6 +1455,15 @@
       "discriminant": "Alternance apprentissage lent puis circulation rapide avec technique conservée ; ni circuit mémorisé ni changement de posture.",
       "source_id": "imagine-games-source",
       "locator": "Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié"
+    },
+    {
+      "variant_id": "imagine-depth-running",
+      "family_id": "F09",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Départs simultanés depuis quatre postures pour créer le décalage des passeurs.",
+      "source_id": "imagine-games-source",
+      "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026"
     }
   ],
   "pair_reviews": [

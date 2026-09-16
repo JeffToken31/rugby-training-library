@@ -1,6 +1,6 @@
 # Choisir un exercice
 
-149 fiches — les propositions terrain restent à valider par le coach.
+150 fiches — les propositions terrain restent à valider par le coach.
 
 [Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)
 
@@ -194,6 +194,7 @@
 | Exercice | Âge source | Proposition terrain |
 |---|---|---|
 | [Conserver par dix passes sans interception](fiches/wr-keep-ball.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
+| [Créer la profondeur par des départs en postures décalées](fiches/imagine-depth-running.md) | Intermédiaire ; âge non précisé | Documentée ; à valider |
 | [File avec transmission au nouveau meneur](fiches/wr-follow-leader.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
 | [Passes après départs dans cinq postures](fiches/wr-chain-reaction.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |
 | [Passes en escalier par cinq](fiches/wr-formation.md) | Initiation Get Into Rugby ; âge non précisé | Documentée ; à valider |

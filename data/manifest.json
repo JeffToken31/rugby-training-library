@@ -26,7 +26,8 @@
     "data/twenty-activities-01.json",
     "data/world-rugby-05.json",
     "data/twenty-activities-02.json",
-    "data/imagine-games-01.json"
+    "data/imagine-games-01.json",
+    "data/imagine-games-02.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -63,7 +64,8 @@
     "data/enrichment-twenty-02.json",
     "data/enrichment-world-rugby-objectives-20260913.json",
     "data/enrichment-coach-20260913.json",
-    "data/enrichment-imagine-01.json"
+    "data/enrichment-imagine-01.json",
+    "data/enrichment-imagine-02.json"
   ],
   "capture_resources": [
     "rc-piggy",

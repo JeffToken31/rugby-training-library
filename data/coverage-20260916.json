@@ -1,0 +1,94 @@
+{
+  "checked_on": "2026-09-16",
+  "variants": 150,
+  "core_fields_present": 84,
+  "fields": {
+    "objectives": {
+      "present": 98,
+      "source": 97
+    },
+    "organisation": {
+      "present": 122,
+      "source": 122
+    },
+    "steps": {
+      "present": 123,
+      "source": 123
+    },
+    "instructions": {
+      "present": 116,
+      "source": 116
+    },
+    "success_criteria": {
+      "present": 14,
+      "source": 13
+    },
+    "common_errors": {
+      "present": 7,
+      "source": 7
+    },
+    "coach_points": {
+      "present": 52,
+      "source": 46
+    },
+    "duration_min": {
+      "present": 21,
+      "source": 15
+    },
+    "players_min": {
+      "present": 63,
+      "source": 36
+    },
+    "players_max": {
+      "present": 61,
+      "source": 34
+    },
+    "space": {
+      "present": 51,
+      "source": 40
+    },
+    "material": {
+      "present": 129,
+      "source": 59
+    }
+  },
+  "editorial_family_counts": {
+    "F01": 3,
+    "F02": 6,
+    "F03": 5,
+    "F04": 15,
+    "F05": 8,
+    "F06": 19,
+    "F07": 7,
+    "F08": 10,
+    "F09": 8,
+    "F10": 5,
+    "F11": 6,
+    "F12": 15,
+    "F13": 5,
+    "F14": 1,
+    "F15": 9,
+    "F16": 9,
+    "F17": 8,
+    "F18": 4,
+    "F19": 2,
+    "F20": 1,
+    "F21": 3,
+    "F22": 1
+  },
+  "publishers": {
+    "Rugby Australia": 20,
+    "FFR": 10,
+    "Scottish Rugby": 18,
+    "RugbyCoaching.tv": 29,
+    "New Zealand Rugby — Rugby Toolbox": 24,
+    "FFR — document intégré sur formation.ffr.fr": 9,
+    "World Rugby": 17,
+    "FFR — Direction Technique Nationale": 4,
+    "Munster Rugby": 9,
+    "FFR / DTN": 5,
+    "Imagine Rugby / Youth Rugby Initiative": 2,
+    "Fédération Française de Rugby": 2,
+    "School Games": 1
+  }
+}
