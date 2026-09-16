@@ -549,7 +549,9 @@ Chasse et arrêt dans un espace libre
 
 **Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
 
-Détails extraits le 2026-09-13 — Find the Space — Principles of play.
+**Critères de réussite :** Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.
+
+Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching points.
 
 **Points coach issus de la source :** Changer le chasseur après une minute.
 
@@ -901,7 +903,9 @@ Quatre passeurs contre un défenseur.
 
 **Consignes :** Pas d’interception ni de passe au-dessus de la tête.
 
-Détails extraits le 2026-09-13 — Keep Ball — Coaching points.
+**Critères de réussite :** Réussir dix passes collectivement avant la reprise du décompte.
+
+Détails extraits le 2026-09-16 — Keep Ball — How to play / Coaching points.
 
 **Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter.
 
@@ -1237,7 +1241,9 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Consignes :** Passes dans toutes les directions au début ; essai ou prise de ruban vaut un point.
 
-Détails extraits le 2026-09-13 — 2 v 1 — Coaching points.
+**Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
+
+Détails extraits le 2026-09-16 — 2 v 1 — How to play / Coaching points.
 
 **Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille.
 
@@ -2675,7 +2681,9 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Consignes :** Courir droit ; passes douces à deux mains.
 
-Détails extraits le 2026-09-13 — Pass and Support- Chain Reaction — Coaching points.
+**Critères de réussite :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
+
+Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — How to play / Coaching points.
 
 **Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement.
 
@@ -3525,7 +3533,9 @@ Cinq joueurs partent en file.
 
 **Consignes :** Conserver des intervalles réguliers et réceptionner en mouvement.
 
-Détails extraits le 2026-09-13 — Pass and Support — Coaching points.
+**Critères de réussite :** Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.
+
+Détails extraits le 2026-09-16 — Pass and Support — How to play / Coaching points.
 
 **Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée.
 
@@ -4287,7 +4297,9 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 1 — Coaching points.
+**Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
+
+Détails extraits le 2026-09-16 — 3 v 1 — How to play / Coaching points.
 
 **Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
 

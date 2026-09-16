@@ -31,7 +31,9 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Consignes :** Passes libres au départ ; un point pour l’essai ou la prise de ruban.
 
-Détails extraits le 2026-09-13 — 3 v 1 — Coaching points.
+**Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
+
+Détails extraits le 2026-09-16 — 3 v 1 — How to play / Coaching points.
 
 **Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
 

@@ -32,6 +32,21 @@ Variantes distinctes proposées. Même famille de passes en progression. Ici qua
 
 Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
 
+## Créer la profondeur par des départs en postures décalées / Passes après départs dans cinq postures
+
+Même variante proposée. Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques.
+
+| Information | [Créer la profondeur par des départs en postures décalées](fiches/imagine-depth-running.md) | [Passes après départs dans cinq postures](fiches/wr-chain-reaction.md) |
+|---|---|---|
+| Principe | Quatre passeurs partent de postures différentes pour former une ligne en profondeur. | Départs debout, un genou, deux genoux, allongé et assis. |
+| Organisation | Quatre files derrière des cônes espacés de deux yards. Premiers joueurs : debout avec ballon, à genoux, sur le ventre, sur le dos. | Trois groupes de cinq alternent dans chaque couloir. Chaque groupe part debout, un genou, deux genoux, allongé et assis. |
+| Déroulement | Au signal, se relever et avancer ; première passe après environ cinq yards. Transmettre successivement jusqu’au dernier qui marque, puis changer de file. | Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens. |
+| Consignes | Passer latéralement ou en arrière. | Courir droit ; passes douces à deux mains. |
+| Âge indiqué | Intermédiaire ; âge non précisé | Initiation Get Into Rugby ; âge non précisé |
+| Passage source | Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026 | Pass and Support- Chain Reaction |
+
+Les compléments attribués et les liens d’origine sont accessibles dans chaque fiche.
+
 ## Chasse collective avec retour après ballon tombé / Chasseurs passeurs par trois
 
 À examiner. Chasse par passes avec porteur immobile. NZ précise sortie puis retour sur ballon tombé ; la fiche écossaise décrit trois chasseurs et une manche chronométrée. Vérifier le devenir du joueur capturé avant tout rapprochement plus précis. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.

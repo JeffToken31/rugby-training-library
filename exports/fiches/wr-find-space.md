@@ -31,7 +31,9 @@ Chasse et arrêt dans un espace libre
 
 **Consignes :** Garder les deux mains sur le ballon ; compter les joueurs touchés.
 
-Détails extraits le 2026-09-13 — Find the Space — Principles of play.
+**Critères de réussite :** Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.
+
+Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching points.
 
 **Points coach issus de la source :** Changer le chasseur après une minute.
 

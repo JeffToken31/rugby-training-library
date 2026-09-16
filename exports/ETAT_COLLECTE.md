@@ -14,7 +14,7 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 | organisation | 122 | 28 | 0 | 0 | 0 |
 | steps | 123 | 27 | 0 | 0 | 0 |
 | instructions | 116 | 34 | 0 | 0 | 0 |
-| success_criteria | 14 | 136 | 0 | 0 | 0 |
+| success_criteria | 20 | 130 | 0 | 0 | 0 |
 | common_errors | 7 | 143 | 0 | 0 | 0 |
 | coach_points | 52 | 98 | 0 | 0 | 0 |
 | duration_min | 21 | 65 | 64 | 0 | 0 |

@@ -1,0 +1,112 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-find-space-criteria-20260916",
+      "variant_id": "wr-find-space",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Find the Space — How to play / Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-find-space-objectives-20260913",
+      "revision_reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté.",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche."
+        }
+      }
+    },
+    {
+      "id": "wr-keep-ball-criteria-20260916",
+      "variant_id": "wr-keep-ball",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Keep Ball — How to play / Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-keep-ball-coach-20260913",
+      "revision_reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté.",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réussir dix passes collectivement avant la reprise du décompte."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-2v1-criteria-20260916",
+      "variant_id": "wr-tag-2v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "2 v 1 — How to play / Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-2v1-coach-20260913",
+      "revision_reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté.",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-3v1-criteria-20260916",
+      "variant_id": "wr-tag-3v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "3 v 1 — How to play / Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-3v1-coach-20260913",
+      "revision_reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté.",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-support-criteria-20260916",
+      "variant_id": "wr-pass-support",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass and Support — How to play / Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-support-coach-20260913",
+      "revision_reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté.",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres."
+        }
+      }
+    },
+    {
+      "id": "wr-chain-reaction-criteria-20260916",
+      "variant_id": "wr-chain-reaction",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass and Support- Chain Reaction — How to play / Coaching points",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-chain-reaction-coach-20260913",
+      "revision_reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté.",
+      "fields": {
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Transmettre à des partenaires qui restent en soutien derrière le porteur."
+        }
+      }
+    }
+  ]
+}

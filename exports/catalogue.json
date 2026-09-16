@@ -3775,6 +3775,7 @@
       "organisation": "Cinq joueurs : un chasseur et quatre fuyards.",
       "steps": "Le porteur poursuit les autres. Au signal, chacun s’arrête à un mètre au moins de son voisin.",
       "objectives": "Exercer une pression défensive.",
+      "success_criteria": "Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -3833,7 +3834,18 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal d’arrêt, chaque joueur se trouve à au moins un mètre du voisin le plus proche.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Find the Space — How to play / Coaching points",
+            "revision_id": "wr-find-space-criteria-20260916",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -3876,9 +3888,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-13",
-        "locator": "Find the Space — Principles of play",
-        "revision_id": "wr-find-space-objectives-20260913",
+        "checked_on": "2026-09-16",
+        "locator": "Find the Space — How to play / Coaching points",
+        "revision_id": "wr-find-space-criteria-20260916",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -3900,6 +3912,12 @@
           "supersedes": "wr-find-space-detail-2",
           "checked_on": "2026-09-13",
           "reason": "Objectifs explicites vérifiés dans la section exacte de l’archive ; ajout sans modification des autres champs."
+        },
+        {
+          "id": "wr-find-space-criteria-20260916",
+          "supersedes": "wr-find-space-objectives-20260913",
+          "checked_on": "2026-09-16",
+          "reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté."
         }
       ],
       "source": {
@@ -5627,6 +5645,7 @@
       "steps": "Réussir dix passes ; le défenseur touche le porteur à deux mains à la taille. Changer régulièrement le défenseur ou échanger les rôles après toucher.",
       "objectives": "Soutenir le porteur ; Maintenir la continuité ; Exercer une pression défensive.",
       "coach_points": "Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter.",
+      "success_criteria": "Réussir dix passes collectivement avant la reprise du décompte.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -5685,7 +5704,18 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réussir dix passes collectivement avant la reprise du décompte.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Keep Ball — How to play / Coaching points",
+            "revision_id": "wr-keep-ball-criteria-20260916",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -5768,9 +5798,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-13",
-        "locator": "Keep Ball — Coaching points",
-        "revision_id": "wr-keep-ball-coach-20260913",
+        "checked_on": "2026-09-16",
+        "locator": "Keep Ball — How to play / Coaching points",
+        "revision_id": "wr-keep-ball-criteria-20260916",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -5792,6 +5822,12 @@
           "supersedes": "wr-keep-ball-objectives-20260913",
           "checked_on": "2026-09-13",
           "reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés."
+        },
+        {
+          "id": "wr-keep-ball-criteria-20260916",
+          "supersedes": "wr-keep-ball-coach-20260913",
+          "checked_on": "2026-09-16",
+          "reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté."
         }
       ],
       "source": {
@@ -7391,6 +7427,7 @@
       "steps": "Marquer sans perdre le ballon ; changer le défenseur après quatre prises de ruban.",
       "objectives": "Avancer ; Soutenir le porteur ; Exercer une pression défensive.",
       "coach_points": "Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille.",
+      "success_criteria": "Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -7449,7 +7486,18 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "2 v 1 — How to play / Coaching points",
+            "revision_id": "wr-tag-2v1-criteria-20260916",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -7532,9 +7580,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-13",
-        "locator": "2 v 1 — Coaching points",
-        "revision_id": "wr-tag-2v1-coach-20260913",
+        "checked_on": "2026-09-16",
+        "locator": "2 v 1 — How to play / Coaching points",
+        "revision_id": "wr-tag-2v1-criteria-20260916",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -7556,6 +7604,12 @@
           "supersedes": "wr-tag-2v1-objectives-20260913",
           "checked_on": "2026-09-13",
           "reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés."
+        },
+        {
+          "id": "wr-tag-2v1-criteria-20260916",
+          "supersedes": "wr-tag-2v1-coach-20260913",
+          "checked_on": "2026-09-16",
+          "reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté."
         }
       ],
       "source": {
@@ -14457,6 +14511,7 @@
       "steps": "Au signal, avancer et passer le long de la ligne ; changer de poste puis de sens.",
       "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité ; Marquer.",
       "coach_points": "Garder deux mains au ballon, courir droit avant la passe et doser doucement.",
+      "success_criteria": "Transmettre à des partenaires qui restent en soutien derrière le porteur.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -14515,7 +14570,18 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Transmettre à des partenaires qui restent en soutien derrière le porteur.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Pass and Support- Chain Reaction — How to play / Coaching points",
+            "revision_id": "wr-chain-reaction-criteria-20260916",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -14598,9 +14664,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-13",
-        "locator": "Pass and Support- Chain Reaction — Coaching points",
-        "revision_id": "wr-chain-reaction-coach-20260913",
+        "checked_on": "2026-09-16",
+        "locator": "Pass and Support- Chain Reaction — How to play / Coaching points",
+        "revision_id": "wr-chain-reaction-criteria-20260916",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -14628,6 +14694,12 @@
           "supersedes": "wr-chain-reaction-objectives-20260913",
           "checked_on": "2026-09-13",
           "reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés."
+        },
+        {
+          "id": "wr-chain-reaction-criteria-20260916",
+          "supersedes": "wr-chain-reaction-coach-20260913",
+          "checked_on": "2026-09-16",
+          "reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté."
         }
       ],
       "source": {
@@ -19081,6 +19153,7 @@
       "steps": "Chacun porte sur cinq mètres, s’arrête et présente le ballon au suivant. Le dernier marque ; repartir dans l’autre sens.",
       "objectives": "Avancer ; Soutenir le porteur ; Maintenir la continuité.",
       "coach_points": "Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée.",
+      "success_criteria": "Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -19139,7 +19212,18 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Pass and Support — How to play / Coaching points",
+            "revision_id": "wr-pass-support-criteria-20260916",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -19222,9 +19306,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-13",
-        "locator": "Pass and Support — Coaching points",
-        "revision_id": "wr-pass-support-coach-20260913",
+        "checked_on": "2026-09-16",
+        "locator": "Pass and Support — How to play / Coaching points",
+        "revision_id": "wr-pass-support-criteria-20260916",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -19246,6 +19330,12 @@
           "supersedes": "wr-pass-support-objectives-20260913",
           "checked_on": "2026-09-13",
           "reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés."
+        },
+        {
+          "id": "wr-pass-support-criteria-20260916",
+          "supersedes": "wr-pass-support-coach-20260913",
+          "checked_on": "2026-09-16",
+          "reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté."
         }
       ],
       "source": {
@@ -23007,6 +23097,7 @@
       "steps": "Marquer sans chute du ballon ; le joueur en attente remplace le défenseur après chaque passage.",
       "objectives": "Avancer ; Soutenir le porteur ; Exercer une pression défensive ; Marquer.",
       "coach_points": "Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.",
+      "success_criteria": "Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -23065,7 +23156,18 @@
           }
         },
         "success_criteria": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.",
+          "provenance": {
+            "source_id": "wr-noncontact",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "3 v 1 — How to play / Coaching points",
+            "revision_id": "wr-tag-3v1-criteria-20260916",
+            "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+            "capture_verified_locally": true
+          }
         },
         "common_errors": {
           "state": "NOT_EXTRACTED"
@@ -23148,9 +23250,9 @@
       "enrichment_provenance": {
         "source_id": "wr-noncontact",
         "actor": "assistant",
-        "checked_on": "2026-09-13",
-        "locator": "3 v 1 — Coaching points",
-        "revision_id": "wr-tag-3v1-coach-20260913",
+        "checked_on": "2026-09-16",
+        "locator": "3 v 1 — How to play / Coaching points",
+        "revision_id": "wr-tag-3v1-criteria-20260916",
         "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
         "capture_verified_locally": true
       },
@@ -23172,6 +23274,12 @@
           "supersedes": "wr-tag-3v1-objectives-20260913",
           "checked_on": "2026-09-13",
           "reason": "Ajout des points d’observation explicites de la section source ; autres champs conservés."
+        },
+        {
+          "id": "wr-tag-3v1-criteria-20260916",
+          "supersedes": "wr-tag-3v1-coach-20260913",
+          "checked_on": "2026-09-16",
+          "reason": "Extraction du résultat attendu ou du score explicitement décrit ; aucun seuil ajouté."
         }
       ],
       "source": {

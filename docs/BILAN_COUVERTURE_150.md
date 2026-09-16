@@ -30,3 +30,5 @@ Une ressource nouvellement tentée bloquée : [Girls Rugby Game Cards](https://g
 ## Suite ciblée
 
 Exploiter les archives déjà conservées pour renseigner les critères et les consignes manquants. Poursuivre les nouvelles situations collectives seulement lorsque la description est accessible et distincte. Aucun développement de front ; pas de collecte générale pour remplir artificiellement le compteur. La V1 n’est pas déclarée terminée au seul seuil de 150.
+
+Rectification du 16 septembre : imagine-depth-running est un doublon probable de wr-chain-reaction ; nouveauté non démontrée. Six fiches enrichies en critères de réussite, soit 20 au total. Voir docs/LOT_CRITERES_2026-09-16.md.

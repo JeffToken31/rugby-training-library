@@ -1,0 +1,13 @@
+{
+  "duplicate_candidates": [
+    {
+      "id": "imagine-depth-running--wr-chain-reaction",
+      "left_id": "imagine-depth-running",
+      "right_id": "wr-chain-reaction",
+      "score": 0.9,
+      "relation": "SAME_VARIANT",
+      "method_version": "editorial-20260916",
+      "explanation": "Même mécanisme : départ simultané depuis des postures différentes pour créer la profondeur des passes. Quatre joueurs contre cinq et postures légèrement différentes : différence substantielle non démontrée. Même variante probable, jugement IA à confirmer ; conserver les deux occurrences sans les compter comme deux jeux uniques."
+    }
+  ]
+}

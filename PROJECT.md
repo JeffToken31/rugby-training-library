@@ -64,3 +64,5 @@ Lot observations du 13 septembre : docs/LOT_OBSERVATIONS_2026-09-13.md. Quatorze
 Lot Imagine du 14 septembre : docs/LOT_IMAGINE_2026-09-14.md ; 149 fiches. Recueil direct 403, une carte débutant extraite du texte indexé. Ne pas recompter le nid, proche de au-nest-pass.
 
 Seuil de 150 fiches le 16 septembre : docs/BILAN_COUVERTURE_150.md. 84 fiches réunissent les quatre champs essentiels. Une variante de passes en profondeur ajoutée ; poursuite ciblée de la qualité et des situations collectives, front en attente.
+
+Rectification du 16 septembre : imagine-depth-running est un doublon probable de wr-chain-reaction ; nouveauté non démontrée. Six fiches enrichies en critères de réussite, soit 20 au total. Voir docs/LOT_CRITERES_2026-09-16.md.

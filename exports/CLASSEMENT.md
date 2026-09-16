@@ -397,3 +397,5 @@ F08 : [Passes froides puis chaudes](fiches/imagine-cold-hot.md). 138 candidates,
 ## Complément du 16 septembre 2026
 
 150 fiches classées. imagine-depth-running rejoint F09 ; comparaison conservée avec rc-lateral-three, sans fusion. Le nombre de fiches ne certifie pas le nombre de jeux uniques.
+
+Rectification du 16 septembre : imagine-depth-running est un doublon probable de wr-chain-reaction ; nouveauté non démontrée. Six fiches enrichies en critères de réussite, soit 20 au total. Voir docs/LOT_CRITERES_2026-09-16.md.
