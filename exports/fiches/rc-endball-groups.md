@@ -23,13 +23,15 @@ Deux équipes progressent vers une zone de marque, avec des passes possibles dan
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.
+
 **Organisation :** Deux équipes jouant vers une zone de marque.
 
 **Déroulement :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
 
 **Consignes :** Passes dans toutes les directions ; transmettre rapidement après toucher.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Répertoire des sources
 

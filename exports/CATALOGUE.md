@@ -307,13 +307,15 @@ Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la der
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.
+
 **Organisation :** Joueurs en cercle, chacun sur un plot.
 
 **Déroulement :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
 
 **Consignes :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 **Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
 
@@ -335,13 +337,15 @@ Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un p
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.
+
 **Organisation :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
 
 **Déroulement :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
 
 **Consignes :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Changer de ligne d’essai
 
@@ -1049,13 +1053,15 @@ Un coureur tente de boucler son parcours avant trois passes adverses.
 
 **Accès :** Page publique découverte ; capture et contenu à vérifier
 
+**Objectifs :** Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes.
+
 **Organisation :** Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.
 
 **Déroulement :** Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.
 
 **Consignes :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Course dans le tunnel des fruits
 
@@ -1725,13 +1731,15 @@ Deux équipes progressent vers une zone de marque, avec des passes possibles dan
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.
+
 **Organisation :** Deux équipes jouant vers une zone de marque.
 
 **Déroulement :** Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.
 
 **Consignes :** Passes dans toutes les directions ; transmettre rapidement après toucher.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Jouer les intervalles
 

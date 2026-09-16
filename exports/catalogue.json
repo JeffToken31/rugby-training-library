@@ -2550,9 +2550,21 @@
       "instructions": "Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.",
       "organisation": "Joueurs en cercle, chacun sur un plot.",
       "steps": "Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.",
+      "objectives": "Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.",
+          "provenance": {
+            "source_id": "rc-circle-jump-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+            "revision_id": "rc-circle-jump-objective-20260916",
+            "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -2626,9 +2638,9 @@
       "enrichment_provenance": {
         "source_id": "rc-circle-jump-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
-        "revision_id": "rc-circle-jump-detail-1",
+        "checked_on": "2026-09-16",
+        "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+        "revision_id": "rc-circle-jump-objective-20260916",
         "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
         "capture_verified_locally": true
       },
@@ -2638,6 +2650,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "rc-circle-jump-objective-20260916",
+          "supersedes": "rc-circle-jump-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues."
         }
       ],
       "source": {
@@ -2672,9 +2690,21 @@
       "instructions": "Changer le poursuivant et laisser un court temps de concertation entre les manches.",
       "organisation": "Cinq joueurs liés en cercle, un poursuivant à l’extérieur.",
       "steps": "Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.",
+      "objectives": "Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.",
+          "provenance": {
+            "source_id": "rc-protect-circle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+            "revision_id": "rc-protect-circle-objective-20260916",
+            "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -2749,9 +2779,9 @@
       "enrichment_provenance": {
         "source_id": "rc-protect-circle-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
-        "revision_id": "rc-protect-circle-detail-1",
+        "checked_on": "2026-09-16",
+        "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+        "revision_id": "rc-protect-circle-objective-20260916",
         "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
         "capture_verified_locally": true
       },
@@ -2761,6 +2791,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "rc-protect-circle-objective-20260916",
+          "supersedes": "rc-protect-circle-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues."
         }
       ],
       "source": {
@@ -6549,9 +6585,21 @@
       "instructions": "Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.",
       "organisation": "Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.",
       "steps": "Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.",
+      "objectives": "Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes.",
+          "provenance": {
+            "source_id": "rc-rounders-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+            "revision_id": "rc-rounders-objective-20260916",
+            "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -6624,9 +6672,9 @@
       "enrichment_provenance": {
         "source_id": "rc-rounders-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
-        "revision_id": "rc-rounders-detail-1",
+        "checked_on": "2026-09-16",
+        "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+        "revision_id": "rc-rounders-objective-20260916",
         "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
         "capture_verified_locally": true
       },
@@ -6636,6 +6684,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "rc-rounders-objective-20260916",
+          "supersedes": "rc-rounders-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues."
         }
       ],
       "source": {
@@ -10087,9 +10141,21 @@
       "instructions": "Passes dans toutes les directions ; transmettre rapidement après toucher.",
       "organisation": "Deux équipes jouant vers une zone de marque.",
       "steps": "Avancer et passer ; au nombre annoncé, oublier les équipes et former des groupes de cette taille, puis reprendre.",
+      "objectives": "Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux.",
+          "provenance": {
+            "source_id": "rc-endball-groups-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+            "revision_id": "rc-endball-groups-objective-20260916",
+            "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -10162,9 +10228,9 @@
       "enrichment_provenance": {
         "source_id": "rc-endball-groups-source",
         "actor": "assistant",
-        "checked_on": "2026-09-08",
-        "locator": "Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante",
-        "revision_id": "rc-endball-groups-detail-1",
+        "checked_on": "2026-09-16",
+        "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+        "revision_id": "rc-endball-groups-objective-20260916",
         "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
         "capture_verified_locally": true
       },
@@ -10174,6 +10240,12 @@
           "supersedes": null,
           "checked_on": "2026-09-08",
           "reason": null
+        },
+        {
+          "id": "rc-endball-groups-objective-20260916",
+          "supersedes": "rc-endball-groups-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues."
         }
       ],
       "source": {

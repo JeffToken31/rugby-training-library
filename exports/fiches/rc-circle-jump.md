@@ -23,13 +23,15 @@ Les joueurs restent sur leurs plots en cercle et passent rapidement. Dans la der
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement.
+
 **Organisation :** Joueurs en cercle, chacun sur un plot.
 
 **Déroulement :** Faire circuler le ballon ; après sa passe, effectuer les demi-tours sautés de la progression.
 
 **Consignes :** Présenter les mains ; rapprocher les plots si les passes deviennent difficiles.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 **Points coach issus de la source :** Se rendre disponible à nouveau après le changement d’orientation.
 

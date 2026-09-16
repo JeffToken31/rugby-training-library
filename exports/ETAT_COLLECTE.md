@@ -10,7 +10,7 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 102 | 48 | 0 | 0 | 0 |
+| objectives | 106 | 44 | 0 | 0 | 0 |
 | organisation | 122 | 28 | 0 | 0 | 0 |
 | steps | 123 | 27 | 0 | 0 | 0 |
 | instructions | 117 | 33 | 0 | 0 | 0 |

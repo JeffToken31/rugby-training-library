@@ -70,3 +70,5 @@ Rectification du 16 septembre : imagine-depth-running est un doublon probable de
 Lot progressions : docs/LOT_PROGRESSIONS_2026-09-16.md. Quinze fiches World Rugby complétées avec les réglages de difficulté sourcés, sans nouvelle fiche. 53 fiches avec points coach.
 
 Lot Rugby Toolbox : docs/LOT_NZ_ESSENTIELS_2026-09-16.md. Cinq fiches complétées ; 89/150 avec les quatre champs essentiels, dont les 24 fiches néo-zélandaises. Validation terrain toujours distincte.
+
+Lot objectifs RugbyCoaching : docs/LOT_RC_OBJECTIFS_2026-09-16.md. Quatre objectifs explicites ajoutés ; 93/150 fiches avec les quatre champs essentiels. Jeu à deux ballons : organisation visuelle restant à vérifier.

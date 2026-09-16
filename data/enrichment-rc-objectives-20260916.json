@@ -1,0 +1,76 @@
+{
+  "enrichments": [
+    {
+      "id": "rc-circle-jump-objective-20260916",
+      "variant_id": "rc-circle-jump",
+      "source_id": "rc-circle-jump-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+      "capture_sha256": "b5ccc6a1d8e0c4b007ea880b0b77cb84e16f509c560838271bb3a87fec4923e9",
+      "supersedes": "rc-circle-jump-detail-1",
+      "revision_reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Accélérer la circulation du ballon et la réaction des mains pendant l’échauffement."
+        }
+      }
+    },
+    {
+      "id": "rc-protect-circle-objective-20260916",
+      "variant_id": "rc-protect-circle",
+      "source_id": "rc-protect-circle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+      "capture_sha256": "8daa935122005e4262505297dfc8b385ab1bf262e4468b6e8e5926791e9e0126",
+      "supersedes": "rc-protect-circle-detail-1",
+      "revision_reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication."
+        }
+      }
+    },
+    {
+      "id": "rc-rounders-objective-20260916",
+      "variant_id": "rc-rounders",
+      "source_id": "rc-rounders-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+      "capture_sha256": "7fcaaeea6628c34992c0878ac9063a68fa6182b7e4d552936ec041d533fd51ca",
+      "supersedes": "rc-rounders-detail-1",
+      "revision_reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes."
+        }
+      }
+    },
+    {
+      "id": "rc-endball-groups-objective-20260916",
+      "variant_id": "rc-endball-groups",
+      "source_id": "rc-endball-groups-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace",
+      "capture_sha256": "3189a4418012e65057043310e4d6e5d1c55209cb2c4a1de3e82a0ae28c33cade",
+      "supersedes": "rc-endball-groups-detail-1",
+      "revision_reason": "Objectif explicite reformulé depuis la description et les sous-titres de la ressource principale ; recommandations voisines exclues.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer dans les espaces disponibles et favoriser les liens entre joueurs, notamment l’intégration des nouveaux."
+        }
+      }
+    }
+  ]
+}

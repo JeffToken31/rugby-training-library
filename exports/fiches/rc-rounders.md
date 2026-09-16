@@ -23,13 +23,15 @@ Un coureur tente de boucler son parcours avant trois passes adverses.
 
 **Accès :** Page publique découverte ; capture et contenu à vérifier
 
+**Objectifs :** Mobiliser les habiletés fondamentales du rugby dans un jeu familier de course et de passes.
+
 **Organisation :** Deux équipes : une lance puis court, l’autre récupère et passe. Trois bases puis retour au départ.
 
 **Déroulement :** Recevoir le ballon du coach, le lancer dans un espace et courir autour des bases. L’autre équipe récupère et réalise trois passes.
 
 **Consignes :** Ne pas s’arrêter aux bases ni rendre immédiatement au même passeur. Tour terminé avant les trois passes : un point ; sinon le coureur est éliminé pour ce passage.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Répertoire des sources
 

@@ -23,13 +23,15 @@ Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un p
 
 **Accès :** Description et sous-titres publics consultés ; vidéo non téléchargée
 
+**Objectifs :** Créer des liens entre joueurs et intégrer les nouveaux par la coopération et la communication.
+
 **Organisation :** Cinq joueurs liés en cercle, un poursuivant à l’extérieur.
 
 **Déroulement :** Le poursuivant cherche le dos du joueur désigné ; le cercle se déplace pour le protéger.
 
 **Consignes :** Changer le poursuivant et laisser un court temps de concertation entre les manches.
 
-Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante.
+Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Répertoire des sources
 
