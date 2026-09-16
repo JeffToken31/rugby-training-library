@@ -23,6 +23,16 @@ Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Vitesse, anticipation et évitement.
+
+**Organisation :** Deux lignes appariées ; refuges à 10–20 mètres.
+
+**Déroulement :** L’équipe appelée fuit ; ses partenaires adverses poursuivent.
+
+**Consignes :** Rejoindre le refuge sans être touché.
+
+Détails extraits le 2026-09-16 — PDF page 5 (numérotation 1-based) — Game Card, How to play.
+
 ### Proposition terrain U8 — à valider
 
 6 min · 4 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

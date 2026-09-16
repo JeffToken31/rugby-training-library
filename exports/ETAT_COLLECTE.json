@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-16T10:55:59.787548+00:00",
+  "generated_at": "2026-09-16T11:01:02.054116+00:00",
   "variants": 150,
   "documented": 141,
   "incomplete": 9,
-  "enriched": 132,
+  "enriched": 137,
   "resources": 87,
   "captured_resources": 62,
   "families": 2,
@@ -276,7 +276,7 @@
       "last_attempt": {
         "state": "BLOCKED",
         "error": "Vérification robots impossible : 403",
-        "started_at": "2026-09-08T12:00:18.554219+00:00"
+        "started_at": "2026-09-16T11:00:12.404795+00:00"
       }
     },
     {

@@ -4377,18 +4377,58 @@
       "summary": "Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente.",
       "theme": "coopération",
       "title": "Chasseurs qui se passent le ballon",
+      "instructions": "Terminer lorsque toutes les proies sont capturées.",
+      "objectives": "Course, passes, évitement et coopération.",
+      "organisation": "Carré de 20 mètres ; chasseurs avec un ballon.",
+      "steps": "Passes entre chasseurs pour toucher ; proies capturées en prison.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Course, passes, évitement et coopération.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 11 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-hunters-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Carré de 20 mètres ; chasseurs avec un ballon.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 11 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-hunters-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passes entre chasseurs pour toucher ; proies capturées en prison.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 11 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-hunters-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Terminer lorsque toutes les proies sont capturées.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 11 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-hunters-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -4416,6 +4456,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 11 (numérotation 1-based) — Game Card, How to play",
+        "revision_id": "munster-hunters-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-hunters-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -10349,18 +10404,58 @@
       "summary": "Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passant sous un bras.",
       "theme": "coopération",
       "title": "La boue et la délivrance",
+      "instructions": "Changer les chasseurs après capture générale ou cinq minutes.",
+      "objectives": "Évitement et communication.",
+      "organisation": "Carré de 20 mètres ; deux chasseurs avec ballon.",
+      "steps": "Touché : rester immobile, bras ouverts ; un partenaire passe dessous pour délivrer.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Évitement et communication.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 6 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-mud-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Carré de 20 mètres ; deux chasseurs avec ballon.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 6 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-mud-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Touché : rester immobile, bras ouverts ; un partenaire passe dessous pour délivrer.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 6 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-mud-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer les chasseurs après capture générale ou cinq minutes.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 6 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-mud-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -10389,6 +10484,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 6 (numérotation 1-based) — Game Card, How to play",
+        "revision_id": "munster-mud-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-mud-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -11320,18 +11430,58 @@
         "setup": "Portes espacées, deux équipes et un ballon.",
         "steps": "Franchir une porte pour marquer puis passer. Au toucher, changer de possession. Changer de porte après un point."
       },
+      "instructions": "Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.",
+      "objectives": "Vision, espace, réception-passe et évitement.",
+      "organisation": "Deux équipes égales ; portes de plots dispersées.",
+      "steps": "Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Vision, espace, réception-passe et évitement.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 7 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-gates-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes égales ; portes de plots dispersées.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 7 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-gates-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 7 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-gates-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 7 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-gates-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -11359,6 +11509,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 7 (numérotation 1-based) — Game Card, How to play",
+        "revision_id": "munster-gates-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-gates-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -13705,18 +13870,58 @@
       "summary": "Deux équipes cherchent la zone d’essai par des passes ; la source propose cinq touchers pour marquer.",
       "theme": "jeu collectif",
       "title": "Passer dans la zone d’arrivée",
+      "instructions": "Défense : intercepter ; possession change aussi après marque ou sortie.",
+      "objectives": "Réception-passe, déplacement offensif et communication défensive.",
+      "organisation": "Deux équipes égales ; dimensions selon effectif.",
+      "steps": "Passer librement pour marquer en zone ; cinq touchers disponibles.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Réception-passe, déplacement offensif et communication défensive.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 9 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-end-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes égales ; dimensions selon effectif.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 9 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-end-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer librement pour marquer en zone ; cinq touchers disponibles.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 9 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-end-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Défense : intercepter ; possession change aussi après marque ou sortie.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 9 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-end-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -13744,6 +13949,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 9 (numérotation 1-based) — Game Card, How to play",
+        "revision_id": "munster-end-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-end-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",
@@ -17860,18 +18080,58 @@
         "setup": "Paires face à face avec deux refuges.",
         "steps": "Le groupe nommé rejoint son refuge ; chacun poursuit son partenaire. Retour calme et nouvelle manche."
       },
+      "instructions": "Rejoindre le refuge sans être touché.",
+      "objectives": "Vitesse, anticipation et évitement.",
+      "organisation": "Deux lignes appariées ; refuges à 10–20 mètres.",
+      "steps": "L’équipe appelée fuit ; ses partenaires adverses poursuivent.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Vitesse, anticipation et évitement.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 5 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-rats-core-20260916"
+          }
         },
         "organisation": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux lignes appariées ; refuges à 10–20 mètres.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 5 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-rats-core-20260916"
+          }
         },
         "steps": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "L’équipe appelée fuit ; ses partenaires adverses poursuivent.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 5 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-rats-core-20260916"
+          }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Rejoindre le refuge sans être touché.",
+          "provenance": {
+            "source_id": "munster-fms",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "PDF page 5 (numérotation 1-based) — Game Card, How to play",
+            "revision_id": "munster-rats-core-20260916"
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -17899,6 +18159,21 @@
           "origin": "LEGACY_UNREVIEWED"
         }
       },
+      "enrichment_provenance": {
+        "source_id": "munster-fms",
+        "actor": "assistant",
+        "checked_on": "2026-09-16",
+        "locator": "PDF page 5 (numérotation 1-based) — Game Card, How to play",
+        "revision_id": "munster-rats-core-20260916"
+      },
+      "enrichment_history": [
+        {
+          "id": "munster-rats-core-20260916",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        }
+      ],
       "source": {
         "access": "PDF public consulté",
         "checked_on": "2026-09-06",

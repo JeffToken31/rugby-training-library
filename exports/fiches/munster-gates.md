@@ -23,6 +23,16 @@ Marquer en franchissant une porte libre, puis passer ; ne pas reprendre immédia
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Vision, espace, réception-passe et évitement.
+
+**Organisation :** Deux équipes égales ; portes de plots dispersées.
+
+**Déroulement :** Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.
+
+**Consignes :** Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.
+
+Détails extraits le 2026-09-16 — PDF page 7 (numérotation 1-based) — Game Card, How to play.
+
 ### Proposition terrain U8 — à valider
 
 8 min · 6 à 10 enfants par atelier. Ces chiffres sont proposés, pas extraits de la source.

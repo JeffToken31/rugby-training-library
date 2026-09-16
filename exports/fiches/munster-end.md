@@ -23,6 +23,16 @@ Deux équipes cherchent la zone d’essai par des passes ; la source propose cin
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Réception-passe, déplacement offensif et communication défensive.
+
+**Organisation :** Deux équipes égales ; dimensions selon effectif.
+
+**Déroulement :** Passer librement pour marquer en zone ; cinq touchers disponibles.
+
+**Consignes :** Défense : intercepter ; possession change aussi après marque ou sortie.
+
+Détails extraits le 2026-09-16 — PDF page 9 (numérotation 1-based) — Game Card, How to play.
+
 ## Répertoire des sources
 
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.

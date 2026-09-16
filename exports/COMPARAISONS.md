@@ -204,9 +204,9 @@ Les compléments attribués et les liens d’origine sont accessibles dans chaqu
 | Information | [Chasseurs qui se passent le ballon](fiches/munster-hunters.md) | [Chasseurs passeurs par trois](fiches/scot-corner.md) |
 |---|---|---|
 | Principe | Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente. | Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. Compter les captures sur une minute. |
-| Organisation | Non renseigné | Chasseurs par trois, un ballon par trio. |
-| Déroulement | Non renseigné | Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes. |
-| Consignes | Non renseigné | Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois. |
+| Organisation | Carré de 20 mètres ; chasseurs avec un ballon. | Chasseurs par trois, un ballon par trio. |
+| Déroulement | Passes entre chasseurs pour toucher ; proies capturées en prison. | Passer pour toucher les fuyards ; porteur immobile. Compter les captures pendant soixante secondes. |
+| Consignes | Terminer lorsque toutes les proies sont capturées. | Le porteur ne court pas ; coopérer pour cibler un adversaire à la fois. |
 | Âge indiqué | Primaire / mini-rugby | Primaire (Écosse) |
 | Passage source | PDF page 11 | PDF page 20 |
 

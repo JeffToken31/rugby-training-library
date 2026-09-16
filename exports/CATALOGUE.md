@@ -645,6 +645,16 @@ Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une 
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Course, passes, évitement et coopération.
+
+**Organisation :** Carré de 20 mètres ; chasseurs avec un ballon.
+
+**Déroulement :** Passes entre chasseurs pour toucher ; proies capturées en prison.
+
+**Consignes :** Terminer lorsque toutes les proies sont capturées.
+
+Détails extraits le 2026-09-16 — PDF page 11 (numérotation 1-based) — Game Card, How to play.
+
 ## Chat : libérer en roulant le ballon
 
 **évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.**
@@ -1777,6 +1787,16 @@ Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passan
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Évitement et communication.
+
+**Organisation :** Carré de 20 mètres ; deux chasseurs avec ballon.
+
+**Déroulement :** Touché : rester immobile, bras ouverts ; un partenaire passe dessous pour délivrer.
+
+**Consignes :** Changer les chasseurs après capture générale ou cinq minutes.
+
+Détails extraits le 2026-09-16 — PDF page 6 (numérotation 1-based) — Game Card, How to play.
+
 ## La chaîne
 
 **coopération · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
@@ -2032,6 +2052,16 @@ Marquer en franchissant une porte libre, puis passer ; ne pas reprendre immédia
 [Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 7 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+**Objectifs :** Vision, espace, réception-passe et évitement.
+
+**Organisation :** Deux équipes égales ; portes de plots dispersées.
+
+**Déroulement :** Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession.
+
+**Consignes :** Après marque, arrêter et passer ; pas deux fois la même porte consécutivement.
+
+Détails extraits le 2026-09-16 — PDF page 7 (numérotation 1-based) — Game Card, How to play.
 
 ### Proposition terrain U8 — à valider
 
@@ -2510,6 +2540,16 @@ Deux équipes cherchent la zone d’essai par des passes ; la source propose cin
 [Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 9 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+**Objectifs :** Réception-passe, déplacement offensif et communication défensive.
+
+**Organisation :** Deux équipes égales ; dimensions selon effectif.
+
+**Déroulement :** Passer librement pour marquer en zone ; cinq touchers disponibles.
+
+**Consignes :** Défense : intercepter ; possession change aussi après marque ou sortie.
+
+Détails extraits le 2026-09-16 — PDF page 9 (numérotation 1-based) — Game Card, How to play.
 
 ## Passer puis devenir défenseur
 
@@ -3250,6 +3290,16 @@ Deux lignes se font face. Le groupe nommé rejoint son refuge, poursuivi par son
 [Source : Munster Rugby](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF page 5 · consultée le 2026-09-06
 
 **Accès :** PDF public consulté
+
+**Objectifs :** Vitesse, anticipation et évitement.
+
+**Organisation :** Deux lignes appariées ; refuges à 10–20 mètres.
+
+**Déroulement :** L’équipe appelée fuit ; ses partenaires adverses poursuivent.
+
+**Consignes :** Rejoindre le refuge sans être touché.
+
+Détails extraits le 2026-09-16 — PDF page 5 (numérotation 1-based) — Game Card, How to play.
 
 ### Proposition terrain U8 — à valider
 

@@ -1,0 +1,154 @@
+{
+  "enrichments": [
+    {
+      "id": "munster-rats-core-20260916",
+      "variant_id": "munster-rats",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 5 (numérotation 1-based) — Game Card, How to play",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Vitesse, anticipation et évitement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux lignes appariées ; refuges à 10–20 mètres."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "L’équipe appelée fuit ; ses partenaires adverses poursuivent."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Rejoindre le refuge sans être touché."
+        }
+      }
+    },
+    {
+      "id": "munster-mud-core-20260916",
+      "variant_id": "munster-mud",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 6 (numérotation 1-based) — Game Card, How to play",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Évitement et communication."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Carré de 20 mètres ; deux chasseurs avec ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Touché : rester immobile, bras ouverts ; un partenaire passe dessous pour délivrer."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer les chasseurs après capture générale ou cinq minutes."
+        }
+      }
+    },
+    {
+      "id": "munster-gates-core-20260916",
+      "variant_id": "munster-gates",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 7 (numérotation 1-based) — Game Card, How to play",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Vision, espace, réception-passe et évitement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes égales ; portes de plots dispersées."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Traverser une porte avec ballon sans toucher adverse rapporte un point ; touché, rendre possession."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Après marque, arrêter et passer ; pas deux fois la même porte consécutivement."
+        }
+      }
+    },
+    {
+      "id": "munster-end-core-20260916",
+      "variant_id": "munster-end",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 9 (numérotation 1-based) — Game Card, How to play",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Réception-passe, déplacement offensif et communication défensive."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes égales ; dimensions selon effectif."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer librement pour marquer en zone ; cinq touchers disponibles."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Défense : intercepter ; possession change aussi après marque ou sortie."
+        }
+      }
+    },
+    {
+      "id": "munster-hunters-core-20260916",
+      "variant_id": "munster-hunters",
+      "source_id": "munster-fms",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "PDF page 11 (numérotation 1-based) — Game Card, How to play",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Course, passes, évitement et coopération."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Carré de 20 mètres ; chasseurs avec un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passes entre chasseurs pour toucher ; proies capturées en prison."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Terminer lorsque toutes les proies sont capturées."
+        }
+      }
+    }
+  ]
+}

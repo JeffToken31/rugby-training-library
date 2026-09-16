@@ -2,7 +2,7 @@
 
 Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.
 
-122 fiches.
+127 fiches.
 
 - [Aller au sol puis transmettre au soutien](fiches/au-pop-race.md) — passe et coopération ; Rugby Australia
 - [Alterner trois formes du dos](fiches/ffr-dos-postures.md) — motricité ; FFR
@@ -23,6 +23,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Chasse et arrêt dans un espace libre](fiches/wr-find-space.md) — évitement ; World Rugby
 - [Chasse par binômes avec changement de rôle](fiches/wr-pairs-tag.md) — opposition et coopération ; World Rugby
 - [Chasseurs passeurs par trois](fiches/scot-corner.md) — passe ; Scottish Rugby
+- [Chasseurs qui se passent le ballon](fiches/munster-hunters.md) — coopération ; Munster Rugby
 - [Chat : libérer en roulant le ballon](fiches/scot-roll-tig.md) — évitement et opposition ; Scottish Rugby
 - [Chat chaos : délivré quand son chasseur est pris](fiches/scot-chaos-tig.md) — évitement et opposition ; Scottish Rugby
 - [Chat et déplacements animaux](fiches/scot-animal.md) — motricité ; Scottish Rugby
@@ -53,10 +54,12 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Franchir trois rideaux disposés en 2–1–2](fiches/wr-walls-212.md) — opposition et coopération ; World Rugby
 - [Golf au pied](fiches/au-kick-golf.md) — jeu au pied ; Rugby Australia
 - [Jeu de zone avec regroupements au signal](fiches/rc-endball-groups.md) — prise d’information ; RugbyCoaching.tv
+- [La boue et la délivrance](fiches/munster-mud.md) — coopération ; Munster Rugby
 - [La chaîne](fiches/scot-chaine.md) — coopération ; Scottish Rugby
 - [La chasse aux rubans](fiches/rc-taggrab.md) — déplacement ; RugbyCoaching.tv
 - [Le joueur au milieu](fiches/rc-piggy.md) — passe ; RugbyCoaching.tv
 - [Les extraterrestres](fiches/rc-aliens.md) — déplacement ; RugbyCoaching.tv
+- [Les portes à franchir](fiches/munster-gates.md) — prise d’information ; Munster Rugby
 - [Les statues](fiches/rc-statues.md) — déplacement ; RugbyCoaching.tv
 - [Les œufs dans les nids](fiches/rc-eggs.md) — déplacement ; RugbyCoaching.tv
 - [Manipulations autour du corps](fiches/nz-awareness.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
@@ -69,6 +72,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Opposition sans ballon, attaquant désigné](fiches/nz-no-ball.md) — prise d’information ; New Zealand Rugby — Rugby Toolbox
 - [Passe arrière avec jokers](fiches/scot-passback.md) — soutien ; Scottish Rugby
 - [Passer avec un soutien en retrait](fiches/rc-pairs.md) — passe ; RugbyCoaching.tv
+- [Passer dans la zone d’arrivée](fiches/munster-end.md) — jeu collectif ; Munster Rugby
 - [Passer puis devenir défenseur](fiches/wr-pass-defend.md) — opposition et soutien ; World Rugby
 - [Passer puis échapper au poursuivant](fiches/nz-touchdown.md) — évitement ; New Zealand Rugby — Rugby Toolbox
 - [Passer sur appel dans un espace partagé](fiches/rc-calling-pairs.md) — passe ; RugbyCoaching.tv
@@ -90,6 +94,7 @@ Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pa
 - [Ramasser, porter et reposer](fiches/nz-pick-place.md) — manipulation ; New Zealand Rugby — Rugby Toolbox
 - [Ramper comme un crocodile](fiches/scot-crocodile.md) — motricité ; Scottish Rugby
 - [Rapporter les trésors par une passe](fiches/au-nest-pass.md) — passe et coopération ; Rugby Australia
+- [Rats et lapins](fiches/munster-rats.md) — déplacement ; Munster Rugby
 - [Rats et lapins : duel avec ballon en ligne droite](fiches/nz-rats-straight.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Rats et lapins : trajectoires libres](fiches/nz-rats-free.md) — évitement et opposition ; New Zealand Rugby — Rugby Toolbox
 - [Réagir au mot plot](fiches/au-cone-game.md) — évitement et réaction ; Rugby Australia

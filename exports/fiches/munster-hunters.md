@@ -23,6 +23,16 @@ Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une 
 
 **Accès :** PDF public consulté
 
+**Objectifs :** Course, passes, évitement et coopération.
+
+**Organisation :** Carré de 20 mètres ; chasseurs avec un ballon.
+
+**Déroulement :** Passes entre chasseurs pour toucher ; proies capturées en prison.
+
+**Consignes :** Terminer lorsque toutes les proies sont capturées.
+
+Détails extraits le 2026-09-16 — PDF page 11 (numérotation 1-based) — Game Card, How to play.
+
 ## Répertoire des sources
 
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.

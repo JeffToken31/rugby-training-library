@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
 150 fiches ; 141 documentées ; 9 incomplètes.
-132 fiches enrichies ; 87 ressources ; 62 ressources capturées localement.
+137 fiches enrichies ; 87 ressources ; 62 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,10 +10,10 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 106 | 44 | 0 | 0 | 0 |
-| organisation | 122 | 28 | 0 | 0 | 0 |
-| steps | 123 | 27 | 0 | 0 | 0 |
-| instructions | 117 | 33 | 0 | 0 | 0 |
+| objectives | 111 | 39 | 0 | 0 | 0 |
+| organisation | 127 | 23 | 0 | 0 | 0 |
+| steps | 128 | 22 | 0 | 0 | 0 |
+| instructions | 122 | 28 | 0 | 0 | 0 |
 | success_criteria | 20 | 130 | 0 | 0 | 0 |
 | common_errors | 7 | 143 | 0 | 0 | 0 |
 | coach_points | 53 | 97 | 0 | 0 | 0 |
@@ -62,7 +62,7 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; dernière tentative : FAILED le 2026-09-08T16:13:04.294461+00:00 — Taille maximale dépassée
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-07T17:25:51.993926+00:00 — Accès interdit par robots.txt
 - [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) : Aucune capture ; pas de tentative enregistrée
-- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T12:00:18.554219+00:00 — Vérification robots impossible : 403
+- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-16T11:00:12.404795+00:00 — Vérification robots impossible : 403
 - [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:33.602634+00:00
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:41.381553+00:00
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
