@@ -44,4 +44,7 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Circulation du ballon et coordination collective.
 
+**Tags proposés :** Passe · Coordination · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

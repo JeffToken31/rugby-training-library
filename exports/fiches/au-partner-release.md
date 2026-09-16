@@ -46,4 +46,7 @@ Détails extraits le 2026-09-10 — Partner Tag — ground release progression �
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en binôme et soutien.
 
+**Tags proposés :** Évitement · Ramassage du ballon · Poursuite et délivrance · Duel
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space.

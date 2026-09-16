@@ -46,4 +46,7 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en progression collective.
 
+**Tags proposés :** Passe · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, duration_min, space.

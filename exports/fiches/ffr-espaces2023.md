@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — PDF page 66.
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Réaction et course en duel.
 
+**Tags proposés :** Réaction au signal · Prise d’information · Ramassage du ballon
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

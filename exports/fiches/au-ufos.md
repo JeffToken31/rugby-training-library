@@ -48,4 +48,7 @@ Détails extraits le 2026-09-10 — UFOs — Description, Coaching Outcome, Chan
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Ramasser, recevoir et transmettre.
 
+**Tags proposés :** Réception · Évitement · Prise d’information
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_max.

@@ -42,4 +42,7 @@ Détails extraits le 2026-09-10 — PDF page 21 — Break the walls.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Jeux à zones de marque.
 
+**Tags proposés :** Passe · Évitement · Réaction au signal · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

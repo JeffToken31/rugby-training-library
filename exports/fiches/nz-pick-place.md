@@ -46,4 +46,7 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Parcours et relais avec ballon.
 
+**Tags proposés :** Manipulation du ballon · Ramassage du ballon · Parcours
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, coach_points, duration_min.

@@ -44,4 +44,7 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Créer et exploiter un espace en opposition.
 
+**Tags proposés :** Prise d’information · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

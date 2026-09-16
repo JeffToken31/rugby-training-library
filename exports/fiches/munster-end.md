@@ -42,4 +42,7 @@ Détails extraits le 2026-09-16 — PDF page 9 (numérotation 1-based) — Game 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Jeux à zones de marque.
 
+**Tags proposés :** Passe · Coopération · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

@@ -46,4 +46,7 @@ Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Parcours et relais avec ballon.
 
+**Tags proposés :** Manipulation du ballon · Course · Relais · Parcours
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min.

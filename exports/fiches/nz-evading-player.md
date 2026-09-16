@@ -44,4 +44,7 @@ Détails extraits le 2026-09-10 — Evading the Player — Objective / Principle
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Réaction et course en duel.
 
+**Tags proposés :** Évitement · Duel
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

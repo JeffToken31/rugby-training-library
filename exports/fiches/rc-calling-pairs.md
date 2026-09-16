@@ -44,4 +44,7 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en binôme et soutien.
 
+**Tags proposés :** Passe · Réception · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors, coach_points, duration_min, players_min, players_max, space.

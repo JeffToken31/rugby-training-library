@@ -459,6 +459,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "format:poursuite",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-cat-mouse",
+        "tag_ids": [
+          "format:duel",
+          "format:poursuite",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -789,6 +813,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "format:relais",
+        "skill:coordination",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "au-chain-relay",
+        "tag_ids": [
+          "format:parcours",
+          "format:relais",
+          "skill:coordination",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -1117,6 +1165,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-colour-tag",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -1445,6 +1515,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-colour-two",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -1773,6 +1865,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:prise-information",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-cone-game",
+        "tag_ids": [
+          "format:duel",
+          "skill:prise-information",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -2014,6 +2128,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:manipulation",
+        "skill:passe",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "au-familiarisation",
+        "tag_ids": [
+          "skill:manipulation",
+          "skill:passe",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -2344,6 +2480,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "skill:course",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-fruit-salad",
+        "tag_ids": [
+          "format:parcours",
+          "skill:course",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -2673,6 +2831,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:course",
+        "skill:jeu-pied",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "au-kick-chase",
+        "tag_ids": [
+          "skill:course",
+          "skill:jeu-pied",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -3003,6 +3183,24 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:jeu-pied"
+      ],
+      "tagging": {
+        "variant_id": "au-kick-golf",
+        "tag_ids": [
+          "skill:jeu-pied"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -3333,6 +3531,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:jeu-pied"
+      ],
+      "tagging": {
+        "variant_id": "au-kick-tennis",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:jeu-pied"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -3661,6 +3879,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:collecte",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "au-nest-pass",
+        "tag_ids": [
+          "format:collecte",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -3902,6 +4144,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "au-octopus",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -4231,6 +4495,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "format:relais",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "au-over-under",
+        "tag_ids": [
+          "format:circulation",
+          "format:relais",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -4559,6 +4847,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "format:poursuite",
+        "skill:evitement",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "au-partner-release",
+        "tag_ids": [
+          "format:duel",
+          "format:poursuite",
+          "skill:evitement",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -4887,6 +5199,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "format:poursuite",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-partner-tag",
+        "tag_ids": [
+          "format:duel",
+          "format:poursuite",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -5216,6 +5552,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "au-pass-duck",
+        "tag_ids": [
+          "format:circulation",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -5543,6 +5903,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:relais",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "au-pop-race",
+        "tag_ids": [
+          "format:relais",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -5873,6 +6255,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:jeu-pied",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "au-tennis-return",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:jeu-pied",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -6201,6 +6605,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:evitement",
+        "skill:prise-information",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "au-ufos",
+        "tag_ids": [
+          "skill:evitement",
+          "skill:prise-information",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -6531,6 +6957,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "au-wolf",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -6763,6 +7213,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "ffr-appuis",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -6995,6 +7465,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "ffr-auto",
+        "tag_ids": [
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -7249,6 +7739,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:manipulation",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "ffr-canard",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:manipulation",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -7465,6 +7977,23 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "skill:manipulation"
+      ],
+      "tagging": {
+        "variant_id": "ffr-carre-atelier",
+        "tag_ids": [
+          "skill:manipulation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -7739,6 +8268,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:collecte",
+        "skill:course",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "ffr-carre2-atelier",
+        "tag_ids": [
+          "format:collecte",
+          "skill:course",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -7974,6 +8527,24 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:jeu-pied"
+      ],
+      "tagging": {
+        "variant_id": "ffr-cpf",
+        "tag_ids": [
+          "skill:jeu-pied"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -8228,6 +8799,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:equilibre",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "ffr-dos-postures",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:equilibre",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -8444,6 +9037,25 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:course"
+      ],
+      "tagging": {
+        "variant_id": "ffr-duellong-atelier",
+        "tag_ids": [
+          "format:duel",
+          "skill:course"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -8660,6 +9272,25 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "skill:cooperation",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "ffr-duels-atelier",
+        "tag_ids": [
+          "skill:cooperation",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -8898,6 +9529,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:prise-information",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "ffr-espaces2023",
+        "tag_ids": [
+          "skill:prise-information",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -9130,6 +9783,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "ffr-gagne",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -9346,6 +10021,23 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "skill:lutte"
+      ],
+      "tagging": {
+        "variant_id": "ffr-gazelles-atelier",
+        "tag_ids": [
+          "skill:lutte"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -9616,6 +10308,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "skill:jeu-pied"
+      ],
+      "tagging": {
+        "variant_id": "ffr-guide-dribble",
+        "tag_ids": [
+          "format:parcours",
+          "skill:jeu-pied"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -9888,6 +10600,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "ffr-guide-recevoir-passer",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -10123,6 +10857,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "ffr-initiative",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -10357,6 +11111,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:passe",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "ffr-interval",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:passe",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -10613,6 +11389,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:lutte"
+      ],
+      "tagging": {
+        "variant_id": "ffr-lutte-avancer",
+        "tag_ids": [
+          "format:duel",
+          "skill:lutte"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -10829,6 +11625,25 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:equilibre"
+      ],
+      "tagging": {
+        "variant_id": "ffr-pantheres-atelier",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:equilibre"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -11061,6 +11876,24 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:jeu-pied"
+      ],
+      "tagging": {
+        "variant_id": "ffr-pied",
+        "tag_ids": [
+          "skill:jeu-pied"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -11277,6 +12110,23 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "skill:plaquage"
+      ],
+      "tagging": {
+        "variant_id": "ffr-plaquage-atelier",
+        "tag_ids": [
+          "skill:plaquage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -11493,6 +12343,23 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "skill:lutte"
+      ],
+      "tagging": {
+        "variant_id": "ffr-protege-atelier",
+        "tag_ids": [
+          "skill:lutte"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -11725,6 +12592,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:ramassage",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "ffr-ramasser",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:ramassage",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -11973,6 +12864,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "ffr-reception",
+        "tag_ids": [
+          "format:circulation",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -12189,6 +13100,27 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "format:relais",
+        "skill:motricite",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "ffr-relais-atelier",
+        "tag_ids": [
+          "format:relais",
+          "skill:motricite",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -12443,6 +13375,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "ffr-roulade-releve",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -12697,6 +13649,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:equilibre",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "ffr-saut-ballon",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:equilibre",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -12950,6 +13924,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "ffr-speedy-individuel",
+        "tag_ids": [
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -13202,6 +14196,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "ffr-speedy-partage",
+        "tag_ids": [
+          "format:duel",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -13450,6 +14466,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "ffr-transmettre",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -13708,6 +14744,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "format:relais",
+        "skill:course",
+        "skill:motricite",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "ffr-tresors2023",
+        "tag_ids": [
+          "format:parcours",
+          "format:relais",
+          "skill:course",
+          "skill:motricite",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -13958,6 +15020,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "imagine-cold-hot",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -14233,6 +15317,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "imagine-depth-running",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -14475,6 +15581,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:coordination",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "munster-crabe",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:coordination",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -14707,6 +15835,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "munster-end",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -14949,6 +16099,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:equilibre",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "munster-flamant",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:equilibre",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -15190,6 +16362,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:evitement",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "munster-gates",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:evitement",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -15432,6 +16626,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:coordination",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "munster-gorille",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:coordination",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -15674,6 +16890,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "munster-grenouille",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -15918,6 +17154,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "munster-hunters",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -16171,6 +17429,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "munster-mud",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -16412,6 +17692,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "munster-rats",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -16775,6 +18079,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:coordination",
+        "skill:manipulation"
+      ],
+      "tagging": {
+        "variant_id": "nz-awareness",
+        "tag_ids": [
+          "skill:coordination",
+          "skill:manipulation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -17176,6 +18500,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-circle",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -17585,6 +18929,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-corner",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -17904,6 +19270,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "nz-evading-player",
+        "tag_ids": [
+          "format:duel",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -18292,6 +19678,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:prise-information",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "nz-follow",
+        "tag_ids": [
+          "skill:prise-information",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -18611,6 +20017,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:conservation",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-ground-pass",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:conservation",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -18987,6 +20417,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "format:relais",
+        "skill:course",
+        "skill:manipulation"
+      ],
+      "tagging": {
+        "variant_id": "nz-handling-relay",
+        "tag_ids": [
+          "format:parcours",
+          "format:relais",
+          "skill:course",
+          "skill:manipulation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -19250,6 +20704,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:manipulation",
+        "skill:passe",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "nz-memory",
+        "tag_ids": [
+          "format:circulation",
+          "skill:manipulation",
+          "skill:passe",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -19610,6 +21088,34 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "format:relais",
+        "skill:jeu-pied",
+        "skill:manipulation",
+        "skill:motricite",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "nz-multi-relay",
+        "tag_ids": [
+          "format:parcours",
+          "format:relais",
+          "skill:jeu-pied",
+          "skill:manipulation",
+          "skill:motricite",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -19999,6 +21505,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "nz-no-ball",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -20262,6 +21788,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "nz-noodle-highfive",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -20525,6 +22073,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:evitement",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-noodle-pass",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:evitement",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -20844,6 +22416,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:evitement",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "nz-number-duel",
+        "tag_ids": [
+          "format:duel",
+          "skill:evitement",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -21195,6 +22791,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:course",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "nz-numbers-race",
+        "tag_ids": [
+          "skill:course",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -21516,6 +23134,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "nz-octopus-cross",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -21898,6 +23536,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:parcours",
+        "skill:manipulation",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "nz-pick-place",
+        "tag_ids": [
+          "format:parcours",
+          "skill:manipulation",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -22219,6 +23879,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "format:poursuite",
+        "skill:evitement",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "nz-rats-free",
+        "tag_ids": [
+          "format:duel",
+          "format:poursuite",
+          "skill:evitement",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -22540,6 +24226,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "format:poursuite",
+        "skill:evitement",
+        "skill:ramassage",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "nz-rats-straight",
+        "tag_ids": [
+          "format:duel",
+          "format:poursuite",
+          "skill:evitement",
+          "skill:ramassage",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -22801,6 +24513,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "nz-rip",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -23122,6 +24856,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "nz-shadow",
+        "tag_ids": [
+          "format:duel",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -23443,6 +25197,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:duel",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "nz-shadow-mirror",
+        "tag_ids": [
+          "format:duel",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -23762,6 +25536,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:cooperation",
+        "skill:jeu-pied",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-tap-pass",
+        "tag_ids": [
+          "format:circulation",
+          "skill:cooperation",
+          "skill:jeu-pied",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -24144,6 +25942,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-touchdown",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -24465,6 +26287,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "nz-zigzag",
+        "tag_ids": [
+          "format:circulation",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -24734,6 +26578,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "rc-aliens",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -25028,6 +26894,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:manipulation"
+      ],
+      "tagging": {
+        "variant_id": "rc-bounce",
+        "tag_ids": [
+          "format:circulation",
+          "skill:manipulation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -25331,6 +27217,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "rc-bulldog",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -25636,6 +27544,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "rc-calling-pairs",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -25936,6 +27866,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-capture-aliens",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -26216,6 +28168,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "rc-chaos-touch",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -26473,6 +28449,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:coordination",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-circle-jump",
+        "tag_ids": [
+          "format:circulation",
+          "skill:coordination",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -26740,6 +28738,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "rc-colour-touch",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -27032,6 +29050,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:collecte",
+        "skill:course",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "rc-eggs",
+        "tag_ids": [
+          "format:collecte",
+          "skill:course",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -27288,6 +29328,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "rc-endball-groups",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -27613,6 +29677,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "format:surnombre",
+        "skill:conservation",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-four-one",
+        "tag_ids": [
+          "format:opposition-collective",
+          "format:surnombre",
+          "skill:conservation",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -27920,6 +30010,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-lateral-three",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -28168,6 +30278,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:prise-information",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "rc-multidirection",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:prise-information",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -28437,6 +30569,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "rc-netball",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -28705,6 +30861,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:prise-information",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "rc-numbers-tag",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:prise-information",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -29039,6 +31217,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "rc-pairs",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -29320,6 +31520,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-pass-start",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -29654,6 +31874,34 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "format:surnombre",
+        "skill:conservation",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "rc-piggy",
+        "tag_ids": [
+          "format:opposition-collective",
+          "format:surnombre",
+          "skill:conservation",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -29912,6 +32160,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation"
+      ],
+      "tagging": {
+        "variant_id": "rc-protect-circle",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -30168,6 +32436,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:cooperation",
+        "skill:course",
+        "skill:passe",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "rc-rounders",
+        "tag_ids": [
+          "skill:cooperation",
+          "skill:course",
+          "skill:passe",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -30460,6 +32752,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "rc-statues",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -30761,6 +33075,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "rc-taggrab",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -31019,6 +33355,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:course",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "rc-tagmania",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:course",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -31286,6 +33644,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "rc-tagmatch",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -31550,6 +33932,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-team-scarecrow",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -31887,6 +34291,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:conservation",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-ten",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:conservation",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -32184,6 +34612,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "rc-triangle",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -32466,6 +34916,27 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": false
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:manipulation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "rc-two-balls",
+        "tag_ids": [
+          "format:circulation",
+          "skill:manipulation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "PROVISIONAL",
+        "basis_fields": [
+          "title",
+          "theme"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -32809,6 +35280,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:surnombre",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "rc-two-one",
+        "tag_ids": [
+          "format:surnombre",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -33057,6 +35552,24 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "scot-alignement",
+        "tag_ids": [
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -33327,6 +35840,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "scot-animal",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -33639,6 +36174,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:evitement",
+        "skill:passe",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "scot-break-walls",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:evitement",
+          "skill:passe",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -33885,6 +36444,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "scot-chaine",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -34177,6 +36758,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "scot-chaos-tig",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -34504,6 +37105,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "scot-corner",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -34811,6 +37434,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "scot-cricket",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -35118,6 +37761,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:coordination",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "scot-crocodile",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:coordination",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -35388,6 +38053,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "scot-endzone",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -35695,6 +38382,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:equilibre",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "scot-kangaroo",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:equilibre",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -36002,6 +38711,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:coordination",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "scot-monkey",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:coordination",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -36309,6 +39040,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:motricite-individuelle",
+        "skill:motricite"
+      ],
+      "tagging": {
+        "variant_id": "scot-monster",
+        "tag_ids": [
+          "format:motricite-individuelle",
+          "skill:motricite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -36616,6 +39367,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:cooperation",
+        "skill:manipulation"
+      ],
+      "tagging": {
+        "variant_id": "scot-pass-pal",
+        "tag_ids": [
+          "format:circulation",
+          "skill:cooperation",
+          "skill:manipulation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -36886,6 +39659,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "scot-passback",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -37148,6 +39943,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:relais",
+        "skill:course",
+        "skill:motricite",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "scot-relais",
+        "tag_ids": [
+          "format:relais",
+          "skill:course",
+          "skill:motricite",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -37455,6 +40274,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement",
+        "skill:manipulation"
+      ],
+      "tagging": {
+        "variant_id": "scot-roll-tig",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement",
+          "skill:manipulation"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -37703,6 +40544,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:coordination",
+        "skill:reception"
+      ],
+      "tagging": {
+        "variant_id": "scot-tennis",
+        "tag_ids": [
+          "format:circulation",
+          "skill:coordination",
+          "skill:reception"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -37949,6 +40812,24 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "scot-zones",
+        "tag_ids": [
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -38257,6 +41138,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement",
+        "skill:reaction"
+      ],
+      "tagging": {
+        "variant_id": "sg-team-tag",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement",
+          "skill:reaction"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -38674,6 +41577,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-chain-reaction",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -39049,6 +41974,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "wr-changing-defender",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -39359,6 +42306,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "wr-find-space",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -39708,6 +42675,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "wr-five-walls",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -40053,6 +43040,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:ramassage"
+      ],
+      "tagging": {
+        "variant_id": "wr-follow-choice",
+        "tag_ids": [
+          "format:circulation",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:ramassage"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -40428,6 +43439,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:manipulation",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-follow-leader",
+        "tag_ids": [
+          "format:circulation",
+          "skill:manipulation",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -40803,6 +43836,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-formation",
+        "tag_ids": [
+          "format:circulation",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -41212,6 +44267,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:conservation",
+        "skill:cooperation",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-keep-ball",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:conservation",
+          "skill:cooperation",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -41587,6 +44668,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:cooperation",
+        "skill:evitement",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "wr-pairs-tag",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:cooperation",
+          "skill:evitement",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -41866,6 +44971,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "format:surnombre",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-pass-defend",
+        "tag_ids": [
+          "format:opposition-collective",
+          "format:surnombre",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -42277,6 +45408,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "format:relais",
+        "skill:manipulation",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-pass-support",
+        "tag_ids": [
+          "format:circulation",
+          "format:relais",
+          "skill:manipulation",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -42652,6 +45807,30 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:circulation",
+        "format:relais",
+        "skill:passe",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-passing-relays",
+        "tag_ids": [
+          "format:circulation",
+          "format:relais",
+          "skill:passe",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -42972,6 +46151,26 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:poursuite",
+        "skill:evitement"
+      ],
+      "tagging": {
+        "variant_id": "wr-scarecrow",
+        "tag_ids": [
+          "format:poursuite",
+          "skill:evitement"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -43381,6 +46580,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "format:surnombre",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-tag-2v1",
+        "tag_ids": [
+          "format:opposition-collective",
+          "format:surnombre",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -43769,6 +46994,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "format:surnombre",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-tag-3v1",
+        "tag_ids": [
+          "format:opposition-collective",
+          "format:surnombre",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -44126,6 +47377,32 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "format:surnombre",
+        "skill:passe",
+        "skill:prise-information",
+        "skill:soutien"
+      ],
+      "tagging": {
+        "variant_id": "wr-tag-3v2",
+        "tag_ids": [
+          "format:opposition-collective",
+          "format:surnombre",
+          "skill:passe",
+          "skill:prise-information",
+          "skill:soutien"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     },
     {
@@ -44501,6 +47778,28 @@
         "u8_suitability": "TO_REVIEW",
         "contact_level": "UNKNOWN",
         "default_visible": true
+      },
+      "tag_ids": [
+        "format:opposition-collective",
+        "skill:cooperation",
+        "skill:passe"
+      ],
+      "tagging": {
+        "variant_id": "wr-walls-212",
+        "tag_ids": [
+          "format:opposition-collective",
+          "skill:cooperation",
+          "skill:passe"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "theme",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
       }
     }
   ],
@@ -44606,5 +47905,141 @@
     "automatic_merge": false,
     "note": "Présence des rubriques ≠ exhaustivité, validation terrain ou conformité U8. Les propositions et observations restent identifiées."
   },
-  "content_sha256": "de848aa87019a95455a717cc80cc322cbe5396aa74c0dc9991ce57883333cead"
+  "tag_taxonomy": {
+    "version": 1,
+    "policy": "Multi-étiquetage sans duplication de fiche. Les tags décrivent le contenu connu ; absence de tag ne prouve pas absence de compétence. Aucun niveau de contact déduit.",
+    "tags": [
+      {
+        "id": "skill:passe",
+        "label": "Passe",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:reception",
+        "label": "Réception",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:soutien",
+        "label": "Soutien",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:evitement",
+        "label": "Évitement",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:reaction",
+        "label": "Réaction au signal",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:manipulation",
+        "label": "Manipulation du ballon",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:jeu-pied",
+        "label": "Jeu au pied",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:motricite",
+        "label": "Motricité",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:cooperation",
+        "label": "Coopération",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:prise-information",
+        "label": "Prise d’information",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:lutte",
+        "label": "Lutte",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:plaquage",
+        "label": "Plaquage",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:equilibre",
+        "label": "Équilibre et postures",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:ramassage",
+        "label": "Ramassage du ballon",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:coordination",
+        "label": "Coordination",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:course",
+        "label": "Course",
+        "dimension": "skill"
+      },
+      {
+        "id": "skill:conservation",
+        "label": "Conservation du ballon",
+        "dimension": "skill"
+      },
+      {
+        "id": "format:relais",
+        "label": "Relais",
+        "dimension": "format"
+      },
+      {
+        "id": "format:poursuite",
+        "label": "Poursuite et délivrance",
+        "dimension": "format"
+      },
+      {
+        "id": "format:duel",
+        "label": "Duel",
+        "dimension": "format"
+      },
+      {
+        "id": "format:circulation",
+        "label": "Circulation et transmission",
+        "dimension": "format"
+      },
+      {
+        "id": "format:opposition-collective",
+        "label": "Opposition collective",
+        "dimension": "format"
+      },
+      {
+        "id": "format:parcours",
+        "label": "Parcours",
+        "dimension": "format"
+      },
+      {
+        "id": "format:collecte",
+        "label": "Collecte de ballons",
+        "dimension": "format"
+      },
+      {
+        "id": "format:surnombre",
+        "label": "Surnombre",
+        "dimension": "format"
+      },
+      {
+        "id": "format:motricite-individuelle",
+        "label": "Motricité individuelle",
+        "dimension": "format"
+      }
+    ]
+  },
+  "content_sha256": "a1dacf3cf218ac624fb91e991d29b4aabff33ca0e708caef56679dbfb400e423"
 }

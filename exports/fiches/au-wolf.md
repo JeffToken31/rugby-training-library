@@ -46,4 +46,7 @@ Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Traversée de défenses.
 
+**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

@@ -42,6 +42,9 @@ Détails extraits le 2026-09-09 — PDF page 19.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Traversée de défenses.
 
+**Tags proposés :** Évitement
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Observer un défenseur et choisir un passage pour franchir sa zone.

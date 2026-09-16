@@ -62,4 +62,7 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Conservation et interception.
 
+**Tags proposés :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : duration_min, space.

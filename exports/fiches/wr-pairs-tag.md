@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points c
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse collective par passes.
 
+**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors.

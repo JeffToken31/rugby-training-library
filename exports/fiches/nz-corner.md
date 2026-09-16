@@ -46,4 +46,7 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse collective par passes.
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min.

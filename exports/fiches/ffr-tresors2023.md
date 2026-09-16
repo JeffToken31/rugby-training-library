@@ -46,4 +46,7 @@ Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisati
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Parcours et relais avec ballon.
 
+**Tags proposés :** Motricité · Ramassage du ballon · Course · Relais · Parcours
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors, coach_points, duration_min, space.

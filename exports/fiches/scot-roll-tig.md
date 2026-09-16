@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 15 — Roll the ball tig.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Manipulation du ballon · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Repérer un partenaire immobilisé et contrôler un ballon roulé pour le délivrer.

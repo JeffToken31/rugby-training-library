@@ -48,4 +48,7 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Manipulation et coordination individuelle.
 
+**Tags proposés :** Manipulation du ballon · Coordination
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors, duration_min, players_min, players_max.

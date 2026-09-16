@@ -46,4 +46,7 @@ Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcom
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Jeux de renvoi : main et pied.
 
+**Tags proposés :** Jeu au pied · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

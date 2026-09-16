@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — Passing - 5 v 1 x 5 — Difficulty ; Coachin
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Surnombre et soutien face à un opposant.
 
+**Tags proposés :** Évitement · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors.

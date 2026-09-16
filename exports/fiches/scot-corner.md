@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse collective par passes.
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space, material.

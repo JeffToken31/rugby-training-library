@@ -42,4 +42,7 @@ Détails extraits le 2026-09-16 — PDF page 6 (numérotation 1-based) — Game 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, players_min, players_max, space.

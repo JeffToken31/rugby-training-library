@@ -44,4 +44,7 @@ Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Princi
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Conservation et interception.
 
+**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

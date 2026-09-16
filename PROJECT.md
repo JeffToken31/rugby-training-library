@@ -20,3 +20,7 @@ Carré 2 : intégrer la description utilisateur et l’interdiction d’empêche
 Consulter docs/INTERFACE_SEANCES.md et docs/CONTRAT_APPLICATION.md. Prévoir bibliothèque, fiche et constructeur de séance, sans gestion des enfants ou des parents au MVP. Dépôt GitHub privé. Aucun secret ni donnée personnelle enfant. Archives brutes locales non publiées. L’ancienne automatisation de collecte est en pause.
 
 Historique conservé dans docs/archive/PROJECT_avant_consolidation.md. Les anciens bilans datés décrivent leur lot ; ils ne fixent plus la priorité courante.
+
+## Répartition du travail confirmée
+
+L’utilisateur confie ici les actions sur la base : affiner les informations existantes, attribuer les tags et permettre plusieurs catégories sans dupliquer les fiches. Le cadrage de l’application sera mené dans une autre conversation ; ne pas lancer son développement ici. Les tags sont versionnés dans data/exercise-tags.json et intégrés à la reconstruction. Aucune collecte supplémentaire.

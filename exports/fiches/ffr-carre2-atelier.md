@@ -38,6 +38,9 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 État : Observation utilisateur. Aucune validation coach implicite.
 Famille proposée : Collecte de ballons.
 
+**Tags proposés :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **organisation — USER_REPORTED**
 
 Trois groupes de cinq à six enfants environ, chacun avec son camp ; ballons au centre ; numéros attribués aux enfants dans chaque groupe.

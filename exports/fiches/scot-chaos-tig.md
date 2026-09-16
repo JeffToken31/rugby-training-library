@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 15 — Chaos Tig.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Observer les autres joueurs et réagir aux changements de statut dans une poursuite.

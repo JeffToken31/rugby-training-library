@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Motricité et postures.
 
+**Tags proposés :** Motricité · Coordination · Motricité individuelle
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Enchaîner appuis des mains et rapprochement des pieds.

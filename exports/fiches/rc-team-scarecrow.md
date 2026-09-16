@@ -42,6 +42,9 @@ Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progre
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Chasse collective par passes.
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.

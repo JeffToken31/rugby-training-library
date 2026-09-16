@@ -46,4 +46,7 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 État : Description insuffisante. Aucune validation coach implicite.
 Famille proposée : Circulation du ballon et coordination collective.
 
+**Tags proposés :** Passe · Manipulation du ballon · Circulation et transmission
+Classement provisoire.
+
 Champs à préciser : organisation, success_criteria, common_errors, duration_min, players_min, players_max, space.

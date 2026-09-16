@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — Pass and Support- Follow the Leader — Diff
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en binôme et soutien.
 
+**Tags proposés :** Passe · Coopération · Ramassage du ballon · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, players_min, players_max.

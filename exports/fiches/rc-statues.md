@@ -46,4 +46,7 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors, duration_min, players_min, players_max, space.

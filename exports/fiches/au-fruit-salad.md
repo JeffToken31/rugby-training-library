@@ -46,4 +46,7 @@ Détails extraits le 2026-09-10 — Fruit Salad — Description, Coaching Outcom
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Réaction et course en duel.
 
+**Tags proposés :** Réaction au signal · Course · Parcours
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

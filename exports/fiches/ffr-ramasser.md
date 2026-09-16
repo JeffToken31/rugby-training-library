@@ -42,4 +42,7 @@ Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagi
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Ramasser, recevoir et transmettre.
 
+**Tags proposés :** Passe · Réception · Ramassage du ballon · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

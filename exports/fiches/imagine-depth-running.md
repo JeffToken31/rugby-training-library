@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — Carte Depth Running — How to Play ; page n
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en progression collective.
 
+**Tags proposés :** Passe · Soutien · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min.

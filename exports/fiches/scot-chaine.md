@@ -42,6 +42,9 @@ Détails extraits le 2026-09-09 — PDF page 18.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Coordonner ses déplacements avec ses partenaires pendant une poursuite.

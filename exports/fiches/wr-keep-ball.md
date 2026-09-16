@@ -48,4 +48,7 @@ Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points c
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Conservation et interception.
 
+**Tags proposés :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors.

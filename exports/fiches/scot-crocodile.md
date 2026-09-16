@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 16 — Crocodile Walk.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Motricité et postures.
 
+**Tags proposés :** Motricité · Coordination · Motricité individuelle
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Coordonner les appuis des bras et des jambes dans un déplacement au sol.

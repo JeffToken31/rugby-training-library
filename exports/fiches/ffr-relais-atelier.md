@@ -38,4 +38,7 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 État : Description insuffisante. Aucune validation coach implicite.
 Famille proposée : Parcours et relais avec ballon.
 
+**Tags proposés :** Passe · Motricité · Relais
+Classement provisoire.
+
 Champs à préciser : organisation, steps, instructions, success_criteria, common_errors, duration_min, players_min, players_max, space, material.

@@ -47,3 +47,13 @@ Un bloc d’ateliers contient des rotations successives ; les affectations des g
 `session_plan.validate` vérifie effectifs, somme des durées, affectations et références. Il refuse les fiches INCOMPLETE. Il ne vérifie pas la pédagogie, le matériel disponible ou la sécurité. Le brouillon fourni a des blocs à choisir et ne doit pas porter le statut « prêt à utiliser ».
 
 Avant export terrain dans la future interface : choisir les activités encore vides, lier opposition et objectif, confirmer les paramètres, lever les incertitudes utiles, contrôler les éducateurs et matériel, conserver les choix du coach. Pas de compte ni de données d’enfants requis pour ce MVP.
+
+## Tags de filtrage — complément du 16 septembre
+
+`tag_taxonomy.tags` expose les définitions : identifiant stable, libellé français et dimension (`skill` ou `format`). Chaque exercice expose `tag_ids` et `tagging` (origine AI_INFERRED, date, champs examinés et statut EDITORIAL_REVIEWED ou PROVISIONAL). Le classement est une décision éditoriale appliquée au corpus, pas une extraction de mots-clés au chargement.
+
+Les 17 compétences et 10 formes de jeu sont combinables. Un même identifiant peut être listé dans plusieurs catégories ; l’union des résultats doit être dédupliquée par identifiant. Les tags ne créent aucune variante et ne décident pas de fusion entre deux fiches proches. Les thèmes historiques et les 22 familles sont conservés.
+
+`exercise_tags.select` implémente ET/OU, rejette les tags inconnus et exclut par défaut les fiches INCOMPLETE. Le tag Plaquage pointe actuellement vers une fiche encore incomplète : afficher ce manque plutôt que proposer une autre activité de contact comme équivalente. Absence d’un tag ≠ preuve d’absence d’une compétence. Niveau de contact et adéquation U8 restent distincts et non déduits.
+
+La dimension « forme de jeu » n’est pas forcée quand aucun des formats définis ne décrit correctement la fiche. Les tags sont affichés dans le catalogue, dans chaque fiche et dans exports/CATEGORIES.md.

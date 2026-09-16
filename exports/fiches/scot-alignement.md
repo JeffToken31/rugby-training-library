@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 14.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Alignement collectif.
 
+**Tags proposés :** Prise d’information
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Observer les positions des partenaires et choisir une place pour former un alignement.

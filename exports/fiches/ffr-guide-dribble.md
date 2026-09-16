@@ -46,4 +46,7 @@ Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagi
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Jeu et conduite au pied.
 
+**Tags proposés :** Jeu au pied · Parcours
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors, coach_points, duration_min, players_min, players_max.

@@ -48,4 +48,7 @@ Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficu
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en progression collective.
 
+**Tags proposés :** Passe · Soutien · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors.

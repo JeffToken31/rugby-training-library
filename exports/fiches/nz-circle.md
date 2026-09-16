@@ -48,4 +48,7 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Circulation du ballon et coordination collective.
 
+**Tags proposés :** Passe · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, duration_min.

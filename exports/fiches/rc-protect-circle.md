@@ -42,4 +42,7 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Protection collective d’une cible.
 
+**Tags proposés :** Coopération · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space.

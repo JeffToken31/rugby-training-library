@@ -48,4 +48,7 @@ Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Surnombre et soutien face à un opposant.
 
+**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors.

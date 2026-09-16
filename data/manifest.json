@@ -173,6 +173,7 @@
     ],
     "source_supplements": [
       "data/ffr-atelier1-video-links.json"
-    ]
+    ],
+    "tags": "data/exercise-tags.json"
   }
 }

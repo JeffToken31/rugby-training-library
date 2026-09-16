@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Motricité et postures.
 
+**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Retrouver un équilibre sur un pied après un changement d’appui.

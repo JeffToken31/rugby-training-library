@@ -62,4 +62,7 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Surnombre et soutien face à un opposant.
 
+**Tags proposés :** Passe · Soutien · Prise d’information · Surnombre
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : duration_min, space.

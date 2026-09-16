@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 13.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Jeux de renvoi : main et pied.
 
+**Tags proposés :** Réception · Coordination · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Coordonner réception et transmission d’une main avec un partenaire.

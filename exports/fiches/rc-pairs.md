@@ -62,4 +62,7 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Passes en binôme et soutien.
 
+**Tags proposés :** Passe · Soutien · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : duration_min, space.

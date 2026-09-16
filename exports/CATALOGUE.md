@@ -1,11 +1,15 @@
 # Bibliothèque rugby U8
 
+[Parcourir par compétence et forme de jeu](CATEGORIES.md)
+
 150 fiches · 87 sources
 
 Descriptions reformulées. Validation terrain à faire. Une durée de vidéo n’est pas une durée d’atelier.
 Les paramètres non renseignés restent inconnus. Les adaptations sont des propositions distinctes des sources.
 
 ## Aller au sol puis transmettre au soutien
+
+**Tags proposés :** Passe · Coopération · Relais
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Continuité au sol et soutien, sans adversaire qui plaque.**
 
@@ -41,6 +45,8 @@ Détails extraits le 2026-09-10 — Score the Try and Pop Race — Description, 
 
 ## Alterner trois formes du dos
 
+**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Enfant à quatre pattes.
@@ -69,6 +75,8 @@ Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagin
 
 ## Atteindre la zone opposée
 
+**Tags proposés :** Passe · Coopération · Opposition collective
+
 **passe · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
 
 Atteindre la zone adverse en courant ou passant.
@@ -96,6 +104,8 @@ Atteindre la zone adverse en courant ou passant.
 Détails extraits le 2026-09-16 — PDF page 22, pagination du fichier — TASK et texte de la carte.
 
 ## Avancer et passer avant le tag
+
+**Tags proposés :** Passe · Soutien · Coopération · Opposition collective
 
 **jeu collectif · âge source : Non précisé · Source consultée — validation terrain à faire**
 
@@ -126,6 +136,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 **Points coach issus de la source :** Encourager la passe avant le tag lorsque le partenaire est mieux placé et communiquer sur les espaces.
 
 ## Binômes guidés par le signal du coach
+
+**Tags proposés :** Réaction au signal · Prise d’information
 
 **prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
 
@@ -159,6 +171,8 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 ## Bonds de kangourou vers l’avant
 
+**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Bonds horizontaux répétés ; munster-grenouille vise un saut vertical sur place.**
 
 Départ en demi-flexion.
@@ -184,6 +198,8 @@ Départ en demi-flexion.
 Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
 
 ## Botter, récupérer et marquer
+
+**Tags proposés :** Jeu au pied · Ramassage du ballon · Course
 
 **jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Coup de pied puis récupération et essai ; différent du slalom en conduite.**
 
@@ -219,6 +235,8 @@ Détails extraits le 2026-09-10 — Kick Chase — Description, Coaching Outcome
 
 ## Capturer les extraterrestres par la passe
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
 
 Coopérer pour toucher les fuyards au ballon.
@@ -247,6 +265,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 
 ## Carré
 
+**Tags proposés :** Manipulation du ballon
+
 **manipulation · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Déplacements et manipulation, avec travail d’équilibre et d’observation.
@@ -271,6 +291,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 ## Carré 2
 
+**Tags proposés :** Réaction au signal · Ramassage du ballon · Course · Collecte de ballons
+
 **motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Éviter, ramasser et marquer ; deux phases annoncées, vidéo nécessaire.
@@ -294,6 +316,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Prendre l’information et utiliser les appuis ; contrôler le ramassage en course.
 
 ## Cercle de passes avec demi-tours sautés
+
+**Tags proposés :** Passe · Coordination · Circulation et transmission
 
 **coordination · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
@@ -325,6 +349,8 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 
 ## Cercle solidaire contre un poursuivant
 
+**Tags proposés :** Coopération · Poursuite et délivrance
+
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
 Cinq joueurs se tiennent en cercle et se déplacent ensemble pour empêcher un poursuivant de toucher le dos d’un joueur désigné. Changer le poursuivant et laisser un court temps de concertation entre les manches.
@@ -353,6 +379,8 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 
 ## Changer de ligne d’essai
 
+**Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
+
 **prise d’information · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
 Le coach annonce une couleur qui change la ligne visée par l’équipe en possession. Les équipes se réorganisent. La vidéo ajoute une pause de quatre secondes au défenseur après toucher.
@@ -380,6 +408,8 @@ Le coach annonce une couleur qui change la ligne visée par l’équipe en posse
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
 ## Chaque passe change le défenseur
+
+**Tags proposés :** Passe · Coopération · Opposition collective
 
 **opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : bascule des rôles à chaque passe, plutôt qu’un seul défenseur issu de la première passe.**
 
@@ -413,6 +443,8 @@ Détails extraits le 2026-09-16 — Decision Making - 4 v 1 — Difficulty ; Coa
 
 ## Chasse à la frite avec délivrance par la main
 
+**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
 
 Deux chasseurs avec frites, autres joueurs avec ballon.
@@ -443,6 +475,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 
 ## Chasse à la frite avec délivrance par passe
 
+**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
+
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
 
 Même chasse ; le joueur touché pose son ballon à ses pieds.
@@ -472,6 +506,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 **Espace source :** 15 × 10 m
 
 ## Chasse aux trésors — parcours
+
+**Tags proposés :** Motricité · Ramassage du ballon · Course · Relais · Parcours
 
 **motricité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
 
@@ -505,6 +541,8 @@ Détails extraits le 2026-09-09 — PDF page 70 (pagination fichier), organisati
 
 ## Chasse collective avec retour après ballon tombé
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+
 **coopération · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
 
 Deux équipes dans le carré ; le porteur reste immobile.
@@ -536,6 +574,8 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 **Espace source :** Carré de 10 × 10 m
 
 ## Chasse et arrêt dans un espace libre
+
+**Tags proposés :** Évitement · Poursuite et délivrance
 
 **évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
 
@@ -573,6 +613,8 @@ Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching po
 
 ## Chasse par binômes avec changement de rôle
 
+**Tags proposés :** Passe · Évitement · Coopération · Poursuite et délivrance
+
 **opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Binôme chasseur remplacé après capture ; la chasse ne grossit pas comme nz-corner. La phrase Each group is made up of 5 est tronquée ; dix joueurs et fonctionnement par paires sont explicites.**
 
 Un binôme chasseur avec ballon ; autres binômes dans le carré.
@@ -604,6 +646,8 @@ Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points c
 **Espace source :** 20 × 20 m
 
 ## Chasseurs passeurs par trois
+
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
 
 **passe · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
 
@@ -637,6 +681,8 @@ Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK 
 
 ## Chasseurs qui se passent le ballon
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+
 **coopération · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
 
 Les chasseurs coopèrent par passes pour toucher les proies, qui rejoignent une zone d’attente.
@@ -665,6 +711,8 @@ Détails extraits le 2026-09-16 — PDF page 11 (numérotation 1-based) — Game
 
 ## Chat : libérer en roulant le ballon
 
+**Tags proposés :** Évitement · Manipulation du ballon · Poursuite et délivrance
+
 **évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Variante de délivrance par roulement sous les jambes ; différente de la passe de nz-noodle-pass.**
 
 Joueurs chasseurs et poursuivis ; ballon disponible pour délivrer.
@@ -691,6 +739,8 @@ Détails extraits le 2026-09-09 — PDF page 15 — Roll the ball tig.
 
 ## Chat chaos : délivré quand son chasseur est pris
 
+**Tags proposés :** Évitement · Poursuite et délivrance
+
 **évitement et opposition · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Délivrance conditionnée par la capture du chasseur ; ni secouriste ni geste de libération.**
 
 Tous les joueurs sont chasseurs.
@@ -716,6 +766,8 @@ Tous les joueurs sont chasseurs.
 Détails extraits le 2026-09-09 — PDF page 15 — Chaos Tig.
 
 ## Chat et déplacements animaux
+
+**Tags proposés :** Évitement · Motricité · Poursuite et délivrance
 
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
 
@@ -744,6 +796,8 @@ Reprendre le jeu après un déplacement animal.
 Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK et texte de la carte.
 
 ## Chat et souris autour d’une forme
+
+**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Poursuite contrainte au contour d’une forme ; différente de la poursuite libre.**
 
@@ -777,6 +831,8 @@ Détails extraits le 2026-09-10 — Cat and Mouse — Description, Coaching Outc
 
 ## Chercher les espaces libres
 
+**Tags proposés :** Réaction au signal · Prise d’information · Ramassage du ballon
+
 **prise d’information · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
 
 Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur en moins de huit secondes, sans traverser les camps.
@@ -808,6 +864,8 @@ Détails extraits le 2026-09-16 — PDF page 66.
 **Manche source :** 8 secondes ; durée totale inconnue.
 
 ## Cinq attaquants face à cinq rideaux successifs
+
+**Tags proposés :** Évitement · Opposition collective
 
 **évitement et opposition · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Défense successive avec réduction progressive des attaquants ; différente des surnombres contre un seul rideau.**
 
@@ -841,6 +899,8 @@ Détails extraits le 2026-09-16 — Passing - 5 v 1 x 5 — Difficulty ; Coachin
 
 ## Circuit de passes mémorisé
 
+**Tags proposés :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
+
 **mémoire et manipulation · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
 
 Joueurs assis en cercle.
@@ -871,6 +931,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 
 ## Conduire le ballon au pied
 
+**Tags proposés :** Jeu au pied
+
 **jeu au pied · âge source : M8 · Source consultée — validation terrain à faire**
 
 Avancer en guidant le ballon alternativement des deux pieds vers une zone.
@@ -898,6 +960,8 @@ Avancer en guidant le ballon alternativement des deux pieds vers une zone.
 Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
 
 ## Conserver après avoir touché le sol
+
+**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
 
 **passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de conservation : contact au sol obligatoire, délai et interdiction de remise immédiate.**
 
@@ -928,6 +992,8 @@ Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Princi
 **Espace source :** 15 × 15 m
 
 ## Conserver par dix passes sans interception
+
+**Tags proposés :** Passe · Soutien · Coopération · Conservation du ballon · Opposition collective
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
 
@@ -963,6 +1029,8 @@ Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points c
 
 ## Coordonner deux ballons
 
+**Tags proposés :** Passe · Manipulation du ballon · Circulation et transmission
+
 **manipulation · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
 Un joueur alterne les échanges avec deux ballons circulant sur des trajets différents. Rapprocher les partenaires et installer le rythme avant d’accélérer.
@@ -994,6 +1062,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 [RugbyCoaching.tv](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie
 
 ## Couleur appelée : deux chasseurs contre un
+
+**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite : le joueur nommé fuit et subit deux poursuivants.**
 
@@ -1027,6 +1097,8 @@ Détails extraits le 2026-09-10 — Colour Tag — reverse roles — Description
 
 ## Couleur appelée : un chasseur contre deux
 
+**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
+
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Désignation du chasseur depuis une ronde triangulaire ; pas le toucher de couleur d’un match.**
 
 Trois joueurs tournent autour de trois plots colorés ; une ligne d’arrivée à proximité.
@@ -1059,6 +1131,8 @@ Détails extraits le 2026-09-10 — Colour Tag — Description, Coaching Outcome
 
 ## Coup franc pour soi
 
+**Tags proposés :** Jeu au pied
+
 **jeu au pied · âge source : M8 · Archive documentée — règles actuelles à vérifier**
 
 Maîtriser la remise en jeu et partir dans un espace libre.
@@ -1087,6 +1161,8 @@ Détails extraits le 2026-09-16 — PDF page 71 — atelier correspondant ; pagi
 
 ## Course autour des bases contre trois passes
 
+**Tags proposés :** Passe · Coopération · Ramassage du ballon · Course
+
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Texte source consulté ; validation terrain non effectuée.**
 
 Un coureur tente de boucler son parcours avant trois passes adverses.
@@ -1114,6 +1190,8 @@ Un coureur tente de boucler son parcours avant trois passes adverses.
 Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Course dans le tunnel des fruits
+
+**Tags proposés :** Réaction au signal · Course · Parcours
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Course à parcours imposé entre partenaires assis ; pas une poursuite vers un refuge.**
 
@@ -1147,6 +1225,8 @@ Détails extraits le 2026-09-10 — Fruit Salad — Description, Coaching Outcom
 
 ## Course numérotée avec deux ballons
 
+**Tags proposés :** Réaction au signal · Ramassage du ballon · Course
+
 **course · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
 
 Deux lignes face à face ; cinq binômes numérotés.
@@ -1176,6 +1256,8 @@ Détails extraits le 2026-09-08 — Description et paramètres du jeu.
 **Espace source :** 15 × 10 m
 
 ## Créer la profondeur par des départs en postures décalées
+
+**Tags proposés :** Passe · Soutien · Circulation et transmission
 
 **passe et soutien · âge source : Intermédiaire ; âge non précisé · Durée source : 10–15 minutes. Validation U8 non effectuée. Comparaison éditoriale : même famille que les passes en progression, départs corporels distincts organisant la profondeur.**
 
@@ -1209,6 +1291,8 @@ Détails extraits le 2026-09-16 — Carte Depth Running — How to Play ; page n
 
 ## Déplacement à quatre appuis
 
+**Tags proposés :** Motricité · Motricité individuelle
+
 **motricité · âge source : M8 · Source consultée — validation terrain à faire**
 
 Parcourir cinq mètres à quatre pattes, dos horizontal.
@@ -1237,6 +1321,8 @@ Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagin
 
 ## Déplacement du crabe
 
+**Tags proposés :** Motricité · Coordination · Motricité individuelle
+
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Mains et pieds au sol.
@@ -1263,6 +1349,8 @@ Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Déplacement du gorille
 
+**Tags proposés :** Motricité · Coordination · Motricité individuelle
+
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Mains et pieds au sol.
@@ -1288,6 +1376,8 @@ Mains et pieds au sol.
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Deux contre un avec passes libres au départ
+
+**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
 **opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
 
@@ -1324,6 +1414,8 @@ Détails extraits le 2026-09-16 — 2 v 1 — Difficulty ; Coaching points conse
 **Famille proposée :** surnombre-rubans
 
 ## Deux contre un sans contact
+
+**Tags proposés :** Passe · Soutien · Prise d’information · Surnombre
 
 **passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
@@ -1373,6 +1465,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 
 ## Dix passes - variante communautaire documentee
 
+**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective
+
 **passe · âge source : U8 (classement du site) · Variante Sportplan documentee ; video initiale incomplete**
 
 Objectif annoncé : se rendre disponible sans ballon et communiquer avec le porteur. Le déroulement n’est pas documenté dans le texte consulté.
@@ -1409,6 +1503,8 @@ Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contrib
 
 ## Duel debout pour avancer
 
+**Tags proposés :** Lutte · Duel
+
 **opposition et soutien · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Deux enfants debout dans une zone.
@@ -1436,6 +1532,8 @@ Deux enfants debout dans une zone.
 Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Duel d’évitement en couloir
+
+**Tags proposés :** Évitement · Duel
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel positionné, défenseur sur ligne ; distinct des départs réactifs avec ramassage.**
 
@@ -1467,6 +1565,8 @@ Détails extraits le 2026-09-10 — Evading the Player — Objective / Principle
 
 ## Duel long
 
+**Tags proposés :** Course · Duel
+
 **déplacement · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Course vers la marque avec poursuite ; distances et lancement à compléter.
@@ -1491,6 +1591,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 ## Duels et soutien
 
+**Tags proposés :** Soutien · Coopération
+
 **coopération · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Éviter l’opposant puis marquer, avec convergence du soutien ; lancement à compléter.
@@ -1514,6 +1616,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Porter à deux mains ; faire converger le soutien vers le porteur.
 
 ## Épouvantails avec délivrance
+
+**Tags proposés :** Évitement · Poursuite et délivrance
 
 **évitement · âge source : Initiation Get Into Rugby ; âge précis non indiqué · Texte source consulté ; adéquation U8 à valider.**
 
@@ -1549,6 +1653,8 @@ Détails extraits le 2026-09-16 — Scarecrow Tag — Difficulty ; Coaching poin
 
 ## Épouvantails — chasseurs passeurs
 
+**Tags proposés :** Passe · Coopération · Poursuite et délivrance
+
 **coopération · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
 Des chasseurs échangent le ballon pour toucher les autres joueurs. Le porteur ne court pas ; après sa passe, il se déplace pour proposer une nouvelle solution. Changer régulièrement les chasseurs.
@@ -1577,6 +1683,8 @@ Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progre
 
 ## Équilibre du flamant
 
+**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Debout sur un pied, autre genou devant.
@@ -1602,6 +1710,8 @@ Debout sur un pied, autre genou devant.
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Éviter les plots et recevoir le ballon
+
+**Tags proposés :** Réception · Évitement · Prise d’information
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Deux informations simultanées : éviter des obstacles mobiles et reconnaître une passe.**
 
@@ -1637,6 +1747,8 @@ Détails extraits le 2026-09-10 — UFOs — Description, Coaching Outcome, Chan
 
 ## Fentes alternées du monstre
 
+**Tags proposés :** Motricité · Motricité individuelle
+
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Fentes alternées, distinctes des sauts et équilibres statiques déjà présents.**
 
 Debout, bras levés à largeur d’épaules, mains en griffes.
@@ -1662,6 +1774,8 @@ Debout, bras levés à largeur d’épaules, mains en griffes.
 Détails extraits le 2026-09-09 — PDF page 16 — Monster Lunge.
 
 ## File avec transmission au nouveau meneur
+
+**Tags proposés :** Soutien · Manipulation du ballon · Circulation et transmission
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
 
@@ -1695,6 +1809,8 @@ Détails extraits le 2026-09-16 — Follow the Leader — Difficulty ; Coaching 
 
 ## Franchir trois rideaux disposés en 2–1–2
 
+**Tags proposés :** Passe · Coopération · Opposition collective
+
 **opposition et coopération · âge source : Initiation ; âge non précisé, adéquation U8 à valider · Source écrite consultée ; validation terrain non effectuée. Variante : trois rideaux de densités différentes remplacent cinq défenseurs isolés. Le menu affiche 2–1–1 mais le titre et le déroulement décrivent 2–1–2, retenu ici.**
 
 Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de cinq mètres.
@@ -1727,6 +1843,8 @@ Détails extraits le 2026-09-16 — Passing - 5 v 2 v 1 v 2 — Difficulty ; Coa
 
 ## Gagne-terrain
 
+**Tags proposés :** Passe · Coopération · Opposition collective
+
 **jeu collectif · âge source : M8 · Archive documentée — règles actuelles à vérifier**
 
 Gagner des points en franchissant des zones et en soutenant l’avancée.
@@ -1754,6 +1872,8 @@ Gagner des points en franchissant des zones et en soutenant l’avancée.
 Détails extraits le 2026-09-16 — PDF page 53 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
 
 ## Golf au pied
+
+**Tags proposés :** Jeu au pied
 
 **jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Parcours avec comptage des coups ; absent des jeux de territoire au pied.**
 
@@ -1787,6 +1907,8 @@ Détails extraits le 2026-09-10 — Kick Golf — Description, Coaching Outcome,
 
 ## Jeu de zone avec regroupements au signal
 
+**Tags proposés :** Passe · Réaction au signal · Prise d’information · Opposition collective
+
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
 Deux équipes progressent vers une zone de marque, avec des passes possibles dans toutes les directions. Après un toucher, transmettre rapidement. À l’annonce d’un nombre, interrompre le jeu et former des groupes de cette taille, puis reprendre.
@@ -1814,6 +1936,8 @@ Deux équipes progressent vers une zone de marque, avec des passes possibles dan
 Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace.
 
 ## Jouer les intervalles
+
+**Tags proposés :** Passe · Prise d’information · Opposition collective
 
 **prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
 
@@ -1843,6 +1967,8 @@ Détails extraits le 2026-09-16 — PDF page 52 — objectif, dispositif, lancem
 
 ## La boue et la délivrance
 
+**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+
 **coopération · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
 
 Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passant sous un bras.
@@ -1871,6 +1997,8 @@ Détails extraits le 2026-09-16 — PDF page 6 (numérotation 1-based) — Game 
 
 ## La chaîne
 
+**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
+
 **coopération · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
 
 Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. Recommencer après une minute.
@@ -1898,6 +2026,8 @@ Détails extraits le 2026-09-09 — PDF page 18.
 **Manche source :** 60 secondes ; durée totale inconnue.
 
 ## La chasse aux rubans
+
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
 
 **déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
@@ -1945,6 +2075,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 ## La pieuvre et les algues
 
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
+
 **déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
 
 Traverser sans être touché par les pieuvres. Un joueur touché devient une algue immobile qui peut toucher les passants. Continuer jusqu’à capture du groupe.
@@ -1987,6 +2119,8 @@ Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte publ
 
 ## Le ballon répond au signal
 
+**Tags proposés :** Passe · Manipulation du ballon · Ramassage du ballon
+
 **manipulation · âge source : Non précisé · Source consultée — validation terrain à faire**
 
 Dans un espace délimité, chacun se déplace avec un ballon. Au signal, effectuer une action : poser et ramasser, transmettre, marquer ou réaliser une petite passe.
@@ -2028,6 +2162,8 @@ Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte publ
 **Plus difficile :** Deux signaux successifs.
 
 ## Le joueur au milieu
+
+**Tags proposés :** Passe · Coopération · Prise d’information · Conservation du ballon · Opposition collective · Surnombre
 
 **passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
@@ -2077,6 +2213,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 
 ## Les extraterrestres
 
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
+
 **déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
 Les chasseurs poursuivent les joueurs. Un joueur touché prend un ballon et rejoint les chasseurs ; la poursuite continue jusqu’au dernier joueur.
@@ -2105,6 +2243,8 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 
 ## Les gazelles
 
+**Tags proposés :** Lutte
+
 **lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.
@@ -2128,6 +2268,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner.
 
 ## Les portes à franchir
+
+**Tags proposés :** Évitement · Prise d’information · Opposition collective
 
 **prise d’information · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
 
@@ -2171,6 +2313,8 @@ Détails extraits le 2026-09-16 — PDF page 7 (numérotation 1-based) — Game 
 
 ## Les statues
 
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
+
 **déplacement · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
 Trois chasseurs porteurs de ballon touchent les autres joueurs, qui deviennent immobiles. Chronométrer la capture de tout le groupe, puis changer les chasseurs.
@@ -2202,6 +2346,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 **Points coach issus de la source :** Porter le ballon à deux mains ; inciter les chasseurs à coopérer.
 
 ## Les œufs dans les nids
+
+**Tags proposés :** Ramassage du ballon · Course · Collecte de ballons
 
 **déplacement · âge source : 11–12 ans · Source consultée — validation terrain à faire**
 
@@ -2251,6 +2397,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 
 ## L’auto-stoppeur
 
+**Tags proposés :** Passe · Coopération
+
 **coopération · âge source : M8 · Archive documentée — règles actuelles à vérifier**
 
 Coopérer pour faire progresser le ballon malgré les défenseurs.
@@ -2279,6 +2427,8 @@ Détails extraits le 2026-09-16 — PDF page 51 — objectif, dispositif, lancem
 
 ## L’initiative
 
+**Tags proposés :** Prise d’information · Opposition collective
+
 **prise d’information · âge source : M8 · Archive documentée — règles actuelles à vérifier**
 
 Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
@@ -2306,6 +2456,8 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 Détails extraits le 2026-09-16 — PDF page 55 — objectif, dispositif, lancement, consignes ; archive septembre 2020.
 
 ## Manipulations autour du corps
+
+**Tags proposés :** Manipulation du ballon · Coordination
 
 **manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
 
@@ -2341,6 +2493,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Marche du grillon en tenant les chevilles
 
+**Tags proposés :** Motricité · Motricité individuelle
+
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Prise aux chevilles contraignant la locomotion ; différente du canard avec ballon.**
 
 Accroupi, bras entre les jambes, mains sur les chevilles.
@@ -2367,6 +2521,8 @@ Détails extraits le 2026-09-09 — PDF page 16 — Cricket Walk.
 
 ## Marche du singe à trois appuis
 
+**Tags proposés :** Motricité · Coordination · Motricité individuelle
+
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Appui manuel unilatéral, différent du gorille à deux mains.**
 
 Deux pieds et une main en appui.
@@ -2392,6 +2548,8 @@ Deux pieds et une main en appui.
 Détails extraits le 2026-09-09 — PDF page 16 — Monkey Walk.
 
 ## Marcher en canard avec ballon
+
+**Tags proposés :** Manipulation du ballon · Motricité · Motricité individuelle
 
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
@@ -2421,6 +2579,8 @@ Détails extraits le 2026-09-16 — PDF page 8 — atelier correspondant ; pagin
 
 ## Marquer sur chaque bord coloré
 
+**Tags proposés :** Passe · Évitement · Réaction au signal · Opposition collective
+
 **évitement et réaction · âge source : Primaire P4–P7 ; adaptation U8 à valider · Texte source reformulé ; validation coach non effectuée. Marques réparties sur les côtés de deux carrés, au lieu de traversées de zones sans ballon.**
 
 Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l’espace autour des carrés.
@@ -2448,6 +2608,8 @@ Deux carrés à bords de couleurs différentes ; deux défenseurs ; laisser de l
 Détails extraits le 2026-09-10 — PDF page 21 — Break the walls.
 
 ## Miroir : rester face au porteur
+
+**Tags proposés :** Évitement · Duel
 
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-shadow : opposition en miroir devant le porteur au lieu de poursuite derrière.**
 
@@ -2479,6 +2641,8 @@ Détails extraits le 2026-09-10 — Shadow Run — progression 2 — Objective /
 
 ## Numéro appelé : ramasser puis affronter
 
+**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Duel
+
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de nz-numbers-race : opposition active au lieu de deux courses parallèles. Source contradictoire : installation indique plusieurs ballons, liste et déroulement un seul ; ces derniers retenus.**
 
 Dix joueurs en deux lignes, paires numérotées ; un camp attaque, l’autre défend.
@@ -2508,6 +2672,8 @@ Détails extraits le 2026-09-10 — Number Race 2 — Objective / Principles of 
 **Espace source :** 15 × 10 m
 
 ## Opposition sans ballon, attaquant désigné
+
+**Tags proposés :** Prise d’information · Opposition collective
 
 **prise d’information · âge source : Under 7 (classement Rugby Toolbox) · Vérification documentaire ; adéquation U8 et validation terrain à confirmer.**
 
@@ -2541,6 +2707,8 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 
 ## Panthères et chenilles
 
+**Tags proposés :** Équilibre et postures · Motricité individuelle
+
 **posture · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Maintenir une posture pendant le déplacement ; les deux situations restent à segmenter après visionnage.
@@ -2564,6 +2732,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Observer le maintien de la posture.
 
 ## Passe arrière avec jokers
+
+**Tags proposés :** Passe · Soutien · Opposition collective
 
 **soutien · âge source : Primaire (Écosse) ; adéquation U8 à valider · Lecture du texte et du schéma ; validation coach non effectuée.**
 
@@ -2592,6 +2762,8 @@ Avancer en soutenant le porteur.
 Détails extraits le 2026-09-16 — PDF page 23, pagination du fichier — TASK et texte de la carte.
 
 ## Passer avec un soutien en retrait
+
+**Tags proposés :** Passe · Soutien · Circulation et transmission
 
 **passe · âge source : U7 (classement du site) · Source consultée — validation terrain à faire**
 
@@ -2641,6 +2813,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 
 ## Passer dans la zone d’arrivée
 
+**Tags proposés :** Passe · Coopération · Opposition collective
+
 **jeu collectif · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
 
 Deux équipes cherchent la zone d’essai par des passes ; la source propose cinq touchers pour marquer.
@@ -2668,6 +2842,8 @@ Deux équipes cherchent la zone d’essai par des passes ; la source propose cin
 Détails extraits le 2026-09-16 — PDF page 9 (numérotation 1-based) — Game Card, How to play.
 
 ## Passer puis devenir défenseur
+
+**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
 **opposition et soutien · âge source : Initiation ; âge non précisé · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
@@ -2701,6 +2877,8 @@ Détails extraits le 2026-09-16 — Pass, Defend, Attack — Difficulty ; Coachi
 
 ## Passer puis échapper au poursuivant
 
+**Tags proposés :** Passe · Évitement · Course · Poursuite et délivrance
+
 **évitement · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
 
 Deux files face à face ; le ballon circule dans une file.
@@ -2733,6 +2911,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Passer sur appel dans un espace partagé
 
+**Tags proposés :** Passe · Réception · Circulation et transmission
+
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
 
 Choisir quand passer malgré les déplacements des autres binômes.
@@ -2762,6 +2942,8 @@ Choisir quand passer malgré les déplacements des autres binômes.
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
 ## Passer, rendre et s’accroupir
+
+**Tags proposés :** Passe · Réception · Coopération · Circulation et transmission
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Passeur fixe face à une file qui s’abaisse ; différent du triangle avec assise.**
 
@@ -2795,6 +2977,8 @@ Détails extraits le 2026-09-10 — Pass and Duck — Description, Coaching Outc
 
 ## Passes alternées dessus-dessous
 
+**Tags proposés :** Passe · Coopération · Relais · Circulation et transmission
+
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Circulation verticale alternée et retour du dernier en tête.**
 
 Files de quatre joueurs ou plus.
@@ -2826,6 +3010,8 @@ Détails extraits le 2026-09-10 — Passing Overs and Unders — Description, Co
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Passes après départs dans cinq postures
+
+**Tags proposés :** Passe · Soutien · Circulation et transmission
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
 
@@ -2861,6 +3047,8 @@ Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficu
 
 ## Passes en cercle tourné vers l’extérieur
 
+**Tags proposés :** Passe · Circulation et transmission
+
 **passe · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
 
 Cercles en compétition, joueurs tournés vers l’extérieur.
@@ -2895,6 +3083,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Passes en escalier par cinq
 
+**Tags proposés :** Passe · Soutien · Circulation et transmission
+
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
 
 Cinq joueurs en file.
@@ -2927,6 +3117,8 @@ Détails extraits le 2026-09-16 — Pass and Support- Formation — Difficulty ;
 
 ## Passes en triangle et changement de posture
 
+**Tags proposés :** Passe · Réception · Circulation et transmission
+
 **passe · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
 
 En triangle, transmettre puis s’asseoir et se relever avant la prochaine réception. Le document montre aussi des échanges latéraux et des progressions avec plusieurs ballons.
@@ -2957,6 +3149,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 ## Passes en zigzag et replacement en bout de ligne
 
+**Tags proposés :** Passe · Coopération · Circulation et transmission
+
 **passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Circulation entre deux rangées avec replacement individuel, contrairement aux vagues de passes collectives.**
 
 Deux lignes face à face, séparées de trois à cinq mètres ; voisins distants d’un mètre.
@@ -2986,6 +3180,8 @@ Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles o
 **Espace source :** 10 × 50 m
 
 ## Passes froides puis chaudes
+
+**Tags proposés :** Passe · Réception · Circulation et transmission
 
 **passe et réception · âge source : Débutant ; âge non précisé · Durée source 10–15 minutes : champ scalaire laissé inconnu. Carte reformulée ; validation U8 non effectuée. Phase technique lente puis accélération avec la même technique, sans trajet mémorisé.**
 
@@ -3019,6 +3215,8 @@ Détails extraits le 2026-09-14 — Carte Cold & Hot Potato — How to Play ; nu
 
 ## Passes latérales en vagues de trois
 
+**Tags proposés :** Passe · Circulation et transmission
+
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
 Trois joueurs avancent et transmettent successivement le ballon en atteignant une ligne repère. Les receveurs restent en retrait du porteur. Recommencer dans l’autre sens pour passer des deux côtés.
@@ -3051,6 +3249,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 ## Pieuvre à deux traversées perpendiculaires
 
+**Tags proposés :** Évitement · Poursuite et délivrance
+
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Variante de au-octopus : deux axes de traversée appelés, lecture des obstacles depuis deux directions.**
 
 Deux demi-groupes sur deux côtés adjacents ; une pieuvre au centre.
@@ -3081,6 +3281,8 @@ Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
 
 ## Plaquage et libération
 
+**Tags proposés :** Plaquage
+
 **contact · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Progression technique dont une entrée à genoux ; vidéo entière requise pour qualifier les étapes.
@@ -3104,6 +3306,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** La source demande de regarder toute la progression vidéo avant d’utiliser cette situation.
 
 ## Poursuite avec ballon et permutation
+
+**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance · Duel
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Variante de poursuite : toucher puis échange de rôle, plutôt que suivre à distance comme nz-shadow.**
 
@@ -3137,6 +3341,8 @@ Détails extraits le 2026-09-10 — Partner Tag — Description, Coaching Outcom
 
 ## Premières passes en ligne
 
+**Tags proposés :** Passe · Circulation et transmission
+
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
 Les débutants font circuler le ballon le long d’une ligne, d’abord lentement et à l’arrêt, puis plus vite. Recevoir, regarder le partenaire et orienter les mains vers sa cible. Changer le sens de circulation.
@@ -3167,6 +3373,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 ## Protège-ballon
 
+**Tags proposés :** Lutte
+
 **lutte · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Protéger son équilibre face à l’adversaire ; organisation à compléter.
@@ -3190,6 +3398,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Rechercher une posture semi-fléchie et un ancrage stable.
 
 ## Quatre cibles, porteur immobile
+
+**Tags proposés :** Passe · Réception · Prise d’information · Opposition collective
 
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
 
@@ -3218,6 +3428,8 @@ Trouver un partenaire libre dans une zone de marque.
 Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ; recommandations exclues.
 
 ## Quatre passeurs contre un intercepteur
+
+**Tags proposés :** Passe · Coopération · Conservation du ballon · Opposition collective · Surnombre
 
 **passe · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
@@ -3251,6 +3463,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 
 ## Quelle heure est-il, monsieur le loup ?
 
+**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
+
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Approche par pas comptés puis déclenchement différé du duel de traversée.**
 
 Porteurs de ballon sur une ligne ; un loup au centre leur tourne le dos.
@@ -3283,6 +3497,8 @@ Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, 
 
 ## Ramasser puis transmettre
 
+**Tags proposés :** Passe · Réception · Ramassage du ballon · Circulation et transmission
+
 **passe · âge source : M8 · Source consultée — validation terrain à faire**
 
 Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloigner progressivement la cible.
@@ -3310,6 +3526,8 @@ Ramasser, transmettre à une cible ou un partenaire, puis réceptionner. Éloign
 Détails extraits le 2026-09-16 — PDF page 10 — atelier correspondant ; pagination fichier.
 
 ## Ramasser, porter et reposer
+
+**Tags proposés :** Manipulation du ballon · Ramassage du ballon · Parcours
 
 **manipulation · âge source : Under 7 (classement du site) · Description sourcée ; validation terrain non effectuée.**
 
@@ -3343,6 +3561,8 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 
 ## Ramper comme un crocodile
 
+**Tags proposés :** Motricité · Coordination · Motricité individuelle
+
 **motricité · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Coordination du même côté et posture très basse ; différente de ffr-appuis dos horizontal.**
 
 Allongé au départ, puis appui sur bras et pieds.
@@ -3368,6 +3588,8 @@ Allongé au départ, puis appui sur bras et pieds.
 Détails extraits le 2026-09-09 — PDF page 16 — Crocodile Walk.
 
 ## Rapporter les trésors par une passe
+
+**Tags proposés :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression source déjà mentionnée dans rc-eggs, désormais fiche exécutable distincte : retour par passe avec sanction de chute.**
 
@@ -3400,6 +3622,8 @@ Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Des
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Rats et lapins
+
+**Tags proposés :** Évitement · Réaction au signal · Course · Poursuite et délivrance
 
 **déplacement · âge source : Primaire / mini-rugby · Source consultée — validation terrain à faire**
 
@@ -3443,6 +3667,8 @@ Détails extraits le 2026-09-16 — PDF page 5 (numérotation 1-based) — Game 
 
 ## Rats et lapins : duel avec ballon en ligne droite
 
+**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
+
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Duel avec ballon et destination opposée ; munster-rats est une poursuite vers le refuge sans ballon.**
 
 Binômes face à face à dix à quinze mètres ; ballon devant eux.
@@ -3473,6 +3699,8 @@ Détails extraits le 2026-09-10 — Rats and Rabbits 3 — Objective / Principle
 
 ## Rats et lapins : trajectoires libres
 
+**Tags proposés :** Évitement · Réaction au signal · Ramassage du ballon · Poursuite et délivrance · Duel
+
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Progression explicite de nz-rats-straight : choix de trajectoire et feintes deviennent possibles.**
 
 Même départ en binômes face à face, ballon au sol.
@@ -3502,6 +3730,8 @@ Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principle
 **Espace source :** Départ à 10 à 15 m
 
 ## Réagir au mot plot
+
+**Tags proposés :** Réaction au signal · Prise d’information · Duel
 
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Inhibition puis saisie d’une cible commune ; distinct des courses numérotées.**
 
@@ -3535,6 +3765,8 @@ Détails extraits le 2026-09-10 — Cone Game — Description, Coaching Outcome,
 
 ## Rebondir et échanger en binôme
 
+**Tags proposés :** Manipulation du ballon · Circulation et transmission
+
 **manipulation · âge source : U9 (classement du site) · Source consultée — validation terrain à faire**
 
 Faire rebondir le ballon sur sa pointe, puis échanger des passes après rebond avec un partenaire. Une progression travaille la réception d’une seule main en changeant de côté.
@@ -3566,6 +3798,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 **Points coach issus de la source :** Dans la progression à une main, écarter le corps et utiliser le mouvement du ballon ; changer de main.
 
 ## Recevoir à différentes hauteurs et passer
+
+**Tags proposés :** Passe · Réception · Circulation et transmission
 
 **passe · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
 
@@ -3599,6 +3833,8 @@ Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagi
 
 ## Recevoir en trottinant
 
+**Tags proposés :** Réception · Circulation et transmission
+
 **passe · âge source : M10 · Source consultée — validation terrain à faire**
 
 Réceptionner une passe pendant un déplacement au petit trot.
@@ -3626,6 +3862,8 @@ Réceptionner une passe pendant un déplacement au petit trot.
 Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagination fichier.
 
 ## Relais avec changements de portage
+
+**Tags proposés :** Manipulation du ballon · Course · Relais · Parcours
 
 **manipulation · âge source : Under 7 (classement du site) · Description source ; validation pédagogique non effectuée.**
 
@@ -3659,6 +3897,8 @@ Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 
 ## Relais avec cinq manipulations successives
 
+**Tags proposés :** Manipulation du ballon · Jeu au pied · Motricité · Ramassage du ballon · Relais · Parcours
+
 **motricité et manipulation · âge source : Under 7 (classement du site) · Description source ; progression et passage au sol à adapter au niveau des enfants.**
 
 Trois files réalisent un relais avec une action différente à chaque tour.
@@ -3691,6 +3931,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 
 ## Relais avec essai
 
+**Tags proposés :** Passe · Motricité · Course · Relais
+
 **motricité · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
 
 Courir entre deux plots, aplatir, revenir puis transmettre au suivant.
@@ -3720,6 +3962,8 @@ Détails extraits le 2026-09-16 — PDF page 12, pagination du fichier — TASK 
 **Points coach issus de la source :** Limiter les files d’attente pour préserver l’activité et l’engagement.
 
 ## Relais de soutien tous les cinq mètres
+
+**Tags proposés :** Soutien · Manipulation du ballon · Relais · Circulation et transmission
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Description documentaire ; adaptation U8 à valider par un coach.**
 
@@ -3755,6 +3999,8 @@ Détails extraits le 2026-09-16 — Pass and Support — Difficulty ; Coaching p
 
 ## Relais — courir, rouler, passer
 
+**Tags proposés :** Passe · Motricité · Relais
+
 **motricité · âge source : M8 · Piste M8 extraite du support de séance ; vidéo et organisation à compléter**
 
 Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcours non décrit.
@@ -3778,6 +4024,8 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 **Points coach issus de la source :** Préparer les mains hautes et ouvertes ; viser la cible de passe.
 
 ## Roulade et relevé
+
+**Tags proposés :** Motricité · Motricité individuelle
 
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
@@ -3806,6 +4054,8 @@ Travail individuel au sol.
 Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagination fichier.
 
 ## Rubans avec restitution avant reprise
+
+**Tags proposés :** Évitement · Coopération · Poursuite et délivrance
 
 **évitement et coopération · âge source : Under 7 (classement du site) · Description source, adaptation terrain non validée.**
 
@@ -3836,6 +4086,8 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 **Espace source :** 10 × 10 m
 
 ## Rugby à quatre cibles
+
+**Tags proposés :** Passe · Réception · Coopération · Opposition collective
 
 **passe · âge source : U8 (classement du site) · Source consultée — validation terrain à faire**
 
@@ -3879,6 +4131,8 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 
 ## Sauter le ballon et stabiliser
 
+**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+
 **motricité · âge source : M8 · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Obstacle au sol.
@@ -3907,6 +4161,8 @@ Détails extraits le 2026-09-16 — PDF page 9 — atelier correspondant ; pagin
 
 ## Sauts verticaux de grenouille
 
+**Tags proposés :** Motricité · Motricité individuelle
+
 **motricité · âge source : Primaire / mini-rugby ; âge précis non indiqué · Description source ; exécution et adéquation au groupe à valider par éducateur.**
 
 Position accroupie de grenouille.
@@ -3932,6 +4188,8 @@ Position accroupie de grenouille.
 Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 
 ## Slalom au pied puis essai
+
+**Tags proposés :** Jeu au pied · Parcours
 
 **jeu au pied · âge source : M8 — guide saison 2022-2023 · Texte du guide consulté ; capture locale bloquée par robots.txt. Pas de validation terrain.**
 
@@ -3965,6 +4223,8 @@ Détails extraits le 2026-09-16 — PDF page 26 — atelier correspondant ; pagi
 
 ## Slalomer dans la chaîne de partenaires
 
+**Tags proposés :** Évitement · Coordination · Relais · Parcours
+
 **évitement et réaction · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Obstacles humains fixes avec replacement ; différent de la chaîne de chasseurs mobile.**
 
 Deux lignes opposées, bras en T, doigts voisins qui se touchent.
@@ -3996,6 +4256,8 @@ Détails extraits le 2026-09-10 — Chain Relay — Description, Coaching Outcom
 [Rugby Australia](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time
 
 ## Speedy — un ballon chacun
+
+**Tags proposés :** Réaction au signal · Ramassage du ballon
 
 **réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
 
@@ -4029,6 +4291,8 @@ Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisati
 
 ## Speedy — un ballon pour deux
 
+**Tags proposés :** Réaction au signal · Ramassage du ballon · Duel
+
 **réactivité · âge source : M8 · Lecture documentaire ; validation terrain non effectuée**
 
 Même départ visuel ; les deux adversaires se disputent désormais un seul ballon.
@@ -4058,6 +4322,8 @@ Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisati
 **Famille proposée :** reaction-course
 
 ## Suivre et réagir au choix de transmission
+
+**Tags proposés :** Passe · Coopération · Ramassage du ballon · Circulation et transmission
 
 **passe et coopération · âge source : Initiation ; âge non précisé · Description reformulée ; validation pédagogique non effectuée. Variante de wr-follow-leader : choisir entre trois modes de transmission oblige le soutien à réagir.**
 
@@ -4091,6 +4357,8 @@ Détails extraits le 2026-09-16 — Pass and Support- Follow the Leader — Diff
 
 ## Suivre l’ombre du porteur
 
+**Tags proposés :** Évitement · Duel
+
 **évitement et opposition · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Poursuite continue en binôme sans capture ni refuge, différente du suivi collectif et des chasses à délivrance.**
 
 Binômes, un ballon ; trio possible si effectif impair.
@@ -4121,6 +4389,8 @@ Détails extraits le 2026-09-10 — Shadow Run — Objective / Principles of pla
 
 ## Tag : défenseurs numérotés
 
+**Tags proposés :** Réaction au signal · Prise d’information · Opposition collective
+
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Vérification documentaire ; aucune validation terrain. Règles de jeu éducatif, pas un règlement de compétition.**
 
 Repérer et exploiter les espaces créés dans la défense.
@@ -4149,6 +4419,8 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 
 ## Tag mania et délivrance
 
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
+
 **déplacement · âge source : Non précisé ; classement U7 · Source consultée — validation terrain à faire**
 
 La première situation invite chacun à récolter des rubans. Une progression fige les joueurs touchés et permet à un partenaire de les délivrer en passant sous leurs bras.
@@ -4176,6 +4448,8 @@ La première situation invite chacun à récolter des rubans. Une progression fi
 Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recommandations de vidéos voisines.
 
 ## Taper au pied puis passer en ligne
+
+**Tags proposés :** Passe · Jeu au pied · Coopération · Circulation et transmission
 
 **passe et coopération · âge source : Under 7 (classement du site) · Description reformulée ; validation pédagogique non effectuée. Enchaînement pose/tap/passe et déplacement de la ligne, absent des passes latérales simples.**
 
@@ -4207,6 +4481,8 @@ Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of p
 
 ## Tennis à la main
 
+**Tags proposés :** Réception · Coordination · Circulation et transmission
+
 **coordination · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
 
 À deux, tenir une chasuble comme filet ; de la main libre, réceptionner puis lâcher le ballon par-dessus.
@@ -4232,6 +4508,8 @@ Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of p
 Détails extraits le 2026-09-09 — PDF page 13.
 
 ## Tennis au pied : élimination et retour
+
+**Tags proposés :** Réception · Jeu au pied · Opposition collective
 
 **jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite : effectif variable et délivrance remplacent le simple comptage de points.**
 
@@ -4265,6 +4543,8 @@ Détails extraits le 2026-09-10 — Kick Tennis — elimination progression — 
 
 ## Tennis au pied avec score
 
+**Tags proposés :** Jeu au pied · Opposition collective
+
 **jeu au pied · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Échange au pied vers une aire adverse ; différent du tennis à la main.**
 
 Deux équipes dans deux rectangles opposés.
@@ -4297,6 +4577,8 @@ Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcom
 
 ## Toucher avec rappel des défenseurs par couleur
 
+**Tags proposés :** Prise d’information · Opposition collective
+
 **prise d’information · âge source : U7 (classement du site) ; adéquation U8 à valider · Description sourcée ; validation terrain non effectuée**
 
 En jeu de toucher, le coach appelle une couleur de défenseurs : ils retournent à leur ligne d’essai pendant que l’attaque continue. La source impose une passe sous une seconde après toucher et un genou au sol au défenseur qui touche.
@@ -4326,6 +4608,8 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 **Points coach issus de la source :** Repérer puis exploiter immédiatement l’espace ouvert par le rappel des défenseurs.
 
 ## Toucher, libérer au sol et changer de rôle
+
+**Tags proposés :** Évitement · Ramassage du ballon · Poursuite et délivrance · Duel
 
 **passe et coopération · âge source : Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider · Texte source reformulé ; validation coach non effectuée. Progression explicite avec passage au sol et ramassage pour changer de rôle.**
 
@@ -4359,6 +4643,8 @@ Détails extraits le 2026-09-10 — Partner Tag — ground release progression �
 
 ## Transmettre en trottinant
 
+**Tags proposés :** Passe · Circulation et transmission
+
 **passe · âge source : M10 · Source consultée — validation terrain à faire**
 
 Passer au partenaire tout en trottinant avec le ballon.
@@ -4387,6 +4673,8 @@ Détails extraits le 2026-09-16 — PDF page 17 — atelier correspondant ; pagi
 
 ## Traverser et donner à un partenaire extérieur
 
+**Tags proposés :** Manipulation du ballon · Coopération · Circulation et transmission
+
 **passe et coopération · âge source : Primaire (Écosse) ; adéquation U8 à valider · Description reformulée ; validation pédagogique non effectuée. Navette centre-périphérie sans circuit mémorisé ; différent de nz-memory. Source contradictoire : groupe de quatre annoncé mais quatre dehors et un dedans ; effectif numérique inconnu.**
 
 Partenaires sur les bords du carré et un porteur au centre.
@@ -4412,6 +4700,8 @@ Partenaires sur les bords du carré et un porteur au centre.
 Détails extraits le 2026-09-09 — PDF page 11 — Pass to a pal.
 
 ## Traverser face aux chasseurs
+
+**Tags proposés :** Évitement · Course · Poursuite et délivrance
 
 **déplacement · âge source : Non précisé · Source consultée — validation terrain à faire**
 
@@ -4445,6 +4735,8 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 
 ## Traverser les zones gardées
 
+**Tags proposés :** Évitement
+
 **évitement · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
 
 Franchir les carrés sans être touché. Les défenseurs restent dans leur carré ; les remplacer après quatre-vingt-dix secondes.
@@ -4472,6 +4764,8 @@ Détails extraits le 2026-09-09 — PDF page 19.
 **Manche source :** 90 secondes ; durée totale inconnue.
 
 ## Trois contre deux avec passes en arrière
+
+**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
 **opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
 
@@ -4506,6 +4800,8 @@ Détails extraits le 2026-09-13 — 3 v 2 — Coaching points.
 **Famille proposée :** surnombre-rubans
 
 ## Trois contre un avec rotation du défenseur
+
+**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
 
 **opposition et soutien · âge source : Initiation ; âge non précisé par World Rugby · Situation documentaire ; adaptation U8 à valider.**
 
@@ -4543,6 +4839,8 @@ Détails extraits le 2026-09-16 — 3 v 1 — Difficulty ; Coaching points conse
 
 ## Trois joueurs alignés
 
+**Tags proposés :** Prise d’information
+
 **prise d’information · âge source : Primaire (Écosse) · Source primaire consultée ; adéquation U8 à valider**
 
 Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement de trois gagne.
@@ -4568,6 +4866,8 @@ Deux trios se déplacent à tour de rôle sur neuf plots ; le premier alignement
 Détails extraits le 2026-09-09 — PDF page 14.
 
 ## Vagues de passes avec relais sur l’autre rive
+
+**Tags proposés :** Passe · Soutien · Relais · Circulation et transmission
 
 **passe et soutien · âge source : Initiation Get Into Rugby ; âge non précisé · Source documentaire ; adaptation U8 non validée.**
 
@@ -4600,6 +4900,8 @@ Détails extraits le 2026-09-16 — Relays with Passing — Difficulty ; Coachin
 **Espace source :** 20 × 20 m
 
 ## Vider le terrain au tag contre la montre
+
+**Tags proposés :** Évitement · Réaction au signal · Poursuite et délivrance
 
 **évitement et réaction · âge source : Primaire, Key Stages 1 et 2 · Texte source reformulé ; validation coach non effectuée. Capture chronométrée avec activité annexe et comparaison des équipes ; les pris ne deviennent pas chasseurs. Trois minutes maximum : fin anticipée si tous les porteurs sont pris.**
 

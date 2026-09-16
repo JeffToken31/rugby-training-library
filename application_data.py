@@ -97,6 +97,9 @@ def build(db, root, config):
         "summary":{"records":len(records), "families":len(families), "readiness":counts, "unique_exercises":None},
         "policy":{"collection":"PAUSED", "unknown_values":"NULL", "automatic_merge":False,
             "note":"Présence des rubriques ≠ exhaustivité, validation terrain ou conformité U8. Les propositions et observations restent identifiées."}}
+    if config.get("tags"):
+        import exercise_tags
+        exercise_tags.attach(payload, read(root / config["tags"]))
     payload["content_sha256"] = hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     return payload
 
@@ -104,6 +107,16 @@ def export(db, root, out, config):
     payload = build(db, root, config)
     out = Path(out)
     (out / "APPLICATION.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if "tag_taxonomy" in payload:
+        import exercise_tags
+        exercise_tags.export(payload, out)
+        catalogue = out / "CATALOGUE.md"
+        text = catalogue.read_text(encoding="utf-8")
+        text = text.replace("# Bibliothèque rugby U8", "# Bibliothèque rugby U8\n\n[Parcourir par compétence et forme de jeu](CATEGORIES.md)", 1)
+        for e in payload["exercises"]:
+            labels = [t["label"] for t in payload["tag_taxonomy"]["tags"] if t["id"] in e["tag_ids"]]
+            text = text.replace("## " + e["title"] + "\n", "## " + e["title"] + "\n\n**Tags proposés :** " + " · ".join(labels) + "\n", 1)
+        catalogue.write_text(text, encoding="utf-8")
     lines = ["# Base destinée à la création de séances", "", "Aucune collecte supplémentaire. Rapport reconstruit depuis les données versionnées.", "", "Le nombre de fiches ne signifie pas autant de jeux uniques ni de fiches exhaustives.", ""]
     for state, count in payload["summary"]["readiness"].items():
         lines.append(f"- {LABELS[state]} : {count}.")
@@ -114,6 +127,9 @@ def export(db, root, out, config):
         path = out / "fiches" / (e["id"] + ".md")
         if path.exists():
             extra = ["", "## Préparation de séance", "", "État : " + LABELS[e["quality"]["state"]] + ". Aucune validation coach implicite.", "Famille proposée : " + next(f["title"] for f in payload["families"] if f["id"] == e["classification"]["family_id"]) + "."]
+            if e.get("tag_ids"):
+                labels = [t["label"] for t in payload["tag_taxonomy"]["tags"] if t["id"] in e["tag_ids"]]
+                extra += ["", "**Tags proposés :** " + " · ".join(labels), "Classement provisoire." if e["tagging"]["status"] == "PROVISIONAL" else "Classement éditorial ; plusieurs catégories possibles sans duplication."]
             for f in CORE:
                 item = e["fields"][f]
                 if item.get("origin") in ("AI_INFERRED", "USER_REPORTED") and item != e["documentary_fields"][f]:

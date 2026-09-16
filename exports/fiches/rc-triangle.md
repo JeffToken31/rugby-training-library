@@ -44,4 +44,7 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Circulation du ballon et coordination collective.
 
+**Tags proposés :** Passe · Réception · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min, space.

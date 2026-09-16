@@ -50,4 +50,7 @@ Détails extraits le 2026-09-16 — 3 v 1 — Difficulty ; Coaching points conse
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Surnombre et soutien face à un opposant.
 
+**Tags proposés :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors.

@@ -46,4 +46,7 @@ Détails extraits le 2026-09-10 — Chain Relay — Description, Coaching Outcom
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Parcours et relais avec ballon.
 
+**Tags proposés :** Évitement · Coordination · Relais · Parcours
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

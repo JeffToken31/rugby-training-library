@@ -46,4 +46,7 @@ Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Des
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Collecte de ballons.
 
+**Tags proposés :** Passe · Coopération · Ramassage du ballon · Collecte de ballons
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

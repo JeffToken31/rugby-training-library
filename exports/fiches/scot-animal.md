@@ -42,4 +42,7 @@ Détails extraits le 2026-09-16 — PDF page 17, pagination du fichier — TASK 
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Motricité · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

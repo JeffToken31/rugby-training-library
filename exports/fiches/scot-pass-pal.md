@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 11 — Pass to a pal.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Circulation du ballon et coordination collective.
 
+**Tags proposés :** Manipulation du ballon · Coopération · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Repérer un partenaire disponible et enchaîner déplacement et transmission.

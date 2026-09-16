@@ -62,4 +62,7 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Collecte de ballons.
 
+**Tags proposés :** Ramassage du ballon · Course · Collecte de ballons
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

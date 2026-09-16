@@ -44,4 +44,7 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Circulation du ballon et coordination collective.
 
+**Tags proposés :** Passe · Manipulation du ballon · Prise d’information · Circulation et transmission
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

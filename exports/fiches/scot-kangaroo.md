@@ -40,6 +40,9 @@ Détails extraits le 2026-09-09 — PDF page 16 — Kangaroo Hop.
 État : Objectif proposé à confirmer. Aucune validation coach implicite.
 Famille proposée : Motricité et postures.
 
+**Tags proposés :** Motricité · Équilibre et postures · Motricité individuelle
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 **objectives — AI_INFERRED**
 
 Coordonner impulsion et réception équilibrée lors de bonds successifs.

@@ -50,4 +50,7 @@ Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching po
 État : Noyau documentaire présent. Aucune validation coach implicite.
 Famille proposée : Chasse, immobilisation et délivrance.
 
+**Tags proposés :** Évitement · Poursuite et délivrance
+Classement éditorial ; plusieurs catégories possibles sans duplication.
+
 Champs à préciser : common_errors.
