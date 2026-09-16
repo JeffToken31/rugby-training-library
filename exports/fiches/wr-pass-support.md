@@ -33,9 +33,9 @@ Cinq joueurs partent en file.
 
 **Critères de réussite :** Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.
 
-Détails extraits le 2026-09-16 — Pass and Support — How to play / Coaching points.
+Détails extraits le 2026-09-16 — Pass and Support — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée.
+**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
 **Espace source :** 25 m de longueur
 

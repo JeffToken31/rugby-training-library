@@ -66,3 +66,5 @@ Lot Imagine du 14 septembre : docs/LOT_IMAGINE_2026-09-14.md ; 149 fiches. Recue
 Seuil de 150 fiches le 16 septembre : docs/BILAN_COUVERTURE_150.md. 84 fiches réunissent les quatre champs essentiels. Une variante de passes en profondeur ajoutée ; poursuite ciblée de la qualité et des situations collectives, front en attente.
 
 Rectification du 16 septembre : imagine-depth-running est un doublon probable de wr-chain-reaction ; nouveauté non démontrée. Six fiches enrichies en critères de réussite, soit 20 au total. Voir docs/LOT_CRITERES_2026-09-16.md.
+
+Lot progressions : docs/LOT_PROGRESSIONS_2026-09-16.md. Quinze fiches World Rugby complétées avec les réglages de difficulté sourcés, sans nouvelle fiche. 53 fiches avec points coach.

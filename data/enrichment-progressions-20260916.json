@@ -1,0 +1,274 @@
+{
+  "enrichments": [
+    {
+      "id": "wr-pairs-tag-progressions-20260916",
+      "variant_id": "wr-pairs-tag",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pairs Tag — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pairs-tag-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-scarecrow-progressions-20260916",
+      "variant_id": "wr-scarecrow",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Scarecrow Tag — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-scarecrow-objectives-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-keep-ball-progressions-20260916",
+      "variant_id": "wr-keep-ball",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Keep Ball — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-keep-ball-criteria-20260916",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-follow-leader-progressions-20260916",
+      "variant_id": "wr-follow-leader",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Follow the Leader — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-follow-leader-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-follow-choice-progressions-20260916",
+      "variant_id": "wr-follow-choice",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass and Support- Follow the Leader — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-follow-choice-objectives-20260910",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Soutenir à environ cinq mètres, sans suivre trop près ; essayer de prendre le ballon sans ralentir. Pour ramasser : fléchir les genoux et garder la tête levée. Réglages proposés par la source : Complexifier : laisser les joueurs décider quand transmettre ; travailler aussi à deux ou trois avec davantage de ballons. Simplifier : marcher ou trottiner."
+        }
+      }
+    },
+    {
+      "id": "wr-passing-relays-progressions-20260916",
+      "variant_id": "wr-passing-relays",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Relays with Passing — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-passing-relays-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-support-progressions-20260916",
+      "variant_id": "wr-pass-support",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass and Support — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-support-criteria-20260916",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-formation-progressions-20260916",
+      "variant_id": "wr-formation",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass and Support- Formation — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-formation-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner."
+        }
+      }
+    },
+    {
+      "id": "wr-chain-reaction-progressions-20260916",
+      "variant_id": "wr-chain-reaction",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-chain-reaction-criteria-20260916",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner."
+        }
+      }
+    },
+    {
+      "id": "wr-five-walls-progressions-20260916",
+      "variant_id": "wr-five-walls",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Passing - 5 v 1 x 5 — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-five-walls-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur. Réglages proposés par la source : Autoriser les défenseurs à avancer et reculer complique ; les espacer de dix mètres facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-walls-212-progressions-20260916",
+      "variant_id": "wr-walls-212",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Passing - 5 v 2 v 1 v 2 — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-walls-212-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher. Réglages proposés par la source : Complexifier : libérer les déplacements défensifs ou laisser choisir leur disposition. Simplifier : espacer les lignes de dix mètres ou faire marcher les défenseurs."
+        }
+      }
+    },
+    {
+      "id": "wr-pass-defend-progressions-20260916",
+      "variant_id": "wr-pass-defend",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Pass, Defend, Attack — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-pass-defend-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée. Réglages proposés par la source : Deux joueurs deviennent défenseurs pour compliquer l’attaque ; limiter le déplacement du défenseur, par exemple latéralement, complique sa tâche."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-2v1-progressions-20260916",
+      "variant_id": "wr-tag-2v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "2 v 1 — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-2v1-criteria-20260916",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-tag-3v1-progressions-20260916",
+      "variant_id": "wr-tag-3v1",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "3 v 1 — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-tag-3v1-criteria-20260916",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite."
+        }
+      }
+    },
+    {
+      "id": "wr-changing-defender-progressions-20260916",
+      "variant_id": "wr-changing-defender",
+      "source_id": "wr-noncontact",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Decision Making - 4 v 1 — Difficulty ; Coaching points conservés",
+      "capture_sha256": "0742742319f25f1aa43fb2db03e698b651af775b381fa35b777312401c9761c5",
+      "supersedes": "wr-changing-defender-coach-20260913",
+      "revision_reason": "Ajout des réglages sourcés sans créer de variante supplémentaire ; points précédents conservés.",
+      "fields": {
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Imposer au moins deux passes en arrière avant de marquer complique l’attaque ; élargir le couloir la facilite."
+        }
+      }
+    }
+  ]
+}

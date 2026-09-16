@@ -33,9 +33,9 @@ Quatre passeurs contre un défenseur.
 
 **Critères de réussite :** Réussir dix passes collectivement avant la reprise du décompte.
 
-Détails extraits le 2026-09-16 — Keep Ball — How to play / Coaching points.
+Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter.
+**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite.
 
 **Espace source :** 5 × 5 m
 

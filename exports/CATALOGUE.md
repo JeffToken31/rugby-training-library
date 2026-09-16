@@ -397,9 +397,9 @@ Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 
 **Consignes :** Après capture du ruban, passer en arrière au soutien.
 
-Détails extraits le 2026-09-13 — Decision Making - 4 v 1 — Coaching points.
+Détails extraits le 2026-09-16 — Decision Making - 4 v 1 — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
+**Points coach issus de la source :** Porteur : exploiter l’espace et passer avant la capture si possible. Soutiens : garder leur côté. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Imposer au moins deux passes en arrière avant de marquer complique l’attaque ; élargir le couloir la facilite.
 
 **Espace source :** 30 × 10 m
 
@@ -585,9 +585,9 @@ Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
 **Consignes :** Porteur immobile ; passes dans toutes les directions.
 
-Détails extraits le 2026-09-13 — Pairs Tag — Coaching points.
+Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains.
+**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite.
 
 **Espace source :** 20 × 20 m
 
@@ -795,9 +795,9 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 
 **Consignes :** Défenseurs mobiles latéralement seulement ; toucher à deux mains à la taille retire l’attaquant de l’action. Soutien derrière le ballon.
 
-Détails extraits le 2026-09-13 — Passing - 5 v 1 x 5 — Coaching points.
+Détails extraits le 2026-09-16 — Passing - 5 v 1 x 5 — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur.
+**Points coach issus de la source :** Contourner ou passer vers un partenaire mieux placé ; soutenir derrière le ballon. Défenseurs : tête levée, regarder la taille du porteur. Réglages proposés par la source : Autoriser les défenseurs à avancer et reculer complique ; les espacer de dix mètres facilite.
 
 **Espace source :** 30 × 20 m
 
@@ -905,9 +905,9 @@ Quatre passeurs contre un défenseur.
 
 **Critères de réussite :** Réussir dix passes collectivement avant la reprise du décompte.
 
-Détails extraits le 2026-09-16 — Keep Ball — How to play / Coaching points.
+Détails extraits le 2026-09-16 — Keep Ball — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter.
+**Points coach issus de la source :** Attaquants : voir les espaces, présenter les mains, éviter les passes au-dessus de la tête. Défenseur : toucher à deux mains à la taille, sans intercepter. Réglages proposés par la source : Pour les attaquants : réduire l’espace ou passer à trois contre deux complique ; agrandir ou faire marcher le défenseur facilite.
 
 **Espace source :** 5 × 5 m
 
@@ -1243,9 +1243,9 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 
 **Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
 
-Détails extraits le 2026-09-16 — 2 v 1 — How to play / Coaching points.
+Détails extraits le 2026-09-16 — 2 v 1 — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille.
+**Points coach issus de la source :** Ballon à deux mains ; passe à hauteur de taille. Défenseur : regarder les rubans et garder tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
 
 **Espace source :** 10 × 10 m
 
@@ -1465,9 +1465,9 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 
 **Consignes :** Toucher à deux mains à la taille sans pousser.
 
-Détails extraits le 2026-09-13 — Scarecrow Tag — Principles of play.
+Détails extraits le 2026-09-16 — Scarecrow Tag — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Changer le chasseur après une minute.
+**Points coach issus de la source :** Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite.
 
 **Espace source :** 5 × 5 m par atelier
 
@@ -1613,9 +1613,9 @@ Cinq joueurs en file suivent le porteur.
 
 **Consignes :** Garder de l’espace entre joueurs ; prendre le ballon sans ralentir.
 
-Détails extraits le 2026-09-13 — Follow the Leader — Coaching points.
+Détails extraits le 2026-09-16 — Follow the Leader — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir.
+**Points coach issus de la source :** Suivre dans l’espace sans coller au porteur ; prendre le ballon sans ralentir. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
 **Espace source :** 5 × 5 m
 
@@ -1645,9 +1645,9 @@ Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de 
 
 **Consignes :** Défense latérale, toucher à deux mains à la taille ; attaquant touché retiré de l’action.
 
-Détails extraits le 2026-09-13 — Passing - 5 v 2 v 1 v 2 — Coaching points.
+Détails extraits le 2026-09-16 — Passing - 5 v 2 v 1 v 2 — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher.
+**Points coach issus de la source :** Contourner ou transmettre au partenaire mieux placé ; soutien derrière le ballon. Défenseur : tête levée et regard sur la taille. Points retenus pour la version au toucher. Réglages proposés par la source : Complexifier : libérer les déplacements défensifs ou laisser choisir leur disposition. Simplifier : espacer les lignes de dix mètres ou faire marcher les défenseurs.
 
 **Espace source :** 30 × 20 m
 
@@ -2523,9 +2523,9 @@ Trois groupes de cinq alternent par couloir.
 
 **Consignes :** Défendre par prise de ruban ; les soutiens restent derrière le ballon.
 
-Détails extraits le 2026-09-13 — Pass, Defend, Attack — Coaching points.
+Détails extraits le 2026-09-16 — Pass, Defend, Attack — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée.
+**Points coach issus de la source :** Avancer, esquiver, communiquer ; passer tôt si le soutien est mieux placé et soutenir derrière. Défenseur : regarder la taille, tête levée. Réglages proposés par la source : Deux joueurs deviennent défenseurs pour compliquer l’attaque ; limiter le déplacement du défenseur, par exemple latéralement, complique sa tâche.
 
 **Espace source :** 20 × 10 m
 
@@ -2683,9 +2683,9 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Critères de réussite :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
 
-Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — How to play / Coaching points.
+Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement.
+**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
 **Espace source :** 20 × 10 m
 
@@ -2749,9 +2749,9 @@ Cinq joueurs en file.
 
 **Consignes :** Courir droit et passer doucement à deux mains.
 
-Détails extraits le 2026-09-13 — Pass and Support- Formation — Coaching points.
+Détails extraits le 2026-09-16 — Pass and Support- Formation — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce.
+**Points coach issus de la source :** Courir droit dans son couloir avant de passer ; deux mains au ballon et transmission douce. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
 **Espace source :** 10 × 10 m
 
@@ -3535,9 +3535,9 @@ Cinq joueurs partent en file.
 
 **Critères de réussite :** Atteindre le bout des 25 mètres et marquer, avec les joueurs régulièrement espacés de cinq mètres.
 
-Détails extraits le 2026-09-16 — Pass and Support — How to play / Coaching points.
+Détails extraits le 2026-09-16 — Pass and Support — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée.
+**Points coach issus de la source :** Prendre sans ralentir, avancer cinq mètres puis s’arrêter ; finir espacés régulièrement et aplatir à l’arrivée. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
 **Espace source :** 25 m de longueur
 
@@ -3861,7 +3861,9 @@ Groupe en file derrière le porteur.
 
 **Consignes :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
 
-Détails extraits le 2026-09-10 — Pass and Support - Follow the Leader — Objective / Principles of play.
+Détails extraits le 2026-09-16 — Pass and Support- Follow the Leader — Difficulty ; Coaching points conservés.
+
+**Points coach issus de la source :** Soutenir à environ cinq mètres, sans suivre trop près ; essayer de prendre le ballon sans ralentir. Pour ramasser : fléchir les genoux et garder la tête levée. Réglages proposés par la source : Complexifier : laisser les joueurs décider quand transmettre ; travailler aussi à deux ou trois avec davantage de ballons. Simplifier : marcher ou trottiner.
 
 **Espace source :** 20 × 20 m
 
@@ -4299,9 +4301,9 @@ Trois attaquants, un défenseur et un joueur en attente.
 
 **Critères de réussite :** Un point pour un essai sans perte de ballon ; un point au défenseur qui prend un ruban.
 
-Détails extraits le 2026-09-16 — 3 v 1 — How to play / Coaching points.
+Détails extraits le 2026-09-16 — 3 v 1 — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille.
+**Points coach issus de la source :** Ballon à deux mains, passes à hauteur de taille. Défenseur : regarder les rubans, tête et épaules au-dessus de la taille. Réglages proposés par la source : Pour l’attaque : réduire l’espace ou imposer les passes en arrière complique ; placer le défenseur au coin plutôt qu’au centre facilite.
 
 **Espace source :** 10 × 10 m
 
@@ -4359,9 +4361,9 @@ Trois équipes de cinq par couloir, deux sur une rive.
 
 **Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-13 — Relays with Passing — Coaching points.
+Détails extraits le 2026-09-16 — Relays with Passing — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible.
+**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
 **Espace source :** 20 × 20 m
 

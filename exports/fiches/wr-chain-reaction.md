@@ -33,9 +33,9 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Critères de réussite :** Transmettre à des partenaires qui restent en soutien derrière le porteur.
 
-Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — How to play / Coaching points.
+Détails extraits le 2026-09-16 — Pass and Support- Chain Reaction — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement.
+**Points coach issus de la source :** Garder deux mains au ballon, courir droit avant la passe et doser doucement. Réglages proposés par la source : Complexifier : réduire la largeur ou ajouter des joueurs. Simplifier : élargir, diminuer l’effectif, marcher ou trottiner.
 
 **Espace source :** 20 × 10 m
 

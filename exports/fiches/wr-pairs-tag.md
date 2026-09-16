@@ -31,9 +31,9 @@ Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
 **Consignes :** Porteur immobile ; passes dans toutes les directions.
 
-Détails extraits le 2026-09-13 — Pairs Tag — Coaching points.
+Détails extraits le 2026-09-16 — Pairs Tag — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains.
+**Points coach issus de la source :** Attaquants : tête levée et course dans les espaces. Chasseurs : anticiper le déplacement adverse, communiquer et préparer les mains. Réglages proposés par la source : Agrandir rend la chasse plus difficile ; faire marcher ou trottiner les attaquants la facilite.
 
 **Espace source :** 20 × 20 m
 

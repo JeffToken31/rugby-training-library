@@ -31,7 +31,9 @@ Groupe en file derrière le porteur.
 
 **Consignes :** Soutenir à environ cinq mètres ; fléchir les genoux pour ramasser.
 
-Détails extraits le 2026-09-10 — Pass and Support - Follow the Leader — Objective / Principles of play.
+Détails extraits le 2026-09-16 — Pass and Support- Follow the Leader — Difficulty ; Coaching points conservés.
+
+**Points coach issus de la source :** Soutenir à environ cinq mètres, sans suivre trop près ; essayer de prendre le ballon sans ralentir. Pour ramasser : fléchir les genoux et garder la tête levée. Réglages proposés par la source : Complexifier : laisser les joueurs décider quand transmettre ; travailler aussi à deux ou trois avec davantage de ballons. Simplifier : marcher ou trottiner.
 
 **Espace source :** 20 × 20 m
 

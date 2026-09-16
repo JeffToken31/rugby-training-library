@@ -31,9 +31,9 @@ Les paramètres non renseignés restent inconnus. Les adaptations sont des propo
 
 **Consignes :** Toucher à deux mains à la taille sans pousser.
 
-Détails extraits le 2026-09-13 — Scarecrow Tag — Principles of play.
+Détails extraits le 2026-09-16 — Scarecrow Tag — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Changer le chasseur après une minute.
+**Points coach issus de la source :** Changer le chasseur après une minute. Réglages proposés par la source : Pour les fuyards : réduire l’espace complique ; l’agrandir facilite.
 
 **Espace source :** 5 × 5 m par atelier
 

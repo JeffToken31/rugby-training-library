@@ -31,9 +31,9 @@ Trois équipes de cinq par couloir, deux sur une rive.
 
 **Consignes :** Les soutiens restent derrière le porteur et montrent leurs mains.
 
-Détails extraits le 2026-09-13 — Relays with Passing — Coaching points.
+Détails extraits le 2026-09-16 — Relays with Passing — Difficulty ; Coaching points conservés.
 
-**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible.
+**Points coach issus de la source :** Avancer avec le ballon à deux mains ; soutien derrière, appeler et présenter les mains comme cible. Réglages proposés par la source : Accélérer la course complique ; ralentir facilite.
 
 **Espace source :** 20 × 20 m
 
