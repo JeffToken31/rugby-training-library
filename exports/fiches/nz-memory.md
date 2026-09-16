@@ -38,3 +38,10 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 ## Répertoire des sources
 
 - [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

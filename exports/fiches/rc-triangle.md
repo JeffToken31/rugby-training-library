@@ -38,3 +38,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 ## Répertoire des sources
 
 - [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, common_errors, duration_min, space.

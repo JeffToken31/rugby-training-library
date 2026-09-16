@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Kick Golf — Description, Coaching Outcome,
 ## Répertoire des sources
 
 - [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Jeu et conduite au pied.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

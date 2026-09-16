@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 ## Répertoire des sources
 
 - [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse, immobilisation et délivrance.
+
+Champs à préciser : common_errors, duration_min, players_min, players_max, space.

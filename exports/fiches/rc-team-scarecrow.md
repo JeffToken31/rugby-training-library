@@ -36,3 +36,14 @@ Détails extraits le 2026-09-08 — Video Subtitles propres à la fiche ; progre
 ## Répertoire des sources
 
 - [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Objectif proposé à confirmer. Aucune validation coach implicite.
+Famille proposée : Chasse collective par passes.
+
+**objectives — AI_INFERRED**
+
+Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

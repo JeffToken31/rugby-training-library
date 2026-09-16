@@ -38,3 +38,10 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 ## Répertoire des sources
 
 - [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Ramasser, recevoir et transmettre.
+
+Champs à préciser : common_errors, coach_points, duration_min, players_min, players_max, space.

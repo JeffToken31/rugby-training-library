@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — What’s the Time Mr Wolf? — Description, 
 ## Répertoire des sources
 
 - [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Traversée de défenses.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

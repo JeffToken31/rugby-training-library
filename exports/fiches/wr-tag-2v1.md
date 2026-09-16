@@ -44,3 +44,10 @@ Détails extraits le 2026-09-16 — 2 v 1 — Difficulty ; Coaching points conse
 ## Répertoire des sources
 
 - [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Surnombre et soutien face à un opposant.
+
+Champs à préciser : common_errors.

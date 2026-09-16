@@ -56,3 +56,10 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 ## Répertoire des sources
 
 - [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en binôme et soutien.
+
+Champs à préciser : duration_min, space.

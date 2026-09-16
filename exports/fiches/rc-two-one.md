@@ -56,3 +56,10 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles, avant Up Nex
 ## Répertoire des sources
 
 - [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Surnombre et soutien face à un opposant.
+
+Champs à préciser : duration_min, space.

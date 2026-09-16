@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Cat and Mouse — Description, Coaching Outc
 ## Répertoire des sources
 
 - [Cat and Mouse](https://australia.rugby/participate/get-into-rugby/activities/activations/cat-and-mouse) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space.

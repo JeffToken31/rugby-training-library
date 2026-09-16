@@ -34,3 +34,14 @@ Détails extraits le 2026-09-09 — PDF page 15 — Teaching Cues.
 ## Répertoire des sources
 
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — PDF public consulté. Ressource primaire et mini-rugby ; âge précis non donné.
+
+## Préparation de séance
+
+État : Objectif proposé à confirmer. Aucune validation coach implicite.
+Famille proposée : Motricité et postures.
+
+**objectives — AI_INFERRED**
+
+Contrôler une impulsion verticale et le retour au sol.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space, material.

@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Chain Relay — Description, Coaching Outcom
 ## Répertoire des sources
 
 - [Chain Relay](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Parcours et relais avec ballon.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

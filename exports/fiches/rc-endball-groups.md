@@ -36,3 +36,10 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 ## Répertoire des sources
 
 - [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Jeux à zones de marque.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

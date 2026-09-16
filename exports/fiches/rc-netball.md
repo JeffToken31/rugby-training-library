@@ -50,3 +50,10 @@ Détails extraits le 2026-09-07 — Description et Video Subtitles ; hors recomm
 ## Répertoire des sources
 
 - [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Jeu pédagogique, pas une règle de match FFR.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Jeux à zones de marque.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

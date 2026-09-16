@@ -40,3 +40,10 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 ## Répertoire des sources
 
 - [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Créer et exploiter un espace en opposition.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min.

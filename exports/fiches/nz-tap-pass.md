@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Tap pass Tap — Objective / Principles of p
 ## Répertoire des sources
 
 - [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en progression collective.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

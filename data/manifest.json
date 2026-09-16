@@ -164,5 +164,15 @@
     "sg-team-tag-source",
     "au-cat-mouse-source",
     "au-gir-age-source"
-  ]
+  ],
+  "application": {
+    "classification": "data/classification-audit.json",
+    "proposals": "data/app-proposals.json",
+    "observations": [
+      "data/observation-carre2-20260916.json"
+    ],
+    "source_supplements": [
+      "data/ffr-atelier1-video-links.json"
+    ]
+  }
 }

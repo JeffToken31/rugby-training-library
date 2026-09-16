@@ -38,3 +38,10 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 ## Répertoire des sources
 
 - [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Créer et exploiter un espace en opposition.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

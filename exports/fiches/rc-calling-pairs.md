@@ -38,3 +38,10 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 ## Répertoire des sources
 
 - [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — Page publique découverte ; capture et contenu à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en binôme et soutien.
+
+Champs à préciser : common_errors, coach_points, duration_min, players_min, players_max, space.

@@ -40,3 +40,10 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 ## Répertoire des sources
 
 - [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Conservation et interception.
+
+Champs à préciser : common_errors, duration_min, space.

@@ -44,3 +44,10 @@ Détails extraits le 2026-09-09 — DESCRIPTION et COACHING POINTS de la contrib
 ## Répertoire des sources
 
 - [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069) — Description publique seulement ; déroulement non vérifié. Ne pas déduire les règles du seul titre.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Conservation et interception.
+
+Champs à préciser : common_errors, duration_min, players_min, players_max, space, material.

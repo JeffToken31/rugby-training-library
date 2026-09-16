@@ -54,6 +54,9 @@ def run(db,manifest,root,out,collect=False,limit=12):
     if db.execute("PRAGMA foreign_key_check").fetchall():
         raise ValueError("Références incohérentes : export annulé")
     count=v2.export(db,out)
+    if manifest.get("application"):
+        import application_data
+        application_data.export(db,root,out,manifest["application"])
     items=v2.items(db)
     report={
         "generated_at":datetime.now(timezone.utc).isoformat(),

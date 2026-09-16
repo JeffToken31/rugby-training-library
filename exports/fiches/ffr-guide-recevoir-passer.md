@@ -40,3 +40,10 @@ Détails extraits le 2026-09-16 — PDF page 24 — atelier correspondant ; pagi
 ## Répertoire des sources
 
 - [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — PDF consulté via recherche documentaire ; capture locale à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Ramasser, recevoir et transmettre.
+
+Champs à préciser : common_errors, coach_points, duration_min.

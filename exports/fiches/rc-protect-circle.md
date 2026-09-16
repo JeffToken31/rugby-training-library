@@ -36,3 +36,10 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 ## Répertoire des sources
 
 - [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Protection collective d’une cible.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space.

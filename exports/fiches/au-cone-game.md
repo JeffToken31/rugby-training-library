@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Cone Game — Description, Coaching Outcome,
 ## Répertoire des sources
 
 - [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space.

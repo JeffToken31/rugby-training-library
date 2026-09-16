@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Octopus — Objective / Principles of play.
 ## Répertoire des sources
 
 - [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Traversée de défenses.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max.

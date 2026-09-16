@@ -40,3 +40,10 @@ Détails extraits le 2026-09-16 — Carte Depth Running — How to Play ; page n
 ## Répertoire des sources
 
 - [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en progression collective.
+
+Champs à préciser : success_criteria, common_errors, duration_min.

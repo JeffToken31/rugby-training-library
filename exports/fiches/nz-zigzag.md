@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Zig Zag Passing — Objective / Principles o
 ## Répertoire des sources
 
 - [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max.

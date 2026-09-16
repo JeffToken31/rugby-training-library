@@ -40,3 +40,10 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 ## Répertoire des sources
 
 - [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en binôme et soutien.
+
+Champs à préciser : success_criteria, common_errors, duration_min.

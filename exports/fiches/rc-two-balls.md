@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 ## Répertoire des sources
 
 - [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Description insuffisante. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : organisation, success_criteria, common_errors, duration_min, players_min, players_max, space.

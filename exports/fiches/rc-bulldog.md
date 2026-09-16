@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 ## Répertoire des sources
 
 - [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Traversée de défenses.
+
+Champs à préciser : common_errors, duration_min, space.

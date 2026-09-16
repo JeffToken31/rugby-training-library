@@ -1,3 +1,5 @@
+> Document historique : la décision du 16 septembre 2026 suspend la collecte. Voir [cadrage courant](../PROJECT.md), [contrat application](CONTRAT_APPLICATION.md) et [bilan actuel](../exports/QUALITE_APPLICATION.md). Les chiffres et priorités ci-dessous décrivent un état antérieur.
+
 # Prochains enrichissements prioritaires
 
 | Fiche | Manques |

@@ -38,3 +38,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 ## Répertoire des sources
 
 - [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Jeux à zones de marque.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

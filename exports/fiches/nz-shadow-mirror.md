@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Shadow Run — progression 2 — Objective /
 ## Répertoire des sources
 
 - [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max.

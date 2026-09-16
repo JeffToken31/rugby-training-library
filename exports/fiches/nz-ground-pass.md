@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Touch the Ground Pass — Objective / Princi
 ## Répertoire des sources
 
 - [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Conservation et interception.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

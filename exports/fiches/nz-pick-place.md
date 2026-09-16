@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 ## Répertoire des sources
 
 - [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — Description publique indexée consultée ; capture à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Parcours et relais avec ballon.
+
+Champs à préciser : success_criteria, coach_points, duration_min.

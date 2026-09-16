@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Kick Tennis — Description, Coaching Outcom
 ## Répertoire des sources
 
 - [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Jeux de renvoi : main et pied.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

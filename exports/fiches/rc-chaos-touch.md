@@ -36,3 +36,10 @@ Détails extraits le 2026-09-08 — Description et Video Subtitles de la fiche ;
 ## Répertoire des sources
 
 - [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — Page publique découverte ; capture et contenu à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Jeux à zones de marque.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

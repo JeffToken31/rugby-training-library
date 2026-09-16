@@ -40,3 +40,10 @@ Détails extraits le 2026-09-14 — Carte Cold & Hot Potato — How to Play ; nu
 ## Répertoire des sources
 
 - [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Carte lisible dans les résultats publics indexés ; PDF direct HTTP 403, pas de capture.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max.

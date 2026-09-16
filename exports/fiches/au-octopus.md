@@ -50,3 +50,10 @@ Détails extraits le 2026-09-16 — Description et Coaching Outcome ; texte publ
 ## Répertoire des sources
 
 - [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Description publique consultée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Traversée de défenses.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

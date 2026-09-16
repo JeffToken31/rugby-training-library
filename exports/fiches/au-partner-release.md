@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Partner Tag — ground release progression �
 ## Répertoire des sources
 
 - [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en binôme et soutien.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, space.

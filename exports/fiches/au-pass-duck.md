@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Pass and Duck — Description, Coaching Outc
 ## Répertoire des sources
 
 - [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_max, space.

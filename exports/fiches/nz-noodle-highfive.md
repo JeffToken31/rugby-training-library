@@ -38,3 +38,10 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 ## Répertoire des sources
 
 - [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse, immobilisation et délivrance.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

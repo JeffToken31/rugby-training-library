@@ -1,63 +1,43 @@
-# Bibliothèque rugby U8
+# Bibliothèque rugby U8 — base pour préparer les séances
 
-Base interne, dépôt privé, sans données enfants.
+**150 fiches conservées, 22 familles proposées, aucune collecte supplémentaire.** Ce n’est pas un décompte de jeux uniques. Dépôt privé, sans données enfants.
 
-**60 fiches : 51 documentées et 9 pistes à compléter.** 40 ressources référencées et 4 trames de séance sources. Dix propositions terrain historiques restent distinctes des faits sources.
+- [Bilan actuel des 150 fiches](exports/QUALITE_APPLICATION.md)
+- [Catalogue et descriptions](exports/CATALOGUE.md)
+- [Cadrage du créateur de séances](docs/INTERFACE_SEANCES.md)
+- [Contrat des données pour l’application](docs/CONTRAT_APPLICATION.md)
+- [Rapprochements entre exercices](exports/COMPARAISONS.md)
+- [Cadrage courant](PROJECT.md)
 
-- [Choisir un exercice](exports/INDEX.md)
-- [Catalogue complet](exports/CATALOGUE.md)
-- [Séances sources](exports/SEANCES.md)
-- [Votre proposition de séance de 90 minutes](docs/SEANCE_EXEMPLE.md)
-- [Détail du nouveau lot et limites](docs/LOT_2026-09-07.md)
-- [Livrable attendu et critères de réussite](docs/CONTRAT_DE_LIVRAISON.md)
-- [Modèle conceptuel](docs/ARCHITECTURE.md)
+## Reconstruire et vérifier
 
-## Reconstituer la base
-Python standard dans WSL, sans sudo :
+Depuis la racine du dépôt dans WSL, Python standard uniquement :
 
 ```sh
-python3 catalogue_v2.py import data/seed.json data/ffr-2026.json data/scotland-primary.json data/rc-young-games.json data/rc-cooperation.json
-python3 catalogue_v2.py enrich data/enrichment-details.json
-python3 catalogue_v2.py search passe
-python3 catalogue_v2.py search --status REVIEWED
-python3 catalogue_v2.py export
-python3 catalogue_v2.py stats
-python3 -m unittest discover -s tests -v
+python3 pipeline.py
+python3 -m unittest discover -s tests -q
 ```
 
-Les imports identiques sont réexécutables. Une révision modifiant un identifiant existant est refusée pour éviter d'écraser une décision. Les lots complets sont conservés en base avec empreinte.
+La reconstruction utilise les fichiers versionnés, sans réseau. Elle fonctionne aussi avec une base vierge :
 
-REVIEWED signifie lecture documentaire, pas validation par un coach. AI_PARSED identifie ici les pistes encore incomplètes. Les titres ne sont pas des identifiants ; plusieurs variantes peuvent partager une page source.
-
-Les anciennes commandes library.py restent utilisables pour le premier lot uniquement. La recherche v2 combine thème, texte d’âge source, matériel, durée maximale, effectif et statut ; tri par titre, durée ou effectif. --basis proposal filtre les réglages proposés, --basis source les faits sources. Les valeurs numériques inconnues sont exclues. Utiliser catalogue_v2.py export pour conserver tous les nouveaux lots dans les exports.
-
-La découverte de liens (discover.py) reste distincte de l'extraction d'exercices. Les archives binaires et vidéos ne sont pas publiées dans ce dépôt.
-
-## Recherche terrain et captures
 ```sh
-python3 catalogue_v2.py search --theme passe --minutes 7 --players 8 --basis proposal
-python3 catalogue_v2.py search --material ballon --sort title
-python3 capture_resources.py rc-pass-start-source
+python3 pipeline.py --db /tmp/rugby-rebuild.sqlite --out /tmp/rugby-exports
 ```
 
-[État des captures et filtres](docs/COLLECTE_OPERATIONNELLE.md). Les copies brutes restent dans data/raw, ignoré par Git.
+Les fichiers dans exports/ sont générés ; modifier les données d’entrée, jamais seulement un export. La base SQLite et les captures brutes sont locales et ignorées par Git. Un clone peut reconstruire les descriptions sans disposer des captures : les indicateurs de disponibilité locale ne sont pas transportables.
 
-Quatre fiches disposent désormais de rubriques pédagogiques séparées. Voir [enrichissement et provenance](docs/ENRICHISSEMENT.md).
+## Organisation
 
-## Reconstruction complète
+| Élément | Rôle |
+|---|---|
+| data/manifest.json | Ordre des lots et compléments d’application |
+| catalogue_v2.py, enrichments.py | Import et historique documentaire |
+| application_data.py | Vue d’application, classement, observations et audit |
+| session_plan.py | Contrôles structurels des brouillons de séances |
+| exports/APPLICATION.json | Contrat de lecture version 1 pour le futur front |
+| data/session-draft.example.json | Brouillon de 90 minutes, rotations simultanées |
+| tests/ | Reconstruction, provenance, intégrité et minutage |
 
-Depuis le dossier du projet, `python3 pipeline.py` reconstruit les données et tous les enrichissements décrits dans `data/manifest.json`, puis les exports, sans nouvelle requête réseau. Cette commande remplace l’enchaînement manuel des lots pour l’usage courant.
+La vue d’application distingue le noyau documentaire, les objectifs proposés, les observations rapportées et les descriptions insuffisantes. La présence des quatre rubriques essentielles ne vaut pas fiche exhaustive ni validation terrain. Les neuf fiches encore trop peu décrites restent consultables à part, exclues de la sélection par défaut.
 
-`python3 pipeline.py --collect --limit 20` ajoute une collecte bornée des ressources du manifeste. Les captures existantes sont réutilisées. Un échec de collecte n’empêche pas les autres ressources ni les exports. Les accès bloqués sont différés ; aucune authentification n’est automatisée.
-
-Lire [le bilan du lot](docs/LOT_2026-09-08.md) et [la couverture des informations](exports/ETAT_COLLECTE.md). Pour vérifier : `python3 -m unittest discover -s tests -q`.
-
-[Comparer les exercices proches](exports/COMPARAISONS.md) : pistes de rapprochement et différences de règles, sans fusion automatique.
-
-Les enrichissements acceptent désormais des révisions successives avec historique et provenance par champ. Voir [le lot continu](docs/LOT_CONTINU_2026-09-08.md).
-
-## Choisir des fiches suffisamment décrites
-
-[Organisation et déroulement sourcés](exports/FICHES_DETAILLEES.md) propose une sélection générée à chaque export. Elle ne signifie pas validation terrain.
-
-Recherche combinable : `python3 catalogue_v2.py search --has-field organisation --has-field steps --field-origin SOURCE --provider World`. Chaque champ demandé doit être présent et avoir l’origine exigée. L’organisme recherché est celui de la source principale. Ces options se combinent aux thèmes, durées et effectifs. Sans filtre d’origine, les propositions identifiées et les valeurs historiques sont également admissibles.
+Les documents LOT_* et bilans datés sont historiques. Le cadrage courant remplace leurs consignes de poursuite de collecte. Les collecteurs sont conservés pour l’historique mais ne doivent pas être lancés dans cette phase.

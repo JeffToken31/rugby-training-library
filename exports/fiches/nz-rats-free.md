@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Rats and Rabbits 4 — Objective / Principle
 ## Répertoire des sources
 
 - [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max.

@@ -38,3 +38,10 @@ Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Ta
 ## Répertoire des sources
 
 - [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse, immobilisation et délivrance.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max.

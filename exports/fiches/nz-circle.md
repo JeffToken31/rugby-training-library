@@ -42,3 +42,10 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 ## Répertoire des sources
 
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — Description publique indexée consultée ; capture à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, duration_min.

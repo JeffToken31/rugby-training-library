@@ -40,3 +40,10 @@ Détails extraits le 2026-09-07 — Description / Video Subtitles — texte publ
 ## Répertoire des sources
 
 - [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en progression collective.
+
+Champs à préciser : success_criteria, duration_min, space.

@@ -40,3 +40,10 @@ Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
 ## Répertoire des sources
 
 - [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — Texte public consulté ; no-ball-touch via résultat indexé, ouverture directe expirée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse collective par passes.
+
+Champs à préciser : success_criteria, common_errors, duration_min.

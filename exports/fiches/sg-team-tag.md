@@ -38,3 +38,10 @@ Détails extraits le 2026-09-10 — Rugby union - team tag — Getting started.
 ## Répertoire des sources
 
 - [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse, immobilisation et délivrance.
+
+Champs à préciser : success_criteria, common_errors, coach_points.

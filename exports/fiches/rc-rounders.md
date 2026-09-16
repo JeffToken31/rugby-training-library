@@ -36,3 +36,10 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 ## Répertoire des sources
 
 - [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — Page publique découverte ; capture et contenu à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Course contre échanges adverses.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

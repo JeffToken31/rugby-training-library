@@ -40,3 +40,10 @@ Détails extraits le 2026-09-16 — PDF page 20, pagination du fichier — TASK 
 ## Répertoire des sources
 
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse collective par passes.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space, material.

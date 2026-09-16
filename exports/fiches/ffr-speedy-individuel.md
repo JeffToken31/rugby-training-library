@@ -40,3 +40,10 @@ Détails extraits le 2026-09-09 — PDF page 69 (pagination fichier), organisati
 ## Répertoire des sources
 
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — PDF public consulté.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

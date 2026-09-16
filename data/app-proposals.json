@@ -1,0 +1,186 @@
+{
+  "version": 1,
+  "scope": "Propositions éditoriales déduites exclusivement des descriptions déjà présentes ; pas des objectifs fédéraux ni une validation coach.",
+  "objectives": [
+    {
+      "variant_id": "scot-kangaroo",
+      "value": "Coordonner impulsion et réception équilibrée lors de bonds successifs.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-roll-tig",
+      "value": "Repérer un partenaire immobilisé et contrôler un ballon roulé pour le délivrer.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-chaos-tig",
+      "value": "Observer les autres joueurs et réagir aux changements de statut dans une poursuite.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "munster-crabe",
+      "value": "Coordonner les déplacements en appui sur les mains et les pieds.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "munster-gorille",
+      "value": "Enchaîner appuis des mains et rapprochement des pieds.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "rc-team-scarecrow",
+      "value": "Se déplacer après une passe pour aider les chasseurs à atteindre un fuyard.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "munster-flamant",
+      "value": "Retrouver un équilibre sur un pied après un changement d’appui.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-monster",
+      "value": "Contrôler une succession de fentes alternées.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-chaine",
+      "value": "Coordonner ses déplacements avec ses partenaires pendant une poursuite.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-cricket",
+      "value": "Explorer plusieurs directions de déplacement en position accroupie.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-monkey",
+      "value": "Coordonner un déplacement à trois appuis.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-crocodile",
+      "value": "Coordonner les appuis des bras et des jambes dans un déplacement au sol.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "munster-grenouille",
+      "value": "Contrôler une impulsion verticale et le retour au sol.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-tennis",
+      "value": "Coordonner réception et transmission d’une main avec un partenaire.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-pass-pal",
+      "value": "Repérer un partenaire disponible et enchaîner déplacement et transmission.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-zones",
+      "value": "Observer un défenseur et choisir un passage pour franchir sa zone.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    },
+    {
+      "variant_id": "scot-alignement",
+      "value": "Observer les positions des partenaires et choisir une place pour former un alignement.",
+      "origin": "AI_INFERRED",
+      "basis_fields": [
+        "organisation",
+        "steps"
+      ],
+      "checked_on": "2026-09-16"
+    }
+  ],
+  "classification_overrides": [
+    {
+      "variant_id": "ffr-carre2-atelier",
+      "family_id": "F19",
+      "origin": "AI_INFERRED",
+      "status": "REPORTED_OBSERVATION_RECLASSIFIED",
+      "discriminant": "Collecter au centre puis dans les camps, sans empêcher les voleurs.",
+      "basis_observation_id": "ffr-carre2-user-observation-20260916"
+    }
+  ]
+}

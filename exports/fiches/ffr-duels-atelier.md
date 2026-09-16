@@ -32,3 +32,10 @@ Détails extraits le 2026-09-08 — Diapositive 3, rubrique M8, texte public arc
 ## Répertoire des sources
 
 - [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — Diapositives et texte publics consultés ; PDF non téléchargé.
+
+## Préparation de séance
+
+État : Description insuffisante. Aucune validation coach implicite.
+Famille proposée : Surnombre et soutien face à un opposant.
+
+Champs à préciser : organisation, steps, instructions, success_criteria, common_errors, duration_min, players_min, players_max, space, material.

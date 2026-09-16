@@ -40,3 +40,10 @@ Détails extraits le 2026-09-10 — Rob the Nest — passing progression — Des
 ## Répertoire des sources
 
 - [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description publique consultée. Variante de la famille des nids ; rattachée à la fiche existante.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Collecte de ballons.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space.

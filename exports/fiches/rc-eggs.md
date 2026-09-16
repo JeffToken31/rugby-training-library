@@ -56,3 +56,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres propres à la fic
 ## Répertoire des sources
 
 - [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069) — Sous-titres publics consultés ; lecture vidéo non vérifiée. Classement U8, mais le coach décrit des participants de 11–12 ans.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Collecte de ballons.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

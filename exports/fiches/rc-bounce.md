@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — Description et sous-titres du contenu princi
 ## Répertoire des sources
 
 - [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — Description et sous-titres publics consultés ; vidéo non vérifiée. L’âge exact peut être absent ; le classement du site ne prouve pas l’âge des participants.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en binôme et soutien.
+
+Champs à préciser : success_criteria, duration_min, space.

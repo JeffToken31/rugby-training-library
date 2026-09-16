@@ -36,3 +36,14 @@ Détails extraits le 2026-09-09 — PDF page 18.
 ## Répertoire des sources
 
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — PDF public consulté.
+
+## Préparation de séance
+
+État : Objectif proposé à confirmer. Aucune validation coach implicite.
+Famille proposée : Chasse, immobilisation et délivrance.
+
+**objectives — AI_INFERRED**
+
+Coordonner ses déplacements avec ses partenaires pendant une poursuite.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min, players_min, players_max, space, material.

@@ -42,3 +42,10 @@ Détails extraits le 2026-09-10 — Score the Try and Pop Race — Description, 
 ## Répertoire des sources
 
 - [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Description publique consultée ; capture locale évaluée séparément.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Passes en binôme et soutien.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

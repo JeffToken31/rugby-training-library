@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — OBJECTIVE et COACHING POINTS.
 ## Répertoire des sources
 
 - [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Parcours et relais avec ballon.
+
+Champs à préciser : success_criteria, common_errors, duration_min.

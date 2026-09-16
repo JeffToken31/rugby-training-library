@@ -38,3 +38,10 @@ Détails extraits le 2026-09-08 — Description et paramètres du jeu.
 ## Répertoire des sources
 
 - [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — Description publique consultée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, coach_points, duration_min.

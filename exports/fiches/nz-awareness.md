@@ -42,3 +42,10 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 ## Répertoire des sources
 
 - [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — Description publique indexée consultée ; capture à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Manipulation et coordination individuelle.
+
+Champs à préciser : common_errors, duration_min, players_min, players_max.

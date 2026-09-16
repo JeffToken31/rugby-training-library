@@ -44,3 +44,10 @@ Détails extraits le 2026-09-16 — Find the Space — How to play / Coaching po
 ## Répertoire des sources
 
 - [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — Texte public consulté.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Chasse, immobilisation et délivrance.
+
+Champs à préciser : common_errors.

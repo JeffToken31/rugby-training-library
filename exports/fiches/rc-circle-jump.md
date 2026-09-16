@@ -38,3 +38,10 @@ Détails extraits le 2026-09-16 — Description de la vidéo principale ; Video 
 ## Répertoire des sources
 
 - [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — Description et sous-titres publics consultés ; vidéo non téléchargée.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Circulation du ballon et coordination collective.
+
+Champs à préciser : success_criteria, common_errors, duration_min, players_min, players_max, space.

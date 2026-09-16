@@ -40,3 +40,10 @@ Détails extraits le 2026-09-08 — EQUIPMENT, GROUP SIZE et AREA ; description 
 ## Répertoire des sources
 
 - [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — Description publique indexée consultée ; capture à vérifier.
+
+## Préparation de séance
+
+État : Noyau documentaire présent. Aucune validation coach implicite.
+Famille proposée : Réaction et course en duel.
+
+Champs à préciser : success_criteria, common_errors, duration_min.
