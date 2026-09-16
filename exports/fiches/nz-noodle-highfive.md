@@ -23,13 +23,15 @@ Deux chasseurs avec frites, autres joueurs avec ballon.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Travailler l’évitement.
+
 **Organisation :** Deux chasseurs avec frites, autres joueurs avec ballon.
 
 **Déroulement :** Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.
 
 **Consignes :** Les chasseurs cherchent à immobiliser tous les joueurs.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** 15 × 10 m
 

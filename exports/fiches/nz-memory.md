@@ -23,13 +23,15 @@ Joueurs assis en cercle.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Travailler la manipulation du ballon en mémorisant son destinataire.
+
 **Organisation :** Joueurs assis en cercle.
 
 **Déroulement :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
 
 **Consignes :** Communiquer et éviter les collisions.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** Cercle, joueurs espacés d’un mètre
 

@@ -68,3 +68,5 @@ Seuil de 150 fiches le 16 septembre : docs/BILAN_COUVERTURE_150.md. 84 fiches r�
 Rectification du 16 septembre : imagine-depth-running est un doublon probable de wr-chain-reaction ; nouveauté non démontrée. Six fiches enrichies en critères de réussite, soit 20 au total. Voir docs/LOT_CRITERES_2026-09-16.md.
 
 Lot progressions : docs/LOT_PROGRESSIONS_2026-09-16.md. Quinze fiches World Rugby complétées avec les réglages de difficulté sourcés, sans nouvelle fiche. 53 fiches avec points coach.
+
+Lot Rugby Toolbox : docs/LOT_NZ_ESSENTIELS_2026-09-16.md. Cinq fiches complétées ; 89/150 avec les quatre champs essentiels, dont les 24 fiches néo-zélandaises. Validation terrain toujours distincte.

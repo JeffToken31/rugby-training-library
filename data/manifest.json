@@ -68,7 +68,8 @@
     "data/enrichment-imagine-01.json",
     "data/enrichment-imagine-02.json",
     "data/enrichment-criteria-20260916.json",
-    "data/enrichment-progressions-20260916.json"
+    "data/enrichment-progressions-20260916.json",
+    "data/enrichment-nz-core-20260916.json"
   ],
   "capture_resources": [
     "rc-piggy",

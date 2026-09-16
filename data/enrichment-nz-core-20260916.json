@@ -1,0 +1,94 @@
+{
+  "enrichments": [
+    {
+      "id": "nz-noodle-highfive-core-20260916",
+      "variant_id": "nz-noodle-highfive",
+      "source_id": "nz-noodle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+      "capture_sha256": "13a14265f57400a67474b9fa3acffaf1f52c9dd435a93ce25d12fcf5aa7fead0",
+      "supersedes": "nz-noodle-highfive-detail-1",
+      "revision_reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler l’évitement."
+        }
+      }
+    },
+    {
+      "id": "nz-noodle-pass-core-20260916",
+      "variant_id": "nz-noodle-pass",
+      "source_id": "nz-noodle-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+      "capture_sha256": "13a14265f57400a67474b9fa3acffaf1f52c9dd435a93ce25d12fcf5aa7fead0",
+      "supersedes": "nz-noodle-pass-detail-1",
+      "revision_reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue."
+        }
+      }
+    },
+    {
+      "id": "nz-memory-core-20260916",
+      "variant_id": "nz-memory",
+      "source_id": "nz-memory-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+      "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+      "supersedes": "nz-memory-detail-1",
+      "revision_reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Travailler la manipulation du ballon en mémorisant son destinataire."
+        }
+      }
+    },
+    {
+      "id": "nz-rip-core-20260916",
+      "variant_id": "nz-rip",
+      "source_id": "nz-rip-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+      "capture_sha256": "a4fa97d6893b51e0939a69c1fe104cbc810666bd75621f12f5d44537e8085e9c",
+      "supersedes": "nz-rip-detail-1",
+      "revision_reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées.",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Prendre les rubans des adversaires et les éviter."
+        }
+      }
+    },
+    {
+      "id": "nz-multi-relay-core-20260916",
+      "variant_id": "nz-multi-relay",
+      "source_id": "nz-multi-relay-source",
+      "actor": "assistant",
+      "checked_on": "2026-09-16",
+      "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+      "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+      "supersedes": "nz-multi-relay-parameters-20260909",
+      "revision_reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées.",
+      "fields": {
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle."
+        }
+      }
+    }
+  ]
+}

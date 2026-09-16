@@ -23,13 +23,15 @@ Même chasse ; le joueur touché pose son ballon à ses pieds.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.
+
 **Organisation :** Même chasse ; le joueur touché pose son ballon à ses pieds.
 
 **Déroulement :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
 
 **Consignes :** Reprendre l’évitement après délivrance.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION — progression Noodle tag 2.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** 15 × 10 m
 

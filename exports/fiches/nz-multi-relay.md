@@ -29,7 +29,9 @@ Trois files réalisent un relais avec une action différente à chaque tour.
 
 **Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Consignes :** Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.
+
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
 

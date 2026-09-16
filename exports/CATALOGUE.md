@@ -421,13 +421,15 @@ Deux chasseurs avec frites, autres joueurs avec ballon.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Travailler l’évitement.
+
 **Organisation :** Deux chasseurs avec frites, autres joueurs avec ballon.
 
 **Déroulement :** Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.
 
 **Consignes :** Les chasseurs cherchent à immobiliser tous les joueurs.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** 15 × 10 m
 
@@ -449,13 +451,15 @@ Même chasse ; le joueur touché pose son ballon à ses pieds.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.
+
 **Organisation :** Même chasse ; le joueur touché pose son ballon à ses pieds.
 
 **Déroulement :** Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.
 
 **Consignes :** Reprendre l’évitement après délivrance.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION — progression Noodle tag 2.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** 15 × 10 m
 
@@ -819,13 +823,15 @@ Joueurs assis en cercle.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Travailler la manipulation du ballon en mémorisant son destinataire.
+
 **Organisation :** Joueurs assis en cercle.
 
 **Déroulement :** Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.
 
 **Consignes :** Communiquer et éviter les collisions.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** Cercle, joueurs espacés d’un mètre
 
@@ -3477,7 +3483,9 @@ Trois files réalisent un relais avec une action différente à chaque tour.
 
 **Déroulement :** Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.
 
-Détails extraits le 2026-09-09 — EQUIPMENT, GROUP SIZE, AREA et description.
+**Consignes :** Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.
+
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Points coach issus de la source :** Fléchir les jambes au ramassage ; utiliser de petites touches de pied pour garder le contrôle.
 
@@ -3609,13 +3617,15 @@ Joueurs répartis dans le carré.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Prendre les rubans des adversaires et les éviter.
+
 **Organisation :** Joueurs répartis dans le carré.
 
 **Déroulement :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
 
 **Consignes :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** 10 × 10 m
 

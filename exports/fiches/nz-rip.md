@@ -23,13 +23,15 @@ Joueurs répartis dans le carré.
 
 **Accès :** Description publique consultée
 
+**Objectifs :** Prendre les rubans des adversaires et les éviter.
+
 **Organisation :** Joueurs répartis dans le carré.
 
 **Déroulement :** Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.
 
 **Consignes :** Rester dans le carré ; impossible de prendre un ruban si le sien manque.
 
-Détails extraits le 2026-09-09 — DRILL EXPLANATION.
+Détails extraits le 2026-09-16 — Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée.
 
 **Espace source :** 10 × 10 m
 

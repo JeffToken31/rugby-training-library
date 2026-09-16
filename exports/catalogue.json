@@ -3144,9 +3144,21 @@
       "instructions": "Les chasseurs cherchent à immobiliser tous les joueurs.",
       "organisation": "Deux chasseurs avec frites, autres joueurs avec ballon.",
       "steps": "Après toucher, rester sur un pied et lever la main. Un partenaire délivre en tapant cette main.",
+      "objectives": "Travailler l’évitement.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler l’évitement.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+            "revision_id": "nz-noodle-highfive-core-20260916",
+            "capture_sha256": "13a14265f57400a67474b9fa3acffaf1f52c9dd435a93ce25d12fcf5aa7fead0",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -3225,9 +3237,11 @@
       "enrichment_provenance": {
         "source_id": "nz-noodle-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION",
-        "revision_id": "nz-noodle-highfive-detail-1"
+        "checked_on": "2026-09-16",
+        "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+        "revision_id": "nz-noodle-highfive-core-20260916",
+        "capture_sha256": "13a14265f57400a67474b9fa3acffaf1f52c9dd435a93ce25d12fcf5aa7fead0",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -3235,6 +3249,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-noodle-highfive-core-20260916",
+          "supersedes": "nz-noodle-highfive-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
         }
       ],
       "source": {
@@ -3271,9 +3291,21 @@
       "instructions": "Reprendre l’évitement après délivrance.",
       "organisation": "Même chasse ; le joueur touché pose son ballon à ses pieds.",
       "steps": "Un partenaire lui passe son ballon pour le libérer, puis récupère celui au sol.",
+      "objectives": "Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler l’évitement, objectif commun de la situation de base dont cette progression est issue.",
+          "provenance": {
+            "source_id": "nz-noodle-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+            "revision_id": "nz-noodle-pass-core-20260916",
+            "capture_sha256": "13a14265f57400a67474b9fa3acffaf1f52c9dd435a93ce25d12fcf5aa7fead0",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -3352,9 +3384,11 @@
       "enrichment_provenance": {
         "source_id": "nz-noodle-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION — progression Noodle tag 2",
-        "revision_id": "nz-noodle-pass-detail-1"
+        "checked_on": "2026-09-16",
+        "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+        "revision_id": "nz-noodle-pass-core-20260916",
+        "capture_sha256": "13a14265f57400a67474b9fa3acffaf1f52c9dd435a93ce25d12fcf5aa7fead0",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -3362,6 +3396,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-noodle-pass-core-20260916",
+          "supersedes": "nz-noodle-pass-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
         }
       ],
       "source": {
@@ -5286,9 +5326,21 @@
       "instructions": "Communiquer et éviter les collisions.",
       "organisation": "Joueurs assis en cercle.",
       "steps": "Courir passer à un joueur non voisin puis rester debout. Faire participer chacun ; mémoriser et répéter le circuit debout.",
+      "objectives": "Travailler la manipulation du ballon en mémorisant son destinataire.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Travailler la manipulation du ballon en mémorisant son destinataire.",
+          "provenance": {
+            "source_id": "nz-memory-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+            "revision_id": "nz-memory-core-20260916",
+            "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -5367,9 +5419,11 @@
       "enrichment_provenance": {
         "source_id": "nz-memory-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION",
-        "revision_id": "nz-memory-detail-1"
+        "checked_on": "2026-09-16",
+        "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+        "revision_id": "nz-memory-core-20260916",
+        "capture_sha256": "22c1a7897eda1e7fae1573e7b61ad5d0e93a2275516eb5ae3eb98d900f79e294",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -5377,6 +5431,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-memory-core-20260916",
+          "supersedes": "nz-memory-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
         }
       ],
       "source": {
@@ -18919,6 +18979,7 @@
       "objectives": "Pratiquer plusieurs habiletés avec le ballon.",
       "organisation": "Trois files face à un repère situé à quinze mètres.",
       "steps": "Contourner le repère puis transmettre au suivant. Tours successifs : rouler et ramasser, conduire au pied, rouler sur l’épaule avec ballon, tourner le ballon autour du buste, petit coup de pied et poursuite.",
+      "instructions": "Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.",
       "field_coverage": {
         "objectives": {
           "origin": "SOURCE",
@@ -18957,7 +19018,18 @@
           }
         },
         "instructions": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au ramassage, fléchir les jambes et accompagner le ballon avec la main arrière ; en conduite au pied, utiliser de petits coups de pied pour garder le contrôle.",
+          "provenance": {
+            "source_id": "nz-multi-relay-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+            "revision_id": "nz-multi-relay-core-20260916",
+            "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
+            "capture_verified_locally": true
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED"
@@ -19051,9 +19123,9 @@
       "enrichment_provenance": {
         "source_id": "nz-multi-relay-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "EQUIPMENT, GROUP SIZE, AREA et description",
-        "revision_id": "nz-multi-relay-parameters-20260909",
+        "checked_on": "2026-09-16",
+        "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+        "revision_id": "nz-multi-relay-core-20260916",
         "capture_sha256": "767d64bbd2a26c49e0f1902d5971aa2fd4243f89375012a20d2b83c95911202b",
         "capture_verified_locally": true
       },
@@ -19069,6 +19141,12 @@
           "supersedes": "nz-multi-relay-detail-1",
           "checked_on": "2026-09-09",
           "reason": "Paramètres historiques vérifiés sur la capture ; absence de durée totale explicitée."
+        },
+        {
+          "id": "nz-multi-relay-core-20260916",
+          "supersedes": "nz-multi-relay-parameters-20260909",
+          "checked_on": "2026-09-16",
+          "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
         }
       ],
       "source": {
@@ -19679,9 +19757,21 @@
       "instructions": "Rester dans le carré ; impossible de prendre un ruban si le sien manque.",
       "organisation": "Joueurs répartis dans le carré.",
       "steps": "Prendre un ruban adverse, le montrer, annoncer la prise puis le rendre.",
+      "objectives": "Prendre les rubans des adversaires et les éviter.",
       "field_coverage": {
         "objectives": {
-          "state": "NOT_EXTRACTED"
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Prendre les rubans des adversaires et les éviter.",
+          "provenance": {
+            "source_id": "nz-rip-source",
+            "actor": "assistant",
+            "checked_on": "2026-09-16",
+            "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+            "revision_id": "nz-rip-core-20260916",
+            "capture_sha256": "a4fa97d6893b51e0939a69c1fe104cbc810666bd75621f12f5d44537e8085e9c",
+            "capture_verified_locally": true
+          }
         },
         "organisation": {
           "origin": "SOURCE",
@@ -19758,9 +19848,11 @@
       "enrichment_provenance": {
         "source_id": "nz-rip-source",
         "actor": "assistant",
-        "checked_on": "2026-09-09",
-        "locator": "DRILL EXPLANATION",
-        "revision_id": "nz-rip-detail-1"
+        "checked_on": "2026-09-16",
+        "locator": "Objective / Coaching Points ; pour Noodle Tag 2, objectif de Noodle Tag 1 et progression explicitement rattachée",
+        "revision_id": "nz-rip-core-20260916",
+        "capture_sha256": "a4fa97d6893b51e0939a69c1fe104cbc810666bd75621f12f5d44537e8085e9c",
+        "capture_verified_locally": true
       },
       "enrichment_history": [
         {
@@ -19768,6 +19860,12 @@
           "supersedes": null,
           "checked_on": "2026-09-09",
           "reason": null
+        },
+        {
+          "id": "nz-rip-core-20260916",
+          "supersedes": "nz-rip-detail-1",
+          "checked_on": "2026-09-16",
+          "reason": "Complément des champs essentiels depuis le texte archivé ; valeurs antérieures conservées."
         }
       ],
       "source": {
