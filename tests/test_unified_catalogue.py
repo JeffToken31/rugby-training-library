@@ -17,7 +17,7 @@ class UnifiedTests(unittest.TestCase):
         for name in ("DUREES.md","CATEGORIES.md","COMPARAISONS.md"):
             self.assertIn("CATALOGUE.md#",(ROOT/"exports"/name).read_text())
         payload=json.loads((ROOT/"exports/APPLICATION.json").read_text())
-        self.assertEqual(payload["consolidation_review"]["pairs_checked"],11175)
+        self.assertEqual(payload["consolidation_review"]["pairs_checked"],12403)
         self.assertEqual(len(payload["consolidation_review"]["pair_reviews"]),16)
         e=next(e for e in payload["exercises"] if e["id"]=="nz-memory")
         self.assertEqual(e["fields"]["coach_points"]["origin"],"SOURCE")

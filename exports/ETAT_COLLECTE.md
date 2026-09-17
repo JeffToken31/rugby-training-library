@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-150 fiches ; 141 documentées ; 9 incomplètes.
-150 fiches enrichies ; 87 ressources ; 62 ressources capturées localement.
+158 fiches ; 149 documentées ; 9 incomplètes.
+158 fiches enrichies ; 92 ressources ; 67 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 133 | 17 | 0 | 0 | 0 |
-| organisation | 140 | 10 | 0 | 0 | 0 |
-| steps | 141 | 9 | 0 | 0 | 0 |
-| instructions | 141 | 9 | 0 | 0 | 0 |
-| success_criteria | 20 | 130 | 0 | 0 | 0 |
-| common_errors | 7 | 143 | 0 | 0 | 0 |
-| coach_points | 64 | 86 | 0 | 0 | 0 |
-| duration_min | 21 | 65 | 64 | 0 | 0 |
-| players_min | 63 | 62 | 24 | 0 | 1 |
-| players_max | 61 | 62 | 26 | 0 | 1 |
-| space | 51 | 71 | 28 | 0 | 0 |
-| material | 129 | 21 | 0 | 0 | 0 |
+| objectives | 141 | 17 | 0 | 0 | 0 |
+| organisation | 148 | 10 | 0 | 0 | 0 |
+| steps | 149 | 9 | 0 | 0 | 0 |
+| instructions | 149 | 9 | 0 | 0 | 0 |
+| success_criteria | 20 | 138 | 0 | 0 | 0 |
+| common_errors | 7 | 151 | 0 | 0 | 0 |
+| coach_points | 64 | 94 | 0 | 0 | 0 |
+| duration_min | 21 | 65 | 72 | 0 | 0 |
+| players_min | 63 | 70 | 24 | 0 | 1 |
+| players_max | 61 | 70 | 26 | 0 | 1 |
+| space | 51 | 79 | 28 | 0 | 0 |
+| material | 132 | 26 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -118,5 +118,10 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T10:54:36.123212+00:00
 - [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-10T06:22:00.016089+00:00 — Vérification robots impossible : 403
 - [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:19.359727+00:00
+- [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:12.490169+00:00
+- [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:08.594889+00:00
+- [World Rugby — Échauffement : mouvements fondamentaux](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:04.324417+00:00
+- [World Rugby — Principes d’échauffement enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/principles-and-guidelines-for-an-effective-warm-up) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:10.525040+00:00
+- [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:06.659327+00:00
 - [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:55.775124+00:00
 - [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:09:34.431314+00:00

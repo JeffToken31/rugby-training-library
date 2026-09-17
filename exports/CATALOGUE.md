@@ -2,52 +2,52 @@
 
 Point d’entrée unique : catégories, durées, installation, consignes, adaptations, sources, manques et rapprochements sont réunis ici.
 
-**150 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
+**158 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
 
-[Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)
+[Échauffements](#echauffements) · [Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)
 
 <a id="categories"></a>
 ## Catégories
 
 ### Compétences
 
-**Passe (59) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Circuit de passes mémorisé](#nz-memory) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Coordonner deux ballons](#rc-two-balls) · [Course autour des bases contre trois passes](#rc-rounders) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le ballon répond au signal](#au-familiarisation) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Ramasser puis transmettre](#ffr-ramasser) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Transmettre en trottinant](#ffr-transmettre) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+**Passe (60) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Circuit de passes mémorisé](#nz-memory) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Coordonner deux ballons](#rc-two-balls) · [Course autour des bases contre trois passes](#rc-rounders) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le ballon répond au signal](#au-familiarisation) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Ramasser puis transmettre](#ffr-ramasser) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Transmettre en trottinant](#ffr-transmettre) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
-**Réception (12) :** [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes froides puis chaudes](#imagine-cold-hot) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Ramasser puis transmettre](#ffr-ramasser) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Rugby à quatre cibles](#rc-netball) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis à la main](#scot-tennis) · [Éviter les plots et recevoir le ballon](#au-ufos)
+**Réception (13) :** [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes froides puis chaudes](#imagine-cold-hot) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Ramasser puis transmettre](#ffr-ramasser) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Rugby à quatre cibles](#rc-netball) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis à la main](#scot-tennis) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
 **Soutien (16) :** [Avancer et passer avant le tag](#rc-tagmatch) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Duels et soutien](#ffr-duels-atelier) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en escalier par cinq](#wr-formation) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Évitement (39) :** [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Duel d’évitement en couloir](#nz-evading-player) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les portes à franchir](#munster-gates) · [Les statues](#rc-statues) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Suivre l’ombre du porteur](#nz-shadow) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Traverser les zones gardées](#scot-zones) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Éviter les plots et recevoir le ballon](#au-ufos)
+**Évitement (40) :** [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Duel d’évitement en couloir](#nz-evading-player) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les portes à franchir](#munster-gates) · [Les statues](#rc-statues) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Suivre l’ombre du porteur](#nz-shadow) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Traverser face aux chasseurs](#rc-bulldog) · [Traverser les zones gardées](#scot-zones) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
-**Réaction au signal (22) :** [Binômes guidés par le signal du coach](#nz-follow) · [Carré 2](#ffr-carre2-atelier) · [Changer de ligne d’essai](#rc-multidirection) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Chercher les espaces libres](#ffr-espaces2023) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Vider le terrain au tag contre la montre](#sg-team-tag)
+**Réaction au signal (25) :** [Alterner marche et petit trot au signal](#warm-slow-go) · [Binômes guidés par le signal du coach](#nz-follow) · [Carré 2](#ffr-carre2-atelier) · [Changer de ligne d’essai](#rc-multidirection) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Chercher les espaces libres](#ffr-espaces2023) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Ici, là-bas, sur place](#warm-here-there) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Marcher puis se figer au signal](#warm-whistle-stop) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Vider le terrain au tag contre la montre](#sg-team-tag)
 
 **Manipulation du ballon (14) :** [Carré](#ffr-carre-atelier) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Le ballon répond au signal](#au-familiarisation) · [Manipulations autour du corps](#nz-awareness) · [Marcher en canard avec ballon](#ffr-canard) · [Ramasser, porter et reposer](#nz-pick-place) · [Rebondir et échanger en binôme](#rc-bounce) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal)
 
 **Jeu au pied (9) :** [Botter, récupérer et marquer](#au-kick-chase) · [Conduire le ballon au pied](#ffr-pied) · [Coup franc pour soi](#ffr-cpf) · [Golf au pied](#au-kick-golf) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis)
 
-**Motricité (19) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chat et déplacements animaux](#scot-animal) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Ramper comme un crocodile](#scot-crocodile) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
+**Motricité (21) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Cercles de bras progressifs](#warm-arm-circles) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chat et déplacements animaux](#scot-animal) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Fentes dans trois directions](#warm-lunge-clock) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Ramper comme un crocodile](#scot-crocodile) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
 
-**Coopération (35) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Course autour des bases contre trois passes](#rc-rounders) · [Dix passes - variante communautaire documentee](#rc-ten) · [Duels et soutien](#ffr-duels-atelier) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [La boue et la délivrance](#munster-mud) · [La chaîne](#scot-chaine) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Passer dans la zone d’arrivée](#munster-end) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rubans avec restitution avant reprise](#nz-rip) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+**Coopération (37) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Course autour des bases contre trois passes](#rc-rounders) · [Dix passes - variante communautaire documentee](#rc-ten) · [Duels et soutien](#ffr-duels-atelier) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [La boue et la délivrance](#munster-mud) · [La chaîne](#scot-chaine) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Passer dans la zone d’arrivée](#munster-end) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Rubans avec restitution avant reprise](#nz-rip) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
-**Prise d’information (21) :** [Binômes guidés par le signal du coach](#nz-follow) · [Changer de ligne d’essai](#rc-multidirection) · [Chercher les espaces libres](#ffr-espaces2023) · [Circuit de passes mémorisé](#nz-memory) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Réagir au mot plot](#au-cone-game) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Trois joueurs alignés](#scot-alignement) · [Éviter les plots et recevoir le ballon](#au-ufos)
+**Prise d’information (23) :** [Binômes guidés par le signal du coach](#nz-follow) · [Changer de ligne d’essai](#rc-multidirection) · [Chercher les espaces libres](#ffr-espaces2023) · [Circuit de passes mémorisé](#nz-memory) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Ici, là-bas, sur place](#warm-here-there) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Réagir au mot plot](#au-cone-game) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Trois joueurs alignés](#scot-alignement) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
 **Lutte (3) :** [Duel debout pour avancer](#ffr-lutte-avancer) · [Les gazelles](#ffr-gazelles-atelier) · [Protège-ballon](#ffr-protege-atelier)
 
 **Plaquage (1) :** [Plaquage et libération](#ffr-plaquage-atelier)
 
-**Équilibre et postures (5) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Équilibre du flamant](#munster-flamant)
+**Équilibre et postures (7) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Fentes dans trois directions](#warm-lunge-clock) · [Marcher puis se figer au signal](#warm-whistle-stop) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Équilibre du flamant](#munster-flamant)
 
 **Ramassage du ballon (19) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chercher les espaces libres](#ffr-espaces2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Le ballon répond au signal](#au-familiarisation) · [Les œufs dans les nids](#rc-eggs) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Ramasser puis transmettre](#ffr-ramasser) · [Ramasser, porter et reposer](#nz-pick-place) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
 
-**Coordination (8) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Manipulations autour du corps](#nz-awareness) · [Marche du singe à trois appuis](#scot-monkey) · [Ramper comme un crocodile](#scot-crocodile) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Tennis à la main](#scot-tennis)
+**Coordination (9) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Cercles de bras progressifs](#warm-arm-circles) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Manipulations autour du corps](#nz-awareness) · [Marche du singe à trois appuis](#scot-monkey) · [Ramper comme un crocodile](#scot-crocodile) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Tennis à la main](#scot-tennis)
 
-**Course (19) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Duel long](#ffr-duellong-atelier) · [La chasse aux rubans](#rc-taggrab) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs dans les nids](#rc-eggs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec essai](#scot-relais) · [Tag mania et délivrance](#rc-tagmania) · [Traverser face aux chasseurs](#rc-bulldog)
+**Course (21) :** [Alterner marche et petit trot au signal](#warm-slow-go) · [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Duel long](#ffr-duellong-atelier) · [La chasse aux rubans](#rc-taggrab) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs dans les nids](#rc-eggs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Tag mania et délivrance](#rc-tagmania) · [Traverser face aux chasseurs](#rc-bulldog)
 
 **Conservation du ballon (5) :** [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Dix passes - variante communautaire documentee](#rc-ten) · [Le joueur au milieu](#rc-piggy) · [Quatre passeurs contre un intercepteur](#rc-four-one)
 
 ### Formes de jeu
 
-**Relais (10) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+**Relais (11) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
 **Poursuite et délivrance (35) :** [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
@@ -55,22 +55,46 @@ Point d’entrée unique : catégories, durées, installation, consignes, adapta
 
 **Circulation et transmission (28) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Ramasser puis transmettre](#ffr-ramasser) · [Rebondir et échanger en binôme](#rc-bounce) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis à la main](#scot-tennis) · [Transmettre en trottinant](#ffr-transmettre) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Opposition collective (30) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
+**Opposition collective (31) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
 
-**Parcours (7) :** [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Ramasser, porter et reposer](#nz-pick-place) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Slalomer dans la chaîne de partenaires](#au-chain-relay)
+**Parcours (8) :** [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Ramasser, porter et reposer](#nz-pick-place) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet)
 
 **Collecte de ballons (3) :** [Carré 2](#ffr-carre2-atelier) · [Les œufs dans les nids](#rc-eggs) · [Rapporter les trésors par une passe](#au-nest-pass)
 
 **Surnombre (7) :** [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Le joueur au milieu](#rc-piggy) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
 
-**Motricité individuelle (15) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Ramper comme un crocodile](#scot-crocodile) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
+**Motricité individuelle (17) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Cercles de bras progressifs](#warm-arm-circles) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Fentes dans trois directions](#warm-lunge-clock) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Ramper comme un crocodile](#scot-crocodile) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
+
+<a id="echauffements"></a>
+## Échauffements
+
+Activités collectées dans des ressources explicitement consacrées aux échauffements enfants. Choisir des briques complémentaires, pas huit activités à réaliser successivement. Les durées et adaptations U8 restent proposées.
+
+- [Alterner marche et petit trot au signal](#warm-slow-go) — Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Cercles de bras progressifs](#warm-arm-circles) — Budget proposé : 1,5 à 2,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Fentes dans trois directions](#warm-lunge-clock) — Budget proposé : 1,5 à 2,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Ici, là-bas, sur place](#warm-here-there) — Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Marcher puis se figer au signal](#warm-whistle-stop) — Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) — Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Relais avec partenaires accrochés](#warm-hook-relay) — Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+- [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) — Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Contrôle des proximités :
+
+- Hook relay : principe différent de scot-chaine, qui est une poursuite avec capture.
+- Any direction pass tag : proche des jeux de zone ; changement de possession immédiat au toucher, contrairement à scot-endzone. Conserver comme variante, pas nouveauté certifiée.
+- Lunge clock : variante multidirectionnelle de la famille de scot-monster, pas fusion des descriptions.
+- Whistle Stop : arrêt au signal, distinct de rc-statues où l’arrêt suit une capture.
+- Catching the high ball : titre seul sur la page, non importé sans déroulement.
+- Stuck in the mud et Piggy in the middle : proches du corpus, non ajoutés pour gonfler le compte.
+- Rugby Toolbox : index U7 inaccessible lors des essais ; aucun contenu inventé depuis les seuls titres.
 
 <a id="controle"></a>
 ## Doublons et informations manquantes
 
 Relecture des 16 rapprochements enregistrés et contrôle exhaustif des déroulements identiques. Ne certifie pas l’absence de doublons sémantiques dans tout le corpus.
 
-11175 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
+12403 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
 
 Neuf fiches complétées en points coach après relecture des archives locales ; les neuf descriptions insuffisantes restent à part. Les autres champs absents ne sont pas déclarés introuvables : leur relecture exhaustive reste à poursuivre.
 
@@ -153,6 +177,73 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-pop-race-source ; Score the Try and Pop Race — Description, Coaching Outcome, Change It ; 2026-09-10
 
 1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="warm-slow-go"></a>
+## Alterner marche et petit trot au signal
+
+**Catégories proposées :** Réaction au signal · Course
+
+**Famille :** Réaction et course en duel · **Âge source :** Enfants scolarisés ; âge précis non indiqué dans la fiche
+
+Alterner marche et petit trot au signal.
+
+**Durée pour préparer l’atelier :** Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Mise en mouvement. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 45 s ; 15 s entre les séquences ; retour final 15 s.
+
+Pour prolonger : Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Adapter son allure à une consigne.
+
+**Matériel — source :** Aucun matériel indiqué comme nécessaire.
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Enfants espacés dans une aire.
+
+**Déroulement — source :** Alterner marche et petit trot à chaque signal.
+
+**Consignes — source :** Se déplacer librement en variant les directions.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 45 ; page PDF 15. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Matériel : warm-sportnz-kiwidex ; Page imprimée 45 ; page PDF 15 ; 2026-09-17
+
+2 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -873,6 +964,74 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 - Objectif : rc-protect-circle-source ; Description de la vidéo principale ; Video Subtitles pour les intentions de connexion et de progression vers l’espace ; 2026-09-16
 - Organisation, Déroulement, Consignes : rc-protect-circle-source ; Video Subtitles propres à la fiche ; progression identifiée dans la localisation de la variante ; 2026-09-08
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="warm-arm-circles"></a>
+## Cercles de bras progressifs
+
+**Catégories proposées :** Motricité · Coordination · Motricité individuelle
+
+**Famille :** Motricité et postures · **Âge source :** Enfants ; catégorie française U8 non certifiée
+
+Cercles de bras progressifs.
+
+**Durée pour préparer l’atelier :** Budget proposé : 1,5 à 2,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Mobilité dynamique. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 20 s ; 10 s entre les séquences ; retour final 10 s.
+
+Pour prolonger : Privilégier le contrôle et une amplitude adaptée ; aucune répétition forcée pour remplir le temps.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Préparer la mobilité des épaules.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Bras ouverts à hauteur des épaules.
+
+**Déroulement — source :** Effectuer de petits cercles, puis agrandir progressivement les mouvements.
+
+**Consignes — source :** Commencer avec une faible amplitude.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/) — World Rugby ; Arm circles. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier : warm-wr-dynamic ; Arm circles ; 2026-09-17
 
 2 révision(s) conservée(s) dans les données de l’application.
 
@@ -3347,6 +3506,74 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 ---
 
+<a id="warm-lunge-clock"></a>
+## Fentes dans trois directions
+
+**Catégories proposées :** Motricité · Équilibre et postures · Motricité individuelle
+
+**Famille :** Motricité et postures · **Âge source :** Enfants ; catégorie française U8 non certifiée
+
+Fentes dans trois directions.
+
+**Durée pour préparer l’atelier :** Budget proposé : 1,5 à 2,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Mobilité dynamique. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 20 s ; 10 s entre les séquences ; retour final 10 s.
+
+Pour prolonger : Privilégier le contrôle et une amplitude adaptée ; aucune répétition forcée pour remplir le temps.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Contrôler les changements d’appui dans plusieurs directions.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Départ debout.
+
+**Déroulement — source :** Enchaîner une fente avant, latérale puis arrière, en revenant debout entre chacune.
+
+**Consignes — source :** Reprendre la séquence avec l’autre jambe.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/) — World Rugby ; Lunge clock. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier : warm-wr-dynamic ; Lunge clock ; 2026-09-17
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
 <a id="wr-follow-leader"></a>
 ## File avec transmission au nouveau meneur
 
@@ -3579,6 +3806,73 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-golf-source ; Kick Golf — Description, Coaching Outcome, Change It ; 2026-09-10
 
 1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="warm-here-there"></a>
+## Ici, là-bas, sur place
+
+**Catégories proposées :** Réaction au signal · Prise d’information
+
+**Famille :** Réaction et course en duel · **Âge source :** Enfants scolarisés ; âge précis non indiqué dans la fiche
+
+Ici, là-bas, sur place.
+
+**Durée pour préparer l’atelier :** Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Mise en mouvement. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 45 s ; 15 s entre les séquences ; retour final 15 s.
+
+Pour prolonger : Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Associer un signal à un déplacement.
+
+**Matériel — source :** Aucun matériel indiqué comme nécessaire.
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Enfants répartis librement.
+
+**Déroulement — source :** Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.
+
+**Consignes — source :** Les petits rebonds éventuellement utilisés restent légers.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 54 ; page PDF 24. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Matériel : warm-sportnz-kiwidex ; Page imprimée 54 ; page PDF 24 ; 2026-09-17
+
+2 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -4826,6 +5120,73 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 - Objectif : ffr-famille ; PDF page 8 — atelier correspondant ; pagination fichier ; 2026-09-16
 - Organisation, Déroulement, Consignes, Durée de l’atelier : ffr-famille ; PDF page 8 — Atelier 1 ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="warm-whistle-stop"></a>
+## Marcher puis se figer au signal
+
+**Catégories proposées :** Réaction au signal · Équilibre et postures
+
+**Famille :** Réaction et course en duel · **Âge source :** Enfants scolarisés ; âge précis non indiqué dans la fiche
+
+Marcher puis se figer au signal.
+
+**Durée pour préparer l’atelier :** Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Mise en mouvement. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 45 s ; 15 s entre les séquences ; retour final 15 s.
+
+Pour prolonger : Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Réagir en contrôlant son arrêt.
+
+**Matériel — source :** Aucun matériel indiqué comme nécessaire.
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Enfants répartis librement.
+
+**Déroulement — source :** Marcher sans toucher les autres ; se figer au signal, repartir au suivant.
+
+**Consignes — source :** Varier le délai entre les signaux.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+
+**Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 44 ; page PDF 14. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Matériel : warm-sportnz-kiwidex ; Page imprimée 44 ; page PDF 14 ; 2026-09-17
 
 2 révision(s) conservée(s) dans les données de l’application.
 
@@ -7154,6 +7515,74 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 ---
 
+<a id="warm-any-direction-tag"></a>
+## Recevoir derrière la ligne — possession changée au toucher
+
+**Catégories proposées :** Passe · Réception · Coopération · Opposition collective
+
+**Famille :** Jeux à zones de marque · **Âge source :** Enfants ; catégorie française U8 non certifiée
+
+Recevoir derrière la ligne — possession changée au toucher.
+
+**Durée pour préparer l’atelier :** Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Préparation spécifique rugby. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 45 s ; 15 s entre les séquences ; retour final 15 s.
+
+Pour prolonger : Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Se rendre disponible pour recevoir dans un espace de marque.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Deux équipes et leurs lignes de marque.
+
+**Déroulement — source :** Passer dans toutes les directions ; recevoir derrière la ligne adverse rapporte un point.
+
+**Consignes — source :** Toucher du porteur ou ballon tombé : possession à l’autre équipe.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/) — World Rugby ; Any direction pass tag. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier : warm-wr-specific ; Any direction pass tag ; 2026-09-17
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
 <a id="ffr-reception"></a>
 ## Recevoir en trottinant
 
@@ -7465,6 +7894,74 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 - Objectif, Consignes, Points d’attention : scot-primary ; PDF page 12, pagination du fichier — TASK et texte de la carte ; 2026-09-16
 - Organisation, Déroulement : scot-primary ; PDF page 12 (pagination fichier), TASK et SETUP ; 2026-09-09
+
+2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="warm-hook-relay"></a>
+## Relais avec partenaires accrochés
+
+**Catégories proposées :** Coopération · Course · Relais
+
+**Famille :** Parcours et relais avec ballon · **Âge source :** Enfants ; catégorie française U8 non certifiée
+
+Relais avec partenaires accrochés.
+
+**Durée pour préparer l’atelier :** Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Mise en mouvement. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 45 s ; 15 s entre les séquences ; retour final 15 s.
+
+Pour prolonger : Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Coordonner les déplacements en petit groupe.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Équipes en relais.
+
+**Déroulement — source :** Le premier court, revient prendre le deuxième bras liés ; le groupe s’agrandit à chaque retour.
+
+**Consignes — source :** Changer l’ordre au tour suivant pour équilibrer les passages.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [World Rugby — Échauffement : mouvements fondamentaux](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity/) — World Rugby ; Hook relay. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier : warm-wr-general ; Hook relay ; 2026-09-17
 
 2 révision(s) conservée(s) dans les données de l’application.
 
@@ -8942,6 +9439,74 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Objectif, Organisation, Déroulement, Consignes : ffr-famille ; PDF page 17 — atelier correspondant ; pagination fichier ; 2026-09-16
 
 1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="warm-evasion-gauntlet"></a>
+## Traverser entre des joueurs en déplacement latéral
+
+**Catégories proposées :** Évitement · Prise d’information · Parcours
+
+**Famille :** Traversée de défenses · **Âge source :** Enfants ; catégorie française U8 non certifiée
+
+Traverser entre des joueurs en déplacement latéral.
+
+**Durée pour préparer l’atelier :** Budget proposé : 2,5 à 4,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+**Usage source : échauffement enfants.** Étape proposée : Préparation spécifique rugby. Brique d’échauffement, pas un échauffement complet à elle seule.
+
+Découpage proposé : explication 30 s ; 2–4 séquences de 45 s ; 15 s entre les séquences ; retour final 15 s.
+
+Pour prolonger : Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Lire les trajectoires et ajuster sa course.
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — information manquante :** non extrait
+
+**Effectif maximum — information manquante :** non extrait
+
+**Espace — information manquante :** non extrait
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Un couloir traversé latéralement par des joueurs à allure lente.
+
+**Déroulement — source :** Les porteurs passent un par un en évitant les joueurs mobiles.
+
+**Consignes — source :** Permuter les rôles ; les déplacements latéraux restent lents et réguliers.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non extrait
+
+**Adaptation U8 proposée :** Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+- Fixer le nombre de joueurs actifs et ceux en attente.
+- Vérifier la capacité du dispositif pour le groupe prévu.
+- Définir les limites et dimensions adaptées au groupe.
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/) — World Rugby ; Evasion gauntlet. Vérification documentaire : 2026-09-16.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier : warm-wr-specific ; Evasion gauntlet ; 2026-09-17
+
+2 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 

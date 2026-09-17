@@ -1464,6 +1464,78 @@
       "discriminant": "Même mécanisme que wr-chain-reaction : différence substantielle non démontrée. Doublon probable conservé pour sa provenance ; ne pas compter comme jeu unique supplémentaire.",
       "source_id": "imagine-games-source",
       "locator": "Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026"
+    },
+    {
+      "variant_id": "warm-hook-relay",
+      "family_id": "F05",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Le premier court, revient prendre le deuxième bras liés ; le groupe s’agrandit à chaque retour.",
+      "source_id": "warm-wr-general",
+      "locator": "Hook relay"
+    },
+    {
+      "variant_id": "warm-evasion-gauntlet",
+      "family_id": "F13",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Les porteurs passent un par un en évitant les joueurs mobiles.",
+      "source_id": "warm-wr-specific",
+      "locator": "Evasion gauntlet"
+    },
+    {
+      "variant_id": "warm-any-direction-tag",
+      "family_id": "F15",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Passer dans toutes les directions ; recevoir derrière la ligne adverse rapporte un point.",
+      "source_id": "warm-wr-specific",
+      "locator": "Any direction pass tag"
+    },
+    {
+      "variant_id": "warm-arm-circles",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Effectuer de petits cercles, puis agrandir progressivement les mouvements.",
+      "source_id": "warm-wr-dynamic",
+      "locator": "Arm circles"
+    },
+    {
+      "variant_id": "warm-lunge-clock",
+      "family_id": "F04",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Enchaîner une fente avant, latérale puis arrière, en revenant debout entre chacune.",
+      "source_id": "warm-wr-dynamic",
+      "locator": "Lunge clock"
+    },
+    {
+      "variant_id": "warm-whistle-stop",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Marcher sans toucher les autres ; se figer au signal, repartir au suivant.",
+      "source_id": "warm-sportnz-kiwidex",
+      "locator": "Page imprimée 44 ; page PDF 14"
+    },
+    {
+      "variant_id": "warm-slow-go",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Alterner marche et petit trot à chaque signal.",
+      "source_id": "warm-sportnz-kiwidex",
+      "locator": "Page imprimée 45 ; page PDF 15"
+    },
+    {
+      "variant_id": "warm-here-there",
+      "family_id": "F06",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.",
+      "source_id": "warm-sportnz-kiwidex",
+      "locator": "Page imprimée 54 ; page PDF 24"
     }
   ],
   "pair_reviews": [

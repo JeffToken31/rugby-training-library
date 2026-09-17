@@ -1,7 +1,7 @@
 # Cadrage courant — 16 septembre 2026
 
 ## Décision utilisateur
-Suspendre toute collecte supplémentaire. Consolider les 150 fiches existantes et préparer les données et le cadrage de l’interface de création de séances. Ne pas rechercher de nouveaux exercices ni développer le front avant le cadrage. Les anciennes priorités quantitatives (200 fiches, etc.) sont remplacées par cette décision.
+Collecte ciblée d’échauffements explicitement autorisée par la dernière demande utilisateur. La suspension générale précédente est levée uniquement pour ce besoin. Consolider les 150 fiches existantes et préparer les données et le cadrage de l’interface de création de séances. Chercher et intégrer des échauffements enfants documentés ; ne pas développer le front avant le cadrage. Les anciennes priorités quantitatives (200 fiches, etc.) sont remplacées par cette décision.
 
 ## Terrain
 Priorité U8 ; environ 30 enfants, 5–6 éducateurs, séance de 90 minutes, 2 ou 3 groupes, trois ateliers de 6–8 minutes, récréation de 10 minutes, échauffement et opposition reliée aux objectifs des ateliers. Consignes et transitions incluses dans les 90 minutes. Matériel et règles du club à préciser au cadrage de l’interface.
@@ -30,3 +30,6 @@ L’utilisateur veut demander des propositions de séances selon ses attentes da
 
 ## Lecture centralisée
 Le point d’entrée utilisateur est exports/CATALOGUE.md. Les anciennes vues séparées redirigent vers ses sections. Priorité aux compléments vérifiables dans les archives existantes ; conserver les limites de la relecture et les rapprochements non résolus.
+
+## Priorité active : vrais échauffements
+Collecter des activités publiées pour la préparation des enfants, sans prendre la routine personnelle de l’utilisateur comme modèle. Les usages de séance sont séparés des tags de compétence. Huit fiches ont été ajoutées, total 158. Les anciennes mentions « aucune collecte supplémentaire » décrivent la phase antérieure.

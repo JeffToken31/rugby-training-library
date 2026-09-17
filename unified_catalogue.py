@@ -37,6 +37,10 @@ def body(e,payload,link):
     family=next(f["title"] for f in payload["families"] if f["id"]==e["classification"]["family_id"])
     lines=[f"**Catégories proposées :** {' · '.join(tags)}", "", f"**Famille :** {family} · **Âge source :** {e['age_source']}", "", e.get("summary") or "", "", "**Durée pour préparer l’atelier :** "+timing.description(e), ""]
     if e["quality"]["state"]=="INCOMPLETE": lines += ["**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**", ""]
+    if e.get("warmup_usage"):
+        stages={"general":"Mise en mouvement", "mobility":"Mobilité dynamique", "specific":"Préparation spécifique rugby"}
+        w=e["warmup_usage"]
+        lines += ["**Usage source : échauffement enfants.** Étape proposée : "+stages[w["stage"]]+". "+w["note"], ""]
     profile=e.get("planning_duration",{}).get("profile")
     if profile:
         lines += [f"Découpage proposé : explication {profile['intro_seconds']} s ; {profile['rounds_min']}–{profile['rounds_max']} séquences de {profile['round_seconds']} s ; {profile['between_seconds']} s entre les séquences ; retour final {profile['outro_seconds']} s.", "", "Pour prolonger : "+profile["extension"], "", "Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.", ""]
@@ -89,13 +93,19 @@ def body(e,payload,link):
 
 def export(payload,out):
     out=Path(out);exercises=sorted(payload["exercises"],key=lambda x:x["title"].casefold())
-    lines=["# Catalogue complet des exercices U8", "", "Point d’entrée unique : catégories, durées, installation, consignes, adaptations, sources, manques et rapprochements sont réunis ici.", "", f"**{len(exercises)} fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.", "", "[Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)", "", '<a id="categories"></a>', "## Catégories", ""]
+    lines=["# Catalogue complet des exercices U8", "", "Point d’entrée unique : catégories, durées, installation, consignes, adaptations, sources, manques et rapprochements sont réunis ici.", "", f"**{len(exercises)} fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.", "", "[Échauffements](#echauffements) · [Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)", "", '<a id="categories"></a>', "## Catégories", ""]
     for dimension,label in (("skill","Compétences"),("format","Formes de jeu")):
         lines += ["### "+label, ""]
         for tag in payload["tag_taxonomy"]["tags"]:
             if tag["dimension"]==dimension:
                 matches=[e for e in exercises if tag["id"] in e["tag_ids"]]
                 lines += ["**"+tag["label"]+f" ({len(matches)}) :** "+" · ".join(f"[{e['title']}](#{e['id']})" for e in matches), ""]
+    warmups=[e for e in exercises if "WARMUP" in e.get("session_uses",[])]
+    if warmups:
+        lines += ['<a id="echauffements"></a>', "## Échauffements", "", "Activités collectées dans des ressources explicitement consacrées aux échauffements enfants. Choisir des briques complémentaires, pas huit activités à réaliser successivement. Les durées et adaptations U8 restent proposées.", ""]
+        for e in warmups:
+            lines += [f"- [{e['title']}](#{e['id']}) — {timing.description(e)}"]
+        lines += ["", "Contrôle des proximités :", ""]+["- "+n for n in payload["warmup_collection"]["screening_notes"]]+[""]
     review=payload["consolidation_review"]
     lines += ['<a id="controle"></a>',"## Doublons et informations manquantes", "",review["scope"], "",f"{review['pairs_checked']} paires contrôlées pour l’égalité du déroulement : {len(review['exact_steps_pairs'])} correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.", "", "Neuf fiches complétées en points coach après relecture des archives locales ; les neuf descriptions insuffisantes restent à part. Les autres champs absents ne sont pas déclarés introuvables : leur relecture exhaustive reste à poursuivre.", ""]
     for pair in review["pair_reviews"]:

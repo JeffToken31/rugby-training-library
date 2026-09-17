@@ -30,6 +30,26 @@
       "between_seconds": 30,
       "outro_seconds": 60,
       "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+    },
+    "warmup-short": {
+      "label": "Séquence de mise en route proposée",
+      "intro_seconds": 30,
+      "round_seconds": 45,
+      "rounds_min": 2,
+      "rounds_max": 4,
+      "between_seconds": 15,
+      "outro_seconds": 15,
+      "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+    },
+    "warmup-mobility": {
+      "label": "Mobilité proposée",
+      "intro_seconds": 30,
+      "round_seconds": 20,
+      "rounds_min": 2,
+      "rounds_max": 4,
+      "between_seconds": 10,
+      "outro_seconds": 10,
+      "extension": "Privilégier le contrôle et une amplitude adaptée ; aucune répétition forcée pour remplir le temps."
     }
   },
   "records": [
@@ -1232,6 +1252,70 @@
       "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
       "coach_confirmation_required": true,
       "profile_id": null
+    },
+    {
+      "variant_id": "warm-hook-relay",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-short"
+    },
+    {
+      "variant_id": "warm-evasion-gauntlet",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-short"
+    },
+    {
+      "variant_id": "warm-any-direction-tag",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-short"
+    },
+    {
+      "variant_id": "warm-arm-circles",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-mobility"
+    },
+    {
+      "variant_id": "warm-lunge-clock",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-mobility"
+    },
+    {
+      "variant_id": "warm-whistle-stop",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-short"
+    },
+    {
+      "variant_id": "warm-slow-go",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-short"
+    },
+    {
+      "variant_id": "warm-here-there",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+      "coach_confirmation_required": true,
+      "profile_id": "warmup-short"
     }
   ]
 }

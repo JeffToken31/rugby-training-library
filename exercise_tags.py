@@ -26,13 +26,16 @@ def attach(payload, taxonomy):
         e["tagging"] = a
     payload["tag_taxonomy"] = {k:v for k,v in taxonomy.items() if k != "assignments"}
 
-def select(payload, tag_ids=(), match="all", include_incomplete=False):
+def select(payload, tag_ids=(), match="all", include_incomplete=False, session_use=None):
+    if session_use not in (None, "WARMUP"):
+        raise ValueError("Usage inconnu")
     known = {t["id"] for t in payload["tag_taxonomy"]["tags"]}
     wanted = set(tag_ids)
     if wanted - known or match not in ("all", "any"):
         raise ValueError("Filtre inconnu")
     return [e for e in payload["exercises"]
             if (include_incomplete or e["quality"]["default_visible"])
+            and (session_use is None or session_use in e.get("session_uses", []))
             and (not wanted or (wanted <= set(e["tag_ids"]) if match == "all" else bool(wanted & set(e["tag_ids"]))))]
 
 def export(payload, out):
@@ -55,10 +58,11 @@ def main():
     parser.add_argument("tags", nargs="*")
     parser.add_argument("--match", choices=("all", "any"), default="all")
     parser.add_argument("--include-incomplete", action="store_true")
+    parser.add_argument("--usage", choices=("WARMUP",))
     args = parser.parse_args()
     payload = json.loads((Path(__file__).resolve().parent / "exports/APPLICATION.json").read_text())
     try:
-        rows = select(payload, args.tags, args.match, args.include_incomplete)
+        rows = select(payload, args.tags, args.match, args.include_incomplete, args.usage)
     except ValueError as error:
         parser.error(str(error))
     for e in rows:

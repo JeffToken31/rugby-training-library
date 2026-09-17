@@ -114,6 +114,16 @@ def build(db, root, config):
     if config.get("consolidation_review"):
         import unified_catalogue
         unified_catalogue.attach(payload, read(root / config["consolidation_review"]))
+    if config.get("session_uses"):
+        uses = read(root / config["session_uses"])
+        assignments = unique(uses["records"], "variant_id")
+        if set(assignments) - {e["id"] for e in records}:
+            raise ValueError("Usage de séance hors corpus")
+        for e in records:
+            e["session_uses"] = assignments.get(e["id"], {}).get("uses", [])
+            e["warmup_usage"] = assignments.get(e["id"])
+        payload["warmup_collection"] = uses
+        payload["policy"]["collection"] = "TARGETED_WARMUPS"
     payload["content_sha256"] = hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     return payload
 

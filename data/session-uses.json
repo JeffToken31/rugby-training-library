@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "records": [
+    {
+      "variant_id": "warm-hook-relay",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-wr-general",
+      "locator": "Hook relay",
+      "stage": "general",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-evasion-gauntlet",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-wr-specific",
+      "locator": "Evasion gauntlet",
+      "stage": "specific",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-any-direction-tag",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-wr-specific",
+      "locator": "Any direction pass tag",
+      "stage": "specific",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-arm-circles",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-wr-dynamic",
+      "locator": "Arm circles",
+      "stage": "mobility",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-lunge-clock",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-wr-dynamic",
+      "locator": "Lunge clock",
+      "stage": "mobility",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-whistle-stop",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-sportnz-kiwidex",
+      "locator": "Page imprimée 44 ; page PDF 14",
+      "stage": "general",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-slow-go",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-sportnz-kiwidex",
+      "locator": "Page imprimée 45 ; page PDF 15",
+      "stage": "general",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    },
+    {
+      "variant_id": "warm-here-there",
+      "uses": [
+        "WARMUP"
+      ],
+      "usage_origin": "SOURCE",
+      "source_id": "warm-sportnz-kiwidex",
+      "locator": "Page imprimée 54 ; page PDF 24",
+      "stage": "general",
+      "stage_origin": "AI_INFERRED",
+      "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+    }
+  ],
+  "guidance_source_id": "warm-wr-guidelines",
+  "guidance": "Progressivité et lien avec la séance ; sélectionner une mise en mouvement, une mobilité adaptée et une préparation spécifique. Durées proposées, pas prescriptions fédérales.",
+  "screening_notes": [
+    "Hook relay : principe différent de scot-chaine, qui est une poursuite avec capture.",
+    "Any direction pass tag : proche des jeux de zone ; changement de possession immédiat au toucher, contrairement à scot-endzone. Conserver comme variante, pas nouveauté certifiée.",
+    "Lunge clock : variante multidirectionnelle de la famille de scot-monster, pas fusion des descriptions.",
+    "Whistle Stop : arrêt au signal, distinct de rc-statues où l’arrêt suit une capture.",
+    "Catching the high ball : titre seul sur la page, non importé sans déroulement.",
+    "Stuck in the mud et Piggy in the middle : proches du corpus, non ajoutés pour gonfler le compte.",
+    "Rugby Toolbox : index U7 inaccessible lors des essais ; aucun contenu inventé depuis les seuls titres."
+  ]
+}

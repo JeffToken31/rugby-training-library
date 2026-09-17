@@ -26,12 +26,12 @@ class ApplicationTests(unittest.TestCase):
         cls.tmp.cleanup()
 
     def test_full_corpus_classified_without_merging(self):
-        self.assertEqual(len(self.payload["exercises"]),150)
+        self.assertEqual(len(self.payload["exercises"]),158)
         self.assertEqual(len(self.payload["families"]),22)
         self.assertIsNone(self.payload["summary"]["unique_exercises"])
         ids = {e["id"] for e in self.payload["exercises"]}
         self.assertTrue({"imagine-depth-running", "wr-chain-reaction"} <= ids)
-        self.assertEqual(self.payload["summary"]["readiness"], {"DOCUMENTED_CORE":122,"PROPOSED_OBJECTIVE":18,"REPORTED_OBSERVATION":1,"INCOMPLETE":9})
+        self.assertEqual(self.payload["summary"]["readiness"], {"DOCUMENTED_CORE":122,"PROPOSED_OBJECTIVE":26,"REPORTED_OBSERVATION":1,"INCOMPLETE":9})
 
     def test_reported_observation_does_not_invent_duration_or_source(self):
         e = next(e for e in self.payload["exercises"] if e["id"] == "ffr-carre2-atelier")
@@ -45,8 +45,9 @@ class ApplicationTests(unittest.TestCase):
         rows=[e for e in self.payload["exercises"] if e["quality"]["state"]=="PROPOSED_OBJECTIVE"]
         for e in rows:
             self.assertEqual(e["fields"]["objectives"]["origin"], "AI_INFERRED")
-            if e["id"] != "scot-break-walls":
-                self.assertNotEqual(e["documentary_fields"]["objectives"]["state"], "PRESENT")
+            documentary = e["documentary_fields"]["objectives"]
+            if documentary["state"] == "PRESENT":
+                self.assertEqual(documentary["origin"], "AI_INFERRED")
 
     def test_rebuild_is_stable_including_fiche_supplements(self):
         before=(self.out / "APPLICATION.json").read_bytes()

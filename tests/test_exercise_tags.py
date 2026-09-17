@@ -13,8 +13,8 @@ class TagTests(unittest.TestCase):
         tags.attach(self.payload, self.taxonomy)
 
     def test_all_records_covered_without_duplicate_variants(self):
-        self.assertEqual(len(self.payload["exercises"]), 150)
-        self.assertEqual(len({e["id"] for e in self.payload["exercises"]}), 150)
+        self.assertEqual(len(self.payload["exercises"]), 158)
+        self.assertEqual(len({e["id"] for e in self.payload["exercises"]}), 158)
         self.assertTrue(all(e["tag_ids"] for e in self.payload["exercises"]))
 
     def test_cross_category_filters_return_unique_results(self):

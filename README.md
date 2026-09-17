@@ -1,6 +1,6 @@
 # Bibliothèque rugby U8 — base pour préparer les séances
 
-**150 fiches conservées, 22 familles proposées, aucune collecte supplémentaire.** Ce n’est pas un décompte de jeux uniques. Dépôt privé, sans données enfants.
+**158 fiches conservées, 22 familles proposées, dont huit nouvelles activités d’échauffement.** Ce n’est pas un décompte de jeux uniques. Dépôt privé, sans données enfants.
 
 **[Ouvrir le catalogue complet](exports/CATALOGUE.md)**
 
@@ -43,7 +43,7 @@ Les documents LOT_* et bilans datés sont historiques. Le cadrage courant rempla
 
 ## Tags combinables
 
-Les 150 fiches possèdent un classement multi-tags : 17 compétences et 10 formes de jeu. Les affectations éditoriales sont dans `data/exercise-tags.json` ; les thèmes historiques et familles restent conservés. Une fiche peut apparaître sous Passe, Soutien et Surnombre sans être dupliquée. Les neuf descriptions insuffisantes sont classées provisoirement.
+Les fiches possèdent un classement multi-tags : 17 compétences et 10 formes de jeu. Les affectations éditoriales sont dans `data/exercise-tags.json` ; les thèmes historiques et familles restent conservés. Une fiche peut apparaître sous Passe, Soutien et Surnombre sans être dupliquée. Les neuf descriptions insuffisantes sont classées provisoirement.
 
 ```sh
 python3 exercise_tags.py skill:passe format:surnombre
@@ -52,3 +52,6 @@ python3 exercise_tags.py skill:plaquage --include-incomplete
 ```
 
 Par défaut, les filtres se combinent avec ET et excluent les fiches trop incomplètes. `--match any` applique OU, toujours sans dupliquer les résultats. Les tags ne certifient pas la sécurité ou l’adéquation U8. Les effectifs, durées et matériel restent des paramètres séparés.
+
+## Échauffements collectés
+[Accéder directement aux échauffements dans le catalogue](exports/CATALOGUE.md#echauffements). L’usage WARMUP est attesté par les ressources consultées ; l’étape proposée (mise en mouvement, mobilité, préparation spécifique) reste un classement éditorial. Recherche combinable : `python3 exercise_tags.py --usage WARMUP`. Les autres fiches sans usage qualifié ne sont pas déclarées impropres à l’échauffement.

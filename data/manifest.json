@@ -28,7 +28,8 @@
     "data/twenty-activities-02.json",
     "data/imagine-games-01.json",
     "data/imagine-games-02.json",
-    "data/comparisons-20260916.json"
+    "data/comparisons-20260916.json",
+    "data/warmups-20260916.json"
   ],
   "enrichments": [
     "data/enrichment-details.json",
@@ -76,7 +77,9 @@
     "data/enrichment-ffr-core-20260916.json",
     "data/enrichment-completion-20260916.json",
     "data/enrichment-completion-extra-20260916.json",
-    "data/enrichment-local-review-20260916.json"
+    "data/enrichment-local-review-20260916.json",
+    "data/enrichment-warmups-20260916.json",
+    "data/enrichment-warmups-captures-20260917.json"
   ],
   "capture_resources": [
     "rc-piggy",
@@ -164,7 +167,12 @@
     "au-ufos-source",
     "sg-team-tag-source",
     "au-cat-mouse-source",
-    "au-gir-age-source"
+    "au-gir-age-source",
+    "warm-wr-general",
+    "warm-wr-specific",
+    "warm-wr-dynamic",
+    "warm-sportnz-kiwidex",
+    "warm-wr-guidelines"
   ],
   "application": {
     "classification": "data/classification-audit.json",
@@ -178,6 +186,7 @@
     "tags": "data/exercise-tags.json",
     "coach_cues": "data/coach-cues.json",
     "timings": "data/timing-proposals.json",
-    "consolidation_review": "data/consolidation-review.json"
+    "consolidation_review": "data/consolidation-review.json",
+    "session_uses": "data/session-uses.json"
   }
 }

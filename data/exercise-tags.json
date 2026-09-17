@@ -2678,6 +2678,132 @@
         "fields.steps"
       ],
       "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "warm-hook-relay",
+      "tag_ids": [
+        "skill:cooperation",
+        "skill:course",
+        "format:relais"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-evasion-gauntlet",
+      "tag_ids": [
+        "skill:evitement",
+        "skill:prise-information",
+        "format:parcours"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-any-direction-tag",
+      "tag_ids": [
+        "skill:passe",
+        "skill:reception",
+        "skill:cooperation",
+        "format:opposition-collective"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-arm-circles",
+      "tag_ids": [
+        "skill:motricite",
+        "skill:coordination",
+        "format:motricite-individuelle"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-lunge-clock",
+      "tag_ids": [
+        "skill:motricite",
+        "skill:equilibre",
+        "format:motricite-individuelle"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-whistle-stop",
+      "tag_ids": [
+        "skill:reaction",
+        "skill:equilibre"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-slow-go",
+      "tag_ids": [
+        "skill:reaction",
+        "skill:course"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "warm-here-there",
+      "tag_ids": [
+        "skill:reaction",
+        "skill:prise-information"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-09-16",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Usage échauffement attesté séparément par la source."
     }
   ]
 }

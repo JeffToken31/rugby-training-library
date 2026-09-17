@@ -1,0 +1,323 @@
+{
+  "enrichments": [
+    {
+      "id": "warm-hook-relay-detail-2",
+      "variant_id": "warm-hook-relay",
+      "source_id": "warm-wr-general",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Hook relay",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Coordonner les déplacements en petit groupe."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Équipes en relais."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Le premier court, revient prendre le deuxième bras liés ; le groupe s’agrandit à chaque retour."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Changer l’ordre au tour suivant pour équilibrer les passages."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      },
+      "supersedes": "warm-hook-relay-detail-1",
+      "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-evasion-gauntlet-detail-2",
+      "variant_id": "warm-evasion-gauntlet",
+      "source_id": "warm-wr-specific",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Evasion gauntlet",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Lire les trajectoires et ajuster sa course."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un couloir traversé latéralement par des joueurs à allure lente."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les porteurs passent un par un en évitant les joueurs mobiles."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Permuter les rôles ; les déplacements latéraux restent lents et réguliers."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      },
+      "supersedes": "warm-evasion-gauntlet-detail-1",
+      "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-any-direction-tag-detail-2",
+      "variant_id": "warm-any-direction-tag",
+      "source_id": "warm-wr-specific",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Any direction pass tag",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Se rendre disponible pour recevoir dans un espace de marque."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux équipes et leurs lignes de marque."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Passer dans toutes les directions ; recevoir derrière la ligne adverse rapporte un point."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Toucher du porteur ou ballon tombé : possession à l’autre équipe."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      },
+      "supersedes": "warm-any-direction-tag-detail-1",
+      "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-arm-circles-detail-2",
+      "variant_id": "warm-arm-circles",
+      "source_id": "warm-wr-dynamic",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Arm circles",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Préparer la mobilité des épaules."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Bras ouverts à hauteur des épaules."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Effectuer de petits cercles, puis agrandir progressivement les mouvements."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Commencer avec une faible amplitude."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      },
+      "supersedes": "warm-arm-circles-detail-1",
+      "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-lunge-clock-detail-2",
+      "variant_id": "warm-lunge-clock",
+      "source_id": "warm-wr-dynamic",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Lunge clock",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Contrôler les changements d’appui dans plusieurs directions."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Départ debout."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enchaîner une fente avant, latérale puis arrière, en revenant debout entre chacune."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Reprendre la séquence avec l’autre jambe."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      },
+      "supersedes": "warm-lunge-clock-detail-1",
+      "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-whistle-stop-detail-2",
+      "variant_id": "warm-whistle-stop",
+      "source_id": "warm-sportnz-kiwidex",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Page imprimée 44 ; page PDF 14",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Réagir en contrôlant son arrêt."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfants répartis librement."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Marcher sans toucher les autres ; se figer au signal, repartir au suivant."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Varier le délai entre les signaux."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun matériel indiqué comme nécessaire."
+        }
+      },
+      "supersedes": "warm-whistle-stop-detail-1",
+      "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-slow-go-detail-2",
+      "variant_id": "warm-slow-go",
+      "source_id": "warm-sportnz-kiwidex",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Page imprimée 45 ; page PDF 15",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Adapter son allure à une consigne."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfants espacés dans une aire."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Alterner marche et petit trot à chaque signal."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Se déplacer librement en variant les directions."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun matériel indiqué comme nécessaire."
+        }
+      },
+      "supersedes": "warm-slow-go-detail-1",
+      "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    },
+    {
+      "id": "warm-here-there-detail-2",
+      "variant_id": "warm-here-there",
+      "source_id": "warm-sportnz-kiwidex",
+      "actor": "assistant",
+      "checked_on": "2026-09-17",
+      "locator": "Page imprimée 54 ; page PDF 24",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Associer un signal à un déplacement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Enfants répartis librement."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Les petits rebonds éventuellement utilisés restent légers."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Aucun matériel indiqué comme nécessaire."
+        }
+      },
+      "supersedes": "warm-here-there-detail-1",
+      "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+      "revision_reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+    }
+  ]
+}

@@ -522,7 +522,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-chain-relay",
@@ -925,7 +927,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-colour-tag",
@@ -1314,7 +1318,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-colour-two",
@@ -1703,7 +1709,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-cone-game",
@@ -2092,7 +2100,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-familiarisation",
@@ -2404,7 +2414,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-fruit-salad",
@@ -2805,7 +2817,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-kick-chase",
@@ -3200,7 +3214,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-kick-golf",
@@ -3597,7 +3613,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-kick-tennis",
@@ -3996,7 +4014,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-nest-pass",
@@ -4407,7 +4427,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-octopus",
@@ -4719,7 +4741,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-over-under",
@@ -5116,7 +5140,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-partner-release",
@@ -5507,7 +5533,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-partner-tag",
@@ -5898,7 +5926,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-pass-duck",
@@ -6295,7 +6325,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-pop-race",
@@ -6678,7 +6710,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-tennis-return",
@@ -7079,7 +7113,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-ufos",
@@ -7468,7 +7504,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "au-wolf",
@@ -7871,7 +7909,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-appuis",
@@ -8172,7 +8212,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-auto",
@@ -8473,7 +8515,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-canard",
@@ -8798,7 +8842,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-carre-atelier",
@@ -9076,7 +9122,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-carre2-atelier",
@@ -9438,7 +9486,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-cpf",
@@ -9711,7 +9761,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-dos-postures",
@@ -10036,7 +10088,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-duellong-atelier",
@@ -10316,7 +10370,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-duels-atelier",
@@ -10596,7 +10652,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-espaces2023",
@@ -10876,7 +10934,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-gagne",
@@ -11179,7 +11239,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-gazelles-atelier",
@@ -11457,7 +11519,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-guide-dribble",
@@ -11791,7 +11855,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-guide-recevoir-passer",
@@ -12119,7 +12185,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-initiative",
@@ -12394,7 +12462,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-interval",
@@ -12689,7 +12759,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-lutte-avancer",
@@ -13004,7 +13076,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-pantheres-atelier",
@@ -13284,7 +13358,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-pied",
@@ -13583,7 +13659,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-plaquage-atelier",
@@ -13861,7 +13939,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-protege-atelier",
@@ -14139,7 +14219,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-ramasser",
@@ -14454,7 +14536,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-reception",
@@ -14781,7 +14865,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-relais-atelier",
@@ -15063,7 +15149,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-roulade-releve",
@@ -15386,7 +15474,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-saut-ballon",
@@ -15711,7 +15801,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-speedy-individuel",
@@ -16018,7 +16110,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-speedy-partage",
@@ -16331,7 +16425,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-transmettre",
@@ -16658,7 +16754,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "ffr-tresors2023",
@@ -16990,7 +17088,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "imagine-cold-hot",
@@ -17306,7 +17406,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "imagine-depth-running",
@@ -17664,7 +17766,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-crabe",
@@ -17982,7 +18086,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-end",
@@ -18285,7 +18391,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-flamant",
@@ -18613,7 +18721,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-gates",
@@ -18935,7 +19045,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-gorille",
@@ -19253,7 +19365,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-grenouille",
@@ -19569,7 +19683,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-hunters",
@@ -19898,7 +20014,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-mud",
@@ -20203,7 +20321,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "munster-rats",
@@ -20517,7 +20637,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-awareness",
@@ -20944,7 +21066,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-circle",
@@ -21399,7 +21523,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-corner",
@@ -21878,7 +22004,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-evading-player",
@@ -22251,7 +22379,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-follow",
@@ -22693,7 +22823,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-ground-pass",
@@ -23105,7 +23237,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-handling-relay",
@@ -23539,7 +23673,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-memory",
@@ -23895,7 +24031,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-multi-relay",
@@ -24317,7 +24455,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-no-ball",
@@ -24765,7 +24905,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-noodle-highfive",
@@ -25084,7 +25226,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-noodle-pass",
@@ -25405,7 +25549,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-number-duel",
@@ -25782,7 +25928,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-numbers-race",
@@ -26189,7 +26337,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-octopus-cross",
@@ -26599,7 +26749,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-pick-place",
@@ -27072,7 +27224,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-rats-free",
@@ -27488,7 +27642,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-rats-straight",
@@ -27904,7 +28060,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-rip",
@@ -28231,7 +28389,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-shadow",
@@ -28651,7 +28811,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-shadow-mirror",
@@ -29071,7 +29233,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-tap-pass",
@@ -29448,7 +29612,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-touchdown",
@@ -29888,7 +30054,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "nz-zigzag",
@@ -30300,7 +30468,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-aliens",
@@ -30654,7 +30824,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-bounce",
@@ -31007,7 +31179,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-bulldog",
@@ -31371,7 +31545,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-calling-pairs",
@@ -31771,7 +31947,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-capture-aliens",
@@ -32169,7 +32347,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-chaos-touch",
@@ -32536,7 +32716,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-circle-jump",
@@ -32864,7 +33046,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-colour-touch",
@@ -33200,7 +33384,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-eggs",
@@ -33563,7 +33749,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-endball-groups",
@@ -33892,7 +34080,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-four-one",
@@ -34319,7 +34509,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-lateral-three",
@@ -34722,7 +34914,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-multidirection",
@@ -35041,7 +35235,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-netball",
@@ -35397,7 +35593,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-numbers-tag",
@@ -35736,7 +35934,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-pairs",
@@ -36155,7 +36355,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-pass-start",
@@ -36505,7 +36707,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-piggy",
@@ -36930,7 +37134,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-protect-circle",
@@ -37247,7 +37453,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-rounders",
@@ -37576,7 +37784,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-statues",
@@ -37939,7 +38149,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-taggrab",
@@ -38311,7 +38523,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-tagmania",
@@ -38640,7 +38854,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-tagmatch",
@@ -38980,7 +39196,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-team-scarecrow",
@@ -39329,7 +39547,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-ten",
@@ -39754,7 +39974,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-triangle",
@@ -40136,7 +40358,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-two-balls",
@@ -40479,7 +40703,9 @@
         "checked_on": "2026-09-16",
         "basis": "Archive texte locale de la source principale, section propre à la situation",
         "conclusion": "Les sous-titres désignent les circuits par « ici/là » sans décrire les positions : organisation non récupérable dans ce texte."
-      }
+      },
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "rc-two-one",
@@ -40909,7 +41135,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-alignement",
@@ -41219,7 +41447,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-animal",
@@ -41560,7 +41790,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-break-walls",
@@ -41945,7 +42177,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-chaine",
@@ -42253,7 +42487,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-chaos-tig",
@@ -42619,7 +42855,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-corner",
@@ -43061,7 +43299,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-cricket",
@@ -43437,7 +43677,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-crocodile",
@@ -43815,7 +44057,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-endzone",
@@ -44156,7 +44400,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-kangaroo",
@@ -44534,7 +44780,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-monkey",
@@ -44912,7 +45160,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-monster",
@@ -45288,7 +45538,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-pass-pal",
@@ -45666,7 +45918,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-passback",
@@ -46007,7 +46261,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-relais",
@@ -46347,7 +46603,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-roll-tig",
@@ -46725,7 +46983,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-tennis",
@@ -47039,7 +47299,9 @@
         "includes_group_transition": false
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "scot-zones",
@@ -47343,7 +47605,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "sg-team-tag",
@@ -47687,7 +47951,2967 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
+      "id": "warm-any-direction-tag",
+      "title": "Recevoir derrière la ligne — possession changée au toucher",
+      "original_title": "Any direction pass tag",
+      "summary": "Recevoir derrière la ligne — possession changée au toucher.",
+      "theme": "passe",
+      "classification": {
+        "variant_id": "warm-any-direction-tag",
+        "family_id": "F15",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Passer dans toutes les directions ; recevoir derrière la ligne adverse rapporte un point.",
+        "source_id": "warm-wr-specific",
+        "locator": "Any direction pass tag"
+      },
+      "age_source": "Enfants ; catégorie française U8 non certifiée",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Se rendre disponible pour recevoir dans un espace de marque.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes et leurs lignes de marque.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer dans toutes les directions ; recevoir derrière la ligne adverse rapporte un point.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Toucher du porteur ou ballon tombé : possession à l’autre équipe.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Se rendre disponible pour recevoir dans un espace de marque.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux équipes et leurs lignes de marque.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Passer dans toutes les directions ; recevoir derrière la ligne adverse rapporte un point.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Toucher du porteur ou ballon tombé : possession à l’autre équipe.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Any direction pass tag",
+            "revision_id": "warm-any-direction-tag-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "HTML",
+        "id": "warm-wr-specific",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "WEB_PAGE",
+        "title": "World Rugby — Échauffement : mouvements spécifiques",
+        "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/"
+      },
+      "locator": "Any direction pass tag",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-any-direction-tag-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-any-direction-tag-detail-2",
+          "supersedes": "warm-any-direction-tag-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space",
+          "material"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
+      "tag_ids": [
+        "skill:passe",
+        "skill:reception",
+        "skill:cooperation",
+        "format:opposition-collective"
+      ],
+      "tagging": {
+        "variant_id": "warm-any-direction-tag",
+        "tag_ids": [
+          "skill:passe",
+          "skill:reception",
+          "skill:cooperation",
+          "format:opposition-collective"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-any-direction-tag",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-short",
+        "profile": {
+          "label": "Séquence de mise en route proposée",
+          "intro_seconds": 30,
+          "round_seconds": 45,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 15,
+          "outro_seconds": 15,
+          "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+        },
+        "min_seconds": 150,
+        "max_seconds": 270,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-any-direction-tag",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-specific",
+        "locator": "Any direction pass tag",
+        "stage": "specific",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-arm-circles",
+      "title": "Cercles de bras progressifs",
+      "original_title": "Arm circles",
+      "summary": "Cercles de bras progressifs.",
+      "theme": "motricité",
+      "classification": {
+        "variant_id": "warm-arm-circles",
+        "family_id": "F04",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Effectuer de petits cercles, puis agrandir progressivement les mouvements.",
+        "source_id": "warm-wr-dynamic",
+        "locator": "Arm circles"
+      },
+      "age_source": "Enfants ; catégorie française U8 non certifiée",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Préparer la mobilité des épaules.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Bras ouverts à hauteur des épaules.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Effectuer de petits cercles, puis agrandir progressivement les mouvements.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Commencer avec une faible amplitude.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Préparer la mobilité des épaules.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Bras ouverts à hauteur des épaules.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Effectuer de petits cercles, puis agrandir progressivement les mouvements.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Commencer avec une faible amplitude.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Arm circles",
+            "revision_id": "warm-arm-circles-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "HTML",
+        "id": "warm-wr-dynamic",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "WEB_PAGE",
+        "title": "World Rugby — Mobilité dynamique pour enfants",
+        "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/"
+      },
+      "locator": "Arm circles",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-arm-circles-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-arm-circles-detail-2",
+          "supersedes": "warm-arm-circles-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space",
+          "material"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
+      "tag_ids": [
+        "skill:motricite",
+        "skill:coordination",
+        "format:motricite-individuelle"
+      ],
+      "tagging": {
+        "variant_id": "warm-arm-circles",
+        "tag_ids": [
+          "skill:motricite",
+          "skill:coordination",
+          "format:motricite-individuelle"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-arm-circles",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-mobility",
+        "profile": {
+          "label": "Mobilité proposée",
+          "intro_seconds": 30,
+          "round_seconds": 20,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 10,
+          "outro_seconds": 10,
+          "extension": "Privilégier le contrôle et une amplitude adaptée ; aucune répétition forcée pour remplir le temps."
+        },
+        "min_seconds": 90,
+        "max_seconds": 150,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-arm-circles",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-dynamic",
+        "locator": "Arm circles",
+        "stage": "mobility",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-evasion-gauntlet",
+      "title": "Traverser entre des joueurs en déplacement latéral",
+      "original_title": "Evasion gauntlet",
+      "summary": "Traverser entre des joueurs en déplacement latéral.",
+      "theme": "évitement",
+      "classification": {
+        "variant_id": "warm-evasion-gauntlet",
+        "family_id": "F13",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Les porteurs passent un par un en évitant les joueurs mobiles.",
+        "source_id": "warm-wr-specific",
+        "locator": "Evasion gauntlet"
+      },
+      "age_source": "Enfants ; catégorie française U8 non certifiée",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Lire les trajectoires et ajuster sa course.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un couloir traversé latéralement par des joueurs à allure lente.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les porteurs passent un par un en évitant les joueurs mobiles.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Permuter les rôles ; les déplacements latéraux restent lents et réguliers.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Lire les trajectoires et ajuster sa course.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un couloir traversé latéralement par des joueurs à allure lente.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les porteurs passent un par un en évitant les joueurs mobiles.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Permuter les rôles ; les déplacements latéraux restent lents et réguliers.",
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-specific",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Evasion gauntlet",
+            "revision_id": "warm-evasion-gauntlet-detail-2",
+            "capture_sha256": "304f2d9ec8c434b968946a79fc633a53a1713d3f302e39227db64fbc3936c112",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "HTML",
+        "id": "warm-wr-specific",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "WEB_PAGE",
+        "title": "World Rugby — Échauffement : mouvements spécifiques",
+        "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/"
+      },
+      "locator": "Evasion gauntlet",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-evasion-gauntlet-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-evasion-gauntlet-detail-2",
+          "supersedes": "warm-evasion-gauntlet-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space",
+          "material"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
+      "tag_ids": [
+        "skill:evitement",
+        "skill:prise-information",
+        "format:parcours"
+      ],
+      "tagging": {
+        "variant_id": "warm-evasion-gauntlet",
+        "tag_ids": [
+          "skill:evitement",
+          "skill:prise-information",
+          "format:parcours"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-evasion-gauntlet",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-short",
+        "profile": {
+          "label": "Séquence de mise en route proposée",
+          "intro_seconds": 30,
+          "round_seconds": 45,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 15,
+          "outro_seconds": 15,
+          "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+        },
+        "min_seconds": 150,
+        "max_seconds": 270,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-evasion-gauntlet",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-specific",
+        "locator": "Evasion gauntlet",
+        "stage": "specific",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-here-there",
+      "title": "Ici, là-bas, sur place",
+      "original_title": "Here–There–Where",
+      "summary": "Ici, là-bas, sur place.",
+      "theme": "réactivité",
+      "classification": {
+        "variant_id": "warm-here-there",
+        "family_id": "F06",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 54 ; page PDF 24"
+      },
+      "age_source": "Enfants scolarisés ; âge précis non indiqué dans la fiche",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Associer un signal à un déplacement.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfants répartis librement.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les petits rebonds éventuellement utilisés restent légers.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun matériel indiqué comme nécessaire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Associer un signal à un déplacement.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfants répartis librement.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Les petits rebonds éventuellement utilisés restent légers.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun matériel indiqué comme nécessaire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 54 ; page PDF 24",
+            "revision_id": "warm-here-there-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "PDF",
+        "id": "warm-sportnz-kiwidex",
+        "language": "en",
+        "publisher": "Sport NZ",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "EXERCISE_PDF",
+        "title": "KIWIDEX — Warming Up",
+        "url": "https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf"
+      },
+      "locator": "Page imprimée 54 ; page PDF 24",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-here-there-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-here-there-detail-2",
+          "supersedes": "warm-here-there-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
+      "tag_ids": [
+        "skill:reaction",
+        "skill:prise-information"
+      ],
+      "tagging": {
+        "variant_id": "warm-here-there",
+        "tag_ids": [
+          "skill:reaction",
+          "skill:prise-information"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-here-there",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-short",
+        "profile": {
+          "label": "Séquence de mise en route proposée",
+          "intro_seconds": 30,
+          "round_seconds": 45,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 15,
+          "outro_seconds": 15,
+          "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+        },
+        "min_seconds": 150,
+        "max_seconds": 270,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-here-there",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 54 ; page PDF 24",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-hook-relay",
+      "title": "Relais avec partenaires accrochés",
+      "original_title": "Hook relay",
+      "summary": "Relais avec partenaires accrochés.",
+      "theme": "cooperation",
+      "classification": {
+        "variant_id": "warm-hook-relay",
+        "family_id": "F05",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Le premier court, revient prendre le deuxième bras liés ; le groupe s’agrandit à chaque retour.",
+        "source_id": "warm-wr-general",
+        "locator": "Hook relay"
+      },
+      "age_source": "Enfants ; catégorie française U8 non certifiée",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Coordonner les déplacements en petit groupe.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Équipes en relais.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le premier court, revient prendre le deuxième bras liés ; le groupe s’agrandit à chaque retour.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer l’ordre au tour suivant pour équilibrer les passages.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Coordonner les déplacements en petit groupe.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Équipes en relais.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Le premier court, revient prendre le deuxième bras liés ; le groupe s’agrandit à chaque retour.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Changer l’ordre au tour suivant pour équilibrer les passages.",
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-general",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Hook relay",
+            "revision_id": "warm-hook-relay-detail-2",
+            "capture_sha256": "02fc4c2ec880da04c12cf394a54724196a3a5710940758e73104b813ab945b1e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "HTML",
+        "id": "warm-wr-general",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "WEB_PAGE",
+        "title": "World Rugby — Échauffement : mouvements fondamentaux",
+        "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity/"
+      },
+      "locator": "Hook relay",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-hook-relay-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-hook-relay-detail-2",
+          "supersedes": "warm-hook-relay-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space",
+          "material"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
+      "tag_ids": [
+        "skill:cooperation",
+        "skill:course",
+        "format:relais"
+      ],
+      "tagging": {
+        "variant_id": "warm-hook-relay",
+        "tag_ids": [
+          "skill:cooperation",
+          "skill:course",
+          "format:relais"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-hook-relay",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-short",
+        "profile": {
+          "label": "Séquence de mise en route proposée",
+          "intro_seconds": 30,
+          "round_seconds": 45,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 15,
+          "outro_seconds": 15,
+          "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+        },
+        "min_seconds": 150,
+        "max_seconds": 270,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-hook-relay",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-general",
+        "locator": "Hook relay",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-lunge-clock",
+      "title": "Fentes dans trois directions",
+      "original_title": "Lunge clock",
+      "summary": "Fentes dans trois directions.",
+      "theme": "motricité",
+      "classification": {
+        "variant_id": "warm-lunge-clock",
+        "family_id": "F04",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Enchaîner une fente avant, latérale puis arrière, en revenant debout entre chacune.",
+        "source_id": "warm-wr-dynamic",
+        "locator": "Lunge clock"
+      },
+      "age_source": "Enfants ; catégorie française U8 non certifiée",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Contrôler les changements d’appui dans plusieurs directions.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Départ debout.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner une fente avant, latérale puis arrière, en revenant debout entre chacune.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Reprendre la séquence avec l’autre jambe.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Contrôler les changements d’appui dans plusieurs directions.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Départ debout.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enchaîner une fente avant, latérale puis arrière, en revenant debout entre chacune.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Reprendre la séquence avec l’autre jambe.",
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-wr-dynamic",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Lunge clock",
+            "revision_id": "warm-lunge-clock-detail-2",
+            "capture_sha256": "c721d91becd77de6033cbc0d8fe46ed3919cc14da63f8722075d5df57e0c6c7c",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "HTML",
+        "id": "warm-wr-dynamic",
+        "language": "en",
+        "publisher": "World Rugby",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "WEB_PAGE",
+        "title": "World Rugby — Mobilité dynamique pour enfants",
+        "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/"
+      },
+      "locator": "Lunge clock",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-lunge-clock-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-lunge-clock-detail-2",
+          "supersedes": "warm-lunge-clock-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space",
+          "material"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        },
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
+      "tag_ids": [
+        "skill:motricite",
+        "skill:equilibre",
+        "format:motricite-individuelle"
+      ],
+      "tagging": {
+        "variant_id": "warm-lunge-clock",
+        "tag_ids": [
+          "skill:motricite",
+          "skill:equilibre",
+          "format:motricite-individuelle"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-lunge-clock",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-mobility",
+        "profile": {
+          "label": "Mobilité proposée",
+          "intro_seconds": 30,
+          "round_seconds": 20,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 10,
+          "outro_seconds": 10,
+          "extension": "Privilégier le contrôle et une amplitude adaptée ; aucune répétition forcée pour remplir le temps."
+        },
+        "min_seconds": 90,
+        "max_seconds": 150,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-lunge-clock",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-dynamic",
+        "locator": "Lunge clock",
+        "stage": "mobility",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-slow-go",
+      "title": "Alterner marche et petit trot au signal",
+      "original_title": "Slow n Go",
+      "summary": "Alterner marche et petit trot au signal.",
+      "theme": "réactivité",
+      "classification": {
+        "variant_id": "warm-slow-go",
+        "family_id": "F06",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Alterner marche et petit trot à chaque signal.",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 45 ; page PDF 15"
+      },
+      "age_source": "Enfants scolarisés ; âge précis non indiqué dans la fiche",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Adapter son allure à une consigne.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfants espacés dans une aire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Alterner marche et petit trot à chaque signal.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se déplacer librement en variant les directions.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun matériel indiqué comme nécessaire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Adapter son allure à une consigne.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfants espacés dans une aire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Alterner marche et petit trot à chaque signal.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Se déplacer librement en variant les directions.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun matériel indiqué comme nécessaire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 45 ; page PDF 15",
+            "revision_id": "warm-slow-go-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "PDF",
+        "id": "warm-sportnz-kiwidex",
+        "language": "en",
+        "publisher": "Sport NZ",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "EXERCISE_PDF",
+        "title": "KIWIDEX — Warming Up",
+        "url": "https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf"
+      },
+      "locator": "Page imprimée 45 ; page PDF 15",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-slow-go-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-slow-go-detail-2",
+          "supersedes": "warm-slow-go-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
+      "tag_ids": [
+        "skill:reaction",
+        "skill:course"
+      ],
+      "tagging": {
+        "variant_id": "warm-slow-go",
+        "tag_ids": [
+          "skill:reaction",
+          "skill:course"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-slow-go",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-short",
+        "profile": {
+          "label": "Séquence de mise en route proposée",
+          "intro_seconds": 30,
+          "round_seconds": 45,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 15,
+          "outro_seconds": 15,
+          "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+        },
+        "min_seconds": 150,
+        "max_seconds": 270,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-slow-go",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 45 ; page PDF 15",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    },
+    {
+      "id": "warm-whistle-stop",
+      "title": "Marcher puis se figer au signal",
+      "original_title": "Whistle Stop",
+      "summary": "Marcher puis se figer au signal.",
+      "theme": "réactivité",
+      "classification": {
+        "variant_id": "warm-whistle-stop",
+        "family_id": "F06",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "AI_INFERRED",
+        "discriminant": "Marcher sans toucher les autres ; se figer au signal, repartir au suivant.",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 44 ; page PDF 14"
+      },
+      "age_source": "Enfants scolarisés ; âge précis non indiqué dans la fiche",
+      "u8_adaptation": "Proposition IA : démontrer, commencer lentement et ajuster le dispositif aux enfants ; ne pas transformer la mise en route en course maximale.",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Réagir en contrôlant son arrêt.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfants répartis librement.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Marcher sans toucher les autres ; se figer au signal, repartir au suivant.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Varier le délai entre les signaux.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun matériel indiqué comme nécessaire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": "Réagir en contrôlant son arrêt.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Enfants répartis librement.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Marcher sans toucher les autres ; se figer au signal, repartir au suivant.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Varier le délai entre les signaux.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "value": null,
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        },
+        "players_min": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "players_max": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "space": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "material": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Aucun matériel indiqué comme nécessaire.",
+          "provenance": {
+            "source_id": "warm-sportnz-kiwidex",
+            "actor": "assistant",
+            "checked_on": "2026-09-17",
+            "locator": "Page imprimée 44 ; page PDF 14",
+            "revision_id": "warm-whistle-stop-detail-2",
+            "capture_sha256": "075a475ff5ba73c41a78d1034d937836781ecc27b4eeec438c6d2f5f912a833e",
+            "capture_verified_locally": true
+          }
+        }
+      },
+      "source": {
+        "access": "Texte public consulté ; aucune vidéo déclarée visionnée.",
+        "checked_on": "2026-09-16",
+        "format": "PDF",
+        "id": "warm-sportnz-kiwidex",
+        "language": "en",
+        "publisher": "Sport NZ",
+        "qualification_note": "Collecte ciblée échauffements enfants ; adéquation U8 française à adapter.",
+        "resource_type": "EXERCISE_PDF",
+        "title": "KIWIDEX — Warming Up",
+        "url": "https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf"
+      },
+      "locator": "Page imprimée 44 ; page PDF 14",
+      "references": [],
+      "history": [
+        {
+          "id": "warm-whistle-stop-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-09-16",
+          "reason": null
+        },
+        {
+          "id": "warm-whistle-stop-detail-2",
+          "supersedes": "warm-whistle-stop-detail-1",
+          "checked_on": "2026-09-17",
+          "reason": "Rattachement à la capture locale vérifiée de la source ; qualification du matériel des trois activités KIWIDEX."
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "PROPOSED_OBJECTIVE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "duration_min",
+          "players_min",
+          "players_max",
+          "space"
+        ],
+        "core_origins": {
+          "objectives": "AI_INFERRED",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        },
+        {
+          "field": "players_min",
+          "state": "NOT_EXTRACTED",
+          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
+        },
+        {
+          "field": "players_max",
+          "state": "NOT_EXTRACTED",
+          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
+        },
+        {
+          "field": "space",
+          "state": "NOT_EXTRACTED",
+          "question": "Définir les limites et dimensions adaptées au groupe."
+        }
+      ],
+      "tag_ids": [
+        "skill:reaction",
+        "skill:equilibre"
+      ],
+      "tagging": {
+        "variant_id": "warm-whistle-stop",
+        "tag_ids": [
+          "skill:reaction",
+          "skill:equilibre"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-09-16",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Usage échauffement attesté séparément par la source."
+      },
+      "planning_duration": {
+        "variant_id": "warm-whistle-stop",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
+        "coach_confirmation_required": true,
+        "profile_id": "warmup-short",
+        "profile": {
+          "label": "Séquence de mise en route proposée",
+          "intro_seconds": 30,
+          "round_seconds": 45,
+          "rounds_min": 2,
+          "rounds_max": 4,
+          "between_seconds": 15,
+          "outro_seconds": 15,
+          "extension": "Ajouter une courte séquence seulement si elle reste utile à la préparation ; garder du temps pour la suite de l’échauffement."
+        },
+        "min_seconds": 150,
+        "max_seconds": 270,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [
+        "WARMUP"
+      ],
+      "warmup_usage": {
+        "variant_id": "warm-whistle-stop",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 44 ; page PDF 14",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
     },
     {
       "id": "wr-chain-reaction",
@@ -48167,7 +51391,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-changing-defender",
@@ -48578,7 +51804,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-find-space",
@@ -48922,7 +52150,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-five-walls",
@@ -49305,7 +52535,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-follow-choice",
@@ -49699,7 +52931,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-follow-leader",
@@ -50124,7 +53358,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-formation",
@@ -50549,7 +53785,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-keep-ball",
@@ -51012,7 +54250,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-pairs-tag",
@@ -51425,7 +54665,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-pass-defend",
@@ -51744,7 +54986,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-pass-support",
@@ -52220,7 +55464,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-passing-relays",
@@ -52647,7 +55893,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-scarecrow",
@@ -53001,7 +56249,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-tag-2v1",
@@ -53464,7 +56714,9 @@
           "reviewed_on": "2026-09-16"
         }
       ],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-tag-3v1",
@@ -53892,7 +57144,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-tag-3v2",
@@ -54289,7 +57543,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     },
     {
       "id": "wr-walls-212",
@@ -54700,7 +57956,9 @@
         "profile_id": null
       },
       "duplicate_review": [],
-      "missing_review": null
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
     }
   ],
   "canonical_game_groups": [
@@ -54789,18 +58047,18 @@
     }
   ],
   "summary": {
-    "records": 150,
+    "records": 158,
     "families": 22,
     "readiness": {
       "DOCUMENTED_CORE": 122,
       "INCOMPLETE": 9,
-      "PROPOSED_OBJECTIVE": 18,
+      "PROPOSED_OBJECTIVE": 26,
       "REPORTED_OBSERVATION": 1
     },
     "unique_exercises": null
   },
   "policy": {
-    "collection": "PAUSED",
+    "collection": "TARGETED_WARMUPS",
     "unknown_values": "NULL",
     "automatic_merge": false,
     "note": "Présence des rubriques ≠ exhaustivité, validation terrain ou conformité U8. Les propositions et observations restent identifiées."
@@ -55210,7 +58468,119 @@
       }
     ],
     "exact_steps_pairs": [],
-    "pairs_checked": 11175
+    "pairs_checked": 12403
   },
-  "content_sha256": "bdbab515341f0c2d113269345273b60bc72131e82684208a1da29182e09bcd85"
+  "warmup_collection": {
+    "version": 1,
+    "records": [
+      {
+        "variant_id": "warm-hook-relay",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-general",
+        "locator": "Hook relay",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-evasion-gauntlet",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-specific",
+        "locator": "Evasion gauntlet",
+        "stage": "specific",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-any-direction-tag",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-specific",
+        "locator": "Any direction pass tag",
+        "stage": "specific",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-arm-circles",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-dynamic",
+        "locator": "Arm circles",
+        "stage": "mobility",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-lunge-clock",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-wr-dynamic",
+        "locator": "Lunge clock",
+        "stage": "mobility",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-whistle-stop",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 44 ; page PDF 14",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-slow-go",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 45 ; page PDF 15",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      },
+      {
+        "variant_id": "warm-here-there",
+        "uses": [
+          "WARMUP"
+        ],
+        "usage_origin": "SOURCE",
+        "source_id": "warm-sportnz-kiwidex",
+        "locator": "Page imprimée 54 ; page PDF 24",
+        "stage": "general",
+        "stage_origin": "AI_INFERRED",
+        "note": "Brique d’échauffement, pas un échauffement complet à elle seule."
+      }
+    ],
+    "guidance_source_id": "warm-wr-guidelines",
+    "guidance": "Progressivité et lien avec la séance ; sélectionner une mise en mouvement, une mobilité adaptée et une préparation spécifique. Durées proposées, pas prescriptions fédérales.",
+    "screening_notes": [
+      "Hook relay : principe différent de scot-chaine, qui est une poursuite avec capture.",
+      "Any direction pass tag : proche des jeux de zone ; changement de possession immédiat au toucher, contrairement à scot-endzone. Conserver comme variante, pas nouveauté certifiée.",
+      "Lunge clock : variante multidirectionnelle de la famille de scot-monster, pas fusion des descriptions.",
+      "Whistle Stop : arrêt au signal, distinct de rc-statues où l’arrêt suit une capture.",
+      "Catching the high ball : titre seul sur la page, non importé sans déroulement.",
+      "Stuck in the mud et Piggy in the middle : proches du corpus, non ajoutés pour gonfler le compte.",
+      "Rugby Toolbox : index U7 inaccessible lors des essais ; aucun contenu inventé depuis les seuls titres."
+    ]
+  },
+  "content_sha256": "807ba7faceba54294c271ad47b2ba6eb6952bda8ff12d04ece6f700a0aee86bd"
 }

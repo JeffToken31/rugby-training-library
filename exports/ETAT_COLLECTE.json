@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T20:35:08.305800+00:00",
-  "variants": 150,
-  "documented": 141,
+  "generated_at": "2026-09-17T05:32:37.228637+00:00",
+  "variants": 158,
+  "documented": 149,
   "incomplete": 9,
-  "enriched": 150,
-  "resources": 87,
-  "captured_resources": 62,
+  "enriched": 158,
+  "resources": 92,
+  "captured_resources": 67,
   "families": 2,
   "events": [],
   "resource_inventory": [
@@ -882,6 +882,61 @@
         "state": "DONE",
         "error": null,
         "started_at": "2026-09-08T12:00:19.359727+00:00"
+      }
+    },
+    {
+      "resource_id": "warm-sportnz-kiwidex",
+      "title": "KIWIDEX — Warming Up",
+      "url": "https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-17T05:29:12.490169+00:00"
+      }
+    },
+    {
+      "resource_id": "warm-wr-dynamic",
+      "title": "World Rugby — Mobilité dynamique pour enfants",
+      "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-17T05:29:08.594889+00:00"
+      }
+    },
+    {
+      "resource_id": "warm-wr-general",
+      "title": "World Rugby — Échauffement : mouvements fondamentaux",
+      "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-17T05:29:04.324417+00:00"
+      }
+    },
+    {
+      "resource_id": "warm-wr-guidelines",
+      "title": "World Rugby — Principes d’échauffement enfants",
+      "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/principles-and-guidelines-for-an-effective-warm-up",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-17T05:29:10.525040+00:00"
+      }
+    },
+    {
+      "resource_id": "warm-wr-specific",
+      "title": "World Rugby — Échauffement : mouvements spécifiques",
+      "url": "https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity",
+      "capture_recorded": true,
+      "last_attempt": {
+        "state": "DONE",
+        "error": null,
+        "started_at": "2026-09-17T05:29:06.659327+00:00"
       }
     },
     {
