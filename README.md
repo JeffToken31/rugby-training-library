@@ -1,12 +1,12 @@
-# Bibliothèque rugby U8 — base pour préparer les séances
+# Rugby Training Library
 
-**158 fiches conservées, 22 familles proposées, dont huit nouvelles activités d’échauffement.** Ce n’est pas un décompte de jeux uniques. Dépôt privé, sans données enfants.
+Pour reprendre le projet, commencer par [PROJECT.md](PROJECT.md). Ce guide sert à consulter le catalogue et à le reconstruire localement.
 
 **[Ouvrir le catalogue complet](exports/CATALOGUE.md)**
 
 Toutes les fiches, catégories, durées, repères coach, adaptations, sources et rapprochements sont réunis dans ce catalogue. Les anciennes vues séparées redirigent vers ses sections. Les fiches individuelles contiennent le même contenu pour un partage direct.
 
-Pour le cadrage et le développement : [interface](docs/INTERFACE_SEANCES.md), [génération IA](docs/GENERATION_SEANCES_IA.md), [contrat des données](docs/CONTRAT_APPLICATION.md), [priorité actuelle](PROJECT.md). Les rapports LOT_* sont des archives de travail, pas le parcours de lecture courant.
+Le [catalogue livré](exports/CATALOGUE.md#controle) compte 158 fiches, 22 familles proposées et huit échauffements. Le nombre de fiches inclut des variantes.
 
 ## Reconstruire et vérifier
 
@@ -23,27 +23,25 @@ La reconstruction utilise les fichiers versionnés, sans réseau. Elle fonctionn
 python3 pipeline.py --db /tmp/rugby-rebuild.sqlite --out /tmp/rugby-exports
 ```
 
-Les fichiers dans exports/ sont générés ; modifier les données d’entrée, jamais seulement un export. La base SQLite et les captures brutes sont locales et ignorées par Git. Un clone peut reconstruire les descriptions sans disposer des captures : les indicateurs de disponibilité locale ne sont pas transportables.
+Les fichiers dans [exports/](exports/) sont générés depuis les entrées versionnées. Pour corriger le corpus, modifier les entrées et régénérer les sorties. La base SQLite et les captures brutes sont locales et ignorées par Git. Un clone peut reconstruire les descriptions sans les captures. Les indicateurs de disponibilité locale dépendent de la machine.
 
 ## Organisation
 
 | Élément | Rôle |
 |---|---|
-| data/manifest.json | Ordre des lots et compléments d’application |
-| catalogue_v2.py, enrichments.py | Import et historique documentaire |
-| application_data.py | Vue d’application, classement, observations et audit |
-| session_plan.py | Contrôles structurels des brouillons de séances |
-| exports/APPLICATION.json | Contrat de lecture version 1 pour le futur front |
-| data/session-draft.example.json | Brouillon de 90 minutes, rotations simultanées |
-| tests/ | Reconstruction, provenance, intégrité et minutage |
+| [data/manifest.json](data/manifest.json) | Ordre des lots et compléments d’application |
+| [catalogue_v2.py](catalogue_v2.py), [enrichments.py](enrichments.py) | Import et historique documentaire dans SQLite |
+| [application_data.py](application_data.py) | Vue d’application, classement, observations et audit |
+| [session_plan.py](session_plan.py) | Contrôles structurels des brouillons de séances |
+| [exports/APPLICATION.json](exports/APPLICATION.json) | Vue JSON de lecture v1 pour le futur front |
+| [data/session-draft.example.json](data/session-draft.example.json) | Exemple structurel historique utilisé dans les tests. Voir le [contrat](docs/CONTRAT_APPLICATION.md#exemple-structurel-et-contrôles-existants) |
+| [tests/](tests/) | Reconstruction, provenance, intégrité et minutage |
 
-La vue d’application distingue le noyau documentaire, les objectifs proposés, les observations rapportées et les descriptions insuffisantes. La présence des quatre rubriques essentielles ne vaut pas fiche exhaustive ni validation terrain. Les neuf fiches encore trop peu décrites restent consultables à part, exclues de la sélection par défaut.
-
-Les documents LOT_* et bilans datés sont historiques. Le cadrage courant remplace leurs consignes de poursuite de collecte. Les collecteurs sont conservés pour l’historique mais ne doivent pas être lancés dans cette phase.
+Les bilans datés et les anciennes missions de collecte sont recensés dans l’[inventaire des archives](archive/README.md).
 
 ## Tags combinables
 
-Les fiches possèdent un classement multi-tags : 17 compétences et 10 formes de jeu. Les affectations éditoriales sont dans `data/exercise-tags.json` ; les thèmes historiques et familles restent conservés. Une fiche peut apparaître sous Passe, Soutien et Surnombre sans être dupliquée. Les neuf descriptions insuffisantes sont classées provisoirement.
+Les fiches possèdent des tags combinables, répartis en 17 compétences et 9 formes de jeu dans l’export actuel. Les affectations éditoriales sont dans `data/exercise-tags.json` ; les thèmes historiques et familles restent conservés. Une fiche peut apparaître sous Passe, Soutien et Surnombre sans être dupliquée. Les neuf descriptions insuffisantes sont classées provisoirement.
 
 ```sh
 python3 exercise_tags.py skill:passe format:surnombre
@@ -54,4 +52,4 @@ python3 exercise_tags.py skill:plaquage --include-incomplete
 Par défaut, les filtres se combinent avec ET et excluent les fiches trop incomplètes. `--match any` applique OU, toujours sans dupliquer les résultats. Les tags ne certifient pas la sécurité ou l’adéquation U8. Les effectifs, durées et matériel restent des paramètres séparés.
 
 ## Échauffements collectés
-[Accéder directement aux échauffements dans le catalogue](exports/CATALOGUE.md#echauffements). L’usage WARMUP est attesté par les ressources consultées ; l’étape proposée (mise en mouvement, mobilité, préparation spécifique) reste un classement éditorial. Recherche combinable : `python3 exercise_tags.py --usage WARMUP`. Les autres fiches sans usage qualifié ne sont pas déclarées impropres à l’échauffement.
+L’étiquette WARMUP signale les situations publiées comme échauffements. Les étapes « mise en mouvement », « mobilité » et « préparation spécifique » relèvent du classement éditorial. [Échauffements dans le catalogue](exports/CATALOGUE.md#echauffements). Recherche combinable : `python3 exercise_tags.py --usage WARMUP`. Les autres fiches sans usage qualifié ne sont pas déclarées impropres à l’échauffement.

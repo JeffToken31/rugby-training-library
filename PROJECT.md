@@ -1,35 +1,29 @@
-# Cadrage courant — 16 septembre 2026
+# Rugby Training Library
 
-## Décision utilisateur
-Collecte ciblée d’échauffements explicitement autorisée par la dernière demande utilisateur. La suspension générale précédente est levée uniquement pour ce besoin. Consolider les 150 fiches existantes et préparer les données et le cadrage de l’interface de création de séances. Chercher et intégrer des échauffements enfants documentés ; ne pas développer le front avant le cadrage. Les anciennes priorités quantitatives (200 fiches, etc.) sont remplacées par cette décision.
+Le projet vise une application web pensée d’abord pour le téléphone des éducateurs de rugby, avec les U8 comme première cible. Le socle actuel reconstruit le catalogue et expose ses données. Deux usages guident le MVP :
 
-## Terrain
-Priorité U8 ; environ 30 enfants, 5–6 éducateurs, séance de 90 minutes, 2 ou 3 groupes, trois ateliers de 6–8 minutes, récréation de 10 minutes, échauffement et opposition reliée aux objectifs des ateliers. Consignes et transitions incluses dans les 90 minutes. Matériel et règles du club à préciser au cadrage de l’interface.
+1. Trouver rapidement un atelier dans le catalogue, puis consulter sa fiche et ses médias.
+2. Préparer une séance par blocs, l’enregistrer en brouillon, la partager et pouvoir en proposer une variante.
 
-## Source de vérité
-Les lots immuables et révisions sont ordonnés dans data/manifest.json. Python standard et SQLite, WSL Ubuntu-22.04, utilisateur jeff, sans sudo. Exécuter python3 pipeline.py hors réseau. L’application utilisera exports/APPLICATION.json ; ne pas analyser les fiches Markdown pour reconstruire les données.
+La trame U8 de référence prévoit environ 70 minutes sur un créneau de 90 minutes, avec environ 50 minutes d’opposition et deux ateliers sur environ 20 minutes au total. Les quelque 20 minutes restantes constituent une marge de terrain volontaire. L’éducateur peut adapter la trame.
 
-150 fiches ne signifie pas 150 jeux uniques. Les 22 familles éditoriales sont distinctes des deux familles historiques SQL. Conserver les rapprochements et toutes les sources ; aucune fusion automatique. Les statuts documentaires ne prouvent ni exhaustivité ni validation coach. Le bilan à jour est exports/QUALITE_APPLICATION.md.
+## Documents de référence
 
-## Provenance
-Séparer faits documentés, propositions IA, valeurs historiques non réexaminées et observations utilisateur. Les inconnues restent nulles. Ne jamais inventer dimensions, effectifs, contact, critères de réussite ou règles manquantes pour afficher une fiche complète. Les propositions sont modifiables dans une séance sans modifier la fiche source.
+| Besoin | Document |
+| --- | --- |
+| Périmètre, catalogue et règles produit | [Périmètre produit](docs/PRODUCT_SCOPE.md) |
+| Parcours et calcul du temps dans le constructeur | [Interface des séances](docs/INTERFACE_SEANCES.md) |
+| Arbitrages et questions ouvertes | [Journal des décisions](docs/DECISIONS.md) |
+| Données exposées et contrôles existants | [Contrat de lecture application](docs/CONTRAT_APPLICATION.md) |
 
-Carré 2 : intégrer la description utilisateur et l’interdiction d’empêcher les voleurs. Les 30 secondes évoquées ne sont pas une durée prescrite. Les autres situations vidéo incomplètes restent à part ; ne pas redemander le PDF octobre déjà reçu.
+En cas de contradiction avec un document historique, la documentation active référencée ici prévaut. Le périmètre et l’interface décrivent le **produit visé**. Le contrat décrit le **socle actuel** et indique l’écart de minutage à examiner avant le développement.
 
-## Livraison et prochaine étape
-Consulter docs/INTERFACE_SEANCES.md et docs/CONTRAT_APPLICATION.md. Prévoir bibliothèque, fiche et constructeur de séance, sans gestion des enfants ou des parents au MVP. Dépôt GitHub privé. Aucun secret ni donnée personnelle enfant. Archives brutes locales non publiées. L’ancienne automatisation de collecte est en pause.
+Le MVP s’arrête à la bibliothèque et à la préparation de séances. L’assistance IA est une évolution envisagée. La gestion des enfants, des parents, des clubs et de la saison est hors périmètre.
 
-Historique conservé dans docs/archive/PROJECT_avant_consolidation.md. Les anciens bilans datés décrivent leur lot ; ils ne fixent plus la priorité courante.
+## Catalogue, travail local et historique
 
-## Répartition du travail confirmée
+- [Catalogue à consulter](exports/CATALOGUE.md) et [guide de reconstruction](README.md).
+- [Consignes de contribution](AGENTS.md).
+- [Inventaire documentaire et archives](archive/README.md), avec l’origine et le statut des anciens documents.
 
-L’utilisateur confie ici les actions sur la base : affiner les informations existantes, attribuer les tags et permettre plusieurs catégories sans dupliquer les fiches. Le cadrage de l’application sera mené dans une autre conversation ; ne pas lancer son développement ici. Les tags sont versionnés dans data/exercise-tags.json et intégrés à la reconstruction. Aucune collecte supplémentaire.
-
-## Génération IA souhaitée
-L’utilisateur veut demander des propositions de séances selon ses attentes dans le créateur, puis les modifier et les adapter. Voir docs/GENERATION_SEANCES_IA.md. Préparer les données utiles ici ; cadrage et interface restent dans l’autre conversation. Les budgets de durée proposés sont séparés des faits sources et ne constituent pas des prescriptions d’effort.
-
-## Lecture centralisée
-Le point d’entrée utilisateur est exports/CATALOGUE.md. Les anciennes vues séparées redirigent vers ses sections. Priorité aux compléments vérifiables dans les archives existantes ; conserver les limites de la relecture et les rapprochements non résolus.
-
-## Priorité active : vrais échauffements
-Collecter des activités publiées pour la préparation des enfants, sans prendre la routine personnelle de l’utilisateur comme modèle. Les usages de séance sont séparés des tags de compétence. Huit fiches ont été ajoutées, total 158. Les anciennes mentions « aucune collecte supplémentaire » décrivent la phase antérieure.
+Les entrées du catalogue sont ordonnées dans le [manifeste](data/manifest.json). Le catalogue Markdown et le JSON de lecture sont générés. Le manifeste et les données versionnées portent la provenance des fiches.

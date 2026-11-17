@@ -1,37 +1,44 @@
-# Cadrage proposé : préparer une séance U8
+# Interface des séances
 
-## Résultat attendu
+Comportement attendu du futur constructeur. Le [contrat de lecture](CONTRAT_APPLICATION.md#exemple-structurel-et-contrôles-existants) décrit les validations disponibles aujourd’hui.
 
-Un éducateur prépare une séance de 90 minutes depuis son téléphone ou son ordinateur : il choisit un objectif, retrouve des exercices, répartit ses groupes, ajuste les durées puis imprime une fiche lisible sur le terrain. La séance reste modifiable sans altérer la bibliothèque.
+## Créer et composer
 
-## Trois vues suffisent
+Depuis « Nouvelle séance », l’éducateur ouvre une trame U8 préremplie. Il peut préciser le titre ou la date, le créneau, l’objectif et l’effectif estimé. L’effectif, le nombre de groupes et les éducateurs s’ajustent à la présence réelle. Un objectif ou un atelier encore à choisir peut rester vide dans un brouillon.
 
-1. **Bibliothèque** : recherche, filtres combinables et cartes compactes. Chaque carte montre objectif, famille, paramètres connus et badge « documenté », « objectif proposé » ou « observation rapportée ». Les fiches insuffisantes se consultent dans une section séparée. Les exercices proches sont reliés, pas annoncés comme des nouveautés.
-2. **Fiche exercice** : installation, déroulement, consignes, réussite, points coach, matériel, espace, variantes et sources. Les inconnues apparaissent clairement. Une zone « Mes réglages pour cette séance » contient effectif, durée et adaptation ; bouton Ajouter à la séance.
-3. **Ma séance** : objectif, effectif du jour, éducateurs, 2 ou 3 groupes et chronologie de 90 minutes. Déplacement et duplication des blocs, trois ateliers en parallèle, rotations, pause de 10 minutes et opposition liée à l’objectif. Afficher le temps restant et les choix encore à faire. Enregistrer un brouillon, dupliquer puis imprimer.
+Afficher une chronologie verticale sur téléphone. Chaque bloc s’ouvre pour régler ses paramètres. L’éducateur peut ajouter, déplacer, dupliquer ou retirer un bloc. Depuis les ateliers, il peut ouvrir la fiche, accéder au média, choisir une activité et renseigner les réglages de séance.
 
-Sur téléphone, la chronologie est verticale ; sur ordinateur, bibliothèque et séance peuvent être côte à côte. Éviter un grand tableau illisible sur petit écran. Les réglages techniques de provenance restent dans le détail, avec des libellés compréhensibles.
+| Bloc | À régler selon le besoin |
+| --- | --- |
+| Opposition | Durée, groupes ou équipes, organisation et consigne choisie par l’éducateur. |
+| Ateliers | Groupes, stations, affectations et durée par rotation. |
+| Jeu | Durée, activité, organisation et équipes ou groupes. |
+| Échauffement | Durée et organisation des activités ou phases. |
+| Pause ou transition | Durée si elle est planifiée et note facultative. |
 
-## Valeurs initiales proposées
+## Trame et calcul du temps
 
-30 enfants et 3 groupes de 10, modifiables ; 5 ou 6 éducateurs selon la présence. Trois rotations de 7 minutes avec 1 minute de transition. Le brouillon existant totalise exactement 90 minutes et réserve accueil, démonstration, récréation, eau, opposition et bilan. Ce sont des réglages de départ, pas des durées imposées aux fiches.
+Sur un créneau de **90 minutes**, proposer **20 min d’opposition**, **20 min pour le bloc des deux ateliers en rotation**, puis **30 min d’opposition**. L’écran affiche **70 min planifiées**, **20 min de marge** et **50 min d’opposition**. Les valeurs suivent le [modèle U8 indicatif](PRODUCT_SCOPE.md#préparer-une-séance-u8).
 
-Aucun exercice incomplet injecté automatiquement. Les objectifs proposés et observations nécessitent une lecture visible ; les champs absents utiles à l’installation deviennent des questions dans la séance. Pas d’alerte technique pour chaque détail facultatif.
+| Rotation | Groupe A | Groupe B | Temps écoulé |
+| --- | --- | --- | --- |
+| 1 | Atelier 1 | Atelier 2 | 10 min |
+| 2 | Atelier 2 | Atelier 1 | 10 min |
+| **Bloc ateliers** | | | **20 min** |
 
-## MVP et limites
+Les rotations successives s’additionnent. Pendant une rotation, les affectations simultanées partagent la même durée. Toute transition explicitement planifiée compte une seule fois, dans son bloc ou comme bloc séparé. Un temps déjà compris dans un budget d’atelier reste dans ce budget. Les aléas et temps de terrain sans bloc prévu utilisent la marge.
 
-Inclure recherche/filtre, consultation, composition, sauvegarde de brouillons, duplication et impression. Pas de suivi individuel des enfants, convocations, messages parents ou calendrier de saison dans cette première livraison. Pas de collecte supplémentaire. Pas de génération automatique d’une séance présentée comme validée.
+Recalculer après chaque modification et afficher le créneau, le temps planifié, la marge ou le dépassement et le total d’opposition. Une marge réduite, une opposition plus courte que le repère U8 ou un dépassement donnent un retour informatif qui laisse le brouillon modifiable. Si une durée manque, signaler que le total est partiel et indiquer le réglage à compléter.
 
-Proposition technique à arbitrer au cadrage : petite interface responsive consommant l’export JSON, stockage local des brouillons et export/import d’un fichier pour commencer. Si plusieurs éducateurs doivent modifier la même séance en direct, prévoir dès le départ une petite sauvegarde partagée avec accès privé ; ne pas promettre cette collaboration avec du stockage local seul.
+## Adapter, sauvegarder et reprendre
 
-## Décisions à prendre ensemble avant le front
+Les valeurs de l’atelier et les réglages effectués dans la séance restent identifiables. Par exemple, adapter une fiche à deux groupes de sept enregistre ce réglage dans la séance. Si la fiche ne documente pas une information utile à l’installation, afficher « À confirmer ». Les fiches trop peu décrites restent consultables dans la bibliothèque.
 
-- Usage principal : préparer seul puis partager une fiche, ou travailler à plusieurs sur la même séance ?
-- Sortie terrain : impression papier/PDF, téléphone, ou les deux ?
-- Matériel habituel et règles de contact appliquées par le club : à prévoir dans les réglages initiaux.
+L’éducateur peut sauvegarder un brouillon, le rouvrir, consulter une proposition partagée et ouvrir « Créer une nouvelle proposition à partir de cette séance ». La copie garde la relation à la proposition d’origine et peut évoluer indépendamment. La vue terrain donne la chronologie, les groupes, les consignes et les réglages utiles sur téléphone. Voir le [périmètre de partage](PRODUCT_SCOPE.md#sauvegarder-réutiliser-et-partager).
 
-Ces décisions n’empêchent pas de terminer les données. Les dimensions inconnues et les situations vidéo encore incomplètes ne justifient pas de relancer une collecte générale.
+## Critères de recette
 
-## Critères de recette de l’interface
-
-Un coach trouve une fiche en combinant thème et famille, voit l’origine d’un objectif proposé, ajoute trois ateliers et obtient un calendrier de rotations sans triple comptage du temps. Il passe de trois groupes à deux, garde un total de 90 minutes, ajuste le matériel et imprime les consignes. Un brouillon incomplet reste un brouillon ; aucune perte après sauvegarde/réouverture ; l’original documentaire reste inchangé après adaptation.
+- Créer la trame depuis un téléphone, y ajouter deux ateliers et obtenir 20 minutes pour deux rotations successives de 10 minutes, avec deux groupes en parallèle à chaque rotation.
+- Ajouter 5 minutes de pause à la trame de référence et obtenir 75 minutes planifiées et 15 minutes de marge. Afficher un dépassement si le total excède le créneau.
+- Enregistrer puis rouvrir un brouillon avec des choix en attente. Modifier l’effectif d’un atelier dans la séance et retrouver la valeur de la fiche d’origine.
+- Créer une variante d’une proposition partagée. Retrouver la proposition d’origine et consulter les deux séances séparément.
