@@ -1,5 +1,11 @@
 # Décisions produit
 
+## 2026-11-17 — Authentification simple des éducateurs en V1
+
+**Décision.** La V1 comprend une authentification simple des éducateurs pour identifier l’auteur, conserver ses brouillons et rattacher ses propositions à son compte. La gestion des clubs, les rôles avancés et les invitations restent hors périmètre.
+
+**Impact.** Le choix du mécanisme d’authentification, du stockage et des règles précises de consultation et de reprise reste à définir. Cette décision décrit le produit visé, pas une fonctionnalité déjà disponible.
+
 ## 2026-11-17 — Représentation du créneau dans les brouillons
 
 **Décision.** Le brouillon porte `creneau_min` (créneau de la séance, entier strictement positif) ; `duration_min` reste le temps planifié, égal à la somme des blocs. La marge est dérivée (créneau − planifié), jamais stockée. Un temps planifié supérieur au créneau déclenche un avertissement non bloquant ; un créneau absent ou invalide est une erreur. Un bloc sans durée reste écriable : le total est alors marqué partiel par un avertissement qui nomme le réglage manquant.
@@ -29,6 +35,6 @@
 | Sujet | Décision ou vérification attendue |
 | --- | --- |
 | Créneau et temps planifié | Clôturée le 17 novembre : [représentation du créneau dans les brouillons](#2026-11-17-representation-du-creneau-dans-les-brouillons). |
-| Sauvegarde et accès | Arbitrer entre stockage local, stockage partagé et compte éducateur. Définir qui peut consulter ou reprendre une proposition et ce qui doit être conservé si une fiche évolue. |
+| Sauvegarde et accès | Définir le mécanisme d’authentification simple, le stockage, qui peut consulter ou reprendre une proposition et ce qui doit être conservé si une fiche évolue. |
 | Partage | Déterminer quels modes livrer en premier et préciser le contenu de la fiche PDF ou imprimée pour le terrain. |
 | Réglages de terrain | Confirmer les valeurs initiales utiles pour l’effectif, les groupes, les éducateurs, le matériel et les règles de contact du club. |

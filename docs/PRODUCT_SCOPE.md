@@ -22,6 +22,7 @@ La marge absorbe les retards, l’installation, les consignes, les démonstratio
 
 ## Sauvegarder, réutiliser et partager
 
+- Une authentification simple des éducateurs fait partie de la V1 : elle permet d’identifier l’auteur, de conserver ses brouillons et de rattacher ses propositions à son compte.
 - Une séance incomplète peut être sauvegardée en brouillon.
 - Reprendre une proposition partagée crée une nouvelle séance qui conserve un lien vers l’original. Une adaptation de durée, d’effectif ou d’organisation appartient à la séance et laisse la fiche source intacte.
 - La consultation mobile est prioritaire. Les modes de partage envisagés sont le lien, le partage natif du téléphone et une fiche PDF synthétique pour le terrain. L’ordre de livraison et les accès restent à décider.
@@ -32,6 +33,6 @@ L’éducateur pourrait demander un brouillon à partir d’un objectif, d’un 
 
 ## Hors périmètre du MVP
 
-Gestion des enfants ou des coordonnées des parents, présences, convocations, calendrier de saison, équipes de plateau, statistiques individuelles, messagerie, notifications avancées, administration multi-clubs et collaboration temps réel. Les intégrations SportEasy et WhatsApp Business sont également hors périmètre. Un éventuel compte éducateur simple relève de l’arbitrage sur les brouillons et les droits d’accès.
+Gestion des enfants ou des coordonnées des parents, présences, convocations, calendrier de saison, équipes de plateau, statistiques individuelles, messagerie, notifications avancées, gestion des clubs, rôles avancés, invitations et collaboration temps réel. Les intégrations SportEasy et WhatsApp Business sont également hors périmètre.
 
 Voir les [décisions et questions ouvertes](DECISIONS.md).
