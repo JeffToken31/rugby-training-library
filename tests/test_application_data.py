@@ -71,11 +71,11 @@ class ApplicationTests(unittest.TestCase):
         plan=app.read(v2.ROOT / "data/session-draft.example.json")
         self.assertEqual(session_plan.validate(plan,self.payload), [])
         bad=copy.deepcopy(plan)
-        bad["blocks"][3]["duration_min"]=72
+        bad["blocks"][1]["duration_min"]=72
         self.assertIn("Durée totale différente de la somme des blocs",session_plan.validate(bad,self.payload))
         bad=copy.deepcopy(plan)
-        bad["blocks"][3]["rounds"][0]["assignments"][0]["variant_id"]="ffr-plaquage-atelier"
+        bad["blocks"][1]["rounds"][0]["assignments"][0]["variant_id"]="ffr-plaquage-atelier"
         self.assertIn("Exercice trop incomplet : ffr-plaquage-atelier",session_plan.validate(bad,self.payload))
         bad=copy.deepcopy(plan)
-        bad["blocks"][3]["rounds"][0]["assignments"][0]["group_id"]="B"
+        bad["blocks"][1]["rounds"][0]["assignments"][0]["group_id"]="B"
         self.assertIn("Chaque groupe doit être affecté une fois par rotation",session_plan.validate(bad,self.payload))

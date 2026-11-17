@@ -34,7 +34,7 @@ Les fichiers dans [exports/](exports/) sont générés depuis les entrées versi
 | [application_data.py](application_data.py) | Vue d’application, classement, observations et audit |
 | [session_plan.py](session_plan.py) | Contrôles structurels des brouillons de séances |
 | [exports/APPLICATION.json](exports/APPLICATION.json) | Vue JSON de lecture v1 pour le futur front |
-| [data/session-draft.example.json](data/session-draft.example.json) | Exemple structurel historique utilisé dans les tests. Voir le [contrat](docs/CONTRAT_APPLICATION.md#exemple-structurel-et-contrôles-existants) |
+| [data/session-draft.example.json](data/session-draft.example.json) | Exemple structurel de la trame 70/90 utilisé dans les tests. Voir le [contrat](docs/CONTRAT_APPLICATION.md#exemple-structurel-et-contrôles-existants) |
 | [tests/](tests/) | Reconstruction, provenance, intégrité et minutage |
 
 Les bilans datés et les anciennes missions de collecte sont recensés dans l’[inventaire des archives](archive/README.md).

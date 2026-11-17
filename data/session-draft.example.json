@@ -1,146 +1,59 @@
 {
   "schema_version": 1,
-  "id": "u8-draft-90",
-  "title": "Brouillon : avancer et soutenir",
+  "id": "u8-draft-70",
+  "title": "Séance U8 : trame de référence 70 minutes planifiées",
   "status": "DRAFT",
   "origin": "AI_INFERRED",
-  "duration_min": 90,
-  "players": 30,
-  "coaches": 6,
+  "duration_min": 70,
+  "creneau_min": 90,
+  "players": 14,
+  "coaches": 2,
   "groups": [
-    {
-      "id": "A",
-      "players": 10
-    },
-    {
-      "id": "B",
-      "players": 10
-    },
-    {
-      "id": "C",
-      "players": 10
-    }
+    {"id": "A", "players": 7},
+    {"id": "B", "players": 7}
   ],
   "objective": "Avancer, regarder et soutenir un partenaire.",
   "blocks": [
     {
-      "kind": "WELCOME",
-      "duration_min": 5,
-      "label": "Accueil et consignes"
-    },
-    {
-      "kind": "WARMUP",
-      "duration_min": 10,
-      "label": "Échauffement à choisir",
+      "kind": "OPPOSITION",
+      "label": "Opposition d'ouverture",
+      "duration_min": 20,
       "variant_ids": []
     },
     {
-      "kind": "BRIEFING",
-      "duration_min": 4,
-      "label": "Démonstration et répartition"
-    },
-    {
       "kind": "WORKSHOPS",
-      "duration_min": 24,
-      "label": "Trois rotations simultanées",
+      "label": "Deux ateliers en rotation",
+      "duration_min": 20,
       "rounds": [
         {
-          "work_min": 7,
-          "transition_min": 1,
+          "work_min": 10,
+          "transition_min": 0,
           "assignments": [
-            {
-              "group_id": "A",
-              "station_id": "1",
-              "variant_id": "rc-pairs"
-            },
-            {
-              "group_id": "B",
-              "station_id": "2",
-              "variant_id": "rc-two-one"
-            },
-            {
-              "group_id": "C",
-              "station_id": "3",
-              "variant_id": "munster-gates"
-            }
+            {"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"},
+            {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}
           ]
         },
         {
-          "work_min": 7,
-          "transition_min": 1,
+          "work_min": 10,
+          "transition_min": 0,
           "assignments": [
-            {
-              "group_id": "A",
-              "station_id": "2",
-              "variant_id": "rc-two-one"
-            },
-            {
-              "group_id": "B",
-              "station_id": "3",
-              "variant_id": "munster-gates"
-            },
-            {
-              "group_id": "C",
-              "station_id": "1",
-              "variant_id": "rc-pairs"
-            }
-          ]
-        },
-        {
-          "work_min": 7,
-          "transition_min": 1,
-          "assignments": [
-            {
-              "group_id": "A",
-              "station_id": "3",
-              "variant_id": "munster-gates"
-            },
-            {
-              "group_id": "B",
-              "station_id": "1",
-              "variant_id": "rc-pairs"
-            },
-            {
-              "group_id": "C",
-              "station_id": "2",
-              "variant_id": "rc-two-one"
-            }
+            {"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"},
+            {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}
           ]
         }
       ]
     },
     {
-      "kind": "BREAK",
-      "duration_min": 10,
-      "label": "Récréation surveillée"
-    },
-    {
-      "kind": "BRIEFING",
-      "duration_min": 5,
-      "label": "Eau et rappel de l’objectif"
-    },
-    {
       "kind": "OPPOSITION",
-      "duration_min": 20,
-      "label": "Opposition à choisir selon les règles du club",
+      "label": "Opposition de clôture",
+      "duration_min": 30,
       "variant_ids": []
-    },
-    {
-      "kind": "OPPOSITION",
-      "duration_min": 7,
-      "label": "Reprise avec une consigne ciblée",
-      "variant_ids": []
-    },
-    {
-      "kind": "COOLDOWN",
-      "duration_min": 5,
-      "label": "Retour au calme et bilan"
     }
   ],
   "pending_decisions": [
-    "Choisir l’échauffement et le jeu d’opposition.",
+    "Choisir les activités d'opposition et d'ateliers.",
     "Confirmer matériel, dimensions et mode de contact autorisé.",
-    "Ajuster les effectifs et le nombre d’éducateurs au jour de séance."
+    "Ajuster les effectifs et le nombre d'éducateurs au jour de séance."
   ],
-  "note": "Exemple structurel repris de docs/SEANCE_EXEMPLE.md. Paramètres proposés, pas une séance validée ni prête à lancer."
+  "note": "Exemple structurel de la trame de référence du 17 novembre : 70 minutes planifiées sur un créneau de 90 minutes (20 minutes d'opposition, 20 minutes d'ateliers en deux rotations de 10 minutes, 30 minutes d'opposition), sans récréation fixe. Paramètres proposés, pas une séance validée ni prête à lancer."
 }

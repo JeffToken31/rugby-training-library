@@ -16,7 +16,7 @@ La trame U8 de référence prévoit environ 70 minutes sur un créneau de 90 min
 | Arbitrages et questions ouvertes | [Journal des décisions](docs/DECISIONS.md) |
 | Données exposées et contrôles existants | [Contrat de lecture application](docs/CONTRAT_APPLICATION.md) |
 
-En cas de contradiction avec un document historique, la documentation active référencée ici prévaut. Le périmètre et l’interface décrivent le **produit visé**. Le contrat décrit le **socle actuel** et indique l’écart de minutage à examiner avant le développement.
+En cas de contradiction avec un document historique, la documentation active référencée ici prévaut. Le périmètre et l’interface décrivent le **produit visé**. Le contrat décrit le **socle actuel** et sa représentation du créneau.
 
 Le MVP s’arrête à la bibliothèque et à la préparation de séances. L’assistance IA est une évolution envisagée. La gestion des enfants, des parents, des clubs et de la saison est hors périmètre.
 
