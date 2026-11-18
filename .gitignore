@@ -8,3 +8,8 @@ data/*.sqlite-*
 
 # Captures locales ; droits et volume à examiner avant partage
 data/raw/
+
+# Front — produits de build non versionnés
+web/node_modules/
+web/.next/
+web/out/

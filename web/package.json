@@ -1,0 +1,22 @@
+{
+  "name": "rugby-training-library-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Front catalogue mobile — Next.js export statique, servi par webapp.py (lot 1)",
+  "scripts": {
+    "dev": "next dev -p 8348",
+    "build": "next build",
+    "start": "next start -p 8348"
+  },
+  "dependencies": {
+    "next": "15.5.29",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "typescript": "5.5.4",
+    "@types/node": "20.14.10",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0"
+  }
+}
