@@ -124,7 +124,15 @@ class WebappApiTests(unittest.TestCase):
     # /api/recherche
     # ------------------------------------------------------------------
     def test_recherche_default_no_params(self):
+        # Défaut produit (2026-11-18) : les fiches incomplètes sont
+        # affichées, badge d'état à l'appui.
         code, body = call_json("/api/recherche")
+        self.assertEqual(code, 200)
+        self.assertEqual(body["count"], 158)
+        self.assertEqual(len(body["cards"]), 158)
+
+    def test_recherche_hide_incomplete(self):
+        code, body = call_json("/api/recherche", query="include_incomplete=false")
         self.assertEqual(code, 200)
         self.assertEqual(body["count"], 149)
         self.assertEqual(len(body["cards"]), 149)
@@ -139,10 +147,13 @@ class WebappApiTests(unittest.TestCase):
             self.assertEqual([c["id"] for c in body["cards"]], expected, f"q={q!r}")
 
     def test_recherche_matches_exercise_tags_select_all(self):
+        # Parité explicite sur l'ensemble visible (incomplètes masquées) :
+        # le défaut produit « incomplètes affichées » est testé ailleurs.
         tag_ids = ["skill:passe", "format:surnombre"]
         expected = [e["id"] for e in tags.select(self.payload, tag_ids)]
         code, body = call_json(
-            "/api/recherche", query="tags=skill%3Apasse,format%3Asurnombre&match=all"
+            "/api/recherche",
+            query="tags=skill%3Apasse,format%3Asurnombre&match=all&include_incomplete=false",
         )
         self.assertEqual(code, 200)
         self.assertEqual([c["id"] for c in body["cards"]], expected)
@@ -151,7 +162,8 @@ class WebappApiTests(unittest.TestCase):
         tag_ids = ["skill:passe", "format:surnombre"]
         expected = [e["id"] for e in tags.select(self.payload, tag_ids, "any")]
         code, body = call_json(
-            "/api/recherche", query="tags=skill%3Apasse,format%3Asurnombre&match=any"
+            "/api/recherche",
+            query="tags=skill%3Apasse,format%3Asurnombre&match=any&include_incomplete=false",
         )
         self.assertEqual(code, 200)
         self.assertEqual([c["id"] for c in body["cards"]], expected)

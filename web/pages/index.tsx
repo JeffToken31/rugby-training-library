@@ -23,7 +23,9 @@ export default function Home() {
   const [selectedTags, setSelectedTags] = useState<string[]>([]);
   const [match, setMatch] = useState<"all" | "any">("all");
   const [warmupOnly, setWarmupOnly] = useState(false);
-  const [showIncomplete, setShowIncomplete] = useState(false);
+  // Défaut produit (décision coach 2026-11-18) : les fiches incomplètes sont
+  // affichées avec leur badge d'état ; l'interrupteur sert à les masquer.
+  const [showIncomplete, setShowIncomplete] = useState(true);
   const [filtersOpen, setFiltersOpen] = useState(false);
   const [visibleCount, setVisibleCount] = useState(PAGE);
 
@@ -124,7 +126,7 @@ export default function Home() {
     setSelectedTags([]);
     setMatch("all");
     setWarmupOnly(false);
-    setShowIncomplete(false);
+    setShowIncomplete(true); // retour au défaut produit : tout afficher
     setQuery("");
   };
 
@@ -203,8 +205,8 @@ export default function Home() {
               <>
                 <p>
                   {hiddenIncomplete === 1
-                    ? "1 fiche incomplète correspond à ces critères mais est masquée par défaut."
-                    : `${hiddenIncomplete} fiches incomplètes correspondent à ces critères mais sont masquées par défaut.`}
+                    ? "1 fiche incomplète correspond à ces critères mais est masquée par l'interrupteur « Afficher les fiches incomplètes »."
+                    : `${hiddenIncomplete} fiches incomplètes correspondent à ces critères mais sont masquées par l'interrupteur « Afficher les fiches incomplètes ».`}
                 </p>
                 <button className="load-more-btn" onClick={() => setShowIncomplete(true)}>
                   Inclure les fiches incomplètes

@@ -70,13 +70,14 @@ def _search_match(query_folded, e):
     )
 
 
-def select_catalogue(query=None, tag_ids=(), match="all", include_incomplete=False, usage=None):
+def select_catalogue(query=None, tag_ids=(), match="all", include_incomplete=True, usage=None):
     """Filtrer la vue catalogue.
 
     La sémantique des tags est identique à exercise_tags.select :
     « all » = tous les tags demandés présents ; « any » = au moins un ;
-    les fiches incomplètes n'apparaissent que si include_incomplete ;
-    usage = « WARMUP » restreint à session_uses.
+    les fiches incomplètes sont affichées par défaut (défaut produit :
+    tout le catalogue, avec badge d'état) ; usage = « WARMUP » restreint
+    à session_uses.
     """
     wanted = [t for t in tag_ids if t]
     qf = fold(query) if query else ""
@@ -279,7 +280,9 @@ def application(environ, start_response):
         tags = [t for t in (qs.get("tags") or [""])[0].split(",") if t]
         raw_match = (qs.get("match") or ["all"])[0]
         match = raw_match if raw_match in ("all", "any") else "all"
-        include_incomplete = (qs.get("include_incomplete") or ["false"])[0].lower() in ("1", "true", "oui")
+        # Défaut produit : les fiches incomplètes sont affichées (avec leur
+        # badge d'état). `include_incomplete=false` les masque.
+        include_incomplete = (qs.get("include_incomplete") or ["true"])[0].lower() not in ("0", "false", "non")
         raw_usage = (qs.get("usage") or [""])[0]
         usage = raw_usage or None
         results = select_catalogue(query=query, tag_ids=tags, match=match,
