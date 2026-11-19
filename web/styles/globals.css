@@ -1099,3 +1099,45 @@ input {
   font-size: 13px;
   color: var(--ink-3);
 }
+
+/* ---- Lot 4 : sauvegarde et reprise ------------------------------------- */
+
+/* Bandeau de reprise : un brouillon existe, on choisit explicitement. */
+.draft-banner {
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--accent-soft);
+}
+
+.draft-banner p {
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+
+.draft-banner-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.draft-banner-actions .reset-btn {
+  flex: 1;
+}
+
+.seance-save {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--bg);
+}
+
+.save-status {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.seance-save .check-actions .reset-btn {
+  flex: 1;
+}

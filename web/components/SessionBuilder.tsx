@@ -8,9 +8,13 @@
 // Le picker n'attribue que : un slot qui porte un exercice le conserve
 // jusqu'à ce qu'on le remplace (jamais de variant_id null → pas
 // d'« Exercice inconnu : None » côté serveur).
-// Aucune persistance au lot 3 (lot 4 : sauvegarde et reprise).
+// Lot 4 : le brouillon est sauvegardé à chaud dans localStorage (un seul par
+// navigateur), proposé à la réouverture dans un bandeau (reprendre / repartir
+// de la trame U8) — jamais de perte silencieuse. L'export/import est du JSON
+// brut, même contrat que le validateur. Aucun write serveur.
 
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useMemo, useRef, useState } from "react";
+import type { ChangeEvent } from "react";
 import type {
   Card,
   CatalogueView,
@@ -19,6 +23,8 @@ import type {
   SessionPlan,
 } from "../lib/types";
 import { fetchTrameU8, validerSeance } from "../lib/api";
+import { clearDraft, loadDraft, parseImport, saveDraft } from "../lib/draft";
+import type { SavedDraft } from "../lib/draft";
 import { selectCards } from "../lib/filter";
 import { BADGE_LABELS, cardDurationLabel } from "../lib/format";
 import { etatParIdDe, KIND_LABELS, validerLocale } from "../lib/session";
@@ -37,6 +43,13 @@ function clonePlan(plan: SessionPlan): SessionPlan {
   return structuredClone(plan);
 }
 
+// Horodatage lisible d'une sauvegarde (ISO → « 19/11/2026, 14:03 »).
+function savedLabel(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toLocaleString("fr-FR", { hour12: false });
+}
+
 export default function SessionBuilder({ view }: { view: CatalogueView | null }) {
   const [plan, setPlan] = useState<SessionPlan | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
@@ -47,10 +60,25 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
   const [checking, setChecking] = useState(false);
   const [serverError, setServerError] = useState<string | null>(null);
 
+  // Lot 4 — persistance client (localStorage) : la trame de départ est
+  // conservée pour pouvoir y repartir ; un brouillon existant est proposé
+  // dans un bandeau avant de continuer (jamais de perte silencieuse).
+  const [initialDraft, setInitialDraft] = useState<SessionPlan | null>(null);
+  const [pendingDraft, setPendingDraft] = useState<SavedDraft | null>(null);
+  const [savedAt, setSavedAt] = useState<string | null>(null);
+  const [importError, setImportError] = useState<string | null>(null);
+  const fileRef = useRef<HTMLInputElement>(null);
+
   useEffect(() => {
     let live = true;
     fetchTrameU8()
-      .then((p) => live && setPlan(p))
+      .then((p) => {
+        if (!live) return;
+        setInitialDraft(clonePlan(p));
+        setPlan(p);
+        const d = loadDraft();
+        if (d) setPendingDraft(d);
+      })
       .catch((e: Error) => live && setLoadError(e.message));
     return () => {
       live = false;
@@ -76,6 +104,7 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
 
   // Mutation du plan : copie profonde, application, resynchronisation de la
   // durée totale (somme des blocs) pour rester cohérent avec le validateur.
+  // Le brouillon est sauvegardé à chaud (localStorage) après chaque mutation.
   const updatePlan = (fn: (draft: SessionPlan) => void) => {
     if (!plan) return;
     const draft = clonePlan(plan);
@@ -85,6 +114,8 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
       0
     );
     setPlan(draft);
+    const t = saveDraft(draft);
+    if (t) setSavedAt(t);
     setServerCheck(null);
     setServerTime(null);
   };
@@ -202,6 +233,79 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
     ? selectCards(cards, { query: pickerQuery, includeIncomplete: true })
     : [];
 
+  // --- Lot 4 : reprise / export / import / effacement du brouillon. ---
+
+  // Applique un plan (reprise, import, trame) et remet à zéro les états
+  // dépendants : résultat serveur, picker, erreur d'import.
+  const applyPlan = (p: SessionPlan) => {
+    setPlan(clonePlan(p));
+    setServerCheck(null);
+    setServerTime(null);
+    setServerError(null);
+    setPicker(null);
+    setPickerQuery("");
+  };
+
+  const resumeDraft = () => {
+    if (!pendingDraft) return;
+    applyPlan(pendingDraft.plan);
+    setSavedAt(pendingDraft.saved_at || null);
+    setPendingDraft(null);
+    setImportError(null);
+  };
+
+  // Repartir de la trame U8 : le brouillon est effacé (action explicite,
+  // jamais silencieuse) et la trame de départ est réappliquée.
+  const restartFromTrame = () => {
+    if (!initialDraft) return;
+    clearDraft();
+    applyPlan(initialDraft);
+    setSavedAt(null);
+    setPendingDraft(null);
+    setImportError(null);
+  };
+
+  // Export : le plan brut (même contrat que le validateur) en fichier JSON.
+  const exportDraft = () => {
+    if (!plan) return;
+    const blob = new Blob([JSON.stringify(plan, null, 2)], {
+      type: "application/json",
+    });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    const d = new Date();
+    const pad = (n: number) => String(n).padStart(2, "0");
+    a.href = url;
+    a.download = `seance-${d.getFullYear()}-${pad(d.getMonth() + 1)}-${pad(d.getDate())}.json`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+  };
+
+  const onImportFile = (e: ChangeEvent<HTMLInputElement>) => {
+    const file = e.target.files?.[0];
+    e.target.value = ""; // permet de ré-importer le même fichier
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = () => {
+      const p = parseImport(String(reader.result ?? ""));
+      if (!p) {
+        setImportError(
+          "Fichier invalide : attendu un plan de séance JSON (export de cette application)."
+        );
+        return;
+      }
+      applyPlan(p);
+      const t = saveDraft(p);
+      if (t) setSavedAt(t);
+      setPendingDraft(null);
+      setImportError(null);
+    };
+    reader.onerror = () => setImportError("Lecture du fichier impossible.");
+    reader.readAsText(file);
+  };
+
   if (loadError) {
     return (
       <div className="empty">
@@ -222,6 +326,23 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
 
   return (
     <div className="seance">
+      {pendingDraft && (
+        <div className="draft-banner" role="alert">
+          <p>
+            Brouillon sauvegardé
+            {pendingDraft.saved_at ? ` le ${savedLabel(pendingDraft.saved_at)}` : ""} —
+            le reprendre, ou repartir de la trame U8 ?
+          </p>
+          <div className="draft-banner-actions">
+            <button className="apply-btn" onClick={resumeDraft}>
+              Reprendre le brouillon
+            </button>
+            <button className="reset-btn" onClick={restartFromTrame}>
+              Repartir de la trame U8
+            </button>
+          </div>
+        </div>
+      )}
       <section className="seance-head">
         <label className="field">
           <span className="field-label">Titre de la séance</span>
@@ -554,6 +675,34 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
             )}
           </div>
         )}
+      </section>
+
+      <section className="seance-save">
+        <h2>Sauvegarde et reprise</h2>
+        <p className="save-status" aria-live="polite">
+          {savedAt
+            ? `Brouillon sauvegardé le ${savedLabel(savedAt)} (ce navigateur).`
+            : "Aucun brouillon sauvegardé pour l'instant."}
+        </p>
+        <div className="check-actions">
+          <button className="apply-btn" onClick={exportDraft}>
+            ⬇ Exporter (JSON)
+          </button>
+          <button className="reset-btn" onClick={() => fileRef.current?.click()}>
+            ⬆ Importer (JSON)
+          </button>
+          <button className="reset-btn" onClick={restartFromTrame}>
+            Effacer et repartir de la trame U8
+          </button>
+        </div>
+        <input
+          ref={fileRef}
+          type="file"
+          accept="application/json,.json"
+          hidden
+          onChange={onImportFile}
+        />
+        {importError && <p className="check-err-text">{importError}</p>}
       </section>
 
       {picker && (
