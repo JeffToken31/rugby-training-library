@@ -207,3 +207,67 @@ export interface CatalogueView {
   warmup_collection: WarmupCollection;
   cards: Card[];
 }
+
+// ---------------------------------------------------------------------------
+// Lot 3 — brouillon de séance (data/session-draft.example.json, webapp.py).
+// Miroir du contrat de session_plan.py.
+// ---------------------------------------------------------------------------
+
+export type BlockKind = "OPPOSITION" | "WORKSHOPS" | "JEU" | "WARMUP" | "PAUSE";
+
+export interface SessionGroup {
+  id: string;
+  players: number;
+}
+
+export interface SessionSlot {
+  group_id: string;
+  station_id: string;
+  variant_id: string | null;
+}
+
+export interface SessionRound {
+  work_min: number;
+  transition_min: number;
+  assignments: SessionSlot[];
+}
+
+export interface SessionBlock {
+  kind: BlockKind;
+  label: string;
+  duration_min: number | null;
+  variant_ids: string[];
+  rounds?: SessionRound[];
+}
+
+export interface SessionPlan {
+  schema_version?: number;
+  id: string;
+  title: string;
+  status?: string;
+  origin?: string;
+  duration_min: number | null;
+  creneau_min: number;
+  players: number;
+  coaches?: number;
+  groups: SessionGroup[];
+  objective?: string | null;
+  blocks: SessionBlock[];
+  pending_decisions?: string[];
+  note?: string | null;
+}
+
+export interface MinutageDerivee {
+  creneau_min: number;
+  planifie_min: number;
+  marge_min: number;
+  opposition_min: number;
+  partiel: boolean;
+}
+
+export interface SeanceCheck {
+  valide: boolean;
+  erreurs: string[];
+  avertissements: string[];
+  minutage: MinutageDerivee;
+}

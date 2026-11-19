@@ -10,6 +10,7 @@ import { selectCards } from "../lib/filter";
 import CatalogCard from "../components/CatalogCard";
 import FicheDetail from "../components/FicheDetail";
 import FiltersSheet from "../components/FiltersSheet";
+import SessionBuilder from "../components/SessionBuilder";
 
 const PAGE = 30; // 158 fiches : on n'affiche pas tout d'un coup (maquette).
 
@@ -32,6 +33,10 @@ export default function Home() {
   const [selectedCard, setSelectedCard] = useState<Card | null>(null);
   const [selectedFiche, setSelectedFiche] = useState<Fiche | null>(null);
   const [ficheError, setFicheError] = useState<string | null>(null);
+
+  // Lot 3 : le constructeur de séance s'ouvre par le CTA bas (pas de routing
+  // client, comme la fiche) ; le retour passe par la flèche du header.
+  const [seanceOpen, setSeanceOpen] = useState(false);
 
   const [theme, setTheme] = useState<Theme>("light");
 
@@ -137,8 +142,12 @@ export default function Home() {
     <div className="app">
       <header className="app-header">
         <div className="app-title-row">
-          {selectedCard && (
-            <button className="back-btn" onClick={closeFiche} aria-label="Retour au catalogue">
+          {(selectedCard || seanceOpen) && (
+            <button
+              className="back-btn"
+              onClick={() => (selectedCard ? closeFiche() : setSeanceOpen(false))}
+              aria-label="Retour au catalogue"
+            >
               ←
             </button>
           )}
@@ -152,7 +161,7 @@ export default function Home() {
           </button>
         </div>
 
-        {!selectedCard && (
+        {!selectedCard && !seanceOpen && (
           <>
             <input
               className="search-input"
@@ -185,6 +194,8 @@ export default function Home() {
       <main className="app-main">
         {selectedCard ? (
           <FicheDetail fiche={selectedFiche} tagLabels={tagLabels} error={ficheError} />
+        ) : seanceOpen ? (
+          <SessionBuilder view={view} />
         ) : loadError ? (
           <div className="empty">
             <h2>Catalogue indisponible</h2>
@@ -256,6 +267,13 @@ export default function Home() {
             setFiltersOpen(false);
           }}
         />
+      )}
+
+      {/* CTA fixe : le constructeur n'est accessible que depuis la liste. */}
+      {!selectedCard && !seanceOpen && (
+        <div className="bottom-cta">
+          <button onClick={() => setSeanceOpen(true)}>Nouvelle séance</button>
+        </div>
       )}
     </div>
   );

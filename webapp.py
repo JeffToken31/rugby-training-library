@@ -16,6 +16,12 @@ Routes :
                                 include_incomplete=true, usage=WARMUP
                                 (sémantique identique à exercise_tags.select)
   GET /api/fiches/<id>        → fiche complète (404 si absente)
+  GET /api/seances/trame-u8   → trame de référence U8 70/90, préremplie
+                                (data/session-draft.example.json)
+  POST /api/seances/valider   → validation d'un brouillon de séance (JSON) :
+                                erreurs bloquantes, avertissements non
+                                bloquants, minutage dérivée (marge, total
+                                d'opposition)
   GET /*                      → front statique (web/out/), fallback index.html
 """
 
@@ -28,8 +34,11 @@ from urllib.parse import parse_qs, unquote
 
 from wsgiref.simple_server import make_server
 
+import session_plan
+
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(APP_DIR, "exports", "APPLICATION.json")
+DRAFT_PATH = os.path.join(APP_DIR, "data", "session-draft.example.json")
 STATIC_DIR = os.path.join(APP_DIR, "web", "out")
 HOST = "0.0.0.0"
 PORT = 8347
@@ -51,6 +60,20 @@ def _load_payload():
 PAYLOAD = _load_payload()
 EXERCISES = PAYLOAD["exercises"]
 BY_ID = {e["id"]: e for e in EXERCISES}
+
+
+def _load_draft():
+    """Trame de référence U8 (brouillon 70/90), lue à froid au démarrage.
+
+    Le brouillon est un gabarit de départ pour la vue « Nouvelle séance »,
+    pas une séance validée ni prête à lancer : les réglages (durées,
+    effectifs, organisation) restent à ajuster dans la séance (lot 3).
+    """
+    with open(DRAFT_PATH, "r", encoding="utf-8") as fh:
+        return json.load(fh)
+
+
+TRAME_U8 = _load_draft()
 
 
 def fold(text):
@@ -204,6 +227,56 @@ def catalogue_view():
     }
 
 
+def valider_seance(plan):
+    """Valider un brouillon de séance et retourner le détail pour l'UI.
+
+    `session_plan.validate` renvoie une liste mélangée d'erreurs bloquantes
+    (sans préfixe) et d'avertissements (préfixe « Avertissement — »). On les
+    sépare ici : les avertissements sont informatifs (dépassement du créneau,
+    total partiel) et n'empêchent pas la séance ; les erreurs bloquantes
+    l'empêchent. On ajoute la minutage dérivée (marge, opposition).
+    """
+    erreurs = session_plan.validate(plan, PAYLOAD)
+    bloquantes = [m for m in erreurs if not m.startswith("Avertissement")]
+    avertissements = [m for m in erreurs if m.startswith("Avertissement")]
+    return {
+        "valide": not bloquantes,
+        "erreurs": bloquantes,
+        "avertissements": avertissements,
+        "minutage": minutage_derivee(plan),
+    }
+
+
+def minutage_derivee(plan):
+    """Minutage dérivée pour l'affichage, jamais stockée.
+
+    - `creneau_min` : la fenêtre totale (90 min).
+    - `planifie_min` : somme des durées de blocs connues.
+    - `marge_min` : créneau − planifié (peut être négative → dépassement).
+    - `opposition_min` : somme des blocs d'opposition (Jeu inclus, la
+      trame compte « opposition » comme tout bloc de Jeu/Atelier en
+      condition d'opposition).
+    """
+    blocks = plan.get("blocks", [])
+    durees = [b.get("duration_min") for b in blocks]
+    planifie = sum(d for d in durees if isinstance(d, int))
+    creneau = plan.get("creneau_min")
+    if not isinstance(creneau, int):
+        creneau = 0
+    opposition = sum(
+        b.get("duration_min") or 0
+        for b in blocks
+        if b.get("kind") in ("OPPOSITION", "JEU")
+    )
+    return {
+        "creneau_min": creneau,
+        "planifie_min": planifie,
+        "marge_min": creneau - planifie,
+        "opposition_min": opposition,
+        "partiel": any(d is None for d in durees),
+    }
+
+
 # ---------------------------------------------------------------------------
 # WSGI
 # ---------------------------------------------------------------------------
@@ -295,6 +368,23 @@ def application(environ, start_response):
             status, headers, body = _json_response(HTTPStatus.NOT_FOUND, {"error": "fiche introuvable", "id": eid})
         else:
             status, headers, body = _json_response(HTTPStatus.OK, fiche)
+    elif path == "/api/seances/trame-u8":
+        status, headers, body = _json_response(HTTPStatus.OK, TRAME_U8)
+    elif path == "/api/seances/valider":
+        if method != "POST":
+            status, headers, body = _error(405)
+        else:
+            try:
+                length = int(environ.get("CONTENT_LENGTH") or 0)
+                plan = json.loads(environ["wsgi.input"].read(length).decode("utf-8"))
+            except (ValueError, LookupError):
+                plan = None
+            if not isinstance(plan, dict):
+                status, headers, body = _json_response(
+                    HTTPStatus.BAD_REQUEST, {"error": "brouillon de séance JSON attendu"}
+                )
+            else:
+                status, headers, body = _json_response(HTTPStatus.OK, valider_seance(plan))
     elif method == "GET" or method == "HEAD":
         status, headers, body = _static_response(path)
     else:
