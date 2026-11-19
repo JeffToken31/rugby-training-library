@@ -62,6 +62,14 @@ export default function Home() {
     return m;
   }, [view]);
 
+  // Couverture réelle du corpus par tag (fiches incomplètes comprises) :
+  // un tag « Placage (1) » montre la vérité du catalogue, pas un filtre en panne.
+  const tagCounts = useMemo(() => {
+    const m: Record<string, number> = {};
+    for (const c of cards) for (const t of c.tag_ids) m[t] = (m[t] ?? 0) + 1;
+    return m;
+  }, [cards]);
+
   const filtered = useMemo(
     () =>
       selectCards(cards, {
@@ -73,6 +81,20 @@ export default function Home() {
       }),
     [cards, query, selectedTags, match, showIncomplete, warmupOnly]
   );
+
+  // Fiches masquées uniquement par l'interrupteur « incomplètes » : sert à
+  // l'état vide honnête (« 1 fiche incomplète correspond — l'afficher ? »).
+  const hiddenIncomplete = useMemo(() => {
+    if (showIncomplete || filtered.length > 0) return 0;
+    const withAll = selectCards(cards, {
+      query,
+      tagIds: selectedTags,
+      match,
+      includeIncomplete: true,
+      usage: warmupOnly ? "WARMUP" : null,
+    });
+    return withAll.length - filtered.length;
+  }, [cards, query, selectedTags, match, showIncomplete, warmupOnly, filtered.length]);
 
   const shown = filtered.slice(0, visibleCount);
 
@@ -177,10 +199,23 @@ export default function Home() {
         ) : filtered.length === 0 ? (
           <div className="empty">
             <h2>Aucun résultat</h2>
+            {hiddenIncomplete > 0 && (
+              <>
+                <p>
+                  {hiddenIncomplete === 1
+                    ? "1 fiche incomplète correspond à ces critères mais est masquée par défaut."
+                    : `${hiddenIncomplete} fiches incomplètes correspondent à ces critères mais sont masquées par défaut.`}
+                </p>
+                <button className="load-more-btn" onClick={() => setShowIncomplete(true)}>
+                  Inclure les fiches incomplètes
+                </button>
+              </>
+            )}
             <p>
-              {filtersActive
-                ? "Aucune fiche ne correspond à ces critères."
-                : "Le catalogue est vide."}
+              {hiddenIncomplete === 0 &&
+                (filtersActive
+                  ? "Aucune fiche ne correspond à ces critères."
+                  : "Le catalogue est vide.")}
             </p>
             <button className="load-more-btn" onClick={resetFilters}>
               Réinitialiser les filtres
@@ -203,6 +238,7 @@ export default function Home() {
       {filtersOpen && (
         <FiltersSheet
           tags={view?.tag_taxonomy?.tags ?? []}
+          tagCounts={tagCounts}
           selectedTags={selectedTags}
           onToggleTag={toggleTag}
           warmupOnly={warmupOnly}

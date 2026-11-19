@@ -71,7 +71,12 @@ class WebappApiTests(unittest.TestCase):
         code, view = call_json("/api/catalogue")
         self.assertEqual(code, 200)
         self.assertEqual(view["summary"]["records"], 158)
-        self.assertEqual(len(view["cards"]), 149)  # 9 incomplètes masquées par défaut
+        # Le catalogue complet est livré (158 cartes) ; la sélection
+        # « masquer les incomplètes » est réappliquée côté client sur
+        # default_visible. Par défaut : 149 visibles, 9 incomplètes masquées.
+        self.assertEqual(len(view["cards"]), 158)
+        default_visible = [c for c in view["cards"] if c["default_visible"]]
+        self.assertEqual(len(default_visible), 149)
         self.assertEqual(len(view["tag_taxonomy"]["tags"]), 26)
         self.assertEqual(len(view["families"]), 22)
         self.assertTrue(view["policy"]["note"])
@@ -80,9 +85,22 @@ class WebappApiTests(unittest.TestCase):
     def test_catalogue_media_join_official(self):
         code, view = call_json("/api/catalogue")
         # 4 fiches ont une vidéo candidate dans le rattachement officiel ;
-        # 3 d'entre elles sont INCOMPLETES → masquées par défaut.
+        # 3 d'entre elles sont INCOMPLETES (default_visible = False).
         with_video = {c["id"] for c in view["cards"] if c["media"]["video"]}
-        self.assertEqual(with_video, {"ffr-carre2-atelier"})
+        self.assertEqual(
+            with_video,
+            {
+                "ffr-carre-atelier",
+                "ffr-carre2-atelier",
+                "ffr-gazelles-atelier",
+                "ffr-protege-atelier",
+            },
+        )
+        # Seul le carré2 est visible par défaut.
+        visible_video = {
+            c["id"] for c in view["cards"] if c["media"]["video"] and c["default_visible"]
+        }
+        self.assertEqual(visible_video, {"ffr-carre2-atelier"})
         # La capture locale est absente dans la copie mission : indicateur honnête.
         for c in view["cards"]:
             if c["media"]["video"] is not None:

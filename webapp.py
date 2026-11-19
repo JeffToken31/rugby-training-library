@@ -194,7 +194,12 @@ def catalogue_view():
         "policy": PAYLOAD.get("policy"),
         "tag_taxonomy": PAYLOAD.get("tag_taxonomy"),
         "warmup_collection": PAYLOAD.get("warmup_collection"),
-        "cards": select_catalogue(),
+        # Le catalogue complet (fiches non visibles par défaut comprises) :
+        # le front réapplique la même sélection que select_catalogue (miroir
+        # testé dans web/lib/filter.ts) et pilote lui-même l'interrupteur
+        # « incomplètes ». Livrer seulement les visibles rendrait cet
+        # interrupteur hors d'usage côté client.
+        "cards": select_catalogue(include_incomplete=True),
     }
 
 

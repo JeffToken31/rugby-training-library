@@ -1,11 +1,15 @@
 // Feuille de filtres (maquette S2) : compétences (17) / formes de jeu (9) /
 // Échauffements / interrupteur « incomplètes » / mode de combinaison all/any.
 // « Voir N fiche(s) » toujours visible avant de quitter.
+// Chaque tag affiche son compteur : nombre de fiches du catalogue portant ce
+// tag (fiches incomplètes comprises) — un tag à (1) n'a pas l'allure d'un
+// filtre en panne, c'est la couverture réelle du corpus.
 
 import type { Tag } from "../lib/types";
 
 interface Props {
   tags: Tag[];
+  tagCounts: Record<string, number>;
   selectedTags: string[];
   onToggleTag: (id: string) => void;
   warmupOnly: boolean;
@@ -21,6 +25,7 @@ interface Props {
 
 export default function FiltersSheet({
   tags,
+  tagCounts,
   selectedTags,
   onToggleTag,
   warmupOnly,
@@ -43,7 +48,7 @@ export default function FiltersSheet({
       aria-pressed={selectedTags.includes(t.id)}
       onClick={() => onToggleTag(t.id)}
     >
-      {t.label}
+      {t.label} <span className="chip-count">{tagCounts[t.id] ?? 0}</span>
     </button>
   );
 
