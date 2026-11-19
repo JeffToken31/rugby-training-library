@@ -1316,6 +1316,86 @@
       "basis": "Budget proposé pour une brique d’échauffement, non une durée fédérale.",
       "coach_confirmation_required": true,
       "profile_id": "warmup-short"
+    },
+    {
+      "variant_id": "bib-plaquage-tenue",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-plaquage-a-genoux",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-plaquage-balise",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-plaquage-soutien",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-plaquage-relais",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-lutte-arc",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-lutte-avance",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-soule-ramasser",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-ruck-relai",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "bib-lutte-jumelle",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
     }
   ]
 }

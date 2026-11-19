@@ -1536,6 +1536,96 @@
       "discriminant": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.",
       "source_id": "warm-sportnz-kiwidex",
       "locator": "Page imprimée 54 ; page PDF 24"
+    },
+    {
+      "variant_id": "bib-plaquage-tenue",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Prise en tenaille sur le maillot et serrage sans contact violent, en binôme statique.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°1"
+    },
+    {
+      "variant_id": "bib-plaquage-a-genoux",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Ligne de plaquage de tête à pied en position à genoux, sans contact violent, en zigzag de plots.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°2"
+    },
+    {
+      "variant_id": "bib-plaquage-balise",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Plaquage suivi de libération du ballon dans une zone balisée en 2 secondes, puis retour en position de jeu.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°3"
+    },
+    {
+      "variant_id": "bib-plaquage-soutien",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Plaquage à deux : l'ombre plaque le premier contact, le soutien arrive derrière pour ramasser le ballon.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°4"
+    },
+    {
+      "variant_id": "bib-plaquage-relais",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Relais plaquage de plot, ramassage du ballon posé à côté et remise en position, en équipe.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°5"
+    },
+    {
+      "variant_id": "bib-lutte-arc",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Poussée en forme d'arc dans un cercle de plots, jambes fléchies, buste bas, sans tomber.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°1"
+    },
+    {
+      "variant_id": "bib-lutte-avance",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Coordination de poussée en binôme dans un couloir, mains en contact, dans le même sens.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°2"
+    },
+    {
+      "variant_id": "bib-soule-ramasser",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Prise de la soule à deux mains, de face, genoux fléchis, ballon contre le buste, sans contact.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°3"
+    },
+    {
+      "variant_id": "bib-ruck-relai",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Cycle complet au sol : plaquage sur plot, ramassage du ballon posé à côté, remise en jeu par passe.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°4"
+    },
+    {
+      "variant_id": "bib-lutte-jumelle",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Premier contact sur le ballon au sol, disputé entre deux enfants, mise du ballon dans sa zone.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°5"
     }
   ],
   "pair_reviews": [

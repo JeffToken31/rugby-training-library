@@ -2804,6 +2804,158 @@
         "fields.steps"
       ],
       "note": "Usage échauffement attesté séparément par la source."
+    },
+    {
+      "variant_id": "bib-plaquage-tenue",
+      "tag_ids": [
+        "skill:plaquage",
+        "format:duel"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-plaquage-a-genoux",
+      "tag_ids": [
+        "skill:plaquage",
+        "format:duel"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-plaquage-balise",
+      "tag_ids": [
+        "skill:plaquage",
+        "format:circulation"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-plaquage-soutien",
+      "tag_ids": [
+        "skill:plaquage",
+        "skill:soutien",
+        "format:surnombre"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-plaquage-relais",
+      "tag_ids": [
+        "skill:plaquage",
+        "format:relais"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-lutte-arc",
+      "tag_ids": [
+        "skill:lutte",
+        "format:duel"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-lutte-avance",
+      "tag_ids": [
+        "skill:lutte",
+        "format:opposition-collective"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-soule-ramasser",
+      "tag_ids": [
+        "skill:lutte",
+        "skill:ramassage"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-ruck-relai",
+      "tag_ids": [
+        "skill:lutte",
+        "skill:ramassage",
+        "skill:passe"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "bib-lutte-jumelle",
+      "tag_ids": [
+        "skill:lutte",
+        "format:opposition-collective"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-19",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
     }
   ]
 }

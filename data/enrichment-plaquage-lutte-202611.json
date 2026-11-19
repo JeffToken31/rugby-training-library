@@ -1,0 +1,504 @@
+{
+  "enrichments": [
+    {
+      "id": "bib-plaquage-tenue-detail-1",
+      "variant_id": "bib-plaquage-tenue",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Plaquage n°1",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre la prise en tenaille sur le maillot et le geste de serrage sans contact violent ; préparer le plaquage en ligne."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Deux zones de 10 × 10 m ; un ballon par binôme ; chaque binôme se fait face à 2 m."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. Démonstration de la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le contact est limité à la prise en tenaille sur le maillot ; aucun poussé ni tir ; on compte le serrage à voix haute ; on relâche ensemble à la consigne."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "La prise est en tenaille, les mains restent sur les épaules, le serrage est coordonné avec le compte à voix haute."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Prendre le ballon au lieu du maillot ; pousser au lieu de serrer ; relâcher avant la consigne."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "On serre, on ne se bat pas ; la prise se fait sur les épaules, pas sur le ballon ; le serrage est coordonné avec le compte à voix haute."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-plaquage-a-genoux-detail-1",
+      "variant_id": "bib-plaquage-a-genoux",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Plaquage n°2",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre la ligne de plaquage de tête à pied, en position à genoux, sans contact violent ; préparer le geste de plaquage en mouvement."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Zigzag de 6 plots espacés de 2 m par ligne ; un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant debout se relève, remet le ballon et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèchent la chemise."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "La ligne de plaquage est de tête à pied ; la tête reste du côté du ballon ; la hanche serre ; les mains restent sur le maillot."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Prendre le ballon au lieu du maillot ; pousser avec les épaules ; laisser la tête s'éloigner du ballon."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "La tête cherche le ballon, la hanche serre, les mains sèchent la chemise ; on plaque à genoux, on ne pousse pas."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-plaquage-balise-detail-1",
+      "variant_id": "bib-plaquage-balise",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Plaquage n°3",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre le geste de libération après un plaquage : poser le ballon dans la zone balisée en 2 secondes et revenir en position de jeu."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Zone de 15 × 10 m ; 4 balises aux coins ; deux équipes ; un ballon par équipe."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. L'attaquant lance, l'attaquant court, le défenseur plaque. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le plaquage est terminé quand le ballon est posé dans la zone balisée ; on compte la libération à voix haute ; on revient en position avant de relancer."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "La libération est dans la zone balisée en 2 secondes ; le défenseur revient en position ; le ballon est remis en jeu sans perte de temps."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Garder le ballon après le plaquage ; libérer hors de la zone balisée ; ne pas revenir en position."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute ; la position de jeu fait partie du geste."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-plaquage-soutien-detail-1",
+      "variant_id": "bib-plaquage-soutien",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Plaquage n°4",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre à plaquer à deux : l'ombre plaque le premier contact, le soutien arrive derrière pour ramasser le ballon ; préparer le geste de soutien."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Zone de 15 × 15 m ; un attaquant ballon en main ; deux défenseurs, l'un en face, l'autre un mètre derrière ; un ballon par équipe."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : l'attaquant fait un passe-avant avant le plaquage pour tester la réaction de l'ombre."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "L'ombre plaque seul le premier contact ; le soutien arrive sur le ballon, pas sur l'attaquant ; les deux défenseurs restent en relation visuelle."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "L'ombre plaque le premier contact ; le soutien ramasse le ballon ; les deux défenseurs restent en relation ; le ballon est remis en jeu."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Les deux défenseurs plaquent au même endroit ; le soutien arrive trop tard ; les défenseurs perdent le ballon."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "L'ombre plaque, le soutien ramasse ; on ne plaque pas à deux au même endroit ; le soutien arrive sur le ballon, pas sur l'enfant."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-plaquage-relais-detail-1",
+      "variant_id": "bib-plaquage-relais",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Plaquage n°5",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre le geste complet de plaquage, ramassage et remise en position, en relais ; la régularité du geste prime sur la vitesse."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Deux équipes en ligne ; 10 plots espacés de 1 m devant chaque ligne ; un ballon par équipe à la fin de la ligne."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. Le premier enfant plaque le premier plot, ramasse le ballon posé à côté et revient remettre son binôme en position. 2. Le binôme avance d'un plot et plaque ; on enchaîne jusqu'au dernier plot. 3. L'équipe qui a remis tous les enfants en position en premier gagne."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la remise en position se fait sans courir."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le geste de plaquage, ramassage et remise en position est fluide ; le plot est plaqué, pas contourné ; la remise en position est propre."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Contourner le plot au lieu de le plaquer ; courir avant d'avoir remis ; ne pas ramasser le ballon."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le plaquage, le ramassage et la remise font partie du même geste ; la régularité prime sur la vitesse."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-lutte-arc-detail-1",
+      "variant_id": "bib-lutte-arc",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Lutte n°1",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre à pousser avec les jambes sans pencher le buste en avant ; préparer le geste de poussée en arc sans contact violent."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Cercle de 3 m de diamètre délimité par 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. L'enfant « arc » pousse à l'intérieur du cercle en gardant les jambes fléchies et le buste bas. 2. À la consigne, les rôles s'échangent ; celui qui est poussé recule sans tomber. 3. Variantes : pousser vers chaque plot du cercle tour à tour, en comptant les poussées valides."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "La poussée se fait avec les jambes, le buste reste bas ; on recule sur les pas, on ne tombe pas ; le contact est limité à la forme en arc."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Les jambes poussent, le buste ne penche pas ; le poussé recule sans tomber ; les rôles s'échangent proprement."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Pencher le buste en avant ; pousser avec les mains au lieu des jambes ; tomber au lieu de reculer."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas en tête-à-queue."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-lutte-avance-detail-1",
+      "variant_id": "bib-lutte-avance",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Lutte n°2",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre la coordination de poussée en binôme : les deux enfants poussent dans le même sens pour avancer ; la coordination prime sur la force."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Couloir de 3 × 15 m délimité par des plots ; les binômes partent à l'entrée, face à face, mains sur les épaules."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. Les binômes s'avancent en poussant mutuellement dans le sens du couloir, en gardant le contact des mains. 2. On avance jusqu'au plot le plus loin possible ; les rôles s'échangent au centre. 3. Variantes : avancer en reculant (poussée vers l'arrière), puis en latéral."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Les mains restent en contact ; on pousse en marchant, pas en courant ; le couloir est respecté, pas de déviation."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Les deux enfants poussent dans le même sens ; les mains restent en contact ; le binôme avance sans se séparer."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Pousser dans des directions différentes ; lâcher le contact ; courir au lieu de pousser."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "C'est la coordination, pas la force, qui fait avancer ; les mains restent en contact ; on pousse en marchant."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-soule-ramasser-detail-1",
+      "variant_id": "bib-soule-ramasser",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Lutte n°3",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage avant de passer."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Quatre zones de 5 × 5 m ; une soule posée à chaque zone ; un enfant par zone."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège avant de passer au plot suivant. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Deux mains, face au ballon, genoux fléchis ; la soule est contre le buste ; on ne ramasse pas en courant."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "La soule est ramassée à deux mains ; le ballon est contre le buste ; l'enfant est face au ballon, genoux fléchis."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Ramasser d'une main ; tourner le dos au ballon ; courir avant d'avoir pris la soule."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant le passage."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-ruck-relai-detail-1",
+      "variant_id": "bib-ruck-relai",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Lutte n°4",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre le cycle complet au sol : plaquage sur plot, ramassage du ballon posé à côté, remise en jeu par passe ; le ruck est un geste, pas une lutte."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la passe est faite après le ramassage, pas avant."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le cycle plaquage, ramassage et passe est fluide ; les rôles s'échangent proprement ; le ballon est remis en jeu sans perte de temps."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Ramasser avant le plaquage ; passer avant d'avoir ramassé ; les rôles ne s'échangent pas."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    },
+    {
+      "id": "bib-lutte-jumelle-detail-1",
+      "variant_id": "bib-lutte-jumelle",
+      "source_id": "biblio-creation-202611",
+      "actor": "assistant",
+      "checked_on": "2026-11-19",
+      "locator": "Création locale 2026-11 — Lutte n°5",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Apprendre le premier contact sur le ballon : l'enfant va chercher le ballon, pas le partenaire ; le but est la prise, pas la force."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le premier contact est sur le ballon, pas sur l'enfant ; on va chercher le ballon, pas le partenaire ; le ballon est mis dans sa zone pour marquer."
+        },
+        "success_criteria": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le premier contact est sur le ballon ; l'enfant va chercher le ballon, pas le partenaire ; le ballon est mis dans la zone."
+        },
+        "common_errors": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Prendre l'enfant au lieu du ballon ; ne pas mettre le ballon dans la zone ; ne pas échanger les rôles."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "AI_INFERRED",
+          "value": "Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE",
+          "value": null
+        }
+      }
+    }
+  ]
+}
