@@ -1,18 +1,21 @@
-// Page unique du lot 1 : catalogue (S1) + filtres (S2) + fiche (S3) +
-// aucun résultat (S4) + squelettes (S5). Liste en état React (pas de
-// routing client) : pas de 404 au refresh, un seul chargement initial.
-// Recherche et filtres côté client — miroir exact de webapp.select_catalogue.
+// Page principale : catalogue (S1) + filtres (S2) + fiche (S3) +
+// aucun résultat (S4) + squelettes (S5). Liste en état React : pas de
+// 404 au refresh, un seul chargement initial. La seule autre route est
+// « /connexion » (lot 5). Recherche et filtres côté client — miroir exact
+// de webapp.select_catalogue.
 
 import { useEffect, useMemo, useState } from "react";
 import type { CatalogueView, Fiche, Card } from "../lib/types";
 import { fetchCatalogue, fetchFiche } from "../lib/api";
+import { fetchMoi, seDeconnecter } from "../lib/auth";
+import type { Moi } from "../lib/auth";
 import { selectCards } from "../lib/filter";
 import CatalogCard from "../components/CatalogCard";
 import FicheDetail from "../components/FicheDetail";
 import FiltersSheet from "../components/FiltersSheet";
 import SessionBuilder from "../components/SessionBuilder";
 
-const PAGE = 30; // 158 fiches : on n'affiche pas tout d'un coup (maquette).
+const PAGE = 30; // 168 fiches : on n'affiche pas tout d'un coup (maquette).
 
 type Theme = "light" | "dark";
 
@@ -40,15 +43,32 @@ export default function Home() {
 
   const [theme, setTheme] = useState<Theme>("light");
 
+  // Lot 5 : identité du compte courant (null si déconnecté) ; le cookie
+  // HttpOnly est lu par le serveur seul, jamais par le client.
+  const [moi, setMoi] = useState<Moi | null>(null);
+
   useEffect(() => {
     let live = true;
     fetchCatalogue()
       .then((v) => live && setView(v))
       .catch((e: Error) => live && setLoadError(e.message));
+    fetchMoi()
+      .then((m) => live && setMoi(m))
+      .catch(() => live && setMoi(null));
     return () => {
       live = false;
     };
   }, []);
+
+  const deconnexion = async () => {
+    // Sans état côté serveur (jeton signé, cadrage A1) : le serveur efface
+    // le cookie, l'état local suit immédiatement.
+    try {
+      await seDeconnecter();
+    } finally {
+      setMoi(null);
+    }
+  };
 
   // Thème : persisté côté client, jamais de mismatch SSR.
   useEffect(() => {
@@ -152,6 +172,20 @@ export default function Home() {
             </button>
           )}
           <h1 className="app-title">Rugby Training Library</h1>
+          {moi ? (
+            <>
+              <span className="compte-chip" title={`Connecté en tant que ${moi.login}`}>
+                Bonjour {moi.login}
+              </span>
+              <button className="compte-logout" onClick={() => void deconnexion()}>
+                Se déconnecter
+              </button>
+            </>
+          ) : (
+            <a className="compte-link" href="/connexion">
+              Espace coach
+            </a>
+          )}
           <button
             className="theme-btn"
             onClick={() => setTheme((t) => (t === "light" ? "dark" : "light"))}
@@ -195,7 +229,7 @@ export default function Home() {
         {selectedCard ? (
           <FicheDetail fiche={selectedFiche} tagLabels={tagLabels} error={ficheError} />
         ) : seanceOpen ? (
-          <SessionBuilder view={view} />
+          <SessionBuilder view={view} moi={moi} />
         ) : loadError ? (
           <div className="empty">
             <h2>Catalogue indisponible</h2>

@@ -22,7 +22,21 @@ Routes :
                                 erreurs bloquantes, avertissements non
                                 bloquants, minutage dérivée (marge, total
                                 d'opposition)
+  POST /api/auth/inscription  → création de compte (lot 5, A1 : comptes
+                                locaux hors-ligne) ; 201 + cookie de session
+  POST /api/auth/login        → connexion ; 401 à message unique (compte
+                                inconnu / mot de passe erroné indistincts)
+  POST /api/auth/deconnexion  → fin de session (cookie purgé)
+  GET  /api/moi               → compte courant ; 401 sans session
+  GET|PUT|DELETE
+     /api/brouillons[/id]     → brouillons du compte (lot 5, B1) ; 404, pas
+                                403, sur les brouillons d'autrui (C1)
+  GET|POST
+     /api/propositions[/<id>] → propositions de séance du compte (lot 5, D1 :
+                                snapshot immuable + résultat de validation)
   GET /*                      → front statique (web/out/), fallback index.html
+
+Tous les POST acceptent un corps JSON plafonné à 2 Mo (413 au-delà).
 """
 
 import json
@@ -34,6 +48,7 @@ from urllib.parse import parse_qs, unquote
 
 from wsgiref.simple_server import make_server
 
+import app_store
 import session_plan
 
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
@@ -42,6 +57,19 @@ DRAFT_PATH = os.path.join(APP_DIR, "data", "session-draft.example.json")
 STATIC_DIR = os.path.join(APP_DIR, "web", "out")
 HOST = "0.0.0.0"
 PORT = 8347
+
+# Lot 5 — plafond de corps commun à tous les POST (413 au-delà) ; la base
+# d'état est dédiée (data/app.sqlite, gitignorée) et ouverte par requête.
+MAX_BODY = 2 * 1000 * 1000
+
+
+def app_db_path():
+    """Chemin de la base d'état, lu à chaque appel.
+
+    Fonction (pas constante) : les tests fixent RTRL_APP_DB vers un fichier
+    temporaire après l'import du module.
+    """
+    return os.environ.get("RTRL_APP_DB") or os.path.join(APP_DIR, "data", "app.sqlite")
 
 CORE_FIELDS = ("objectives", "organisation", "steps", "instructions")
 CORE_FR = {
@@ -281,17 +309,16 @@ def minutage_derivee(plan):
 # WSGI
 # ---------------------------------------------------------------------------
 
-def _json_response(status, body):
+def _json_response(status, body, set_cookie=None):
     payload = json.dumps(body, ensure_ascii=False).encode("utf-8")
-    return (
-        f"{status.value} {status.phrase}",
-        [
-            ("Content-Type", "application/json; charset=utf-8"),
-            ("Content-Length", str(len(payload))),
-            ("Cache-Control", "no-store"),
-        ],
-        [payload],
-    )
+    headers = [
+        ("Content-Type", "application/json; charset=utf-8"),
+        ("Content-Length", str(len(payload))),
+        ("Cache-Control", "no-store"),
+    ]
+    if set_cookie is not None:
+        headers.append(("Set-Cookie", set_cookie))
+    return f"{status.value} {status.phrase}", headers, [payload]
 
 
 def _static_response(path):
@@ -341,6 +368,215 @@ def _error(code):
     )
 
 
+# ---------------------------------------------------------------------------
+# Lot 5 — authentification et état applicatif (app_store)
+# ---------------------------------------------------------------------------
+
+def _cookie_value(environ, name):
+    """Valeur du cookie `name` dans HTTP_COOKIE, ou None."""
+    for part in environ.get("HTTP_COOKIE", "").split(";"):
+        key, _, value = part.strip().partition("=")
+        if key == name:
+            return value
+    return None
+
+
+def _session_cookie(token):
+    """Cookie de session : HttpOnly (jamais lisible par le front), SameSite=Lax."""
+    return (
+        f"{app_store.COOKIE_NAME}={token}; HttpOnly; Path=/; "
+        f"SameSite=Lax; Max-Age={app_store.SESSION_SECONDS}"
+    )
+
+
+def _clear_session_cookie():
+    return f"{app_store.COOKIE_NAME}=; HttpOnly; Path=/; SameSite=Lax; Max-Age=0"
+
+
+def _require_account(environ, store):
+    """Compte (dict) si le cookie de session est valide, sinon None."""
+    account_id = store.check_session_token(_cookie_value(environ, app_store.COOKIE_NAME))
+    if account_id is None:
+        return None
+    return store.get_account(account_id)
+
+
+def _read_json_body(environ):
+    """Corps JSON borné : (HTTPStatus, {"error": …}) en cas d'échec,
+    (None, valeur) sinon. Plafond commun à tous les POST (2 Mo)."""
+    try:
+        length = int(environ.get("CONTENT_LENGTH") or 0)
+    except ValueError:
+        length = 0
+    if length > MAX_BODY:
+        return HTTPStatus(413), {"error": "Corps de requête trop volumineux (2 Mo maximum)."}
+    raw = environ["wsgi.input"].read(length) if length else b""
+    if not raw:
+        return HTTPStatus.BAD_REQUEST, {"error": "Corps de requête vide."}
+    try:
+        return None, json.loads(raw.decode("utf-8"))
+    except (ValueError, UnicodeDecodeError):
+        return HTTPStatus.BAD_REQUEST, {"error": "Corps JSON invalide."}
+
+
+def _route_inscription(environ):
+    """POST /api/auth/inscription → 201 + cookie de session (A1)."""
+    err, data = _read_json_body(environ)
+    if err is not None:
+        return _json_response(err, data)
+    if not isinstance(data, dict):
+        return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identifiant et mot de passe requis."})
+    login = data.get("login")
+    password = data.get("password")
+    try:
+        app_store.normalize_login(login)
+    except ValueError:
+        return _json_response(
+            HTTPStatus.BAD_REQUEST,
+            {"error": "Identifiant invalide (2 à 32 caractères : lettres, chiffres, « . _ - », sans espace ni accent)."},
+        )
+    if not app_store.password_ok(password):
+        return _json_response(
+            HTTPStatus.BAD_REQUEST,
+            {"error": "Mot de passe invalide (8 caractères minimum, 128 maximum)."},
+        )
+    with app_store.AppStore(app_db_path()) as store:
+        try:
+            compte = store.create_account(login, password)
+        except app_store.AccountExists:
+            return _json_response(HTTPStatus.CONFLICT, {"error": "Cet identifiant est déjà utilisé."})
+        token = store.make_session_token(compte["id"])
+    return _json_response(
+        HTTPStatus.CREATED,
+        {"login": compte["login"], "created_at": compte["created_at"]},
+        _session_cookie(token),
+    )
+
+
+def _route_login(environ):
+    """POST /api/auth/login → 200 + cookie, ou 401 à message unique
+    (compte inconnu / mot de passe erroné indistincts, anti-énumération)."""
+    err, data = _read_json_body(environ)
+    if err is not None:
+        return _json_response(err, data)
+    if not isinstance(data, dict):
+        return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identifiant et mot de passe requis."})
+    with app_store.AppStore(app_db_path()) as store:
+        compte = store.authenticate(data.get("login"), data.get("password"))
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Identifiant ou mot de passe incorrect."})
+        token = store.make_session_token(compte["id"])
+    return _json_response(HTTPStatus.OK, {"login": compte["login"]}, _session_cookie(token))
+
+
+def _route_deconnexion(environ):
+    """POST /api/auth/deconnexion → purge du cookie (déconnexion = retrait)."""
+    return _json_response(HTTPStatus.OK, {"ok": True}, _clear_session_cookie())
+
+
+def _route_moi(environ):
+    """GET /api/moi → compte courant, ou 401 sans session."""
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+    if compte is None:
+        return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+    return _json_response(HTTPStatus.OK, {"login": compte["login"], "created_at": compte["created_at"]})
+
+
+def _route_brouillons(environ):
+    """GET /api/brouillons ; GET|PUT|DELETE /api/brouillons/<id> (B1, C1)."""
+    method = environ.get("REQUEST_METHOD", "GET")
+    parts = [unquote(p) for p in environ["PATH_INFO"].split("/") if p]
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        if len(parts) == 2:
+            if method != "GET":
+                return _error(405)
+            return _json_response(HTTPStatus.OK, {"brouillons": store.list_drafts(compte["id"])})
+        if len(parts) != 3:
+            return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identifiant de brouillon invalide."})
+        draft_id = parts[2]
+        if not app_store.draft_id_ok(draft_id):
+            return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identifiant de brouillon invalide."})
+        if method == "GET":
+            brouillon = store.get_draft(compte["id"], draft_id)
+            if brouillon is None:
+                return _json_response(HTTPStatus.NOT_FOUND, {"error": "Brouillon introuvable."})
+            return _json_response(HTTPStatus.OK, brouillon)
+        if method == "PUT":
+            err, data = _read_json_body(environ)
+            if err is not None:
+                return _json_response(err, data)
+            if not isinstance(data, dict) or not isinstance(data.get("plan"), dict):
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Plan de séance requis (objet JSON)."})
+            titre = data.get("titre")
+            if not (isinstance(titre, str) and titre.strip()):
+                existing = store.get_draft(compte["id"], draft_id)
+                plan_title = data["plan"].get("title")
+                if existing is not None:
+                    titre = existing["titre"]
+                elif isinstance(plan_title, str) and plan_title.strip():
+                    titre = plan_title
+                else:
+                    titre = "Séance"
+            return _json_response(
+                HTTPStatus.OK,
+                store.upsert_draft(compte["id"], draft_id, titre.strip(), data["plan"]),
+            )
+        if method == "DELETE":
+            store.delete_draft(compte["id"], draft_id)
+            return _json_response(HTTPStatus.OK, {"ok": True})
+        return _error(405)
+
+
+def _route_propositions(environ):
+    """GET|POST /api/propositions ; GET /api/propositions/<id> (B1, D1)."""
+    method = environ.get("REQUEST_METHOD", "GET")
+    parts = [unquote(p) for p in environ["PATH_INFO"].split("/") if p]
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        if len(parts) == 2:
+            if method == "GET":
+                return _json_response(HTTPStatus.OK, {"propositions": store.list_proposals(compte["id"])})
+            if method == "POST":
+                err, data = _read_json_body(environ)
+                if err is not None:
+                    return _json_response(err, data)
+                if not isinstance(data, dict) or not isinstance(data.get("plan"), dict):
+                    return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Plan de séance requis (objet JSON)."})
+                titre = data.get("titre")
+                if not (isinstance(titre, str) and titre.strip()):
+                    plan_title = data["plan"].get("title")
+                    titre = plan_title if isinstance(plan_title, str) and plan_title.strip() else "Séance"
+                check = valider_seance(data["plan"])
+                res = store.save_proposal(compte["id"], titre.strip(), data["plan"], check)
+                return _json_response(
+                    HTTPStatus.CREATED,
+                    {
+                        "id": res["id"],
+                        "titre": res["titre"],
+                        "valide": res["valide"],
+                        "erreurs": check["erreurs"],
+                        "avertissements": check["avertissements"],
+                        "minutage": check["minutage"],
+                        "saved_at": res["saved_at"],
+                    },
+                )
+            return _error(405)
+        if len(parts) == 3 and parts[2].isdigit():
+            if method != "GET":
+                return _error(405)
+            prop = store.get_proposal(compte["id"], int(parts[2]))
+            if prop is None:
+                return _json_response(HTTPStatus.NOT_FOUND, {"error": "Proposition introuvable."})
+            return _json_response(HTTPStatus.OK, prop)
+        return _json_response(HTTPStatus.NOT_FOUND, {"error": "Proposition introuvable."})
+
+
 def application(environ, start_response):
     path = environ.get("PATH_INFO", "/")
     method = environ.get("REQUEST_METHOD", "GET")
@@ -374,17 +610,35 @@ def application(environ, start_response):
         if method != "POST":
             status, headers, body = _error(405)
         else:
-            try:
-                length = int(environ.get("CONTENT_LENGTH") or 0)
-                plan = json.loads(environ["wsgi.input"].read(length).decode("utf-8"))
-            except (ValueError, LookupError):
-                plan = None
-            if not isinstance(plan, dict):
+            err, plan = _read_json_body(environ)
+            if err is not None:
+                status, headers, body = _json_response(err, plan)
+            elif not isinstance(plan, dict):
                 status, headers, body = _json_response(
                     HTTPStatus.BAD_REQUEST, {"error": "brouillon de séance JSON attendu"}
                 )
             else:
                 status, headers, body = _json_response(HTTPStatus.OK, valider_seance(plan))
+    elif path in ("/api/auth/inscription", "/api/auth/login", "/api/auth/deconnexion"):
+        # 405 explicite : sans cette branche, un GET tomberait dans le
+        # fallback statique (index.html, 200).
+        if method != "POST":
+            status, headers, body = _error(405)
+        elif path == "/api/auth/inscription":
+            status, headers, body = _route_inscription(environ)
+        elif path == "/api/auth/login":
+            status, headers, body = _route_login(environ)
+        else:
+            status, headers, body = _route_deconnexion(environ)
+    elif path == "/api/moi":
+        if method != "GET":
+            status, headers, body = _error(405)
+        else:
+            status, headers, body = _route_moi(environ)
+    elif path == "/api/brouillons" or path.startswith("/api/brouillons/"):
+        status, headers, body = _route_brouillons(environ)
+    elif path == "/api/propositions" or path.startswith("/api/propositions/"):
+        status, headers, body = _route_propositions(environ)
     elif method == "GET" or method == "HEAD":
         status, headers, body = _static_response(path)
     else:

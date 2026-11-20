@@ -11,7 +11,11 @@
 // Lot 4 : le brouillon est sauvegardé à chaud dans localStorage (un seul par
 // navigateur), proposé à la réouverture dans un bandeau (reprendre / repartir
 // de la trame U8) — jamais de perte silencieuse. L'export/import est du JSON
-// brut, même contrat que le validateur. Aucun write serveur.
+// brut, même contrat que le validateur.
+// Lot 5 : si un compte est connecté (prop « moi »), la section « Sauvegarde
+// et reprise » ajoute l'enregistrement sur le compte — brouillons par compte
+// (B1) et propositions immuables validées à l'enregistrement (D1), mêmes API
+// que webapp.py. Le fichier localStorage reste le filet hors connexion.
 
 import { useEffect, useMemo, useRef, useState } from "react";
 import type { ChangeEvent } from "react";
@@ -25,6 +29,15 @@ import type {
 import { fetchTrameU8, validerSeance } from "../lib/api";
 import { clearDraft, loadDraft, parseImport, saveDraft } from "../lib/draft";
 import type { SavedDraft } from "../lib/draft";
+import {
+  chargerBrouillon,
+  creerProposition,
+  listerBrouillons,
+  listerPropositions,
+  sauvegarderBrouillon,
+  supprimerBrouillon,
+} from "../lib/auth";
+import type { BrouillonRef, Moi, Proposition, PropositionRef } from "../lib/auth";
 import { selectCards } from "../lib/filter";
 import { BADGE_LABELS, cardDurationLabel } from "../lib/format";
 import { etatParIdDe, KIND_LABELS, validerLocale } from "../lib/session";
@@ -50,7 +63,13 @@ function savedLabel(iso: string): string {
   return d.toLocaleString("fr-FR", { hour12: false });
 }
 
-export default function SessionBuilder({ view }: { view: CatalogueView | null }) {
+export default function SessionBuilder({
+  view,
+  moi,
+}: {
+  view: CatalogueView | null;
+  moi: Moi | null;
+}) {
   const [plan, setPlan] = useState<SessionPlan | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [picker, setPicker] = useState<PickerTarget | null>(null);
@@ -69,6 +88,16 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
   const [importError, setImportError] = useState<string | null>(null);
   const fileRef = useRef<HTMLInputElement>(null);
 
+  // Lot 5 — persistance par compte (si connecté) : les listes de brouillons
+  // et de propositions sont légères (sans plan, comme l'API) ; le résultat
+  // de la dernière proposition est affiché en place (D1 : snapshot immuable,
+  // validité figée au moment de l'enregistrement).
+  const [brouillons, setBrouillons] = useState<BrouillonRef[]>([]);
+  const [propositions, setPropositions] = useState<PropositionRef[]>([]);
+  const [compteBusy, setCompteBusy] = useState(false);
+  const [compteMsg, setCompteMsg] = useState<string | null>(null);
+  const [propResult, setPropResult] = useState<Proposition | null>(null);
+
   useEffect(() => {
     let live = true;
     fetchTrameU8()
@@ -84,6 +113,23 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
       live = false;
     };
   }, []);
+
+  // Lot 5 : listes du compte au montage (référencées par l'identité « moi »,
+  // jamais d'appel sans session). L'échec se signale dans la section, jamais
+  // de silence.
+  useEffect(() => {
+    let live = true;
+    if (!moi) return;
+    listerBrouillons()
+      .then((l) => live && setBrouillons(l))
+      .catch((e: Error) => live && setCompteMsg(e.message));
+    listerPropositions()
+      .then((l) => live && setPropositions(l))
+      .catch((e: Error) => live && setCompteMsg(e.message));
+    return () => {
+      live = false;
+    };
+  }, [moi]);
 
   const cards: Card[] = view?.cards ?? [];
   const etatParId = useMemo(() => etatParIdDe(cards), [cards]);
@@ -304,6 +350,93 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
     };
     reader.onerror = () => setImportError("Lecture du fichier impossible.");
     reader.readAsText(file);
+  };
+
+  // --- Lot 5 : enregistrements sur le compte (si connecté). ---
+
+  // Upsert par identifiant de séance : le même plan remplace son brouillon,
+  // sans doublon dans la liste (le serveur est la référence).
+  const saveToAccount = async () => {
+    if (!plan || !moi || compteBusy) return;
+    setCompteBusy(true);
+    setCompteMsg(null);
+    setPropResult(null);
+    try {
+      const ref = await sauvegarderBrouillon(plan.id, plan.title, plan);
+      setBrouillons((prev) =>
+        [...prev.filter((b) => b.id !== ref.id), ref].sort((a, b) =>
+          b.saved_at.localeCompare(a.saved_at)
+        )
+      );
+      setCompteMsg(
+        `Séance « ${plan.title} » sauvegardée sur votre compte le ${savedLabel(ref.saved_at)}.`
+      );
+    } catch (e) {
+      setCompteMsg(
+        e instanceof Error ? e.message : "Sauvegarde sur le compte impossible."
+      );
+    } finally {
+      setCompteBusy(false);
+    }
+  };
+
+  // Reprise : le plan complet du brouillon est réappliqué dans le
+  // constructeur (mêmes états remis à zéro que tout autre applyPlan).
+  const reprendreBrouillon = async (id: string) => {
+    if (!moi || compteBusy) return;
+    setCompteBusy(true);
+    setCompteMsg(null);
+    setPropResult(null);
+    try {
+      const b = await chargerBrouillon(id);
+      applyPlan(b.plan);
+      setSavedAt(b.saved_at);
+      setCompteMsg(`Brouillon « ${b.titre} » repris dans le constructeur.`);
+    } catch (e) {
+      setCompteMsg(
+        e instanceof Error ? e.message : "Reprise du brouillon impossible."
+      );
+    } finally {
+      setCompteBusy(false);
+    }
+  };
+
+  const supprimerDuCompte = async (id: string) => {
+    if (!moi || compteBusy) return;
+    setCompteBusy(true);
+    setCompteMsg(null);
+    try {
+      await supprimerBrouillon(id);
+      setBrouillons((prev) => prev.filter((b) => b.id !== id));
+      setCompteMsg("Brouillon supprimé du compte.");
+    } catch (e) {
+      setCompteMsg(e instanceof Error ? e.message : "Suppression impossible.");
+    } finally {
+      setCompteBusy(false);
+    }
+  };
+
+  // D1 : la proposition est un snapshot immuable — la validité, les erreurs
+  // et la minutage sont figés au moment de l'enregistrement serveur.
+  const enregistrerProposition = async () => {
+    if (!plan || !moi || compteBusy) return;
+    setCompteBusy(true);
+    setCompteMsg(null);
+    try {
+      const p = await creerProposition(plan.title, plan);
+      setPropResult(p);
+      setPropositions((prev) =>
+        [...prev.filter((x) => x.id !== p.id), p].sort((a, b) => b.id - a.id)
+      );
+    } catch (e) {
+      setCompteMsg(
+        e instanceof Error
+          ? e.message
+          : "Enregistrement de la proposition impossible."
+      );
+    } finally {
+      setCompteBusy(false);
+    }
   };
 
   if (loadError) {
@@ -703,6 +836,101 @@ export default function SessionBuilder({ view }: { view: CatalogueView | null })
           onChange={onImportFile}
         />
         {importError && <p className="check-err-text">{importError}</p>}
+
+        {moi ? (
+          <div className="compte-seance">
+            <h3>Sur votre compte</h3>
+            <p className="save-status" aria-live="polite">
+              {compteMsg ??
+                `Connecté en tant que ${moi.login} : vos brouillons et vos propositions restent sur ce compte, sur tous vos appareils.`}
+            </p>
+            <div className="check-actions">
+              <button
+                className="apply-btn"
+                onClick={() => void saveToAccount()}
+                disabled={compteBusy}
+              >
+                {compteBusy ? "…" : "💾 Sauvegarder sur mon compte"}
+              </button>
+              <button
+                className="reset-btn"
+                onClick={() => void enregistrerProposition()}
+                disabled={compteBusy}
+              >
+                Enregistrer comme proposition
+              </button>
+            </div>
+            {brouillons.length > 0 && (
+              <div className="compte-liste">
+                <h4>Mes brouillons</h4>
+                {brouillons.map((b) => (
+                  <div className="compte-ligne" key={b.id}>
+                    <span className="compte-ligne-titre">
+                      {b.titre}
+                      <small>{savedLabel(b.saved_at)}</small>
+                    </span>
+                    <span className="compte-ligne-actions">
+                      <button
+                        onClick={() => void reprendreBrouillon(b.id)}
+                        disabled={compteBusy}
+                      >
+                        Reprendre
+                      </button>
+                      <button
+                        className="danger"
+                        onClick={() => void supprimerDuCompte(b.id)}
+                        disabled={compteBusy}
+                      >
+                        Supprimer
+                      </button>
+                    </span>
+                  </div>
+                ))}
+              </div>
+            )}
+            {propositions.length > 0 && (
+              <div className="compte-liste">
+                <h4>Mes propositions</h4>
+                {propositions.map((p) => (
+                  <div className="compte-ligne" key={p.id}>
+                    <span className="compte-ligne-titre">
+                      {p.titre}{" "}
+                      {p.valide ? (
+                        <span className="badge badge-green">valide</span>
+                      ) : (
+                        <span className="badge badge-red">non valide</span>
+                      )}
+                      <small>{savedLabel(p.saved_at)}</small>
+                    </span>
+                  </div>
+                ))}
+              </div>
+            )}
+            {propResult && (
+              <div className="seance-server-result">
+                <p className="check-ok">
+                  Proposition n°{propResult.id} enregistrée —{" "}
+                  {propResult.valide ? "valide" : "non valide"} :{" "}
+                  {propResult.erreurs.length} erreur
+                  {propResult.erreurs.length > 1 ? "s" : ""},{" "}
+                  {propResult.avertissements.length} avertissement
+                  {propResult.avertissements.length > 1 ? "s" : ""}.
+                </p>
+                {propResult.erreurs.map((e, i) => (
+                  <p className="check-err-text" key={"e" + i}>
+                    {e}
+                  </p>
+                ))}
+              </div>
+            )}
+          </div>
+        ) : (
+          <p className="compte-invite">
+            <a href="/connexion">Connectez-vous</a> pour garder vos brouillons
+            et vos propositions sur votre compte, accessibles depuis tout
+            appareil.
+          </p>
+        )}
       </section>
 
       {picker && (

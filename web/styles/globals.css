@@ -1141,3 +1141,189 @@ input {
 .seance-save .check-actions .reset-btn {
   flex: 1;
 }
+
+/* ---- Lot 5 : compte (header, /connexion, sauvegarde) ------------------- */
+
+/* Header : identité du compte (chip + déconnexion) ou lien « Espace coach ».
+   Cibles ≥ 44 px comme le reste du header. */
+.compte-chip {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+.compte-logout,
+.compte-link {
+  min-height: 44px;
+  padding: 0 12px;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 14px;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.compte-link {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* /connexion : carte, onglets connexion/inscription, champs. */
+.connexion-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--bg);
+}
+
+.connexion-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.connexion-tab {
+  flex: 1;
+  min-height: 48px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--ink-2);
+}
+
+.connexion-tab.active {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.connexion-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.connexion-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* 16 px sur l'input : pas de zoom automatique sur iPhone. */
+.connexion-field input {
+  height: 48px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  font-size: 16px;
+  color: var(--ink);
+}
+
+.connexion-error {
+  margin: 0;
+  color: var(--badge-red-t);
+  font-size: 14px;
+}
+
+.connexion-submit {
+  min-height: 48px;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.connexion-note {
+  margin: 14px 0 0;
+  font-size: 13px;
+  color: var(--ink-3);
+}
+
+/* Section « Sauvegarde » : sous-bloc compte (brouillons et propositions). */
+.compte-seance {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.compte-seance h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.compte-liste {
+  margin-top: 12px;
+}
+
+.compte-liste h4 {
+  margin: 0 0 6px;
+  font-size: 14px;
+  color: var(--ink-2);
+}
+
+.compte-ligne {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.compte-ligne-titre {
+  flex: 1;
+  min-width: 0;
+  font-size: 14px;
+}
+
+.compte-ligne-titre small {
+  display: block;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+.compte-ligne-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.compte-ligne-actions button {
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.compte-ligne-actions button.danger {
+  color: var(--badge-red-t);
+  border-color: var(--badge-red-t);
+}
+
+/* Invitation discrète pour les visiteurs (non connectés). */
+.compte-invite {
+  margin: 12px 0 0;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.compte-invite a {
+  color: var(--accent);
+  font-weight: 600;
+}
