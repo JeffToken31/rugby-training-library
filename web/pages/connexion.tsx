@@ -3,7 +3,7 @@
 // le lire — on renvoie simplement vers « / » qui recharge /api/moi.
 
 import { useEffect, useState } from "react";
-import { connecter, inscrire } from "../lib/auth";
+import { connecter, fetchMoi, inscrire, seDeconnecter, type Moi } from "../lib/auth";
 
 type Mode = "login" | "inscription";
 
@@ -17,6 +17,8 @@ export default function Connexion() {
   const [password2, setPassword2] = useState("");
   const [erreur, setErreur] = useState<string | null>(null);
   const [enCours, setEnCours] = useState(false);
+  const [moi, setMoi] = useState<Moi | null>(null);
+  const [verifie, setVerifie] = useState(false);
 
   // Thème persisté côté client (même gabarit que la page catalogue) : jamais
   // de mismatch au rendu initial statique.
@@ -27,9 +29,29 @@ export default function Connexion() {
     }
   }, []);
 
+  // État explicite : si la session est déjà active, ne pas afficher un
+  // formulaire de connexion trompeur (retour utilisateur 2026-11-20 :
+  // « ça me met /connexion mais je suis quand même rentré dans l'espace »).
+  useEffect(() => {
+    void fetchMoi()
+      .then(setMoi)
+      .catch(() => setMoi(null))
+      .finally(() => setVerifie(true));
+  }, []);
+
   const changerMode = (m: Mode) => {
     setMode(m);
     setErreur(null);
+  };
+
+  const deconnexion = async () => {
+    setErreur(null);
+    try {
+      await seDeconnecter();
+      setMoi(null);
+    } catch (e) {
+      setErreur(e instanceof Error ? e.message : "Déconnexion impossible.");
+    }
   };
 
   const soumettre = async () => {
@@ -82,6 +104,30 @@ export default function Connexion() {
       </header>
 
       <main className="app-main">
+        {verifie && moi ? (
+          <div className="connexion-card">
+            <p className="connexion-connected">
+              Bonjour <strong>{moi.login}</strong>, vous êtes déjà connecté à
+              votre espace coach.
+            </p>
+            <p className="connexion-note">
+              Vos brouillons et vos propositions de séances y sont rattachés et
+              conservés sur ce serveur.
+            </p>
+            <div className="connexion-actions">
+              <a className="connexion-submit" href="/">
+                Retour au catalogue
+              </a>
+              <button
+                type="button"
+                className="connexion-ghost"
+                onClick={() => void deconnexion()}
+              >
+                Se déconnecter
+              </button>
+            </div>
+          </div>
+        ) : (
         <div className="connexion-card">
           <div className="connexion-tabs" role="tablist" aria-label="Mode">
             <button
@@ -169,6 +215,7 @@ export default function Connexion() {
               : "Le compte est stocké sur ce serveur, en local, avec votre mot de passe haché."}
           </p>
         </div>
+        )}
       </main>
     </div>
   );

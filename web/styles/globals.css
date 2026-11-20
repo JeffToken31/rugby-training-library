@@ -1260,12 +1260,15 @@ input {
 }
 
 .connexion-submit {
+  display: block;
   min-height: 48px;
   border: 0;
   border-radius: var(--radius);
   background: var(--accent);
   color: var(--accent-ink);
   font-weight: 700;
+  text-align: center;
+  text-decoration: none;
   cursor: pointer;
 }
 
@@ -1273,6 +1276,29 @@ input {
   margin: 14px 0 0;
   font-size: 13px;
   color: var(--ink-3);
+}
+
+/* État « déjà connecté » : pas de formulaire trompeur (retour user 2026-11-20). */
+.connexion-connected {
+  margin: 0 0 10px;
+  font-size: 15px;
+}
+
+.connexion-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.connexion-ghost {
+  min-height: 48px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--ink-2);
+  font-weight: 600;
+  cursor: pointer;
 }
 
 /* Section « Sauvegarde » : sous-bloc compte (brouillons et propositions). */
