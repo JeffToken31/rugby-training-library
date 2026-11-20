@@ -1389,3 +1389,133 @@ input {
   color: var(--accent);
   font-weight: 600;
 }
+
+/* Lot 7 — vue « fiche de séance terrain » rendue hors écran puis capturée en
+   PDF (html2canvas + jsPDF). Couleurs claires explicites en dur : le PDF doit
+   rester lisible et clair quelle que soit la thème de l'app sur le téléphone
+   (on n'utilise PAS les variables de thème sombre de l'app). Le .pdf-holder
+   est repoussé hors écran : le coach ne le voit jamais, seul le canvas le lit.
+   Largeur 794px = A4 (210mm) à 96 DPI. */
+.pdf-holder {
+  position: fixed;
+  left: -100000px;
+  top: 0;
+  width: 794px;
+  z-index: -1;
+}
+.pdf-sheet {
+  width: 794px;
+  background: #ffffff;
+  color: #16181d;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 40px 44px;
+}
+.pdf-title {
+  font-size: 24px;
+  margin: 0 0 6px;
+  font-weight: 700;
+  color: #16181d;
+}
+.pdf-meta {
+  font-size: 13px;
+  color: #3f4a5a;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.pdf-minut {
+  display: flex;
+  gap: 12px;
+  margin-top: 14px;
+}
+.pdf-minut div {
+  flex: 1;
+  text-align: center;
+  background: #e3f0e9;
+  border-radius: 8px;
+  padding: 8px 4px;
+  font-size: 12px;
+  color: #3f4a5a;
+}
+.pdf-minut b {
+  display: block;
+  font-size: 20px;
+  color: #0b5d3b;
+  font-weight: 700;
+}
+.pdf-block {
+  margin-top: 18px;
+  border-top: 2px solid #0b5d3b;
+  padding-top: 10px;
+}
+.pdf-block-head {
+  font-size: 15px;
+  margin: 0 0 8px;
+  font-weight: 700;
+  color: #0b5d3b;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.pdf-rotations {
+  font-size: 12px;
+  color: #5c6675;
+  margin: 0 0 8px;
+}
+.pdf-atelier {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  background: #f4f5f3;
+  border-radius: 8px;
+}
+.pdf-atelier-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #16181d;
+}
+.pdf-atelier-incomplete {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: #8a1c1c;
+  background: #fde8e8;
+  border-radius: 6px;
+  padding: 1px 6px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+.pdf-field h5 {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  color: #0b5d3b;
+  margin: 6px 0 2px;
+  font-weight: 700;
+}
+.pdf-field p {
+  margin: 0;
+  font-size: 13px;
+  color: #16181d;
+  white-space: pre-wrap;
+}
+.pdf-details {
+  font-size: 12px;
+  color: #3f4a5a;
+  margin: 6px 0 0;
+}
+.pdf-details div {
+  margin: 2px 0;
+}
+.pdf-details b {
+  color: #16181d;
+}
+.pdf-foot {
+  margin-top: 20px;
+  font-size: 11px;
+  color: #5c6675;
+  border-top: 1px solid #e2e5e0;
+  padding-top: 8px;
+}

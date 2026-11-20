@@ -22,15 +22,17 @@ import type { ChangeEvent } from "react";
 import type {
   Card,
   CatalogueView,
+  Fiche,
   SeanceCheck,
   SessionBlock,
   SessionPlan,
 } from "../lib/types";
-import { fetchTrameU8, validerSeance } from "../lib/api";
+import { fetchFiche, fetchTrameU8, validerSeance } from "../lib/api";
 import { clearDraft, loadDraft, parseImport, saveDraft } from "../lib/draft";
 import type { SavedDraft } from "../lib/draft";
 import {
   chargerBrouillon,
+  chargerProposition,
   creerProposition,
   listerBrouillons,
   listerPropositions,
@@ -38,6 +40,7 @@ import {
   supprimerBrouillon,
 } from "../lib/auth";
 import type { BrouillonRef, Moi, Proposition, PropositionRef } from "../lib/auth";
+import { atelierIdsDuPlan, generateSessionPdf, sharePdf } from "../lib/pdf";
 import { selectCards } from "../lib/filter";
 import { BADGE_LABELS, cardDurationLabel } from "../lib/format";
 import { etatParIdDe, KIND_LABELS, validerLocale } from "../lib/session";
@@ -97,6 +100,12 @@ export default function SessionBuilder({
   const [compteBusy, setCompteBusy] = useState(false);
   const [compteMsg, setCompteMsg] = useState<string | null>(null);
   const [propResult, setPropResult] = useState<Proposition | null>(null);
+
+  // Lot 7 — partage PDF d'une proposition validée : l'id de la proposition en
+  // cours de génération (pour désactiver le bouton) + un message d'issue
+  // (téléchargement de secours, envoi réussi, erreur).
+  const [pdfBusy, setPdfBusy] = useState<number | null>(null);
+  const [pdfMsg, setPdfMsg] = useState<string | null>(null);
 
   useEffect(() => {
     let live = true;
@@ -436,6 +445,49 @@ export default function SessionBuilder({
       );
     } finally {
       setCompteBusy(false);
+    }
+  };
+
+  // Lot 7 — génération + partage PDF d'une proposition validée (vue du
+  // snapshot immuable, D1 lot 5). On charge la proposition complète, on
+  // charge chaque fiche d'atelier référencée (via l'API existante), on
+  // génère le PDF côté client (html2canvas + jsPDF), puis on ouvre la feuille
+  // de partage native. Un fichier absent (supprimé du catalogue) n'empêche
+  // pas la génération : il est signalé dans le PDF (« Fiche non trouvée »).
+  const partagerEnPdf = async (p: PropositionRef) => {
+    if (!moi || pdfBusy !== null) return;
+    setPdfBusy(p.id);
+    setPdfMsg(null);
+    try {
+      const prop = await chargerProposition(p.id);
+      const ids = atelierIdsDuPlan(prop.plan);
+      const fiches: Record<string, Fiche> = {};
+      await Promise.all(
+        ids.map(async (id) => {
+          try {
+            fiches[id] = await fetchFiche(id);
+          } catch {
+            // fiche manquante → le PDF l'indique, on continue.
+          }
+        })
+      );
+      const file = await generateSessionPdf(prop, moi, fiches);
+      const mode = await sharePdf(file);
+      if (mode === "shared") {
+        setPdfMsg("PDF envoyé via la feuille de partage.");
+      } else if (mode === "downloaded") {
+        setPdfMsg(
+          "Partage de fichiers non pris en charge ici : PDF téléchargé — joignez-le à votre groupe WhatsApp."
+        );
+      }
+      // mode === "cancelled" : l'utilisateur a refermé la feuille, rien à dire.
+    } catch (e) {
+      setPdfMsg(
+        "Échec de la génération du PDF : " +
+          (e instanceof Error ? e.message : "erreur inconnue.")
+      );
+    } finally {
+      setPdfBusy(null);
     }
   };
 
@@ -891,6 +943,11 @@ export default function SessionBuilder({
             {propositions.length > 0 && (
               <div className="compte-liste">
                 <h4>Mes propositions</h4>
+                {pdfMsg && (
+                  <p className="save-status" aria-live="polite">
+                    {pdfMsg}
+                  </p>
+                )}
                 {propositions.map((p) => (
                   <div className="compte-ligne" key={p.id}>
                     <span className="compte-ligne-titre">
@@ -902,6 +959,16 @@ export default function SessionBuilder({
                       )}
                       <small>{savedLabel(p.saved_at)}</small>
                     </span>
+                    {p.valide && (
+                      <span className="compte-ligne-actions">
+                        <button
+                          onClick={() => void partagerEnPdf(p)}
+                          disabled={pdfBusy === p.id || compteBusy}
+                        >
+                          {pdfBusy === p.id ? "Génération…" : "Partager en PDF"}
+                        </button>
+                      </span>
+                    )}
                   </div>
                 ))}
               </div>
