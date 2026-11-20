@@ -155,14 +155,14 @@ export interface Fiche extends Card {
   fields: Record<string, FieldEntry>;
   documentary_fields: Record<string, FieldEntry>;
   u8_adaptation: string | null;
-  u8_proposed_settings: string | null;
+  u8_proposed_settings: string | Record<string, unknown> | null;
   participants_scope: string | null;
   age_source: string | null;
   source: SourceEntry | null;
   locator: string | null;
   references: Array<Record<string, unknown>> | null;
-  observation: string | null;
-  coach_cues: string | string[] | null;
+  observation: string | Record<string, unknown> | null;
+  coach_cues: string | string[] | Record<string, unknown> | null;
   source_conflicts: unknown;
   bout_seconds: number | null;
   preparation_questions: PreparationQuestion[];

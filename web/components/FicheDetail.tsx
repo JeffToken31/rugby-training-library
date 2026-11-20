@@ -19,8 +19,74 @@ const BADGE_CLASS: Record<string, string> = {
   REPORTED_OBSERVATION: "badge-slate",
 };
 
-function valueText(v: string | number | null): string {
-  return v == null ? "" : String(v);
+// Libellé lisible d'une clé snake_case du corpus : « duration_min » → « Duration min ».
+function humanizeKey(k: string): string {
+  const s = k.replace(/_/g, " ").trim();
+  return s.charAt(0).toUpperCase() + s.slice(1);
+}
+
+// Aplatissement total et perte-zéro d'une valeur du corpus : string/number → tel
+// quel ; tableau → éléments joints par « ; » ; objet → paires « clé : valeur ».
+// Garantit l'absence de « Objects are not valid as a React child » même si le
+// corpus stocke une valeur structurée là où une chaîne était attendue.
+function valueText(v: unknown): string {
+  if (v == null) return "";
+  if (typeof v === "string") return v;
+  if (typeof v === "number" || typeof v === "boolean") return String(v);
+  if (Array.isArray(v)) {
+    return v.map(valueText).filter(Boolean).join(" ; ");
+  }
+  if (typeof v === "object") {
+    return Object.entries(v as Record<string, unknown>)
+      .map(([k, val]) => {
+        const s = valueText(val);
+        return s ? `${humanizeKey(k)} : ${s}` : "";
+      })
+      .filter(Boolean)
+      .join(" ; ");
+  }
+  return String(v);
+}
+
+// Rendu structuré d'une valeur riche du corpus (objet / tableau) : liste lisible
+// et champs libellés, en préservant la provenance (origine, bases, incertitudes).
+// Pour les scalaires, renvoie la valeur en texte.
+function ValueText({ value }: { value: unknown }) {
+  if (value == null || value === "") return null;
+  if (typeof value === "string" || typeof value === "number" || typeof value === "boolean") {
+    return <>{String(value)}</>;
+  }
+  if (Array.isArray(value)) {
+    if (value.length === 0) return null;
+    return (
+      <ul className="value-list">
+        {value.map((item, i) => (
+          <li key={i}>
+            <ValueText value={item} />
+          </li>
+        ))}
+      </ul>
+    );
+  }
+  if (typeof value === "object") {
+    const entries = Object.entries(value as Record<string, unknown>).filter(
+      ([, v]) => v != null && v !== "" && !(Array.isArray(v) && v.length === 0)
+    );
+    if (entries.length === 0) return null;
+    return (
+      <dl className="value-entries">
+        {entries.map(([k, v]) => (
+          <div className="value-entry" key={k}>
+            <dt>{humanizeKey(k)}</dt>
+            <dd>
+              <ValueText value={v} />
+            </dd>
+          </div>
+        ))}
+      </dl>
+    );
+  }
+  return <>{String(value)}</>;
 }
 
 interface Props {
@@ -131,8 +197,16 @@ export default function FicheDetail({ fiche, tagLabels, error }: Props) {
       {(f.u8_adaptation || f.u8_proposed_settings || f.participants_scope || f.age_source) && (
         <section className="block" aria-label="Cadrage U8">
           <h3>Cadrage U8 et périmètre</h3>
-          {f.u8_adaptation && <p>{f.u8_adaptation}</p>}
-          {f.u8_proposed_settings && <p>{f.u8_proposed_settings}</p>}
+          {f.u8_adaptation && (
+            <div className="field-value">
+              <ValueText value={f.u8_adaptation} />
+            </div>
+          )}
+          {f.u8_proposed_settings && (
+            <div className="field-value">
+              <ValueText value={f.u8_proposed_settings} />
+            </div>
+          )}
           {f.participants_scope && (
             <p className="note">Périmètre des participants : {f.participants_scope}</p>
           )}
@@ -219,7 +293,9 @@ export default function FicheDetail({ fiche, tagLabels, error }: Props) {
           <h3>
             Observation utilisateur <span className="origin-tag">observation utilisateur</span>
           </h3>
-          <p className="field-value">{f.observation}</p>
+          <div className="field-value">
+            <ValueText value={f.observation} />
+          </div>
         </section>
       )}
 
@@ -227,9 +303,9 @@ export default function FicheDetail({ fiche, tagLabels, error }: Props) {
       {f.coach_cues && (
         <section className="block" aria-label="Consignes coach">
           <h3>Consignes coach</h3>
-          <p className="field-value">
-            {Array.isArray(f.coach_cues) ? f.coach_cues.join(" ") : f.coach_cues}
-          </p>
+          <div className="field-value">
+            <ValueText value={f.coach_cues} />
+          </div>
         </section>
       )}
 
