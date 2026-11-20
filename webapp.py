@@ -440,15 +440,35 @@ def _route_inscription(environ):
             HTTPStatus.BAD_REQUEST,
             {"error": "Mot de passe invalide (8 caractères minimum, 128 maximum)."},
         )
+    # Lot club (cadrage 03, A/A/A/A) : deux champs facultatifs, validés.
+    club = data.get("club")
+    if club is not None and isinstance(club, str) and not club.strip():
+        club = None  # «   » → absent
+    if not app_store.club_ok(club):
+        return _json_response(
+            HTTPStatus.BAD_REQUEST,
+            {"error": "Club invalide (texte de 80 caractères maximum, ou champ absent)."},
+        )
+    categorie = data.get("categorie")
+    if not app_store.categorie_ok(categorie):
+        return _json_response(
+            HTTPStatus.BAD_REQUEST,
+            {"error": "Catégorie invalide (liste : " + ", ".join(app_store.CATEGORIES) + ", ou champ absent)."},
+        )
     with app_store.AppStore(app_db_path()) as store:
         try:
-            compte = store.create_account(login, password)
+            compte = store.create_account(login, password, club, categorie)
         except app_store.AccountExists:
             return _json_response(HTTPStatus.CONFLICT, {"error": "Cet identifiant est déjà utilisé."})
         token = store.make_session_token(compte["id"])
     return _json_response(
         HTTPStatus.CREATED,
-        {"login": compte["login"], "created_at": compte["created_at"]},
+        {
+            "login": compte["login"],
+            "created_at": compte["created_at"],
+            "club": compte["club"],
+            "categorie": compte["categorie"],
+        },
         _session_cookie(token),
     )
 
@@ -475,12 +495,21 @@ def _route_deconnexion(environ):
 
 
 def _route_moi(environ):
-    """GET /api/moi → compte courant, ou 401 sans session."""
+    """GET /api/moi → compte courant (login, club et catégorie facultatifs,
+    ou 401 sans session)."""
     with app_store.AppStore(app_db_path()) as store:
         compte = _require_account(environ, store)
     if compte is None:
         return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
-    return _json_response(HTTPStatus.OK, {"login": compte["login"], "created_at": compte["created_at"]})
+    return _json_response(
+        HTTPStatus.OK,
+        {
+            "login": compte["login"],
+            "created_at": compte["created_at"],
+            "club": compte["club"],
+            "categorie": compte["categorie"],
+        },
+    )
 
 
 def _route_brouillons(environ):

@@ -10,11 +10,17 @@ type Mode = "login" | "inscription";
 // Miroir des règles du serveur (app_store.py) pour des erreurs immédiates.
 const LOGIN_RE = /^[a-z0-9][a-z0-9._-]{1,31}$/;
 
+// Miroir de la liste contrôlée du lot club (app_store.py CATEGORIES).
+const CATEGORIES = ["U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre"];
+
 export default function Connexion() {
   const [mode, setMode] = useState<Mode>("login");
   const [login, setLogin] = useState("");
   const [password, setPassword] = useState("");
   const [password2, setPassword2] = useState("");
+  // Lot club (cadrage 03) : deux champs facultatifs à l'inscription.
+  const [club, setClub] = useState("");
+  const [categorie, setCategorie] = useState("");
   const [erreur, setErreur] = useState<string | null>(null);
   const [enCours, setEnCours] = useState(false);
   const [moi, setMoi] = useState<Moi | null>(null);
@@ -81,7 +87,7 @@ export default function Connexion() {
       if (mode === "login") {
         await connecter(id, password);
       } else {
-        await inscrire(id, password);
+        await inscrire(id, password, club.trim() || undefined, categorie || undefined);
       }
       // Redirection complète : le cookie est posé par le serveur, la page
       // principale recharge l'identité via /api/moi.
@@ -107,8 +113,10 @@ export default function Connexion() {
         {verifie && moi ? (
           <div className="connexion-card">
             <p className="connexion-connected">
-              Bonjour <strong>{moi.login}</strong>, vous êtes déjà connecté à
-              votre espace coach.
+              Bonjour <strong>{moi.login}</strong>
+              {moi.club ? <span className="connexion-sub"> — {moi.club}</span> : null}
+              {moi.categorie ? <span className="connexion-sub"> · {moi.categorie}</span> : null},
+              vous êtes déjà connecté à votre espace coach.
             </p>
             <p className="connexion-note">
               Vos brouillons et vos propositions de séances y sont rattachés et
@@ -184,18 +192,41 @@ export default function Connexion() {
               />
             </label>
             {mode === "inscription" && (
-              <label className="connexion-field">
-                <span>Confirmer le mot de passe</span>
-                <input
-                  type="password"
-                  value={password2}
-                  autoComplete="new-password"
-                  minLength={8}
-                  maxLength={128}
-                  onChange={(e) => setPassword2(e.target.value)}
-                  required
-                />
-              </label>
+              <>
+                <label className="connexion-field">
+                  <span>Confirmer le mot de passe</span>
+                  <input
+                    type="password"
+                    value={password2}
+                    autoComplete="new-password"
+                    minLength={8}
+                    maxLength={128}
+                    onChange={(e) => setPassword2(e.target.value)}
+                    required
+                  />
+                </label>
+                <label className="connexion-field">
+                  <span>Club (facultatif)</span>
+                  <input
+                    type="text"
+                    value={club}
+                    autoComplete="organization"
+                    maxLength={80}
+                    onChange={(e) => setClub(e.target.value)}
+                  />
+                </label>
+                <label className="connexion-field">
+                  <span>Catégorie (facultatif)</span>
+                  <select value={categorie} onChange={(e) => setCategorie(e.target.value)}>
+                    <option value="">—</option>
+                    {CATEGORIES.map((cat) => (
+                      <option key={cat} value={cat}>
+                        {cat}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+              </>
             )}
 
             {erreur && (

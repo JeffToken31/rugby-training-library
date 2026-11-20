@@ -1178,6 +1178,13 @@ input {
   color: var(--accent);
 }
 
+/* Lot club : libellé du club dans la chip, atténué (le login reste l'info
+   principale). */
+.compte-chip-sub {
+  font-weight: 400;
+  color: var(--ink-3);
+}
+
 .compte-logout,
 .compte-link {
   min-height: 44px;
@@ -1243,7 +1250,8 @@ input {
 }
 
 /* 16 px sur l'input : pas de zoom automatique sur iPhone. */
-.connexion-field input {
+.connexion-field input,
+.connexion-field select {
   height: 48px;
   padding: 0 12px;
   border: 1px solid var(--line);
@@ -1282,6 +1290,12 @@ input {
 .connexion-connected {
   margin: 0 0 10px;
   font-size: 15px;
+}
+
+/* Lot club : club / catégorie affichés atténués derrière l'identifiant. */
+.connexion-sub {
+  color: var(--ink-3);
+  font-weight: 400;
 }
 
 .connexion-actions {

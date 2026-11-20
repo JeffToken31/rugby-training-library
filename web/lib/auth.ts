@@ -7,6 +7,9 @@ import type { MinutageDerivee, SessionPlan } from "./types";
 export interface Moi {
   login: string;
   created_at: string;
+  // Lot club (cadrage 03) : champs facultatifs, null si non renseignés.
+  club: string | null;
+  categorie: string | null;
 }
 
 export interface BrouillonRef {
@@ -54,12 +57,22 @@ export async function fetchMoi(): Promise<Moi | null> {
   return (await res.json()) as Moi;
 }
 
-export async function inscrire(login: string, password: string): Promise<Moi> {
+export async function inscrire(
+  login: string,
+  password: string,
+  club?: string,
+  categorie?: string
+): Promise<Moi> {
+  // Champs du lot club : envoyés seulement s'ils sont renseignés (le
+  // serveur les gère comme optionnels).
+  const corps: Record<string, string> = { login, password };
+  if (club) corps.club = club;
+  if (categorie) corps.categorie = categorie;
   const res = await fetch("/api/auth/inscription", {
     method: "POST",
     cache: "no-store",
     headers: JSON_HEADERS,
-    body: JSON.stringify({ login, password }),
+    body: JSON.stringify(corps),
   });
   if (!res.ok) await erreurDe(res, "Inscription impossible");
   return (await res.json()) as Moi;

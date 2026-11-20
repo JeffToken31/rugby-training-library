@@ -16,6 +16,11 @@ Décisions du cadrage validé (02-cadrage-lot5-auth.md) :
   validation au moment de l'enregistrement) ; l'évolution d'une fiche ne
   modifie pas rétroactivement les séances conservées.
 
+Lot club (03-cadrage-club.md, A/A/A/A validé le 2026-11-20) : le compte
+porte deux champs facultatifs — `club` (texte ≤ 80 caractères) et
+`categorie` (liste contrôlée U6…U18, Autre). Le club est un simple
+libellé : il n'ouvre aucun accès (C1 inchangé).
+
 La connexion est ouverte et fermée par requête (wsgiref est mono-thread).
 """
 
@@ -38,6 +43,11 @@ PBKDF2_ITERATIONS = 600_000
 MIN_PASSWORD = 8
 MAX_PASSWORD = 128
 
+# Lot club (cadrage 03) : club = texte facultatif ≤ 80 caractères ;
+# catégorie = liste contrôlée, facultative.
+MAX_CLUB = 80
+CATEGORIES = ("U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre")
+
 LOGIN_RE = re.compile(r"^[a-z0-9][a-z0-9._-]{1,31}$")
 DRAFT_ID_RE = re.compile(r"^[a-z0-9._-]{1,128}$", re.IGNORECASE)
 
@@ -47,7 +57,9 @@ CREATE TABLE IF NOT EXISTS comptes (
     login TEXT NOT NULL UNIQUE,
     salt_hex TEXT NOT NULL,
     pw_hash_hex TEXT NOT NULL,
-    created_at TEXT NOT NULL
+    created_at TEXT NOT NULL,
+    club TEXT,
+    categorie TEXT
 );
 CREATE TABLE IF NOT EXISTS brouillons (
     compte_id INTEGER NOT NULL,
@@ -97,6 +109,18 @@ def password_ok(password) -> bool:
     return isinstance(password, str) and MIN_PASSWORD <= len(password) <= MAX_PASSWORD
 
 
+def club_ok(club) -> bool:
+    """Nom de club : absent (None) ou texte de ≤ MAX_CLUB caractères."""
+    if club is None:
+        return True
+    return isinstance(club, str) and len(club.strip()) <= MAX_CLUB
+
+
+def categorie_ok(categorie) -> bool:
+    """Catégorie : absente (None) ou présente dans la liste contrôlée."""
+    return categorie is None or categorie in CATEGORIES
+
+
 def draft_id_ok(draft_id) -> bool:
     return isinstance(draft_id, str) and bool(DRAFT_ID_RE.fullmatch(draft_id))
 
@@ -119,6 +143,7 @@ class AppStore:
             os.makedirs(parent, exist_ok=True)
         self.conn = sqlite3.connect(self.db_path)
         self.conn.executescript(_SCHEMA)
+        self._migrate_comptes()
         self._session_key = self._load_session_key()
 
     # -------------------------------------------------------------- cycle
@@ -131,6 +156,19 @@ class AppStore:
     def __exit__(self, exc_type, exc, tb):
         self.close()
         return False
+
+    # ----------------------------------------------------------- migration
+    def _migrate_comptes(self) -> None:
+        """Migration idempotente (lot club) : ajoute `club` et `categorie`
+        sur une base créée avant le lot ; sans effet sur une base neuve
+        (les colonnes sont déjà dans le schéma)."""
+        colonnes = {
+            row[1] for row in self.conn.execute("PRAGMA table_info(comptes)")
+        }
+        if "club" not in colonnes:
+            self.conn.execute("ALTER TABLE comptes ADD COLUMN club TEXT")
+        if "categorie" not in colonnes:
+            self.conn.execute("ALTER TABLE comptes ADD COLUMN categorie TEXT")
 
     # ------------------------------------------------------ clé de session
     def _load_session_key(self) -> bytes:
@@ -147,31 +185,67 @@ class AppStore:
         return bytes.fromhex(key)
 
     # ------------------------------------------------------------- comptes
-    def create_account(self, login: str, password: str) -> dict:
+    def create_account(
+        self,
+        login: str,
+        password: str,
+        club: str | None = None,
+        categorie: str | None = None,
+    ) -> dict:
+        """Crée un compte (lot club : `club` et `categorie` facultatifs).
+
+        `club` : texte de ≤ MAX_CLUB caractères (un club vide est stocké
+        comme NULL) ; `categorie` : une valeur de la liste contrôlée
+        CATEGORIES. Lève ValueError si un champ est invalide.
+        """
         login = normalize_login(login)
         if not password_ok(password):
             raise ValueError(password)
+        if club is not None:
+            if not isinstance(club, str):
+                raise ValueError("Le nom du club doit être un texte.")
+            club = club.strip() or None
+            if club is not None and len(club) > MAX_CLUB:
+                raise ValueError("Le nom du club est trop long (80 caractères maximum).")
+        if not categorie_ok(categorie):
+            raise ValueError(
+                "Catégorie invalide (attendue : " + ", ".join(CATEGORIES) + " ou absente)."
+            )
         salt = secrets.token_bytes(16)
         pw_hash = _hash_password(password, salt)
         now = _utcnow_iso()
         try:
             cur = self.conn.execute(
-                "INSERT INTO comptes (login, salt_hex, pw_hash_hex, created_at) "
-                "VALUES (?, ?, ?, ?)",
-                (login, salt.hex(), pw_hash.hex(), now),
+                "INSERT INTO comptes (login, salt_hex, pw_hash_hex, created_at, "
+                "club, categorie) VALUES (?, ?, ?, ?, ?, ?)",
+                (login, salt.hex(), pw_hash.hex(), now, club, categorie),
             )
         except sqlite3.IntegrityError:
             raise AccountExists(login)
         self.conn.commit()
-        return {"id": cur.lastrowid, "login": login, "created_at": now}
+        return {
+            "id": cur.lastrowid,
+            "login": login,
+            "created_at": now,
+            "club": club,
+            "categorie": categorie,
+        }
 
     def get_account(self, account_id: int):
         row = self.conn.execute(
-            "SELECT id, login, created_at FROM comptes WHERE id = ?", (account_id,)
+            "SELECT id, login, created_at, club, categorie FROM comptes "
+            "WHERE id = ?",
+            (account_id,),
         ).fetchone()
         if row is None:
             return None
-        return {"id": row[0], "login": row[1], "created_at": row[2]}
+        return {
+            "id": row[0],
+            "login": row[1],
+            "created_at": row[2],
+            "club": row[3],
+            "categorie": row[4],
+        }
 
     def authenticate(self, login, password):
         """Compte (dict) si le login ET le mot de passe sont corrects, sinon
