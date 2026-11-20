@@ -227,6 +227,23 @@ class WebappApiTests(unittest.TestCase):
         self.assertIn("text/html", headers["Content-Type"])
         self.assertIn(b"<html", body)
 
+    def test_url_propre_resoud_vers_sa_page_html(self):
+        """Régres. — /connexion renvoie la page de connexion, pas le catalogue.
+
+        Le routage statique doit résoudre une URL propre vers <path>.html avant
+        le fallback SPA ; sans cela le fallback servait index.html (le
+        catalogue) au lieu du formulaire de connexion.
+        """
+        index = ROOT / "web" / "out" / "connexion.html"
+        if not index.is_file():
+            self.skipTest("web/out non construit")
+        code, headers, body = call("/connexion")
+        self.assertEqual(code, 200)
+        self.assertIn("text/html", headers["Content-Type"])
+        self.assertIn(b'"page":"/connexion"', body)
+        # Pas le catalogue (le fallback SPA) : son marqueur de page est différent.
+        self.assertNotIn(b'"page":"/"', body)
+
     def test_static_path_traversal_blocked(self):
         code, headers, body = call("/../webapp.py")
         self.assertEqual(code, 404)

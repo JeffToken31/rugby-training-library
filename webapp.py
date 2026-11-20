@@ -326,6 +326,11 @@ def _static_response(path):
     if path in ("", "/"):
         path = "/index.html"
     candidate = os.path.realpath(os.path.join(STATIC_DIR, path.lstrip("/")))
+    # URL propre (ex. /connexion) → résolution vers connexion.html. Sans ce test,
+    # le fichier « connexion » (sans extension) n'existant pas, le fallback SPA
+    # renvoyait index.html (le catalogue) au lieu du formulaire de connexion.
+    if not os.path.isfile(candidate) and os.path.isfile(candidate + ".html"):
+        candidate = candidate + ".html"
     if not candidate.startswith(os.path.realpath(STATIC_DIR) + os.sep) and \
        candidate != os.path.realpath(os.path.join(STATIC_DIR, "index.html")):
         return _error(404)
