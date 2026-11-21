@@ -2,7 +2,7 @@
 
 Point d’entrée unique : catégories, durées, installation, consignes, adaptations, sources, manques et rapprochements sont réunis ici.
 
-**168 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
+**172 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
 
 [Échauffements](#echauffements) · [Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)
 
@@ -31,13 +31,13 @@ Point d’entrée unique : catégories, durées, installation, consignes, adapta
 
 **Prise d’information (23) :** [Binômes guidés par le signal du coach](#nz-follow) · [Changer de ligne d’essai](#rc-multidirection) · [Chercher les espaces libres](#ffr-espaces2023) · [Circuit de passes mémorisé](#nz-memory) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Ici, là-bas, sur place](#warm-here-there) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Réagir au mot plot](#au-cone-game) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Trois joueurs alignés](#scot-alignement) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
-**Lutte (8) :** [Deux par deux pour avancer](#bib-lutte-avance) · [Duel debout pour avancer](#ffr-lutte-avancer) · [L'arc : pousser sans tomber](#bib-lutte-arc) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Les gazelles](#ffr-gazelles-atelier) · [Protège-ballon](#ffr-protege-atelier) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai)
+**Lutte (10) :** [Duel debout pour avancer](#ffr-lutte-avancer) · [L'arc : pousser sans tomber](#bib-lutte-arc) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Les gazelles](#ffr-gazelles-atelier) · [Les œufs des poules](#ffr-plan2023-oeufs) · [Lutte à la culotte](#jskids-l08-culotte) · [Protège-ballon](#ffr-protege-atelier) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Sumo 1x1](#jskids-l08-sumo)
 
-**Plaquage (6) :** [L'ombre et le soutien : plaquer à deux](#bib-plaquage-soutien) · [La tenue : serrer sans contact](#bib-plaquage-tenue) · [Plaquage et libération](#ffr-plaquage-atelier) · [Plaquage et libération autour de la balise](#bib-plaquage-balise) · [Plaquage à genoux en ligne](#bib-plaquage-a-genoux) · [Relais plaquage et remise en position](#bib-plaquage-relais)
+**Plaquage (7) :** [1 contre 1 : plaquage en sécurité (plaqueur debout)](#ffr-guide-m8-1c1) · [Bulldog](#wr-gir-bulldog) · [L'ombre et le soutien : plaquer à deux](#bib-plaquage-soutien) · [La tenue : serrer sans contact](#bib-plaquage-tenue) · [Plaquage et libération](#ffr-plaquage-atelier) · [Plaquage et libération autour de la balise](#bib-plaquage-balise) · [Plaquage à genoux en ligne](#bib-plaquage-a-genoux)
 
 **Équilibre et postures (7) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Fentes dans trois directions](#warm-lunge-clock) · [Marcher puis se figer au signal](#warm-whistle-stop) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Équilibre du flamant](#munster-flamant)
 
-**Ramassage du ballon (21) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chercher les espaces libres](#ffr-espaces2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course numérotée avec deux ballons](#nz-numbers-race) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Le ballon répond au signal](#au-familiarisation) · [Les œufs dans les nids](#rc-eggs) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Ramasser puis transmettre](#ffr-ramasser) · [Ramasser, porter et reposer](#nz-pick-place) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
+**Ramassage du ballon (23) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chercher les espaces libres](#ffr-espaces2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course numérotée avec deux ballons](#nz-numbers-race) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Le ballon répond au signal](#au-familiarisation) · [Les œufs dans les nids](#rc-eggs) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Ramasser puis transmettre](#ffr-ramasser) · [Ramasser, porter et reposer](#nz-pick-place) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Ruck Touch Rugby 6v4](#wr-gir-rucktouch) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
 
 **Coordination (9) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Cercles de bras progressifs](#warm-arm-circles) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Manipulations autour du corps](#nz-awareness) · [Marche du singe à trois appuis](#scot-monkey) · [Ramper comme un crocodile](#scot-crocodile) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Tennis à la main](#scot-tennis)
 
@@ -47,19 +47,19 @@ Point d’entrée unique : catégories, durées, installation, consignes, adapta
 
 ### Formes de jeu
 
-**Relais (12) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais plaquage et remise en position](#bib-plaquage-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+**Relais (12) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Poursuite et délivrance (35) :** [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+**Poursuite et délivrance (36) :** [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs des poules](#ffr-plan2023-oeufs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
-**Duel (16) :** [Chat et souris autour d’une forme](#au-cat-mouse) · [Duel debout pour avancer](#ffr-lutte-avancer) · [Duel d’évitement en couloir](#nz-evading-player) · [Duel long](#ffr-duellong-atelier) · [L'arc : pousser sans tomber](#bib-lutte-arc) · [La tenue : serrer sans contact](#bib-plaquage-tenue) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Plaquage à genoux en ligne](#bib-plaquage-a-genoux) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre l’ombre du porteur](#nz-shadow) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
+**Duel (21) :** [1 contre 1 : plaquage en sécurité (plaqueur debout)](#ffr-guide-m8-1c1) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Duel debout pour avancer](#ffr-lutte-avancer) · [Duel d’évitement en couloir](#nz-evading-player) · [Duel long](#ffr-duellong-atelier) · [L'arc : pousser sans tomber](#bib-lutte-arc) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [La tenue : serrer sans contact](#bib-plaquage-tenue) · [Lutte à la culotte](#jskids-l08-culotte) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Plaquage et libération autour de la balise](#bib-plaquage-balise) · [Plaquage à genoux en ligne](#bib-plaquage-a-genoux) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre l’ombre du porteur](#nz-shadow) · [Sumo 1x1](#jskids-l08-sumo) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
 
-**Circulation et transmission (29) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Plaquage et libération autour de la balise](#bib-plaquage-balise) · [Premières passes en ligne](#rc-pass-start) · [Ramasser puis transmettre](#ffr-ramasser) · [Rebondir et échanger en binôme](#rc-bounce) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis à la main](#scot-tennis) · [Transmettre en trottinant](#ffr-transmettre) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+**Circulation et transmission (28) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Ramasser puis transmettre](#ffr-ramasser) · [Rebondir et échanger en binôme](#rc-bounce) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis à la main](#scot-tennis) · [Transmettre en trottinant](#ffr-transmettre) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Opposition collective (33) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux par deux pour avancer](#bib-lutte-avance) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
+**Opposition collective (33) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Bulldog](#wr-gir-bulldog) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Ruck Touch Rugby 6v4](#wr-gir-rucktouch) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
 
 **Parcours (8) :** [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Ramasser, porter et reposer](#nz-pick-place) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet)
 
-**Collecte de ballons (3) :** [Carré 2](#ffr-carre2-atelier) · [Les œufs dans les nids](#rc-eggs) · [Rapporter les trésors par une passe](#au-nest-pass)
+**Collecte de ballons (4) :** [Carré 2](#ffr-carre2-atelier) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Les œufs dans les nids](#rc-eggs) · [Rapporter les trésors par une passe](#au-nest-pass)
 
 **Surnombre (8) :** [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [L'ombre et le soutien : plaquer à deux](#bib-plaquage-soutien) · [Le joueur au milieu](#rc-piggy) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
 
@@ -94,7 +94,7 @@ Contrôle des proximités :
 
 Relecture des 16 rapprochements enregistrés et contrôle exhaustif des déroulements identiques. Ne certifie pas l’absence de doublons sémantiques dans tout le corpus.
 
-14028 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
+14706 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
 
 Neuf fiches complétées en points coach après relecture des archives locales ; les neuf descriptions insuffisantes restent à part. Les autres champs absents ne sont pas déclarés introuvables : leur relecture exhaustive reste à poursuivre.
 
@@ -117,6 +117,66 @@ Neuf fiches complétées en points coach après relecture des archives locales ;
 
 <a id="fiches"></a>
 ## Toutes les fiches
+
+<a id="ffr-guide-m8-1c1"></a>
+## 1 contre 1 : plaquage en sécurité (plaqueur debout)
+
+**Catégories proposées :** Plaquage · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8 — guide saison 2022-2023
+
+Quatre plaquages en 1 contre 1 sur rectangle de 9 m x 8 m, en alternance droite/gauche, épaule à la taille et tête du bon côté.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Je fais tomber le porteur de balle en toute sécurité avec mon épaule droite et mon épaule gauche.
+
+**Matériel — historique non réexaminé :** Des plots de couleurs et un ballon
+
+**Effectif minimum — historique non réexaminé :** 3
+
+**Effectif maximum — historique non réexaminé :** 3
+
+**Espace — historique non réexaminé :** Un rectangle de 9 m x 8 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Dispositif : 1 attaquant et 1 défenseur ; Groupe : 3 joueurs pour organiser un temps de récupération dans la rotation des rôles ; Espace : un rectangle de 9m x 8m ; Matériel : des plots de couleurs et un ballon.
+
+**Déroulement — source :** 4 plaquages à effectuer (non enchaînés) en alternance droite/gauche (2 à droite - 2 à gauche), 1er plaquage sur droite du défenseur ; C'est l'attaquant qui lance l'action. Le défenseur peut démarrer lorsque l'attaquant contourne le plot pour entrer dans le terrain ; Le défenseur avance en coupant la zone hachurée pour gagner du terrain ; Interdiction pour PB d'entrer dans zone hachurée.
+
+**Consignes — source :** je cible la taille ; j'engage mon épaule au niveau de la taille ; je place ma tête du bon côté sur le flan du porteur de balle (idée tête dans le dos) ; je serre fort les bras.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Lignes rouges : intervention au dessus de la ligne du bassin (placage haut interdit) ; tête placée du mauvais côté (sécurité).
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout. Vérification documentaire : 2026-09-08.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : ffr-guide-m8-2023 ; Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
 
 <a id="au-pop-race"></a>
 ## Aller au sol puis transmettre au soutien
@@ -628,6 +688,58 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-chase-source ; Kick Chase — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-gir-bulldog"></a>
+## Bulldog
+
+**Catégories proposées :** Plaquage · Opposition collective
+
+**Famille :** Lutte et contact · **Âge source :** None
+
+3 couloirs de 30 m × 20 m : les attaquants traversent la ligne des défenseurs qui plaquent sans mettre au sol (touché des deux mains) ; les plaqués rejoignent les défenseurs.
+
+**Durée pour préparer l’atelier :** 5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Perform a tackle (1)
+
+**Matériel — historique non réexaminé :** 8 plots (cones), ballons
+
+**Effectif minimum — historique non réexaminé :** 30
+
+**Effectif maximum — historique non réexaminé :** 30
+
+**Espace — historique non réexaminé :** 3 couloirs de 30 m × 20 m ; 10 joueurs par couloir
+
+**Durée de l’atelier — source :** 5
+
+**Organisation — source :** 30 players, 3 groups of 10 ; Equipment: 8 cones ; Space: 3 channels 30m × 20m ; 10 players per channel, starting with 3 nominated defenders in a line in the middle of the channel; the other 7 players line up along one edge of the channel as attackers
+
+**Déroulement — source :** On the coach's call, the attackers try to run past the defenders to reach the opposite edge; the defenders attempt to touch with both hands, tag or tackle the attackers by wrapping them with both arms between his/her chest and hips but without bringing the ball carrier to ground; those attackers who are tackled join the defenders…
+
+**Consignes — source :** Look for space / Dodge the defenders ; Keep the head up - focus on the waist of the ball carrier / Try to defend as one line - defend as a team
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Harder: defenders have to run and touch the sideline when they have made a tackle / Easier: attackers must hop on one leg
+
+**Adaptation U8 proposée :** Transposition U8 : texte anglais traduit pour l'usage local ; effectif de 30 joueurs (3 couloirs de 10) à réduire selon l'effectif ; le plaquage s'arrête au touché des deux mains, sans mise au sol (arbitrage 2026-11-20).
+
+**Source principale :** [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — World Rugby ; World Rugby GIR — Bulldog, carte 30/30. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : wr-gir ; World Rugby GIR — Bulldog, carte 30/30 ; 2026-11-20
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -2929,70 +3041,6 @@ coach : Regard du porteur et profondeur du soutien.; duration_min : 8; easier : 
 
 ---
 
-<a id="bib-lutte-avance"></a>
-## Deux par deux pour avancer
-
-**Catégories proposées :** Lutte · Opposition collective
-
-**Famille :** Lutte et contact · **Âge source :** M8
-
-Par binômes, les enfants progressent en poussant mutuellement dans le bon sens (forme en arc) ; le binôme qui arrive le plus loin sans se séparer gagne.
-
-**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
-
-Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
-
-**Objectif — proposition IA :** Apprendre la coordination de poussée en binôme : les deux enfants poussent dans le même sens pour avancer ; la coordination prime sur la force.
-
-**Matériel — historique non réexaminé :** 4 chasubles, plots
-
-**Effectif minimum — historique non réexaminé :** 14
-
-**Effectif maximum — historique non réexaminé :** 14
-
-**Espace — historique non réexaminé :** Couloir de 3 × 15 m, plots de bord
-
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
-
-**Organisation — proposition IA :** Couloir de 3 × 15 m délimité par des plots ; les binômes partent à l'entrée, face à face, mains sur les épaules.
-
-**Déroulement — proposition IA :** 1. Les binômes s'avancent en poussant mutuellement dans le sens du couloir, en gardant le contact des mains. 2. On avance jusqu'au plot le plus loin possible ; les rôles s'échangent au centre. 3. Variantes : avancer en reculant (poussée vers l'arrière), puis en latéral.
-
-**Consignes — proposition IA :** Les mains restent en contact ; on pousse en marchant, pas en courant ; le couloir est respecté, pas de déviation.
-
-**Critères de réussite — proposition IA :** Les deux enfants poussent dans le même sens ; les mains restent en contact ; le binôme avance sans se séparer.
-
-**Erreurs fréquentes — proposition IA :** Pousser dans des directions différentes ; lâcher le contact ; courir au lieu de pousser.
-
-**Points d’attention — proposition IA :** C'est la coordination, pas la force, qui fait avancer ; les mains restent en contact ; on pousse en marchant.
-
-**Réglages U8 historiques proposés, distincts de la source :**
-
-coach : On pousse en marchant, les mains restent au contact ; c'est la coordination, pas la force, qui fait avancer.; duration_min : 10; easier : Avancer en s'entraînant à reculer d'abord (sens inverse).; harder : Le binôme doit s'arrêter 3 secondes à chaque plot de 5 m avant de continuer.; players_max : 14; players_min : 14; setup : Couloir de 3 × 15 m délimité par des plots ; les binômes partent à l'entrée, face à face, mains sur les épaules.; steps : 1. Les binômes s'avancent en poussant mutuellement dans le sens du couloir, en gardant le contact des mains. 2. On avance jusqu'au plot le plus loin possible ; les rôles s'échangent au centre. 3. Variantes : avancer en reculant (poussée vers l'arrière), puis en latéral.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-
-**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°2. Vérification documentaire : 2026-11-19.
-
-<details>
-<summary>Provenance par rubrique et historique</summary>
-
-- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Lutte n°2 ; 2026-11-19
-
-1 révision(s) conservée(s) dans les données de l’application.
-
-</details>
-
-[Retour aux catégories](#categories)
-
----
-
 <a id="rc-ten"></a>
 ## Dix passes - variante communautaire documentee
 
@@ -4090,15 +4138,15 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre à pousser avec les jambes sans pencher le buste en avant ; préparer le geste de poussée en arc sans contact violent.
 
-**Matériel — historique non réexaminé :** Cercle de plots, 1 plot central
+**Matériel — historique non réexaminé :** 12 à 18 plots (2 à 3 cercles de 6 plots) ; 1 plot central par cercle si la variante « plus facile » est utilisée
 
 **Effectif minimum — historique non réexaminé :** 12
 
 **Effectif maximum — historique non réexaminé :** 12
 
-**Espace — historique non réexaminé :** Cercle de 3 m de diamètre délimité par 6 plots
+**Espace — historique non réexaminé :** 2 à 3 cercles de 3 m de diamètre délimités par 6 plots chacun
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 10
 
 **Organisation — proposition IA :** Cercle de 3 m de diamètre délimité par 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire.
 
@@ -4110,15 +4158,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Erreurs fréquentes — proposition IA :** Pencher le buste en avant ; pousser avec les mains au lieu des jambes ; tomber au lieu de reculer.
 
-**Points d’attention — proposition IA :** Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas en tête-à-queue.
+**Points d’attention — proposition IA :** Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas tête contre tête.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : cercle de 3 m à 6 plots choisi par l'auteur, à distinguer du couloir de la source « Je lutte debout pour avancer » (guide M8 : 1 contre 1, mains sur les épaules, 6 plots, 4 binômes maximum par atelier).
 
 **Réglages U8 historiques proposés, distincts de la source :**
 
 coach : Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas.; duration_min : 10; easier : Pousser un plot central avec les mains, sans partenaire.; harder : Le partenaire qui est poussé doit maintenir l'arc 3 secondes avant de céder.; players_max : 12; players_min : 12; setup : Un cercle de 3 m de diamètre, 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire (forme en arc).; steps : 1. L'enfant « arc » pousse à l'intérieur du cercle en gardant les jambes fléchies et le buste bas. 2. À la consigne, les rôles s'échangent ; celui qui est poussé recule sans tomber. 3. Variantes : pousser vers chaque plot du cercle tour à tour, en comptant les poussées valides.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°1. Vérification documentaire : 2026-11-19.
 
@@ -4154,19 +4200,19 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre à plaquer à deux : l'ombre plaque le premier contact, le soutien arrive derrière pour ramasser le ballon ; préparer le geste de soutien.
 
-**Matériel — historique non réexaminé :** 2 ballons, chasubles
+**Matériel — historique non réexaminé :** 4 ballons, chasubles
 
-**Effectif minimum — historique non réexaminé :** 14
+**Effectif minimum — historique non réexaminé :** 12
 
-**Effectif maximum — historique non réexaminé :** 14
+**Effectif maximum — historique non réexaminé :** 12
 
 **Espace — historique non réexaminé :** Zone de 15 × 15 m, demi-terrain
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 12
 
 **Organisation — proposition IA :** Zone de 15 × 15 m ; un attaquant ballon en main ; deux défenseurs, l'un en face, l'autre un mètre derrière ; un ballon par équipe.
 
-**Déroulement — proposition IA :** 1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : l'attaquant fait un passe-avant avant le plaquage pour tester la réaction de l'ombre.
+**Déroulement — proposition IA :** 1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre.
 
 **Consignes — proposition IA :** L'ombre plaque seul le premier contact ; le soutien arrive sur le ballon, pas sur l'attaquant ; les deux défenseurs restent en relation visuelle.
 
@@ -4176,13 +4222,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Points d’attention — proposition IA :** L'ombre plaque, le soutien ramasse ; on ne plaque pas à deux au même endroit ; le soutien arrive sur le ballon, pas sur l'enfant.
 
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : montage 1 contre 2 « ombre + soutien » non sourcé ; ancrage sur la règle M8 « les soutiens viennent par leur camp » et sur la progression du guide M8 (2 contre 2, 3 contre 3).
+
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : L'ombre plaque seul le premier contact, le soutien arrive sur le ballon ; on ne plaque pas à deux au même endroit.; duration_min : 12; easier : Le soutien arrive après le plaquage, quand l'attaquant est au sol.; harder : L'attaquant peut se faufiler : si l'ombre est pris, le soutien doit réagir.; players_max : 14; players_min : 14; setup : 15 × 15 m ; un attaquant ballon en main, deux défenseurs face à lui, l'un en face, l'autre un mètre derrière.; steps : 1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : l'attaquant fait un passe-avant avant le plaquage pour tester la réaction de l'ombre.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : L'ombre plaque seul le premier contact, le soutien arrive sur le ballon ; on ne plaque pas à deux au même endroit.; duration_min : 12; easier : Le soutien arrive après le plaquage, quand l'attaquant est au sol.; harder : L'attaquant peut se faufiler : si l'ombre est pris, le soutien doit réagir.; players_max : 12; players_min : 12; setup : 15 × 15 m ; un attaquant ballon en main, deux défenseurs face à lui, l'un en face, l'autre un mètre derrière.; steps : 1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°4. Vérification documentaire : 2026-11-19.
 
@@ -4394,7 +4438,7 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 <a id="bib-lutte-jumelle"></a>
 ## La jumelle : se disputer le ballon
 
-**Catégories proposées :** Lutte · Opposition collective
+**Catégories proposées :** Lutte · Ramassage du ballon · Duel
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -4410,19 +4454,19 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre le premier contact sur le ballon : l'enfant va chercher le ballon, pas le partenaire ; le but est la prise, pas la force.
 
-**Matériel — historique non réexaminé :** 2 ballons, 2 zones de 2 × 2 m, plots
+**Matériel — historique non réexaminé :** 6 ballons, 12 plots (6 zones de 2 × 2 m)
 
 **Effectif minimum — historique non réexaminé :** 12
 
 **Effectif maximum — historique non réexaminé :** 12
 
-**Espace — historique non réexaminé :** Ligne de 6 plots, un ballon par plot
+**Espace — historique non réexaminé :** 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 10
 
-**Organisation — proposition IA :** 6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.
+**Organisation — proposition IA :** 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.
 
-**Déroulement — proposition IA :** 1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
+**Déroulement — proposition IA :** 1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
 
 **Consignes — proposition IA :** Le premier contact est sur le ballon, pas sur l'enfant ; on va chercher le ballon, pas le partenaire ; le ballon est mis dans sa zone pour marquer.
 
@@ -4432,13 +4476,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Points d’attention — proposition IA :** Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.
 
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : zones de 2 × 2 m au lieu de 3 × 3 m de la source « Vie du ballon » (guide M8) ; le montage en ligne de 6 plots est un choix d'auteur.
+
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.; duration_min : 10; easier : Le ballon est posé sur le plot, pas au sol.; harder : Le ballon est posé à 1 m du plot, en retrait.; players_max : 12; players_min : 12; setup : 6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.; steps : 1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.; duration_min : 10; easier : Le ballon est posé sur le plot, pas au sol.; harder : Le ballon est posé à 1 m du plot, en retrait.; players_max : 12; players_min : 12; setup : 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.; steps : 1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°5. Vérification documentaire : 2026-11-19.
 
@@ -4527,7 +4569,7 @@ coach : Choisir un passage libre.; duration_min : 6; easier : Marcher sans ballo
 <a id="bib-soule-ramasser"></a>
 ## La soule : ramassage à deux mains
 
-**Catégories proposées :** Lutte · Ramassage du ballon
+**Catégories proposées :** Lutte · Ramassage du ballon · Collecte de ballons
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -4541,9 +4583,9 @@ Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une p
 
 Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
 
-**Objectif — proposition IA :** Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage avant de passer.
+**Objectif — proposition IA :** Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage.
 
-**Matériel — historique non réexaminé :** 2 soules (ou balons longs), plots
+**Matériel — historique non réexaminé :** 4 soules (ou 4 ballons longs), plots
 
 **Effectif minimum — historique non réexaminé :** 12
 
@@ -4551,11 +4593,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Espace — historique non réexaminé :** Zones de 5 × 5 m, une soule par zone
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 8
 
 **Organisation — proposition IA :** Quatre zones de 5 × 5 m ; une soule posée à chaque zone ; un enfant par zone.
 
-**Déroulement — proposition IA :** 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège avant de passer au plot suivant. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
+**Déroulement — proposition IA :** 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
 
 **Consignes — proposition IA :** Deux mains, face au ballon, genoux fléchis ; la soule est contre le buste ; on ne ramasse pas en courant.
 
@@ -4563,15 +4605,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Erreurs fréquentes — proposition IA :** Ramasser d'une main ; tourner le dos au ballon ; courir avant d'avoir pris la soule.
 
-**Points d’attention — proposition IA :** Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant le passage.
+**Points d’attention — proposition IA :** Une soule est un ballon allongé (type ballon de rugby à xiii). Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant la remise en jeu.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : 4 zones de 5 × 5 m au lieu du carré 1 × 1 m de la source (guide M8, ramassage de la soule) ; la définition de la soule (ballon allongé) est ajoutée dans les points coach.
 
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : Deux mains, face au ballon, la soule contre le buste ; on ne ramasse pas en courant.; duration_min : 8; easier : Ramasser la soule posée sur une hauteur (plot) pour réduire la prise au sol.; harder : Ramasser la soule en déplacement, en marchant en arrière vers la zone.; players_max : 12; players_min : 12; setup : Quatre zones de 5 × 5 m, une soule posée à chaque zone, un enfant par zone.; steps : 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège avant de passer au plot suivant. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : Deux mains, face au ballon, la soule contre le buste ; on ne ramasse pas en courant.; duration_min : 8; easier : Ramasser la soule posée sur une hauteur (plot) pour réduire la prise au sol.; harder : Ramasser la soule en déplacement, en marchant en arrière vers la zone.; players_max : 12; players_min : 12; setup : Quatre zones de 5 × 5 m, une soule posée à chaque zone, un enfant par zone.; steps : 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°3. Vérification documentaire : 2026-11-19.
 
@@ -4609,13 +4649,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Matériel — historique non réexaminé :** 1 ballon par binôme, plots
 
-**Effectif minimum — historique non réexaminé :** 12
+**Effectif minimum — historique non réexaminé :** 10
 
-**Effectif maximum — historique non réexaminé :** 12
+**Effectif maximum — historique non réexaminé :** 14
 
-**Espace — historique non réexaminé :** Zone de 10 × 10 m délimitée par des plots
+**Espace — historique non réexaminé :** Deux zones de 10 × 10 m délimitées par des plots
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 8
 
 **Organisation — proposition IA :** Deux zones de 10 × 10 m ; un ballon par binôme ; chaque binôme se fait face à 2 m.
 
@@ -4629,13 +4669,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Points d’attention — proposition IA :** On serre, on ne se bat pas ; la prise se fait sur les épaules, pas sur le ballon ; le serrage est coordonné avec le compte à voix haute.
 
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : création locale, non issue d'un exercice précis du guide M8 ; « index sur la nuque » ajouté par l'auteur (non sourcé) ; effectif 10-14 aligné sur la pratique U8.
+
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : On serre, on ne se bat pas ; on compte à voix haute et on relâche ensemble à la consigne.; duration_min : 8; easier : Faire la prise sur un plot ou un matelas : l'enfant s'entraîne seul, sans partenaire.; harder : Le partenaire fait un pas en avant avant le serrage : l'enfant ajuste sa prise avant le contact.; players_max : 12; players_min : 12; setup : Deux zones de 10 × 10 m, un ballon par binôme ; chaque binôme se fait face à 2 m.; steps : 1. L'éducateur montre la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : On serre, on ne se bat pas ; on compte à voix haute et on relâche ensemble à la consigne.; duration_min : 8; easier : Faire la prise sur un plot ou un matelas : l'enfant s'entraîne seul, sans partenaire.; harder : Le partenaire fait un pas en avant avant le serrage : l'enfant ajuste sa prise avant le contact.; players_max : 14; players_min : 10; setup : Deux zones de 10 × 10 m, un ballon par binôme ; chaque binôme se fait face à 2 m.; steps : 1. L'éducateur montre la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°1. Vérification documentaire : 2026-11-19.
 
@@ -4869,7 +4907,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
-Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.
+Situation de lutte en binômes pour aborder l’opposition corporelle : saisir à la taille, coller la tête, serrer les bras ; déroulement vidéo à examiner.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
@@ -4879,19 +4917,19 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **Matériel — information manquante :** non extrait
 
-**Effectif minimum — information manquante :** non extrait
+**Effectif minimum — historique non réexaminé :** 2
 
-**Effectif maximum — information manquante :** non extrait
+**Effectif maximum — historique non réexaminé :** 5
 
 **Espace — information manquante :** non extrait
 
-**Durée de l’atelier — information manquante :** non extrait
+**Durée de l’atelier — source :** 10
 
 **Organisation — information manquante :** non extrait
 
 **Déroulement — information manquante :** non extrait
 
-**Consignes — information manquante :** non extrait
+**Consignes — source :** Insister sur : les saisies à la taille, coller la tête, serrer les bras / Les règles (droits et devoirs + action sur le joueur)
 
 **Critères de réussite — information manquante :** non extrait
 
@@ -4901,9 +4939,6 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **À décider pour la séance :**
 
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-- Fixer le nombre de joueurs actifs et ceux en attente.
-- Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
@@ -4916,7 +4951,7 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
-- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Objectif, Consignes, Points d’attention, Durée de l’atelier : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -5125,6 +5160,122 @@ coach : Lever la tête et poser sans jeter.; duration_min : 6; easier : Réserve
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes, Points d’attention : rc-eggs ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-plan2023-oeufs"></a>
+## Les œufs des poules
+
+**Catégories proposées :** Lutte · Poursuite et délivrance
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Course et lutte dans la basse-cour : les poules ramassent les œufs et les déposent au poulailler de la bonne couleur pendant que les renards rampent pour les attraper.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Améliorer la notion d'avancer pour aller marquer !
+
+**Matériel — historique non réexaminé :** 4 poulaillers (plots de 4 couleurs), 6 ballons
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Une basse-cour délimitée par des plots ; les œufs (ballons) au centre
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Un groupe de 6 poules (utilisateurs) se promène dans la basse-cour ; les œufs (ballons) sont placés au centre ; 6 renards (opposants) à plat ventre au sol ; 4 poulaillers (plots 4 couleurs), 6 ballons.
+
+**Déroulement — source :** 1. ON SE PROMENE (les poules trottinent, les renards rampent). 2. LES RENARDS ARRIVENT (les poules ramassent les œufs et les renards se relèvent). 3. Après 3 à 5 sec de courses et de luttes, le fermier (éducateur) annonce la couleur du poulailler. ; 3 passages à la suite par groupe
+
+**Consignes — source :** Pour les opposants (renards) : bloquer les poules pour leurs voler les œufs, puis les apporter en dehors de la basse-cour. Pour les utilisateurs (poules) : ramasser son œuf et, sans se faire attraper, aller déposer son œuf (sans le casser !) dans le poulailler de la bonne couleur.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Plus les renards volent d'œufs… on se rapproche d'un jeu avec un ballon pour l'ensemble du groupe ! Les poules doivent alors protéger leur dernier œuf et le « transporter » en sécurité
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Plan de formation M8 2023 — séance 12/12 : Les œufs des poules. Vérification documentaire : 2026-09-07.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : ffr-plan2023 ; Plan de formation M8 2023 — séance 12/12 : Les œufs des poules ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="jskids-l08-culotte"></a>
+## Lutte à la culotte
+
+**Catégories proposées :** Lutte · Duel
+
+**Famille :** Lutte et contact · **Âge source :** 8-10 ans
+
+Face à face, épaules en contact, mains sur les hanches : se renverser mutuellement en appuyant les épaules adverses au sol, sans utiliser les jambes.
+
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Augmentation de l'engagement individuel au combat
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — historique non réexaminé :** Face à face, épaules en contact, mains sur les hanches
+
+**Durée de l’atelier — source :** 10
+
+**Organisation — source :** Deux joueurs, face à face, appuyés l'un contre l'autre avec les épaules, se tiennent à la culotte (mains sur les hanches).
+
+**Déroulement — source :** Ils tentent de se renverser mutuellement pour appuyer les épaules adverses contre le sol (prises en dessous des épaules).
+
+**Consignes — source :** Interdiction d'utiliser les jambes pour faire tomber l'adversaire
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non indiqué dans le passage examiné
+
+**Adaptation U8 proposée :** Transposition U8 : l'exercice est sourcé pour 8-10 ans ; l'adaptation à la tranche 7-8 ans (U8) est une décision du coach, déclarée ici (arbitrage 2026-11-20).
+
+**À décider pour la séance :**
+
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) — OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby ; J+S-Kids L08 — exercice 2/2 : Lutte à la culotte. Vérification documentaire : 2026-11-20.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : jskids-l08 ; J+S-Kids L08 — exercice 2/2 : Lutte à la culotte ; 2026-11-20
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -6987,7 +7138,7 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 <a id="bib-plaquage-balise"></a>
 ## Plaquage et libération autour de la balise
 
-**Catégories proposées :** Plaquage · Circulation et transmission
+**Catégories proposées :** Plaquage · Duel
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -7003,7 +7154,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre le geste de libération après un plaquage : poser le ballon dans la zone balisée en 2 secondes et revenir en position de jeu.
 
-**Matériel — historique non réexaminé :** 4 ballons, 4 balises, plots
+**Matériel — historique non réexaminé :** 2 ballons (1 par équipe), 4 balises, plots
 
 **Effectif minimum — historique non réexaminé :** 12
 
@@ -7011,11 +7162,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Espace — historique non réexaminé :** Zone de 15 × 10 m avec 4 balises aux coins
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 10
 
 **Organisation — proposition IA :** Zone de 15 × 10 m ; 4 balises aux coins ; deux équipes ; un ballon par équipe.
 
-**Déroulement — proposition IA :** 1. L'attaquant lance, l'attaquant court, le défenseur plaque. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.
+**Déroulement — proposition IA :** 1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.
 
 **Consignes — proposition IA :** Le plaquage est terminé quand le ballon est posé dans la zone balisée ; on compte la libération à voix haute ; on revient en position avant de relancer.
 
@@ -7025,13 +7176,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Points d’attention — proposition IA :** Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute ; la position de jeu fait partie du geste.
 
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : montage en zone balisée et comptage « un, deux » ajoutés par l'auteur (non sourcés) ; la libération au-delà de 1 m après le plaquage est conforme à la règle M8 de libération immédiate.
+
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute.; duration_min : 10; easier : Libération immédiate sans déplacement (poser le ballon à 1 m).; harder : La libération doit se faire dans une balise imposée, à 3 m du plaquage.; players_max : 12; players_min : 12; setup : Zone de 15 × 10 m, 4 balises aux coins ; deux équipes, un ballon.; steps : 1. L'attaquant lance, l'attaquant court, le défenseur plaque. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute.; duration_min : 10; easier : Libération immédiate sans déplacement (poser le ballon à 1 m).; harder : La libération doit se faire dans une balise imposée, à 3 m du plaquage.; players_max : 12; players_min : 12; setup : Zone de 15 × 10 m, 4 balises aux coins ; deux équipes, un ballon.; steps : 1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°3. Vérification documentaire : 2026-11-19.
 
@@ -7067,37 +7216,37 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre la ligne de plaquage de tête à pied, en position à genoux, sans contact violent ; préparer le geste de plaquage en mouvement.
 
-**Matériel — historique non réexaminé :** 1 ballon par binôme
+**Matériel — historique non réexaminé :** 6 ballons (1 par binôme), plots
 
 **Effectif minimum — historique non réexaminé :** 12
 
 **Effectif maximum — historique non réexaminé :** 12
 
-**Espace — historique non réexaminé :** Zigzag de 6 plots espacés de 2 m par ligne
+**Espace — historique non réexaminé :** Deux lignes de 3 binômes ; zigzag de 6 plots espacés de 2 m par ligne (12 plots au total)
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 10
 
 **Organisation — proposition IA :** Zigzag de 6 plots espacés de 2 m par ligne ; un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon.
 
-**Déroulement — proposition IA :** 1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant debout se relève, remet le ballon et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.
+**Déroulement — proposition IA :** 1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.
 
-**Consignes — proposition IA :** Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèchent la chemise.
+**Consignes — proposition IA :** Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèrrent le maillot (prise en tenaille, pas sur le ballon).
 
 **Critères de réussite — proposition IA :** La ligne de plaquage est de tête à pied ; la tête reste du côté du ballon ; la hanche serre ; les mains restent sur le maillot.
 
 **Erreurs fréquentes — proposition IA :** Prendre le ballon au lieu du maillot ; pousser avec les épaules ; laisser la tête s'éloigner du ballon.
 
-**Points d’attention — proposition IA :** La tête cherche le ballon, la hanche serre, les mains sèchent la chemise ; on plaque à genoux, on ne pousse pas.
+**Points d’attention — proposition IA :** La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : variante « plaquage à genoux » ; conflit de sécurité déclaré — les guides M8 2022-2023 et 2025-2026 font pratiquer un plaqueur à genou alors que le plaquage avec le genou à terre est interdit par la Règle 13 (vigilance renforcée World Rugby/FFR depuis 2026-10-05). Source la plus proche citée en références (guide M8, 1c1 9 × 8 m, plaqueur debout).
 
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : La tête cherche le ballon, la hanche serre, les mains sèchent la chemise ; on plaque à genoux, on ne pousse pas.; duration_min : 10; easier : Plaquage sur un plot fixe, sans mouvement.; harder : Le porteur de ballon fait un pas de côté avant le plaquage.; players_max : 12; players_min : 12; setup : Zigzag de 6 plots par ligne, un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon.; steps : 1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant debout se relève, remet le ballon et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.; duration_min : 10; easier : Plaquage sur un plot fixe, sans mouvement.; harder : Le porteur de ballon fait un pas de côté avant le plaquage.; players_max : 12; players_min : 12; setup : Zigzag de 6 plots par ligne, un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon.; steps : 1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°2. Vérification documentaire : 2026-11-19.
+
+**Référence complémentaire :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Livre du jeune joueur M8 2022-2023 — rubrique Plaquage — exercice 1 contre 1 (9 × 8 m, plaqueur debout). Source M8 réelle la plus proche (plaqueur debout) ; la fiche locale s'en distingue par la position à genoux, dont le conflit de sécurité est déclaré.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7247,7 +7396,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
-Protéger son équilibre face à l’adversaire ; organisation à compléter.
+Protéger son équilibre face à l’adversaire : posture semi-fléchie et ancrage au sol ; organisation à compléter.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
@@ -7257,19 +7406,19 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 
 **Matériel — information manquante :** non extrait
 
-**Effectif minimum — information manquante :** non extrait
+**Effectif minimum — historique non réexaminé :** 2
 
-**Effectif maximum — information manquante :** non extrait
+**Effectif maximum — historique non réexaminé :** 5
 
 **Espace — information manquante :** non extrait
 
-**Durée de l’atelier — information manquante :** non extrait
+**Durée de l’atelier — source :** 10
 
 **Organisation — information manquante :** non extrait
 
 **Déroulement — information manquante :** non extrait
 
-**Consignes — information manquante :** non extrait
+**Consignes — source :** Insister sur : la posture semi-fléchie / l’équilibre pour ne pas tomber, Résister en améliorant l’ancrage au sol / les règles (droits et devoirs + action sur le joueur)
 
 **Critères de réussite — information manquante :** non extrait
 
@@ -7279,9 +7428,6 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 
 **À décider pour la séance :**
 
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-- Fixer le nombre de joueurs actifs et ceux en attente.
-- Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
@@ -7294,7 +7440,7 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
-- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Objectif, Consignes, Points d’attention, Durée de l’atelier : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -7508,7 +7654,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="bib-ruck-relai"></a>
 ## Ramasser et repasser : le cycle au sol
 
-**Catégories proposées :** Passe · Lutte · Ramassage du ballon
+**Catégories proposées :** Passe · Lutte · Ramassage du ballon · Relais
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -7526,17 +7672,17 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Matériel — historique non réexaminé :** 2 ballons, 4 plots, chasubles
 
-**Effectif minimum — historique non réexaminé :** 14
+**Effectif minimum — historique non réexaminé :** 12
 
-**Effectif maximum — historique non réexaminé :** 14
+**Effectif maximum — historique non réexaminé :** 12
 
 **Espace — historique non réexaminé :** Zone de 10 × 10 m
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 12
 
 **Organisation — proposition IA :** Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.
 
-**Déroulement — proposition IA :** 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes.
+**Déroulement — proposition IA :** 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
 
 **Consignes — proposition IA :** Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la passe est faite après le ramassage, pas avant.
 
@@ -7544,15 +7690,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Erreurs fréquentes — proposition IA :** Ramasser avant le plaquage ; passer avant d'avoir ramassé ; les rôles ne s'échangent pas.
 
-**Points d’attention — proposition IA :** Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.
+**Points d’attention — proposition IA :** Ruck : ici, le cycle plaquage-ramassage-passe au sol. Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : cycle 1 contre 1 à rôles tournants, à distinguer du dispositif officiel 6 contre 4 (guide M8, ruck) ; le terme « ruck » est conservé avec une définition locale : cycle plaquage-ramassage-passe au sol.
 
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.; duration_min : 12; easier : Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.; harder : Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.; players_max : 14; players_min : 14; setup : Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.; steps : 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.; duration_min : 12; easier : Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.; harder : Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.; players_max : 12; players_min : 12; setup : Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.; steps : 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°4. Vérification documentaire : 2026-11-19.
 
@@ -8606,70 +8750,6 @@ Cinq joueurs partent en file.
 
 ---
 
-<a id="bib-plaquage-relais"></a>
-## Relais plaquage et remise en position
-
-**Catégories proposées :** Plaquage · Relais
-
-**Famille :** Lutte et contact · **Âge source :** M8
-
-En relais, chaque enfant plaque un plot, ramasse le ballon posé et revient remettre son binôme en position ; le but est la régularité du geste, pas la vitesse.
-
-**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
-
-Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
-
-Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
-
-Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
-
-**Objectif — proposition IA :** Apprendre le geste complet de plaquage, ramassage et remise en position, en relais ; la régularité du geste prime sur la vitesse.
-
-**Matériel — historique non réexaminé :** 1 ballon, 4 plots
-
-**Effectif minimum — historique non réexaminé :** 12
-
-**Effectif maximum — historique non réexaminé :** 12
-
-**Espace — historique non réexaminé :** Ligne de 10 plots espacés de 1 m, longueur 10 m
-
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
-
-**Organisation — proposition IA :** Deux équipes en ligne ; 10 plots espacés de 1 m devant chaque ligne ; un ballon par équipe à la fin de la ligne.
-
-**Déroulement — proposition IA :** 1. Le premier enfant plaque le premier plot, ramasse le ballon posé à côté et revient remettre son binôme en position. 2. Le binôme avance d'un plot et plaque ; on enchaîne jusqu'au dernier plot. 3. L'équipe qui a remis tous les enfants en position en premier gagne.
-
-**Consignes — proposition IA :** Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la remise en position se fait sans courir.
-
-**Critères de réussite — proposition IA :** Le geste de plaquage, ramassage et remise en position est fluide ; le plot est plaqué, pas contourné ; la remise en position est propre.
-
-**Erreurs fréquentes — proposition IA :** Contourner le plot au lieu de le plaquer ; courir avant d'avoir remis ; ne pas ramasser le ballon.
-
-**Points d’attention — proposition IA :** Le plaquage, le ramassage et la remise font partie du même geste ; la régularité prime sur la vitesse.
-
-**Réglages U8 historiques proposés, distincts de la source :**
-
-coach : On plaque, on ramasse, on revient : le geste de remise en position fait partie de l'exercice.; duration_min : 10; easier : Plaquage des plots par paires, sans course de retour.; harder : Le retour se fait en courant, la main sur la tête.; players_max : 12; players_min : 12; setup : Deux équipes en ligne ; 10 plots espacés de 1 m devant chaque ligne ; un ballon par équipe à la fin de la ligne.; steps : 1. Le premier enfant plaque le premier plot en ligne, ramasse le ballon posé à côté et revient remettre son binôme en position. 2. Le binôme avance d'un plot et plaque ; on enchaîne jusqu'au dernier plot. 3. L'équipe qui a remis tous les enfants en position en premier gagne.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-
-**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°5. Vérification documentaire : 2026-11-19.
-
-<details>
-<summary>Provenance par rubrique et historique</summary>
-
-- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Plaquage n°5 ; 2026-11-19
-
-1 révision(s) conservée(s) dans les données de l’application.
-
-</details>
-
-[Retour aux catégories](#categories)
-
----
-
 <a id="ffr-relais-atelier"></a>
 ## Relais — courir, rouler, passer
 
@@ -8852,6 +8932,68 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Organisation, Déroulement, Consignes, Durée de l’atelier : nz-rip-source ; DRILL EXPLANATION ; 2026-09-09
 
 2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-gir-rucktouch"></a>
+## Ruck Touch Rugby 6v4
+
+**Catégories proposées :** Ramassage du ballon · Opposition collective
+
+**Famille :** Lutte et contact · **Âge source :** None
+
+6 attaquants contre 4 défenseurs en 3 couloirs : après le plaquage, le porteur glisse au sol et un coéquipier se dresse au-dessus de lui pour protéger le ballon (introduction au ruck).
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Set up a ruck. In Rugby, when a tackled player falls to the ground, a supporting player can come in and help prevent the defenders from taking the ball by standing over the tackled player. If there are 3 players involved — 2 attackers and 1 defender - it is called a "ruck".
+
+**Matériel — historique non réexaminé :** 3 ballons, 8 plots (cones)
+
+**Effectif minimum — historique non réexaminé :** 30
+
+**Effectif maximum — historique non réexaminé :** 30
+
+**Espace — historique non réexaminé :** 3 couloirs de 30 m × 20 m ; 10 joueurs par couloir
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** 30 joueurs, 3 couloirs 30×20 m, 3 ballons, 8 plots ; Split the 10 players in each channel into two teams — 4 players to defend, 6 players to attack ; Start the game with a free pass at the centre, ensuring that the defending team retreats 7 metres
+
+**Déroulement — source :** If 2-hands-touched / tagged / tackled, the ball carrier must not pass but must hold the ball and slide onto the ground. The ball carrier should lie parallel to the try line with the ball held at arms length away from his/her body towards his/her team mates. Another attacking player must come in and stand over the tackled player to prevent the defenders picking the ball up. The tackler holds the ball carrier until the next attacking player takes the ball. The tackler only holds the ball carrier – he/she does not wrestle or turn the ball carrier. After a successful tackle, the defender must stay on his/her own side of the ball (stay onside) and must not attempt to intercept or obstruct the pass. When a tackle is made, the defending team must retreat 7 metres. Only the tackler can remain with the ball carrier.
+
+**Consignes — source :** The second attacker must stand in a crouched position over the tackled player to protect the ball ; After making the tackle, stay on the feet if possible and allow the second attacker to stand over the tackled player
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Harder: tacklers can try to take the ball once it is placed on the ground / Easier: all defenders, apart from the tackler, have to retreat 7 metres when a tackle is made
+
+**Adaptation U8 proposée :** Transposition U8 : texte anglais traduit pour l'usage local ; effectif de 30 joueurs (3 couloirs de 10) à réduire selon l'effectif ; l'exercice introduit le ruck par la position au-dessus du joueur plaqué (arbitrage 2026-11-20).
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — World Rugby ; World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30. Vérification documentaire : 2026-09-06.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : wr-gir ; World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30 ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -9493,6 +9635,58 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Points d’attention : nz-shadow-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
 
 3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="jskids-l08-sumo"></a>
+## Sumo 1x1
+
+**Catégories proposées :** Lutte · Duel
+
+**Famille :** Lutte et contact · **Âge source :** 8-10 ans
+
+Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et repousser l'adversaire chez lui, sans utiliser les jambes.
+
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Augmentation de l'engagement individuel au combat
+
+**Matériel — historique non réexaminé :** Affaires de sport usagées
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — historique non réexaminé :** Face à face, à 2 m de distance
+
+**Durée de l’atelier — source :** 10
+
+**Organisation — source :** Face à face, distants de 2m, les joueurs sont sur les pieds, les mains posées au sol.
+
+**Déroulement — source :** Au signal, ils saisissent leur adversaire à bras le corps et tentent de le repousser chez lui.
+
+**Consignes — source :** Interdiction d'utiliser les jambes pour faire tomber l'adversaire
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non indiqué dans le passage examiné
+
+**Adaptation U8 proposée :** Transposition U8 : l'exercice est sourcé pour 8-10 ans ; l'adaptation à la tranche 7-8 ans (U8) est une décision du coach, déclarée ici (arbitrage 2026-11-20).
+
+**Source principale :** [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) — OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby ; J+S-Kids L08 — exercice 2/2 : Sumo 1x1. Vérification documentaire : 2026-11-20.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : jskids-l08 ; J+S-Kids L08 — exercice 2/2 : Sumo 1x1 ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 

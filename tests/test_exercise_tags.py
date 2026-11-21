@@ -13,8 +13,8 @@ class TagTests(unittest.TestCase):
         tags.attach(self.payload, self.taxonomy)
 
     def test_all_records_covered_without_duplicate_variants(self):
-        self.assertEqual(len(self.payload["exercises"]), 168)
-        self.assertEqual(len({e["id"] for e in self.payload["exercises"]}), 168)
+        self.assertEqual(len(self.payload["exercises"]), 172)
+        self.assertEqual(len({e["id"] for e in self.payload["exercises"]}), 172)
         self.assertTrue(all(e["tag_ids"] for e in self.payload["exercises"]))
 
     def test_cross_category_filters_return_unique_results(self):
@@ -28,12 +28,13 @@ class TagTests(unittest.TestCase):
         e = next(e for e in self.payload["exercises"] if e["id"] == "au-pop-race")
         self.assertNotIn("skill:plaquage", e["tag_ids"])
         self.assertEqual([e["id"] for e in tags.select(self.payload, ["skill:plaquage"])],
-                         ["bib-plaquage-a-genoux", "bib-plaquage-balise", "bib-plaquage-relais",
-                          "bib-plaquage-soutien", "bib-plaquage-tenue"])
+                         ["bib-plaquage-a-genoux", "bib-plaquage-balise",
+                          "bib-plaquage-soutien", "bib-plaquage-tenue",
+                          "ffr-guide-m8-1c1", "wr-gir-bulldog"])
         rows = tags.select(self.payload, ["skill:plaquage"], include_incomplete=True)
         self.assertEqual([e["id"] for e in rows], ["bib-plaquage-a-genoux", "bib-plaquage-balise",
-                        "bib-plaquage-relais", "bib-plaquage-soutien", "bib-plaquage-tenue",
-                        "ffr-plaquage-atelier"])
+                        "bib-plaquage-soutien", "bib-plaquage-tenue",
+                        "ffr-guide-m8-1c1", "ffr-plaquage-atelier", "wr-gir-bulldog"])
         self.assertEqual([e for e in rows if e["id"] == "ffr-plaquage-atelier"][0]["tagging"]["status"],
                          "PROVISIONAL")
 

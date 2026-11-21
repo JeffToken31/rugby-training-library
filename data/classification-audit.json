@@ -1574,15 +1574,6 @@
       "locator": "Création locale 2026-11 — Plaquage n°4"
     },
     {
-      "variant_id": "bib-plaquage-relais",
-      "family_id": "F18",
-      "status": "REVIEWED_CANDIDATE",
-      "origin": "AI_INFERRED",
-      "discriminant": "Relais plaquage de plot, ramassage du ballon posé à côté et remise en position, en équipe.",
-      "source_id": "biblio-creation-202611",
-      "locator": "Création locale 2026-11 — Plaquage n°5"
-    },
-    {
       "variant_id": "bib-lutte-arc",
       "family_id": "F18",
       "status": "REVIEWED_CANDIDATE",
@@ -1590,15 +1581,6 @@
       "discriminant": "Poussée en forme d'arc dans un cercle de plots, jambes fléchies, buste bas, sans tomber.",
       "source_id": "biblio-creation-202611",
       "locator": "Création locale 2026-11 — Lutte n°1"
-    },
-    {
-      "variant_id": "bib-lutte-avance",
-      "family_id": "F18",
-      "status": "REVIEWED_CANDIDATE",
-      "origin": "AI_INFERRED",
-      "discriminant": "Coordination de poussée en binôme dans un couloir, mains en contact, dans le même sens.",
-      "source_id": "biblio-creation-202611",
-      "locator": "Création locale 2026-11 — Lutte n°2"
     },
     {
       "variant_id": "bib-soule-ramasser",
@@ -1626,6 +1608,60 @@
       "discriminant": "Premier contact sur le ballon au sol, disputé entre deux enfants, mise du ballon dans sa zone.",
       "source_id": "biblio-creation-202611",
       "locator": "Création locale 2026-11 — Lutte n°5"
+    },
+    {
+      "variant_id": "ffr-guide-m8-1c1",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "1 contre 1 : quatre plaquages en sécurité en alternance droite et gauche sur rectangle de 9 m x 8 m, épaule à la taille et tête du bon côté.",
+      "source_id": "ffr-guide-m8-2023",
+      "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout"
+    },
+    {
+      "variant_id": "ffr-plan2023-oeufs",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "Course et lutte dans la basse-cour : les poules ramassent les œufs et les déposent au poulailler de la bonne couleur pendant que les renards rampent pour les attraper.",
+      "source_id": "ffr-plan2023",
+      "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules"
+    },
+    {
+      "variant_id": "jskids-l08-sumo",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et repousser l’adversaire chez lui, sans utiliser les jambes.",
+      "source_id": "jskids-l08",
+      "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1"
+    },
+    {
+      "variant_id": "jskids-l08-culotte",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "Face à face, épaules en contact, mains sur les hanches : se renverser mutuellement en appuyant les épaules adverses au sol, sans utiliser les jambes.",
+      "source_id": "jskids-l08",
+      "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte"
+    },
+    {
+      "variant_id": "wr-gir-bulldog",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "3 couloirs de 30 m × 20 m : les attaquants traversent la ligne des défenseurs qui plaquent sans mettre au sol (touché des deux mains) ; les plaqués rejoignent les défenseurs.",
+      "source_id": "wr-gir",
+      "locator": "World Rugby GIR — Bulldog, carte 30/30"
+    },
+    {
+      "variant_id": "wr-gir-rucktouch",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "6 attaquants contre 4 défenseurs en 3 couloirs : après le plaquage, le porteur glisse au sol et un coéquipier se dresse au-dessus de lui pour protéger le ballon (introduction au ruck).",
+      "source_id": "wr-gir",
+      "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30"
     }
   ],
   "pair_reviews": [

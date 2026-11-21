@@ -71,13 +71,13 @@ class WebappApiTests(unittest.TestCase):
     def test_catalogue_view_shape_and_counts(self):
         code, view = call_json("/api/catalogue")
         self.assertEqual(code, 200)
-        self.assertEqual(view["summary"]["records"], 168)
-        # Le catalogue complet est livré (168 cartes) ; la sélection
+        self.assertEqual(view["summary"]["records"], 172)
+        # Le catalogue complet est livré (172 cartes) ; la sélection
         # « masquer les incomplètes » est réappliquée côté client sur
-        # default_visible. Par défaut : 159 visibles, 9 incomplètes masquées.
-        self.assertEqual(len(view["cards"]), 168)
+        # default_visible. Par défaut : 163 visibles, 9 incomplètes masquées.
+        self.assertEqual(len(view["cards"]), 172)
         default_visible = [c for c in view["cards"] if c["default_visible"]]
-        self.assertEqual(len(default_visible), 159)
+        self.assertEqual(len(default_visible), 163)
         self.assertEqual(len(view["tag_taxonomy"]["tags"]), 26)
         self.assertEqual(len(view["families"]), 22)
         self.assertTrue(view["policy"]["note"])
@@ -109,7 +109,7 @@ class WebappApiTests(unittest.TestCase):
 
     def test_media_join_complete_with_incomplete_included(self):
         code, body = call_json("/api/recherche", query="include_incomplete=true")
-        self.assertEqual(body["count"], 168)
+        self.assertEqual(body["count"], 172)
         with_video = {c["id"] for c in body["cards"] if c["media"]["video"]}
         self.assertEqual(
             with_video,
@@ -129,14 +129,14 @@ class WebappApiTests(unittest.TestCase):
         # affichées, badge d'état à l'appui.
         code, body = call_json("/api/recherche")
         self.assertEqual(code, 200)
-        self.assertEqual(body["count"], 168)
-        self.assertEqual(len(body["cards"]), 168)
+        self.assertEqual(body["count"], 172)
+        self.assertEqual(len(body["cards"]), 172)
 
     def test_recherche_hide_incomplete(self):
         code, body = call_json("/api/recherche", query="include_incomplete=false")
         self.assertEqual(code, 200)
-        self.assertEqual(body["count"], 159)
-        self.assertEqual(len(body["cards"]), 159)
+        self.assertEqual(body["count"], 163)
+        self.assertEqual(len(body["cards"]), 163)
 
     def test_recherche_accent_insensitive(self):
         # « récupérer » accentué ou non tombe sur le même ensemble.
@@ -173,8 +173,9 @@ class WebappApiTests(unittest.TestCase):
         tag_ids = ["skill:plaquage"]
         expected = [e["id"] for e in tags.select(self.payload, tag_ids, include_incomplete=True)]
         self.assertEqual(expected, ["bib-plaquage-a-genoux", "bib-plaquage-balise",
-                                     "bib-plaquage-relais", "bib-plaquage-soutien",
-                                     "bib-plaquage-tenue", "ffr-plaquage-atelier"])
+                                     "bib-plaquage-soutien", "bib-plaquage-tenue",
+                                     "ffr-guide-m8-1c1", "ffr-plaquage-atelier",
+                                     "wr-gir-bulldog"])
         code, body = call_json(
             "/api/recherche", query="tags=skill%3Aplaquage&include_incomplete=true"
         )

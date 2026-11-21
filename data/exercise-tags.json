@@ -2839,7 +2839,7 @@
       "variant_id": "bib-plaquage-balise",
       "tag_ids": [
         "skill:plaquage",
-        "format:circulation"
+        "format:duel"
       ],
       "origin": "AI_INFERRED",
       "reviewed_on": "2026-11-19",
@@ -2867,21 +2867,6 @@
       "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
     },
     {
-      "variant_id": "bib-plaquage-relais",
-      "tag_ids": [
-        "skill:plaquage",
-        "format:relais"
-      ],
-      "origin": "AI_INFERRED",
-      "reviewed_on": "2026-11-19",
-      "status": "EDITORIAL_REVIEWED",
-      "basis_fields": [
-        "title",
-        "fields.steps"
-      ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
-    },
-    {
       "variant_id": "bib-lutte-arc",
       "tag_ids": [
         "skill:lutte",
@@ -2897,25 +2882,11 @@
       "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
     },
     {
-      "variant_id": "bib-lutte-avance",
-      "tag_ids": [
-        "skill:lutte",
-        "format:opposition-collective"
-      ],
-      "origin": "AI_INFERRED",
-      "reviewed_on": "2026-11-19",
-      "status": "EDITORIAL_REVIEWED",
-      "basis_fields": [
-        "title",
-        "fields.steps"
-      ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
-    },
-    {
       "variant_id": "bib-soule-ramasser",
       "tag_ids": [
         "skill:lutte",
-        "skill:ramassage"
+        "skill:ramassage",
+        "format:collecte"
       ],
       "origin": "AI_INFERRED",
       "reviewed_on": "2026-11-19",
@@ -2931,7 +2902,8 @@
       "tag_ids": [
         "skill:lutte",
         "skill:ramassage",
-        "skill:passe"
+        "skill:passe",
+        "format:relais"
       ],
       "origin": "AI_INFERRED",
       "reviewed_on": "2026-11-19",
@@ -2946,7 +2918,8 @@
       "variant_id": "bib-lutte-jumelle",
       "tag_ids": [
         "skill:lutte",
-        "format:opposition-collective"
+        "skill:ramassage",
+        "format:duel"
       ],
       "origin": "AI_INFERRED",
       "reviewed_on": "2026-11-19",
@@ -2956,6 +2929,96 @@
         "fields.steps"
       ],
       "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "ffr-guide-m8-1c1",
+      "tag_ids": [
+        "skill:plaquage",
+        "format:duel"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-20",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "ffr-plan2023-oeufs",
+      "tag_ids": [
+        "skill:lutte",
+        "format:poursuite"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-20",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "jskids-l08-sumo",
+      "tag_ids": [
+        "skill:lutte",
+        "format:duel"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-20",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "jskids-l08-culotte",
+      "tag_ids": [
+        "skill:lutte",
+        "format:duel"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-20",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "wr-gir-bulldog",
+      "tag_ids": [
+        "skill:plaquage",
+        "format:opposition-collective"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-20",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
+      "variant_id": "wr-gir-rucktouch",
+      "tag_ids": [
+        "skill:ramassage",
+        "format:opposition-collective"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-20",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
     }
   ]
 }

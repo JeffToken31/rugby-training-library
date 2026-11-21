@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Lutte · Ramassage du ballon
+**Catégories proposées :** Passe · Lutte · Ramassage du ballon · Relais
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -20,17 +20,17 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Matériel — historique non réexaminé :** 2 ballons, 4 plots, chasubles
 
-**Effectif minimum — historique non réexaminé :** 14
+**Effectif minimum — historique non réexaminé :** 12
 
-**Effectif maximum — historique non réexaminé :** 14
+**Effectif maximum — historique non réexaminé :** 12
 
 **Espace — historique non réexaminé :** Zone de 10 × 10 m
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 12
 
 **Organisation — proposition IA :** Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.
 
-**Déroulement — proposition IA :** 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes.
+**Déroulement — proposition IA :** 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
 
 **Consignes — proposition IA :** Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la passe est faite après le ramassage, pas avant.
 
@@ -38,15 +38,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Erreurs fréquentes — proposition IA :** Ramasser avant le plaquage ; passer avant d'avoir ramassé ; les rôles ne s'échangent pas.
 
-**Points d’attention — proposition IA :** Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.
+**Points d’attention — proposition IA :** Ruck : ici, le cycle plaquage-ramassage-passe au sol. Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : cycle 1 contre 1 à rôles tournants, à distinguer du dispositif officiel 6 contre 4 (guide M8, ruck) ; le terme « ruck » est conservé avec une définition locale : cycle plaquage-ramassage-passe au sol.
 
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.; duration_min : 12; easier : Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.; harder : Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.; players_max : 14; players_min : 14; setup : Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.; steps : 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.; duration_min : 12; easier : Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.; harder : Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.; players_max : 12; players_min : 12; setup : Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.; steps : 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°4. Vérification documentaire : 2026-11-19.
 

@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-168 fiches ; 159 documentées ; 9 incomplètes.
-168 fiches enrichies ; 93 ressources ; 0 ressources capturées localement.
+172 fiches ; 163 documentées ; 9 incomplètes.
+172 fiches enrichies ; 94 ressources ; 0 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 151 | 17 | 0 | 0 | 0 |
-| organisation | 158 | 10 | 0 | 0 | 0 |
-| steps | 159 | 9 | 0 | 0 | 0 |
-| instructions | 159 | 9 | 0 | 0 | 0 |
-| success_criteria | 30 | 138 | 0 | 0 | 0 |
-| common_errors | 17 | 151 | 0 | 0 | 0 |
-| coach_points | 74 | 94 | 0 | 0 | 0 |
-| duration_min | 21 | 65 | 82 | 0 | 0 |
-| players_min | 73 | 70 | 24 | 0 | 1 |
-| players_max | 71 | 70 | 26 | 0 | 1 |
-| space | 61 | 79 | 28 | 0 | 0 |
-| material | 142 | 26 | 0 | 0 | 0 |
+| objectives | 155 | 17 | 0 | 0 | 0 |
+| organisation | 162 | 10 | 0 | 0 | 0 |
+| steps | 163 | 9 | 0 | 0 | 0 |
+| instructions | 165 | 7 | 0 | 0 | 0 |
+| success_criteria | 28 | 144 | 0 | 0 | 0 |
+| common_errors | 15 | 157 | 0 | 0 | 0 |
+| coach_points | 76 | 94 | 2 | 0 | 0 |
+| duration_min | 34 | 63 | 75 | 0 | 0 |
+| players_min | 79 | 68 | 24 | 0 | 1 |
+| players_max | 77 | 68 | 26 | 0 | 1 |
+| space | 65 | 79 | 28 | 0 | 0 |
+| material | 145 | 27 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -63,6 +63,7 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) : Aucune capture ; pas de tentative enregistrée
+- [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Aucune capture ; pas de tentative enregistrée
 - [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Aucune capture ; pas de tentative enregistrée

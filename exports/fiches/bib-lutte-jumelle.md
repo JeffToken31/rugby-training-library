@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Lutte · Opposition collective
+**Catégories proposées :** Lutte · Ramassage du ballon · Duel
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -18,19 +18,19 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre le premier contact sur le ballon : l'enfant va chercher le ballon, pas le partenaire ; le but est la prise, pas la force.
 
-**Matériel — historique non réexaminé :** 2 ballons, 2 zones de 2 × 2 m, plots
+**Matériel — historique non réexaminé :** 6 ballons, 12 plots (6 zones de 2 × 2 m)
 
 **Effectif minimum — historique non réexaminé :** 12
 
 **Effectif maximum — historique non réexaminé :** 12
 
-**Espace — historique non réexaminé :** Ligne de 6 plots, un ballon par plot
+**Espace — historique non réexaminé :** 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 10
 
-**Organisation — proposition IA :** 6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.
+**Organisation — proposition IA :** 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.
 
-**Déroulement — proposition IA :** 1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
+**Déroulement — proposition IA :** 1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
 
 **Consignes — proposition IA :** Le premier contact est sur le ballon, pas sur l'enfant ; on va chercher le ballon, pas le partenaire ; le ballon est mis dans sa zone pour marquer.
 
@@ -40,13 +40,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Points d’attention — proposition IA :** Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.
 
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : zones de 2 × 2 m au lieu de 3 × 3 m de la source « Vie du ballon » (guide M8) ; le montage en ligne de 6 plots est un choix d'auteur.
+
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.; duration_min : 10; easier : Le ballon est posé sur le plot, pas au sol.; harder : Le ballon est posé à 1 m du plot, en retrait.; players_max : 12; players_min : 12; setup : 6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.; steps : 1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.; duration_min : 10; easier : Le ballon est posé sur le plot, pas au sol.; harder : Le ballon est posé à 1 m du plot, en retrait.; players_max : 12; players_min : 12; setup : 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.; steps : 1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°5. Vérification documentaire : 2026-11-19.
 

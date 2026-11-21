@@ -1350,23 +1350,7 @@
       "profile_id": "skill"
     },
     {
-      "variant_id": "bib-plaquage-relais",
-      "origin": "AI_INFERRED",
-      "status": "PLANNING_PROPOSAL",
-      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
-      "coach_confirmation_required": true,
-      "profile_id": "skill"
-    },
-    {
       "variant_id": "bib-lutte-arc",
-      "origin": "AI_INFERRED",
-      "status": "PLANNING_PROPOSAL",
-      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
-      "coach_confirmation_required": true,
-      "profile_id": "skill"
-    },
-    {
-      "variant_id": "bib-lutte-avance",
       "origin": "AI_INFERRED",
       "status": "PLANNING_PROPOSAL",
       "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
@@ -1396,6 +1380,54 @@
       "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
       "coach_confirmation_required": true,
       "profile_id": "skill"
+    },
+    {
+      "variant_id": "ffr-guide-m8-1c1",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
+      "variant_id": "ffr-plan2023-oeufs",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "game"
+    },
+    {
+      "variant_id": "jskids-l08-sumo",
+      "origin": "AI_INFERRED",
+      "status": "EXISTING_DURATION",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": null
+    },
+    {
+      "variant_id": "jskids-l08-culotte",
+      "origin": "AI_INFERRED",
+      "status": "EXISTING_DURATION",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": null
+    },
+    {
+      "variant_id": "wr-gir-bulldog",
+      "origin": "AI_INFERRED",
+      "status": "EXISTING_DURATION",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": null
+    },
+    {
+      "variant_id": "wr-gir-rucktouch",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+      "coach_confirmation_required": true,
+      "profile_id": "game"
     }
   ]
 }

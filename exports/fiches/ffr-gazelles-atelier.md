@@ -6,7 +6,7 @@
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
-Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.
+Situation de lutte en binômes pour aborder l’opposition corporelle : saisir à la taille, coller la tête, serrer les bras ; déroulement vidéo à examiner.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
@@ -16,19 +16,19 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **Matériel — information manquante :** non extrait
 
-**Effectif minimum — information manquante :** non extrait
+**Effectif minimum — historique non réexaminé :** 2
 
-**Effectif maximum — information manquante :** non extrait
+**Effectif maximum — historique non réexaminé :** 5
 
 **Espace — information manquante :** non extrait
 
-**Durée de l’atelier — information manquante :** non extrait
+**Durée de l’atelier — source :** 10
 
 **Organisation — information manquante :** non extrait
 
 **Déroulement — information manquante :** non extrait
 
-**Consignes — information manquante :** non extrait
+**Consignes — source :** Insister sur : les saisies à la taille, coller la tête, serrer les bras / Les règles (droits et devoirs + action sur le joueur)
 
 **Critères de réussite — information manquante :** non extrait
 
@@ -38,9 +38,6 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **À décider pour la séance :**
 
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-- Fixer le nombre de joueurs actifs et ceux en attente.
-- Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
@@ -53,7 +50,7 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
-- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Objectif, Consignes, Points d’attention, Durée de l’atelier : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
 
 1 révision(s) conservée(s) dans les données de l’application.
 

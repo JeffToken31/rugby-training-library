@@ -20,13 +20,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Matériel — historique non réexaminé :** 1 ballon par binôme, plots
 
-**Effectif minimum — historique non réexaminé :** 12
+**Effectif minimum — historique non réexaminé :** 10
 
-**Effectif maximum — historique non réexaminé :** 12
+**Effectif maximum — historique non réexaminé :** 14
 
-**Espace — historique non réexaminé :** Zone de 10 × 10 m délimitée par des plots
+**Espace — historique non réexaminé :** Deux zones de 10 × 10 m délimitées par des plots
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 8
 
 **Organisation — proposition IA :** Deux zones de 10 × 10 m ; un ballon par binôme ; chaque binôme se fait face à 2 m.
 
@@ -40,13 +40,11 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Points d’attention — proposition IA :** On serre, on ne se bat pas ; la prise se fait sur les épaules, pas sur le ballon ; le serrage est coordonné avec le compte à voix haute.
 
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : création locale, non issue d'un exercice précis du guide M8 ; « index sur la nuque » ajouté par l'auteur (non sourcé) ; effectif 10-14 aligné sur la pratique U8.
+
 **Réglages U8 historiques proposés, distincts de la source :**
 
-coach : On serre, on ne se bat pas ; on compte à voix haute et on relâche ensemble à la consigne.; duration_min : 8; easier : Faire la prise sur un plot ou un matelas : l'enfant s'entraîne seul, sans partenaire.; harder : Le partenaire fait un pas en avant avant le serrage : l'enfant ajuste sa prise avant le contact.; players_max : 12; players_min : 12; setup : Deux zones de 10 × 10 m, un ballon par binôme ; chaque binôme se fait face à 2 m.; steps : 1. L'éducateur montre la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+coach : On serre, on ne se bat pas ; on compte à voix haute et on relâche ensemble à la consigne.; duration_min : 8; easier : Faire la prise sur un plot ou un matelas : l'enfant s'entraîne seul, sans partenaire.; harder : Le partenaire fait un pas en avant avant le serrage : l'enfant ajuste sa prise avant le contact.; players_max : 14; players_min : 10; setup : Deux zones de 10 × 10 m, un ballon par binôme ; chaque binôme se fait face à 2 m.; steps : 1. L'éducateur montre la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°1. Vérification documentaire : 2026-11-19.
 

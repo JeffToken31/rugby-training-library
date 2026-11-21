@@ -18,15 +18,15 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Objectif — proposition IA :** Apprendre à pousser avec les jambes sans pencher le buste en avant ; préparer le geste de poussée en arc sans contact violent.
 
-**Matériel — historique non réexaminé :** Cercle de plots, 1 plot central
+**Matériel — historique non réexaminé :** 12 à 18 plots (2 à 3 cercles de 6 plots) ; 1 plot central par cercle si la variante « plus facile » est utilisée
 
 **Effectif minimum — historique non réexaminé :** 12
 
 **Effectif maximum — historique non réexaminé :** 12
 
-**Espace — historique non réexaminé :** Cercle de 3 m de diamètre délimité par 6 plots
+**Espace — historique non réexaminé :** 2 à 3 cercles de 3 m de diamètre délimités par 6 plots chacun
 
-**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+**Durée de l’atelier — proposition IA :** 10
 
 **Organisation — proposition IA :** Cercle de 3 m de diamètre délimité par 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire.
 
@@ -38,15 +38,13 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Erreurs fréquentes — proposition IA :** Pencher le buste en avant ; pousser avec les mains au lieu des jambes ; tomber au lieu de reculer.
 
-**Points d’attention — proposition IA :** Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas en tête-à-queue.
+**Points d’attention — proposition IA :** Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas tête contre tête.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : cercle de 3 m à 6 plots choisi par l'auteur, à distinguer du couloir de la source « Je lutte debout pour avancer » (guide M8 : 1 contre 1, mains sur les épaules, 6 plots, 4 binômes maximum par atelier).
 
 **Réglages U8 historiques proposés, distincts de la source :**
 
 coach : Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas.; duration_min : 10; easier : Pousser un plot central avec les mains, sans partenaire.; harder : Le partenaire qui est poussé doit maintenir l'arc 3 secondes avant de céder.; players_max : 12; players_min : 12; setup : Un cercle de 3 m de diamètre, 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire (forme en arc).; steps : 1. L'enfant « arc » pousse à l'intérieur du cercle en gardant les jambes fléchies et le buste bas. 2. À la consigne, les rôles s'échangent ; celui qui est poussé recule sans tomber. 3. Variantes : pousser vers chaque plot du cercle tour à tour, en comptant les poussées valides.
-
-**À décider pour la séance :**
-
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°1. Vérification documentaire : 2026-11-19.
 

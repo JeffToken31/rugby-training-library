@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-19T12:08:04.609117+00:00",
-  "variants": 168,
-  "documented": 159,
+  "generated_at": "2026-11-21T19:06:58.251326+00:00",
+  "variants": 172,
+  "documented": 163,
   "incomplete": 9,
-  "enriched": 168,
-  "resources": 93,
+  "enriched": 172,
+  "resources": 94,
   "captured_resources": 0,
   "families": 2,
   "events": [],
@@ -216,6 +216,13 @@
       "resource_id": "imagine-games-source",
       "title": "Imagine Rugby Game Cards",
       "url": "https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "jskids-l08",
+      "title": "J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1",
+      "url": "https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf",
       "capture_recorded": false,
       "last_attempt": null
     },

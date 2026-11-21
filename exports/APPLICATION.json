@@ -7929,7 +7929,7 @@
         "locator": "Création locale 2026-11 — Lutte n°1"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : cercle de 3 m à 6 plots choisi par l'auteur, à distinguer du couloir de la source « Je lutte debout pour avancer » (guide M8 : 1 contre 1, mains sur les épaules, 6 plots, 4 binômes maximum par atelier).",
       "u8_proposed_settings": {
         "coach": "Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas.",
         "duration_min": 10,
@@ -8017,7 +8017,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas en tête-à-queue.",
+          "value": "Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas tête contre tête.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8027,9 +8027,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8051,12 +8051,12 @@
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Cercle de 3 m de diamètre délimité par 6 plots"
+          "value": "2 à 3 cercles de 3 m de diamètre délimités par 6 plots chacun"
         },
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Cercle de plots, 1 plot central"
+          "value": "12 à 18 plots (2 à 3 cercles de 6 plots) ; 1 plot central par cercle si la variante « plus facile » est utilisée"
         }
       },
       "documentary_fields": {
@@ -8135,7 +8135,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas en tête-à-queue.",
+          "value": "Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas tête contre tête.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8145,9 +8145,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8169,12 +8169,12 @@
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Cercle de 3 m de diamètre délimité par 6 plots"
+          "value": "2 à 3 cercles de 3 m de diamètre délimités par 6 plots chacun"
         },
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Cercle de plots, 1 plot central"
+          "value": "12 à 18 plots (2 à 3 cercles de 6 plots) ; 1 plot central par cercle si la variante « plus facile » est utilisée"
         }
       },
       "source": {
@@ -8209,9 +8209,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -8223,13 +8221,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:lutte",
         "format:duel"
@@ -8277,369 +8269,6 @@
       "warmup_usage": null
     },
     {
-      "id": "bib-lutte-avance",
-      "title": "Deux par deux pour avancer",
-      "original_title": null,
-      "summary": "Par binômes, les enfants progressent en poussant mutuellement dans le bon sens (forme en arc) ; le binôme qui arrive le plus loin sans se séparer gagne.",
-      "theme": "lutte",
-      "classification": {
-        "variant_id": "bib-lutte-avance",
-        "family_id": "F18",
-        "status": "REVIEWED_CANDIDATE",
-        "origin": "AI_INFERRED",
-        "discriminant": "Coordination de poussée en binôme dans un couloir, mains en contact, dans le même sens.",
-        "source_id": "biblio-creation-202611",
-        "locator": "Création locale 2026-11 — Lutte n°2"
-      },
-      "age_source": "M8",
-      "u8_adaptation": null,
-      "u8_proposed_settings": {
-        "coach": "On pousse en marchant, les mains restent au contact ; c'est la coordination, pas la force, qui fait avancer.",
-        "duration_min": 10,
-        "easier": "Avancer en s'entraînant à reculer d'abord (sens inverse).",
-        "harder": "Le binôme doit s'arrêter 3 secondes à chaque plot de 5 m avant de continuer.",
-        "players_max": 14,
-        "players_min": 14,
-        "setup": "Couloir de 3 × 15 m délimité par des plots ; les binômes partent à l'entrée, face à face, mains sur les épaules.",
-        "steps": "1. Les binômes s'avancent en poussant mutuellement dans le sens du couloir, en gardant le contact des mains. 2. On avance jusqu'au plot le plus loin possible ; les rôles s'échangent au centre. 3. Variantes : avancer en reculant (poussée vers l'arrière), puis en latéral."
-      },
-      "participants_scope": null,
-      "fields": {
-        "objectives": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Apprendre la coordination de poussée en binôme : les deux enfants poussent dans le même sens pour avancer ; la coordination prime sur la force.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "organisation": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Couloir de 3 × 15 m délimité par des plots ; les binômes partent à l'entrée, face à face, mains sur les épaules.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "steps": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "1. Les binômes s'avancent en poussant mutuellement dans le sens du couloir, en gardant le contact des mains. 2. On avance jusqu'au plot le plus loin possible ; les rôles s'échangent au centre. 3. Variantes : avancer en reculant (poussée vers l'arrière), puis en latéral.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "instructions": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Les mains restent en contact ; on pousse en marchant, pas en courant ; le couloir est respecté, pas de déviation.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "success_criteria": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Les deux enfants poussent dans le même sens ; les mains restent en contact ; le binôme avance sans se séparer.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "common_errors": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Pousser dans des directions différentes ; lâcher le contact ; courir au lieu de pousser.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "coach_points": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "C'est la coordination, pas la force, qui fait avancer ; les mains restent en contact ; on pousse en marchant.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "players_min": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 14
-        },
-        "players_max": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 14
-        },
-        "space": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "Couloir de 3 × 15 m, plots de bord"
-        },
-        "material": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "4 chasubles, plots"
-        }
-      },
-      "documentary_fields": {
-        "objectives": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Apprendre la coordination de poussée en binôme : les deux enfants poussent dans le même sens pour avancer ; la coordination prime sur la force.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "organisation": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Couloir de 3 × 15 m délimité par des plots ; les binômes partent à l'entrée, face à face, mains sur les épaules.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "steps": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "1. Les binômes s'avancent en poussant mutuellement dans le sens du couloir, en gardant le contact des mains. 2. On avance jusqu'au plot le plus loin possible ; les rôles s'échangent au centre. 3. Variantes : avancer en reculant (poussée vers l'arrière), puis en latéral.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "instructions": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Les mains restent en contact ; on pousse en marchant, pas en courant ; le couloir est respecté, pas de déviation.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "success_criteria": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Les deux enfants poussent dans le même sens ; les mains restent en contact ; le binôme avance sans se séparer.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "common_errors": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Pousser dans des directions différentes ; lâcher le contact ; courir au lieu de pousser.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "coach_points": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "C'est la coordination, pas la force, qui fait avancer ; les mains restent en contact ; on pousse en marchant.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Lutte n°2",
-            "revision_id": "bib-lutte-avance-detail-1"
-          }
-        },
-        "players_min": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 14
-        },
-        "players_max": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 14
-        },
-        "space": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "Couloir de 3 × 15 m, plots de bord"
-        },
-        "material": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "4 chasubles, plots"
-        }
-      },
-      "source": {
-        "access": "accessible",
-        "checked_on": "2026-11-19",
-        "format": "JSON",
-        "id": "biblio-creation-202611",
-        "language": "fr",
-        "publisher": "Bibliothèque Rugby U8 (adaptation locale)",
-        "qualification_note": "Contenu rédigé pour la bibliothèque : adaptation locale d'exercices de plaquage et de lutte adaptés aux U8, inspirée de la culture d'entraînement courante (tenue, genoux, libération, arcs, ruck). Non extrait d'un document pédagogique fédéral ni d'un site externe ; à valider par un éducateur avant mise en œuvre.",
-        "resource_type": "PEDAGOGICAL_CONTENT",
-        "title": "Création locale de fiches — plaquage et lutte (lot de novembre 2026)",
-        "url": "https://github.com/JeffToken31/rugby-training-library.git",
-        "url_checked_on": "2026-11-19"
-      },
-      "locator": "Création locale 2026-11 — Lutte n°2",
-      "references": [],
-      "history": [
-        {
-          "id": "bib-lutte-avance-detail-1",
-          "supersedes": null,
-          "checked_on": "2026-11-19",
-          "reason": null
-        }
-      ],
-      "observation": null,
-      "coach_cues": null,
-      "source_conflicts": [],
-      "bout_seconds": null,
-      "related_candidates": [],
-      "comparison_reviews": [],
-      "quality": {
-        "state": "PROPOSED_OBJECTIVE",
-        "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
-        "core_origins": {
-          "objectives": "AI_INFERRED",
-          "organisation": "AI_INFERRED",
-          "steps": "AI_INFERRED",
-          "instructions": "AI_INFERRED"
-        },
-        "coach_validated": false,
-        "u8_suitability": "TO_REVIEW",
-        "contact_level": "UNKNOWN",
-        "default_visible": true
-      },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
-      "tag_ids": [
-        "skill:lutte",
-        "format:opposition-collective"
-      ],
-      "tagging": {
-        "variant_id": "bib-lutte-avance",
-        "tag_ids": [
-          "skill:lutte",
-          "format:opposition-collective"
-        ],
-        "origin": "AI_INFERRED",
-        "reviewed_on": "2026-11-19",
-        "status": "EDITORIAL_REVIEWED",
-        "basis_fields": [
-          "title",
-          "fields.steps"
-        ],
-        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
-      },
-      "planning_duration": {
-        "variant_id": "bib-lutte-avance",
-        "origin": "AI_INFERRED",
-        "status": "PLANNING_PROPOSAL",
-        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
-        "coach_confirmation_required": true,
-        "profile_id": "skill",
-        "profile": {
-          "label": "Atelier technique en séquences",
-          "intro_seconds": 60,
-          "round_seconds": 60,
-          "rounds_min": 3,
-          "rounds_max": 4,
-          "between_seconds": 30,
-          "outro_seconds": 60,
-          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
-        },
-        "min_seconds": 360,
-        "max_seconds": 450,
-        "includes_briefing": true,
-        "includes_group_transition": false
-      },
-      "duplicate_review": [],
-      "missing_review": null,
-      "session_uses": [],
-      "warmup_usage": null
-    },
-    {
       "id": "bib-lutte-jumelle",
       "title": "La jumelle : se disputer le ballon",
       "original_title": null,
@@ -8655,7 +8284,7 @@
         "locator": "Création locale 2026-11 — Lutte n°5"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : zones de 2 × 2 m au lieu de 3 × 3 m de la source « Vie du ballon » (guide M8) ; le montage en ligne de 6 plots est un choix d'auteur.",
       "u8_proposed_settings": {
         "coach": "Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.",
         "duration_min": 10,
@@ -8663,8 +8292,8 @@
         "harder": "Le ballon est posé à 1 m du plot, en retrait.",
         "players_max": 12,
         "players_min": 12,
-        "setup": "6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.",
-        "steps": "1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot."
+        "setup": "6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.",
+        "steps": "1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot."
       },
       "participants_scope": null,
       "fields": {
@@ -8683,7 +8312,7 @@
         "organisation": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.",
+          "value": "6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8695,7 +8324,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.",
+          "value": "1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8753,9 +8382,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8777,12 +8406,12 @@
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Ligne de 6 plots, un ballon par plot"
+          "value": "6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone"
         },
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "2 ballons, 2 zones de 2 × 2 m, plots"
+          "value": "6 ballons, 12 plots (6 zones de 2 × 2 m)"
         }
       },
       "documentary_fields": {
@@ -8801,7 +8430,7 @@
         "organisation": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "6 plots espacés de 2 m ; 2 zones de 2 × 2 m de part et d'autre de la ligne de plots ; 1 ballon par plot.",
+          "value": "6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8813,7 +8442,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. Les enfants s'arrêtent sur le plot, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.",
+          "value": "1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8871,9 +8500,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -8895,12 +8524,12 @@
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Ligne de 6 plots, un ballon par plot"
+          "value": "6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone"
         },
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "2 ballons, 2 zones de 2 × 2 m, plots"
+          "value": "6 ballons, 12 plots (6 zones de 2 × 2 m)"
         }
       },
       "source": {
@@ -8935,9 +8564,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -8949,22 +8576,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:lutte",
-        "format:opposition-collective"
+        "skill:ramassage",
+        "format:duel"
       ],
       "tagging": {
         "variant_id": "bib-lutte-jumelle",
         "tag_ids": [
           "skill:lutte",
-          "format:opposition-collective"
+          "skill:ramassage",
+          "format:duel"
         ],
         "origin": "AI_INFERRED",
         "reviewed_on": "2026-11-19",
@@ -9018,16 +8641,16 @@
         "locator": "Création locale 2026-11 — Plaquage n°2"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : variante « plaquage à genoux » ; conflit de sécurité déclaré — les guides M8 2022-2023 et 2025-2026 font pratiquer un plaqueur à genou alors que le plaquage avec le genou à terre est interdit par la Règle 13 (vigilance renforcée World Rugby/FFR depuis 2026-10-05). Source la plus proche citée en références (guide M8, 1c1 9 × 8 m, plaqueur debout).",
       "u8_proposed_settings": {
-        "coach": "La tête cherche le ballon, la hanche serre, les mains sèchent la chemise ; on plaque à genoux, on ne pousse pas.",
+        "coach": "La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.",
         "duration_min": 10,
         "easier": "Plaquage sur un plot fixe, sans mouvement.",
         "harder": "Le porteur de ballon fait un pas de côté avant le plaquage.",
         "players_max": 12,
         "players_min": 12,
         "setup": "Zigzag de 6 plots par ligne, un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon.",
-        "steps": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant debout se relève, remet le ballon et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot."
+        "steps": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot."
       },
       "participants_scope": null,
       "fields": {
@@ -9058,7 +8681,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant debout se relève, remet le ballon et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.",
+          "value": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9070,7 +8693,7 @@
         "instructions": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèchent la chemise.",
+          "value": "Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèrrent le maillot (prise en tenaille, pas sur le ballon).",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9106,7 +8729,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "La tête cherche le ballon, la hanche serre, les mains sèchent la chemise ; on plaque à genoux, on ne pousse pas.",
+          "value": "La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9116,9 +8739,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9140,12 +8763,12 @@
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Zigzag de 6 plots espacés de 2 m par ligne"
+          "value": "Deux lignes de 3 binômes ; zigzag de 6 plots espacés de 2 m par ligne (12 plots au total)"
         },
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "1 ballon par binôme"
+          "value": "6 ballons (1 par binôme), plots"
         }
       },
       "documentary_fields": {
@@ -9176,7 +8799,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant debout se relève, remet le ballon et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.",
+          "value": "1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9188,7 +8811,7 @@
         "instructions": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèchent la chemise.",
+          "value": "Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèrrent le maillot (prise en tenaille, pas sur le ballon).",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9224,7 +8847,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "La tête cherche le ballon, la hanche serre, les mains sèchent la chemise ; on plaque à genoux, on ne pousse pas.",
+          "value": "La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9234,9 +8857,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9258,12 +8881,12 @@
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Zigzag de 6 plots espacés de 2 m par ligne"
+          "value": "Deux lignes de 3 binômes ; zigzag de 6 plots espacés de 2 m par ligne (12 plots au total)"
         },
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "1 ballon par binôme"
+          "value": "6 ballons (1 par binôme), plots"
         }
       },
       "source": {
@@ -9280,7 +8903,25 @@
         "url_checked_on": "2026-11-19"
       },
       "locator": "Création locale 2026-11 — Plaquage n°2",
-      "references": [],
+      "references": [
+        {
+          "locator": "Livre du jeune joueur M8 2022-2023 — rubrique Plaquage — exercice 1 contre 1 (9 × 8 m, plaqueur debout)",
+          "source_id": "ffr-guide-m8-2023",
+          "summary": "Source M8 réelle la plus proche (plaqueur debout) ; la fiche locale s'en distingue par la position à genoux, dont le conflit de sécurité est déclaré.",
+          "source": {
+            "access": "PDF consulté via recherche documentaire ; capture locale à vérifier",
+            "checked_on": "2026-09-08",
+            "format": "PDF",
+            "id": "ffr-guide-m8-2023",
+            "language": "fr",
+            "publisher": "Fédération Française de Rugby",
+            "qualification_note": "Guide de validation avec situations distinctes ; pas une séance unique. Saison du document 2022-2023, aucune actualité réglementaire déduite.",
+            "resource_type": "TECHNICAL_DOCUMENT",
+            "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+            "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
+          }
+        }
+      ],
       "history": [
         {
           "id": "bib-plaquage-a-genoux-detail-1",
@@ -9298,9 +8939,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -9312,13 +8951,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:plaquage",
         "format:duel"
@@ -9381,7 +9014,7 @@
         "locator": "Création locale 2026-11 — Plaquage n°3"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : montage en zone balisée et comptage « un, deux » ajoutés par l'auteur (non sourcés) ; la libération au-delà de 1 m après le plaquage est conforme à la règle M8 de libération immédiate.",
       "u8_proposed_settings": {
         "coach": "Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute.",
         "duration_min": 10,
@@ -9390,7 +9023,7 @@
         "players_max": 12,
         "players_min": 12,
         "setup": "Zone de 15 × 10 m, 4 balises aux coins ; deux équipes, un ballon.",
-        "steps": "1. L'attaquant lance, l'attaquant court, le défenseur plaque. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages."
+        "steps": "1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages."
       },
       "participants_scope": null,
       "fields": {
@@ -9421,7 +9054,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'attaquant lance, l'attaquant court, le défenseur plaque. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.",
+          "value": "1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9479,9 +9112,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9508,7 +9141,7 @@
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "4 ballons, 4 balises, plots"
+          "value": "2 ballons (1 par équipe), 4 balises, plots"
         }
       },
       "documentary_fields": {
@@ -9539,7 +9172,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'attaquant lance, l'attaquant court, le défenseur plaque. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.",
+          "value": "1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9597,9 +9230,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 10,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -9626,7 +9259,7 @@
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "4 ballons, 4 balises, plots"
+          "value": "2 ballons (1 par équipe), 4 balises, plots"
         }
       },
       "source": {
@@ -9661,9 +9294,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -9675,22 +9306,16 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:plaquage",
-        "format:circulation"
+        "format:duel"
       ],
       "tagging": {
         "variant_id": "bib-plaquage-balise",
         "tag_ids": [
           "skill:plaquage",
-          "format:circulation"
+          "format:duel"
         ],
         "origin": "AI_INFERRED",
         "reviewed_on": "2026-11-19",
@@ -9703,369 +9328,6 @@
       },
       "planning_duration": {
         "variant_id": "bib-plaquage-balise",
-        "origin": "AI_INFERRED",
-        "status": "PLANNING_PROPOSAL",
-        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
-        "coach_confirmation_required": true,
-        "profile_id": "skill",
-        "profile": {
-          "label": "Atelier technique en séquences",
-          "intro_seconds": 60,
-          "round_seconds": 60,
-          "rounds_min": 3,
-          "rounds_max": 4,
-          "between_seconds": 30,
-          "outro_seconds": 60,
-          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
-        },
-        "min_seconds": 360,
-        "max_seconds": 450,
-        "includes_briefing": true,
-        "includes_group_transition": false
-      },
-      "duplicate_review": [],
-      "missing_review": null,
-      "session_uses": [],
-      "warmup_usage": null
-    },
-    {
-      "id": "bib-plaquage-relais",
-      "title": "Relais plaquage et remise en position",
-      "original_title": null,
-      "summary": "En relais, chaque enfant plaque un plot, ramasse le ballon posé et revient remettre son binôme en position ; le but est la régularité du geste, pas la vitesse.",
-      "theme": "contact",
-      "classification": {
-        "variant_id": "bib-plaquage-relais",
-        "family_id": "F18",
-        "status": "REVIEWED_CANDIDATE",
-        "origin": "AI_INFERRED",
-        "discriminant": "Relais plaquage de plot, ramassage du ballon posé à côté et remise en position, en équipe.",
-        "source_id": "biblio-creation-202611",
-        "locator": "Création locale 2026-11 — Plaquage n°5"
-      },
-      "age_source": "M8",
-      "u8_adaptation": null,
-      "u8_proposed_settings": {
-        "coach": "On plaque, on ramasse, on revient : le geste de remise en position fait partie de l'exercice.",
-        "duration_min": 10,
-        "easier": "Plaquage des plots par paires, sans course de retour.",
-        "harder": "Le retour se fait en courant, la main sur la tête.",
-        "players_max": 12,
-        "players_min": 12,
-        "setup": "Deux équipes en ligne ; 10 plots espacés de 1 m devant chaque ligne ; un ballon par équipe à la fin de la ligne.",
-        "steps": "1. Le premier enfant plaque le premier plot en ligne, ramasse le ballon posé à côté et revient remettre son binôme en position. 2. Le binôme avance d'un plot et plaque ; on enchaîne jusqu'au dernier plot. 3. L'équipe qui a remis tous les enfants en position en premier gagne."
-      },
-      "participants_scope": null,
-      "fields": {
-        "objectives": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Apprendre le geste complet de plaquage, ramassage et remise en position, en relais ; la régularité du geste prime sur la vitesse.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "organisation": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Deux équipes en ligne ; 10 plots espacés de 1 m devant chaque ligne ; un ballon par équipe à la fin de la ligne.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "steps": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "1. Le premier enfant plaque le premier plot, ramasse le ballon posé à côté et revient remettre son binôme en position. 2. Le binôme avance d'un plot et plaque ; on enchaîne jusqu'au dernier plot. 3. L'équipe qui a remis tous les enfants en position en premier gagne.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "instructions": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la remise en position se fait sans courir.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "success_criteria": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Le geste de plaquage, ramassage et remise en position est fluide ; le plot est plaqué, pas contourné ; la remise en position est propre.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "common_errors": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Contourner le plot au lieu de le plaquer ; courir avant d'avoir remis ; ne pas ramasser le ballon.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "coach_points": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Le plaquage, le ramassage et la remise font partie du même geste ; la régularité prime sur la vitesse.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "players_min": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 12
-        },
-        "players_max": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 12
-        },
-        "space": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "Ligne de 10 plots espacés de 1 m, longueur 10 m"
-        },
-        "material": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "1 ballon, 4 plots"
-        }
-      },
-      "documentary_fields": {
-        "objectives": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Apprendre le geste complet de plaquage, ramassage et remise en position, en relais ; la régularité du geste prime sur la vitesse.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "organisation": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Deux équipes en ligne ; 10 plots espacés de 1 m devant chaque ligne ; un ballon par équipe à la fin de la ligne.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "steps": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "1. Le premier enfant plaque le premier plot, ramasse le ballon posé à côté et revient remettre son binôme en position. 2. Le binôme avance d'un plot et plaque ; on enchaîne jusqu'au dernier plot. 3. L'équipe qui a remis tous les enfants en position en premier gagne.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "instructions": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la remise en position se fait sans courir.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "success_criteria": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Le geste de plaquage, ramassage et remise en position est fluide ; le plot est plaqué, pas contourné ; la remise en position est propre.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "common_errors": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Contourner le plot au lieu de le plaquer ; courir avant d'avoir remis ; ne pas ramasser le ballon.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "coach_points": {
-          "origin": "AI_INFERRED",
-          "state": "PRESENT",
-          "value": "Le plaquage, le ramassage et la remise font partie du même geste ; la régularité prime sur la vitesse.",
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
-          "provenance": {
-            "source_id": "biblio-creation-202611",
-            "actor": "assistant",
-            "checked_on": "2026-11-19",
-            "locator": "Création locale 2026-11 — Plaquage n°5",
-            "revision_id": "bib-plaquage-relais-detail-1"
-          }
-        },
-        "players_min": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 12
-        },
-        "players_max": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": 12
-        },
-        "space": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "Ligne de 10 plots espacés de 1 m, longueur 10 m"
-        },
-        "material": {
-          "state": "PRESENT",
-          "origin": "LEGACY_UNREVIEWED",
-          "value": "1 ballon, 4 plots"
-        }
-      },
-      "source": {
-        "access": "accessible",
-        "checked_on": "2026-11-19",
-        "format": "JSON",
-        "id": "biblio-creation-202611",
-        "language": "fr",
-        "publisher": "Bibliothèque Rugby U8 (adaptation locale)",
-        "qualification_note": "Contenu rédigé pour la bibliothèque : adaptation locale d'exercices de plaquage et de lutte adaptés aux U8, inspirée de la culture d'entraînement courante (tenue, genoux, libération, arcs, ruck). Non extrait d'un document pédagogique fédéral ni d'un site externe ; à valider par un éducateur avant mise en œuvre.",
-        "resource_type": "PEDAGOGICAL_CONTENT",
-        "title": "Création locale de fiches — plaquage et lutte (lot de novembre 2026)",
-        "url": "https://github.com/JeffToken31/rugby-training-library.git",
-        "url_checked_on": "2026-11-19"
-      },
-      "locator": "Création locale 2026-11 — Plaquage n°5",
-      "references": [],
-      "history": [
-        {
-          "id": "bib-plaquage-relais-detail-1",
-          "supersedes": null,
-          "checked_on": "2026-11-19",
-          "reason": null
-        }
-      ],
-      "observation": null,
-      "coach_cues": null,
-      "source_conflicts": [],
-      "bout_seconds": null,
-      "related_candidates": [],
-      "comparison_reviews": [],
-      "quality": {
-        "state": "PROPOSED_OBJECTIVE",
-        "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
-        "core_origins": {
-          "objectives": "AI_INFERRED",
-          "organisation": "AI_INFERRED",
-          "steps": "AI_INFERRED",
-          "instructions": "AI_INFERRED"
-        },
-        "coach_validated": false,
-        "u8_suitability": "TO_REVIEW",
-        "contact_level": "UNKNOWN",
-        "default_visible": true
-      },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
-      "tag_ids": [
-        "skill:plaquage",
-        "format:relais"
-      ],
-      "tagging": {
-        "variant_id": "bib-plaquage-relais",
-        "tag_ids": [
-          "skill:plaquage",
-          "format:relais"
-        ],
-        "origin": "AI_INFERRED",
-        "reviewed_on": "2026-11-19",
-        "status": "EDITORIAL_REVIEWED",
-        "basis_fields": [
-          "title",
-          "fields.steps"
-        ],
-        "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
-      },
-      "planning_duration": {
-        "variant_id": "bib-plaquage-relais",
         "origin": "AI_INFERRED",
         "status": "PLANNING_PROPOSAL",
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
@@ -10107,16 +9369,16 @@
         "locator": "Création locale 2026-11 — Plaquage n°4"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : montage 1 contre 2 « ombre + soutien » non sourcé ; ancrage sur la règle M8 « les soutiens viennent par leur camp » et sur la progression du guide M8 (2 contre 2, 3 contre 3).",
       "u8_proposed_settings": {
         "coach": "L'ombre plaque seul le premier contact, le soutien arrive sur le ballon ; on ne plaque pas à deux au même endroit.",
         "duration_min": 12,
         "easier": "Le soutien arrive après le plaquage, quand l'attaquant est au sol.",
         "harder": "L'attaquant peut se faufiler : si l'ombre est pris, le soutien doit réagir.",
-        "players_max": 14,
-        "players_min": 14,
+        "players_max": 12,
+        "players_min": 12,
         "setup": "15 × 15 m ; un attaquant ballon en main, deux défenseurs face à lui, l'un en face, l'autre un mètre derrière.",
-        "steps": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : l'attaquant fait un passe-avant avant le plaquage pour tester la réaction de l'ombre."
+        "steps": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre."
       },
       "participants_scope": null,
       "fields": {
@@ -10147,7 +9409,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : l'attaquant fait un passe-avant avant le plaquage pour tester la réaction de l'ombre.",
+          "value": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10205,9 +9467,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 12,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10219,12 +9481,12 @@
         "players_min": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "players_max": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "space": {
           "state": "PRESENT",
@@ -10234,7 +9496,7 @@
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "2 ballons, chasubles"
+          "value": "4 ballons, chasubles"
         }
       },
       "documentary_fields": {
@@ -10265,7 +9527,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : l'attaquant fait un passe-avant avant le plaquage pour tester la réaction de l'ombre.",
+          "value": "1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10323,9 +9585,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 12,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10337,12 +9599,12 @@
         "players_min": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "players_max": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "space": {
           "state": "PRESENT",
@@ -10352,7 +9614,7 @@
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "2 ballons, chasubles"
+          "value": "4 ballons, chasubles"
         }
       },
       "source": {
@@ -10387,9 +9649,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -10401,13 +9661,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:plaquage",
         "skill:soutien",
@@ -10472,14 +9726,14 @@
         "locator": "Création locale 2026-11 — Plaquage n°1"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : création locale, non issue d'un exercice précis du guide M8 ; « index sur la nuque » ajouté par l'auteur (non sourcé) ; effectif 10-14 aligné sur la pratique U8.",
       "u8_proposed_settings": {
         "coach": "On serre, on ne se bat pas ; on compte à voix haute et on relâche ensemble à la consigne.",
         "duration_min": 8,
         "easier": "Faire la prise sur un plot ou un matelas : l'enfant s'entraîne seul, sans partenaire.",
         "harder": "Le partenaire fait un pas en avant avant le serrage : l'enfant ajuste sa prise avant le contact.",
-        "players_max": 12,
-        "players_min": 12,
+        "players_max": 14,
+        "players_min": 10,
         "setup": "Deux zones de 10 × 10 m, un ballon par binôme ; chaque binôme se fait face à 2 m.",
         "steps": "1. L'éducateur montre la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux."
       },
@@ -10570,9 +9824,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 8,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10584,17 +9838,17 @@
         "players_min": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 12
+          "value": 10
         },
         "players_max": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 12
+          "value": 14
         },
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Zone de 10 × 10 m délimitée par des plots"
+          "value": "Deux zones de 10 × 10 m délimitées par des plots"
         },
         "material": {
           "state": "PRESENT",
@@ -10688,9 +9942,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 8,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10702,17 +9956,17 @@
         "players_min": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 12
+          "value": 10
         },
         "players_max": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 12
+          "value": 14
         },
         "space": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "Zone de 10 × 10 m délimitée par des plots"
+          "value": "Deux zones de 10 × 10 m délimitées par des plots"
         },
         "material": {
           "state": "PRESENT",
@@ -10752,9 +10006,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -10766,13 +10018,7 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:plaquage",
         "format:duel"
@@ -10835,16 +10081,16 @@
         "locator": "Création locale 2026-11 — Lutte n°4"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : cycle 1 contre 1 à rôles tournants, à distinguer du dispositif officiel 6 contre 4 (guide M8, ruck) ; le terme « ruck » est conservé avec une définition locale : cycle plaquage-ramassage-passe au sol.",
       "u8_proposed_settings": {
         "coach": "Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.",
         "duration_min": 12,
         "easier": "Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.",
         "harder": "Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.",
-        "players_max": 14,
-        "players_min": 14,
+        "players_max": 12,
+        "players_min": 12,
         "setup": "Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.",
-        "steps": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes."
+        "steps": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes."
       },
       "participants_scope": null,
       "fields": {
@@ -10875,7 +10121,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes.",
+          "value": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10923,7 +10169,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.",
+          "value": "Ruck : ici, le cycle plaquage-ramassage-passe au sol. Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10933,9 +10179,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 12,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -10947,12 +10193,12 @@
         "players_min": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "players_max": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "space": {
           "state": "PRESENT",
@@ -10993,7 +10239,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis en 3 minutes.",
+          "value": "1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11041,7 +10287,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.",
+          "value": "Ruck : ici, le cycle plaquage-ramassage-passe au sol. Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11051,9 +10297,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 12,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11065,12 +10311,12 @@
         "players_min": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "players_max": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": 14
+          "value": 12
         },
         "space": {
           "state": "PRESENT",
@@ -11115,9 +10361,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -11129,24 +10373,20 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:lutte",
         "skill:ramassage",
-        "skill:passe"
+        "skill:passe",
+        "format:relais"
       ],
       "tagging": {
         "variant_id": "bib-ruck-relai",
         "tag_ids": [
           "skill:lutte",
           "skill:ramassage",
-          "skill:passe"
+          "skill:passe",
+          "format:relais"
         ],
         "origin": "AI_INFERRED",
         "reviewed_on": "2026-11-19",
@@ -11200,7 +10440,7 @@
         "locator": "Création locale 2026-11 — Lutte n°3"
       },
       "age_source": "M8",
-      "u8_adaptation": null,
+      "u8_adaptation": "Adaptation locale déclarée (arbitrage 2026-11-20) : 4 zones de 5 × 5 m au lieu du carré 1 × 1 m de la source (guide M8, ramassage de la soule) ; la définition de la soule (ballon allongé) est ajoutée dans les points coach.",
       "u8_proposed_settings": {
         "coach": "Deux mains, face au ballon, la soule contre le buste ; on ne ramasse pas en courant.",
         "duration_min": 8,
@@ -11209,14 +10449,14 @@
         "players_max": 12,
         "players_min": 12,
         "setup": "Quatre zones de 5 × 5 m, une soule posée à chaque zone, un enfant par zone.",
-        "steps": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège avant de passer au plot suivant. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ."
+        "steps": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ."
       },
       "participants_scope": null,
       "fields": {
         "objectives": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage avant de passer.",
+          "value": "Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11240,7 +10480,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège avant de passer au plot suivant. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.",
+          "value": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11288,7 +10528,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant le passage.",
+          "value": "Une soule est un ballon allongé (type ballon de rugby à xiii). Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant la remise en jeu.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11298,9 +10538,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 8,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11327,14 +10567,14 @@
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "2 soules (ou balons longs), plots"
+          "value": "4 soules (ou 4 ballons longs), plots"
         }
       },
       "documentary_fields": {
         "objectives": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage avant de passer.",
+          "value": "Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11358,7 +10598,7 @@
         "steps": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège avant de passer au plot suivant. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.",
+          "value": "1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11406,7 +10646,7 @@
         "coach_points": {
           "origin": "AI_INFERRED",
           "state": "PRESENT",
-          "value": "Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant le passage.",
+          "value": "Une soule est un ballon allongé (type ballon de rugby à xiii). Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant la remise en jeu.",
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11416,9 +10656,9 @@
           }
         },
         "duration_min": {
-          "origin": "SOURCE",
-          "state": "NOT_STATED",
-          "value": null,
+          "origin": "AI_INFERRED",
+          "state": "PRESENT",
+          "value": 8,
           "provenance": {
             "source_id": "biblio-creation-202611",
             "actor": "assistant",
@@ -11445,7 +10685,7 @@
         "material": {
           "state": "PRESENT",
           "origin": "LEGACY_UNREVIEWED",
-          "value": "2 soules (ou balons longs), plots"
+          "value": "4 soules (ou 4 ballons longs), plots"
         }
       },
       "source": {
@@ -11480,9 +10720,7 @@
       "quality": {
         "state": "PROPOSED_OBJECTIVE",
         "missing_core": [],
-        "missing_fields": [
-          "duration_min"
-        ],
+        "missing_fields": [],
         "core_origins": {
           "objectives": "AI_INFERRED",
           "organisation": "AI_INFERRED",
@@ -11494,22 +10732,18 @@
         "contact_level": "UNKNOWN",
         "default_visible": true
       },
-      "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_STATED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        }
-      ],
+      "preparation_questions": [],
       "tag_ids": [
         "skill:lutte",
-        "skill:ramassage"
+        "skill:ramassage",
+        "format:collecte"
       ],
       "tagging": {
         "variant_id": "bib-soule-ramasser",
         "tag_ids": [
           "skill:lutte",
-          "skill:ramassage"
+          "skill:ramassage",
+          "format:collecte"
         ],
         "origin": "AI_INFERRED",
         "reviewed_on": "2026-11-19",
@@ -14881,7 +14115,7 @@
       "id": "ffr-gazelles-atelier",
       "title": "Les gazelles",
       "original_title": null,
-      "summary": "Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.",
+      "summary": "Situation de lutte en binômes pour aborder l’opposition corporelle : saisir à la taille, coller la tête, serrer les bras ; déroulement vidéo à examiner.",
       "theme": "lutte",
       "classification": {
         "variant_id": "ffr-gazelles-atelier",
@@ -14920,8 +14154,18 @@
           "value": null
         },
         "instructions": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Insister sur : les saisies à la taille, coller la tête, serrer les bras / Les règles (droits et devoirs + action sur le joueur)",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-gazelles-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED",
@@ -14946,16 +14190,28 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-gazelles-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "players_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
         },
         "players_max": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 5
         },
         "space": {
           "state": "NOT_EXTRACTED",
@@ -14990,8 +14246,18 @@
           "value": null
         },
         "instructions": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Insister sur : les saisies à la taille, coller la tête, serrer les bras / Les règles (droits et devoirs + action sur le joueur)",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-gazelles-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED",
@@ -15016,16 +14282,28 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-gazelles-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "players_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
         },
         "players_max": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 5
         },
         "space": {
           "state": "NOT_EXTRACTED",
@@ -15069,18 +14347,13 @@
         "state": "INCOMPLETE",
         "missing_core": [
           "organisation",
-          "steps",
-          "instructions"
+          "steps"
         ],
         "missing_fields": [
           "organisation",
           "steps",
-          "instructions",
           "success_criteria",
           "common_errors",
-          "duration_min",
-          "players_min",
-          "players_max",
           "space",
           "material"
         ],
@@ -15088,7 +14361,7 @@
           "objectives": "SOURCE",
           "organisation": null,
           "steps": null,
-          "instructions": null
+          "instructions": "SOURCE"
         },
         "coach_validated": false,
         "u8_suitability": "TO_REVIEW",
@@ -15096,21 +14369,6 @@
         "default_visible": false
       },
       "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_EXTRACTED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        },
-        {
-          "field": "players_min",
-          "state": "NOT_EXTRACTED",
-          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
-        },
-        {
-          "field": "players_max",
-          "state": "NOT_EXTRACTED",
-          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
-        },
         {
           "field": "space",
           "state": "NOT_EXTRACTED",
@@ -15468,6 +14726,327 @@
       },
       "planning_duration": {
         "variant_id": "ffr-guide-dribble",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "skill",
+        "profile": {
+          "label": "Atelier technique en séquences",
+          "intro_seconds": 60,
+          "round_seconds": 60,
+          "rounds_min": 3,
+          "rounds_max": 4,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences."
+        },
+        "min_seconds": 360,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
+      "id": "ffr-guide-m8-1c1",
+      "title": "1 contre 1 : plaquage en sécurité (plaqueur debout)",
+      "original_title": null,
+      "summary": "Quatre plaquages en 1 contre 1 sur rectangle de 9 m x 8 m, en alternance droite/gauche, épaule à la taille et tête du bon côté.",
+      "theme": "contact",
+      "classification": {
+        "variant_id": "ffr-guide-m8-1c1",
+        "family_id": "F18",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "SOURCE",
+        "discriminant": "1 contre 1 : quatre plaquages en sécurité en alternance droite et gauche sur rectangle de 9 m x 8 m, épaule à la taille et tête du bon côté.",
+        "source_id": "ffr-guide-m8-2023",
+        "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout"
+      },
+      "age_source": "M8 — guide saison 2022-2023",
+      "u8_adaptation": null,
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Je fais tomber le porteur de balle en toute sécurité avec mon épaule droite et mon épaule gauche.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Dispositif : 1 attaquant et 1 défenseur ; Groupe : 3 joueurs pour organiser un temps de récupération dans la rotation des rôles ; Espace : un rectangle de 9m x 8m ; Matériel : des plots de couleurs et un ballon.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "4 plaquages à effectuer (non enchaînés) en alternance droite/gauche (2 à droite - 2 à gauche), 1er plaquage sur droite du défenseur ; C'est l'attaquant qui lance l'action. Le défenseur peut démarrer lorsque l'attaquant contourne le plot pour entrer dans le terrain ; Le défenseur avance en coupant la zone hachurée pour gagner du terrain ; Interdiction pour PB d'entrer dans zone hachurée.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "je cible la taille ; j'engage mon épaule au niveau de la taille ; je place ma tête du bon côté sur le flan du porteur de balle (idée tête dans le dos) ; je serre fort les bras.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Lignes rouges : intervention au dessus de la ligne du bassin (placage haut interdit) ; tête placée du mauvais côté (sécurité).",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          },
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 3
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Un rectangle de 9 m x 8 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Des plots de couleurs et un ballon"
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Je fais tomber le porteur de balle en toute sécurité avec mon épaule droite et mon épaule gauche.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Dispositif : 1 attaquant et 1 défenseur ; Groupe : 3 joueurs pour organiser un temps de récupération dans la rotation des rôles ; Espace : un rectangle de 9m x 8m ; Matériel : des plots de couleurs et un ballon.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "4 plaquages à effectuer (non enchaînés) en alternance droite/gauche (2 à droite - 2 à gauche), 1er plaquage sur droite du défenseur ; C'est l'attaquant qui lance l'action. Le défenseur peut démarrer lorsque l'attaquant contourne le plot pour entrer dans le terrain ; Le défenseur avance en coupant la zone hachurée pour gagner du terrain ; Interdiction pour PB d'entrer dans zone hachurée.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "je cible la taille ; j'engage mon épaule au niveau de la taille ; je place ma tête du bon côté sur le flan du porteur de balle (idée tête dans le dos) ; je serre fort les bras.",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Lignes rouges : intervention au dessus de la ligne du bassin (placage haut interdit) ; tête placée du mauvais côté (sécurité).",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "ffr-guide-m8-2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+            "revision_id": "ffr-guide-m8-1c1-detail-1"
+          },
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 3
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 3
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Un rectangle de 9 m x 8 m"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Des plots de couleurs et un ballon"
+        }
+      },
+      "source": {
+        "access": "PDF consulté via recherche documentaire ; capture locale à vérifier",
+        "checked_on": "2026-09-08",
+        "format": "PDF",
+        "id": "ffr-guide-m8-2023",
+        "language": "fr",
+        "publisher": "Fédération Française de Rugby",
+        "qualification_note": "Guide de validation avec situations distinctes ; pas une séance unique. Saison du document 2022-2023, aucune actualité réglementaire déduite.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+        "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
+      },
+      "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+      "references": [],
+      "history": [
+        {
+          "id": "ffr-guide-m8-1c1-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-20",
+          "reason": null
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "DOCUMENTED_CORE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "duration_min"
+        ],
+        "core_origins": {
+          "objectives": "SOURCE",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
+      "tag_ids": [
+        "skill:plaquage",
+        "format:duel"
+      ],
+      "tagging": {
+        "variant_id": "ffr-guide-m8-1c1",
+        "tag_ids": [
+          "skill:plaquage",
+          "format:duel"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-11-20",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-guide-m8-1c1",
         "origin": "AI_INFERRED",
         "status": "PLANNING_PROPOSAL",
         "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
@@ -17298,6 +16877,328 @@
       "warmup_usage": null
     },
     {
+      "id": "ffr-plan2023-oeufs",
+      "title": "Les œufs des poules",
+      "original_title": null,
+      "summary": "Course et lutte dans la basse-cour : les poules ramassent les œufs et les déposent au poulailler de la bonne couleur pendant que les renards rampent pour les attraper.",
+      "theme": "lutte",
+      "classification": {
+        "variant_id": "ffr-plan2023-oeufs",
+        "family_id": "F18",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "SOURCE",
+        "discriminant": "Course et lutte dans la basse-cour : les poules ramassent les œufs et les déposent au poulailler de la bonne couleur pendant que les renards rampent pour les attraper.",
+        "source_id": "ffr-plan2023",
+        "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules"
+      },
+      "age_source": "M8",
+      "u8_adaptation": null,
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Améliorer la notion d'avancer pour aller marquer !",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un groupe de 6 poules (utilisateurs) se promène dans la basse-cour ; les œufs (ballons) sont placés au centre ; 6 renards (opposants) à plat ventre au sol ; 4 poulaillers (plots 4 couleurs), 6 ballons.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "1. ON SE PROMENE (les poules trottinent, les renards rampent). 2. LES RENARDS ARRIVENT (les poules ramassent les œufs et les renards se relèvent). 3. Après 3 à 5 sec de courses et de luttes, le fermier (éducateur) annonce la couleur du poulailler. ; 3 passages à la suite par groupe",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Pour les opposants (renards) : bloquer les poules pour leurs voler les œufs, puis les apporter en dehors de la basse-cour. Pour les utilisateurs (poules) : ramasser son œuf et, sans se faire attraper, aller déposer son œuf (sans le casser !) dans le poulailler de la bonne couleur.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Plus les renards volent d'œufs… on se rapproche d'un jeu avec un ballon pour l'ensemble du groupe ! Les poules doivent alors protéger leur dernier œuf et le « transporter » en sécurité",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          },
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 12
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 12
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Une basse-cour délimitée par des plots ; les œufs (ballons) au centre"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "4 poulaillers (plots de 4 couleurs), 6 ballons"
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Améliorer la notion d'avancer pour aller marquer !",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Un groupe de 6 poules (utilisateurs) se promène dans la basse-cour ; les œufs (ballons) sont placés au centre ; 6 renards (opposants) à plat ventre au sol ; 4 poulaillers (plots 4 couleurs), 6 ballons.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "1. ON SE PROMENE (les poules trottinent, les renards rampent). 2. LES RENARDS ARRIVENT (les poules ramassent les œufs et les renards se relèvent). 3. Après 3 à 5 sec de courses et de luttes, le fermier (éducateur) annonce la couleur du poulailler. ; 3 passages à la suite par groupe",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Pour les opposants (renards) : bloquer les poules pour leurs voler les œufs, puis les apporter en dehors de la basse-cour. Pour les utilisateurs (poules) : ramasser son œuf et, sans se faire attraper, aller déposer son œuf (sans le casser !) dans le poulailler de la bonne couleur.",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Plus les renards volent d'œufs… on se rapproche d'un jeu avec un ballon pour l'ensemble du groupe ! Les poules doivent alors protéger leur dernier œuf et le « transporter » en sécurité",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "ffr-plan2023",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+            "revision_id": "ffr-plan2023-oeufs-detail-1"
+          },
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 12
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 12
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Une basse-cour délimitée par des plots ; les œufs (ballons) au centre"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "4 poulaillers (plots de 4 couleurs), 6 ballons"
+        }
+      },
+      "source": {
+        "access": "PDF public consulté",
+        "checked_on": "2026-09-07",
+        "format": "PDF",
+        "id": "ffr-plan2023",
+        "language": "fr",
+        "published_on": "2023-03",
+        "publisher": "FFR — Direction Technique Nationale",
+        "qualification_note": "Recueil pédagogique, pas une séance unique. Archive réglementaire.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Plan de formation du joueur M8 — mars 2023",
+        "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf"
+      },
+      "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+      "references": [],
+      "history": [
+        {
+          "id": "ffr-plan2023-oeufs-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-20",
+          "reason": null
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "DOCUMENTED_CORE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "duration_min"
+        ],
+        "core_origins": {
+          "objectives": "SOURCE",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
+      "tag_ids": [
+        "skill:lutte",
+        "format:poursuite"
+      ],
+      "tagging": {
+        "variant_id": "ffr-plan2023-oeufs",
+        "tag_ids": [
+          "skill:lutte",
+          "format:poursuite"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-11-20",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "ffr-plan2023-oeufs",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
       "id": "ffr-plaquage-atelier",
       "title": "Plaquage et libération",
       "original_title": null,
@@ -17581,7 +17482,7 @@
       "id": "ffr-protege-atelier",
       "title": "Protège-ballon",
       "original_title": null,
-      "summary": "Protéger son équilibre face à l’adversaire ; organisation à compléter.",
+      "summary": "Protéger son équilibre face à l’adversaire : posture semi-fléchie et ancrage au sol ; organisation à compléter.",
       "theme": "lutte",
       "classification": {
         "variant_id": "ffr-protege-atelier",
@@ -17620,8 +17521,18 @@
           "value": null
         },
         "instructions": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Insister sur : la posture semi-fléchie / l’équilibre pour ne pas tomber, Résister en améliorant l’ancrage au sol / les règles (droits et devoirs + action sur le joueur)",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-protege-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED",
@@ -17646,16 +17557,28 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-protege-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "players_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
         },
         "players_max": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 5
         },
         "space": {
           "state": "NOT_EXTRACTED",
@@ -17690,8 +17613,18 @@
           "value": null
         },
         "instructions": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Insister sur : la posture semi-fléchie / l’équilibre pour ne pas tomber, Résister en améliorant l’ancrage au sol / les règles (droits et devoirs + action sur le joueur)",
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-protege-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "success_criteria": {
           "state": "NOT_EXTRACTED",
@@ -17716,16 +17649,28 @@
           }
         },
         "duration_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "ffr-atelier-1-2025-26",
+            "actor": "assistant",
+            "checked_on": "2026-09-08",
+            "locator": "Diapositive 3, rubrique M8, texte public archivé",
+            "revision_id": "ffr-protege-atelier-detail-1",
+            "capture_sha256": "08a8ef297797625cf61455db5d70de8fafb5a12cfbfc01a544fabf18a208d667",
+            "capture_verified_locally": false
+          }
         },
         "players_min": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
         },
         "players_max": {
-          "state": "NOT_EXTRACTED",
-          "value": null
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 5
         },
         "space": {
           "state": "NOT_EXTRACTED",
@@ -17769,18 +17714,13 @@
         "state": "INCOMPLETE",
         "missing_core": [
           "organisation",
-          "steps",
-          "instructions"
+          "steps"
         ],
         "missing_fields": [
           "organisation",
           "steps",
-          "instructions",
           "success_criteria",
           "common_errors",
-          "duration_min",
-          "players_min",
-          "players_max",
           "space",
           "material"
         ],
@@ -17788,7 +17728,7 @@
           "objectives": "SOURCE",
           "organisation": null,
           "steps": null,
-          "instructions": null
+          "instructions": "SOURCE"
         },
         "coach_validated": false,
         "u8_suitability": "TO_REVIEW",
@@ -17796,21 +17736,6 @@
         "default_visible": false
       },
       "preparation_questions": [
-        {
-          "field": "duration_min",
-          "state": "NOT_EXTRACTED",
-          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
-        },
-        {
-          "field": "players_min",
-          "state": "NOT_EXTRACTED",
-          "question": "Fixer le nombre de joueurs actifs et ceux en attente."
-        },
-        {
-          "field": "players_max",
-          "state": "NOT_EXTRACTED",
-          "question": "Vérifier la capacité du dispositif pour le groupe prévu."
-        },
         {
           "field": "space",
           "state": "NOT_EXTRACTED",
@@ -21400,6 +21325,615 @@
           "reviewed_on": "2026-09-16"
         }
       ],
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
+      "id": "jskids-l08-culotte",
+      "title": "Lutte à la culotte",
+      "original_title": null,
+      "summary": "Face à face, épaules en contact, mains sur les hanches : se renverser mutuellement en appuyant les épaules adverses au sol, sans utiliser les jambes.",
+      "theme": "lutte",
+      "classification": {
+        "variant_id": "jskids-l08-culotte",
+        "family_id": "F18",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "SOURCE",
+        "discriminant": "Face à face, épaules en contact, mains sur les hanches : se renverser mutuellement en appuyant les épaules adverses au sol, sans utiliser les jambes.",
+        "source_id": "jskids-l08",
+        "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte"
+      },
+      "age_source": "8-10 ans",
+      "u8_adaptation": "Transposition U8 : l'exercice est sourcé pour 8-10 ans ; l'adaptation à la tranche 7-8 ans (U8) est une décision du coach, déclarée ici (arbitrage 2026-11-20).",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Augmentation de l'engagement individuel au combat",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux joueurs, face à face, appuyés l'un contre l'autre avec les épaules, se tiennent à la culotte (mains sur les hanches).",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ils tentent de se renverser mutuellement pour appuyer les épaules adverses contre le sol (prises en dessous des épaules).",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Interdiction d'utiliser les jambes pour faire tomber l'adversaire",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          },
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Face à face, épaules en contact, mains sur les hanches"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Augmentation de l'engagement individuel au combat",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Deux joueurs, face à face, appuyés l'un contre l'autre avec les épaules, se tiennent à la culotte (mains sur les hanches).",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Ils tentent de se renverser mutuellement pour appuyer les épaules adverses contre le sol (prises en dessous des épaules).",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Interdiction d'utiliser les jambes pour faire tomber l'adversaire",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          },
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+            "revision_id": "jskids-l08-culotte-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Face à face, épaules en contact, mains sur les hanches"
+        },
+        "material": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        }
+      },
+      "source": {
+        "access": "accessible",
+        "checked_on": "2026-11-20",
+        "format": "PDF",
+        "id": "jskids-l08",
+        "language": "fr",
+        "publisher": "OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby",
+        "qualification_note": "Leçon 8 du programme J+S-Kids Rugby (duel 1 x 1), exercices sourcés 8-10 ans ; PDF consulté le 2026-11-20. Document de base : https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_Bases_f.pdf ; page d'entrée : https://www.mobilesport.ch/kids-fr/js-kids-rugby-lecon-8-duel-a-1-x-1/.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1",
+        "url": "https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf",
+        "url_checked_on": "2026-11-20"
+      },
+      "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+      "references": [],
+      "history": [
+        {
+          "id": "jskids-l08-culotte-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-20",
+          "reason": null
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "DOCUMENTED_CORE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points",
+          "material"
+        ],
+        "core_origins": {
+          "objectives": "SOURCE",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "material",
+          "state": "NOT_EXTRACTED",
+          "question": "Lister et préparer le matériel nécessaire."
+        }
+      ],
+      "tag_ids": [
+        "skill:lutte",
+        "format:duel"
+      ],
+      "tagging": {
+        "variant_id": "jskids-l08-culotte",
+        "tag_ids": [
+          "skill:lutte",
+          "format:duel"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-11-20",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "jskids-l08-culotte",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
+      "id": "jskids-l08-sumo",
+      "title": "Sumo 1x1",
+      "original_title": null,
+      "summary": "Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et repousser l'adversaire chez lui, sans utiliser les jambes.",
+      "theme": "lutte",
+      "classification": {
+        "variant_id": "jskids-l08-sumo",
+        "family_id": "F18",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "SOURCE",
+        "discriminant": "Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et repousser l’adversaire chez lui, sans utiliser les jambes.",
+        "source_id": "jskids-l08",
+        "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1"
+      },
+      "age_source": "8-10 ans",
+      "u8_adaptation": "Transposition U8 : l'exercice est sourcé pour 8-10 ans ; l'adaptation à la tranche 7-8 ans (U8) est une décision du coach, déclarée ici (arbitrage 2026-11-20).",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Augmentation de l'engagement individuel au combat",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Face à face, distants de 2m, les joueurs sont sur les pieds, les mains posées au sol.",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, ils saisissent leur adversaire à bras le corps et tentent de le repousser chez lui.",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Interdiction d'utiliser les jambes pour faire tomber l'adversaire",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          },
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Face à face, à 2 m de distance"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Affaires de sport usagées"
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Augmentation de l'engagement individuel au combat",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Face à face, distants de 2m, les joueurs sont sur les pieds, les mains posées au sol.",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Au signal, ils saisissent leur adversaire à bras le corps et tentent de le repousser chez lui.",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Interdiction d'utiliser les jambes pour faire tomber l'adversaire",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          },
+          "value": null
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 10,
+          "provenance": {
+            "source_id": "jskids-l08",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+            "revision_id": "jskids-l08-sumo-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 2
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Face à face, à 2 m de distance"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "Affaires de sport usagées"
+        }
+      },
+      "source": {
+        "access": "accessible",
+        "checked_on": "2026-11-20",
+        "format": "PDF",
+        "id": "jskids-l08",
+        "language": "fr",
+        "publisher": "OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby",
+        "qualification_note": "Leçon 8 du programme J+S-Kids Rugby (duel 1 x 1), exercices sourcés 8-10 ans ; PDF consulté le 2026-11-20. Document de base : https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_Bases_f.pdf ; page d'entrée : https://www.mobilesport.ch/kids-fr/js-kids-rugby-lecon-8-duel-a-1-x-1/.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1",
+        "url": "https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf",
+        "url_checked_on": "2026-11-20"
+      },
+      "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+      "references": [],
+      "history": [
+        {
+          "id": "jskids-l08-sumo-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-20",
+          "reason": null
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "DOCUMENTED_CORE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "coach_points"
+        ],
+        "core_origins": {
+          "objectives": "SOURCE",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [],
+      "tag_ids": [
+        "skill:lutte",
+        "format:duel"
+      ],
+      "tagging": {
+        "variant_id": "jskids-l08-sumo",
+        "tag_ids": [
+          "skill:lutte",
+          "format:duel"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-11-20",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "jskids-l08-sumo",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
+      },
+      "duplicate_review": [],
       "missing_review": null,
       "session_uses": [],
       "warmup_usage": null
@@ -57424,6 +57958,625 @@
       "warmup_usage": null
     },
     {
+      "id": "wr-gir-bulldog",
+      "title": "Bulldog",
+      "original_title": null,
+      "summary": "3 couloirs de 30 m × 20 m : les attaquants traversent la ligne des défenseurs qui plaquent sans mettre au sol (touché des deux mains) ; les plaqués rejoignent les défenseurs.",
+      "theme": "contact",
+      "classification": {
+        "variant_id": "wr-gir-bulldog",
+        "family_id": "F18",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "SOURCE",
+        "discriminant": "3 couloirs de 30 m × 20 m : les attaquants traversent la ligne des défenseurs qui plaquent sans mettre au sol (touché des deux mains) ; les plaqués rejoignent les défenseurs.",
+        "source_id": "wr-gir",
+        "locator": "World Rugby GIR — Bulldog, carte 30/30"
+      },
+      "age_source": null,
+      "u8_adaptation": "Transposition U8 : texte anglais traduit pour l'usage local ; effectif de 30 joueurs (3 couloirs de 10) à réduire selon l'effectif ; le plaquage s'arrête au touché des deux mains, sans mise au sol (arbitrage 2026-11-20).",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Perform a tackle (1)",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "30 players, 3 groups of 10 ; Equipment: 8 cones ; Space: 3 channels 30m × 20m ; 10 players per channel, starting with 3 nominated defenders in a line in the middle of the channel; the other 7 players line up along one edge of the channel as attackers",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "On the coach's call, the attackers try to run past the defenders to reach the opposite edge; the defenders attempt to touch with both hands, tag or tackle the attackers by wrapping them with both arms between his/her chest and hips but without bringing the ball carrier to ground; those attackers who are tackled join the defenders…",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Look for space / Dodge the defenders ; Keep the head up - focus on the waist of the ball carrier / Try to defend as one line - defend as a team",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Harder: defenders have to run and touch the sideline when they have made a tackle / Easier: attackers must hop on one leg",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "3 couloirs de 30 m × 20 m ; 10 joueurs par couloir"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "8 plots (cones), ballons"
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Perform a tackle (1)",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "30 players, 3 groups of 10 ; Equipment: 8 cones ; Space: 3 channels 30m × 20m ; 10 players per channel, starting with 3 nominated defenders in a line in the middle of the channel; the other 7 players line up along one edge of the channel as attackers",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "On the coach's call, the attackers try to run past the defenders to reach the opposite edge; the defenders attempt to touch with both hands, tag or tackle the attackers by wrapping them with both arms between his/her chest and hips but without bringing the ball carrier to ground; those attackers who are tackled join the defenders…",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Look for space / Dodge the defenders ; Keep the head up - focus on the waist of the ball carrier / Try to defend as one line - defend as a team",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Harder: defenders have to run and touch the sideline when they have made a tackle / Easier: attackers must hop on one leg",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": 5,
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Bulldog, carte 30/30",
+            "revision_id": "wr-gir-bulldog-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "3 couloirs de 30 m × 20 m ; 10 joueurs par couloir"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "8 plots (cones), ballons"
+        }
+      },
+      "source": {
+        "access": "Page publique consultée ; ressources détaillées à examiner",
+        "checked_on": "2026-09-06",
+        "id": "wr-gir",
+        "language": "en",
+        "note": "Point de départ pour élargir la collecte.",
+        "publisher": "World Rugby",
+        "title": "Get into Rugby",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby"
+      },
+      "locator": "World Rugby GIR — Bulldog, carte 30/30",
+      "references": [],
+      "history": [
+        {
+          "id": "wr-gir-bulldog-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-20",
+          "reason": null
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "DOCUMENTED_CORE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors"
+        ],
+        "core_origins": {
+          "objectives": "SOURCE",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [],
+      "tag_ids": [
+        "skill:plaquage",
+        "format:opposition-collective"
+      ],
+      "tagging": {
+        "variant_id": "wr-gir-bulldog",
+        "tag_ids": [
+          "skill:plaquage",
+          "format:opposition-collective"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-11-20",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-gir-bulldog",
+        "origin": "AI_INFERRED",
+        "status": "EXISTING_DURATION",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": null
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
+      "id": "wr-gir-rucktouch",
+      "title": "Ruck Touch Rugby 6v4",
+      "original_title": null,
+      "summary": "6 attaquants contre 4 défenseurs en 3 couloirs : après le plaquage, le porteur glisse au sol et un coéquipier se dresse au-dessus de lui pour protéger le ballon (introduction au ruck).",
+      "theme": "lutte",
+      "classification": {
+        "variant_id": "wr-gir-rucktouch",
+        "family_id": "F18",
+        "status": "REVIEWED_CANDIDATE",
+        "origin": "SOURCE",
+        "discriminant": "6 attaquants contre 4 défenseurs en 3 couloirs : après le plaquage, le porteur glisse au sol et un coéquipier se dresse au-dessus de lui pour protéger le ballon (introduction au ruck).",
+        "source_id": "wr-gir",
+        "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30"
+      },
+      "age_source": null,
+      "u8_adaptation": "Transposition U8 : texte anglais traduit pour l'usage local ; effectif de 30 joueurs (3 couloirs de 10) à réduire selon l'effectif ; l'exercice introduit le ruck par la position au-dessus du joueur plaqué (arbitrage 2026-11-20).",
+      "u8_proposed_settings": null,
+      "participants_scope": null,
+      "fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Set up a ruck. In Rugby, when a tackled player falls to the ground, a supporting player can come in and help prevent the defenders from taking the ball by standing over the tackled player. If there are 3 players involved — 2 attackers and 1 defender - it is called a \"ruck\".",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "30 joueurs, 3 couloirs 30×20 m, 3 ballons, 8 plots ; Split the 10 players in each channel into two teams — 4 players to defend, 6 players to attack ; Start the game with a free pass at the centre, ensuring that the defending team retreats 7 metres",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "If 2-hands-touched / tagged / tackled, the ball carrier must not pass but must hold the ball and slide onto the ground. The ball carrier should lie parallel to the try line with the ball held at arms length away from his/her body towards his/her team mates. Another attacking player must come in and stand over the tackled player to prevent the defenders picking the ball up. The tackler holds the ball carrier until the next attacking player takes the ball. The tackler only holds the ball carrier – he/she does not wrestle or turn the ball carrier. After a successful tackle, the defender must stay on his/her own side of the ball (stay onside) and must not attempt to intercept or obstruct the pass. When a tackle is made, the defending team must retreat 7 metres. Only the tackler can remain with the ball carrier.",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "The second attacker must stand in a crouched position over the tackled player to protect the ball ; After making the tackle, stay on the feet if possible and allow the second attacker to stand over the tackled player",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Harder: tacklers can try to take the ball once it is placed on the ground / Easier: all defenders, apart from the tackler, have to retreat 7 metres when a tackle is made",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          },
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "3 couloirs de 30 m × 20 m ; 10 joueurs par couloir"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "3 ballons, 8 plots (cones)"
+        }
+      },
+      "documentary_fields": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Set up a ruck. In Rugby, when a tackled player falls to the ground, a supporting player can come in and help prevent the defenders from taking the ball by standing over the tackled player. If there are 3 players involved — 2 attackers and 1 defender - it is called a \"ruck\".",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "30 joueurs, 3 couloirs 30×20 m, 3 ballons, 8 plots ; Split the 10 players in each channel into two teams — 4 players to defend, 6 players to attack ; Start the game with a free pass at the centre, ensuring that the defending team retreats 7 metres",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "If 2-hands-touched / tagged / tackled, the ball carrier must not pass but must hold the ball and slide onto the ground. The ball carrier should lie parallel to the try line with the ball held at arms length away from his/her body towards his/her team mates. Another attacking player must come in and stand over the tackled player to prevent the defenders picking the ball up. The tackler holds the ball carrier until the next attacking player takes the ball. The tackler only holds the ball carrier – he/she does not wrestle or turn the ball carrier. After a successful tackle, the defender must stay on his/her own side of the ball (stay onside) and must not attempt to intercept or obstruct the pass. When a tackle is made, the defending team must retreat 7 metres. Only the tackler can remain with the ball carrier.",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "The second attacker must stand in a crouched position over the tackled player to protect the ball ; After making the tackle, stay on the feet if possible and allow the second attacker to stand over the tackled player",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED",
+          "value": null
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Harder: tacklers can try to take the ball once it is placed on the ground / Easier: all defenders, apart from the tackler, have to retreat 7 metres when a tackle is made",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          }
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "wr-gir",
+            "actor": "assistant",
+            "checked_on": "2026-11-20",
+            "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+            "revision_id": "wr-gir-rucktouch-detail-1"
+          },
+          "value": null
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": 30
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "3 couloirs de 30 m × 20 m ; 10 joueurs par couloir"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED",
+          "value": "3 ballons, 8 plots (cones)"
+        }
+      },
+      "source": {
+        "access": "Page publique consultée ; ressources détaillées à examiner",
+        "checked_on": "2026-09-06",
+        "id": "wr-gir",
+        "language": "en",
+        "note": "Point de départ pour élargir la collecte.",
+        "publisher": "World Rugby",
+        "title": "Get into Rugby",
+        "url": "https://www.world.rugby/the-game/game-participation/get-into-rugby"
+      },
+      "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+      "references": [],
+      "history": [
+        {
+          "id": "wr-gir-rucktouch-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-20",
+          "reason": null
+        }
+      ],
+      "observation": null,
+      "coach_cues": null,
+      "source_conflicts": [],
+      "bout_seconds": null,
+      "related_candidates": [],
+      "comparison_reviews": [],
+      "quality": {
+        "state": "DOCUMENTED_CORE",
+        "missing_core": [],
+        "missing_fields": [
+          "success_criteria",
+          "common_errors",
+          "duration_min"
+        ],
+        "core_origins": {
+          "objectives": "SOURCE",
+          "organisation": "SOURCE",
+          "steps": "SOURCE",
+          "instructions": "SOURCE"
+        },
+        "coach_validated": false,
+        "u8_suitability": "TO_REVIEW",
+        "contact_level": "UNKNOWN",
+        "default_visible": true
+      },
+      "preparation_questions": [
+        {
+          "field": "duration_min",
+          "state": "NOT_STATED",
+          "question": "Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo."
+        }
+      ],
+      "tag_ids": [
+        "skill:ramassage",
+        "format:opposition-collective"
+      ],
+      "tagging": {
+        "variant_id": "wr-gir-rucktouch",
+        "tag_ids": [
+          "skill:ramassage",
+          "format:opposition-collective"
+        ],
+        "origin": "AI_INFERRED",
+        "reviewed_on": "2026-11-20",
+        "status": "EDITORIAL_REVIEWED",
+        "basis_fields": [
+          "title",
+          "fields.steps"
+        ],
+        "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
+      },
+      "planning_duration": {
+        "variant_id": "wr-gir-rucktouch",
+        "origin": "AI_INFERRED",
+        "status": "PLANNING_PROPOSAL",
+        "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort.",
+        "coach_confirmation_required": true,
+        "profile_id": "game",
+        "profile": {
+          "label": "Jeu en manches courtes",
+          "intro_seconds": 60,
+          "round_seconds": 90,
+          "rounds_min": 2,
+          "rounds_max": 3,
+          "between_seconds": 30,
+          "outro_seconds": 60,
+          "extension": "Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt."
+        },
+        "min_seconds": 330,
+        "max_seconds": 450,
+        "includes_briefing": true,
+        "includes_group_transition": false
+      },
+      "duplicate_review": [],
+      "missing_review": null,
+      "session_uses": [],
+      "warmup_usage": null
+    },
+    {
       "id": "wr-keep-ball",
       "title": "Conserver par dix passes sans interception",
       "original_title": null,
@@ -61681,12 +62834,12 @@
     }
   ],
   "summary": {
-    "records": 168,
+    "records": 172,
     "families": 22,
     "readiness": {
-      "DOCUMENTED_CORE": 122,
+      "DOCUMENTED_CORE": 128,
       "INCOMPLETE": 9,
-      "PROPOSED_OBJECTIVE": 36,
+      "PROPOSED_OBJECTIVE": 34,
       "REPORTED_OBSERVATION": 1
     },
     "unique_exercises": null
@@ -62102,7 +63255,7 @@
       }
     ],
     "exact_steps_pairs": [],
-    "pairs_checked": 14028
+    "pairs_checked": 14706
   },
   "warmup_collection": {
     "version": 1,
@@ -62216,5 +63369,5 @@
       "Rugby Toolbox : index U7 inaccessible lors des essais ; aucun contenu inventé depuis les seuls titres."
     ]
   },
-  "content_sha256": "dd3c0e8f77660e20ab4eee670eb0c19dceb766f1157590df7ae06e5fc7381433"
+  "content_sha256": "988dae221f99a566906fc984e1f74ccb7930c89fd9bdc3ab73da0e6cf1902a05"
 }
