@@ -47,7 +47,7 @@ import unicodedata
 from http import HTTPStatus
 from urllib.parse import parse_qs, unquote
 
-from wsgiref.simple_server import WSGIServer
+from wsgiref.simple_server import WSGIServer, make_server
 
 import app_store
 import session_plan
@@ -135,11 +135,15 @@ def _search_match(query_folded, e):
 def select_catalogue(query=None, tag_ids=(), match="all", include_incomplete=True, usage=None):
     """Filtrer la vue catalogue.
 
-    La sémantique des tags est identique à exercise_tags.select :
-    « all » = tous les tags demandés présents ; « any » = au moins un ;
-    les fiches incomplètes sont affichées par défaut (défaut produit :
-    tout le catalogue, avec badge d'état) ; usage = « WARMUP » restreint
-    à session_uses.
+    La sémantique des tags est identique à exercise_tags.select
+    (« all » = tous les tags demandés présents ; « any » = au moins un),
+    sauf un écart délibéré : un tag inconnu donne 0 carte ici (le filtre
+    est permissif, l'API répond 200 avec une liste vide) là où
+    exercise_tags.select lève ValueError (« Filtre inconnu ») — la vue
+    utilisateur n'a pas à connaître le taxon en avance, le validateur
+    catalogue oui. Les fiches incomplètes sont affichées par défaut
+    (défaut produit : tout le catalogue, avec badge d'état) ; usage =
+    « WARMUP » restreint à session_uses.
     """
     wanted = [t for t in tag_ids if t]
     qf = fold(query) if query else ""
@@ -722,7 +726,9 @@ def application(environ, start_response):
 def main():
     # M2 : un client malhonnête (longueur mentière sous le plafond) ne bloque
     # plus la file — un thread par connexion (SQLite ouvert par requête).
-    server = ThreadingWSGIServer(HOST, PORT, application)
+    # Python 3.14 : WSGIServer hérite de HTTPServer ; make_server passe le
+    # WSGIRequestHandler en position 2 et l'application via set_app.
+    server = make_server(HOST, PORT, application, server_class=ThreadingWSGIServer)
     print(f"Lot 1 — Rugby Training Library : http://{HOST}:{PORT}")
     print(f"Vue catalogue : {len(EXERCISES)} fiches ; front statique : {STATIC_DIR}")
     try:

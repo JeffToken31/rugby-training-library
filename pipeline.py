@@ -53,7 +53,8 @@ def run(db,manifest,root,out,collect=False,limit=12):
                 time.sleep(0.5)
     if db.execute("PRAGMA foreign_key_check").fetchall():
         raise ValueError("Références incohérentes : export annulé")
-    count=v2.export(db,out)
+    unified=bool((manifest.get("application") or {}).get("consolidation_review"))
+    count=v2.export(db,out,unified)
     if manifest.get("application"):
         import application_data
         application_data.export(db,root,out,manifest["application"])

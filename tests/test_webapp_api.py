@@ -193,6 +193,18 @@ class WebappApiTests(unittest.TestCase):
         self.assertEqual(body["count"], 8)
         self.assertEqual([c["id"] for c in body["cards"]], expected)
 
+    def test_recherche_tag_inconnu_permissif(self):
+        # n1 (tranché le 2026-11-22) : un tag inconnu donne 0 carte (200,
+        # liste vide), pas une erreur — écart délibéré documenté dans le
+        # docstring de webapp.select_catalogue. Le validateur
+        # exercise_tags.select reste strict sur le même tag.
+        code, body = call_json("/api/recherche", query="tags=skill:invented")
+        self.assertEqual(code, 200)
+        self.assertEqual(body["count"], 0)
+        self.assertEqual(body["cards"], [])
+        with self.assertRaises(ValueError):
+            tags.select(self.payload, ["skill:invented"])
+
     # ------------------------------------------------------------------
     # /api/fiches/<id>
     # ------------------------------------------------------------------

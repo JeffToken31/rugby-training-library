@@ -111,6 +111,7 @@ def export(payload,out):
     for pair in review["pair_reviews"]:
         lines += [f"- {DECISIONS[pair['decision']]} : [{pair['left_id']}](#{pair['left_id']}) / [{pair['right_id']}](#{pair['right_id']}) — {pair['reason']}"]
     lines += ["",'<a id="fiches"></a>',"## Toutes les fiches", ""]
+    (out/"fiches").mkdir(parents=True,exist_ok=True)
     for e in exercises:
         lines += [f'<a id="{e["id"]}"></a>', "## "+e["title"], ""]+body(e,payload,lambda eid:'#'+eid)+["[Retour aux catégories](#categories)", "", "---", ""]
         single=["# "+e["title"], "", "[Retour au catalogue complet](../CATALOGUE.md)", ""]+body(e,payload,lambda eid:eid+'.md')

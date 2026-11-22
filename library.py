@@ -173,26 +173,32 @@ def markdown(items, sources):
         lines += [f"- [{s['title']}]({s['url']}) — {s['access']}. {s.get('note','')}"]
     return "\n".join(line.rstrip() for line in lines) + "\n"
 
-def export(db, directory, items_override=None, sources_override=None):
+def export(db, directory, items_override=None, sources_override=None, render_views=True):
+    """`catalogue.json` et `exercises.csv` sont toujours écrits (consommés
+    par la base et l'API) ; les vues markdown (CATALOGUE.md, fiches/,
+    INDEX.md) le sont uniquement si `render_views` — le mode unifié
+    (consolidation_review, m2) remplace ces vues par ses fiches et ses
+    stubs de redirection."""
     directory = Path(directory)
     directory.mkdir(parents=True,exist_ok=True)
     items = search(db) if items_override is None else items_override
     sources = [json.loads(r[0]) for r in db.execute("SELECT data FROM sources ORDER BY id")] if sources_override is None else sources_override
     (directory/"catalogue.json").write_text(json.dumps({"sources":sources,"exercises":items},ensure_ascii=False,indent=2)+"\n",encoding="utf-8")
-    (directory/"CATALOGUE.md").write_text(markdown(items,sources),encoding="utf-8")
-    cards = directory/"fiches"
-    cards.mkdir(exist_ok=True)
-    index = ["# Choisir un exercice", "", f"{len(items)} fiches — les propositions terrain restent à valider par le coach.", "",
-             "[Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)", ""]
-    for theme in sorted(set(e["theme"] for e in items)):
-        index += ["## " + theme.capitalize(), "", "| Exercice | Âge source | Proposition terrain |", "|---|---|---|"]
-        for e in (x for x in items if x["theme"] == theme):
-            plan = e.get("u8_plan")
-            detail = f"{plan['duration_min']} min / {plan['players_min']}–{plan['players_max']} enfants" if plan else ("À compléter" if e.get("status") == "incomplete" else "Documentée ; à valider")
-            index += [f"| [{e['title']}](fiches/{e['id']}.md) | {e['age_source']} | {detail} |"]
-            (cards/(e["id"]+".md")).write_text(markdown([e],[e["source"]]),encoding="utf-8")
-        index.append("")
-    (directory/"INDEX.md").write_text("\n".join(index)+"\n",encoding="utf-8")
+    if render_views:
+        (directory/"CATALOGUE.md").write_text(markdown(items,sources),encoding="utf-8")
+        cards = directory/"fiches"
+        cards.mkdir(exist_ok=True)
+        index = ["# Choisir un exercice", "", f"{len(items)} fiches — les propositions terrain restent à valider par le coach.", "",
+                 "[Catalogue complet](CATALOGUE.md) · [Séances sources](SEANCES.md) · [Séance exemple](../docs/SEANCE_EXEMPLE.md)", ""]
+        for theme in sorted(set(e["theme"] for e in items)):
+            index += ["## " + theme.capitalize(), "", "| Exercice | Âge source | Proposition terrain |", "|---|---|---|"]
+            for e in (x for x in items if x["theme"] == theme):
+                plan = e.get("u8_plan")
+                detail = f"{plan['duration_min']} min / {plan['players_min']}–{plan['players_max']} enfants" if plan else ("À compléter" if e.get("status") == "incomplete" else "Documentée ; à valider")
+                index += [f"| [{e['title']}](fiches/{e['id']}.md) | {e['age_source']} | {detail} |"]
+                (cards/(e["id"]+".md")).write_text(markdown([e],[e["source"]]),encoding="utf-8")
+            index.append("")
+        (directory/"INDEX.md").write_text("\n".join(index)+"\n",encoding="utf-8")
     with (directory/"exercises.csv").open("w",encoding="utf-8-sig",newline="") as f:
         columns = ["id","title","theme","age_source","duration_min","players_min","players_max","participants_scope","summary","material","adaptation_u8","review","url","locator"]
         writer = csv.DictWriter(f,fieldnames=columns,extrasaction="ignore",lineterminator="\n")

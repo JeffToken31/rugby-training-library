@@ -1,0 +1,279 @@
+{
+  "note": "Corpus partagé n3 (tranché le 2026-11-22) : mêmes vecteurs rejoués par tests/test_vectors.py (séances via session_plan.validate + webapp.minutage_derivee, filtres via webapp.select_catalogue sur exports/APPLICATION.json) et par web/scripts/replay-vectors.mts (séances via web/lib/session.ts validerLocale, filtres via web/lib/filter.ts selectCards). Verrouille la leçon m1 : flottants entiers (7.0) acceptés des deux côtés, flottants non entiers et booléens refusés. Les messages doivent être strictement identiques côté Python et côté TS.",
+  "sessions": [
+    {
+      "name": "trame-70-90",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "coaches": 2,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": true, "erreurs": [], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "creneau-missing",
+      "plan": {
+        "duration_min": 70,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Créneau invalide : 'creneau_min' absent ou non strictement positif."], "avertissements": [], "minutage": {"creneau_min": 0, "planifie_min": 70, "marge_min": -70, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "depassement-creneau",
+      "plan": {
+        "duration_min": 95,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 25, "rounds": [
+            {"work_min": 10, "transition_min": 5, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 50, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": true, "erreurs": [], "avertissements": ["Avertissement — Dépassement du créneau : 95 min planifiées pour un créneau de 90 min."], "minutage": {"creneau_min": 90, "planifie_min": 95, "marge_min": -5, "opposition_min": 70, "partiel": false}}
+    },
+    {
+      "name": "total-partiel",
+      "plan": {
+        "duration_min": 50,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": null, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": true, "erreurs": [], "avertissements": ["Avertissement — Le total est partiel : durée manquante sur Deux ateliers en rotation."], "minutage": {"creneau_min": 90, "planifie_min": 50, "marge_min": 40, "opposition_min": 50, "partiel": true}}
+    },
+    {
+      "name": "flottant-entier-7",
+      "plan": {
+        "duration_min": 7.0,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [{"kind": "WARMUP", "label": "Échauffement", "duration_min": 7.0, "variant_ids": []}]
+      },
+      "etat": {},
+      "expected": {"valide": true, "erreurs": [], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 7, "marge_min": 83, "opposition_min": 0, "partiel": false}}
+    },
+    {
+      "name": "flottant-non-entier",
+      "plan": {
+        "duration_min": 7.5,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [{"kind": "WARMUP", "label": "Échauffement", "duration_min": 7.5, "variant_ids": []}]
+      },
+      "etat": {},
+      "expected": {"valide": false, "erreurs": ["Durées de blocs invalides"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 0, "marge_min": 90, "opposition_min": 0, "partiel": true}}
+    },
+    {
+      "name": "booleen-duree",
+      "plan": {
+        "duration_min": 7,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [{"kind": "WARMUP", "label": "Échauffement", "duration_min": true, "variant_ids": []}]
+      },
+      "etat": {},
+      "expected": {"valide": false, "erreurs": ["Durées de blocs invalides"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 0, "marge_min": 90, "opposition_min": 0, "partiel": true}}
+    },
+    {
+      "name": "exercice-inconnu",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": ["xx-inexistant"]},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Exercice inconnu : xx-inexistant"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "exercice-incomplet",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": ["xx-incomplet"]},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE", "xx-incomplet": "INCOMPLETE"},
+      "expected": {"valide": false, "erreurs": ["Exercice trop incomplet : xx-incomplet"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "rotation-groupe-missing",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Chaque groupe doit être affecté une fois par rotation"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "atelier-duplique",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Atelier occupé par plusieurs groupes simultanément"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "effectif-incoherent",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 15,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Effectif total différent de la somme des groupes"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "total-different",
+      "plan": {
+        "duration_min": 80,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Durée totale différente de la somme des blocs"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "rotation-invalide",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 2.5, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Durée de rotation invalide"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    },
+    {
+      "name": "rotation-incoherente",
+      "plan": {
+        "duration_min": 70,
+        "creneau_min": 90,
+        "players": 14,
+        "groups": [{"id": "A", "players": 7}, {"id": "B", "players": 7}],
+        "blocks": [
+          {"kind": "OPPOSITION", "label": "Opposition d'ouverture", "duration_min": 20, "variant_ids": []},
+          {"kind": "WORKSHOPS", "label": "Deux ateliers en rotation", "duration_min": 20, "rounds": [
+            {"work_min": 12, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "1", "variant_id": "rc-pairs"}, {"group_id": "B", "station_id": "2", "variant_id": "rc-two-one"}]},
+            {"work_min": 10, "transition_min": 0, "assignments": [{"group_id": "A", "station_id": "2", "variant_id": "rc-two-one"}, {"group_id": "B", "station_id": "1", "variant_id": "rc-pairs"}]}
+          ]},
+          {"kind": "OPPOSITION", "label": "Opposition de clôture", "duration_min": 30, "variant_ids": []}
+        ]
+      },
+      "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE"},
+      "expected": {"valide": false, "erreurs": ["Durées de rotation incohérentes"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+    }
+  ],
+  "filters": [
+    {"name": "aucun-filtre", "opts": {}, "expected": {"count": 172}},
+    {"name": "tag-lutte", "opts": {"tag_ids": ["skill:lutte"]}, "expected": {"ids": ["bib-lutte-arc", "bib-lutte-jumelle", "bib-ruck-relai", "bib-soule-ramasser", "ffr-gazelles-atelier", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "ffr-protege-atelier", "jskids-l08-culotte", "jskids-l08-sumo"]}},
+    {"name": "any-lutte-duel", "opts": {"tag_ids": ["skill:lutte", "format:duel"], "match": "any"}, "expected": {"ids": ["au-cat-mouse", "au-cone-game", "au-partner-release", "au-partner-tag", "bib-lutte-arc", "bib-lutte-jumelle", "bib-plaquage-a-genoux", "bib-plaquage-balise", "bib-plaquage-tenue", "bib-ruck-relai", "bib-soule-ramasser", "ffr-duellong-atelier", "ffr-gazelles-atelier", "ffr-guide-m8-1c1", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "ffr-protege-atelier", "ffr-speedy-partage", "jskids-l08-culotte", "jskids-l08-sumo", "nz-evading-player", "nz-number-duel", "nz-rats-free", "nz-rats-straight", "nz-shadow", "nz-shadow-mirror"]}},
+    {"name": "recherche-lutte", "opts": {"query": "lutte"}, "expected": {"ids": ["ffr-gazelles-atelier", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "jskids-l08-culotte"]}},
+    {"name": "sans-incomplet", "opts": {"include_incomplete": false}, "expected": {"count": 163}},
+    {"name": "usage-warmup", "opts": {"usage": "WARMUP"}, "expected": {"ids": ["warm-any-direction-tag", "warm-arm-circles", "warm-evasion-gauntlet", "warm-here-there", "warm-hook-relay", "warm-lunge-clock", "warm-slow-go", "warm-whistle-stop"]}},
+    {"name": "accent-reagir", "opts": {"query": "réagir"}, "expected": {"ids": ["au-cone-game", "ffr-speedy-individuel", "wr-follow-choice"]}},
+    {"name": "sans-accent-reagir", "opts": {"query": "reagir"}, "expected": {"ids": ["au-cone-game", "ffr-speedy-individuel", "wr-follow-choice"]}}
+  ]
+}

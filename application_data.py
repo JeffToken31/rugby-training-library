@@ -131,6 +131,17 @@ def export(db, root, out, config):
     payload = build(db, root, config)
     out = Path(out)
     (out / "APPLICATION.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if config.get("consolidation_review"):
+        # m2 (tranché le 2026-11-22) : le catalogue unifié est le seul chemin
+        # de rendu. La chirurgie ci-dessous (tags dans CATEGORIES/CATALOGUE,
+        # table QUALITE, compléments par fiche) serait une écriture morte —
+        # ses fichiers étant remplacés par les stubs de redirection de
+        # unified_catalogue.export — donc on court-circuite dès l'export
+        # d'APPLICATION.json. L'information par fiche survit dans les fiches
+        # unifiées ; seule la table agrégée QUALITE est perdue.
+        import unified_catalogue
+        unified_catalogue.export(payload, out)
+        return payload["summary"]
     if "tag_taxonomy" in payload:
         import exercise_tags
         exercise_tags.export(payload, out)
@@ -169,7 +180,4 @@ def export(db, root, out, config):
     if config.get("timings"):
         import timing
         timing.export(payload, out)
-    if config.get("consolidation_review"):
-        import unified_catalogue
-        unified_catalogue.export(payload, out)
     return payload["summary"]

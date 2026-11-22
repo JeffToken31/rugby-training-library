@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "next dev -p 8348",
     "build": "next build",
+    "test:vectors": "tsc scripts/replay-vectors.mts --module commonjs --moduleResolution node --target es2022 --outDir .vectors-build && mv .vectors-build/scripts/replay-vectors.mjs .vectors-build/scripts/replay-vectors.js && node .vectors-build/scripts/replay-vectors.js",
     "start": "next start -p 8348"
   },
   "dependencies": {

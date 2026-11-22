@@ -127,11 +127,16 @@ def items(db,query="",status="",theme="",age="",minutes=None,players=None,basis=
         value=params.get("duration_min" if sort=="duration" else "players_min")
         return (value is None,value or 0,library.fold(e["title"])) if sort!="title" else (library.fold(e["title"]),)
     return sorted(result,key=order)
-def export(db,out):
+def export(db,out,unified=False):
+    """`unified=True` (mode consolidation_review, m2) : la base
+    `catalogue.json`+`exercises.csv` est écrite mais les vues markdown de
+    `library` (CATALOGUE.md, fiches/, INDEX.md) sont remplacées par le
+    catalogue unifié ; FICHES_DETAILLEES.md et COMPARAISONS.md sont
+    remplacés par des stubs de redirection."""
     out=Path(out)
     sources=[json.loads(r[0]) for r in db.execute("SELECT metadata_json FROM resources ORDER BY id")]
     result=items(db)
-    library.export(None,out,items_override=result,sources_override=sources)
+    library.export(None,out,items_override=result,sources_override=sources,render_views=not unified)
     lines=["# Séances sources","","Les trames ci-dessous restent distinctes de votre organisation de 90 minutes. Les pistes vidéo incomplètes sont signalées dans les fiches.",""]
     for r in db.execute("SELECT * FROM sessions ORDER BY id"):
         s=json.loads(r["parameters_json"])
@@ -144,13 +149,14 @@ def export(db,out):
                 lines += [f"  - [Fiche {id}](fiches/{id}.md)"]
         lines += [""]
     (out/"SEANCES.md").write_text("\n".join(lines)+"\n")
-    selected=[e for e in result if all(e["field_coverage"][field]["state"]=="PRESENT" and e["field_coverage"][field].get("origin")=="SOURCE" for field in ("organisation","steps"))]
-    selection=["# Fiches avec organisation et déroulement sourcés", "", "Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.", "", str(len(selected))+" fiches.", ""]
-    for e in selected:
-        selection.append("- ["+e["title"]+"](fiches/"+e["id"]+".md) — "+e["theme"]+" ; "+e["source"].get("publisher", "Organisme non renseigné"))
-    (out/"FICHES_DETAILLEES.md").write_text("\n".join(selection)+"\n",encoding="utf-8")
-    import comparisons
-    comparisons.export(db,out,result)
+    if not unified:
+        selected=[e for e in result if all(e["field_coverage"][field]["state"]=="PRESENT" and e["field_coverage"][field].get("origin")=="SOURCE" for field in ("organisation","steps"))]
+        selection=["# Fiches avec organisation et déroulement sourcés", "", "Cette sélection exige ces deux champs attribués à une source. Elle ne vaut pas validation terrain ni garantie de complétude. Les durées et effectifs peuvent rester inconnus.", "", str(len(selected))+" fiches.", ""]
+        for e in selected:
+            selection.append("- ["+e["title"]+"](fiches/"+e["id"]+".md) — "+e["theme"]+" ; "+e["source"].get("publisher", "Organisme non renseigné"))
+        (out/"FICHES_DETAILLEES.md").write_text("\n".join(selection)+"\n",encoding="utf-8")
+        import comparisons
+        comparisons.export(db,out,result)
     return len(result)
 def main():
     p=argparse.ArgumentParser()
