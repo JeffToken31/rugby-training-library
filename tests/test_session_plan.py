@@ -136,5 +136,42 @@ class Trame7090Tests(unittest.TestCase):
         self.assertIn("Durée totale différente de la somme des blocs", session_plan.validate(p, CATALOGUE))
 
 
+class FlottantsEtMalformeTests(unittest.TestCase):
+    """m1/M1 — flottants entiers normalisés (miroir front Number.isInteger) ;
+    champs manquants côté plan → PlanMalforme lisible (à transformer en 400)."""
+
+    def test_entier_normalise_flottant_entier(self):
+        self.assertEqual(session_plan.entier(7), 7)
+        self.assertEqual(session_plan.entier(7.0), 7)
+        self.assertIsNone(session_plan.entier(7.5))
+        self.assertIsNone(session_plan.entier(True))
+        self.assertIsNone(session_plan.entier(None))
+
+    def test_positive_accepte_flottant_entier_refuse_bool(self):
+        self.assertTrue(session_plan.positive(7.0))
+        self.assertFalse(session_plan.positive(7.5))
+        self.assertFalse(session_plan.positive(True))
+        self.assertFalse(session_plan.positive(0))
+
+    def test_flottant_entier_valide_70_sur_90(self):
+        p = plan()
+        p["blocks"][0]["duration_min"] = 20.0
+        p["duration_min"] = 70.0
+        self.assertEqual(session_plan.validate(p, CATALOGUE), [])
+
+    def test_groupe_sans_id_lance_plan_malforme(self):
+        p = plan()
+        del p["groups"][0]["id"]
+        with self.assertRaises(session_plan.PlanMalforme):
+            session_plan.validate(p, CATALOGUE)
+
+    def test_affectation_sans_station_id_lance_plan_malforme(self):
+        p = plan()
+        slot = p["blocks"][1]["rounds"][0]["assignments"][0]
+        del slot["station_id"]
+        with self.assertRaises(session_plan.PlanMalforme):
+            session_plan.validate(p, CATALOGUE)
+
+
 if __name__ == "__main__":
     unittest.main()

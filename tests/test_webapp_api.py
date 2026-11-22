@@ -340,5 +340,94 @@ class SeanceApiTests(unittest.TestCase):
         self.assertEqual(code, 405)
 
 
+class PlanMalformeApiTests(unittest.TestCase):
+    """M1/m1/M2 — un brouillon malformé (champ manquant côté plan) vaut 400
+    lisible, jamais 500 ; les flottants entiers sont acceptés comme côté front
+    (miroir Number.isInteger) ; une Content-Length négative est refusée avant
+    le read (qui bloquait le serveur en un thread)."""
+
+    def _trame(self):
+        code, trame = call_json("/api/seances/trame-u8")
+        self.assertEqual(code, 200)
+        return json.loads(json.dumps(trame))  # copie profonde indépendante
+
+    def _valider(self, trame):
+        return call_json("/api/seances/valider", data=trame, method="POST")
+
+    def test_groupe_sans_id_400_lisible(self):
+        trame = self._trame()
+        del trame["groups"][0]["id"]
+        code, body = self._valider(trame)
+        self.assertEqual(code, 400)
+        self.assertEqual(body["error"], "Plan malformé : Groupe sans 'id'")
+
+    def test_affectation_sans_group_id_400_lisible(self):
+        trame = self._trame()
+        slot = trame["blocks"][1]["rounds"][0]["assignments"][0]
+        del slot["group_id"]
+        code, body = self._valider(trame)
+        self.assertEqual(code, 400)
+        self.assertEqual(body["error"], "Plan malformé : Affectation sans 'group_id'")
+
+    def test_affectation_sans_station_id_400_lisible(self):
+        trame = self._trame()
+        slot = trame["blocks"][1]["rounds"][0]["assignments"][0]
+        del slot["station_id"]
+        code, body = self._valider(trame)
+        self.assertEqual(code, 400)
+        self.assertEqual(body["error"], "Plan malformé : Affectation sans 'station_id'")
+
+    def test_affectation_sans_variant_id_400_lisible(self):
+        trame = self._trame()
+        slot = trame["blocks"][1]["rounds"][0]["assignments"][0]
+        del slot["variant_id"]
+        code, body = self._valider(trame)
+        self.assertEqual(code, 400)
+        self.assertEqual(body["error"], "Plan malformé : Affectation sans 'variant_id'")
+
+    def test_flottants_entiers_acceptes_comme_cote_front(self):
+        trame = self._trame()
+        trame["blocks"][0]["duration_min"] = 20.0
+        trame["duration_min"] = 70.0
+        trame["creneau_min"] = 90.0
+        code, res = self._valider(trame)
+        self.assertEqual(code, 200)
+        self.assertTrue(res["valide"])
+        self.assertEqual(res["erreurs"], [])
+        self.assertEqual(res["minutage"]["planifie_min"], 70)
+        self.assertEqual(res["minutage"]["creneau_min"], 90)
+        self.assertEqual(res["minutage"]["marge_min"], 20)
+
+    def test_flottant_fractionnaire_refuse(self):
+        trame = self._trame()
+        trame["blocks"][0]["duration_min"] = 20.5
+        code, res = self._valider(trame)
+        self.assertEqual(code, 200)
+        self.assertFalse(res["valide"])
+        self.assertIn("Durées de blocs invalides", res["erreurs"])
+
+    def test_contenu_length_negatif_400_avant_read(self):
+        # M2 : le read à longueur négative bloquait le serveur ; refus 400.
+        raw = b"{}"
+        captured = {}
+
+        def start_response(status, headers):
+            captured["status"] = status
+
+        # Environ assemblé à la main : call() impose CONTENT_LENGTH = len(raw),
+        # ce qui rendrait le cas négatif introuvable.
+        environ = {
+            "PATH_INFO": "/api/seances/valider",
+            "REQUEST_METHOD": "POST",
+            "QUERY_STRING": "",
+            "wsgi.input": io.BytesIO(raw),
+            "CONTENT_LENGTH": "-5",
+        }
+        body = b"".join(webapp.application(environ, start_response))
+        code = int(captured["status"].split(" ", 1)[0])
+        self.assertEqual(code, 400)
+        self.assertEqual(json.loads(body)["error"], "Longueur de requête invalide.")
+
+
 if __name__ == "__main__":
     unittest.main()

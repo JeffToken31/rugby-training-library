@@ -19,7 +19,8 @@ export const KIND_LABELS: Record<string, string> = {
   PAUSE: "Pause",
 };
 
-// Miroir de session_plan.positive : `type(value) is int and value > 0`.
+// Miroir de session_plan.positive / entier : entier strict > 0, flottants
+// entiers normalisés (7.0 → 7) — en JSON, 7.0 et 7 sont indistinguables.
 // En JS, boolean n'est pas number, pas de faux positif.
 function positive(value: unknown): value is number {
   return typeof value === "number" && Number.isInteger(value) && value > 0;
@@ -27,18 +28,22 @@ function positive(value: unknown): value is number {
 
 // Miroir de webapp.minutage_derivee (tous les types, jamais stockée).
 export function minutageDerivee(plan: SessionPlan): MinutageDerivee {
+  // m1 : durées normalisées comme session_plan.entier (flottants entiers →
+  // entier strict, le reste → null) — mêmes ensets acceptés que le serveur.
+  const entier = (v: unknown): number | null =>
+    typeof v === "number" && Number.isInteger(v) ? (v as number) : null;
   const blocks = plan.blocks ?? [];
-  const durees = blocks.map((b) => b.duration_min);
+  const durees = blocks.map((b) => entier(b.duration_min));
   const planifie = durees.reduce<number>(
-    (acc, d) => (typeof d === "number" ? acc + d : acc),
+    (acc, d) => (d === null ? acc : acc + d),
     0
   );
-  let creneau = plan.creneau_min;
-  if (typeof creneau !== "number") creneau = 0;
+  let creneau = entier(plan.creneau_min);
+  if (creneau === null) creneau = 0;
   const opposition = blocks.reduce<number>(
     (acc, b) =>
       b.kind === "OPPOSITION" || b.kind === "JEU"
-        ? acc + (typeof b.duration_min === "number" ? b.duration_min : 0)
+        ? acc + (entier(b.duration_min) ?? 0)
         : acc,
     0
   );
@@ -47,7 +52,7 @@ export function minutageDerivee(plan: SessionPlan): MinutageDerivee {
     planifie_min: planifie,
     marge_min: creneau - planifie,
     opposition_min: opposition,
-    partiel: durees.some((d) => d === null || d === undefined),
+    partiel: durees.some((d) => d === null),
   };
 }
 

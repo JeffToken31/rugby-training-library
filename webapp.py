@@ -42,14 +42,25 @@ Tous les POST acceptent un corps JSON plafonné à 2 Mo (413 au-delà).
 import json
 import os
 import socket
+import socketserver
 import unicodedata
 from http import HTTPStatus
 from urllib.parse import parse_qs, unquote
 
-from wsgiref.simple_server import make_server
+from wsgiref.simple_server import WSGIServer
 
 import app_store
 import session_plan
+
+
+# M2 : un client malhonnête (longueur mentière sous le plafond) ne bloque plus
+# la file — un thread par connexion (SQLite ouvert par requête).
+# `ThreadingWSGIServer` a disparu de wsgiref en Python 3.14 : copie locale
+# fidèle de l'ancienne classe stdlib.
+class ThreadingWSGIServer(socketserver.ThreadingMixIn, WSGIServer):
+    """WSGIServer threadé (un thread par connexion)."""
+
+    daemon_threads = True
 
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(APP_DIR, "exports", "APPLICATION.json")
@@ -264,7 +275,14 @@ def valider_seance(plan):
     total partiel) et n'empêchent pas la séance ; les erreurs bloquantes
     l'empêchent. On ajoute la minutage dérivée (marge, opposition).
     """
-    erreurs = session_plan.validate(plan, PAYLOAD)
+    try:
+        erreurs = session_plan.validate(plan, PAYLOAD)
+    except session_plan.PlanMalforme:
+        raise
+    except (KeyError, TypeError, AttributeError) as exc:
+        # Filet M1 : un champ manquant/inattendu côté brouillon est une erreur
+        # utilisateur → 400 lisible (« Plan malformé »), jamais 500.
+        raise session_plan.PlanMalforme(str(exc))
     bloquantes = [m for m in erreurs if not m.startswith("Avertissement")]
     avertissements = [m for m in erreurs if m.startswith("Avertissement")]
     return {
@@ -286,13 +304,14 @@ def minutage_derivee(plan):
       condition d'opposition).
     """
     blocks = plan.get("blocks", [])
-    durees = [b.get("duration_min") for b in blocks]
-    planifie = sum(d for d in durees if isinstance(d, int))
-    creneau = plan.get("creneau_min")
-    if not isinstance(creneau, int):
-        creneau = 0
+    # m1 : durées normalisées par session_plan.entier (flottants entiers →
+    # entier strict), identiques au miroir front (Number.isInteger) — l'ancien
+    # code comptait 7.0 dans opposition mais pas dans planifie (incohérence).
+    durees = [session_plan.entier(b.get("duration_min")) for b in blocks]
+    planifie = sum(d for d in durees if d is not None)
+    creneau = session_plan.entier(plan.get("creneau_min")) or 0
     opposition = sum(
-        b.get("duration_min") or 0
+        session_plan.entier(b.get("duration_min")) or 0
         for b in blocks
         if b.get("kind") in ("OPPOSITION", "JEU")
     )
@@ -415,6 +434,10 @@ def _read_json_body(environ):
         length = 0
     if length > MAX_BODY:
         return HTTPStatus(413), {"error": "Corps de requête trop volumineux (2 Mo maximum)."}
+    if length < 0:
+        # M2 : une longueur négative bloquait le read tant que la connexion
+        # restait ouverte ; refusée d'abord, 400 lisible.
+        return HTTPStatus.BAD_REQUEST, {"error": "Longueur de requête invalide."}
     raw = environ["wsgi.input"].read(length) if length else b""
     if not raw:
         return HTTPStatus.BAD_REQUEST, {"error": "Corps de requête vide."}
@@ -586,7 +609,13 @@ def _route_propositions(environ):
                 if not (isinstance(titre, str) and titre.strip()):
                     plan_title = data["plan"].get("title")
                     titre = plan_title if isinstance(plan_title, str) and plan_title.strip() else "Séance"
-                check = valider_seance(data["plan"])
+                try:
+                    check = valider_seance(data["plan"])
+                except session_plan.PlanMalforme as exc:
+                    # Brouillon malformé → 400 lisible, proposition non sauvegardée.
+                    return _json_response(
+                        HTTPStatus.BAD_REQUEST, {"error": "Plan malformé : " + str(exc)}
+                    )
                 res = store.save_proposal(compte["id"], titre.strip(), data["plan"], check)
                 return _json_response(
                     HTTPStatus.CREATED,
@@ -652,7 +681,13 @@ def application(environ, start_response):
                     HTTPStatus.BAD_REQUEST, {"error": "brouillon de séance JSON attendu"}
                 )
             else:
-                status, headers, body = _json_response(HTTPStatus.OK, valider_seance(plan))
+                try:
+                    status, headers, body = _json_response(HTTPStatus.OK, valider_seance(plan))
+                except session_plan.PlanMalforme as exc:
+                    # M1 : brouillon malformé → 400 lisible, jamais 500.
+                    status, headers, body = _json_response(
+                        HTTPStatus.BAD_REQUEST, {"error": "Plan malformé : " + str(exc)}
+                    )
     elif path in ("/api/auth/inscription", "/api/auth/login", "/api/auth/deconnexion"):
         # 405 explicite : sans cette branche, un GET tomberait dans le
         # fallback statique (index.html, 200).
@@ -685,7 +720,9 @@ def application(environ, start_response):
 
 
 def main():
-    server = make_server(HOST, PORT, application)
+    # M2 : un client malhonnête (longueur mentière sous le plafond) ne bloque
+    # plus la file — un thread par connexion (SQLite ouvert par requête).
+    server = ThreadingWSGIServer(HOST, PORT, application)
     print(f"Lot 1 — Rugby Training Library : http://{HOST}:{PORT}")
     print(f"Vue catalogue : {len(EXERCISES)} fiches ; front statique : {STATIC_DIR}")
     try:

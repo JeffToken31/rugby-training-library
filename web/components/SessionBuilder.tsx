@@ -750,12 +750,17 @@ export default function SessionBuilder({
                       inputMode="numeric"
                       min={1}
                       step={1}
-                      value={b.duration_min ?? 0}
+                      value={b.duration_min ?? ""}
                       onChange={(e) =>
                         updatePlan((d) => {
-                          d.blocks[bi].duration_min = Number.isInteger(+e.target.value)
-                            ? +e.target.value
-                            : 0;
+                          // n4 : champ vide → durée non saisie (null, « total partiel »
+                          // honnête) plutôt que 0 (bloc « 0 min » trompeur).
+                          d.blocks[bi].duration_min =
+                            e.target.value === ""
+                              ? null
+                              : Number.isInteger(+e.target.value)
+                                ? +e.target.value
+                                : 0;
                         })
                       }
                     />

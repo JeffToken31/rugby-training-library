@@ -1,7 +1,7 @@
 // Miroir exact de webapp.select_catalogue / webapp.fold (lui-même miroir de
 // exercise_tags.select) : même sémantique all/any, mêmes champs de recherche,
-// insensible aux accents. La liste est de 158 fiches : le filtrage côté client
-// reste bien en deçà de l'objectif de 300 ms.
+// insensible aux accents. Le corpus restant petit, le filtrage côté client
+// demeure bien en deçà de l'objectif de 300 ms.
 
 import type { Card } from "./types";
 

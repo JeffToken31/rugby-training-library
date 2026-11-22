@@ -21,7 +21,8 @@ porte deux champs facultatifs — `club` (texte ≤ 80 caractères) et
 `categorie` (liste contrôlée U6…U18, Autre). Le club est un simple
 libellé : il n'ouvre aucun accès (C1 inchangé).
 
-La connexion est ouverte et fermée par requête (wsgiref est mono-thread).
+La connexion est ouverte et fermée par requête (l'API tourne en un thread par
+connexion : `ThreadingWSGIServer`, voir webapp.py).
 """
 
 from __future__ import annotations
