@@ -29,7 +29,7 @@ def export(payload, out):
         if not pending:
             lines += ["Les paramètres suivis sont renseignés ; vérifier leur adéquation au groupe du jour."]
         if e["quality"]["state"] == "INCOMPLETE":
-            lines += ["", "**Description encore insuffisante : ne pas utiliser cette fiche seule pour lancer l’activité.**"]
+            lines += ["", "**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**"]
         cue = e.get("coach_cues")
         if cue:
             lines += ["", "### Repères pédagogiques proposés — à adapter par l’éducateur", "", "**Indicateur observable :** " + cue["success_indicator"], "", "**À regarder :** " + cue["coach_observation"], "", "Proposition IA fondée sur le déroulement et les consignes existants ; ne remplace pas les critères de la source."]

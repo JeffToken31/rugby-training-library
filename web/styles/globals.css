@@ -659,6 +659,28 @@ input {
   font-size: 14px;
 }
 
+/* Conseils coach (Lot 7) : ligne d'origine avec le badge de provenance
+   (même identité visuelle que les h3) et état vide sobre. */
+.conseil + .conseil {
+  margin-top: 14px;
+}
+.conseil-origin {
+  margin: 0 0 6px;
+}
+.conseil-origin .origin-tag {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 2px 8px;
+  margin-right: 4px;
+}
+.conseil-vide {
+  font-style: italic;
+  color: var(--ink-3);
+}
+
 /* Bloc source repliable (fermé par défaut). */
 .source-block {
   border: 0;
@@ -800,6 +822,148 @@ input {
   align-items: center;
   font-size: 17px;
   font-weight: 700;
+}
+
+/* Groupes dynamiques : cellules avec effectif + suppression (cible ≥ 44px
+   pour le pouce), et le total passe à la ligne si les groupes déboitent. */
+.groups-row {
+  flex-wrap: wrap;
+}
+
+.group-cell {
+  flex: 1 1 150px;
+}
+
+.group-cell-row {
+  display: flex;
+  gap: 6px;
+  align-items: stretch;
+}
+
+.group-cell-row .num-input {
+  flex: 1;
+  min-width: 0;
+}
+
+.group-delete {
+  flex: none;
+  width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  color: var(--badge-red-t);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.groups-add {
+  margin-top: 10px;
+}
+
+/* Équipe d'effectif + « coachs disponibles » (tranché 2026-11-22). */
+.select-input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 16px; /* ≥ 16px : pas de zoom automatique iOS */
+}
+
+.team-block {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.team-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.team-row .select-input {
+  flex: 1;
+  min-width: 0;
+}
+
+.link-btn {
+  flex: none;
+  min-height: 44px;
+  padding: 0 12px;
+  border: none;
+  background: none;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.team-snapshot {
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.team-form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 4px;
+}
+
+.team-form .field-row {
+  margin-top: 0;
+}
+
+.coach-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.coach-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  min-height: 44px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.coach-row input[type="checkbox"] {
+  width: 22px;
+  height: 22px;
+  margin: 0;
+}
+
+.coach-name {
+  font-weight: 600;
+}
+
+.coach-club {
+  color: var(--ink-3);
+  font-size: 13px;
+}
+
+.form-error {
+  color: var(--badge-red-t);
+  font-size: 14px;
+}
+
+/* Lien WhatsApp offert après un partage qui nécessite un complément. */
+.share-link {
+  display: inline-block;
+  min-height: 44px;
+  line-height: 44px;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: 600;
 }
 
 /* Minutage dérivée : quatre tuiles recalculées à chaque frappe. */
@@ -1511,6 +1675,25 @@ input {
 }
 .pdf-details b {
   color: #16181d;
+}
+/* Conseils coach dans le PDF : origine lisible, fond vert pâle (clair). */
+.pdf-cue {
+  margin: 8px 0 0;
+  padding: 8px 10px;
+  background: #eaf3ee;
+  border-radius: 6px;
+}
+.pdf-cue h5 {
+  font-size: 12px;
+  font-weight: 700;
+  color: #0b5d3b;
+  margin: 0 0 4px;
+}
+.pdf-cue p {
+  margin: 2px 0;
+  font-size: 12.5px;
+  color: #16181d;
+  white-space: pre-wrap;
 }
 .pdf-foot {
   margin-top: 20px;

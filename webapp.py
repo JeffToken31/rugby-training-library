@@ -34,6 +34,21 @@ Routes :
   GET|POST
      /api/propositions[/<id>] → propositions de séance du compte (lot 5, D1 :
                                 snapshot immuable + résultat de validation)
+  GET /api/coachs             → coachs disponibles : tous les comptes
+                                enregistrés (login, club, catégorie
+                                facultatifs) ; 401 sans session. Seuls les
+                                identifiants sont listés : brouillons et
+                                propositions restent strictement privés (C1)
+  GET|POST
+     /api/equipes[/<id>]      → équipes d'effectif du compte (nom requis,
+                                club, catégorie, effectif et coachs
+                                rattachés facultatifs — tailles flexibles) ;
+                                PUT = mise à jour complète ; 404, pas 403,
+                                sur les équipes d'autrui (C1)
+  GET /api/conseils           → conseils coach (data/coach-cues.json, lu à
+                                chaque requête ; fichier absent →
+                                {"records": []} — le contenu s'ajoute sans
+                                code ni redémarrage)
   GET /*                      → front statique (web/out/), fallback index.html
 
 Tous les POST acceptent un corps JSON plafonné à 2 Mo (413 au-delà).
@@ -41,6 +56,7 @@ Tous les POST acceptent un corps JSON plafonné à 2 Mo (413 au-delà).
 
 import json
 import os
+import re
 import socket
 import socketserver
 import unicodedata
@@ -65,6 +81,9 @@ class ThreadingWSGIServer(socketserver.ThreadingMixIn, WSGIServer):
 APP_DIR = os.path.dirname(os.path.abspath(__file__))
 DATA_PATH = os.path.join(APP_DIR, "exports", "APPLICATION.json")
 DRAFT_PATH = os.path.join(APP_DIR, "data", "session-draft.example.json")
+# Conseils coach (tranché 2026-11-22) : lus à chaque requête — ajouter du
+# contenu (data/coach-cues.json) ne demande aucun code ni redémarrage.
+CUES_PATH = os.path.join(APP_DIR, "data", "coach-cues.json")
 STATIC_DIR = os.path.join(APP_DIR, "web", "out")
 HOST = "0.0.0.0"
 PORT = 8347
@@ -179,6 +198,7 @@ def card_for(e):
         "planning_max_seconds": pd.get("max_seconds"),
         "duration_status": pd.get("status"),
         "media": media_for(e),
+        "video_link": media_link_for(e),
     }
 
 
@@ -217,6 +237,30 @@ def _archive_present(path):
         return False
     full = os.path.join(APP_DIR, path) if not os.path.isabs(path) else path
     return os.path.isfile(full)
+
+
+def media_link_for(e):
+    """Lien vidéo attaché à la fiche lors de la relecture (172 fiches, 2026-11-22).
+
+    Provenance : data/media-links-20261122.json, contrôlée à la charge
+    (application_data.build). Trois états possibles :
+    - url + is_variant False : l'exercice filmé (source documentaire ou
+      recherche) ;
+    - url + is_variant True : variante filmée, l'écart est annoncé dans
+      variant_note ;
+    - url None : pas de lien, pas de variante — déclaré tel quel.
+    Distinct de media_for (suppléments PDF) ; les deux restent visibles.
+    """
+    link = PAYLOAD.get("media_links", {}).get(e["id"])
+    if not link:
+        return None
+    return {
+        "url": link["url"],
+        "title": link.get("title"),
+        "is_variant": link["is_variant"],
+        "variant_note": link.get("variant_note"),
+        "origin": link["origin"],
+    }
 
 
 def fiche_for(eid):
@@ -644,6 +688,123 @@ def _route_propositions(environ):
         return _json_response(HTTPStatus.NOT_FOUND, {"error": "Proposition introuvable."})
 
 
+def _equipe_id(nom: str, existing: set) -> str:
+    """Slug d'équipe dérivé du nom (sans accents, insensible à la casse) ;
+    suffixé en cas de collision (« u8-1 », « u8-1-2 » …). Miroir simple du
+    fold() de la recherche ; borné à 128 caractères (DRAFT_ID_RE)."""
+    base = re.sub(r"[^a-z0-9]+", "-", fold(nom)).strip("-")
+    if not base:
+        base = "equipe"
+    if len(base) > 128:
+        base = base[:128]
+    if base not in existing:
+        return base
+    n = 2
+    while f"{base}-{n}" in existing:
+        n += 1
+    return f"{base}-{n}"
+
+
+def _route_coachs(environ):
+    """GET /api/coachs → tous les comptes enregistrés (login, club,
+    catégorie facultatifs) : la liste « coachs disponibles » du
+    constructeur de séance (tranché 2026-11-22)."""
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        return _json_response(HTTPStatus.OK, {"coachs": store.list_coaches()})
+
+
+def _route_conseils(environ):
+    """GET /api/conseils → conseils coach (data/coach-cues.json).
+
+    Lecture fraîche à chaque requête : ajouter ou corriger des conseils
+    dans le fichier ne demande ni code ni redémarrage. Fichier absent ou
+    illisible → {"records": []} : la section est vide, jamais bloquante.
+    Contenu général de l'app (pas de données de compte) : pas
+    d'authentification requise.
+    """
+    try:
+        with open(CUES_PATH, "r", encoding="utf-8") as fh:
+            data = json.load(fh)
+    except (OSError, ValueError):
+        data = {"version": 0, "scope": "", "records": []}
+    if not isinstance(data, dict) or not isinstance(data.get("records"), list):
+        data = {"version": 0, "scope": "", "records": []}
+    return _json_response(HTTPStatus.OK, data)
+
+
+def _route_equipes(environ):
+    """GET|POST /api/equipes ; GET|PUT|DELETE /api/equipes/<id>
+    (équipes d'effectif du compte, tranché 2026-11-22) ; 404, pas 403,
+    sur les équipes d'autrui (C1)."""
+    method = environ.get("REQUEST_METHOD", "GET")
+    parts = [unquote(p) for p in environ["PATH_INFO"].split("/") if p]
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        if len(parts) == 2:
+            if method == "GET":
+                return _json_response(
+                    HTTPStatus.OK, {"equipes": store.list_equipes(compte["id"])}
+                )
+            if method == "POST":
+                err, data = _read_json_body(environ)
+                if err is not None:
+                    return _json_response(err, data)
+                if not isinstance(data, dict):
+                    return _json_response(
+                        HTTPStatus.BAD_REQUEST,
+                        {"error": "Objet JSON requis (nom de l'équipe au minimum)."},
+                    )
+                team_id = data.get("id")
+                if team_id is None:
+                    nom = data.get("nom")
+                    existing = {e["id"] for e in store.list_equipes(compte["id"])}
+                    team_id = _equipe_id(nom if isinstance(nom, str) else "", existing)
+                try:
+                    equipe = store.upsert_equipe(
+                        compte["id"], team_id, data.get("nom"),
+                        data.get("club"), data.get("categorie"),
+                        data.get("effectif"), data.get("coachs"),
+                    )
+                except ValueError as exc:
+                    return _json_response(HTTPStatus.BAD_REQUEST, {"error": str(exc)})
+                return _json_response(HTTPStatus.CREATED, equipe)
+            return _error(405)
+        if len(parts) != 3:
+            return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identifiant d'équipe invalide."})
+        team_id = parts[2]
+        if not app_store.draft_id_ok(team_id):
+            return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identifiant d'équipe invalide."})
+        if method == "GET":
+            equipe = store.get_equipe(compte["id"], team_id)
+            if equipe is None:
+                return _json_response(HTTPStatus.NOT_FOUND, {"error": "Équipe introuvable."})
+            return _json_response(HTTPStatus.OK, equipe)
+        if method == "PUT":
+            err, data = _read_json_body(environ)
+            if err is not None:
+                return _json_response(err, data)
+            if not isinstance(data, dict):
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Objet JSON requis."})
+            try:
+                equipe = store.upsert_equipe(
+                    compte["id"], team_id, data.get("nom"),
+                    data.get("club"), data.get("categorie"),
+                    data.get("effectif"), data.get("coachs"),
+                )
+            except ValueError as exc:
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": str(exc)})
+            return _json_response(HTTPStatus.OK, equipe)
+        if method == "DELETE":
+            store.delete_equipe(compte["id"], team_id)
+            return _json_response(HTTPStatus.OK, {"ok": True})
+        return _error(405)
+
+
 def application(environ, start_response):
     path = environ.get("PATH_INFO", "/")
     method = environ.get("REQUEST_METHOD", "GET")
@@ -712,6 +873,18 @@ def application(environ, start_response):
         status, headers, body = _route_brouillons(environ)
     elif path == "/api/propositions" or path.startswith("/api/propositions/"):
         status, headers, body = _route_propositions(environ)
+    elif path == "/api/coachs":
+        if method != "GET":
+            status, headers, body = _error(405)
+        else:
+            status, headers, body = _route_coachs(environ)
+    elif path == "/api/equipes" or path.startswith("/api/equipes/"):
+        status, headers, body = _route_equipes(environ)
+    elif path == "/api/conseils":
+        if method != "GET":
+            status, headers, body = _error(405)
+        else:
+            status, headers, body = _route_conseils(environ)
     elif method == "GET" or method == "HEAD":
         status, headers, body = _static_response(path)
     else:

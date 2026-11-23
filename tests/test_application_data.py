@@ -73,9 +73,11 @@ class ApplicationTests(unittest.TestCase):
         bad=copy.deepcopy(plan)
         bad["blocks"][1]["duration_min"]=72
         self.assertIn("Durée totale différente de la somme des blocs",session_plan.validate(bad,self.payload))
+        # Tranché 2026-11-22 : une fiche INCOMPLETE est utilisable en séance
+        # — la validation passe, l'incomplétude est déclarée (libellés fiches).
         bad=copy.deepcopy(plan)
         bad["blocks"][1]["rounds"][0]["assignments"][0]["variant_id"]="ffr-plaquage-atelier"
-        self.assertIn("Exercice trop incomplet : ffr-plaquage-atelier",session_plan.validate(bad,self.payload))
+        self.assertEqual(session_plan.validate(bad,self.payload),[])
         bad=copy.deepcopy(plan)
         bad["blocks"][1]["rounds"][0]["assignments"][0]["group_id"]="B"
         self.assertIn("Chaque groupe doit être affecté une fois par rotation",session_plan.validate(bad,self.payload))

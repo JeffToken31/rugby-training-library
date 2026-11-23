@@ -63,6 +63,15 @@ class Trame7090Tests(unittest.TestCase):
     def test_trame_referentielle_70_sur_90_est_valide(self):
         self.assertEqual(session_plan.validate(plan(), CATALOGUE), [])
 
+    def test_fiche_incomplete_utilisable_en_seance(self):
+        # Tranché 2026-11-22 : une fiche INCOMPLETE est utilisable en séance —
+        # la validation passe ; l'incomplétude est déclarée (libellés fiches),
+        # elle ne bloque plus. Le seul refus de référence reste l'exercice
+        # inconnu du catalogue.
+        p = plan()
+        p["blocks"][1]["rounds"][0]["assignments"][0]["variant_id"] = "ffr-plaquage-atelier"
+        self.assertEqual(session_plan.validate(p, CATALOGUE), [])
+
     def test_marge_derivee_jamais_stockee(self):
         p = plan()
         self.assertNotIn("marge_min", p)

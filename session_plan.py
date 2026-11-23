@@ -109,6 +109,4 @@ def validate(plan, catalogue):
         for eid in refs:
             if eid not in records:
                 errors.append("Exercice inconnu : " + str(eid))
-            elif records[eid]["quality"]["state"] == "INCOMPLETE":
-                errors.append("Exercice trop incomplet : " + str(eid))
     return errors

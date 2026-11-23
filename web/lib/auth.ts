@@ -2,7 +2,7 @@
 // Miroir du contrat webapp.py / app_store.py. Le cookie de session est
 // HttpOnly : le navigateur l'envoie, le client ne le lit jamais.
 
-import type { MinutageDerivee, SessionPlan } from "./types";
+import type { Equipe, MinutageDerivee, SessionPlan } from "./types";
 
 export interface Moi {
   login: string;
@@ -167,4 +167,73 @@ export async function chargerProposition(id: number): Promise<Proposition> {
   });
   if (!res.ok) await erreurDe(res, "Proposition introuvable");
   return (await res.json()) as Proposition;
+}
+
+// ------------------------------------------------------------ lot équipes
+// Tranché 2026-11-22 : « coachs disponibles » = tous les comptes
+// enregistrés (login, club, catégorie seulement) ; les brouillons et
+// propositions d'autrui restent strictement privés (C1).
+
+/** Identité minimale d'un compte, pour la liste « coachs disponibles ». */
+export interface CoachRef {
+  login: string;
+  club: string | null;
+  categorie: string | null;
+}
+
+export async function listerCoachs(): Promise<CoachRef[]> {
+  const res = await fetch("/api/coachs", { cache: "no-store" });
+  if (!res.ok) await erreurDe(res, "Impossible de charger les coachs");
+  const body = (await res.json()) as { coachs: CoachRef[] };
+  return body.coachs;
+}
+
+export async function listerEquipes(): Promise<Equipe[]> {
+  const res = await fetch("/api/equipes", { cache: "no-store" });
+  if (!res.ok) await erreurDe(res, "Impossible de charger vos équipes");
+  const body = (await res.json()) as { equipes: Equipe[] };
+  return body.equipes;
+}
+
+/** Corps de création / mise à jour d'une équipe (PUT = complète). */
+export interface CorpsEquipe {
+  nom: string;
+  club?: string | null;
+  categorie?: string | null;
+  effectif?: number | null;
+  coachs?: string[];
+}
+
+/** Crée une équipe (identifiant slug généré côté serveur si absent). */
+export async function creerEquipe(corps: CorpsEquipe): Promise<Equipe> {
+  const res = await fetch("/api/equipes", {
+    method: "POST",
+    cache: "no-store",
+    headers: JSON_HEADERS,
+    body: JSON.stringify(corps),
+  });
+  if (!res.ok) await erreurDe(res, "Création de l'équipe impossible");
+  return (await res.json()) as Equipe;
+}
+
+export async function mettreAJourEquipe(
+  id: string,
+  corps: CorpsEquipe
+): Promise<Equipe> {
+  const res = await fetch(`/api/equipes/${encodeURIComponent(id)}`, {
+    method: "PUT",
+    cache: "no-store",
+    headers: JSON_HEADERS,
+    body: JSON.stringify(corps),
+  });
+  if (!res.ok) await erreurDe(res, "Mise à jour de l'équipe impossible");
+  return (await res.json()) as Equipe;
+}
+
+export async function supprimerEquipe(id: string): Promise<void> {
+  const res = await fetch(`/api/equipes/${encodeURIComponent(id)}`, {
+    method: "DELETE",
+    cache: "no-store",
+  });
+  if (!res.ok) await erreurDe(res, "Suppression de l'équipe impossible");
 }

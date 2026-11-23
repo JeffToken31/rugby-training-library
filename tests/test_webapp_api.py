@@ -8,9 +8,11 @@ résumé).
 """
 import io
 import json
+import tempfile
 import unittest
 import unicodedata
 from pathlib import Path
+from unittest import mock
 from urllib.parse import quote
 
 import exercise_tags as tags
@@ -322,16 +324,17 @@ class SeanceApiTests(unittest.TestCase):
         self.assertEqual(res["erreurs"], [])
         self.assertTrue(any("Dépassement du créneau" in a for a in res["avertissements"]))
 
-    def test_valider_exercice_incomplet_refuse(self):
+    def test_valider_exercice_incomplet_utilisable(self):
+        # Tranché 2026-11-22 : une fiche INCOMPLETE reste utilisable en
+        # séance — la validation passe, l'incomplétude est déclarée (libellés
+        # fiches), elle ne bloque plus.
         trame = self._trame()
         slot = trame["blocks"][1]["rounds"][0]["assignments"][0]
         slot["variant_id"] = self.incomplete_id
         code, res = call_json("/api/seances/valider", data=trame, method="POST")
         self.assertEqual(code, 200)
-        self.assertFalse(res["valide"])
-        self.assertTrue(
-            any("Exercice trop incomplet : " + self.incomplete_id in e for e in res["erreurs"])
-        )
+        self.assertTrue(res["valide"])
+        self.assertEqual(res["erreurs"], [])
 
     def test_valider_exercice_inconnu_refuse(self):
         trame = self._trame()
@@ -439,6 +442,69 @@ class PlanMalformeApiTests(unittest.TestCase):
         code = int(captured["status"].split(" ", 1)[0])
         self.assertEqual(code, 400)
         self.assertEqual(json.loads(body)["error"], "Longueur de requête invalide.")
+
+
+# ------------------------------------------------------------------
+# /api/conseils (tranché 2026-11-22) : data/coach-cues.json lu à chaque
+# requête ; absent ou malformé → {"records": []}, jamais bloquant.
+# ------------------------------------------------------------------
+class ConseilsApiTests(unittest.TestCase):
+    def _call_conseils(self, payload=None, raw=None):
+        with tempfile.TemporaryDirectory() as tmp:
+            p = Path(tmp) / "coach-cues.json"
+            if raw is not None:
+                p.write_text(raw, encoding="utf-8")
+            elif payload is not None:
+                p.write_text(json.dumps(payload, ensure_ascii=False), encoding="utf-8")
+            with mock.patch.object(webapp, "CUES_PATH", str(p)):
+                return call_json("/api/conseils")
+
+    def test_fichier_present_livre_les_enregistrements(self):
+        payload = {
+            "version": 1,
+            "scope": "Repères de test",
+            "records": [
+                {
+                    "variant_id": "rc-pairs",
+                    "origin": "AI_INFERRED",
+                    "success_indicator": "indice",
+                    "coach_observation": "à observer",
+                }
+            ],
+        }
+        code, body = self._call_conseils(payload)
+        self.assertEqual(code, 200)
+        self.assertEqual(body["version"], 1)
+        self.assertEqual(body["scope"], "Repères de test")
+        self.assertEqual(len(body["records"]), 1)
+        self.assertEqual(body["records"][0]["variant_id"], "rc-pairs")
+
+    def test_fichier_absent_etat_vide(self):
+        code, body = self._call_conseils()
+        self.assertEqual(code, 200)
+        self.assertEqual(body, {"version": 0, "scope": "", "records": []})
+
+    def test_json_malforme_tolere(self):
+        code, body = self._call_conseils(raw="{ pas du json")
+        self.assertEqual(code, 200)
+        self.assertEqual(body["records"], [])
+
+    def test_records_non_liste_tolere(self):
+        code, body = self._call_conseils(payload={"version": 1, "records": "x"})
+        self.assertEqual(code, 200)
+        self.assertEqual(body["records"], [])
+
+    def test_fichier_du_repos_lecturable(self):
+        # Cas nominal : le vrai data/coach-cues.json est servi tel quel.
+        code, body = call_json("/api/conseils")
+        self.assertEqual(code, 200)
+        self.assertGreater(len(body["records"]), 0)
+        for r in body["records"]:
+            self.assertTrue(r.get("variant_id"))
+
+    def test_post_405(self):
+        code, _, _ = call("/api/conseils", method="POST")
+        self.assertEqual(code, 405)
 
 
 if __name__ == "__main__":

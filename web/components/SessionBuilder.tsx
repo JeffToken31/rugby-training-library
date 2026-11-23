@@ -22,25 +22,42 @@ import type { ChangeEvent } from "react";
 import type {
   Card,
   CatalogueView,
+  ConseilCoach,
+  Equipe,
   Fiche,
   SeanceCheck,
   SessionBlock,
   SessionPlan,
 } from "../lib/types";
-import { fetchFiche, fetchTrameU8, validerSeance } from "../lib/api";
+import { fetchConseils, fetchFiche, fetchTrameU8, validerSeance } from "../lib/api";
 import { clearDraft, loadDraft, parseImport, saveDraft } from "../lib/draft";
 import type { SavedDraft } from "../lib/draft";
 import {
   chargerBrouillon,
   chargerProposition,
+  creerEquipe,
   creerProposition,
   listerBrouillons,
+  listerCoachs,
+  listerEquipes,
   listerPropositions,
   sauvegarderBrouillon,
   supprimerBrouillon,
 } from "../lib/auth";
-import type { BrouillonRef, Moi, Proposition, PropositionRef } from "../lib/auth";
-import { atelierIdsDuPlan, generateSessionPdf, sharePdf } from "../lib/pdf";
+import type {
+  BrouillonRef,
+  CoachRef,
+  CorpsEquipe,
+  Moi,
+  Proposition,
+  PropositionRef,
+} from "../lib/auth";
+import { atelierIdsDuPlan, generateSessionPdf } from "../lib/pdf";
+import {
+  lienWhatsApp,
+  partagerPieceJointe,
+  recapTextePlan,
+} from "../lib/share";
 import { selectCards } from "../lib/filter";
 import { BADGE_LABELS, cardDurationLabel } from "../lib/format";
 import { etatParIdDe, KIND_LABELS, validerLocale } from "../lib/session";
@@ -54,6 +71,19 @@ const BADGE_CLASS: Record<string, string> = {
   PROPOSED_OBJECTIVE: "badge-amber",
   REPORTED_OBSERVATION: "badge-slate",
 };
+
+// Catégories proposées dans le formulaire d'équipe — même liste que la
+// validation côté compte (app_store.CATEGORIES).
+const CATEGORIES_UI = [
+  "U6",
+  "U8",
+  "U10",
+  "U12",
+  "U14",
+  "U16",
+  "U18",
+  "Autre",
+];
 
 function clonePlan(plan: SessionPlan): SessionPlan {
   return structuredClone(plan);
@@ -106,6 +136,24 @@ export default function SessionBuilder({
   // (téléchargement de secours, envoi réussi, erreur).
   const [pdfBusy, setPdfBusy] = useState<number | null>(null);
   const [pdfMsg, setPdfMsg] = useState<string | null>(null);
+  // Lien WhatsApp avec le récap, offert quand le partage a besoin d'un
+  // complément (récap partagé seul, PDF téléchargé à joindre à la main).
+  const [waHref, setWaHref] = useState<string | null>(null);
+
+  // Équipes d'effectif + « coachs disponibles » (tranché 2026-11-22) : les
+  // listes sont celles du compte connecté ; la séance conserve son propre
+  // snapshot d'équipe (D1), et les coachs cochés alimentent `coaches`
+  // (compte) + `coach_logins` (identifiants présents).
+  const [equipes, setEquipes] = useState<Equipe[]>([]);
+  const [coachRefs, setCoachRefs] = useState<CoachRef[]>([]);
+  const [equipesMsg, setEquipesMsg] = useState<string | null>(null);
+  const [showNewEquipe, setShowNewEquipe] = useState(false);
+  const [formNom, setFormNom] = useState("");
+  const [formClub, setFormClub] = useState("");
+  const [formCat, setFormCat] = useState("");
+  const [formEffectif, setFormEffectif] = useState("");
+  const [formCoachs, setFormCoachs] = useState<string[]>([]);
+  const [formBusy, setFormBusy] = useState(false);
 
   useEffect(() => {
     let live = true;
@@ -135,6 +183,23 @@ export default function SessionBuilder({
     listerPropositions()
       .then((l) => live && setPropositions(l))
       .catch((e: Error) => live && setCompteMsg(e.message));
+    return () => {
+      live = false;
+    };
+  }, [moi]);
+
+  // Équipes du compte + liste « coachs disponibles » (tous les comptes
+  // enregistrés) au montage, si connecté. L'échec se signale dans la
+  // section — jamais de silence.
+  useEffect(() => {
+    let live = true;
+    if (!moi) return;
+    listerEquipes()
+      .then((l) => live && setEquipes(l))
+      .catch((e: Error) => live && setEquipesMsg(e.message));
+    listerCoachs()
+      .then((l) => live && setCoachRefs(l))
+      .catch((e: Error) => live && setEquipesMsg(e.message));
     return () => {
       live = false;
     };
@@ -232,6 +297,128 @@ export default function SessionBuilder({
       rounds.splice(ri, 1);
       b.duration_min = rounds.reduce((a, r) => a + r.work_min + r.transition_min, 0);
     });
+
+  // Groupes dynamiques : ajout/suppression de groupes ; l'effectif total est
+  // la somme des groupes (recalculée à chaque mutation, jamais stockée à
+  // part) et chaque rotation d'atelier reste cohérente (un slot par groupe,
+  // des stations uniques dans la rotation). Toujours au moins un groupe.
+  const nextGroupId = (groups: { id: string }[]): string => {
+    for (const letter of "ABCDEFGHIJKLMNOPQR") {
+      if (!groups.some((g) => g.id === letter)) return letter;
+    }
+    let n = 27;
+    while (groups.some((g) => g.id === "G" + n)) n += 1;
+    return "G" + n;
+  };
+
+  const addGroup = () =>
+    updatePlan((draft) => {
+      const gid = nextGroupId(draft.groups ?? []);
+      draft.groups = [...(draft.groups ?? []), { id: gid, players: 0 }];
+      draft.players = draft.groups.reduce((a, x) => a + x.players, 0);
+      // Le nouveau groupe rejoint chaque rotation d'atelier avec un atelier
+      // prérempli (jamais de variant_id null → pas d'« Exercice inconnu :
+      // None »), la station étant unique dans la rotation.
+      const ex = firstUsableExercise();
+      for (const b of draft.blocks ?? []) {
+        if (b.kind !== "WORKSHOPS") continue;
+        for (const r of b.rounds ?? []) {
+          const used = new Set(r.assignments.map((s) => s.station_id));
+          let k = r.assignments.length + 1;
+          let station = `station-${k}`;
+          while (used.has(station)) {
+            k += 1;
+            station = `station-${k}`;
+          }
+          r.assignments.push({ group_id: gid, station_id: station, variant_id: ex });
+        }
+      }
+    });
+
+  const removeGroup = (gid: string) =>
+    updatePlan((draft) => {
+      if ((draft.groups ?? []).length <= 1) return;
+      draft.groups = draft.groups.filter((g) => g.id !== gid);
+      draft.players = draft.groups.reduce((a, x) => a + x.players, 0);
+      for (const b of draft.blocks ?? []) {
+        if (b.kind !== "WORKSHOPS") continue;
+        for (const r of b.rounds ?? []) {
+          r.assignments = r.assignments.filter((s) => s.group_id !== gid);
+        }
+        // Une rotation sans affectation n'a plus de sens : on la retire.
+        const rounds = (b.rounds ?? []).filter((r) => r.assignments.length > 0);
+        b.rounds = rounds.length > 0 ? rounds : (b.rounds ?? []);
+        if (rounds.length > 0) {
+          b.duration_min = rounds.reduce(
+            (a, r) => a + r.work_min + r.transition_min,
+            0
+          );
+        }
+      }
+    });
+
+  // Équipe d'effectif : attachée à la séance comme snapshot (D1) — la séance
+  // conserve son instantané ; les éditions ultérieures de l'équipe ne la
+  // modifient pas.
+  const attachEquipe = (id: string) =>
+    updatePlan((d) => {
+      if (!id) {
+        d.team = null;
+        return;
+      }
+      const eq = equipes.find((x) => x.id === id);
+      if (!eq) return;
+      d.team = {
+        id: eq.id,
+        nom: eq.nom,
+        club: eq.club,
+        categorie: eq.categorie,
+        effectif: eq.effectif,
+      };
+    });
+
+  // « Coachs disponibles » : le compte d'« Éducateurs » est dérivé des
+  // identifiants cochés — la consigne de validation compte les coachs, la
+  // trace conserve les identifiants.
+  const toggleCoach = (login: string) =>
+    updatePlan((d) => {
+      const cur = new Set(d.coach_logins ?? []);
+      if (cur.has(login)) cur.delete(login);
+      else cur.add(login);
+      d.coach_logins = [...cur];
+      d.coaches = d.coach_logins.length;
+    });
+
+  // Création d'une équipe d'effectif : seule le nom est requis (modèle
+  // flexible, effectifs variables selon les clubs) ; la séance est
+  // automatiquement reliée à la nouvelle équipe.
+  const createEquipe = async () => {
+    setFormBusy(true);
+    setEquipesMsg(null);
+    try {
+      const corps: CorpsEquipe = { nom: formNom };
+      if (formClub.trim()) corps.club = formClub.trim();
+      if (formCat) corps.categorie = formCat;
+      if (formEffectif.trim() !== "") {
+        const n = Number(formEffectif);
+        if (Number.isInteger(n) && n >= 0) corps.effectif = n;
+      }
+      if (formCoachs.length) corps.coachs = formCoachs;
+      const eq = await creerEquipe(corps);
+      setEquipes(await listerEquipes());
+      setFormNom("");
+      setFormClub("");
+      setFormCat("");
+      setFormEffectif("");
+      setFormCoachs([]);
+      setShowNewEquipe(false);
+      attachEquipe(eq.id);
+    } catch (e) {
+      setEquipesMsg(e instanceof Error ? e.message : "Création de l'équipe impossible");
+    } finally {
+      setFormBusy(false);
+    }
+  };
 
   const groupLabel = (gid: string) => {
     const g = (plan?.groups ?? []).find((x) => x.id === gid);
@@ -458,10 +645,20 @@ export default function SessionBuilder({
     if (!moi || pdfBusy !== null) return;
     setPdfBusy(p.id);
     setPdfMsg(null);
+    setWaHref(null);
     try {
       const prop = await chargerProposition(p.id);
       const ids = atelierIdsDuPlan(prop.plan);
       const fiches: Record<string, Fiche> = {};
+      // Conseils coach (data/coach-cues.json via /api/conseils) : si
+      // l'endpoint est indisponible, le PDF part sans conseils — le partage
+      // reste possible.
+      let conseils: ConseilCoach[] = [];
+      try {
+        conseils = (await fetchConseils()).records;
+      } catch {
+        conseils = [];
+      }
       await Promise.all(
         ids.map(async (id) => {
           try {
@@ -471,14 +668,22 @@ export default function SessionBuilder({
           }
         })
       );
-      const file = await generateSessionPdf(prop, moi, fiches);
-      const mode = await sharePdf(file);
+      const file = await generateSessionPdf(prop, moi, fiches, conseils);
+      const recap = recapTextePlan(prop, fiches);
+      const mode = await partagerPieceJointe(file, recap);
       if (mode === "shared") {
-        setPdfMsg("PDF envoyé via la feuille de partage.");
+        setPdfMsg("PDF envoyé via la feuille de partage (récap joint).");
+        setWaHref(null);
+      } else if (mode === "text-shared") {
+        setPdfMsg(
+          "Récapitulatif envoyé via la feuille de partage. PDF téléchargé sur votre appareil — à joindre à votre groupe si besoin."
+        );
+        setWaHref(lienWhatsApp(recap));
       } else if (mode === "downloaded") {
         setPdfMsg(
-          "Partage de fichiers non pris en charge ici : PDF téléchargé — joignez-le à votre groupe WhatsApp."
+          "Partage non pris en charge ici : PDF téléchargé — à joindre à votre groupe."
         );
+        setWaHref(lienWhatsApp(recap));
       }
       // mode === "cancelled" : l'utilisateur a refermé la feuille, rien à dire.
     } catch (e) {
@@ -555,50 +760,203 @@ export default function SessionBuilder({
               }
             />
           </label>
-          <label className="field">
-            <span className="field-label">Éducateurs</span>
-            <input
-              className="num-input"
-              type="number"
-              inputMode="numeric"
-              min={0}
-              step={1}
-              value={plan.coaches ?? 0}
-              onChange={(e) =>
-                updatePlan((d) => {
-                  d.coaches = Number.isInteger(+e.target.value) ? +e.target.value : 0;
-                })
-              }
-            />
-          </label>
-        </div>
-        <div className="field-row" role="group" aria-label="Effectifs par groupe">
-          {(plan.groups ?? []).map((g) => (
-            <label className="field" key={g.id}>
-              <span className="field-label">Groupe {g.id} (joueurs)</span>
+          {moi && coachRefs.length > 0 ? (
+            <div className="field">
+              <span className="field-label">Coachs disponibles</span>
+              <div className="coach-list">
+                {coachRefs.map((c) => (
+                  <label className="coach-row" key={c.login}>
+                    <input
+                      type="checkbox"
+                      aria-label={`Coach ${c.login}`}
+                      checked={(plan.coach_logins ?? []).includes(c.login)}
+                      onChange={() => toggleCoach(c.login)}
+                    />
+                    <span className="coach-name">{c.login}</span>
+                    {c.club ? <span className="coach-club">{c.club}</span> : null}
+                  </label>
+                ))}
+              </div>
+            </div>
+          ) : (
+            <label className="field">
+              <span className="field-label">Éducateurs</span>
               <input
                 className="num-input"
                 type="number"
                 inputMode="numeric"
                 min={0}
                 step={1}
-                value={g.players}
+                value={plan.coaches ?? 0}
                 onChange={(e) =>
                   updatePlan((d) => {
-                    const grp = d.groups.find((x) => x.id === g.id);
-                    if (!grp) return;
-                    grp.players = Number.isInteger(+e.target.value) ? +e.target.value : 0;
-                    d.players = d.groups.reduce((a, x) => a + x.players, 0);
+                    d.coaches = Number.isInteger(+e.target.value) ? +e.target.value : 0;
                   })
                 }
               />
             </label>
+          )}
+        </div>
+        <div className="field-row groups-row" role="group" aria-label="Effectifs par groupe">
+          {(plan.groups ?? []).map((g) => (
+            <div className="field group-cell" key={g.id}>
+              <span className="field-label">Groupe {g.id} (joueurs)</span>
+              <div className="group-cell-row">
+                <input
+                  className="num-input"
+                  type="number"
+                  inputMode="numeric"
+                  min={0}
+                  step={1}
+                  aria-label={`Effectif du groupe ${g.id}`}
+                  value={g.players}
+                  onChange={(e) =>
+                    updatePlan((d) => {
+                      const grp = d.groups.find((x) => x.id === g.id);
+                      if (!grp) return;
+                      grp.players = Number.isInteger(+e.target.value) ? +e.target.value : 0;
+                      d.players = d.groups.reduce((a, x) => a + x.players, 0);
+                    })
+                  }
+                />
+                {plan.groups.length > 1 && (
+                  <button
+                    className="group-delete"
+                    aria-label={`Supprimer le groupe ${g.id}`}
+                    onClick={() => removeGroup(g.id)}
+                  >
+                    ×
+                  </button>
+                )}
+              </div>
+            </div>
           ))}
           <label className="field">
             <span className="field-label">Total</span>
             <span className="total-players" aria-live="polite">{plan.players}</span>
           </label>
         </div>
+        <button className="add-round-btn groups-add" onClick={() => addGroup()}>
+          + Groupe
+        </button>
+        {moi && (
+          <div className="team-block">
+            <span className="field-label">Équipe (effectif enregistré)</span>
+            <div className="team-row">
+              <select
+                className="select-input"
+                aria-label="Équipe d'effectif"
+                value={plan.team?.id ?? ""}
+                onChange={(e) => attachEquipe(e.target.value)}
+              >
+                <option value="">— Aucune équipe —</option>
+                {equipes.map((e) => (
+                  <option key={e.id} value={e.id}>
+                    {e.nom}
+                    {e.categorie ? ` (${e.categorie})` : ""}
+                  </option>
+                ))}
+              </select>
+              <button
+                className="link-btn"
+                onClick={() => setShowNewEquipe((v) => !v)}
+              >
+                {showNewEquipe ? "Fermer" : "+ Nouvelle équipe"}
+              </button>
+            </div>
+            {equipesMsg && <p className="form-error">{equipesMsg}</p>}
+            {plan.team && (
+              <p className="team-snapshot">
+                {plan.team.nom}
+                {plan.team.club ? ` — ${plan.team.club}` : ""}
+                {plan.team.categorie ? ` — ${plan.team.categorie}` : ""}
+                {plan.team.effectif !== null ? ` — ${plan.team.effectif} joueurs` : ""}
+              </p>
+            )}
+            {showNewEquipe && (
+              <div className="team-form">
+                <label className="field">
+                  <span className="field-label">Nom (requis)</span>
+                  <input
+                    className="text-input"
+                    type="text"
+                    value={formNom}
+                    onChange={(e) => setFormNom(e.target.value)}
+                  />
+                </label>
+                <div className="field-row">
+                  <label className="field">
+                    <span className="field-label">Club</span>
+                    <input
+                      className="text-input"
+                      type="text"
+                      value={formClub}
+                      onChange={(e) => setFormClub(e.target.value)}
+                    />
+                  </label>
+                  <label className="field">
+                    <span className="field-label">Catégorie</span>
+                    <select
+                      className="select-input"
+                      value={formCat}
+                      onChange={(e) => setFormCat(e.target.value)}
+                    >
+                      <option value="">—</option>
+                      {CATEGORIES_UI.map((c) => (
+                        <option key={c} value={c}>
+                          {c}
+                        </option>
+                      ))}
+                    </select>
+                  </label>
+                  <label className="field">
+                    <span className="field-label">Effectif</span>
+                    <input
+                      className="num-input"
+                      type="number"
+                      inputMode="numeric"
+                      min={0}
+                      step={1}
+                      value={formEffectif}
+                      onChange={(e) => setFormEffectif(e.target.value)}
+                    />
+                  </label>
+                </div>
+                {coachRefs.length > 0 && (
+                  <div className="field">
+                    <span className="field-label">Coachs rattachés</span>
+                    <div className="coach-list">
+                      {coachRefs.map((c) => (
+                        <label className="coach-row" key={c.login}>
+                          <input
+                            type="checkbox"
+                            aria-label={`Rattacher ${c.login}`}
+                            checked={formCoachs.includes(c.login)}
+                            onChange={() =>
+                              setFormCoachs((l) =>
+                                l.includes(c.login)
+                                  ? l.filter((x) => x !== c.login)
+                                  : [...l, c.login]
+                              )
+                            }
+                          />
+                          <span className="coach-name">{c.login}</span>
+                        </label>
+                      ))}
+                    </div>
+                  </div>
+                )}
+                <button
+                  className="apply-btn"
+                  disabled={formBusy || formNom.trim().length === 0}
+                  onClick={() => void createEquipe()}
+                >
+                  {formBusy ? "Création…" : "Créer l'équipe"}
+                </button>
+              </div>
+            )}
+          </div>
+        )}
       </section>
 
       {/* Minutage dérivée — jamais stockée, recalculée à chaque frappe. */}
@@ -952,6 +1310,16 @@ export default function SessionBuilder({
                   <p className="save-status" aria-live="polite">
                     {pdfMsg}
                   </p>
+                )}
+                {waHref && (
+                  <a
+                    className="share-link"
+                    href={waHref}
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    Ouvrir WhatsApp avec le récapitulatif
+                  </a>
                 )}
                 {propositions.map((p) => (
                   <div className="compte-ligne" key={p.id}>

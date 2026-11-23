@@ -240,6 +240,19 @@ export interface SessionBlock {
   rounds?: SessionRound[];
 }
 
+// Équipe d'effectif enregistrée au compte (tranché 2026-11-22) : nom seul
+// champ obligatoire ; club, catégorie, effectif et coachs facultatifs —
+// les tailles varient d'un club à l'autre.
+export interface Equipe {
+  id: string;
+  nom: string;
+  club: string | null;
+  categorie: string | null;
+  effectif: number | null;
+  coachs: string[];
+  saved_at: string;
+}
+
 export interface SessionPlan {
   schema_version?: number;
   id: string;
@@ -250,6 +263,18 @@ export interface SessionPlan {
   creneau_min: number;
   players: number;
   coaches?: number;
+  // Tranché 2026-11-22 : coachs présents par login (liste « coachs
+  // disponibles ») — `coaches` reste le compte affiché et validé.
+  coach_logins?: string[];
+  // Snapshot de l'équipe d'effectif choisie (D1 : la séance conserve son
+  // propre instantané, indépendamment des éditions ultérieures de l'équipe).
+  team?: {
+    id: string;
+    nom: string;
+    club: string | null;
+    categorie: string | null;
+    effectif: number | null;
+  } | null;
   groups: SessionGroup[];
   objective?: string | null;
   blocks: SessionBlock[];
@@ -270,4 +295,22 @@ export interface SeanceCheck {
   erreurs: string[];
   avertissements: string[];
   minutage: MinutageDerivee;
+}
+
+// Conseils coach (tranché 2026-11-22) : un enregistrement par exercice,
+// servi par GET /api/conseils depuis data/coach-cues.json (lu à chaque
+// requête — ajouter du contenu ne demande ni code ni redémarrage).
+export interface ConseilCoach {
+  variant_id: string;
+  origin: string;
+  reviewed_on?: string | null;
+  basis_fields?: string[];
+  success_indicator?: string | null;
+  coach_observation?: string | null;
+}
+
+export interface ConseilsPayload {
+  version: number;
+  scope: string;
+  records: ConseilCoach[];
 }

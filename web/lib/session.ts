@@ -160,8 +160,6 @@ export function validerLocale(
     for (const eid of refs) {
       if (eid === null || eid === undefined || !(eid in etatParId)) {
         errors.push("Exercice inconnu : " + String(eid));
-      } else if (etatParId[eid] === "INCOMPLETE") {
-        errors.push("Exercice trop incomplet : " + String(eid));
       }
     }
   }

@@ -2,7 +2,10 @@
 // ici (qualité, origines, états, durée) ; la carte ne porte que les courts.
 // Le bloc source est replié par défaut (fermé) — risque #4 de la maquette.
 
-import type { Fiche, FieldEntry } from "../lib/types";
+import { useEffect, useState } from "react";
+
+import type { ConseilCoach, Fiche, FieldEntry } from "../lib/types";
+import { fetchConseils } from "../lib/api";
 import {
   BADGE_LABELS,
   CORE_FIELDS,
@@ -89,6 +92,50 @@ function ValueText({ value }: { value: unknown }) {
   return <>{String(value)}</>;
 }
 
+// reviewed_on (date ISO) → « 16/09/2026 » ; date illisible → telle quelle.
+function fmtDate(iso: string): string {
+  const d = new Date(iso);
+  if (Number.isNaN(d.getTime())) return iso;
+  return d.toLocaleDateString("fr-FR");
+}
+
+// Un conseil coach (data/coach-cues.json) : libellé d'origine officiel
+// (proposition IA / observation utilisateur), date de relecture et base —
+// la provenance reste lisible, comme sur le reste de la fiche.
+function ConseilCoachCard({ c }: { c: ConseilCoach }) {
+  const bases = (c.basis_fields ?? [])
+    .map((bf) => FIELD_LABELS[bf.split(".").pop() ?? ""] ?? bf)
+    .filter(Boolean);
+  const aAffichage =
+    Boolean(c.success_indicator) || Boolean(c.coach_observation);
+  if (!aAffichage) return null;
+  return (
+    <div className="conseil">
+      <p className="conseil-origin">
+        <span className="origin-tag">{ORIGIN_LABELS[c.origin] ?? c.origin}</span>
+        {c.reviewed_on && (
+          <span className="note"> · relecture le {fmtDate(c.reviewed_on)}</span>
+        )}
+        {bases.length > 0 && <span className="note"> · d’après {bases.join(", ")}</span>}
+      </p>
+      {c.success_indicator && (
+        <div className="field-value">
+          <p>
+            <strong>Indice de réussite :</strong> {c.success_indicator}
+          </p>
+        </div>
+      )}
+      {c.coach_observation && (
+        <div className="field-value">
+          <p>
+            <strong>Ce que le coach peut regarder :</strong> {c.coach_observation}
+          </p>
+        </div>
+      )}
+    </div>
+  );
+}
+
 interface Props {
   fiche: Fiche | null;
   tagLabels: Record<string, string>;
@@ -96,6 +143,25 @@ interface Props {
 }
 
 export default function FicheDetail({ fiche, tagLabels, error }: Props) {
+  // Conseils coach : servis par GET /api/conseils (data/coach-cues.json, lu à
+  // chaque requête côté serveur) — la section s'alimente en direct ; le
+  // catalogue de fiches n'est pas modifié pour ça (provenance).
+  const [conseils, setConseils] = useState<ConseilCoach[]>([]);
+  useEffect(() => {
+    let actif = true;
+    fetchConseils()
+      .then((d) => {
+        if (actif) setConseils(d.records);
+      })
+      .catch(() => {
+        // Endpoint momentanément indisponible : la section reste vide,
+        // jamais bloquante.
+      });
+    return () => {
+      actif = false;
+    };
+  }, []);
+
   if (error) {
     return <div className="fiche-error" role="alert">{error}</div>;
   }
@@ -299,15 +365,22 @@ export default function FicheDetail({ fiche, tagLabels, error }: Props) {
         </section>
       )}
 
-      {/* Consignes coach (si présentes dans le corpus). */}
-      {f.coach_cues && (
-        <section className="block" aria-label="Consignes coach">
-          <h3>Consignes coach</h3>
-          <div className="field-value">
-            <ValueText value={f.coach_cues} />
-          </div>
-        </section>
-      )}
+      {/* Conseils coach (tranché 2026-11-22) : servis en direct par
+          GET /api/conseils (data/coach-cues.json, lu à chaque requête) —
+          ajouter un conseil ne demande ni code ni redémarrage. La rubrique
+          f.coach_cues du corpus n'est plus lue ici : le catalogue n'est pas
+          modifié pour l'affichage (provenance). */}
+      <section className="block" aria-label="Conseils coach">
+        <h3>Conseils coach</h3>
+        {conseils.filter((c) => c.variant_id === f.id).map((c) => (
+          <ConseilCoachCard key={c.variant_id} c={c} />
+        ))}
+        {conseils.every((c) => c.variant_id !== f.id) && (
+          <p className="conseil-vide">
+            Aucun conseil pour l’instant — l’éducateur peut ajouter les siens.
+          </p>
+        )}
+      </section>
 
       {/* Relecture des lacunes (fiches incomplètes). */}
       {f.missing_review?.conclusion && (

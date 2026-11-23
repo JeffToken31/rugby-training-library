@@ -134,6 +134,7 @@
     },
     {
       "name": "exercice-incomplet",
+      "note": "Tranché 2026-11-22 : une fiche INCOMPLETE est utilisable en séance — la validation passe ; l'incomplétude est déclarée (libellés fiches), elle ne bloque plus.",
       "plan": {
         "duration_min": 70,
         "creneau_min": 90,
@@ -149,7 +150,7 @@
         ]
       },
       "etat": {"rc-pairs": "DOCUMENTED_CORE", "rc-two-one": "DOCUMENTED_CORE", "xx-incomplet": "INCOMPLETE"},
-      "expected": {"valide": false, "erreurs": ["Exercice trop incomplet : xx-incomplet"], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
+      "expected": {"valide": true, "erreurs": [], "avertissements": [], "minutage": {"creneau_min": 90, "planifie_min": 70, "marge_min": 20, "opposition_min": 50, "partiel": false}}
     },
     {
       "name": "rotation-groupe-missing",
@@ -268,8 +269,8 @@
   ],
   "filters": [
     {"name": "aucun-filtre", "opts": {}, "expected": {"count": 172}},
-    {"name": "tag-lutte", "opts": {"tag_ids": ["skill:lutte"]}, "expected": {"ids": ["bib-lutte-arc", "bib-lutte-jumelle", "bib-ruck-relai", "bib-soule-ramasser", "ffr-gazelles-atelier", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "ffr-protege-atelier", "jskids-l08-culotte", "jskids-l08-sumo"]}},
-    {"name": "any-lutte-duel", "opts": {"tag_ids": ["skill:lutte", "format:duel"], "match": "any"}, "expected": {"ids": ["au-cat-mouse", "au-cone-game", "au-partner-release", "au-partner-tag", "bib-lutte-arc", "bib-lutte-jumelle", "bib-plaquage-a-genoux", "bib-plaquage-balise", "bib-plaquage-tenue", "bib-ruck-relai", "bib-soule-ramasser", "ffr-duellong-atelier", "ffr-gazelles-atelier", "ffr-guide-m8-1c1", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "ffr-protege-atelier", "ffr-speedy-partage", "jskids-l08-culotte", "jskids-l08-sumo", "nz-evading-player", "nz-number-duel", "nz-rats-free", "nz-rats-straight", "nz-shadow", "nz-shadow-mirror"]}},
+    {"name": "tag-lutte", "note": "Mise à jour 2026-11-22 : bib-ruck-relai et bib-soule-ramasser perdent le tag Lutte (aucune opposition corporelle dans le déroulé — relecture tags).", "opts": {"tag_ids": ["skill:lutte"]}, "expected": {"ids": ["bib-lutte-arc", "bib-lutte-jumelle", "ffr-gazelles-atelier", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "ffr-protege-atelier", "jskids-l08-culotte", "jskids-l08-sumo"]}},
+    {"name": "any-lutte-duel", "note": "Mise à jour 2026-11-22 : bib-ruck-relai et bib-soule-ramasser perdent le tag Lutte ; ffr-duels-atelier gagne le tag Duel (titre « Duels et soutien »).", "opts": {"tag_ids": ["skill:lutte", "format:duel"], "match": "any"}, "expected": {"ids": ["au-cat-mouse", "au-cone-game", "au-partner-release", "au-partner-tag", "bib-lutte-arc", "bib-lutte-jumelle", "bib-plaquage-a-genoux", "bib-plaquage-balise", "bib-plaquage-tenue", "ffr-duellong-atelier", "ffr-duels-atelier", "ffr-gazelles-atelier", "ffr-guide-m8-1c1", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "ffr-protege-atelier", "ffr-speedy-partage", "jskids-l08-culotte", "jskids-l08-sumo", "nz-evading-player", "nz-number-duel", "nz-rats-free", "nz-rats-straight", "nz-shadow", "nz-shadow-mirror"]}},
     {"name": "recherche-lutte", "opts": {"query": "lutte"}, "expected": {"ids": ["ffr-gazelles-atelier", "ffr-lutte-avancer", "ffr-plan2023-oeufs", "jskids-l08-culotte"]}},
     {"name": "sans-incomplet", "opts": {"include_incomplete": false}, "expected": {"count": 163}},
     {"name": "usage-warmup", "opts": {"usage": "WARMUP"}, "expected": {"ids": ["warm-any-direction-tag", "warm-arm-circles", "warm-evasion-gauntlet", "warm-here-there", "warm-hook-relay", "warm-lunge-clock", "warm-slow-go", "warm-whistle-stop"]}},

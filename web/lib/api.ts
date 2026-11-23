@@ -1,6 +1,12 @@
 // Accès à l'API JSON de webapp.py (même origine en prod : http://<hôte>:8347).
 
-import type { CatalogueView, Fiche, SeanceCheck, SessionPlan } from "./types";
+import type {
+  CatalogueView,
+  ConseilsPayload,
+  Fiche,
+  SeanceCheck,
+  SessionPlan,
+} from "./types";
 
 export async function fetchCatalogue(): Promise<CatalogueView> {
   const res = await fetch("/api/catalogue", { cache: "no-store" });
@@ -24,6 +30,14 @@ export async function fetchTrameU8(): Promise<SessionPlan> {
     throw new Error(`Trame de référence indisponible (HTTP ${res.status})`);
   }
   return (await res.json()) as SessionPlan;
+}
+
+export async function fetchConseils(): Promise<ConseilsPayload> {
+  const res = await fetch("/api/conseils", { cache: "no-store" });
+  if (!res.ok) {
+    throw new Error(`Conseils indisponibles (HTTP ${res.status})`);
+  }
+  return (await res.json()) as ConseilsPayload;
 }
 
 export async function validerSeance(plan: SessionPlan): Promise<SeanceCheck> {

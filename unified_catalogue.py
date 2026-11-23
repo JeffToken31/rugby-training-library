@@ -36,7 +36,7 @@ def body(e,payload,link):
     tags=[t["label"] for t in payload.get("tag_taxonomy",{}).get("tags",[]) if t["id"] in e.get("tag_ids",[])]
     family=next(f["title"] for f in payload["families"] if f["id"]==e["classification"]["family_id"])
     lines=[f"**Catégories proposées :** {' · '.join(tags)}", "", f"**Famille :** {family} · **Âge source :** {e['age_source']}", "", e.get("summary") or "", "", "**Durée pour préparer l’atelier :** "+timing.description(e), ""]
-    if e["quality"]["state"]=="INCOMPLETE": lines += ["**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**", ""]
+    if e["quality"]["state"]=="INCOMPLETE": lines += ["**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**", ""]
     if e.get("warmup_usage"):
         stages={"general":"Mise en mouvement", "mobility":"Mobilité dynamique", "specific":"Préparation spécifique rugby"}
         w=e["warmup_usage"]
@@ -79,6 +79,15 @@ def body(e,payload,link):
     for supplement in payload.get("source_supplements",[]):
         video=supplement.get("m8_candidates",{}).get(e["id"])
         if video: lines += [f"**Lien extrait du PDF fourni :** [vidéo candidate]({video}). Association issue des annotations, visionnage non validé par l’assistant.", ""]
+    ml=payload.get("media_links",{}).get(e["id"])
+    if ml:
+        if ml.get("url"):
+            if ml["is_variant"]:
+                lines += [f"**Vidéo — variante (origine {ORIGINS[ml['origin']]}) :** [{ml['title']}]({ml['url']}) — {ml['variant_note']}", ""]
+            else:
+                lines += [f"**Vidéo de l’exercice (origine {ORIGINS[ml['origin']]}) :** [{ml['title']}]({ml['url']}).", ""]
+        else:
+            lines += ["**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.", ""]
     lines += ["<details>", "<summary>Provenance par rubrique et historique</summary>", ""]
     groups={}
     for key,field in e["fields"].items():

@@ -21,6 +21,15 @@ porte deux champs facultatifs — `club` (texte ≤ 80 caractères) et
 `categorie` (liste contrôlée U6…U18, Autre). Le club est un simple
 libellé : il n'ouvre aucun accès (C1 inchangé).
 
+Séances (tranché 2026-11-22) : une équipe est un dispositif d'effectif
+rattaché au compte — identifiant slug, nom (seul champ obligatoire), club et
+catégorie facultatifs (mêmes règles que le compte), effectif facultatif
+(entier ≥ 0), coachs rattachés (logins enregistrés, duplis retirés). Les
+tailles d'effectif varient d'un club à l'autre : tout est flexible sauf le
+nom. La liste « coachs disponibles » est l'ensemble des comptes (login, club
+et catégorie seulement) ; brouillons et propositions restent strictement
+privés (C1 inchangé).
+
 La connexion est ouverte et fermée par requête (l'API tourne en un thread par
 connexion : `ThreadingWSGIServer`, voir webapp.py).
 """
@@ -80,6 +89,17 @@ CREATE TABLE IF NOT EXISTS propositions (
     avertissements_json TEXT NOT NULL,
     minutage_json TEXT NOT NULL,
     saved_at TEXT NOT NULL
+);
+CREATE TABLE IF NOT EXISTS equipes (
+    id TEXT NOT NULL,
+    compte_id INTEGER NOT NULL,
+    nom TEXT NOT NULL,
+    club TEXT,
+    categorie TEXT,
+    effectif INTEGER,
+    coachs_json TEXT NOT NULL DEFAULT '[]',
+    saved_at TEXT NOT NULL,
+    PRIMARY KEY (compte_id, id)
 );
 CREATE TABLE IF NOT EXISTS meta (
     key TEXT PRIMARY KEY,
@@ -248,6 +268,18 @@ class AppStore:
             "categorie": row[4],
         }
 
+    def list_coaches(self):
+        """Tous les comptes enregistrés (login, club, catégorie) : la base
+        de la liste « coachs disponibles » du constructeur de séance
+        (tranché 2026-11-22). Identifiants seuls : les brouillons et
+        propositions d'autrui restent strictement privés (C1)."""
+        rows = self.conn.execute(
+            "SELECT login, club, categorie FROM comptes ORDER BY login"
+        ).fetchall()
+        return [
+            {"login": r[0], "club": r[1], "categorie": r[2]} for r in rows
+        ]
+
     def authenticate(self, login, password):
         """Compte (dict) si le login ET le mot de passe sont corrects, sinon
         None. Le hachage est calculé même si le compte est absent, afin de
@@ -413,3 +445,123 @@ class AppStore:
             "minutage": json.loads(row[6]),
             "saved_at": row[7],
         }
+
+    # ------------------------------------------------------------- équipes
+    def upsert_equipe(
+        self,
+        account_id: int,
+        team_id: str,
+        nom,
+        club: str | None = None,
+        categorie: str | None = None,
+        effectif: int | None = None,
+        coachs: list | None = None,
+    ) -> dict:
+        """Crée ou met à jour une équipe d'effectif du compte (tranché
+        2026-11-22). Seul `nom` est obligatoire (1 à 80 caractères) ;
+        club, catégorie, effectif et coachs sont facultatifs (tailles
+        flexibles selon le club). PUT = mise à jour complète : un champ
+        absent est remis à absent. Lève ValueError si un champ est invalide.
+        """
+        if not draft_id_ok(team_id):
+            raise ValueError(
+                "Identifiant d'équipe invalide (1 à 128 caractères : "
+                "lettres, chiffres, « . _ - »)."
+            )
+        if not isinstance(nom, str):
+            raise ValueError("Nom d'équipe requis (texte de 1 à 80 caractères).")
+        nom = nom.strip()
+        if not (1 <= len(nom) <= MAX_CLUB):
+            raise ValueError("Nom d'équipe requis (texte de 1 à 80 caractères).")
+        if club is not None:
+            if not isinstance(club, str):
+                raise ValueError("Le club doit être un texte (80 caractères maximum).")
+            club = club.strip() or None
+            if club is not None and len(club) > MAX_CLUB:
+                raise ValueError("Le nom du club est trop long (80 caractères maximum).")
+        if not categorie_ok(categorie):
+            raise ValueError(
+                "Catégorie invalide (attendue : " + ", ".join(CATEGORIES) + " ou absente)."
+            )
+        if effectif is not None:
+            if isinstance(effectif, bool) or not isinstance(effectif, int) or effectif < 0:
+                raise ValueError("Effectif invalide (entier positif, ou champ absent).")
+        if coachs is None:
+            coachs = []
+        if not isinstance(coachs, list):
+            raise ValueError("Les coachs rattachés doivent être une liste de logins.")
+        norm_coachs = []
+        for c in coachs:
+            try:
+                c2 = normalize_login(c)
+            except ValueError:
+                raise ValueError("Login de coach invalide dans la liste des coachs rattachés.")
+            if c2 not in norm_coachs:
+                norm_coachs.append(c2)
+        now = _utcnow_iso()
+        self.conn.execute(
+            "INSERT INTO equipes (id, compte_id, nom, club, categorie, effectif, "
+            "coachs_json, saved_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?) "
+            "ON CONFLICT (compte_id, id) DO UPDATE SET nom = excluded.nom, "
+            "club = excluded.club, categorie = excluded.categorie, "
+            "effectif = excluded.effectif, coachs_json = excluded.coachs_json, "
+            "saved_at = excluded.saved_at",
+            (
+                team_id,
+                account_id,
+                nom,
+                club,
+                categorie,
+                effectif,
+                json.dumps(norm_coachs, ensure_ascii=False),
+                now,
+            ),
+        )
+        self.conn.commit()
+        return {
+            "id": team_id,
+            "nom": nom,
+            "club": club,
+            "categorie": categorie,
+            "effectif": effectif,
+            "coachs": norm_coachs,
+            "saved_at": now,
+        }
+
+    def list_equipes(self, account_id: int):
+        """Équipes du compte, plus récente en premier."""
+        rows = self.conn.execute(
+            "SELECT id, nom, club, categorie, effectif, coachs_json, saved_at "
+            "FROM equipes WHERE compte_id = ? ORDER BY saved_at DESC, id",
+            (account_id,),
+        ).fetchall()
+        return [_equipe_dict(r) for r in rows]
+
+    def get_equipe(self, account_id: int, team_id: str):
+        row = self.conn.execute(
+            "SELECT id, nom, club, categorie, effectif, coachs_json, saved_at "
+            "FROM equipes WHERE compte_id = ? AND id = ?",
+            (account_id, team_id),
+        ).fetchone()
+        return _equipe_dict(row) if row is not None else None
+
+    def delete_equipe(self, account_id: int, team_id: str) -> bool:
+        cur = self.conn.execute(
+            "DELETE FROM equipes WHERE compte_id = ? AND id = ?",
+            (account_id, team_id),
+        )
+        self.conn.commit()
+        return cur.rowcount > 0
+
+
+def _equipe_dict(row) -> dict:
+    """Ligne (id, nom, club, categorie, effectif, coachs_json, saved_at)."""
+    return {
+        "id": row[0],
+        "nom": row[1],
+        "club": row[2],
+        "categorie": row[3],
+        "effectif": row[4],
+        "coachs": json.loads(row[5]),
+        "saved_at": row[6],
+    }

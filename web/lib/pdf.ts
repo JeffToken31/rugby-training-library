@@ -14,7 +14,7 @@
 // Aucune donnée personnelle d'enfant : une séance parle d'exercices et de
 // durées, pas de noms de joueurs.
 
-import type { Fiche, FieldEntry, SessionPlan } from "./types";
+import type { ConseilCoach, Fiche, FieldEntry, SessionPlan } from "./types";
 import type { Moi, Proposition } from "./auth";
 import { BADGE_LABELS, CORE_FIELDS, FIELD_LABELS } from "./format";
 import { KIND_LABELS } from "./session";
@@ -93,7 +93,8 @@ function el<K extends keyof HTMLElementTagNameMap>(
 function buildSheet(
   p: Proposition,
   moi: Moi,
-  fiches: Record<string, Fiche>
+  fiches: Record<string, Fiche>,
+  conseils: ConseilCoach[] = []
 ): HTMLElement {
   const sheet = el("div", "pdf-sheet", null);
 
@@ -106,6 +107,24 @@ function buildSheet(
     (moi.club ? ` · ${moi.club}` : "") +
     (moi.categorie ? ` · ${moi.categorie}` : "");
   meta.appendChild(el("span", null, coach));
+  // Équipe d'effectif (snapshot de la séance, tranché 2026-11-22) : le nom
+  // et les éléments connus (club, catégorie, effectif) — jamais les noms de
+  // joueurs.
+  const team = p.plan.team;
+  if (team) {
+    meta.appendChild(
+      el(
+        "span",
+        null,
+        `Équipe : ${team.nom}` +
+          (team.club ? ` · ${team.club}` : "") +
+          (team.categorie ? ` · ${team.categorie}` : "") +
+          (team.effectif !== null ? ` · ${team.effectif} joueurs` : "")
+      )
+    );
+  }
+  if (p.plan.coaches)
+    meta.appendChild(el("span", null, `Éducateurs : ${p.plan.coaches}`));
   if (p.saved_at) meta.appendChild(el("span", null, savedLabel(p.saved_at)));
   sheet.appendChild(meta);
 
@@ -151,7 +170,10 @@ function buildSheet(
     for (const id of b.variant_ids ?? []) if (id) ids.add(id);
     for (const r of b.rounds ?? []) for (const a of r.assignments ?? [])
       if (a.variant_id) ids.add(a.variant_id);
-    for (const id of ids) block.appendChild(buildAtelier(id, fiches[id]));
+    for (const id of ids)
+      block.appendChild(
+        buildAtelier(id, fiches[id], conseils.filter((c) => c.variant_id === id))
+      );
 
     blocksWrap.appendChild(block);
   }
@@ -167,7 +189,11 @@ function buildSheet(
   return sheet;
 }
 
-function buildAtelier(id: string, fiche: Fiche | undefined): HTMLElement {
+function buildAtelier(
+  id: string,
+  fiche: Fiche | undefined,
+  conseils: ConseilCoach[] = []
+): HTMLElement {
   if (!fiche) {
     const wrap = el("div", "pdf-atelier", null);
     wrap.appendChild(el("h4", "pdf-atelier-title", id));
@@ -199,6 +225,25 @@ function buildAtelier(id: string, fiche: Fiche | undefined): HTMLElement {
       dl.appendChild(line);
     }
     wrap.appendChild(dl);
+  }
+
+  // Conseils coach (data/coach-cues.json via GET /api/conseils) : l'origine
+  // reste lisible sur le papier, comme dans l'app.
+  for (const c of conseils) {
+    if (!c.success_indicator && !c.coach_observation) continue;
+    const origine =
+      c.origin === "AI_INFERRED"
+        ? "proposition IA"
+        : c.origin === "USER_REPORTED"
+          ? "observation utilisateur"
+          : c.origin;
+    const cue = el("div", "pdf-cue", null);
+    cue.appendChild(el("h5", null, `Conseil coach — ${origine}`));
+    if (c.success_indicator)
+      cue.appendChild(el("p", null, `Indice de réussite : ${c.success_indicator}`));
+    if (c.coach_observation)
+      cue.appendChild(el("p", null, `À observer : ${c.coach_observation}`));
+    wrap.appendChild(cue);
   }
   return wrap;
 }
@@ -249,7 +294,8 @@ function sliceA4(canvas: HTMLCanvasElement): { data: string; hPx: number }[] {
 export async function generateSessionPdf(
   p: Proposition,
   moi: Moi,
-  fiches: Record<string, Fiche>
+  fiches: Record<string, Fiche>,
+  conseils: ConseilCoach[] = []
 ): Promise<File> {
   // Imports dynamiques : les deux libs (lourdes) ne se chargent qu'au moment
   // du partage, et jamais côté serveur (composant client).
@@ -259,7 +305,7 @@ export async function generateSessionPdf(
 
   const holder = document.createElement("div");
   holder.className = "pdf-holder";
-  const sheet = buildSheet(p, moi, fiches);
+  const sheet = buildSheet(p, moi, fiches, conseils);
   holder.appendChild(sheet);
   document.body.appendChild(holder);
   try {
@@ -287,43 +333,5 @@ export async function generateSessionPdf(
   }
 }
 
-// --- Partage : feuille de partage native si les fichiers sont pris en charge,
-// sinon téléchargement (fallback) à joindre à la main. ---
-
-function download(file: File): void {
-  const url = URL.createObjectURL(file);
-  const a = document.createElement("a");
-  a.href = url;
-  a.download = file.name;
-  document.body.appendChild(a);
-  a.click();
-  a.remove();
-  setTimeout(() => URL.revokeObjectURL(url), 5000);
-}
-
-export function sharePdf(
-  file: File
-): Promise<"shared" | "downloaded" | "cancelled"> {
-  const n = navigator;
-  const canShareFiles =
-    typeof n.canShare === "function" &&
-    typeof n.share === "function" &&
-    n.canShare({ files: [file] });
-  if (canShareFiles) {
-    return n
-      .share({ files: [file], title: file.name })
-      .then(() => "shared" as const)
-      .catch((err: unknown) => {
-        // L'utilisateur a refermé la feuille de partage → on ne fait rien.
-        if (err && (err as { name?: string }).name === "AbortError")
-          return "cancelled" as const;
-        // Échec inattendu du partage → on retombe sur le téléchargement.
-        return Promise.resolve("downloaded" as const).then(() => {
-          download(file);
-          return "downloaded" as const;
-        });
-      });
-  }
-  download(file);
-  return Promise.resolve("downloaded");
-}
+// Le partage lui-même (fichier → texte → téléchargement + lien WhatsApp)
+// vit dans ./share — ce module ne produit que le PDF.
