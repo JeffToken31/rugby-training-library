@@ -48,6 +48,8 @@ coach : Le plaquage finit quand le ballon est posé, pas avant ; on compte la li
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°3. Vérification documentaire : 2026-11-19.
 
+**Vidéo — variante (origine proposition IA) :** [Plaquage et libération (M15F)](https://www.youtube.com/watch?v=4-PxxjsOFsc) — La vidéo (Ligue Régionale Grand Est) montre plaquage et libération en niveau M15F ; le jeu U8 à balise n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

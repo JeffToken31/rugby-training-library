@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Soutien · Coopération
+**Catégories proposées :** Soutien · Évitement · Coopération · Duel
 
 **Famille :** Surnombre et soutien face à un opposant · **Âge source :** M8
 
@@ -10,7 +10,7 @@
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Accélérer et feinter pour marquer ; soutenir le porteur.
 
@@ -47,6 +47,8 @@
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duels et soutien. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Duel et soutien offensif M8](https://www.youtube.com/watch?v=QH_eP2fgI0s).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

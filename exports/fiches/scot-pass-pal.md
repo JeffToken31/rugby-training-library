@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Manipulation du ballon · Coopération · Circulation et transmission
+**Catégories proposées :** Passe · Manipulation du ballon · Coopération · Circulation et transmission
 
 **Famille :** Circulation du ballon et coordination collective · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 11 — Pass to a pal. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

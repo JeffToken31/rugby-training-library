@@ -53,6 +53,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Team Scarecrow Tag Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

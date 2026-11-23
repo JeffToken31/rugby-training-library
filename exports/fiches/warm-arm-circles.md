@@ -54,6 +54,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/) — World Rugby ; Arm circles. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Arm Circles Exercise](https://www.youtube.com/watch?v=UVMEnIaY8aU) — La vidéo (Sworkit) montre les cercles de bras en exercice ; l'échauffement U8 « progressif » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

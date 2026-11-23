@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Soutien · Manipulation du ballon · Circulation et transmission
+**Catégories proposées :** Passe · Soutien · Manipulation du ballon · Circulation et transmission
 
 **Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
@@ -39,6 +39,8 @@ Cinq joueurs en file suivent le porteur.
 **Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](wr-pass-support.md). Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Follow the Leader. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Rookie Rugby Games: Follow the Leader](https://www.youtube.com/watch?v=k7e5w_iub14) — La vidéo (Rookie Rugby Canada) montre le jeu de rugby « Follow the Leader » ; la « transmission au nouveau meneur » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

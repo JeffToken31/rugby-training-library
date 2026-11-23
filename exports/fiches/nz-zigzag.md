@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — New Zealand Rugby — Rugby Toolbox ; Zig Zag Passing — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Zig-Zag Passing & Handling | Rugby Drill](https://www.youtube.com/watch?v=n1F_Jaoc5o4) — La vidéo (Sportplan Rugby) montre des passes en zigzag ; le « replacement en bout de ligne » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

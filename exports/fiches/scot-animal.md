@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 17 (pagination fichier). Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Animal Walk Tag - Fun Game for P.E. class](https://www.youtube.com/watch?v=Uq08wc_d_h4) — La vidéo (classe de sport) montre un tag en déplacements d'animaux ; la version « chat et déplacements animaux » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

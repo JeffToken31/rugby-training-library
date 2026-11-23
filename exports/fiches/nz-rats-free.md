@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — New Zealand Rugby — Rugby Toolbox ; Rats and Rabbits 4 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Rats & Rabbits](https://www.youtube.com/watch?v=tJJvxObgD-U) — La vidéo (Auckland Rugby) montre « Rats & Rabbits » ; la progression « trajectoires libres » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

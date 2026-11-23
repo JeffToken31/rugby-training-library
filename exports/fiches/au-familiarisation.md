@@ -55,6 +55,8 @@ coach : Ballon contrôlé et tête relevée.; duration_min : 7; easier : Action 
 
 **Source principale :** [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

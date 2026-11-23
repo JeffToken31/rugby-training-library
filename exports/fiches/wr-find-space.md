@@ -40,6 +40,8 @@ Chasse et arrêt dans un espace libre
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Find the Space. Vérification documentaire : 2026-09-08.
 
+**Vidéo — variante (origine proposition IA) :** [Jeu espace libre](https://www.youtube.com/watch?v=IIWSBwMJPu0) — La vidéo (série FFR) montre le jeu « espace libre » ; la règle de l'« arrêt » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

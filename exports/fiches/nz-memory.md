@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Circuit passe](https://www.youtube.com/watch?v=Msbjj9wyIUQ) — La vidéo (Pôle Formation des Pyrénées) montre un circuit de passes ; l'aspect mémorisation n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

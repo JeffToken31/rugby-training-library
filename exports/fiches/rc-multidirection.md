@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Réaction au signal · Prise d’information · Opposition collective
+**Catégories proposées :** Passe · Réaction au signal · Prise d’information · Opposition collective
 
 **Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site)
 
@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine source) :** [Changer de ligne d’essai](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

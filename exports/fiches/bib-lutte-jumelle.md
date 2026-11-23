@@ -48,6 +48,8 @@ coach : Le premier contact compte : on va chercher le ballon, pas le partenaire 
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°5. Vérification documentaire : 2026-11-19.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -46,6 +46,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Plan de formation M8 2023 — séance 12/12 : Les œufs des poules. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine proposition IA) :** [9 - Les oeufs et les poules](https://www.youtube.com/watch?v=8EexedC3CBY).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

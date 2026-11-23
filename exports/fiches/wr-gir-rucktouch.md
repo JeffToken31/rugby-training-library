@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — World Rugby ; World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [5d   Ruck Touch Rugby   6 v 4](https://www.youtube.com/watch?v=X-1I9EE6uuc).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -57,6 +57,8 @@ coach : Mains prêtes et receveur derrière le porteur.; duration_min : 7; easie
 
 **Source principale :** [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Passing in 2s Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

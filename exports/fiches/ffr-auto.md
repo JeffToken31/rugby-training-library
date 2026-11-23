@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 51. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [L’auto-stoppeur](https://www.youtube.com/watch?v=99Y4PGW57Ig).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

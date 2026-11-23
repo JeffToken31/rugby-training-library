@@ -46,6 +46,8 @@ Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passan
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 6. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

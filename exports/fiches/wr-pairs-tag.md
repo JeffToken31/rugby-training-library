@@ -38,6 +38,8 @@ Un binôme chasseur avec ballon ; autres binômes dans le carré.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pairs Tag. Vérification documentaire : 2026-09-08.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Rookie Rugby Games: Pairs Tag](https://www.youtube.com/watch?v=Nl24_O3V0so).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — New Zealand Rugby — Rugby Toolbox ; Evading the Player — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Rugby coaching - Learn How to Evade a Player (Evasion)](https://www.youtube.com/watch?v=tmTfZg82fLQ) — La vidéo (The Rugby Site) est un tutoriel d'évasion pour joueurs plus âgés ; le jeu U8 « éviter le joueur » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

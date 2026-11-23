@@ -291,17 +291,18 @@
       "variant_id": "au-kick-tennis",
       "tag_ids": [
         "format:opposition-collective",
-        "skill:jeu-pied"
+        "skill:jeu-pied",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Réception : l’objectif nommé « Précision au pied, réception et communication »"
     },
     {
       "variant_id": "au-nest-pass",
@@ -531,16 +532,18 @@
     {
       "variant_id": "ffr-carre-atelier",
       "tag_ids": [
-        "skill:manipulation"
+        "skill:manipulation",
+        "skill:equilibre",
+        "skill:motricite"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "PROVISIONAL",
       "basis_fields": [
         "title",
         "theme"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Équilibre et Motricité : résumé nommé « Varier les déplacements et manipulations en travaillant équilibre et posture »"
     },
     {
       "variant_id": "ffr-carre2-atelier",
@@ -596,31 +599,34 @@
       "variant_id": "ffr-duellong-atelier",
       "tag_ids": [
         "format:duel",
-        "skill:course"
+        "skill:course",
+        "format:poursuite"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "PROVISIONAL",
       "basis_fields": [
         "title",
         "theme"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Poursuite : résumé nommé « Sprinter, s’orienter, marquer et poursuivre pour toucher »"
     },
     {
       "variant_id": "ffr-duels-atelier",
       "tag_ids": [
         "skill:cooperation",
-        "skill:soutien"
+        "skill:soutien",
+        "format:duel",
+        "skill:evitement"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "PROVISIONAL",
       "basis_fields": [
         "title",
         "theme"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Duel et Évitement : titre « Duels et soutien » ; résumé « Accélérer et feinter pour marquer »"
     },
     {
       "variant_id": "ffr-espaces2023",
@@ -849,16 +855,18 @@
       "tag_ids": [
         "format:relais",
         "skill:motricite",
-        "skill:passe"
+        "skill:passe",
+        "skill:course",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "PROVISIONAL",
       "basis_fields": [
         "title",
         "theme"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Course et Réception : titre « courir, rouler, passer » ; résumé « Enchaîner course, passage au sol, relevé, passe et réception »"
     },
     {
       "variant_id": "ffr-roulade-releve",
@@ -1051,17 +1059,19 @@
       "tag_ids": [
         "format:opposition-collective",
         "skill:evitement",
-        "skill:prise-information"
+        "skill:prise-information",
+        "skill:passe",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe et Réception : objectif nommé « Vision, espace, réception-passe et évitement »"
     },
     {
       "variant_id": "munster-gorille",
@@ -1101,17 +1111,18 @@
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
-        "skill:passe"
+        "skill:passe",
+        "skill:course"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Course : objectif nommé « Course, passes, évitement et coopération »"
     },
     {
       "variant_id": "munster-mud",
@@ -1168,17 +1179,18 @@
       "variant_id": "nz-circle",
       "tag_ids": [
         "format:circulation",
-        "skill:passe"
+        "skill:passe",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Réception : objectif nommé « Développer la passe et la réception »"
     },
     {
       "variant_id": "nz-corner",
@@ -1583,17 +1595,18 @@
       "variant_id": "rc-bounce",
       "tag_ids": [
         "format:circulation",
-        "skill:manipulation"
+        "skill:manipulation",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Réception : objectif nommé « Coordonner réception et rebond »"
     },
     {
       "variant_id": "rc-bulldog",
@@ -1685,17 +1698,18 @@
       "variant_id": "rc-colour-touch",
       "tag_ids": [
         "format:opposition-collective",
-        "skill:prise-information"
+        "skill:prise-information",
+        "skill:passe"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe : règle de l’exercice « passe sous une seconde après toucher » — la transmission fait partie du déroulé"
     },
     {
       "variant_id": "rc-eggs",
@@ -1755,34 +1769,37 @@
       "variant_id": "rc-lateral-three",
       "tag_ids": [
         "format:circulation",
-        "skill:passe"
+        "skill:passe",
+        "skill:course",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Course et Réception : objectif nommé « Enchaîner course, réception et passe »"
     },
     {
       "variant_id": "rc-multidirection",
       "tag_ids": [
         "format:opposition-collective",
         "skill:prise-information",
-        "skill:reaction"
+        "skill:reaction",
+        "skill:passe"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe : règle de l’exercice « passe sous une seconde après toucher »"
     },
     {
       "variant_id": "rc-netball",
@@ -1840,17 +1857,18 @@
       "variant_id": "rc-pass-start",
       "tag_ids": [
         "format:circulation",
-        "skill:passe"
+        "skill:passe",
+        "skill:reception"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Réception : objectif nommé « Apprendre à recevoir puis transmettre vers une cible »"
     },
     {
       "variant_id": "rc-piggy",
@@ -2149,17 +2167,19 @@
       "tag_ids": [
         "format:poursuite",
         "skill:cooperation",
-        "skill:passe"
+        "skill:passe",
+        "skill:reception",
+        "skill:evitement"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Réception et Évitement : objectif nommé « Travailler réception, passe et évitement »"
     },
     {
       "variant_id": "scot-cricket",
@@ -2266,17 +2286,18 @@
       "tag_ids": [
         "format:circulation",
         "skill:cooperation",
-        "skill:manipulation"
+        "skill:manipulation",
+        "skill:passe"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe : mécanique centrale « le porteur rejoint un partenaire et lui donne le ballon ; celui-ci traverse puis transmet »"
     },
     {
       "variant_id": "scot-passback",
@@ -2433,17 +2454,18 @@
       "variant_id": "wr-five-walls",
       "tag_ids": [
         "format:opposition-collective",
-        "skill:evitement"
+        "skill:evitement",
+        "skill:passe"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe : mécanique centrale « Traverser les rideaux en passant pour marquer » ; aligné avec wr-walls-212 déjà tagué Passe"
     },
     {
       "variant_id": "wr-follow-choice",
@@ -2468,17 +2490,18 @@
       "tag_ids": [
         "format:circulation",
         "skill:manipulation",
-        "skill:soutien"
+        "skill:soutien",
+        "skill:passe"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe : mécanique centrale « le meneur présente le ballon au suivant, qui le prend et le passe »"
     },
     {
       "variant_id": "wr-formation",
@@ -2559,17 +2582,18 @@
         "format:circulation",
         "format:relais",
         "skill:manipulation",
-        "skill:soutien"
+        "skill:soutien",
+        "skill:passe"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-09-16",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "theme",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : ajout Passe : mécanique centrale « le premier s’arrête et présente le ballon au suivant »"
     },
     {
       "variant_id": "wr-passing-relays",
@@ -2884,35 +2908,33 @@
     {
       "variant_id": "bib-soule-ramasser",
       "tag_ids": [
-        "skill:lutte",
         "skill:ramassage",
         "format:collecte"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-11-19",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : le tag Lutte est retiré : un enfant par zone, aucun adversaire dans le déroulé ; travail de prise en main et de port de la soule, sans opposition corporelle décrite"
     },
     {
       "variant_id": "bib-ruck-relai",
       "tag_ids": [
-        "skill:lutte",
         "skill:ramassage",
         "skill:passe",
         "format:relais"
       ],
       "origin": "AI_INFERRED",
-      "reviewed_on": "2026-11-19",
+      "reviewed_on": "2026-11-22",
       "status": "EDITORIAL_REVIEWED",
       "basis_fields": [
         "title",
         "fields.steps"
       ],
-      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact."
+      "note": "Classement éditorial du contenu existant ; ne certifie ni adéquation U8 ni niveau de contact. | 2026-11-22 (relecture) : le tag Lutte est retiré : la fiche décrit le ruck comme geste technique (« le ruck est un geste, pas une lutte ») et le déroulé (2 équipes en relais, 1 ballon) n’oppose aucun adversaire"
     },
     {
       "variant_id": "bib-lutte-jumelle",

@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Motricité · Relais
+**Catégories proposées :** Passe · Réception · Motricité · Course · Relais
 
 **Famille :** Parcours et relais avec ballon · **Âge source :** M8
 
@@ -10,7 +10,7 @@ Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcour
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Enchaîner course, passage au sol, relevé, passe et réception.
 
@@ -47,6 +47,8 @@ Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcour
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Relais — courir, rouler, passer. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Rugby école exercice Les relais](https://www.youtube.com/watch?v=4Q1g9a-nrK4) — La vidéo (Gwennael PETILLAT) montre des exercices de relais en école de rugby ; l'installation spécifique de cet atelier n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

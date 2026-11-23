@@ -46,6 +46,8 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 18. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

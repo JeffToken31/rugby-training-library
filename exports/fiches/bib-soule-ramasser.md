@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Lutte · Ramassage du ballon · Collecte de ballons
+**Catégories proposées :** Ramassage du ballon · Collecte de ballons
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -47,6 +47,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 coach : Deux mains, face au ballon, la soule contre le buste ; on ne ramasse pas en courant.; duration_min : 8; easier : Ramasser la soule posée sur une hauteur (plot) pour réduire la prise au sol.; harder : Ramasser la soule en déplacement, en marchant en arrière vers la zone.; players_max : 12; players_min : 12; setup : Quatre zones de 5 × 5 m, une soule posée à chaque zone, un enfant par zone.; steps : 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°3. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

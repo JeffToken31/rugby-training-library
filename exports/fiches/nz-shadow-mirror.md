@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — New Zealand Rugby — Rugby Toolbox ; Shadow Run — progression 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Shadow Run](https://www.youtube.com/watch?v=iwwdQ7PaJa8) — La vidéo (MAKO RUGBY) montre une course d'ombre ; la progression « miroir » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

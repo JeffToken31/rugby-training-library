@@ -44,6 +44,8 @@
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Scarecrow Tag. Vérification documentaire : 2026-09-08.
 
+**Vidéo — variante (origine proposition IA) :** [Play Scarecrow Tag! A seasonal tag game! #physed #taggames](https://www.youtube.com/watch?v=mUb9PrrZp1I) — La vidéo (PE Learn & Play) montre le « Scarecrow Tag » ; la « délivrance » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

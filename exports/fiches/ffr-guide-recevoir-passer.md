@@ -46,6 +46,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 24. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

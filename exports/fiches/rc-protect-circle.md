@@ -47,6 +47,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — RugbyCoaching.tv ; Video Subtitles — première situation en cercle. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Players First - Circle &amp; Caterpillar Game Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

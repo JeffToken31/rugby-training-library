@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Prise d’information · Opposition collective
+**Catégories proposées :** Passe · Prise d’information · Opposition collective
 
 **Famille :** Créer et exploiter un espace en opposition · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Colour Touch Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

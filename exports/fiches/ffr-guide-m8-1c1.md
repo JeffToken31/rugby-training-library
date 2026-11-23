@@ -46,6 +46,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout. Vérification documentaire : 2026-09-08.
 
+**Vidéo — variante (origine proposition IA) :** [Plaquage U14 / U16 / U18 : 2vs1+1](https://www.youtube.com/watch?v=sMK_YRbVG5k) — La vidéo (sov rugby formation) montre un exercice de plaquage 2 contre 1 + 1 en U14-U18 ; l'installation U8 du 1 contre 1 n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

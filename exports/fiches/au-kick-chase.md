@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [kick chase](https://www.youtube.com/watch?v=f62vftC5Ax8) — La vidéo (Rugby Coach Weekly) montre un exercice « kick and chase » ; le jeu U8 (marquer après le coup de pied, longueur contrôlée) n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

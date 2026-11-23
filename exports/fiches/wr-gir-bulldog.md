@@ -38,6 +38,8 @@
 
 **Source principale :** [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — World Rugby ; World Rugby GIR — Bulldog, carte 30/30. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [P.E. Games - British Bulldog](https://www.youtube.com/watch?v=VIqJ_yizsDE) — La vidéo (PhysEdGames) montre le jeu « British Bulldog » en classe ; la version World Rugby (effectifs, zones) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

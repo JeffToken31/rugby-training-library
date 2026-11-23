@@ -46,6 +46,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Standing Pool Noodle Game - fun kids outdoor activity team building game - youth group game](https://www.youtube.com/watch?v=NZZsYwckJ30) — La vidéo (Raising Dragons) montre un jeu debout à la barre de piscine ; la « délivrance par la main » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

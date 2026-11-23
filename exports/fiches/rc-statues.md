@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Les statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

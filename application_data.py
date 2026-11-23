@@ -2,6 +2,7 @@
 import copy
 import hashlib
 import json
+import re
 from collections import Counter
 from pathlib import Path
 import catalogue_v2 as v2
@@ -124,6 +125,23 @@ def build(db, root, config):
             e["warmup_usage"] = assignments.get(e["id"])
         payload["warmup_collection"] = uses
         payload["policy"]["collection"] = "TARGETED_WARMUPS"
+    if config.get("media_links"):
+        media = read(root / config["media_links"])
+        links = unique(media["links"], "variant_id")
+        if set(links) != ids:
+            raise ValueError("Lien vidéo hors corpus")
+        for link in links.values():
+            if link["url"] is None:
+                if link["origin"] is not None or link["title"] is not None or link["is_variant"] or link["variant_note"]:
+                    raise ValueError("Lien nul incohérent : " + link["variant_id"])
+            else:
+                if not re.match(r"^https?://", link["url"]):
+                    raise ValueError("URL de lien vidéo invalide : " + link["variant_id"])
+                if link["origin"] not in ("SOURCE", "AI_INFERRED", "USER_REPORTED"):
+                    raise ValueError("Origine de lien vidéo inconnue : " + link["variant_id"])
+                if link["is_variant"] and not link["variant_note"]:
+                    raise ValueError("Variante sans note explicative : " + link["variant_id"])
+        payload["media_links"] = links
     payload["content_sha256"] = hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     return payload
 

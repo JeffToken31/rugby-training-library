@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Chaos Tig. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Warm Up-Chaos Tag](https://www.youtube.com/watch?v=gYAFl46MRaM) — La vidéo (Moving Matters) montre un échauffement « chaos tag » ; les règles du « chat chaos » (rôles) ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -10,7 +10,7 @@ Situation de lutte en binômes pour aborder l’opposition corporelle : saisir �
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Découvrir l’opposition corporelle et la lutte.
 
@@ -46,6 +46,8 @@ Situation de lutte en binômes pour aborder l’opposition corporelle : saisir �
 **Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Les gazelles. Vérification documentaire : 2026-09-07.
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tpz). Association issue des annotations, visionnage non validé par l’assistant.
+
+**Vidéo de l’exercice (origine source) :** [Les gazelles M8](https://www.dailymotion.com/video/x842tpz).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

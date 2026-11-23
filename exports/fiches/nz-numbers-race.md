@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

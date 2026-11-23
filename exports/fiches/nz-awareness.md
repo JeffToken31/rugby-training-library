@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
+**Vidéo — variante (origine proposition IA) :** [Manipulation ballon autour du corps](https://www.youtube.com/watch?v=BpQTUQy2ObU) — La vidéo (BR Coach) montre une série de manipulations du ballon ; le jeu U8 de conscience / observation n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

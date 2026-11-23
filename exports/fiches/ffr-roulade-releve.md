@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 6. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Roulade sur l'épaule](https://www.youtube.com/watch?v=ElycLwem140) — La vidéo montre une roulade sur l'épaule (avec relèvement) orientée U12 ; l'installation U8 n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

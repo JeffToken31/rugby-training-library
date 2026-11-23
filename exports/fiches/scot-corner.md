@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
+**Catégories proposées :** Passe · Réception · Évitement · Coopération · Poursuite et délivrance
 
 **Famille :** Chasse collective par passes · **Âge source :** Primaire (Écosse)
 
@@ -55,6 +55,8 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 **Comparaison éditoriale complémentaire :** [rc-team-scarecrow](rc-team-scarecrow.md) — Conserver séparément. Chasseurs par trois dans Scottish Rugby, changements par paires dans les sous-titres RugbyCoaching. Sort du joueur touché insuffisamment décrit pour prouver une équivalence.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 20. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

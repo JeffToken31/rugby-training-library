@@ -42,6 +42,8 @@ Face à face, épaules en contact, mains sur les hanches : se renverser mutuelle
 
 **Source principale :** [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) — OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby ; J+S-Kids L08 — exercice 2/2 : Lutte à la culotte. Vérification documentaire : 2026-11-20.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

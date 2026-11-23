@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Lutte · Ramassage du ballon · Relais
+**Catégories proposées :** Passe · Ramassage du ballon · Relais
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
@@ -47,6 +47,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 coach : Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.; duration_min : 12; easier : Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.; harder : Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.; players_max : 12; players_min : 12; setup : Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.; steps : 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
 
 **Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°4. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

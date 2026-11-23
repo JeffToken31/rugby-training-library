@@ -192,6 +192,7 @@
     "coach_cues": "data/coach-cues.json",
     "timings": "data/timing-proposals.json",
     "consolidation_review": "data/consolidation-review.json",
-    "session_uses": "data/session-uses.json"
+    "session_uses": "data/session-uses.json",
+    "media_links": "data/media-links-20261122.json"
   }
 }

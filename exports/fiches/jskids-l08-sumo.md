@@ -38,6 +38,8 @@ Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et rep
 
 **Source principale :** [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) — OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby ; J+S-Kids L08 — exercice 2/2 : Sumo 1x1. Vérification documentaire : 2026-11-20.
 
+**Vidéo de l’exercice (origine proposition IA) :** [8 - Sumo-style wrestling to push the ball carrier out of the zone](https://www.youtube.com/watch?v=56hAfCz3Zdo).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

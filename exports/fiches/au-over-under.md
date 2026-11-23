@@ -52,6 +52,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [5 Attackers Passing Under's And Overs Running Lines  AMERICAN RAPTORS Uruguayan November Tour 2021](https://www.youtube.com/watch?v=TqQwg3oVc0Y) — La vidéo (Rugbyfactorytv) montre des passes en-dessus/en-dessus par 5 attaquants ; l'installation du jeu U8 n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

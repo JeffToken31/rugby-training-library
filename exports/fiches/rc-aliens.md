@@ -55,6 +55,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Aliens Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -50,6 +50,8 @@ coach : La tête cherche le ballon, la hanche serre, les mains sèrrent le maill
 
 **Référence complémentaire :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Livre du jeune joueur M8 2022-2023 — rubrique Plaquage — exercice 1 contre 1 (9 × 8 m, plaqueur debout). Source M8 réelle la plus proche (plaqueur debout) ; la fiche locale s'en distingue par la position à genoux, dont le conflit de sécurité est déclaré.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

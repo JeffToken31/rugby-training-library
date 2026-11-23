@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — New Zealand Rugby — Rugby Toolbox ; Touch the Ground Pass — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Touch the Ground & Pass](https://www.youtube.com/watch?v=85Xwhhf035s).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Bulldog Touch Rugby](https://www.rugbycoaching.tv/video/bulldog-touch/10001353).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

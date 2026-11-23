@@ -252,7 +252,7 @@ def media_link_for(e):
     Distinct de media_for (suppléments PDF) ; les deux restent visibles.
     """
     link = PAYLOAD.get("media_links", {}).get(e["id"])
-    if not link:
+    if not link or not link.get("url"):
         return None
     return {
         "url": link["url"],

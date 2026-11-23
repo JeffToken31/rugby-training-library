@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Circulation et transmission
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
 **Famille :** Ramasser, recevoir et transmettre · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Learning to Pass - first steps Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

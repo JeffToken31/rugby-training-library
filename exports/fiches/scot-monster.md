@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Monster Lunge. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Get #MatchFit Anywhere: The Lunge](https://www.youtube.com/watch?v=xOrQUOMfluk) — La vidéo (World Rugby) montre la fente dans la série MatchFit ; la version « monstre » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

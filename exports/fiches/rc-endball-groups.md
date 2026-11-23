@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — RugbyCoaching.tv ; Video Subtitles — progression avec nombres. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [End Ball &amp; Connecting Players Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

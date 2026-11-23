@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Crocodile Walk. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Animal Walks - Alligator Walk](https://www.youtube.com/watch?v=S-Yf5OIYYBo) — La vidéo (Hong Kong China Rugby) montre la marche du crocodile / alligator ; la version « crocodile » du jeu n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

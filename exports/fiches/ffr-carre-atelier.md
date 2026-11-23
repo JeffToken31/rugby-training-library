@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Manipulation du ballon
+**Catégories proposées :** Manipulation du ballon · Motricité · Équilibre et postures
 
 **Famille :** Manipulation et coordination individuelle · **Âge source :** M8
 
@@ -10,7 +10,7 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Varier les déplacements et manipulations en travaillant équilibre et posture.
 
@@ -49,6 +49,8 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 **Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Carré. Vérification documentaire : 2026-09-07.
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tlu). Association issue des annotations, visionnage non validé par l’assistant.
+
+**Vidéo de l’exercice (origine source) :** [Carré M8](https://www.dailymotion.com/video/x842tlu).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

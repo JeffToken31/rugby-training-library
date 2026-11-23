@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [Rugby coaching relay race idea](https://www.youtube.com/watch?v=mbP6jPZ4tAI) — La vidéo (Adrian Bold) montre une idée de course de relais en rugby ; la formule « chaîne » (chaque passe prolonge la chaîne) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

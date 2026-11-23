@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [RUGBY GOAL KICK CHALLENGE (Golf Edition)](https://www.youtube.com/watch?v=SvUbOaySvpQ) — La vidéo (KurtXV) montre un défi de coups de pied au but en format golf pour joueurs plus âgés ; le parcours U8 à cibles par plots n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

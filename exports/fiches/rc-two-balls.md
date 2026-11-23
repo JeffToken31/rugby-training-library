@@ -10,7 +10,7 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Coordonner les échanges de deux ballons.
 
@@ -52,6 +52,8 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 **Source principale :** [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
 **Référence complémentaire :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie. La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
+
+**Vidéo de l’exercice (origine source) :** [Coordonner deux ballons](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
