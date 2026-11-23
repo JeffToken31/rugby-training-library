@@ -125,7 +125,7 @@ Recommandation : **option A**. Règles associées : logo en SVG ou PNG ≤ 500 K
 ### 3.6 Digests de fiches-conseil
 
 - **Contenu** : une sélection de fiches du catalogue V1 (172 fiches, 163 visibles) par catégorie et par période, tirée des tags (17 compétences × 9 formes de jeu) et des fiches conseil (`coach-cues.json`, 20 fiches).
-- **Règle de curation — EN ATTENTE** (Q6, seule question restée ouverte après l’arbitrage user du 2026-11-23) : (a) l’éducateur compose manuellement le digest de son équipe (recommandé en premier : simple, pédagogique, zéro algorithme) ; (b) une suggestion automatique par tags + saison ; (c) les deux (suggestion + ajustement). Explication fournie à l’user, retour (a)/(b)/(c) attendu.
+- **Règle de curation — tranchée par l’user le 2026-11-23 (Q6, option (a))** : l’éducateur compose manuellement le digest de son équipe (simple, pédagogique, zéro algorithme) ; la suggestion automatique par tags + saison (option (b)) n’est pas retenue en v2.
 - **Circuit** : proposition (éducateur) → approbation (admin) → consultation (parents + éducateurs de la catégorie). Le digest est **immuable une fois publié** (même principe D1 que les propositions V1) ; sa source = identifiants de fiches V1 (pas de copie du texte).
 - **Support** : page dans l’app + PDF (réutilise le pipeline `web/lib/pdf.ts`).
 - **Acceptation** : un digest publié est lisible par les parents de la catégorie ; un digest ne peut référencer que des fiches `default_visible` (test) ; le PDF reprend les fiches sélectionnées.
@@ -269,9 +269,9 @@ Lot 0 est bloquant (arbitrages + base juridique) ; les lots 1-5 sont ordonnés p
 
 **Risque principal global** : le périmètre. SportEasy fait beaucoup ; la v2 se borne à 7 modules + durcissement. Toute fonction ajoutée (ex. « juste un chat ») réactive le RGPD (données de mineurs) et la roadmap : **chaque ajout passe par le présent document + validation utilisateur**.
 
-## 8. Questions ouvertes — statuts
+## 8. Questions — statuts
 
-Numérotées pour le journal du checkpoint. Aucune ne peut être tranchée par l’agent ; elles bloquent les lots indiqués. **Mise à jour 2026-11-23** : l’user a tranché Q1, Q2, Q3, Q4, Q7 et reporté Q5 (colonne « Décision user ») ; **Q6 reste EN ATTENTE** (explication fournie, retour attendu).
+Numérotées pour le journal du checkpoint. Aucune ne peut être tranchée par l’agent ; elles bloquent les lots indiqués. **Mise à jour 2026-11-23** : l’user a tranché Q1, Q2, Q3, Q4, Q6 (option (a), curation manuelle), Q7 et reporté Q5 (colonne « Décision user ») — **plus de question ouverte dans la table** ; Q5 reste reportée (« à mettre de côté pour l’instant »), le support public concret lié à Q2 se tranchera avec elle.
 
 | N° | Question | Bloque | Recommandation de l’agent | Décision user (2026-11-23) |
 | --- | --- | --- | --- | --- |
@@ -280,7 +280,7 @@ Numérotées pour le journal du checkpoint. Aucune ne peut être tranchée par l
 | Q3 | **Posture RGPD** : bases légales (consentement parental + intérêt légitime ?), durée de conservation des présences (recommandée : fin d’adhésion + 1 an), qui voit les présences (recommandé : les parents limités à leurs enfants, l’éducateur à son équipe) | Lots 0, 3, 4 | Comme recommandé ; formulaire de consentement à faire valider par le club | **Tranchée — reco confirmée** |
 | Q4 | **Comptes des enfants** : confirme-t-on que les mineurs n’ont pas de compte (recommandation) et que les parents ont un accès lecture limité (calendrier, séances, présences, stats, digests) sans messagerie ? | Lots 1, 3, 4 | Oui, comme spécifié § 3.5 | **Tranchée — reco confirmée** : pas de compte mineurs ; lecture parent limitée, sans messagerie |
 | Q5 | **Hébergement** : ferme Swarm (recommandée) / cloud UE / local ? Et **DPA sous-traitance** : le club est-il responsable de traitement et l’agent sous-traitant — le document sera-t-il signé ? | Lot 0/6 | Ferme Swarm + DPA formel ; à défaut, cloud UE | **Reportée** (« à mettre de côté pour l’instant ») : hébergement + DPA, y compris le choix du support public consécutif à Q2 |
-| Q6 | **Règle de curation des digests** : composition manuelle par l’éducateur (recommandée en premier), suggestion automatique par tags, ou les deux ? | Lot 5 | Manuel d’abord, automatique ensuite | **EN ATTENTE** — l’user a demandé une explication ; options : (a) manuel, (b) auto par tags+saison, (c) les deux (reco : (a) d’abord) ; retour attendu |
+| Q6 | **Règle de curation des digests** : composition manuelle par l’éducateur (recommandée en premier), suggestion automatique par tags, ou les deux ? | Lot 5 | Manuel d’abord, automatique ensuite | **Tranchée — option (a) retenue** : curation manuelle, l’éducateur compose le digest de son équipe (simple, pédagogique, zéro algorithme) ; la suggestion auto (b) n’est pas retenue en v2 |
 | Q7 | **Données de licence FFR** : quelle est la source de vérité (liste fournie par le club ? import ?) et le numéro de licence sera-t-il stocké en v2 ou seulement à l’écran ? | Lot 3 | Pas de stockage en v2 (affichage uniquement) — minimisation | **Tranchée — reco confirmée** : pas de stockage du n° licence FFR en v2, affichage seulement |
 
 ## 9. Références
