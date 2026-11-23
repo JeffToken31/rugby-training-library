@@ -63,7 +63,7 @@ Ce qui **n’existe pas** en V1 et fait le cœur de la v2 : entité « club » (
 
 - **Donnée stockée** : un enregistrement par (joueur, séance) : statut `PRESENT` / `ABSENT` / `EXCUSE` / `INCONNU`, par qui, quand. **Rien d’autre** : pas de géolocalisation, pas d’heure d’arrivée, pas de lieu. La donnée de « localisation » est le point le plus sensible d’un app pour mineurs : minimisation stricte (RGPD, § 4).
 - **Saisie** : par l’éducateur en début de séance (liste des joueurs de l’équipe, pointage rapide). L’absence non justifiée reste `ABSENT` ; la justification par la famille passe par un statut `EXCUSE` saisi par le parent (pas de messagerie : le parent le fait dans l’app).
-- **Conservation** : durée de l’adhésion de l’enfant + **EN ATTENTE** (durée supplémentaire, ex. 1 an, à trancher par l’utilisateur avec le club).
+- **Conservation** : durée de l’adhésion de l’enfant + **1 an** (Q3 tranchée par l’user le 2026-11-23 : reco confirmée, à faire valider par le club).
 - **Accès** : le parent uniquement pour ses enfants ; l’éducateur pour son équipe ; l’admin pour le club. Pas de vue « tout le club » pour un parent.
 - **Acceptation** : le taux de présence par joueur est calculable depuis les seules données stockées ; un test croise les tenues (un parent ne voit pas le tableau d’un autre enfant).
 
@@ -91,7 +91,7 @@ Recommandation : **option A**. Règles associées : logo en SVG ou PNG ≤ 500 K
 
 ### 3.5 Gestion multi-rôles
 
-**Choix structurel recommandé** : les mineurs **n’ont pas de compte**. Les comptes appartiennent aux adultes (éducateurs, administrateurs, parents) ; les joueurs sont des **entités de données** rattachées à leurs représentants légaux. C’est le choix le plus protecteur (moins de comptes = moins de surface d’attaque, moins de données) et le plus usuel dans ce type d’app — à valider (EN ATTENTE Q4).
+**Choix structurel recommandé** : les mineurs **n’ont pas de compte**. Les comptes appartiennent aux adultes (éducateurs, administrateurs, parents) ; les joueurs sont des **entités de données** rattachées à leurs représentants légaux. C’est le choix le plus protecteur (moins de comptes = moins de surface d’attaque, moins de données) et le plus usuel dans ce type d’app — **validé par l’user le 2026-11-23 (Q4 tranchée : reco confirmée)**. Les parents ont un accès lecture limité (calendrier, séances, présences, stats, digests), sans messagerie.
 
 | Rôle | Qui | Ce qu’il fait |
 | --- | --- | --- |
@@ -125,7 +125,7 @@ Recommandation : **option A**. Règles associées : logo en SVG ou PNG ≤ 500 K
 ### 3.6 Digests de fiches-conseil
 
 - **Contenu** : une sélection de fiches du catalogue V1 (172 fiches, 163 visibles) par catégorie et par période, tirée des tags (17 compétences × 9 formes de jeu) et des fiches conseil (`coach-cues.json`, 20 fiches).
-- **Règle de curation — EN ATTENTE** : (a) l’éducateur compose manuellement le digest de son équipe (recommandé en premier : simple, pédagogique, zéro algorithme) ; (b) une suggestion automatique par tags + saison ; (c) les deux (suggestion + ajustement). La règle sera tranchée par l’utilisateur.
+- **Règle de curation — EN ATTENTE** (Q6, seule question restée ouverte après l’arbitrage user du 2026-11-23) : (a) l’éducateur compose manuellement le digest de son équipe (recommandé en premier : simple, pédagogique, zéro algorithme) ; (b) une suggestion automatique par tags + saison ; (c) les deux (suggestion + ajustement). Explication fournie à l’user, retour (a)/(b)/(c) attendu.
 - **Circuit** : proposition (éducateur) → approbation (admin) → consultation (parents + éducateurs de la catégorie). Le digest est **immuable une fois publié** (même principe D1 que les propositions V1) ; sa source = identifiants de fiches V1 (pas de copie du texte).
 - **Support** : page dans l’app + PDF (réutilise le pipeline `web/lib/pdf.ts`).
 - **Acceptation** : un digest publié est lisible par les parents de la catégorie ; un digest ne peut référencer que des fiches `default_visible` (test) ; le PDF reprend les fiches sélectionnées.
@@ -150,7 +150,7 @@ Recommandation : **option A**. Règles associées : logo en SVG ou PNG ≤ 500 K
 | Donnée | Concerné | Sensibilité | Base légale recommandée |
 | --- | --- | --- | --- |
 | Nom, prénom, date de naissance du joueur | Mineur | Données personnelles d’un enfant (< 13 ans) | Consentement du représentant légal (formulaire) + intérêt légitime du club pour l’organisation |
-| Numéro de licence FFR | Mineur | Donnée tierce (la FFR est le responsable de la donnée licence) | Le club la reçoit pour organiser les plateaux ; elle n’est pas réutilisée ailleurs ; origine : liste fournie par le club (source à confirmer — EN ATTENTE Q7) |
+| Numéro de licence FFR | Mineur | Donnée tierce (la FFR est le responsable de la donnée licence) | Le club la reçoit pour organiser les plateaux ; elle n’est pas réutilisée ailleurs ; origine : liste fournie par le club. **Q7 tranchée par l’user le 2026-11-23 : affichage seulement, pas de stockage en v2** |
 | Coordonnées du parent (compte) | Adulte | Personnelles | Consentement (compte) |
 | Présences (date + statut) | Mineur | **Localisation d’un mineur** — minimisation stricte : date + statut seulement, pas d’heure de passage, pas de lieu, jamais de géolocalisation | Intérêt légitime (sécurité, matériel, effectifs de plateau) |
 | Statistiques | Mineur | Données **dérivées** d’une personne — mêmes règles que la donnée source | Idem ; agrégat à la volée, rien de stocké |
@@ -161,7 +161,7 @@ Recommandation : **option A**. Règles associées : logo en SVG ou PNG ≤ 500 K
 
 - Les joueurs (U6–U12) ont moins de 13 ans : le consentement de tout service en ligne leur concernant passe par le **représentant légal** (le RGPD permet aux États de fixer un âge entre 13 et 16 ans ; en France il est fixé à **15 ans** — à re-vérifier à l’implémentation). Un formulaire papier ou en ligne signé par le parent est donc le socle, indépendamment de la question de l’âge du compte.
 - Bases légales : **consentement parental** pour l’inscription et le traitement des données de l’enfant ; **intérêt légitime** pour l’organisation (présences, calendrier) avec pondération documentée. Le consentement doit être libre, spécifique, informé et **retraitable** — le retrait des parents doit être possible sans autre traitement que la cessation (et l’effacement après la fin d’adhésion + durée de conservation).
-- Droits (accès, rectification, effacement, portabilité, opposition) exercés **par le parent** en tant que représentant légal. Durée de conservation : fin d’adhésion de l’enfant + **EN ATTENTE** (période, recommandée : 1 an, sauf données de licence transmises à la FFR qui suivent leurs propres règles).
+- Droits (accès, rectification, effacement, portabilité, opposition) exercés **par le parent** en tant que représentant légal. Durée de conservation : fin d’adhésion de l’enfant + **1 an** (Q3 tranchée par l’user le 2026-11-23 : reco confirmée), sauf données de licence transmises à la FFR qui suivent leurs propres règles.
 - **DPIA** : le traitement à petite échelle d’un club ne l’exige probablement pas, mais il est **recommandé** (enfants + profilage exclu + conservation limitée) — le faire avant le lot 0.
 - **Sous-traitance** : le club est responsable de traitement ; le développeur hébergeant le service est **sous-traitant** (article 28) → un contrat (DPA) et une information des parents en sont la conséquence. L’hébergement doit rester **dans l’UE** ; hors UE = mécanismes de transfert à formaliser.
 
@@ -171,7 +171,7 @@ Recommandation : **option A**. Règles associées : logo en SVG ou PNG ≤ 500 K
 - Conséquences minimales : TLS obligatoire devant le serveur ; **sauvegardes** périodiques (la base applicative contient des données de mineurs) ; procédure d’**incident 72 h** (notification — articles 33/34 : le responsable, ici le club, doit pouvoir être notifié rapidement) ; **registre des traitements** minimal.
 - À ce stade la base applicative de production est vide (0 compte) : la base de la v2 partira de zéro, sans migration de données existantes.
 
-**EN ATTENTE Q3** : base légale (consentement + intérêt légitime comme ci-dessus ?), durée de conservation, qui peut voir les présences (parents limités à leurs enfants — recommandé — ou aussi les éducateurs de toute l’équipe ?).
+**Q3 tranchée par l’user le 2026-11-23 (reco confirmée)** : base légale = consentement parental + intérêt légitime comme ci-dessus ; durée de conservation = fin d’adhésion + 1 an ; visibilité = parents limités à leurs enfants, éducateurs limités à leur équipe ; formulaire de consentement à faire valider par le club.
 
 ## 5. Architecture
 
@@ -185,7 +185,7 @@ Trois chemins :
 | B. Nouvelle application | Nouveau repo, nouvelle auth | Double maintenance d’une auth et d’un front ; la V1 est déjà un bon socle — perte de temps pure |
 | C. App compagnonne | Deux apps, partage d’identifiants | Deux déploiements, deux surfaces d’attaque pour des données qui se croisent (séances ↔ présences) ; le découpage n’apporte rien à cette échelle |
 
-**EN ATTENTE Q1** concerne la cible (un club vs produit multi-clubs) : l’option A fonctionne pour les deux — le multi-clubs n’est qu’une table `clubs` de plus ; seule la politique d’ouverture change.
+**Q1 tranchée par l’user le 2026-11-23 (reco adoptée)** : cible = pilote d’un club, architecture multi-clubs dès le lot 1. L’option A correspond — le multi-clubs n’est qu’une table `clubs` de plus ; seule la politique d’ouverture change.
 
 ### 5.2 Modèle de données cible (schéma conceptuel)
 
@@ -245,11 +245,11 @@ Les points 1-4 sont des **gabarits d’infrastructure**, pas du code v2 : ils en
 
 | Option | Description | Avantages | Inconvénients |
 | --- | --- | --- | --- |
-| **1. Ferme Swarm 6 nœuds (recommandée)** | Le service Python + `web/out` en conteneur Docker, TLS par Traefik, domaine propre | Infra existante et maîtrisée (Swarm, Gitea, registry, CI), coût zéro, redondance sur 6 nœuds, TLS déjà en place | **Exposition publique** d’une app de mineurs à trancher (EN ATTENTE Q2) ; procédure d’incident et sauvegardes à documenter pour ce cas précis |
+| **1. Ferme Swarm 6 nœuds** | Le service Python + `web/out` en conteneur Docker, TLS par Traefik, domaine propre | Infra existante et maîtrisée (Swarm, Gitea, registry, CI), coût zéro, redondance sur 6 nœuds, TLS déjà en place | **Exclue par l’user le 2026-11-23** (Q2 tranchée : exposition publique validée mais **pas sur l’infra d’entreprise**) |
 | 2. Cloud UE (OVH/Scaleway/Hetzner) | VPS ou service managé dans l’UE, Caddy/Traefik pour le TLS | SLA, sauvegardes natives, « propre » contractuellement (DPA avec le fournisseur) | Coût récurrent (ordre de grandeur 10-30 €/mois — à vérifier) ; nouvelle infra à gérer ; DPA à signer |
 | 3. Local (machine de l’utilisateur) | Comme la V1, sur la machine locale | Le plus simple ; déjà en place | Indisponibilité dès que la machine dort (veille gérée mais non garantie 24/7) ; SPOF ; la procédure 72 h devient difficile ; pas de redondance |
 
-**Recommandation** : option 1 si l’exposition publique est validée par l’utilisateur (le domaine et le TLS y sont les plus simples) ; sinon option 3 pour un pilote fermé, et option 1/2 pour la mise en prod. L’arbitrage final est **EN ATTENTE Q2** (exposition) et **Q5** (choix d’option + DPA sous-traitance : qui signe, avec quel club).
+**Recommandation de l’agent (avant arbitrage)** : option 1 si l’exposition publique est validée (le domaine et le TLS y sont les plus simples) ; sinon option 3 pour un pilote fermé, et option 1/2 pour la mise en prod. **Arbitrage user 2026-11-23** : l’exposition publique est **validée**, mais **pas sur l’infra d’entreprise** — l’option 1 (ferme Swarm) est exclue. Le support public concret (option 2 cloud UE, autre hébergeur…) reste à trancher et est **reporté avec Q5** (« à mettre de côté pour l’instant ») ; en attendant, l’app tourne en local (option 3, état V1).
 
 ## 7. Roadmap
 
@@ -257,7 +257,7 @@ Lot 0 est bloquant (arbitrages + base juridique) ; les lots 1-5 sont ordonnés p
 
 | Lot | Contenu | Dépend de | Critères d’acceptation (vérifiables) | Risque |
 | --- | --- | --- | --- | --- |
-| **0. Arbitrages & base juridique** | Charter v2 validé ; DPIA recommandé fait ; formulaire de consentement parental rédigé ; mapping des données figé ; décision hébergement + domaine | — | Charter signé par l’utilisateur ; mapping + consentement relus ; décision d’hébergement écrite | Faible (du temps) |
+| **0. Arbitrages & base juridique** | Charter v2 validé ; DPIA recommandé fait ; formulaire de consentement parental rédigé ; mapping des données figé (hébergement : décision reportée — Q2/Q5) | — | Charter signé par l’utilisateur ; mapping + consentement relus (décision d’hébergement reportée) | Faible (du temps) |
 | **1. Multi-tenant + identité club** | Tables `clubs`, `saisons`, `membres`, `equipes`, `joueurs`, `parent_joueurs` ; theming option A ; écran d’administration (clubs, affiliations) | Lot 0 | Un club de test avec 3 catégories (U6/U8/U10) ; 5 rôles créés ; thème appliqué (capture) ; **tests de scoping** (aucune fuite entre clubs) ; 100 % des tests | Moyen |
 | **2. Calendrier + enregistrement des séances** | Vue calendrier (séances + plateaux) ; enregistrement = séance immuable + contexte club ; reprise avec `source_seance_id` ; versionning des brouillons ; vue parent | Lot 1 | Parcours complet « l’éducateur crée → le parent voit (PDF) » ; la reprise produit une séance liée à l’origine (test) ; l’historique conserve N versions (test) ; immutabilité (test) | Moyen |
 | **3. Présences** | Pointage par l’éducateur ; statuts PRESENT/ABSENT/EXCUSE/INCONNU ; conservation ; vue parents ; `EXCUSE` par le parent | Lot 1 | Taux de présence calculable depuis les seules données stockées ; pas de donnée de localisation/horaire (test sur le schéma) ; scoping parent (test) | Moyen-haut (RGPD) |
@@ -269,19 +269,19 @@ Lot 0 est bloquant (arbitrages + base juridique) ; les lots 1-5 sont ordonnés p
 
 **Risque principal global** : le périmètre. SportEasy fait beaucoup ; la v2 se borne à 7 modules + durcissement. Toute fonction ajoutée (ex. « juste un chat ») réactive le RGPD (données de mineurs) et la roadmap : **chaque ajout passe par le présent document + validation utilisateur**.
 
-## 8. Questions ouvertes (EN ATTENTE)
+## 8. Questions ouvertes — statuts
 
-Numérotées pour le journal du checkpoint. Aucune ne peut être tranchée par l’agent ; elles bloquent les lots indiqués.
+Numérotées pour le journal du checkpoint. Aucune ne peut être tranchée par l’agent ; elles bloquent les lots indiqués. **Mise à jour 2026-11-23** : l’user a tranché Q1, Q2, Q3, Q4, Q7 et reporté Q5 (colonne « Décision user ») ; **Q6 reste EN ATTENTE** (explication fournie, retour attendu).
 
-| N° | Question | Bloque | Recommandation de l’agent |
-| --- | --- | --- | --- |
-| Q1 | **Cible de la v2** : le club de l’utilisateur (pilote unique) ou un produit multi-clubs dès le départ ? | Lot 0 (périmètre commercial, RGPD à l’échelle) | Pilote un club, architecture multi-clubs dès le lot 1 (le surcoût est faible — une table `clubs`) |
-| Q2 | **Exposition publique** : l’app est-elle accessible sur Internet (domaine, TLS) ou en réseau privé ? | Lot 0/6 (hébergement, sécurité, incident 72 h) | Oui, publique via la ferme Swarm (option 1) — sinon pilote local fermé |
-| Q3 | **Posture RGPD** : bases légales (consentement parental + intérêt légitime ?), durée de conservation des présences (recommandée : fin d’adhésion + 1 an), qui voit les présences (recommandé : les parents limités à leurs enfants, l’éducateur à son équipe) | Lots 0, 3, 4 | Comme recommandé ; formulaire de consentement à faire valider par le club |
-| Q4 | **Comptes des enfants** : confirme-t-on que les mineurs n’ont pas de compte (recommandation) et que les parents ont un accès lecture limité (calendrier, séances, présences, stats, digests) sans messagerie ? | Lots 1, 3, 4 | Oui, comme spécifié § 3.5 |
-| Q5 | **Hébergement** : ferme Swarm (recommandée) / cloud UE / local ? Et **DPA sous-traitance** : le club est-il responsable de traitement et l’agent sous-traitant — le document sera-t-il signé ? | Lot 0/6 | Ferme Swarm + DPA formel ; à défaut, cloud UE |
-| Q6 | **Règle de curation des digests** : composition manuelle par l’éducateur (recommandée en premier), suggestion automatique par tags, ou les deux ? | Lot 5 | Manuel d’abord, automatique ensuite |
-| Q7 | **Données de licence FFR** : quelle est la source de vérité (liste fournie par le club ? import ?) et le numéro de licence sera-t-il stocké en v2 ou seulement à l’écran ? | Lot 3 | Pas de stockage en v2 (affichage uniquement) — minimisation |
+| N° | Question | Bloque | Recommandation de l’agent | Décision user (2026-11-23) |
+| --- | --- | --- | --- | --- |
+| Q1 | **Cible de la v2** : le club de l’utilisateur (pilote unique) ou un produit multi-clubs dès le départ ? | Lot 0 (périmètre commercial, RGPD à l’échelle) | Pilote un club, architecture multi-clubs dès le lot 1 (le surcoût est faible — une table `clubs`) | **Tranchée — reco adoptée** : pilote un club, architecture multi-clubs dès le lot 1 |
+| Q2 | **Exposition publique** : l’app est-elle accessible sur Internet (domaine, TLS) ou en réseau privé ? | Lot 0/6 (hébergement, sécurité, incident 72 h) | Oui, publique via la ferme Swarm (option 1) — sinon pilote local fermé | **Tranchée — reco modifiée** : exposition publique **oui, mais PAS sur l’infra d’entreprise** (la ferme Swarm est exclue) ; le support public concret reste à trancher, lié à Q5 |
+| Q3 | **Posture RGPD** : bases légales (consentement parental + intérêt légitime ?), durée de conservation des présences (recommandée : fin d’adhésion + 1 an), qui voit les présences (recommandé : les parents limités à leurs enfants, l’éducateur à son équipe) | Lots 0, 3, 4 | Comme recommandé ; formulaire de consentement à faire valider par le club | **Tranchée — reco confirmée** |
+| Q4 | **Comptes des enfants** : confirme-t-on que les mineurs n’ont pas de compte (recommandation) et que les parents ont un accès lecture limité (calendrier, séances, présences, stats, digests) sans messagerie ? | Lots 1, 3, 4 | Oui, comme spécifié § 3.5 | **Tranchée — reco confirmée** : pas de compte mineurs ; lecture parent limitée, sans messagerie |
+| Q5 | **Hébergement** : ferme Swarm (recommandée) / cloud UE / local ? Et **DPA sous-traitance** : le club est-il responsable de traitement et l’agent sous-traitant — le document sera-t-il signé ? | Lot 0/6 | Ferme Swarm + DPA formel ; à défaut, cloud UE | **Reportée** (« à mettre de côté pour l’instant ») : hébergement + DPA, y compris le choix du support public consécutif à Q2 |
+| Q6 | **Règle de curation des digests** : composition manuelle par l’éducateur (recommandée en premier), suggestion automatique par tags, ou les deux ? | Lot 5 | Manuel d’abord, automatique ensuite | **EN ATTENTE** — l’user a demandé une explication ; options : (a) manuel, (b) auto par tags+saison, (c) les deux (reco : (a) d’abord) ; retour attendu |
+| Q7 | **Données de licence FFR** : quelle est la source de vérité (liste fournie par le club ? import ?) et le numéro de licence sera-t-il stocké en v2 ou seulement à l’écran ? | Lot 3 | Pas de stockage en v2 (affichage uniquement) — minimisation | **Tranchée — reco confirmée** : pas de stockage du n° licence FFR en v2, affichage seulement |
 
 ## 9. Références
 
