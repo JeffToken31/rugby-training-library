@@ -270,6 +270,43 @@ function filenameFrom(titre: string): string {
 // --- Génération : on rend le DOM hors écran, on le capture, on le découpe en
 // pages A4, on produit un vrai File. ---
 
+// Aperçu (v1.1 L1) : les pages de la fiche, en images, exactement telles
+// qu'elles seront partagées — même DOM (buildSheet), même capture
+// (html2canvas, scale 2), même découpage (sliceA4) que generateSessionPdf.
+// L'aperçu est la pièce elle-même : rien n'est ajouté ni retiré pour l'écran.
+export async function renderSheetPages(
+  p: Proposition,
+  moi: Moi,
+  fiches: Record<string, Fiche>,
+  conseils: ConseilCoach[] = []
+): Promise<{ pages: { data: string; hPx: number }[]; pageH: number }> {
+  // Import dynamique : la lib (lourde) ne se charge qu'ici, jamais côté
+  // serveur (composant client).
+  const h2c = await import("html2canvas");
+  const html2canvas = h2c.default;
+
+  const holder = document.createElement("div");
+  holder.className = "pdf-holder";
+  const sheet = buildSheet(p, moi, fiches, conseils);
+  holder.appendChild(sheet);
+  document.body.appendChild(holder);
+  try {
+    // Un frame pour laisser le navigateur disposer le contenu hors écran.
+    await new Promise((r) => requestAnimationFrame(() => r(null)));
+    const canvas = await html2canvas(sheet, {
+      scale: 2,
+      backgroundColor: "#ffffff",
+      logging: false,
+    });
+    return {
+      pages: sliceA4(canvas),
+      pageH: Math.round((canvas.width * 297) / 210),
+    };
+  } finally {
+    holder.remove();
+  }
+}
+
 // Découpe d'un canvas (ratio A4) en tranches de la hauteur d'une page A4.
 function sliceA4(canvas: HTMLCanvasElement): { data: string; hPx: number }[] {
   const pageH = Math.round((canvas.width * 297) / 210); // px de hauteur d'une page A4
@@ -297,40 +334,22 @@ export async function generateSessionPdf(
   fiches: Record<string, Fiche>,
   conseils: ConseilCoach[] = []
 ): Promise<File> {
-  // Imports dynamiques : les deux libs (lourdes) ne se chargent qu'au moment
-  // du partage, et jamais côté serveur (composant client).
+  // Import dynamique : la lib (lourde) ne se charge qu'au moment du
+  // partage, et jamais côté serveur (composant client).
   const { jsPDF } = await import("jspdf");
-  const h2c = await import("html2canvas");
-  const html2canvas = h2c.default;
-
-  const holder = document.createElement("div");
-  holder.className = "pdf-holder";
-  const sheet = buildSheet(p, moi, fiches, conseils);
-  holder.appendChild(sheet);
-  document.body.appendChild(holder);
-  try {
-    // Un frame pour laisser le navigateur disposer le contenu hors écran.
-    await new Promise((r) => requestAnimationFrame(() => r(null)));
-    const canvas = await html2canvas(sheet, {
-      scale: 2,
-      backgroundColor: "#ffffff",
-      logging: false,
-    });
-    const pages = sliceA4(canvas);
-    const pdf = new jsPDF({ unit: "mm", format: "a4", orientation: "portrait" });
-    const pageH = Math.round((canvas.width * 297) / 210);
-    pages.forEach((pg, i) => {
-      const hMm = (pg.hPx / pageH) * 297;
-      if (i > 0) pdf.addPage();
-      pdf.addImage(pg.data, "JPEG", 0, 0, 210, hMm);
-    });
-    const blob = pdf.output("blob");
-    return new File([blob], filenameFrom(p.titre || p.plan.title), {
-      type: "application/pdf",
-    });
-  } finally {
-    holder.remove();
-  }
+  // Une seule voie de rasterisation : aperçu et pièce partagée sont le
+  // même rendu (v1.1 L1).
+  const { pages, pageH } = await renderSheetPages(p, moi, fiches, conseils);
+  const pdf = new jsPDF({ unit: "mm", format: "a4", orientation: "portrait" });
+  pages.forEach((pg, i) => {
+    const hMm = (pg.hPx / pageH) * 297;
+    if (i > 0) pdf.addPage();
+    pdf.addImage(pg.data, "JPEG", 0, 0, 210, hMm);
+  });
+  const blob = pdf.output("blob");
+  return new File([blob], filenameFrom(p.titre || p.plan.title), {
+    type: "application/pdf",
+  });
 }
 
 // Le partage lui-même (fichier → texte → téléchargement + lien WhatsApp)

@@ -52,7 +52,11 @@ import type {
   Proposition,
   PropositionRef,
 } from "../lib/auth";
-import { atelierIdsDuPlan, generateSessionPdf } from "../lib/pdf";
+import {
+  atelierIdsDuPlan,
+  generateSessionPdf,
+  renderSheetPages,
+} from "../lib/pdf";
 import {
   lienWhatsApp,
   partagerPieceJointe,
@@ -136,6 +140,14 @@ export default function SessionBuilder({
   // (téléchargement de secours, envoi réussi, erreur).
   const [pdfBusy, setPdfBusy] = useState<number | null>(null);
   const [pdfMsg, setPdfMsg] = useState<string | null>(null);
+  // Aperçu du PDF (v1.1 L1) : proposition + matière chargée + pages rendues.
+  const [pdfPreview, setPdfPreview] = useState<{
+    p: PropositionRef;
+    prop: Proposition;
+    fiches: Record<string, Fiche>;
+    conseils: ConseilCoach[];
+    pages: { data: string; hPx: number }[];
+  } | null>(null);
   // Lien WhatsApp avec le récap, offert quand le partage a besoin d'un
   // complément (récap partagé seul, PDF téléchargé à joindre à la main).
   const [waHref, setWaHref] = useState<string | null>(null);
@@ -641,13 +653,10 @@ export default function SessionBuilder({
   // génère le PDF côté client (html2canvas + jsPDF), puis on ouvre la feuille
   // de partage native. Un fichier absent (supprimé du catalogue) n'empêche
   // pas la génération : il est signalé dans le PDF (« Fiche non trouvée »).
-  const partagerEnPdf = async (p: PropositionRef) => {
-    if (!moi || pdfBusy !== null) return;
-    setPdfBusy(p.id);
-    setPdfMsg(null);
-    setWaHref(null);
-    try {
-      const prop = await chargerProposition(p.id);
+  // v1.1 L1 — l'aperçu et le partage partagent ce chargement : la matière
+  // (proposition + fiches + conseils) est chargée une seule fois.
+  const chargerMatiere = (id: number) =>
+    chargerProposition(id).then(async (prop) => {
       const ids = atelierIdsDuPlan(prop.plan);
       const fiches: Record<string, Fiche> = {};
       // Conseils coach (data/coach-cues.json via /api/conseils) : si
@@ -660,16 +669,32 @@ export default function SessionBuilder({
         conseils = [];
       }
       await Promise.all(
-        ids.map(async (id) => {
+        ids.map(async (idFiche) => {
           try {
-            fiches[id] = await fetchFiche(id);
+            fiches[idFiche] = await fetchFiche(idFiche);
           } catch {
             // fiche manquante → le PDF l'indique, on continue.
           }
         })
       );
-      const file = await generateSessionPdf(prop, moi, fiches, conseils);
-      const recap = recapTextePlan(prop, fiches);
+      return { prop, fiches, conseils };
+    });
+
+  type MatierePdf = {
+    prop: Proposition;
+    fiches: Record<string, Fiche>;
+    conseils: ConseilCoach[];
+  };
+
+  const partagerEnPdf = async (p: PropositionRef, matiere?: MatierePdf) => {
+    if (!moi || pdfBusy !== null) return;
+    setPdfBusy(p.id);
+    setPdfMsg(null);
+    setWaHref(null);
+    try {
+      const m = matiere ?? (await chargerMatiere(p.id));
+      const file = await generateSessionPdf(m.prop, moi, m.fiches, m.conseils);
+      const recap = recapTextePlan(m.prop, m.fiches);
       const mode = await partagerPieceJointe(file, recap);
       if (mode === "shared") {
         setPdfMsg("PDF envoyé via la feuille de partage (récap joint).");
@@ -689,6 +714,26 @@ export default function SessionBuilder({
     } catch (e) {
       setPdfMsg(
         "Échec de la génération du PDF : " +
+          (e instanceof Error ? e.message : "erreur inconnue.")
+      );
+    } finally {
+      setPdfBusy(null);
+    }
+  };
+
+  // v1.1 L1 — aperçu WYSIWYG : on affiche les pages réelles de la pièce qui
+  // sera partagée (renderSheetPages = la voie de rasterisation unique du
+  // PDF). L'aperçu ne contient ni plus, ni moins, que le PDF.
+  const previsualiserPdf = async (p: PropositionRef) => {
+    if (!moi || pdfBusy !== null) return;
+    setPdfBusy(p.id);
+    try {
+      const m = await chargerMatiere(p.id);
+      const { pages } = await renderSheetPages(m.prop, moi, m.fiches, m.conseils);
+      setPdfPreview({ p, ...m, pages });
+    } catch (e) {
+      setPdfMsg(
+        "Échec de l'aperçu du PDF : " +
           (e instanceof Error ? e.message : "erreur inconnue.")
       );
     } finally {
@@ -1335,6 +1380,12 @@ export default function SessionBuilder({
                     {p.valide && (
                       <span className="compte-ligne-actions">
                         <button
+                          onClick={() => void previsualiserPdf(p)}
+                          disabled={pdfBusy === p.id || compteBusy}
+                        >
+                          Aperçu
+                        </button>
+                        <button
                           onClick={() => void partagerEnPdf(p)}
                           disabled={pdfBusy === p.id || compteBusy}
                         >
@@ -1408,6 +1459,61 @@ export default function SessionBuilder({
             <div className="sheet-footer">
               <button className="reset-btn" onClick={() => setPicker(null)}>
                 Fermer
+              </button>
+            </div>
+          </div>
+        </>
+      )}
+      {pdfPreview && (
+        <>
+          <div
+            className="sheet-backdrop"
+            onClick={() => {
+              if (pdfBusy === null) setPdfPreview(null);
+            }}
+          />
+          <div
+            className="sheet pdf-preview"
+            role="dialog"
+            aria-modal="true"
+            aria-label="Aperçu de la fiche PDF"
+          >
+            <div className="sheet-handle" aria-hidden="true" />
+            <h2>Aperçu — fiche PDF</h2>
+            <p className="pdf-preview-note">
+              Ce que vous voyez est exactement la pièce qui sera partagée
+              ({pdfPreview.pages.length} page
+              {pdfPreview.pages.length > 1 ? "s" : ""}), sans les noms de
+              joueurs.
+            </p>
+            <div className="pdf-preview-pages">
+              {pdfPreview.pages.map((pg, i) => (
+                <img
+                  key={i}
+                  className="pdf-preview-page"
+                  src={pg.data}
+                  alt={`Page ${i + 1} de la fiche PDF`}
+                />
+              ))}
+            </div>
+            <div className="sheet-footer">
+              <button className="reset-btn" onClick={() => setPdfPreview(null)}>
+                Fermer
+              </button>
+              <button
+                className="apply-btn"
+                onClick={() => {
+                  const m: MatierePdf = {
+                    prop: pdfPreview.prop,
+                    fiches: pdfPreview.fiches,
+                    conseils: pdfPreview.conseils,
+                  };
+                  const ref = pdfPreview.p;
+                  setPdfPreview(null);
+                  void partagerEnPdf(ref, m);
+                }}
+              >
+                Partager en PDF
               </button>
             </div>
           </div>
