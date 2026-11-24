@@ -20,6 +20,8 @@ Pour un créneau de 90 minutes, la trame vise **environ 50 minutes d’oppositio
 
 La marge absorbe les retards, l’installation, les consignes, les démonstrations, les transitions, les regroupements, l’hydratation et les imprévus. La trame est indicative et modifiable. Échauffement, jeu, pause ou transition peuvent faire partie de la séance selon les besoins. Voir le [parcours et le calcul du temps](INTERFACE_SEANCES.md).
 
+Une équipe enregistrée peut lister ses joueurs (prénom + nom, un par ligne ; les doublons insensibles à la casse sont retirés, la première occurrence gagne). Attacher l’équipe à une séance **copie** ses joueurs dans les groupes déjà présents dans le plan : le nombre de groupes ne change jamais, les joueurs nommés sont répartis tour par tour (joueur i → groupe i mod k) et chaque nom affiché dans un groupe peut être retiré. Si l’équipe ne donne qu’un effectif, celui-ci est réparti sur les groupes (base + reste aux groupes en premier, 13 sur 2 donne 7 + 6). La séance garde sa copie : retirer un joueur d’un groupe ne modifie pas l’équipe, qui reste la source enregistrée. Quand les joueurs nommés et l’effectif déclaré divergent, le constructeur le signale et propose de repartir sur l’effectif déclaré.
+
 ## Sauvegarder, réutiliser et partager
 
 - Une authentification simple des éducateurs fait partie de la V1 : elle permet d’identifier l’auteur, de conserver ses brouillons et de rattacher ses propositions à son compte.

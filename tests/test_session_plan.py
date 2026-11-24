@@ -182,5 +182,28 @@ class FlottantsEtMalformeTests(unittest.TestCase):
             session_plan.validate(p, CATALOGUE)
 
 
+class JoueursDansLesGroupesTests(unittest.TestCase):
+    """Lot L3 (v1.1, 2026-11-24) : les groupes portent le snapshot des
+    joueurs nommés (`joueurs`, copies de l'équipe attachée) ; les validateurs
+    ignorent ce champ — seuls `id` et `players` comptent. Preuve : un plan
+    dont les groupes ont des noms valide identiquement au même plan sans."""
+
+    def test_snapshot_de_joueurs_ignoré_par_la_validation(self):
+        p0 = plan()
+        p1 = plan()
+        p1["groups"][0]["joueurs"] = ["Léa Martin", "Noah Dupont", "Iris Petit",
+                                       "Sam Laurent", "Maya Roy", "Zoé Blanc", "Tom Noël"]
+        p1["groups"][1]["joueurs"] = []
+        self.assertEqual(session_plan.validate(p1, CATALOGUE), session_plan.validate(p0, CATALOGUE))
+        self.assertEqual(session_plan.validate(p1, CATALOGUE), [])
+
+    def test_noms_nul_ou_absents_meme_chose(self):
+        p0 = plan()
+        p1 = plan()
+        for g in p1["groups"]:
+            g["joueurs"] = None
+        self.assertEqual(session_plan.validate(p1, CATALOGUE), session_plan.validate(p0, CATALOGUE))
+
+
 if __name__ == "__main__":
     unittest.main()

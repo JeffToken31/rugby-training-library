@@ -391,5 +391,123 @@ class SchemaTests(EquipesTestBase):
             self.assertEqual(store.list_equipes(1), [])
 
 
+class JoueursTests(EquipesTestBase):
+    """Lot L3 (v1.1, 2026-11-24) : liste de joueurs sur l'équipe — prénom +
+    nom, trim + espaces internes pliés, dédoublonnage insensible à la casse
+    (la première occurrence gagne) ; PUT sans `joueurs` → vide (mise à
+    jour complète)."""
+
+    def test_creation_joueurs_echo_normalises(self):
+        token = self._inscrire()
+        code, eq, _ = call_json(
+            "/api/equipes", "POST",
+            data={"nom": "U8",
+                  "joueurs": [" Léa  Martin ", "léa martin", "Noah Dupont"]},
+            cookie=token,
+        )
+        self.assertEqual(code, 201, eq)
+        self.assertEqual(eq["joueurs"], ["Léa Martin", "Noah Dupont"])
+
+    def test_creation_sans_joueurs_vide(self):
+        token = self._inscrire()
+        code, eq, _ = call_json("/api/equipes", "POST", data={"nom": "U8"}, cookie=token)
+        self.assertEqual(code, 201)
+        self.assertEqual(eq["joueurs"], [])
+        code, recu, _ = call_json(f"/api/equipes/{eq['id']}", cookie=token)
+        self.assertEqual(code, 200)
+        self.assertEqual(recu["joueurs"], [])
+
+    def test_creation_joueurs_non_liste_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={"nom": "U8", "joueurs": "Léa Martin"}, cookie=token,
+        )
+        self.assertEqual(code, 400)
+
+    def test_creation_joueurs_element_invalide_400(self):
+        token = self._inscrire()
+        for joueurs in ([42], [None], ["A"], ["Léa " + "x" * 80]):
+            code, body, _ = call_json(
+                "/api/equipes", "POST",
+                data={"nom": "U8", "joueurs": joueurs}, cookie=token,
+            )
+            self.assertEqual(code, 400, joueurs)
+
+    def test_put_sans_joueurs_remis_vide(self):
+        token = self._inscrire()
+        code, eq, _ = call_json(
+            "/api/equipes", "POST",
+            data={"nom": "U8", "joueurs": ["Noah Dupont"]}, cookie=token,
+        )
+        self.assertEqual(code, 201)
+        self.assertEqual(eq["joueurs"], ["Noah Dupont"])
+        code, eq2, _ = call_json(
+            f"/api/equipes/{eq['id']}", "PUT",
+            data={"nom": "U8"}, cookie=token,
+        )
+        self.assertEqual(code, 200, eq2)
+        self.assertEqual(eq2["joueurs"], [])
+
+    def test_put_joueurs_invalide_400(self):
+        token = self._inscrire()
+        code, eq, _ = call_json("/api/equipes", "POST", data={"nom": "U8"}, cookie=token)
+        self.assertEqual(code, 201)
+        code, body, _ = call_json(
+            f"/api/equipes/{eq['id']}", "PUT",
+            data={"nom": "U8", "joueurs": ["A"]}, cookie=token,
+        )
+        self.assertEqual(code, 400)
+
+
+class MigrationJoueursTests(EquipesTestBase):
+    """Sur une base créée avant le lot L3 (table `equipes` sans
+    `joueurs_json`), la première ouverture ajoute la colonne sans perte de
+    données (migration idempotente, `app_store._migrate_equipes`)."""
+
+    def test_base_existante_ajout_colonne_sans_perte(self):
+        conn = sqlite3.connect(self.db_path)
+        conn.executescript(
+            "CREATE TABLE comptes ("
+            " id INTEGER PRIMARY KEY AUTOINCREMENT,"
+            " login TEXT NOT NULL UNIQUE,"
+            " salt_hex TEXT NOT NULL,"
+            " pw_hash_hex TEXT NOT NULL,"
+            " created_at TEXT NOT NULL,"
+            " club TEXT,"
+            " categorie TEXT);"
+            "CREATE TABLE equipes ("
+            " id TEXT NOT NULL,"
+            " compte_id INTEGER NOT NULL,"
+            " nom TEXT NOT NULL,"
+            " club TEXT,"
+            " categorie TEXT,"
+            " effectif INTEGER,"
+            " coachs_json TEXT NOT NULL DEFAULT '[]',"
+            " saved_at TEXT NOT NULL,"
+            " PRIMARY KEY (compte_id, id));"
+        )
+        conn.execute(
+            "INSERT INTO comptes (login, salt_hex, pw_hash_hex, created_at, club, categorie)"
+            " VALUES ('coach.existant', 'aa', 'bb', '2026-01-01T00:00:00Z', 'RC Test', 'U8')"
+        )
+        conn.execute(
+            "INSERT INTO equipes (id, compte_id, nom, club, categorie, effectif, coachs_json, saved_at)"
+            " VALUES ('u8', 1, 'U8', 'RC Test', 'U8', 14, '[\"coach.b\"]', '2026-01-01T00:00:00Z')"
+        )
+        conn.commit()
+        conn.close()
+        with app_store.AppStore(self.db_path) as store:
+            colonnes = {row[1] for row in store.conn.execute("PRAGMA table_info(equipes)")}
+            self.assertIn("joueurs_json", colonnes)
+            eq = store.get_equipe(1, "u8")
+            self.assertEqual(eq["nom"], "U8")
+            self.assertEqual(eq["coachs"], ["coach.b"])
+            self.assertEqual(eq["joueurs"], [])
+        # Seconde ouverture : rien de cassé (idempotence).
+        with app_store.AppStore(self.db_path) as store:
+            self.assertEqual(store.list_equipes(1)[0]["joueurs"], [])
+
+
 if __name__ == "__main__":
     unittest.main()

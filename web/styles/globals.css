@@ -862,6 +862,47 @@ input {
   margin-top: 10px;
 }
 
+/* Joueurs nommés d'un groupe (lot L3, v1.1) : chips réutilisables du
+   pattern « affectation » ; le total du groupe dérive des noms. */
+.group-joueurs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.group-joueurs .assigned-chip {
+  min-height: 34px;
+  padding: 0 12px;
+  font-size: 13px;
+}
+
+.num-input:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+/* Bannière de divergence nommés/déclarés (lot L3, v1.1) : les deux valeurs
+   coexistent dans la séance ; la validation compte les `players`. */
+.divergence-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  padding: 10px 12px;
+  border: 1px solid var(--badge-amber-t);
+  border-radius: var(--radius);
+  background: var(--badge-amber-b);
+  color: var(--badge-amber-t);
+  font-size: 14px;
+}
+
+.players-textarea {
+  min-height: 96px;
+  resize: vertical;
+}
+
 /* Équipe d'effectif + « coachs disponibles » (tranché 2026-11-22). */
 .select-input {
   width: 100%;

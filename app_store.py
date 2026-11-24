@@ -104,6 +104,7 @@ CREATE TABLE IF NOT EXISTS equipes (
     categorie TEXT,
     effectif INTEGER,
     coachs_json TEXT NOT NULL DEFAULT '[]',
+    joueurs_json TEXT NOT NULL DEFAULT '[]',
     saved_at TEXT NOT NULL,
     PRIMARY KEY (compte_id, id)
 );
@@ -159,6 +160,16 @@ def normalize_coach_name(nom) -> str:
     return nom
 
 
+def normalize_player_name(nom) -> str:
+    """Joueur d'une équipe enregistrée (lot L3, v1.1) : prénom + nom,
+    même forme que normalize_coach_name — texte, trim + espaces internes
+    ramenés à un seul, 2 à 80 caractères. RGPD v1.1 : rien d'autre n'est
+    collecté (le formulaire n'a pas d'autre champ joueur). Lève ValueError
+    sinon.
+    """
+    return normalize_coach_name(nom)
+
+
 def password_ok(password) -> bool:
     return isinstance(password, str) and MIN_PASSWORD <= len(password) <= MAX_PASSWORD
 
@@ -198,6 +209,7 @@ class AppStore:
         self.conn = sqlite3.connect(self.db_path)
         self.conn.executescript(_SCHEMA)
         self._migrate_comptes()
+        self._migrate_equipes()
         self._session_key = self._load_session_key()
 
     # -------------------------------------------------------------- cycle
@@ -223,6 +235,19 @@ class AppStore:
             self.conn.execute("ALTER TABLE comptes ADD COLUMN club TEXT")
         if "categorie" not in colonnes:
             self.conn.execute("ALTER TABLE comptes ADD COLUMN categorie TEXT")
+
+    def _migrate_equipes(self) -> None:
+        """Migration idempotente (lot L3, v1.1) : ajoute `joueurs_json` sur
+        une base créée avant le lot ; sans effet sur une base neuve (la
+        colonne est déjà dans le schéma)."""
+        colonnes = {
+            row[1] for row in self.conn.execute("PRAGMA table_info(equipes)")
+        }
+        if "joueurs_json" not in colonnes:
+            self.conn.execute(
+                "ALTER TABLE equipes ADD COLUMN joueurs_json TEXT NOT NULL "
+                "DEFAULT '[]'"
+            )
 
     # ------------------------------------------------------ clé de session
     def _load_session_key(self) -> bytes:
@@ -541,12 +566,23 @@ class AppStore:
         categorie: str | None = None,
         effectif: int | None = None,
         coachs: list | None = None,
+        joueurs: list | None = None,
     ) -> dict:
         """Crée ou met à jour une équipe d'effectif du compte (tranché
         2026-11-22). Seul `nom` est obligatoire (1 à 80 caractères) ;
-        club, catégorie, effectif et coachs sont facultatifs (tailles
-        flexibles selon le club). PUT = mise à jour complète : un champ
-        absent est remis à absent. Lève ValueError si un champ est invalide.
+        club, catégorie, effectif, coachs et joueurs sont facultatifs
+        (tailles flexibles selon le club). PUT = mise à jour complète : un
+        champ absent est remis à absent. Lève ValueError si un champ est
+        invalide.
+
+        `joueurs` (lot L3, v1.1) : liste de joueurs de l'équipe — prénom +
+        nom chacun (RGPD v1.1 : prénom + nom, rien d'autre ; le formulaire
+        n'a pas d'autre champ joueur). Chaque élément est normalisé
+        (normalize_player_name) et dédoublonné insensiblement à la casse
+        (la casse préservée du premier écrit est conservée — c'est le nom
+        que le coach aura saisi, affiché tel quel dans les groupes).
+        La séance n'est PAS une référence vivante : l'attachement d'une
+        équipe copie ce snapshot dans les groupes (front, lot L3).
         """
         if not draft_id_ok(team_id):
             raise ValueError(
@@ -593,13 +629,36 @@ class AppStore:
                     )
             if c2 not in norm_coachs:
                 norm_coachs.append(c2)
+        if joueurs is None:
+            joueurs = []
+        if not isinstance(joueurs, list):
+            raise ValueError(
+                "Les joueurs doivent être une liste de « prénom + nom » "
+                "(ou champ absent)."
+            )
+        norm_joueurs = []
+        _joueurs_vus = set()
+        for j in joueurs:
+            try:
+                j2 = normalize_player_name(j)
+            except ValueError:
+                raise ValueError(
+                    "Nom de joueur invalide dans la liste des joueurs "
+                    "(prénom + nom, 2 à 80 caractères)."
+                )
+            cle = j2.casefold()
+            if cle in _joueurs_vus:
+                continue
+            _joueurs_vus.add(cle)
+            norm_joueurs.append(j2)
         now = _utcnow_iso()
         self.conn.execute(
             "INSERT INTO equipes (id, compte_id, nom, club, categorie, effectif, "
-            "coachs_json, saved_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?) "
+            "coachs_json, joueurs_json, saved_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) "
             "ON CONFLICT (compte_id, id) DO UPDATE SET nom = excluded.nom, "
             "club = excluded.club, categorie = excluded.categorie, "
             "effectif = excluded.effectif, coachs_json = excluded.coachs_json, "
+            "joueurs_json = excluded.joueurs_json, "
             "saved_at = excluded.saved_at",
             (
                 team_id,
@@ -609,6 +668,7 @@ class AppStore:
                 categorie,
                 effectif,
                 json.dumps(norm_coachs, ensure_ascii=False),
+                json.dumps(norm_joueurs, ensure_ascii=False),
                 now,
             ),
         )
@@ -620,13 +680,15 @@ class AppStore:
             "categorie": categorie,
             "effectif": effectif,
             "coachs": norm_coachs,
+            "joueurs": norm_joueurs,
             "saved_at": now,
         }
 
     def list_equipes(self, account_id: int):
         """Équipes du compte, plus récente en premier."""
         rows = self.conn.execute(
-            "SELECT id, nom, club, categorie, effectif, coachs_json, saved_at "
+            "SELECT id, nom, club, categorie, effectif, coachs_json, "
+            "joueurs_json, saved_at "
             "FROM equipes WHERE compte_id = ? ORDER BY saved_at DESC, id",
             (account_id,),
         ).fetchall()
@@ -634,7 +696,8 @@ class AppStore:
 
     def get_equipe(self, account_id: int, team_id: str):
         row = self.conn.execute(
-            "SELECT id, nom, club, categorie, effectif, coachs_json, saved_at "
+            "SELECT id, nom, club, categorie, effectif, coachs_json, "
+            "joueurs_json, saved_at "
             "FROM equipes WHERE compte_id = ? AND id = ?",
             (account_id, team_id),
         ).fetchone()
@@ -650,7 +713,8 @@ class AppStore:
 
 
 def _equipe_dict(row) -> dict:
-    """Ligne (id, nom, club, categorie, effectif, coachs_json, saved_at)."""
+    """Ligne (id, nom, club, categorie, effectif, coachs_json, joueurs_json,
+    saved_at)."""
     return {
         "id": row[0],
         "nom": row[1],
@@ -658,5 +722,6 @@ def _equipe_dict(row) -> dict:
         "categorie": row[3],
         "effectif": row[4],
         "coachs": json.loads(row[5]),
-        "saved_at": row[6],
+        "joueurs": json.loads(row[6]),
+        "saved_at": row[7],
     }

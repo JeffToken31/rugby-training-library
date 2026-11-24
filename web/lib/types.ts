@@ -218,6 +218,10 @@ export type BlockKind = "OPPOSITION" | "WORKSHOPS" | "JEU" | "WARMUP" | "PAUSE";
 export interface SessionGroup {
   id: string;
   players: number;
+  /** Noms (prénom + nom) copiés de l'équipe attachée, lot L3 — snapshot,
+   * jamais de référence vivante. Absent sur les séances sans noms ; les
+   * validateurs (Python/TS) ignorent ce champ, seuls `players` comptent. */
+  joueurs?: string[];
 }
 
 export interface SessionSlot {
@@ -253,6 +257,9 @@ export interface Equipe {
   categorie: string | null;
   effectif: number | null;
   coachs: string[];
+  /** Joueurs de l'équipe (prénom + nom, RGPD v1.1), lot L3 — listés dans
+   * l'ordre saisi, dédoublonnés par le serveur. */
+  joueurs: string[];
   saved_at: string;
 }
 

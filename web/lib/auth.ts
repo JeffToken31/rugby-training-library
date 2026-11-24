@@ -235,6 +235,8 @@ export interface CorpsEquipe {
   categorie?: string | null;
   effectif?: number | null;
   coachs?: string[];
+  /** Joueurs de l'équipe (prénom + nom), lot L3 — `undefined` ou liste. */
+  joueurs?: string[];
 }
 
 /** Crée une équipe (identifiant slug généré côté serveur si absent). */

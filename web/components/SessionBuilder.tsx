@@ -59,6 +59,11 @@ import {
   renderSheetPages,
 } from "../lib/pdf";
 import {
+  parserJoueurs,
+  repartirEffectif,
+  roundRobinJoueurs,
+} from "../lib/equipes";
+import {
   lienWhatsApp,
   partagerPieceJointe,
   recapTextePlan,
@@ -166,6 +171,8 @@ export default function SessionBuilder({
   const [formCat, setFormCat] = useState("");
   const [formEffectif, setFormEffectif] = useState("");
   const [formCoachs, setFormCoachs] = useState<string[]>([]);
+  // Joueurs de l'équipe (lot L3, v1.1) : « prénom + nom, un par ligne ».
+  const [formJoueurs, setFormJoueurs] = useState("");
   const [formBusy, setFormBusy] = useState(false);
   // Coachs sans compte (v1.1, 2026-11-24) : ajout par nom au club.
   const [coachNom, setCoachNom] = useState("");
@@ -378,6 +385,11 @@ export default function SessionBuilder({
   // Équipe d'effectif : attachée à la séance comme snapshot (D1) — la séance
   // conserve son instantané ; les éditions ultérieures de l'équipe ne la
   // modifient pas.
+  // Lot L3 (v1.1) : l'attachement COPIE le snapshot de l'équipe dans les
+  // groupes EXISTANTS — le nombre de groupes ne change jamais (chaque
+  // rotation a un slot par groupe). Joueurs nommés → répartition
+  // round-robin, un nom par case ; sinon l'effectif déclaré est réparti
+  // numériquement ; équipe sans effectif → groupes inchangés.
   const attachEquipe = (id: string) =>
     updatePlan((d) => {
       if (!id) {
@@ -393,6 +405,61 @@ export default function SessionBuilder({
         categorie: eq.categorie,
         effectif: eq.effectif,
       };
+      const groups = d.groups ?? [];
+      const noms = eq.joueurs ?? [];
+      if (noms.length > 0) {
+        const parGroupe = roundRobinJoueurs(noms, groups.map((g) => g.id));
+        d.groups = groups.map((g) => {
+          const r = parGroupe[g.id] ?? [];
+          const copie = { ...g, players: r.length };
+          if (r.length > 0) copie.joueurs = r;
+          else copie.joueurs = undefined;
+          return copie;
+        });
+      } else if (eq.effectif !== null) {
+        const parts = repartirEffectif(eq.effectif, groups.length);
+        d.groups = groups.map((g, i) => ({
+          ...g,
+          players: parts[i] ?? 0,
+          joueurs: undefined,
+        }));
+      }
+      d.players = (d.groups ?? []).reduce((a, x) => a + x.players, 0);
+    });
+
+  // Retirer un joueur nommé d'un groupe : le total du groupe suit les noms
+  // (l'effectif est dérivé, jamais stocké à part). Le joueur n'est PAS
+  // renvoyé dans l'équipe — la séance est une copie ; ré-attacher
+  // rétablit la répartition.
+  const retirerJoueur = (gid: string, nom: string) =>
+    updatePlan((d) => {
+      const grp = (d.groups ?? []).find((x) => x.id === gid);
+      if (!grp) return;
+      const rest = (grp.joueurs ?? []).filter((n) => n !== nom);
+      if (rest.length === 0) {
+        grp.players = 0;
+        grp.joueurs = undefined;
+      } else {
+        grp.joueurs = rest;
+        grp.players = rest.length;
+      }
+      d.players = (d.groups ?? []).reduce((a, x) => a + x.players, 0);
+    });
+
+  // « Utiliser les M déclarés » (bannière de divergence) : effacer les
+  // noms et répartir numériquement l'effectif déclaré sur les groupes.
+  const appliquerEffectifDeclare = () =>
+    updatePlan((d) => {
+      const m = d.team?.effectif;
+      if (m === null || m === undefined) return;
+      const groups = d.groups ?? [];
+      const parts = repartirEffectif(m, groups.length);
+      d.groups = groups.map((g, i) => ({
+        ...g,
+        players: parts[i] ?? 0,
+        joueurs: undefined,
+      }));
+      d.players = (d.groups ?? []).reduce((a, x) => a + x.players, 0);
     });
 
   // « Coachs disponibles » : le compte d'« Éducateurs » est dérivé des
@@ -443,6 +510,12 @@ export default function SessionBuilder({
         if (Number.isInteger(n) && n >= 0) corps.effectif = n;
       }
       if (formCoachs.length) corps.coachs = formCoachs;
+      // Joueurs (lot L3, v1.1) : lignes non vides du champ « Joueurs » —
+      // le serveur dédoublonne aussi (même règle qu'ici).
+      if (formJoueurs.trim() !== "") {
+        const noms = parserJoueurs(formJoueurs);
+        if (noms.length > 0) corps.joueurs = noms;
+      }
       const eq = await creerEquipe(corps);
       setEquipes(await listerEquipes());
       setFormNom("");
@@ -450,6 +523,7 @@ export default function SessionBuilder({
       setFormCat("");
       setFormEffectif("");
       setFormCoachs([]);
+      setFormJoueurs("");
       setShowNewEquipe(false);
       attachEquipe(eq.id);
     } catch (e) {
@@ -931,6 +1005,12 @@ export default function SessionBuilder({
                   step={1}
                   aria-label={`Effectif du groupe ${g.id}`}
                   value={g.players}
+                  disabled={(g.joueurs?.length ?? 0) > 0}
+                  title={
+                    (g.joueurs?.length ?? 0) > 0
+                      ? "Effectif dérivé des joueurs nommés (lot L3)"
+                      : undefined
+                  }
                   onChange={(e) =>
                     updatePlan((d) => {
                       const grp = d.groups.find((x) => x.id === g.id);
@@ -950,6 +1030,22 @@ export default function SessionBuilder({
                   </button>
                 )}
               </div>
+              {(g.joueurs?.length ?? 0) > 0 && (
+                <div className="group-joueurs">
+                  {(g.joueurs ?? []).map((nom) => (
+                    <span className="assigned-chip" key={nom}>
+                      {nom}
+                      <button
+                        className="chip-x"
+                        aria-label={`Retirer ${nom} du groupe ${g.id}`}
+                        onClick={() => retirerJoueur(g.id, nom)}
+                      >
+                        ×
+                      </button>
+                    </span>
+                  ))}
+                </div>
+              )}
             </div>
           ))}
           <label className="field">
@@ -994,6 +1090,31 @@ export default function SessionBuilder({
                 {plan.team.effectif !== null ? ` — ${plan.team.effectif} joueurs` : ""}
               </p>
             )}
+            {(() => {
+              // Divergence lot L3 : joueurs nommés ≠ effectif déclaré.
+              // L'effectif validé reste le compte des groupes (plan.players) ;
+              // la bannière signale l'écart et propose le ramener à l'effectif.
+              const m = plan.team?.effectif ?? null;
+              const n = (plan.groups ?? []).reduce(
+                (a, g) => a + (g.joueurs?.length ?? 0),
+                0
+              );
+              if (m === null || n === 0 || n === m) return null;
+              return (
+                <div className="divergence-banner" role="status">
+                  <span>
+                    {n} joueurs nommés pour {m} joueurs déclarés —
+                    l'effectif validé compte {plan.players}.
+                  </span>
+                  <button
+                    className="link-btn"
+                    onClick={appliquerEffectifDeclare}
+                  >
+                    Utiliser les {m} déclarés
+                  </button>
+                </div>
+              );
+            })()}
             {showNewEquipe && (
               <div className="team-form">
                 <label className="field">
@@ -1043,6 +1164,18 @@ export default function SessionBuilder({
                     />
                   </label>
                 </div>
+                <label className="field">
+                  <span className="field-label">
+                    Joueurs (prénom + nom, un par ligne)
+                  </span>
+                  <textarea
+                    className="text-input players-textarea"
+                    rows={4}
+                    value={formJoueurs}
+                    placeholder={"Léa Martin\nNoah Dupont"}
+                    onChange={(e) => setFormJoueurs(e.target.value)}
+                  />
+                </label>
                 {coachRefs.length > 0 && (
                   <div className="field">
                     <span className="field-label">Coachs rattachés</span>

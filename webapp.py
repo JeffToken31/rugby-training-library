@@ -809,6 +809,7 @@ def _route_equipes(environ):
                         compte["id"], team_id, data.get("nom"),
                         data.get("club"), data.get("categorie"),
                         data.get("effectif"), data.get("coachs"),
+                        data.get("joueurs"),
                     )
                 except ValueError as exc:
                     return _json_response(HTTPStatus.BAD_REQUEST, {"error": str(exc)})
@@ -835,6 +836,7 @@ def _route_equipes(environ):
                     compte["id"], team_id, data.get("nom"),
                     data.get("club"), data.get("categorie"),
                     data.get("effectif"), data.get("coachs"),
+                    data.get("joueurs"),
                 )
             except ValueError as exc:
                 return _json_response(HTTPStatus.BAD_REQUEST, {"error": str(exc)})
