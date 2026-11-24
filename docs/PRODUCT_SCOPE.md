@@ -23,9 +23,11 @@ La marge absorbe les retards, l’installation, les consignes, les démonstratio
 ## Sauvegarder, réutiliser et partager
 
 - Une authentification simple des éducateurs fait partie de la V1 : elle permet d’identifier l’auteur, de conserver ses brouillons et de rattacher ses propositions à son compte.
+- Un coach peut être ajouté au club **sans compte** (nom seul) ; l’attribution « quel coach gère quoi » (séance, atelier) est une donnée interne.
 - Une séance incomplète peut être sauvegardée en brouillon.
 - Reprendre une proposition partagée crée une nouvelle séance qui conserve un lien vers l’original. Une adaptation de durée, d’effectif ou d’organisation appartient à la séance et laisse la fiche source intacte.
-- La consultation mobile est prioritaire. Les modes de partage envisagés sont le lien, le partage natif du téléphone et une fiche PDF synthétique pour le terrain. L’ordre de livraison et les accès restent à décider.
+- La consultation mobile est prioritaire. Les modes de partage envisagés sont le lien, le partage natif du téléphone et une fiche PDF synthétique pour le terrain. L’ordre de livraison et les accès restent à décision.
+- La fiche PDF de terrain et le récapitulatif partagé ne mentionnent **pas les noms de joueurs** (minimisation : la pièce partagée porte les exercices, les durées et l’effectif, pas les personnes) ; la prévisualisation du PDF avant partage est une vue du même contenu, sans donnée supplémentaire.
 
 ## Assistance IA à terme
 
@@ -33,6 +35,8 @@ L’éducateur pourrait demander un brouillon à partir d’un objectif, d’un 
 
 ## Hors périmètre du MVP
 
-Gestion des enfants ou des coordonnées des parents, présences, convocations, calendrier de saison, équipes de plateau, statistiques individuelles, messagerie, notifications avancées, gestion des clubs, rôles avancés, invitations et collaboration temps réel. Les intégrations SportEasy et WhatsApp Business sont également hors périmètre.
+La gestion des joueurs en v1.1 (décision 2026-11-24, re-tranche de la ligne rouge 5 du charter V1) est limitée aux **prénom + nom**, dans le dashboard par club et par catégorie, sans aucun autre champ : minimisation par non-collecte. Le RGPD formel (consentement du représentant légal, conservation, suppression à la sortie, DPA, incident 72 h) est reporté à la V2 (voir `v2-cadrage.md`).
+
+Rester hors périmètre : date de naissance, données de santé, NIR, photos, coordonnées des parents, comptes joueurs, messagerie parents, présences, convocations, calendrier de saison, équipes de plateau, statistiques individuelles, notifications avancées, rôles avancés, invitations et collaboration temps réel. Les intégrations SportEasy et WhatsApp Business sont également hors périmètre.
 
 Voir les [décisions et questions ouvertes](DECISIONS.md).
