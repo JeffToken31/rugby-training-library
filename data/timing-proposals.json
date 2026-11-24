@@ -1390,6 +1390,14 @@
       "profile_id": "skill"
     },
     {
+      "variant_id": "ffr-m8-lecture-jeu-11c1",
+      "origin": "AI_INFERRED",
+      "status": "PLANNING_PROPOSAL",
+      "basis": "Budget de temps proposé pour préparer la séance U8, non mesure de durée réelle ni prescription d’effort. Le guide prescrit 4 passages avant permutation, sans durée.",
+      "coach_confirmation_required": true,
+      "profile_id": "skill"
+    },
+    {
       "variant_id": "ffr-plan2023-oeufs",
       "origin": "AI_INFERRED",
       "status": "PLANNING_PROPOSAL",

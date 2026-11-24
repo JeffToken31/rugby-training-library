@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-172 fiches ; 163 documentées ; 9 incomplètes.
-172 fiches enrichies ; 94 ressources ; 0 ressources capturées localement.
+173 fiches ; 164 documentées ; 9 incomplètes.
+173 fiches enrichies ; 95 ressources ; 0 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 155 | 17 | 0 | 0 | 0 |
-| organisation | 162 | 10 | 0 | 0 | 0 |
-| steps | 163 | 9 | 0 | 0 | 0 |
-| instructions | 165 | 7 | 0 | 0 | 0 |
-| success_criteria | 28 | 144 | 0 | 0 | 0 |
-| common_errors | 15 | 157 | 0 | 0 | 0 |
-| coach_points | 76 | 94 | 2 | 0 | 0 |
-| duration_min | 34 | 63 | 75 | 0 | 0 |
-| players_min | 79 | 68 | 24 | 0 | 1 |
-| players_max | 77 | 68 | 26 | 0 | 1 |
-| space | 65 | 79 | 28 | 0 | 0 |
-| material | 145 | 27 | 0 | 0 | 0 |
+| objectives | 156 | 17 | 0 | 0 | 0 |
+| organisation | 163 | 10 | 0 | 0 | 0 |
+| steps | 164 | 9 | 0 | 0 | 0 |
+| instructions | 166 | 7 | 0 | 0 | 0 |
+| success_criteria | 28 | 145 | 0 | 0 | 0 |
+| common_errors | 15 | 158 | 0 | 0 | 0 |
+| coach_points | 77 | 94 | 2 | 0 | 0 |
+| duration_min | 34 | 63 | 76 | 0 | 0 |
+| players_min | 80 | 68 | 24 | 0 | 1 |
+| players_max | 78 | 68 | 26 | 0 | 1 |
+| space | 66 | 79 | 28 | 0 | 0 |
+| material | 146 | 27 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -59,6 +59,7 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [M8 : échauffement et préparation physique](https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique) : Aucune capture ; pas de tentative enregistrée
 - [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Guide de l’éducateur M8 — rubrique « Lecture du jeu », dispositif 1 + 1 contre 1 + 1](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) : Aucune capture ; pas de tentative enregistrée
 - [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; pas de tentative enregistrée

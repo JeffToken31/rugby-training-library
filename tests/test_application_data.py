@@ -26,12 +26,14 @@ class ApplicationTests(unittest.TestCase):
         cls.tmp.cleanup()
 
     def test_full_corpus_classified_without_merging(self):
-        self.assertEqual(len(self.payload["exercises"]),172)
+        self.assertEqual(len(self.payload["exercises"]),173)
         self.assertEqual(len(self.payload["families"]),22)
         self.assertIsNone(self.payload["summary"]["unique_exercises"])
         ids = {e["id"] for e in self.payload["exercises"]}
         self.assertTrue({"imagine-depth-running", "wr-chain-reaction"} <= ids)
-        self.assertEqual(self.payload["summary"]["readiness"], {"DOCUMENTED_CORE":128,"PROPOSED_OBJECTIVE":34,"REPORTED_OBSERVATION":1,"INCOMPLETE":9})
+        # 129 DOCUMENTED_CORE : +1 le 2026-11-24 (ffr-m8-lecture-jeu-11c1,
+        # fiche 1 + 1 contre 1 + 1 du guide M8, 4 rubriques cœur sourcées).
+        self.assertEqual(self.payload["summary"]["readiness"], {"DOCUMENTED_CORE":129,"PROPOSED_OBJECTIVE":34,"REPORTED_OBSERVATION":1,"INCOMPLETE":9})
 
     def test_reported_observation_does_not_invent_duration_or_source(self):
         e = next(e for e in self.payload["exercises"] if e["id"] == "ffr-carre2-atelier")

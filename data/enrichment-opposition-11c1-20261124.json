@@ -1,0 +1,43 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-m8-lecture-jeu-11c1-detail-1",
+      "variant_id": "ffr-m8-lecture-jeu-11c1",
+      "source_id": "ffr-m8-lecture-jeu-2022-23",
+      "actor": "assistant",
+      "checked_on": "2026-11-24",
+      "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Construire l’avancée individuelle dans les espaces libres : le porteur avance et marque dans l’en-but rouge sans se faire toucher/attraper, ou fait marquer son soutien offensif s’il est pris."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Dispositif 1 + 1 contre 1 + 1 : groupe de 4 joueurs M8 (pas plus de 6 pour limiter les temps d’attente) ; 2 à 3 m entre l’attaquant et l’opposant, 2 à 3 m entre 2 plots dans la largeur ; plots, ballons, chasubles."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Lancement : coup de pied franc ; l’opposant choisit un côté et va toucher un plot avant de venir défendre ; 4 passages avant de changer les statuts."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "But : marquer dans l’en-but rouge sans se faire toucher/attraper ; l’opposant défend à touché 2 mains (T+2) ou en jeu au contact limité (JCO) ; si le porteur est bloqué, le soutien offensif peut intervenir ; le second opposant intervient uniquement s’il y a franchissement."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Attendus du porteur : ramasser le ballon, le tenir à deux mains, avancer, aller dans un espace libre et changer de direction si besoin ; marquer ou faire marquer si l’on est pris. Critère de contrôle : le joueur avance dans les espaces libres (oui/non) ; objectif visé : entre 90 et 100 % de réussite en fin de cycle. Situation à pratiquer tout au long de la saison ; évaluation plutôt en fin de saison, sur des situations jouées, des rencontres ou ce dispositif."
+        },
+        "duration_min": {
+          "state": "NOT_STATED",
+          "origin": "SOURCE"
+        }
+      }
+    }
+  ]
+}

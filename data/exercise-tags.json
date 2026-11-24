@@ -2968,6 +2968,24 @@
       "note": "Classement éditorial d’une fiche sourcée ; ne certifie ni adéquation U8 ni niveau de contact."
     },
     {
+      "variant_id": "ffr-m8-lecture-jeu-11c1",
+      "tag_ids": [
+        "skill:passe",
+        "skill:prise-information",
+        "skill:soutien",
+        "format:opposition-collective",
+        "format:surnombre"
+      ],
+      "origin": "AI_INFERRED",
+      "reviewed_on": "2026-11-24",
+      "status": "EDITORIAL_REVIEWED",
+      "basis_fields": [
+        "title",
+        "fields.steps"
+      ],
+      "note": "Classement éditorial d’une fiche sourcée (guide M8, rubrique Lecture du jeu) ; ne certifie ni adéquation U8 ni niveau de contact."
+    },
+    {
       "variant_id": "ffr-plan2023-oeufs",
       "tag_ids": [
         "skill:lutte",

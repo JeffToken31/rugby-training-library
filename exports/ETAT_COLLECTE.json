@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-23T00:31:30.840312+00:00",
-  "variants": 172,
-  "documented": 163,
+  "generated_at": "2026-11-24T13:18:17.268486+00:00",
+  "variants": 173,
+  "documented": 164,
   "incomplete": 9,
-  "enriched": 172,
-  "resources": 94,
+  "enriched": 173,
+  "resources": 95,
   "captured_resources": 0,
   "families": 2,
   "events": [],
@@ -187,6 +187,13 @@
     {
       "resource_id": "ffr-guide-m8-2023",
       "title": "Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf",
+      "capture_recorded": false,
+      "last_attempt": null
+    },
+    {
+      "resource_id": "ffr-m8-lecture-jeu-2022-23",
+      "title": "Guide de l’éducateur M8 — rubrique « Lecture du jeu », dispositif 1 + 1 contre 1 + 1",
       "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf",
       "capture_recorded": false,
       "last_attempt": null

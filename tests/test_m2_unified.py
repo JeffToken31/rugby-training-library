@@ -33,9 +33,10 @@ class M2UnifiedTests(unittest.TestCase):
             self.assertTrue((out/"APPLICATION.json").is_file())
             self.assertTrue((out/"catalogue.json").is_file())
             self.assertTrue((out/"exercises.csv").is_file())
-            self.assertEqual(len(list((out/"fiches").glob("*.md"))),172)
+            # 173 : + ffr-m8-lecture-jeu-11c1 (fiche ajoutée le 2026-11-24).
+            self.assertEqual(len(list((out/"fiches").glob("*.md"))),173)
             payload=json.loads((out/"APPLICATION.json").read_text(encoding="utf-8"))
-            self.assertEqual(len(payload["exercises"]),172)
+            self.assertEqual(len(payload["exercises"]),173)
             db.close()
 
     def test_legacy_views_rendered_when_flag_absent(self):
@@ -58,5 +59,5 @@ class M2UnifiedTests(unittest.TestCase):
             self.assertIn("# Base destinée à la création de séances",(out/"QUALITE_APPLICATION.md").read_text(encoding="utf-8"))
             self.assertNotIn("Vue intégrée au catalogue",(out/"COMPARAISONS.md").read_text(encoding="utf-8"))
             self.assertNotIn("Vue intégrée au catalogue",(out/"INDEX.md").read_text(encoding="utf-8"))
-            self.assertEqual(len(list((out/"fiches").glob("*.md"))),172)
+            self.assertEqual(len(list((out/"fiches").glob("*.md"))),173)
             db.close()

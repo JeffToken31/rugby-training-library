@@ -308,6 +308,18 @@
       "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
     },
     {
+      "access": "PDF téléchargé et extrait localement le 2026-11-24 (même document que ffr-guide-m8-2023 ; rubrique « Lecture du jeu » lue verbatim)",
+      "checked_on": "2026-11-24",
+      "format": "PDF",
+      "id": "ffr-m8-lecture-jeu-2022-23",
+      "language": "fr",
+      "publisher": "Fédération Française de Rugby",
+      "qualification_note": "Même guide que la source ffr-guide-m8-2023 déjà déclarée, mais déclarée séparément pour la rubrique « Lecture du jeu » non encore ingérée ; saison 2022-2023, aucune actualité réglementaire déduite.",
+      "resource_type": "TECHNICAL_DOCUMENT",
+      "title": "Guide de l’éducateur M8 — rubrique « Lecture du jeu », dispositif 1 + 1 contre 1 + 1",
+      "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
+    },
+    {
       "access": "Page publique, liens documentaires repérés",
       "checked_on": "2026-09-06",
       "id": "ffr-orne",
@@ -28772,6 +28784,151 @@
         "resource_type": "TECHNICAL_DOCUMENT",
         "title": "Primary School Teacher Resource Pack",
         "url": "https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf"
+      },
+      "model_status": "REVIEWED",
+      "references": []
+    },
+    {
+      "age_source": "M8 — guide saison 2022-2023",
+      "duration_min": null,
+      "id": "ffr-m8-lecture-jeu-11c1",
+      "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+      "material": "Plots, ballons, chasubles",
+      "players_max": 4,
+      "players_min": 4,
+      "review": "Texte de la rubrique « Lecture du jeu » du guide M8 consulté en extraction locale du PDF le 2026-11-24. Situation d’évaluation du guide, à pratiquer tout au long de la saison ; pas de validation terrain.",
+      "source_id": "ffr-m8-lecture-jeu-2022-23",
+      "space": "2 à 3 m entre l’attaquant et l’opposant ; 2 à 3 m entre 2 plots dans la largeur",
+      "status": "documented",
+      "summary": "Situation du guide M8 : deux attaquants contre un défenseur, avec un second défenseur en réserve qui n’intervient qu’en cas de franchissement ; l’avancée se construit dans les espaces libres, en toucher à deux mains (T+2) ou en jeu au contact limité (JCO).",
+      "theme": "coopération",
+      "title": "Un plus un contre un, avec un opposant en réserve",
+      "coach_points": "Attendus du porteur : ramasser le ballon, le tenir à deux mains, avancer, aller dans un espace libre et changer de direction si besoin ; marquer ou faire marquer si l’on est pris. Critère de contrôle : le joueur avance dans les espaces libres (oui/non) ; objectif visé : entre 90 et 100 % de réussite en fin de cycle. Situation à pratiquer tout au long de la saison ; évaluation plutôt en fin de saison, sur des situations jouées, des rencontres ou ce dispositif.",
+      "instructions": "But : marquer dans l’en-but rouge sans se faire toucher/attraper ; l’opposant défend à touché 2 mains (T+2) ou en jeu au contact limité (JCO) ; si le porteur est bloqué, le soutien offensif peut intervenir ; le second opposant intervient uniquement s’il y a franchissement.",
+      "objectives": "Construire l’avancée individuelle dans les espaces libres : le porteur avance et marque dans l’en-but rouge sans se faire toucher/attraper, ou fait marquer son soutien offensif s’il est pris.",
+      "organisation": "Dispositif 1 + 1 contre 1 + 1 : groupe de 4 joueurs M8 (pas plus de 6 pour limiter les temps d’attente) ; 2 à 3 m entre l’attaquant et l’opposant, 2 à 3 m entre 2 plots dans la largeur ; plots, ballons, chasubles.",
+      "steps": "Lancement : coup de pied franc ; l’opposant choisit un côté et va toucher un plot avant de venir défendre ; 4 passages avant de changer les statuts.",
+      "field_coverage": {
+        "objectives": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Construire l’avancée individuelle dans les espaces libres : le porteur avance et marque dans l’en-but rouge sans se faire toucher/attraper, ou fait marquer son soutien offensif s’il est pris.",
+          "provenance": {
+            "source_id": "ffr-m8-lecture-jeu-2022-23",
+            "actor": "assistant",
+            "checked_on": "2026-11-24",
+            "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+            "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+          }
+        },
+        "organisation": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Dispositif 1 + 1 contre 1 + 1 : groupe de 4 joueurs M8 (pas plus de 6 pour limiter les temps d’attente) ; 2 à 3 m entre l’attaquant et l’opposant, 2 à 3 m entre 2 plots dans la largeur ; plots, ballons, chasubles.",
+          "provenance": {
+            "source_id": "ffr-m8-lecture-jeu-2022-23",
+            "actor": "assistant",
+            "checked_on": "2026-11-24",
+            "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+            "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+          }
+        },
+        "steps": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Lancement : coup de pied franc ; l’opposant choisit un côté et va toucher un plot avant de venir défendre ; 4 passages avant de changer les statuts.",
+          "provenance": {
+            "source_id": "ffr-m8-lecture-jeu-2022-23",
+            "actor": "assistant",
+            "checked_on": "2026-11-24",
+            "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+            "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+          }
+        },
+        "instructions": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "But : marquer dans l’en-but rouge sans se faire toucher/attraper ; l’opposant défend à touché 2 mains (T+2) ou en jeu au contact limité (JCO) ; si le porteur est bloqué, le soutien offensif peut intervenir ; le second opposant intervient uniquement s’il y a franchissement.",
+          "provenance": {
+            "source_id": "ffr-m8-lecture-jeu-2022-23",
+            "actor": "assistant",
+            "checked_on": "2026-11-24",
+            "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+            "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+          }
+        },
+        "success_criteria": {
+          "state": "NOT_EXTRACTED"
+        },
+        "common_errors": {
+          "state": "NOT_EXTRACTED"
+        },
+        "coach_points": {
+          "origin": "SOURCE",
+          "state": "PRESENT",
+          "value": "Attendus du porteur : ramasser le ballon, le tenir à deux mains, avancer, aller dans un espace libre et changer de direction si besoin ; marquer ou faire marquer si l’on est pris. Critère de contrôle : le joueur avance dans les espaces libres (oui/non) ; objectif visé : entre 90 et 100 % de réussite en fin de cycle. Situation à pratiquer tout au long de la saison ; évaluation plutôt en fin de saison, sur des situations jouées, des rencontres ou ce dispositif.",
+          "provenance": {
+            "source_id": "ffr-m8-lecture-jeu-2022-23",
+            "actor": "assistant",
+            "checked_on": "2026-11-24",
+            "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+            "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+          }
+        },
+        "duration_min": {
+          "origin": "SOURCE",
+          "state": "NOT_STATED",
+          "provenance": {
+            "source_id": "ffr-m8-lecture-jeu-2022-23",
+            "actor": "assistant",
+            "checked_on": "2026-11-24",
+            "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+            "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+          }
+        },
+        "players_min": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "players_max": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "space": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        },
+        "material": {
+          "state": "PRESENT",
+          "origin": "LEGACY_UNREVIEWED"
+        }
+      },
+      "enrichment_provenance": {
+        "source_id": "ffr-m8-lecture-jeu-2022-23",
+        "actor": "assistant",
+        "checked_on": "2026-11-24",
+        "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1",
+        "revision_id": "ffr-m8-lecture-jeu-11c1-detail-1"
+      },
+      "enrichment_history": [
+        {
+          "id": "ffr-m8-lecture-jeu-11c1-detail-1",
+          "supersedes": null,
+          "checked_on": "2026-11-24",
+          "reason": null
+        }
+      ],
+      "source": {
+        "access": "PDF téléchargé et extrait localement le 2026-11-24 (même document que ffr-guide-m8-2023 ; rubrique « Lecture du jeu » lue verbatim)",
+        "checked_on": "2026-11-24",
+        "format": "PDF",
+        "id": "ffr-m8-lecture-jeu-2022-23",
+        "language": "fr",
+        "publisher": "Fédération Française de Rugby",
+        "qualification_note": "Même guide que la source ffr-guide-m8-2023 déjà déclarée, mais déclarée séparément pour la rubrique « Lecture du jeu » non encore ingérée ; saison 2022-2023, aucune actualité réglementaire déduite.",
+        "resource_type": "TECHNICAL_DOCUMENT",
+        "title": "Guide de l’éducateur M8 — rubrique « Lecture du jeu », dispositif 1 + 1 contre 1 + 1",
+        "url": "https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf"
       },
       "model_status": "REVIEWED",
       "references": []

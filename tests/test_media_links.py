@@ -19,8 +19,10 @@ class MediaLinksTests(unittest.TestCase):
         self.by_id = {l["variant_id"]: l for l in self.links}
 
     def test_one_decision_per_fiche_covering_the_corpus(self):
-        self.assertEqual(len(self.links), 172)
-        self.assertEqual(len(self.by_id), 172)
+        # 173 : + ffr-m8-lecture-jeu-11c1 (fiche ajoutée le 2026-11-24,
+        # entrée « pas de lien, pas de variante »).
+        self.assertEqual(len(self.links), 173)
+        self.assertEqual(len(self.by_id), 173)
         self.assertEqual(set(self.by_id), corpus_ids())
 
     def test_link_entries_are_well_formed(self):
@@ -55,7 +57,7 @@ class MediaLinksTests(unittest.TestCase):
 
     def test_every_exported_fiche_declares_its_media_state(self):
         fiches = sorted((ROOT / "exports" / "fiches").glob("*.md"))
-        self.assertEqual(len(fiches), 172)
+        self.assertEqual(len(fiches), 173)
         no_link = declared_variants = with_link = 0
         for path in fiches:
             text = path.read_text(encoding="utf-8")
@@ -74,7 +76,8 @@ class MediaLinksTests(unittest.TestCase):
             else:
                 no_link += 1
                 self.assertIsNone(self.by_id[path.stem]["url"])
-        self.assertEqual((with_link, declared_variants, no_link), (53, 44, 75))
+        # 76 : +1 fiche « pas de lien, pas de variante » (2026-11-24).
+        self.assertEqual((with_link, declared_variants, no_link), (53, 44, 76))
 
     def test_source_links_are_documentary_pages(self):
         payload = json.loads((ROOT / "exports" / "APPLICATION.json").read_text(encoding="utf-8"))

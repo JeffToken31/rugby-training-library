@@ -13,8 +13,10 @@ class TagTests(unittest.TestCase):
         tags.attach(self.payload, self.taxonomy)
 
     def test_all_records_covered_without_duplicate_variants(self):
-        self.assertEqual(len(self.payload["exercises"]), 172)
-        self.assertEqual(len({e["id"] for e in self.payload["exercises"]}), 172)
+        # 173 : + ffr-m8-lecture-jeu-11c1 (1 + 1 contre 1 + 1 du guide M8,
+        # fiche ajoutée le 2026-11-24).
+        self.assertEqual(len(self.payload["exercises"]), 173)
+        self.assertEqual(len({e["id"] for e in self.payload["exercises"]}), 173)
         self.assertTrue(all(e["tag_ids"] for e in self.payload["exercises"]))
 
     def test_cross_category_filters_return_unique_results(self):

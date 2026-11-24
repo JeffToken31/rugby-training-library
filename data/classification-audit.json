@@ -1619,6 +1619,15 @@
       "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout"
     },
     {
+      "variant_id": "ffr-m8-lecture-jeu-11c1",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "1 + 1 contre 1 + 1 : le second opposant n’intervient qu’en cas de franchissement ; le soutien offensif intervient si le porteur est bloqué ; pratique en toucher à deux mains (T+2) ou en jeu au contact limité (JCO).",
+      "source_id": "ffr-m8-lecture-jeu-2022-23",
+      "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1"
+    },
+    {
       "variant_id": "ffr-plan2023-oeufs",
       "family_id": "F18",
       "status": "REVIEWED_CANDIDATE",
