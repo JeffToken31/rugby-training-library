@@ -24,11 +24,17 @@ libellé : il n'ouvre aucun accès (C1 inchangé).
 Séances (tranché 2026-11-22) : une équipe est un dispositif d'effectif
 rattaché au compte — identifiant slug, nom (seul champ obligatoire), club et
 catégorie facultatifs (mêmes règles que le compte), effectif facultatif
-(entier ≥ 0), coachs rattachés (logins enregistrés, duplis retirés). Les
-tailles d'effectif varient d'un club à l'autre : tout est flexible sauf le
-nom. La liste « coachs disponibles » est l'ensemble des comptes (login, club
-et catégorie seulement) ; brouillons et propositions restent strictement
-privés (C1 inchangé).
+(entier ≥ 0), coachs rattachés (logins enregistrés ou noms libres, duplis
+retirés). Les tailles d'effectif varient d'un club à l'autre : tout est
+flexible sauf le nom.
+
+Coachs (tranché v1.1, 2026-11-24) : un coach sans compte est ajouté par nom
+seul (2 à 80 caractères, club facultatif) dans la table `coachs`, clé
+(compte_id, id) — chaque compte ne gère que ses propres coachs (C1
+inchangé). La liste « coachs disponibles » est l'union des comptes (login,
+club, catégorie) et des coachs nommés (nom, club), sous une forme unifiée
+{nom, login, club, categorie} : login = null pour un nom seul. Brouillons
+et propositions restent strictement privés (C1 inchangé).
 
 La connexion est ouverte et fermée par requête (l'API tourne en un thread par
 connexion : `ThreadingWSGIServer`, voir webapp.py).
@@ -101,6 +107,14 @@ CREATE TABLE IF NOT EXISTS equipes (
     saved_at TEXT NOT NULL,
     PRIMARY KEY (compte_id, id)
 );
+CREATE TABLE IF NOT EXISTS coachs (
+    id TEXT NOT NULL,
+    compte_id INTEGER NOT NULL,
+    nom TEXT NOT NULL,
+    club TEXT,
+    saved_at TEXT NOT NULL,
+    PRIMARY KEY (compte_id, id)
+);
 CREATE TABLE IF NOT EXISTS meta (
     key TEXT PRIMARY KEY,
     value TEXT NOT NULL
@@ -110,6 +124,10 @@ CREATE TABLE IF NOT EXISTS meta (
 
 class AccountExists(Exception):
     """Login déjà enregistré (→ HTTP 409 côté API)."""
+
+
+class CoachExists(Exception):
+    """Nom de coach déjà présent pour le compte (→ HTTP 409 côté API)."""
 
 
 def normalize_login(login: str) -> str:
@@ -124,6 +142,21 @@ def normalize_login(login: str) -> str:
     if not LOGIN_RE.fullmatch(login):
         raise ValueError(login)
     return login
+
+
+def normalize_coach_name(nom) -> str:
+    """Nom d'un coach sans compte (tranché v1.1, 2026-11-24) : texte libre,
+    trim + espaces internes ramenés à un seul, 2 à 80 caractères.
+
+    Indépendant de normalize_login : un nom contient espaces et accents, un
+    login non. Lève ValueError sinon.
+    """
+    if not isinstance(nom, str):
+        raise ValueError(nom)
+    nom = " ".join(nom.split())
+    if not (2 <= len(nom) <= MAX_CLUB):
+        raise ValueError(nom)
+    return nom
 
 
 def password_ok(password) -> bool:
@@ -269,16 +302,68 @@ class AppStore:
         }
 
     def list_coaches(self):
-        """Tous les comptes enregistrés (login, club, catégorie) : la base
-        de la liste « coachs disponibles » du constructeur de séance
-        (tranché 2026-11-22). Identifiants seuls : les brouillons et
-        propositions d'autrui restent strictement privés (C1)."""
-        rows = self.conn.execute(
-            "SELECT login, club, categorie FROM comptes ORDER BY login"
-        ).fetchall()
+        """Liste « coachs disponibles » du constructeur de séance : union
+        des comptes (login, club, catégorie) et des coachs sans compte
+        ajoutés par nom (tranché v1.1, 2026-11-24). Forme unifiée
+        {nom, login, club, categorie} — login = null pour un nom seul.
+        Brouillons et propositions d'autrui restent strictement privés (C1).
+        """
         return [
-            {"login": r[0], "club": r[1], "categorie": r[2]} for r in rows
+            {"nom": r[0], "login": r[0], "club": r[1], "categorie": r[2]}
+            for r in self.conn.execute(
+                "SELECT login, club, categorie FROM comptes ORDER BY login"
+            )
+        ] + [
+            {"nom": r[0], "login": None, "club": r[1], "categorie": None}
+            for r in self.conn.execute("SELECT nom, club FROM coachs ORDER BY nom")
         ]
+
+    def ajouter_coach(self, account_id: int, nom, club: str | None = None) -> dict:
+        """Ajoute un coach sans compte au compte (tranché v1.1, 2026-11-24) :
+        nom libre (2 à 80 caractères) + club facultatif. Lève ValueError si
+        le nom (ou le club) est invalide, CoachExists si un coach de ce nom
+        existe déjà pour le compte — comparaison insensible à la casse : un
+        doublon est un nom mal orthographié, on le corrige en supprimant.
+        """
+        nom = normalize_coach_name(nom)
+        if club is not None:
+            if not isinstance(club, str):
+                raise ValueError("Le club doit être un texte (80 caractères maximum).")
+            club = club.strip() or None
+            if club is not None and len(club) > MAX_CLUB:
+                raise ValueError("Le nom du club est trop long (80 caractères maximum).")
+        if self.conn.execute(
+            "SELECT 1 FROM coachs WHERE compte_id = ? AND nom = ? COLLATE NOCASE",
+            (account_id, nom),
+        ).fetchone() is not None:
+            raise CoachExists(nom)
+        base = re.sub(r"[^a-z0-9]+", "-", nom.lower()).strip("-") or "coach"
+        coach_id, n = base, 2
+        while self.conn.execute(
+            "SELECT 1 FROM coachs WHERE compte_id = ? AND id = ?",
+            (account_id, coach_id),
+        ).fetchone():
+            coach_id = f"{base}-{n}"
+            n += 1
+        now = _utcnow_iso()
+        self.conn.execute(
+            "INSERT INTO coachs (id, compte_id, nom, club, saved_at) "
+            "VALUES (?, ?, ?, ?, ?)",
+            (coach_id, account_id, nom, club, now),
+        )
+        self.conn.commit()
+        return {"id": coach_id, "nom": nom, "club": club, "saved_at": now}
+
+    def supprimer_coach(self, account_id: int, coach_id: str) -> None:
+        """Supprime un coach nommé du compte (les comptes ne sont pas
+        supprimables ici). Lève ValueError si le coach est inconnu."""
+        cur = self.conn.execute(
+            "DELETE FROM coachs WHERE compte_id = ? AND id = ?",
+            (account_id, coach_id),
+        )
+        if cur.rowcount != 1:
+            raise ValueError("Coach inconnu.")
+        self.conn.commit()
 
     def authenticate(self, login, password):
         """Compte (dict) si le login ET le mot de passe sont corrects, sinon
@@ -489,13 +574,23 @@ class AppStore:
         if coachs is None:
             coachs = []
         if not isinstance(coachs, list):
-            raise ValueError("Les coachs rattachés doivent être une liste de logins.")
+            raise ValueError(
+                "Les coachs rattachés doivent être une liste de logins ou de noms."
+            )
         norm_coachs = []
         for c in coachs:
             try:
                 c2 = normalize_login(c)
             except ValueError:
-                raise ValueError("Login de coach invalide dans la liste des coachs rattachés.")
+                # v1.1 (2026-11-24) : un coach sans compte est désigné par
+                # son nom libre (« Marie Dupont ») — repli après le login.
+                try:
+                    c2 = normalize_coach_name(c)
+                except ValueError:
+                    raise ValueError(
+                        "Identifiant de coach invalide dans la liste des coachs "
+                        "rattachés (login, ou nom libre de 2 à 80 caractères)."
+                    )
             if c2 not in norm_coachs:
                 norm_coachs.append(c2)
         now = _utcnow_iso()

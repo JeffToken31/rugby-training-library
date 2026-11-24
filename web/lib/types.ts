@@ -238,6 +238,9 @@ export interface SessionBlock {
   duration_min: number | null;
   variant_ids: string[];
   rounds?: SessionRound[];
+  // v1.1 (2026-11-24) : coach en charge de ce bloc/atelier — nom libre ou
+  // login, optionnel (absent dans les snapshots antérieurs).
+  coach?: string | null;
 }
 
 // Équipe d'effectif enregistrée au compte (tranché 2026-11-22) : nom seul
@@ -263,9 +266,12 @@ export interface SessionPlan {
   creneau_min: number;
   players: number;
   coaches?: number;
-  // Tranché 2026-11-22 : coachs présents par login (liste « coachs
-  // disponibles ») — `coaches` reste le compte affiché et validé.
+  // Tranché 2026-11-22 : coachs présents (liste « coachs disponibles ») —
+  // v1.1 (2026-11-24) : login OU nom libre des coachs sans compte ;
+  // `coaches` reste le compte affiché et validé.
   coach_logins?: string[];
+  // v1.1 (2026-11-24) : nom du coach principal de la séance (optionnel).
+  coach_principal?: string | null;
   // Snapshot de l'équipe d'effectif choisie (D1 : la séance conserve son
   // propre instantané, indépendamment des éditions ultérieures de l'équipe).
   team?: {

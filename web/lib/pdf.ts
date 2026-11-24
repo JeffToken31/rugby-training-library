@@ -98,15 +98,31 @@ function buildSheet(
 ): HTMLElement {
   const sheet = el("div", "pdf-sheet", null);
 
-  // En-tête : titre, coach (login + club + catégorie), date du snapshot.
+  // En-tête : titre, coach de la séance, date du snapshot.
   const titre = p.titre || p.plan.title || "Séance";
   sheet.appendChild(el("h1", "pdf-title", titre));
   const meta = el("div", "pdf-meta", null);
-  const coach =
-    `Coach : ${moi.login}` +
-    (moi.club ? ` · ${moi.club}` : "") +
-    (moi.categorie ? ` · ${moi.categorie}` : "");
-  meta.appendChild(el("span", null, coach));
+  // Coach de la séance (v1.1, 2026-11-24) : le coach principal s'il est nommé
+  // dans le plan, sinon les coachs cochés, sinon l'auteur (ancien
+  // comportement) — et le compte « Éducateurs » des vieux snapshots si les
+  // noms sont absents.
+  const principal = p.plan.coach_principal ?? null;
+  const nommes = (p.plan.coach_logins ?? []).filter(
+    (x) => x && x !== principal && x !== moi.login
+  );
+  if (principal) {
+    meta.appendChild(el("span", null, `Coach : ${principal}`));
+  } else if (nommes.length) {
+    meta.appendChild(el("span", null, `Coach : ${nommes.join(", ")}`));
+  } else {
+    const coach =
+      `Coach : ${moi.login}` +
+      (moi.club ? ` · ${moi.club}` : "") +
+      (moi.categorie ? ` · ${moi.categorie}` : "");
+    meta.appendChild(el("span", null, coach));
+  }
+  if (principal && nommes.length)
+    meta.appendChild(el("span", null, `Coachs : ${nommes.join(", ")}`));
   // Équipe d'effectif (snapshot de la séance, tranché 2026-11-22) : le nom
   // et les éléments connus (club, catégorie, effectif) — jamais les noms de
   // joueurs.
@@ -123,7 +139,7 @@ function buildSheet(
       )
     );
   }
-  if (p.plan.coaches)
+  if (!principal && !nommes.length && p.plan.coaches)
     meta.appendChild(el("span", null, `Éducateurs : ${p.plan.coaches}`));
   if (p.saved_at) meta.appendChild(el("span", null, savedLabel(p.saved_at)));
   sheet.appendChild(meta);
@@ -152,6 +168,9 @@ function buildSheet(
     let head = kind + (b.label && b.label !== kind ? ` — ${b.label}` : "");
     if (b.duration_min != null) head += ` · ${b.duration_min} min`;
     block.appendChild(el("h3", "pdf-block-head", head));
+
+    // Coach en charge du bloc (v1.1, 2026-11-24) : le nom, rien d'autre.
+    if (b.coach) block.appendChild(el("p", "pdf-charge", `En charge : ${b.coach}`));
 
     // Rotations (travail / transition) si présentes.
     if (b.rounds && b.rounds.length > 0) {

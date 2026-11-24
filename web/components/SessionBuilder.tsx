@@ -33,6 +33,7 @@ import { fetchConseils, fetchFiche, fetchTrameU8, validerSeance } from "../lib/a
 import { clearDraft, loadDraft, parseImport, saveDraft } from "../lib/draft";
 import type { SavedDraft } from "../lib/draft";
 import {
+  ajouterCoach,
   chargerBrouillon,
   chargerProposition,
   creerEquipe,
@@ -166,6 +167,11 @@ export default function SessionBuilder({
   const [formEffectif, setFormEffectif] = useState("");
   const [formCoachs, setFormCoachs] = useState<string[]>([]);
   const [formBusy, setFormBusy] = useState(false);
+  // Coachs sans compte (v1.1, 2026-11-24) : ajout par nom au club.
+  const [coachNom, setCoachNom] = useState("");
+  const [coachClub, setCoachClub] = useState("");
+  const [coachBusy, setCoachBusy] = useState(false);
+  const [coachMsg, setCoachMsg] = useState<string | null>(null);
 
   useEffect(() => {
     let live = true;
@@ -391,15 +397,36 @@ export default function SessionBuilder({
 
   // « Coachs disponibles » : le compte d'« Éducateurs » est dérivé des
   // identifiants cochés — la consigne de validation compte les coachs, la
-  // trace conserve les identifiants.
-  const toggleCoach = (login: string) =>
+  // trace conserve les identifiants (login ou nom libre, v1.1).
+  const toggleCoach = (identifiant: string) =>
     updatePlan((d) => {
       const cur = new Set(d.coach_logins ?? []);
-      if (cur.has(login)) cur.delete(login);
-      else cur.add(login);
+      if (cur.has(identifiant)) cur.delete(identifiant);
+      else cur.add(identifiant);
       d.coach_logins = [...cur];
       d.coaches = d.coach_logins.length;
     });
+
+  const refreshCoachs = () =>
+    listerCoachs().then(setCoachRefs).catch((e: Error) => setCoachMsg(e.message));
+
+  // Ajout d'un coach sans compte par nom (v1.1, 2026-11-24).
+  const addCoachParNom = async () => {
+    const nom = coachNom.trim();
+    if (nom.length < 2) return;
+    setCoachBusy(true);
+    setCoachMsg(null);
+    try {
+      await ajouterCoach(nom, coachClub.trim() || null);
+      setCoachNom("");
+      setCoachClub("");
+      await refreshCoachs();
+    } catch (e) {
+      setCoachMsg((e as Error).message);
+    } finally {
+      setCoachBusy(false);
+    }
+  };
 
   // Création d'une équipe d'effectif : seule le nom est requis (modèle
   // flexible, effectifs variables selon les clubs) ; la séance est
@@ -805,23 +832,72 @@ export default function SessionBuilder({
               }
             />
           </label>
-          {moi && coachRefs.length > 0 ? (
+          {moi ? (
             <div className="field">
               <span className="field-label">Coachs disponibles</span>
-              <div className="coach-list">
-                {coachRefs.map((c) => (
-                  <label className="coach-row" key={c.login}>
-                    <input
-                      type="checkbox"
-                      aria-label={`Coach ${c.login}`}
-                      checked={(plan.coach_logins ?? []).includes(c.login)}
-                      onChange={() => toggleCoach(c.login)}
-                    />
-                    <span className="coach-name">{c.login}</span>
-                    {c.club ? <span className="coach-club">{c.club}</span> : null}
-                  </label>
-                ))}
+              {coachRefs.length > 0 && (
+                <div className="coach-list">
+                  {coachRefs.map((c) => (
+                    <label className="coach-row" key={(c.login ? "c:" : "n:") + c.nom}>
+                      <input
+                        type="checkbox"
+                        aria-label={`Coach ${c.nom}`}
+                        checked={(plan.coach_logins ?? []).includes(c.nom)}
+                        onChange={() => toggleCoach(c.nom)}
+                      />
+                      <span className="coach-name">{c.nom}</span>
+                      {c.club ? <span className="coach-club">{c.club}</span> : null}
+                    </label>
+                  ))}
+                </div>
+              )}
+              {/* Ajout d'un coach sans compte par nom (v1.1, 2026-11-24). */}
+              <div className="coach-add-row">
+                <input
+                  type="text"
+                  aria-label="Nom du coach à ajouter"
+                  placeholder="Nom du coach (ex. Marie Dupont)"
+                  value={coachNom}
+                  onChange={(e) => setCoachNom(e.target.value)}
+                />
+                <input
+                  type="text"
+                  aria-label="Club du coach (facultatif)"
+                  placeholder="Club (facultatif)"
+                  value={coachClub}
+                  onChange={(e) => setCoachClub(e.target.value)}
+                />
+                <button
+                  type="button"
+                  className="apply-btn"
+                  disabled={coachBusy || coachNom.trim().length < 2}
+                  onClick={() => void addCoachParNom()}
+                >
+                  {coachBusy ? "Ajout…" : "Ajouter"}
+                </button>
               </div>
+              {coachMsg ? <p className="form-error">{coachMsg}</p> : null}
+              <label className="field" style={{ marginTop: 8 }}>
+                <span className="field-label">Coach principal de la séance</span>
+                <select
+                  className="select-input"
+                  aria-label="Coach principal de la séance"
+                  value={plan.coach_principal ?? ""}
+                  onChange={(e) =>
+                    updatePlan((d) => {
+                      d.coach_principal = e.target.value || null;
+                    })
+                  }
+                >
+                  <option value="">— non défini —</option>
+                  {coachRefs.map((c) => (
+                    <option key={(c.login ? "c:" : "n:") + c.nom} value={c.nom}>
+                      {c.nom}
+                      {c.club ? ` (${c.club})` : ""}
+                    </option>
+                  ))}
+                </select>
+              </label>
             </div>
           ) : (
             <label className="field">
@@ -972,20 +1048,20 @@ export default function SessionBuilder({
                     <span className="field-label">Coachs rattachés</span>
                     <div className="coach-list">
                       {coachRefs.map((c) => (
-                        <label className="coach-row" key={c.login}>
+                        <label className="coach-row" key={(c.login ? "c:" : "n:") + c.nom}>
                           <input
                             type="checkbox"
-                            aria-label={`Rattacher ${c.login}`}
-                            checked={formCoachs.includes(c.login)}
+                            aria-label={`Rattacher ${c.nom}`}
+                            checked={formCoachs.includes(c.nom)}
                             onChange={() =>
                               setFormCoachs((l) =>
-                                l.includes(c.login)
-                                  ? l.filter((x) => x !== c.login)
-                                  : [...l, c.login]
+                                l.includes(c.nom)
+                                  ? l.filter((x) => x !== c.nom)
+                                  : [...l, c.nom]
                               )
                             }
                           />
-                          <span className="coach-name">{c.login}</span>
+                          <span className="coach-name">{c.nom}</span>
                         </label>
                       ))}
                     </div>
@@ -1051,6 +1127,32 @@ export default function SessionBuilder({
                   ×
                 </button>
               </div>
+
+              {/* Coach en charge du bloc (v1.1, 2026-11-24) : ligne dédiée,
+                  mobile-first. */}
+              {moi && coachRefs.length > 0 && (
+                <label className="seance-block-coach field">
+                  <span className="field-label">En charge</span>
+                  <select
+                    className="select-input"
+                    aria-label={`Coach en charge du bloc ${b.label}`}
+                    value={b.coach ?? ""}
+                    onChange={(e) =>
+                      updatePlan((d) => {
+                        d.blocks[bi].coach = e.target.value || null;
+                      })
+                    }
+                  >
+                    <option value="">— non attribué —</option>
+                    {coachRefs.map((c) => (
+                      <option key={(c.login ? "c:" : "n:") + c.nom} value={c.nom}>
+                        {c.nom}
+                        {c.club ? ` (${c.club})` : ""}
+                      </option>
+                    ))}
+                  </select>
+                </label>
+              )}
 
               {b.kind === "WORKSHOPS" ? (
                 <div className="workshops">

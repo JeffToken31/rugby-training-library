@@ -34,11 +34,13 @@ Routes :
   GET|POST
      /api/propositions[/<id>] → propositions de séance du compte (lot 5, D1 :
                                 snapshot immuable + résultat de validation)
-  GET /api/coachs             → coachs disponibles : tous les comptes
-                                enregistrés (login, club, catégorie
-                                facultatifs) ; 401 sans session. Seuls les
-                                identifiants sont listés : brouillons et
-                                propositions restent strictement privés (C1)
+  GET|POST
+     /api/coachs[/<id>]       → coachs disponibles : union des comptes et
+                                des coachs sans compte ajoutés par nom
+                                (v1.1, 2026-11-24) ; POST {nom, club?} →
+                                409 si doublon, DELETE → 404 ; 401 sans
+                                session. Brouillons et propositions restent
+                                strictement privés (C1)
   GET|POST
      /api/equipes[/<id>]      → équipes d'effectif du compte (nom requis,
                                 club, catégorie, effectif et coachs
@@ -706,14 +708,52 @@ def _equipe_id(nom: str, existing: set) -> str:
 
 
 def _route_coachs(environ):
-    """GET /api/coachs → tous les comptes enregistrés (login, club,
-    catégorie facultatifs) : la liste « coachs disponibles » du
-    constructeur de séance (tranché 2026-11-22)."""
+    """GET|POST /api/coachs ; DELETE /api/coachs/<id> — « coachs
+    disponibles » : union des comptes et des coachs sans compte ajoutés par
+    nom (tranché v1.1, 2026-11-24)."""
+    method = environ.get("REQUEST_METHOD", "GET")
+    parts = [unquote(p) for p in environ["PATH_INFO"].split("/") if p]
+    coach_id = parts[2] if len(parts) > 2 else None
     with app_store.AppStore(app_db_path()) as store:
         compte = _require_account(environ, store)
         if compte is None:
             return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
-        return _json_response(HTTPStatus.OK, {"coachs": store.list_coaches()})
+        if coach_id is None:
+            if method == "GET":
+                return _json_response(HTTPStatus.OK, {"coachs": store.list_coaches()})
+            if method == "POST":
+                err, data = _read_json_body(environ)
+                if err is not None:
+                    return _json_response(err, data)
+                if not isinstance(data, dict):
+                    return _json_response(
+                        HTTPStatus.BAD_REQUEST,
+                        {"error": "Objet JSON requis (nom du coach au minimum)."},
+                    )
+                try:
+                    coach = store.ajouter_coach(
+                        compte["id"], data.get("nom"), data.get("club")
+                    )
+                except app_store.CoachExists:
+                    return _json_response(
+                        HTTPStatus.CONFLICT,
+                        {"error": "Un coach de ce nom existe déjà pour votre compte."},
+                    )
+                except ValueError as exc:
+                    return _json_response(HTTPStatus.BAD_REQUEST, {"error": str(exc)})
+                return _json_response(HTTPStatus.CREATED, coach)
+            return _error(405)
+        if len(parts) != 3:
+            return _json_response(
+                HTTPStatus.BAD_REQUEST, {"error": "Identifiant de coach invalide."}
+            )
+        if method != "DELETE":
+            return _error(405)
+        try:
+            store.supprimer_coach(compte["id"], coach_id)
+        except ValueError:
+            return _json_response(HTTPStatus.NOT_FOUND, {"error": "Coach introuvable."})
+        return _json_response(HTTPStatus.OK, {"ok": True})
 
 
 def _route_conseils(environ):
@@ -873,11 +913,8 @@ def application(environ, start_response):
         status, headers, body = _route_brouillons(environ)
     elif path == "/api/propositions" or path.startswith("/api/propositions/"):
         status, headers, body = _route_propositions(environ)
-    elif path == "/api/coachs":
-        if method != "GET":
-            status, headers, body = _error(405)
-        else:
-            status, headers, body = _route_coachs(environ)
+    elif path == "/api/coachs" or path.startswith("/api/coachs/"):
+        status, headers, body = _route_coachs(environ)
     elif path == "/api/equipes" or path.startswith("/api/equipes/"):
         status, headers, body = _route_equipes(environ)
     elif path == "/api/conseils":

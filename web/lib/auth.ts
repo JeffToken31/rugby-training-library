@@ -171,12 +171,13 @@ export async function chargerProposition(id: number): Promise<Proposition> {
 
 // ------------------------------------------------------------ lot équipes
 // Tranché 2026-11-22 : « coachs disponibles » = tous les comptes
-// enregistrés (login, club, catégorie seulement) ; les brouillons et
-// propositions d'autrui restent strictement privés (C1).
+// enregistrés ; v1.1 (2026-11-24) : + coachs sans compte ajoutés par nom.
+// Les brouillons et propositions d'autrui restent strictement privés (C1).
 
-/** Identité minimale d'un compte, pour la liste « coachs disponibles ». */
+/** Identité minimale d'un coach : un compte (login) ou un nom seul. */
 export interface CoachRef {
-  login: string;
+  nom: string;
+  login: string | null;
   club: string | null;
   categorie: string | null;
 }
@@ -186,6 +187,38 @@ export async function listerCoachs(): Promise<CoachRef[]> {
   if (!res.ok) await erreurDe(res, "Impossible de charger les coachs");
   const body = (await res.json()) as { coachs: CoachRef[] };
   return body.coachs;
+}
+
+/** Coach sans compte fraîchement ajouté (réponse du POST /api/coachs). */
+export interface CoachAjoute {
+  id: string;
+  nom: string;
+  club: string | null;
+  saved_at: string;
+}
+
+/** Ajoute un coach sans compte par nom (v1.1, 2026-11-24) ; 409 si doublon. */
+export async function ajouterCoach(
+  nom: string,
+  club?: string | null
+): Promise<CoachAjoute> {
+  const res = await fetch("/api/coachs", {
+    method: "POST",
+    cache: "no-store",
+    headers: JSON_HEADERS,
+    body: JSON.stringify({ nom, club: club || null }),
+  });
+  if (!res.ok) await erreurDe(res, "Ajout du coach impossible");
+  return (await res.json()) as CoachAjoute;
+}
+
+/** Supprime un coach nommé du compte (404 si inconnu). */
+export async function supprimerCoach(id: string): Promise<void> {
+  const res = await fetch(`/api/coachs/${encodeURIComponent(id)}`, {
+    method: "DELETE",
+    cache: "no-store",
+  });
+  if (!res.ok) await erreurDe(res, "Suppression du coach impossible");
 }
 
 export async function listerEquipes(): Promise<Equipe[]> {

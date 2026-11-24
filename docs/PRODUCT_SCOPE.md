@@ -23,7 +23,7 @@ La marge absorbe les retards, l’installation, les consignes, les démonstratio
 ## Sauvegarder, réutiliser et partager
 
 - Une authentification simple des éducateurs fait partie de la V1 : elle permet d’identifier l’auteur, de conserver ses brouillons et de rattacher ses propositions à son compte.
-- Un coach peut être ajouté au club **sans compte** (nom seul) ; l’attribution « quel coach gère quoi » (séance, atelier) est une donnée interne.
+- Un coach peut être ajouté au club **sans compte** (nom seul, club facultatif) ; l’attribution « quel coach gère quoi » se fait par séance (coach principal) et par atelier (coach en charge du bloc). Les noms de coachs figurent dans la fiche PDF de la séance ; seuls les noms de joueurs en sont exclus.
 - Une séance incomplète peut être sauvegardée en brouillon.
 - Reprendre une proposition partagée crée une nouvelle séance qui conserve un lien vers l’original. Une adaptation de durée, d’effectif ou d’organisation appartient à la séance et laisse la fiche source intacte.
 - La consultation mobile est prioritaire. Les modes de partage envisagés sont le lien, le partage natif du téléphone et une fiche PDF synthétique pour le terrain. L’ordre de livraison et les accès restent à décision.

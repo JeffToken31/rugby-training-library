@@ -5,9 +5,10 @@ Cadrage du lot 3 :
   champ obligatoire, 1 à 80 caractères), club, catégorie, effectif et
   coachs rattachés facultatifs — les tailles varient d'un club à l'autre ;
 - identifiant slug dérivé du nom (POST sans `id`), unique par compte ;
-- `GET /api/coachs` liste tous les comptes enregistrés (login, club,
-  catégorie) : identifiants seuls, brouillons et propositions restent
-  strictement privés (C1 inchangé) ;
+- `GET /api/coachs` liste l'union des comptes (nom = login, club,
+  catégorie) et des coachs ajoutés par nom (login = null) — v1.1,
+  2026-11-24 : brouillons et propositions restent strictement privés
+  (C1 inchangé) ;
 - 404, pas 403, sur les équipes d'autrui (C1).
 
 Isolement : même gabarit que test_auth_app.py — RTRL_APP_DB pointe sur un
@@ -100,9 +101,11 @@ class AccesTests(EquipesTestBase):
         code, body, _ = call_json("/api/equipes/u8", method="DELETE")
         self.assertEqual(code, 401)
 
-    def test_coachs_405_hors_get(self):
+    def test_coachs_405_methode_inconnue(self):
+        # POST et DELETE sont devenus des méthodes valides de l'API (v1.1 :
+        # coachs sans compte) ; seule une méthode réellement inconnue est 405.
         token = self._inscrire()
-        code, body, _ = call_json("/api/coachs", method="POST", data={"x": 1}, cookie=token)
+        code, body, _ = call_json("/api/coachs", method="PUT", data={"x": 1}, cookie=token)
         self.assertEqual(code, 405)
 
     def test_identifiant_invalide_400(self):
@@ -229,8 +232,11 @@ class CreationTests(EquipesTestBase):
         self.assertEqual(eq["coachs"], ["coach.a", "coach.b"])
 
     def test_creation_coachs_format_invalide(self):
+        # v1.1 : « bad login! » serait désormais un nom de coach valide
+        # (2 à 80 caractères) ; « A » (1 caractère) est invalide en login
+        # comme en nom libre.
         token = self._inscrire()
-        for coachs in ("coach.a", ["bad login!"], [None]):
+        for coachs in ("coach.a", ["A"], [None]):
             code, body, _ = call_json(
                 "/api/equipes", "POST", data={"nom": "U8", "coachs": coachs},
                 cookie=token,
@@ -315,8 +321,10 @@ class MiseAJourTests(EquipesTestBase):
 
 
 class CoachsTests(EquipesTestBase):
-    """GET /api/coachs : tous les comptes (login, club, catégorie) ;
-    identifiants seuls — aucune donnée de brouillon ou proposition."""
+    """GET /api/coachs : union des comptes (nom = login) et des coachs
+    ajoutés sans compte (login = null) ; identifiants et rattachements
+    seuls — aucune donnée de brouillon ou proposition (C1 inchangé).
+    L'API complète est couverte par test_coachs_app.py."""
 
     def test_liste_tous_les_comptes(self):
         token_a = self._inscrire("coach.a")
@@ -328,15 +336,18 @@ class CoachsTests(EquipesTestBase):
         self.assertEqual(code, 201)
         code, body, _ = call_json("/api/coachs", cookie=token_a)
         self.assertEqual(code, 200)
-        self.assertEqual([c["login"] for c in body["coachs"]], ["coach.a", "coach.b"])
-        self.assertEqual(body["coachs"][1], {"login": "coach.b", "club": "RC B", "categorie": "U8"})
+        self.assertEqual([c["nom"] for c in body["coachs"]], ["coach.a", "coach.b"])
+        self.assertEqual(
+            body["coachs"][1],
+            {"nom": "coach.b", "login": "coach.b", "club": "RC B", "categorie": "U8"},
+        )
 
     def test_champs_exacts_sans_fuites(self):
         token = self._inscrire("coach.a")
         code, body, _ = call_json("/api/coachs", cookie=token)
         self.assertEqual(code, 200)
         for c in body["coachs"]:
-            self.assertEqual(set(c), {"login", "club", "categorie"})
+            self.assertEqual(set(c), {"nom", "login", "club", "categorie"})
 
     def test_club_et_categorie_facultatifs(self):
         token = self._inscrire()
