@@ -19,6 +19,9 @@ export type PrefillPayload = {
   // Coach par défaut (nom ou login) : premier coach rattaché à l'équipe,
   // sinon le compte connecté — null si aucune des deux.
   coach_par_defaut: string | null;
+  // Groupes nommés de l'équipe (lot peaufinage C) : présents si le coach
+  // en a créés ; optionnel — les snapshots antérieurs n'ont pas le champ.
+  groupes?: { nom: string; joueurs: string[] }[];
 };
 
 function isPrefillTeam(t: unknown): t is PrefillTeam {
@@ -33,6 +36,19 @@ function isPrefillTeam(t: unknown): t is PrefillTeam {
   );
 }
 
+function isPrefillGroupes(g: unknown): boolean {
+  if (!Array.isArray(g)) return false;
+  return g.every((x) => {
+    if (typeof x !== "object" || x === null) return false;
+    const o = x as Record<string, unknown>;
+    return (
+      typeof o.nom === "string" &&
+      Array.isArray(o.joueurs) &&
+      (o.joueurs as unknown[]).every((j) => typeof j === "string")
+    );
+  });
+}
+
 function isPrefill(p: unknown): p is PrefillPayload {
   if (typeof p !== "object" || p === null) return false;
   const o = p as Record<string, unknown>;
@@ -40,7 +56,10 @@ function isPrefill(p: unknown): p is PrefillPayload {
     isPrefillTeam(o.team) &&
     Array.isArray(o.joueurs) &&
     (o.joueurs as unknown[]).every((j) => typeof j === "string") &&
-    (o.coach_par_defaut === null || typeof o.coach_par_defaut === "string")
+    (o.coach_par_defaut === null || typeof o.coach_par_defaut === "string") &&
+    // Champ optionnel (lot peaufinage C) : absent sur les snapshots
+    // antérieurs, validé s'il est présent.
+    (o.groupes === undefined || isPrefillGroupes(o.groupes))
   );
 }
 

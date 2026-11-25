@@ -3,6 +3,10 @@
 // seul (RGPD v1.1). Statique, sans SSR — même gabarit que /connexion.
 // « Préparer une séance » écrit un snapshot en localStorage puis bascule
 // sur le constructeur : aucun écran intermédiaire (lib/prefill.ts).
+// Lot peaufinage C (2026-11-25) : par équipe, deux zones distinctes —
+// « Effectif » (créer/modifier les joueurs) et « Groupes » (groupes nommés
+// librement, composés des joueurs déjà créés dans l'effectif ; un joueur au
+// plus dans un groupe, règle imposée par le serveur).
 
 import { useEffect, useState } from "react";
 import {
@@ -16,7 +20,7 @@ import {
   type CoachRef,
   type Moi,
 } from "../lib/auth";
-import type { Equipe } from "../lib/types";
+import type { Equipe, GroupeEquipe } from "../lib/types";
 import { ecrirePrefill } from "../lib/prefill";
 import { appliquerThemeClub } from "../lib/theme";
 
@@ -76,14 +80,18 @@ function CouleurSlot({
 
 function EquipeCard({
   eq,
-  majJoueurs,
+  majEquipe,
   preparer,
 }: {
   eq: Equipe;
-  majJoueurs: (joueurs: string[]) => Promise<void>;
+  majEquipe: (patch: {
+    joueurs?: string[];
+    groupes?: GroupeEquipe[];
+  }) => Promise<void>;
   preparer: () => void;
 }) {
   const [nomJoueur, setNomJoueur] = useState("");
+  const [nomGroupe, setNomGroupe] = useState("");
   const [enCours, setEnCours] = useState(false);
   const [erreur, setErreur] = useState<string | null>(null);
 
@@ -97,7 +105,7 @@ function EquipeCard({
     setEnCours(true);
     setErreur(null);
     try {
-      await majJoueurs([...eq.joueurs, nom]);
+      await majEquipe({ joueurs: [...eq.joueurs, nom] });
       setNomJoueur("");
     } catch (e) {
       setErreur(e instanceof Error ? e.message : "Ajout du joueur impossible.");
@@ -106,18 +114,101 @@ function EquipeCard({
     }
   };
 
+  // Le serveur impose l'inclusion (joueur d'un groupe ∈ effectif) : retirer
+  // un joueur de l'effectif l'en retire donc aussi de tous ses groupes.
   const retirerJoueur = async (j: string) => {
     if (enCours) return;
     setEnCours(true);
     setErreur(null);
     try {
-      await majJoueurs(eq.joueurs.filter((x) => x !== j));
+      await majEquipe({
+        joueurs: eq.joueurs.filter((x) => x !== j),
+        groupes: eq.groupes.map((g) =>
+          g.joueurs.includes(j)
+            ? { ...g, joueurs: g.joueurs.filter((x) => x !== j) }
+            : g
+        ),
+      });
     } catch (e) {
       setErreur(e instanceof Error ? e.message : "Retrait du joueur impossible.");
     } finally {
       setEnCours(false);
     }
   };
+
+  const creerGroupe = async () => {
+    if (enCours) return;
+    const nom = nomGroupe.trim().replace(/\s+/g, " ");
+    if (nom.length < 2 || nom.length > 80) {
+      setErreur("Nom du groupe : 2 à 80 caractères.");
+      return;
+    }
+    setEnCours(true);
+    setErreur(null);
+    try {
+      await majEquipe({ groupes: [...eq.groupes, { nom, joueurs: [] }] });
+      setNomGroupe("");
+    } catch (e) {
+      setErreur(e instanceof Error ? e.message : "Création du groupe impossible.");
+    } finally {
+      setEnCours(false);
+    }
+  };
+
+  const retirerGroupe = async (index: number) => {
+    if (enCours) return;
+    if (!window.confirm(`Retirer le groupe « ${eq.groupes[index].nom} » ?`)) return;
+    setEnCours(true);
+    setErreur(null);
+    try {
+      await majEquipe({ groupes: eq.groupes.filter((_, i) => i !== index) });
+    } catch (e) {
+      setErreur(e instanceof Error ? e.message : "Retrait du groupe impossible.");
+    } finally {
+      setEnCours(false);
+    }
+  };
+
+  const ajouterJoueurAGroupe = async (index: number, joueur: string) => {
+    if (enCours) return;
+    setEnCours(true);
+    setErreur(null);
+    try {
+      await majEquipe({
+        groupes: eq.groupes.map((g, i) =>
+          i === index ? { ...g, joueurs: [...g.joueurs, joueur] } : g
+        ),
+      });
+    } catch (e) {
+      setErreur(e instanceof Error ? e.message : "Ajout au groupe impossible.");
+    } finally {
+      setEnCours(false);
+    }
+  };
+
+  const retirerJoueurDuGroupe = async (index: number, joueur: string) => {
+    if (enCours) return;
+    setEnCours(true);
+    setErreur(null);
+    try {
+      await majEquipe({
+        groupes: eq.groupes.map((g, i) =>
+          i === index
+            ? { ...g, joueurs: g.joueurs.filter((x) => x !== joueur) }
+            : g
+        ),
+      });
+    } catch (e) {
+      setErreur(e instanceof Error ? e.message : "Retrait du groupe impossible.");
+    } finally {
+      setEnCours(false);
+    }
+  };
+
+  // « Joueurs disponibles » : dans l'effectif, pas encore dans un groupe
+  // (un joueur au plus dans un groupe — règle serveur).
+  const dansUnGroupe = new Set(eq.groupes.flatMap((g) => g.joueurs));
+  const disponibles = eq.joueurs.filter((j) => !dansUnGroupe.has(j));
 
   return (
     <div className="club-team">
@@ -132,42 +223,132 @@ function EquipeCard({
         </span>
       </div>
 
-      {eq.joueurs.length > 0 && (
-        <div className="club-players">
-          {eq.joueurs.map((j) => (
-            <span key={j} className="player-chip">
-              {j}
-              <button
-                type="button"
-                className="chip-x"
-                aria-label={`Retirer ${j}`}
-                disabled={enCours}
-                onClick={() => void retirerJoueur(j)}
-              >
-                ×
-              </button>
-            </span>
-          ))}
-        </div>
-      )}
+      <div className="club-team-zones">
+        <section className="club-zone" aria-labelledby={`effectif-${eq.id}`}>
+          <h3 className="club-zone-title" id={`effectif-${eq.id}`}>
+            Effectif
+          </h3>
 
-      <div className="club-player-add">
-        <input
-          type="text"
-          placeholder="Prénom et nom d'un joueur"
-          value={nomJoueur}
-          maxLength={80}
-          onChange={(e) => setNomJoueur(e.target.value)}
-          onKeyDown={(e) => {
-            if (e.key === "Enter") {
-              e.preventDefault();
-              void ajouterJoueur();
-            }
-          }}
-        />
-        <button type="button" disabled={enCours} onClick={() => void ajouterJoueur()}>
-          Ajouter
-        </button>
+          {eq.joueurs.length > 0 && (
+            <div className="club-players">
+              {eq.joueurs.map((j) => (
+                <span key={j} className="player-chip">
+                  {j}
+                  <button
+                    type="button"
+                    className="chip-x"
+                    aria-label={`Retirer ${j}`}
+                    disabled={enCours}
+                    onClick={() => void retirerJoueur(j)}
+                  >
+                    ×
+                  </button>
+                </span>
+              ))}
+            </div>
+          )}
+
+          <div className="club-player-add">
+            <input
+              type="text"
+              placeholder="Prénom et nom d'un joueur"
+              value={nomJoueur}
+              maxLength={80}
+              onChange={(e) => setNomJoueur(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  e.preventDefault();
+                  void ajouterJoueur();
+                }
+              }}
+            />
+            <button type="button" disabled={enCours} onClick={() => void ajouterJoueur()}>
+              Ajouter
+            </button>
+          </div>
+        </section>
+
+        <section className="club-zone" aria-labelledby={`groupes-${eq.id}`}>
+          <h3 className="club-zone-title" id={`groupes-${eq.id}`}>
+            Groupes
+          </h3>
+
+          {eq.groupes.length === 0 && (
+            <p className="club-note">
+              Aucun groupe : créez-en avec un nom libre, puis placez-y les
+              joueurs de l'effectif (un joueur au plus dans un groupe).
+            </p>
+          )}
+
+          {eq.groupes.map((g, i) => (
+            <div key={`${g.nom}-${i}`} className="club-group-card">
+              <div className="club-group-head">
+                <span className="club-group-name">{g.nom}</span>
+                <button
+                  type="button"
+                  className="chip-x"
+                  aria-label={`Retirer le groupe ${g.nom}`}
+                  disabled={enCours}
+                  onClick={() => void retirerGroupe(i)}
+                >
+                  ×
+                </button>
+              </div>
+              {g.joueurs.length > 0 && (
+                <div className="club-group-joueurs">
+                  {g.joueurs.map((j) => (
+                    <span key={j} className="player-chip">
+                      {j}
+                      <button
+                        type="button"
+                        className="chip-x"
+                        aria-label={`Retirer ${j} du groupe ${g.nom}`}
+                        disabled={enCours}
+                        onClick={() => void retirerJoueurDuGroupe(i, j)}
+                      >
+                        ×
+                      </button>
+                    </span>
+                  ))}
+                </div>
+              )}
+              {disponibles.length > 0 && (
+                <div className="club-group-ajout">
+                  {disponibles.map((j) => (
+                    <button
+                      key={j}
+                      type="button"
+                      className="club-group-add-chip"
+                      disabled={enCours}
+                      onClick={() => void ajouterJoueurAGroupe(i, j)}
+                    >
+                      + {j}
+                    </button>
+                  ))}
+                </div>
+              )}
+            </div>
+          ))}
+
+          <div className="club-group-add">
+            <input
+              type="text"
+              placeholder="Nom d'un groupe (ex. « bleus »)"
+              value={nomGroupe}
+              maxLength={80}
+              onChange={(e) => setNomGroupe(e.target.value)}
+              onKeyDown={(e) => {
+                if (e.key === "Enter") {
+                  e.preventDefault();
+                  void creerGroupe();
+                }
+              }}
+            />
+            <button type="button" disabled={enCours} onClick={() => void creerGroupe()}>
+              Créer
+            </button>
+          </div>
+        </section>
       </div>
 
       {erreur && (
@@ -366,25 +547,29 @@ export default function Club() {
     }
   };
 
-  // Mise à jour complète (PUT = corps entier) : on renvoie le corps complet
-  // avec la nouvelle liste de joueurs, on met l'équipe à jour depuis la
-  // réponse du serveur (normalisation + dédoublonnage effectués là-bas).
-  const majJoueurs = (id: string) => (joueurs: string[]) =>
-    mettreAJourEquipe(
-      id,
-      (() => {
-        const eq = equipes.find((x) => x.id === id);
-        if (!eq) throw new Error("Équipe introuvable.");
-        return {
-          nom: eq.nom,
-          club: eq.club,
-          categorie: eq.categorie,
-          effectif: eq.effectif,
-          coachs: eq.coachs,
-          joueurs,
-        };
-      })()
-    ).then((maj) => setEquipes((liste) => liste.map((x) => (x.id === maj.id ? maj : x))));
+  // Mise à jour complète (PUT = corps entier, lot peaufinage C) : on renvoie
+  // le corps complet avec les champs modifiés (joueurs et/ou groupes) ; l'équipe
+  // est rétablie depuis la réponse du serveur (normalisation, inclusion
+  // effectif, unicité « un joueur dans un groupe » — faits là-bas).
+  const majEquipe =
+    (id: string) =>
+    (patch: { joueurs?: string[]; groupes?: GroupeEquipe[] }) =>
+      mettreAJourEquipe(
+        id,
+        (() => {
+          const eq = equipes.find((x) => x.id === id);
+          if (!eq) throw new Error("Équipe introuvable.");
+          return {
+            nom: eq.nom,
+            club: eq.club,
+            categorie: eq.categorie,
+            effectif: eq.effectif,
+            coachs: eq.coachs,
+            joueurs: patch.joueurs ?? eq.joueurs,
+            groupes: patch.groupes ?? eq.groupes,
+          };
+        })()
+      ).then((maj) => setEquipes((liste) => liste.map((x) => (x.id === maj.id ? maj : x))));
 
   const preparer = (eq: Equipe) => {
     ecrirePrefill({
@@ -396,6 +581,7 @@ export default function Club() {
         effectif: eq.effectif,
       },
       joueurs: eq.joueurs,
+      groupes: eq.groupes,
       coach_par_defaut: eq.coachs[0] ?? moi?.login ?? null,
     });
     // Navigation complète : la page principale consomme le snapshot à
@@ -608,7 +794,7 @@ export default function Club() {
                         <EquipeCard
                           key={eq.id}
                           eq={eq}
-                          majJoueurs={majJoueurs(eq.id)}
+                          majEquipe={majEquipe(eq.id)}
                           preparer={() => preparer(eq)}
                         />
                       ))}

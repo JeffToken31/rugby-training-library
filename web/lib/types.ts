@@ -251,9 +251,18 @@ export interface SessionBlock {
   coach?: string | null;
 }
 
+// Groupe nommé librement d'une équipe (lot peaufinage C, 2026-11-25) : le
+// nom est libre (2 à 80 caractères), les joueurs sont des « prénom + nom »
+// déjà créés dans l'effectif de l'équipe (le serveur impose l'inclusion et
+// l'unicité : un joueur au plus dans un groupe).
+export interface GroupeEquipe {
+  nom: string;
+  joueurs: string[];
+}
+
 // Équipe d'effectif enregistrée au compte (tranché 2026-11-22) : nom seul
-// champ obligatoire ; club, catégorie, effectif et coachs facultatifs —
-// les tailles varient d'un club à l'autre.
+// champ obligatoire ; club, catégorie, effectif, coachs et joueurs
+// facultatifs — les tailles varient d'un club à l'autre.
 export interface Equipe {
   id: string;
   nom: string;
@@ -264,6 +273,9 @@ export interface Equipe {
   /** Joueurs de l'équipe (prénom + nom, RGPD v1.1), lot L3 — listés dans
    * l'ordre saisi, dédoublonnés par le serveur. */
   joueurs: string[];
+  /** Groupes nommés librement composés des joueurs de l'effectif, lot
+   * peaufinage C — vides par défaut, persistance par équipe. */
+  groupes: GroupeEquipe[];
   saved_at: string;
 }
 

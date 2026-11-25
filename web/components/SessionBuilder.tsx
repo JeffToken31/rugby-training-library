@@ -197,8 +197,57 @@ export default function SessionBuilder({
           const base = clonePlan(p);
           base.team = prefill.team;
           const groupes = base.groups ?? [];
+          const groupesEquipe = prefill.groupes ?? [];
           const noms = prefill.joueurs;
-          if (noms.length > 0) {
+          if (groupesEquipe.length > 0) {
+            // Lot peaufinage C : les groupes nommés de la page « club » sont
+            // mappés POSITIONNELLEMENT sur la trame — le groupe i de
+            // l'équipe occupe le groupe i de la trame (nom, joueurs, compte)
+            // ; les groupes de trame en reste vides. Les groupes enregistrés
+            // au-delà de la trame (U8 = 2) sont ajoutés comme dans addGroup :
+            // nouvel id + un slot dans chaque rotation d'ateliers (station
+            // unique, atelier prérempli — `null` tolérée).
+            const ex = firstUsableExercise();
+            const groupesFinaux = groupes.map((g, i) => {
+              const ge = groupesEquipe[i];
+              if (!ge) return { ...g, players: 0, joueurs: undefined };
+              const copie = {
+                ...g,
+                name: ge.nom,
+                players: ge.joueurs.length,
+              };
+              copie.joueurs = ge.joueurs.length > 0 ? ge.joueurs : undefined;
+              return copie;
+            });
+            groupesEquipe.forEach((ge, i) => {
+              if (i < groupes.length) return;
+              const gid = nextGroupId(groupesFinaux);
+              groupesFinaux.push({
+                id: gid,
+                name: ge.nom,
+                players: ge.joueurs.length,
+                joueurs: ge.joueurs.length > 0 ? ge.joueurs : undefined,
+              });
+              for (const b of base.blocks ?? []) {
+                if (b.kind !== "WORKSHOPS") continue;
+                for (const r of b.rounds ?? []) {
+                  const used = new Set(r.assignments.map((s) => s.station_id));
+                  let k = r.assignments.length + 1;
+                  let station = `station-${k}`;
+                  while (used.has(station)) {
+                    k += 1;
+                    station = `station-${k}`;
+                  }
+                  r.assignments.push({
+                    group_id: gid,
+                    station_id: station,
+                    variant_id: ex,
+                  });
+                }
+              }
+            });
+            base.groups = groupesFinaux;
+          } else if (noms.length > 0) {
             const parGroupe = roundRobinJoueurs(noms, groupes.map((g) => g.id));
             base.groups = groupes.map((g) => {
               const r = parGroupe[g.id] ?? [];

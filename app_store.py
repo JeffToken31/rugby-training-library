@@ -106,6 +106,7 @@ CREATE TABLE IF NOT EXISTS equipes (
     effectif INTEGER,
     coachs_json TEXT NOT NULL DEFAULT '[]',
     joueurs_json TEXT NOT NULL DEFAULT '[]',
+    groupes_json TEXT NOT NULL DEFAULT '[]',
     saved_at TEXT NOT NULL,
     PRIMARY KEY (compte_id, id)
 );
@@ -300,15 +301,21 @@ class AppStore:
             self.conn.execute("ALTER TABLE comptes ADD COLUMN categorie TEXT")
 
     def _migrate_equipes(self) -> None:
-        """Migration idempotente (lot L3, v1.1) : ajoute `joueurs_json` sur
-        une base créée avant le lot ; sans effet sur une base neuve (la
-        colonne est déjà dans le schéma)."""
+        """Migrations idempotentes : ajoute `joueurs_json` (lot L3, v1.1) et
+        `groupes_json` (lot peaufinage C, 2026-11-25) sur une base créée
+        avant les lots ; sans effet sur une base neuve (les colonnes sont
+        déjà dans le schéma)."""
         colonnes = {
             row[1] for row in self.conn.execute("PRAGMA table_info(equipes)")
         }
         if "joueurs_json" not in colonnes:
             self.conn.execute(
                 "ALTER TABLE equipes ADD COLUMN joueurs_json TEXT NOT NULL "
+                "DEFAULT '[]'"
+            )
+        if "groupes_json" not in colonnes:
+            self.conn.execute(
+                "ALTER TABLE equipes ADD COLUMN groupes_json TEXT NOT NULL "
                 "DEFAULT '[]'"
             )
 
@@ -633,13 +640,14 @@ class AppStore:
         effectif: int | None = None,
         coachs: list | None = None,
         joueurs: list | None = None,
+        groupes: list | None = None,
     ) -> dict:
         """Crée ou met à jour une équipe d'effectif du compte (tranché
         2026-11-22). Seul `nom` est obligatoire (1 à 80 caractères) ;
-        club, catégorie, effectif, coachs et joueurs sont facultatifs
-        (tailles flexibles selon le club). PUT = mise à jour complète : un
-        champ absent est remis à absent. Lève ValueError si un champ est
-        invalide.
+        club, catégorie, effectif, coachs, joueurs et groupes sont
+        facultatifs (tailles flexibles selon le club). PUT = mise à jour
+        complète : un champ absent est remis à absent. Lève ValueError si
+        un champ est invalide.
 
         `joueurs` (lot L3, v1.1) : liste de joueurs de l'équipe — prénom +
         nom chacun (RGPD v1.1 : prénom + nom, rien d'autre ; le formulaire
@@ -649,6 +657,15 @@ class AppStore:
         que le coach aura saisi, affiché tel quel dans les groupes).
         La séance n'est PAS une référence vivante : l'attachement d'une
         équipe copie ce snapshot dans les groupes (front, lot L3).
+
+        `groupes` (lot peaufinage C, 2026-11-25) : liste de groupes nommés
+        librement de l'équipe — chaque élément est un objet
+        {nom, joueurs}. Le nom est un texte libre de 2 à 80 caractères
+        (normalize_coach_name) ; les joueurs du groupe doivent appartenir à
+        l'effectif de l'équipe (`joueurs`) et un joueur ne peut appartenir
+        qu'à un seul groupe (doublons intra-groupe et inter-groupes
+        rejetés) — la page « club » sépare effetifs et groupes, les
+        joueurs d'un groupe sont les joueurs de l'effectif, rien d'autre.
         """
         if not draft_id_ok(team_id):
             raise ValueError(
@@ -717,14 +734,69 @@ class AppStore:
                 continue
             _joueurs_vus.add(cle)
             norm_joueurs.append(j2)
+        if groupes is None:
+            groupes = []
+        if not isinstance(groupes, list):
+            raise ValueError(
+                "Les groupes doivent être une liste d’objets {nom, joueurs} "
+                "(ou champ absent)."
+            )
+        effectif_cles = {j.casefold() for j in norm_joueurs}
+        groupes_cles: set = set()
+        norm_groupes = []
+        for g in groupes:
+            if not isinstance(g, dict):
+                raise ValueError(
+                    "Chaque groupe doit être un objet {nom, joueurs} dans la "
+                    "liste des groupes."
+                )
+            try:
+                gnom = normalize_coach_name(g.get("nom"))
+            except ValueError:
+                raise ValueError(
+                    "Nom de groupe invalide (texte libre de 2 à 80 caractères)."
+                )
+            gmembres = g.get("joueurs")
+            if gmembres is None:
+                gmembres = []
+            if not isinstance(gmembres, list):
+                raise ValueError(
+                    "Les joueurs d’un groupe doivent être une liste de "
+                    "« prénom + nom »."
+                )
+            membres_norm = []
+            for j in gmembres:
+                try:
+                    j2 = normalize_player_name(j)
+                except ValueError:
+                    raise ValueError(
+                        "Nom de joueur invalide dans un groupe (prénom + nom, "
+                        "2 à 80 caractères)."
+                    )
+                cle = j2.casefold()
+                if cle not in effectif_cles:
+                    raise ValueError(
+                        f"Le joueur « {j2} » du groupe « {gnom} » ne fait pas "
+                        "partie de l’effectif de l’équipe."
+                    )
+                if cle in groupes_cles:
+                    raise ValueError(
+                        f"Le joueur « {j2} » est présent dans plusieurs "
+                        "groupes (un joueur au plus dans un groupe)."
+                    )
+                groupes_cles.add(cle)
+                membres_norm.append(j2)
+            norm_groupes.append({"nom": gnom, "joueurs": membres_norm})
         now = _utcnow_iso()
         self.conn.execute(
             "INSERT INTO equipes (id, compte_id, nom, club, categorie, effectif, "
-            "coachs_json, joueurs_json, saved_at) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?) "
+            "coachs_json, joueurs_json, groupes_json, saved_at) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?) "
             "ON CONFLICT (compte_id, id) DO UPDATE SET nom = excluded.nom, "
             "club = excluded.club, categorie = excluded.categorie, "
             "effectif = excluded.effectif, coachs_json = excluded.coachs_json, "
             "joueurs_json = excluded.joueurs_json, "
+            "groupes_json = excluded.groupes_json, "
             "saved_at = excluded.saved_at",
             (
                 team_id,
@@ -735,6 +807,7 @@ class AppStore:
                 effectif,
                 json.dumps(norm_coachs, ensure_ascii=False),
                 json.dumps(norm_joueurs, ensure_ascii=False),
+                json.dumps(norm_groupes, ensure_ascii=False),
                 now,
             ),
         )
@@ -747,6 +820,7 @@ class AppStore:
             "effectif": effectif,
             "coachs": norm_coachs,
             "joueurs": norm_joueurs,
+            "groupes": norm_groupes,
             "saved_at": now,
         }
 
@@ -754,7 +828,7 @@ class AppStore:
         """Équipes du compte, plus récente en premier."""
         rows = self.conn.execute(
             "SELECT id, nom, club, categorie, effectif, coachs_json, "
-            "joueurs_json, saved_at "
+            "joueurs_json, groupes_json, saved_at "
             "FROM equipes WHERE compte_id = ? ORDER BY saved_at DESC, id",
             (account_id,),
         ).fetchall()
@@ -763,7 +837,7 @@ class AppStore:
     def get_equipe(self, account_id: int, team_id: str):
         row = self.conn.execute(
             "SELECT id, nom, club, categorie, effectif, coachs_json, "
-            "joueurs_json, saved_at "
+            "joueurs_json, groupes_json, saved_at "
             "FROM equipes WHERE compte_id = ? AND id = ?",
             (account_id, team_id),
         ).fetchone()
@@ -836,7 +910,7 @@ class AppStore:
 
 def _equipe_dict(row) -> dict:
     """Ligne (id, nom, club, categorie, effectif, coachs_json, joueurs_json,
-    saved_at)."""
+    groupes_json, saved_at)."""
     return {
         "id": row[0],
         "nom": row[1],
@@ -845,5 +919,6 @@ def _equipe_dict(row) -> dict:
         "effectif": row[4],
         "coachs": json.loads(row[5]),
         "joueurs": json.loads(row[6]),
-        "saved_at": row[7],
+        "groupes": json.loads(row[7]),
+        "saved_at": row[8],
     }

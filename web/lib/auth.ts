@@ -2,7 +2,7 @@
 // Miroir du contrat webapp.py / app_store.py. Le cookie de session est
 // HttpOnly : le navigateur l'envoie, le client ne le lit jamais.
 
-import type { Equipe, MinutageDerivee, SessionPlan } from "./types";
+import type { Equipe, GroupeEquipe, MinutageDerivee, SessionPlan } from "./types";
 import type { ClubTheme } from "./theme";
 
 export interface Moi {
@@ -244,6 +244,9 @@ export interface CorpsEquipe {
   coachs?: string[];
   /** Joueurs de l'équipe (prénom + nom), lot L3 — `undefined` ou liste. */
   joueurs?: string[];
+  /** Groupes nommés librement de l'équipe, lot peaufinage C — `undefined`
+   * ou liste ; les joueurs d'un groupe doivent appartenir à `joueurs`. */
+  groupes?: GroupeEquipe[];
 }
 
 /** Crée une équipe (identifiant slug généré côté serveur si absent). */

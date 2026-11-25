@@ -511,5 +511,238 @@ class MigrationJoueursTests(EquipesTestBase):
             self.assertEqual(store.list_equipes(1)[0]["joueurs"], [])
 
 
+class GroupesTests(EquipesTestBase):
+    """Lot peaufinage C (2026-11-25) : groupes nommés librement de l'équipe
+    — {nom, joueurs} ; le nom est un texte libre de 2 à 80 caractères ; les
+    joueurs d'un groupe doivent appartenir à l'effectif de l'équipe (insensible
+    à la casse) et un joueur n'appartient qu'à un seul groupe (doublons
+    intra-groupe et inter-groupes rejetés) ; PUT sans `groupes` → vide
+    (mise à jour complète, comme les autres champs)."""
+
+    def _creer(self, token, joueurs=None, groupes=None):
+        corps = {"nom": "U8"}
+        if joueurs is not None:
+            corps["joueurs"] = joueurs
+        if groupes is not None:
+            corps["groupes"] = groupes
+        code, eq, _ = call_json("/api/equipes", "POST", data=corps, cookie=token)
+        self.assertEqual(code, 201, eq)
+        return eq
+
+    def test_creation_groupes_disjoints_dans_effectif(self):
+        token = self._inscrire()
+        eq = self._creer(
+            token,
+            joueurs=["Léa Martin", "Noah Dupont", "Chloé Petit", "Tom Bernard"],
+            groupes=[
+                {"nom": "Bleus", "joueurs": ["Léa Martin", "Noah Dupont"]},
+                {"nom": "Rouges", "joueurs": ["Chloé Petit"]},
+            ],
+        )
+        self.assertEqual(
+            eq["groupes"],
+            [
+                {"nom": "Bleus", "joueurs": ["Léa Martin", "Noah Dupont"]},
+                {"nom": "Rouges", "joueurs": ["Chloé Petit"]},
+            ],
+        )
+        # Persistance : le GET renvoie les mêmes groupes.
+        code, recu, _ = call_json(f"/api/equipes/{eq['id']}", cookie=token)
+        self.assertEqual(code, 200)
+        self.assertEqual(recu["groupes"], eq["groupes"])
+
+    def test_creation_sans_groupes_vide_par_defaut(self):
+        token = self._inscrire()
+        eq = self._creer(token, joueurs=["Léa Martin"])
+        self.assertEqual(eq["groupes"], [])
+
+    def test_groupe_nom_normalise_et_casse_insensible(self):
+        token = self._inscrire()
+        eq = self._creer(
+            token,
+            joueurs=["Léa Martin"],
+            # « LÉA MARTIN » : mêmes caractères que l'effectif, seule la
+            # casse diffère — `casefold` ignore la casse (pas les accents).
+            groupes=[{"nom": "  Bleus  ", "joueurs": ["LÉA MARTIN"]}],
+        )
+        # Nom de groupe normalisé (trim) ; joueur reconnu dans l'effectif
+        # sans tenir compte de la casse (le nom stocké est celui saisi).
+        self.assertEqual(eq["groupes"][0]["nom"], "Bleus")
+        self.assertEqual(eq["groupes"][0]["joueurs"], ["LÉA MARTIN"])
+
+    def test_put_sans_groupes_remis_vide(self):
+        token = self._inscrire()
+        eq = self._creer(
+            token,
+            joueurs=["Léa Martin"],
+            groupes=[{"nom": "Bleus", "joueurs": ["Léa Martin"]}],
+        )
+        code, eq2, _ = call_json(
+            f"/api/equipes/{eq['id']}", "PUT", data={"nom": "U8"}, cookie=token
+        )
+        self.assertEqual(code, 200, eq2)
+        self.assertEqual(eq2["groupes"], [])
+
+    def test_put_groupes_met_a_jour(self):
+        token = self._inscrire()
+        eq = self._creer(token, joueurs=["Léa Martin", "Noah Dupont"])
+        self.assertEqual(eq["groupes"], [])
+        code, eq2, _ = call_json(
+            f"/api/equipes/{eq['id']}", "PUT",
+            data={
+                "nom": "U8",
+                "joueurs": ["Léa Martin", "Noah Dupont"],
+                "groupes": [{"nom": "Vert", "joueurs": ["Noah Dupont"]}],
+            },
+            cookie=token,
+        )
+        self.assertEqual(code, 200, eq2)
+        self.assertEqual(eq2["groupes"], [{"nom": "Vert", "joueurs": ["Noah Dupont"]}])
+
+    def test_groupe_joueur_hors_effectif_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={
+                "nom": "U8",
+                "joueurs": ["Léa Martin"],
+                "groupes": [{"nom": "Bleus", "joueurs": ["Étranger X"]}],
+            },
+            cookie=token,
+        )
+        self.assertEqual(code, 400)
+        self.assertIn("effectif", body["error"])
+
+    def test_joueur_dans_deux_groupes_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={
+                "nom": "U8",
+                "joueurs": ["Léa Martin", "Noah Dupont"],
+                "groupes": [
+                    {"nom": "Bleus", "joueurs": ["Léa Martin"]},
+                    {"nom": "Rouges", "joueurs": ["Léa Martin"]},
+                ],
+            },
+            cookie=token,
+        )
+        self.assertEqual(code, 400)
+        self.assertIn("un joueur au plus dans un groupe", body["error"])
+
+    def test_doublon_intra_groupe_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={
+                "nom": "U8",
+                "joueurs": ["Léa Martin", "Noah Dupont"],
+                "groupes": [
+                    {
+                        "nom": "Bleus",
+                        "joueurs": ["Léa Martin", "léa martin"],
+                    }
+                ],
+            },
+            cookie=token,
+        )
+        self.assertEqual(code, 400)
+
+    def test_nom_groupe_invalide_400(self):
+        token = self._inscrire()
+        for nom in (None, "", "A", "B" * 81):
+            code, body, _ = call_json(
+                "/api/equipes", "POST",
+                data={"nom": "U8", "groupes": [{"nom": nom, "joueurs": []}]},
+                cookie=token,
+            )
+            self.assertEqual(code, 400, nom)
+
+    def test_groupes_non_liste_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={"nom": "U8", "groupes": "Bleus"}, cookie=token,
+        )
+        self.assertEqual(code, 400)
+
+    def test_groupe_non_objet_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={"nom": "U8", "groupes": ["Bleus"]}, cookie=token,
+        )
+        self.assertEqual(code, 400)
+
+    def test_joueurs_groupe_non_liste_400(self):
+        token = self._inscrire()
+        code, body, _ = call_json(
+            "/api/equipes", "POST",
+            data={
+                "nom": "U8",
+                "joueurs": ["Léa Martin"],
+                "groupes": [{"nom": "Bleus", "joueurs": "Léa Martin"}],
+            },
+            cookie=token,
+        )
+        self.assertEqual(code, 400)
+
+
+class MigrationGroupesTests(EquipesTestBase):
+    """Sur une base créée avant le lot peaufinage C (table `equipes` avec
+    `joueurs_json` mais sans `groupes_json`), la première ouverture ajoute la
+    colonne sans perte de données (migration idempotente,
+    `app_store._migrate_equipes`)."""
+
+    def test_base_existante_ajout_colonne_sans_perte(self):
+        conn = sqlite3.connect(self.db_path)
+        conn.executescript(
+            "CREATE TABLE comptes ("
+            " id INTEGER PRIMARY KEY AUTOINCREMENT,"
+            " login TEXT NOT NULL UNIQUE,"
+            " salt_hex TEXT NOT NULL,"
+            " pw_hash_hex TEXT NOT NULL,"
+            " created_at TEXT NOT NULL,"
+            " club TEXT,"
+            " categorie TEXT);"
+            "CREATE TABLE equipes ("
+            " id TEXT NOT NULL,"
+            " compte_id INTEGER NOT NULL,"
+            " nom TEXT NOT NULL,"
+            " club TEXT,"
+            " categorie TEXT,"
+            " effectif INTEGER,"
+            " coachs_json TEXT NOT NULL DEFAULT '[]',"
+            " joueurs_json TEXT NOT NULL DEFAULT '[]',"
+            " saved_at TEXT NOT NULL,"
+            " PRIMARY KEY (compte_id, id));"
+        )
+        conn.execute(
+            "INSERT INTO comptes (login, salt_hex, pw_hash_hex, created_at, club, categorie)"
+            " VALUES ('coach.existant', 'aa', 'bb', '2026-01-01T00:00:00Z', 'RC Test', 'U8')"
+        )
+        conn.execute(
+            "INSERT INTO equipes (id, compte_id, nom, club, categorie, effectif, "
+            "coachs_json, joueurs_json, saved_at) "
+            "VALUES ('u8', 1, 'U8', 'RC Test', 'U8', 14, '[\"coach.b\"]', "
+            "'[\"Léa Martin\", \"Noah Dupont\"]', '2026-01-01T00:00:00Z')"
+        )
+        conn.commit()
+        conn.close()
+        with app_store.AppStore(self.db_path) as store:
+            colonnes = {row[1] for row in store.conn.execute("PRAGMA table_info(equipes)")}
+            self.assertIn("groupes_json", colonnes)
+            eq = store.get_equipe(1, "u8")
+            # Les joueurs existants sont conservés ; les groupes sont vides.
+            self.assertEqual(eq["joueurs"], ["Léa Martin", "Noah Dupont"])
+            self.assertEqual(eq["coachs"], ["coach.b"])
+            self.assertEqual(eq["groupes"], [])
+        # Seconde ouverture : rien de cassé (idempotence).
+        with app_store.AppStore(self.db_path) as store:
+            eq = store.get_equipe(1, "u8")
+            self.assertEqual(eq["joueurs"], ["Léa Martin", "Noah Dupont"])
+            self.assertEqual(eq["groupes"], [])
+
+
 if __name__ == "__main__":
     unittest.main()

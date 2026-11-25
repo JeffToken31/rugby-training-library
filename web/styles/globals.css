@@ -1950,6 +1950,90 @@ input {
   cursor: pointer;
 }
 
+/* Lot peaufinage C (2026-11-25) : par équipe, deux zones distinctes —
+   « Effectif » (créer/modifier les joueurs) et « Groupes » (groupes nommés
+   librement composés des joueurs de l'effectif). Empilé sur téléphone,
+   deux colonnes quand la largeur le permet (flex + largeur minimale). */
+
+.club-team-zones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.club-zone {
+  flex: 1 1 260px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+}
+
+.club-zone-title {
+  margin: 0;
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.club-group-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+}
+
+.club-group-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.club-group-name {
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.club-group-joueurs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.club-group-ajout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.club-group-add-chip {
+  min-height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg-subtle);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.club-group-add {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.club-group-add input {
+  flex: 1 1 140px;
+  min-width: 0;
+}
+
 /* Lot peaufinage B (2026-11-25) — identité du club. :where() = spécificité
    zéro : la 3e couleur ne colore que les liens sans couleur propre ; les
    liens classés (médias, sources, invite) gardent var(--accent). Sans 3e
