@@ -63,6 +63,7 @@ import {
   repartirEffectif,
   roundRobinJoueurs,
 } from "../lib/equipes";
+import type { PrefillPayload } from "../lib/prefill";
 import {
   lienWhatsApp,
   partagerPieceJointe,
@@ -109,9 +110,13 @@ function savedLabel(iso: string): string {
 export default function SessionBuilder({
   view,
   moi,
+  prefill,
 }: {
   view: CatalogueView | null;
   moi: Moi | null;
+  // Lot L4 : snapshot écrit par la page « club » — appliqué à la première
+  // ouverture, sur la copie de la trame (la trame vierge reste le retour).
+  prefill?: PrefillPayload | null;
 }) {
   const [plan, setPlan] = useState<SessionPlan | null>(null);
   const [loadError, setLoadError] = useState<string | null>(null);
@@ -185,8 +190,41 @@ export default function SessionBuilder({
     fetchTrameU8()
       .then((p) => {
         if (!live) return;
+        // La trame vierge reste le point de retour ; le préremplissage (lot
+        // L4) s'applique sur une copie, avec la même logique que attachEquipe.
         setInitialDraft(clonePlan(p));
-        setPlan(p);
+        if (prefill) {
+          const base = clonePlan(p);
+          base.team = prefill.team;
+          const groupes = base.groups ?? [];
+          const noms = prefill.joueurs;
+          if (noms.length > 0) {
+            const parGroupe = roundRobinJoueurs(noms, groupes.map((g) => g.id));
+            base.groups = groupes.map((g) => {
+              const r = parGroupe[g.id] ?? [];
+              const copie = { ...g, players: r.length };
+              if (r.length > 0) copie.joueurs = r;
+              else copie.joueurs = undefined;
+              return copie;
+            });
+          } else if (prefill.team.effectif !== null) {
+            const parts = repartirEffectif(prefill.team.effectif, groupes.length);
+            base.groups = groupes.map((g, i) => ({
+              ...g,
+              players: parts[i] ?? 0,
+              joueurs: undefined,
+            }));
+          }
+          base.players = (base.groups ?? []).reduce((a, x) => a + x.players, 0);
+          if (prefill.coach_par_defaut) {
+            base.coach_logins = [prefill.coach_par_defaut];
+            base.coaches = 1;
+            base.coach_principal = prefill.coach_par_defaut;
+          }
+          setPlan(base);
+        } else {
+          setPlan(p);
+        }
         const d = loadDraft();
         if (d) setPendingDraft(d);
       })
@@ -194,6 +232,9 @@ export default function SessionBuilder({
     return () => {
       live = false;
     };
+    // `prefill` est stable : posé par la page « club » avant l'ouverture
+    // (consommation unique) — l'effet ne doit se jouer qu'à la première
+    // ouverture du constructeur.
   }, []);
 
   // Lot 5 : listes du compte au montage (référencées par l'identité « moi »,

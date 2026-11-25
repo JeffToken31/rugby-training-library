@@ -10,6 +10,7 @@ import { fetchCatalogue, fetchFiche } from "../lib/api";
 import { fetchMoi, seDeconnecter } from "../lib/auth";
 import type { Moi } from "../lib/auth";
 import { selectCards } from "../lib/filter";
+import { consommerPrefill, type PrefillPayload } from "../lib/prefill";
 import CatalogCard from "../components/CatalogCard";
 import FicheDetail from "../components/FicheDetail";
 import FiltersSheet from "../components/FiltersSheet";
@@ -41,6 +42,11 @@ export default function Home() {
   // client, comme la fiche) ; le retour passe par la flèche du header.
   const [seanceOpen, setSeanceOpen] = useState(false);
 
+  // Lot L4 : snapshot écrit par la page « club » (préremplissage du
+  // constructeur sans écran intermédiaire) — consommé une seule fois, à la
+  // première ouverture.
+  const [prefill, setPrefill] = useState<PrefillPayload | null>(null);
+
   const [theme, setTheme] = useState<Theme>("light");
 
   // Lot 5 : identité du compte courant (null si déconnecté) ; le cookie
@@ -49,6 +55,13 @@ export default function Home() {
 
   useEffect(() => {
     let live = true;
+    // Lot L4 : si la page « club » a écrit un snapshot, le constructeur
+    // s'ouvre directement (la consommation est unique et idempotente).
+    const pf = consommerPrefill();
+    if (pf) {
+      setPrefill(pf);
+      setSeanceOpen(true);
+    }
     fetchCatalogue()
       .then((v) => live && setView(v))
       .catch((e: Error) => live && setLoadError(e.message));
@@ -233,7 +246,7 @@ export default function Home() {
         {selectedCard ? (
           <FicheDetail fiche={selectedFiche} tagLabels={tagLabels} error={ficheError} />
         ) : seanceOpen ? (
-          <SessionBuilder view={view} moi={moi} />
+          <SessionBuilder view={view} moi={moi} prefill={prefill} />
         ) : loadError ? (
           <div className="empty">
             <h2>Catalogue indisponible</h2>

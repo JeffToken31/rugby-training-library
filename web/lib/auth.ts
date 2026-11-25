@@ -174,12 +174,15 @@ export async function chargerProposition(id: number): Promise<Proposition> {
 // enregistrés ; v1.1 (2026-11-24) : + coachs sans compte ajoutés par nom.
 // Les brouillons et propositions d'autrui restent strictement privés (C1).
 
-/** Identité minimale d'un coach : un compte (login) ou un nom seul. */
+/** Identité minimale d'un coach : un compte (login) ou un nom seul.
+ * `id` = slug serveur pour un coach nommé (retrait possible), null pour
+ * un compte (lot L4, 2026-11-25). */
 export interface CoachRef {
   nom: string;
   login: string | null;
   club: string | null;
   categorie: string | null;
+  id: string | null;
 }
 
 export async function listerCoachs(): Promise<CoachRef[]> {

@@ -1795,3 +1795,143 @@ input {
   border: 1px solid var(--line);
   border-radius: var(--radius);
 }
+
+/* Lot L4 (2026-11-25) : page « club » — dashboard club → coachs + équipes
+   par catégorie ; joueurs en chips prénom + nom (RGPD v1.1). */
+
+.club-loading {
+  margin: 24px 0 0;
+  font-size: 15px;
+  color: var(--ink-3);
+}
+
+.club-header-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+}
+
+.club-header-name {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.club-badge {
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink-2);
+}
+
+.club-section {
+  margin-top: 20px;
+}
+
+.club-section-title {
+  font-size: 16px;
+  margin: 0 0 10px;
+}
+
+.club-note {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.club-err {
+  margin: 8px 0 0;
+  font-size: 14px;
+  color: var(--badge-red-t);
+}
+
+.club-team {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+}
+
+.club-team-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.club-team-name {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.club-effectif {
+  font-size: 13.5px;
+  color: var(--ink-3);
+}
+
+.club-players {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.player-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 34px;
+  padding: 0 6px 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg-subtle);
+  font-size: 14px;
+}
+
+.player-chip .chip-x {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 999px;
+  background: none;
+  color: var(--ink-3);
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.club-player-add {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.club-player-add input {
+  flex: 1 1 160px;
+  min-width: 0;
+}
+
+.club-prep {
+  align-self: flex-start;
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14.5px;
+  font-weight: 700;
+  cursor: pointer;
+}

@@ -8,9 +8,10 @@ Cadrage du lot (tranché user 2026-11-24) :
 - chaque compte ne gère que ses propres coachs (C1 inchangé) :
   DELETE /api/coachs/<id> → 200 {ok: true}, 404 si l'identifiant est
   inconnu ou rattaché à un autre compte ;
-- « coachs disponibles » = union des comptes (nom = login, club,
-  catégorie) et des coachs ajoutés par nom (login = null) : forme
-  {nom, login, club, categorie} ;
+- « coachs disponibles » = union des comptes (nom = login, id = null)
+  et des coachs ajoutés par nom (login = null, id = slug) : forme
+  {nom, login, club, categorie, id} — le slug est exposé depuis le lot
+  L4 (2026-11-25) pour permettre le retrait par l'interface ;
 - équipe : `coachs` rattachés = logins enregistrés ou noms libres,
   normalisés avec dédoublonnage (upsert_equipe) ;
 - les champs de plan `coach_principal` / `blocks[].coach` sont ignorés
@@ -204,8 +205,10 @@ class SuppressionTests(CoachsTestBase):
 
 
 class ListeTests(CoachsTestBase):
-    """Union : comptes d'abord (nom = login), puis coachs nommés
-    (login = null, categorie = null), formes exactes."""
+    """Union : comptes d'abord (nom = login, id = null), puis coachs
+    nommés (login = null, categorie = null, id = slug) — le slug est
+    exposé pour permettre le retrait via DELETE /api/coachs/<id>
+    (lot L4, 2026-11-25), formes exactes."""
 
     def _store(self):
         return app_store.AppStore(self.db_path)
@@ -220,10 +223,10 @@ class ListeTests(CoachsTestBase):
         self.assertEqual(
             coachs,
             [
-                {"nom": "coach.a", "login": "coach.a", "club": None, "categorie": None},
-                {"nom": "coach.b", "login": "coach.b", "club": None, "categorie": None},
-                {"nom": "Aa Bernard", "login": None, "club": None, "categorie": None},
-                {"nom": "Zoé Martin", "login": None, "club": "RC A", "categorie": None},
+                {"nom": "coach.a", "login": "coach.a", "club": None, "categorie": None, "id": None},
+                {"nom": "coach.b", "login": "coach.b", "club": None, "categorie": None, "id": None},
+                {"nom": "Aa Bernard", "login": None, "club": None, "categorie": None, "id": "aa-bernard"},
+                {"nom": "Zoé Martin", "login": None, "club": "RC A", "categorie": None, "id": "zo-martin"},
             ],
         )
 

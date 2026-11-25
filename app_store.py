@@ -330,17 +330,20 @@ class AppStore:
         """Liste « coachs disponibles » du constructeur de séance : union
         des comptes (login, club, catégorie) et des coachs sans compte
         ajoutés par nom (tranché v1.1, 2026-11-24). Forme unifiée
-        {nom, login, club, categorie} — login = null pour un nom seul.
-        Brouillons et propositions d'autrui restent strictement privés (C1).
+        {nom, login, club, categorie, id} — login = null et id = slug pour
+        un nom seul (le slug est nécessaire au retrait par
+        DELETE /api/coachs/<id> — lot L4, 2026-11-25) ; id = null pour un
+        compte. Brouillons et propositions d'autrui restent strictement
+        privés (C1).
         """
         return [
-            {"nom": r[0], "login": r[0], "club": r[1], "categorie": r[2]}
+            {"nom": r[0], "login": r[0], "club": r[1], "categorie": r[2], "id": None}
             for r in self.conn.execute(
                 "SELECT login, club, categorie FROM comptes ORDER BY login"
             )
         ] + [
-            {"nom": r[0], "login": None, "club": r[1], "categorie": None}
-            for r in self.conn.execute("SELECT nom, club FROM coachs ORDER BY nom")
+            {"nom": r[1], "login": None, "club": r[2], "categorie": None, "id": r[0]}
+            for r in self.conn.execute("SELECT id, nom, club FROM coachs ORDER BY nom")
         ]
 
     def ajouter_coach(self, account_id: int, nom, club: str | None = None) -> dict:

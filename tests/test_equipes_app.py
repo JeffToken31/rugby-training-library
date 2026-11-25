@@ -5,10 +5,10 @@ Cadrage du lot 3 :
   champ obligatoire, 1 à 80 caractères), club, catégorie, effectif et
   coachs rattachés facultatifs — les tailles varient d'un club à l'autre ;
 - identifiant slug dérivé du nom (POST sans `id`), unique par compte ;
-- `GET /api/coachs` liste l'union des comptes (nom = login, club,
-  catégorie) et des coachs ajoutés par nom (login = null) — v1.1,
+- `GET /api/coachs` liste l'union des comptes (nom = login, id = null)
+  et des coachs ajoutés par nom (login = null, id = slug) — v1.1,
   2026-11-24 : brouillons et propositions restent strictement privés
-  (C1 inchangé) ;
+  (C1 inchangé) ; le slug est exposé depuis le lot L4 (2026-11-25) ;
 - 404, pas 403, sur les équipes d'autrui (C1).
 
 Isolement : même gabarit que test_auth_app.py — RTRL_APP_DB pointe sur un
@@ -322,9 +322,10 @@ class MiseAJourTests(EquipesTestBase):
 
 class CoachsTests(EquipesTestBase):
     """GET /api/coachs : union des comptes (nom = login) et des coachs
-    ajoutés sans compte (login = null) ; identifiants et rattachements
-    seuls — aucune donnée de brouillon ou proposition (C1 inchangé).
-    L'API complète est couverte par test_coachs_app.py."""
+    ajoutés sans compte (login = null, id = slug — lot L4, 2026-11-25) ;
+    identifiants et rattachements seuls — aucune donnée de brouillon ou
+    proposition (C1 inchangé). L'API complète est couverte par
+    test_coachs_app.py."""
 
     def test_liste_tous_les_comptes(self):
         token_a = self._inscrire("coach.a")
@@ -339,7 +340,8 @@ class CoachsTests(EquipesTestBase):
         self.assertEqual([c["nom"] for c in body["coachs"]], ["coach.a", "coach.b"])
         self.assertEqual(
             body["coachs"][1],
-            {"nom": "coach.b", "login": "coach.b", "club": "RC B", "categorie": "U8"},
+            {"nom": "coach.b", "login": "coach.b", "club": "RC B", "categorie": "U8",
+             "id": None},
         )
 
     def test_champs_exacts_sans_fuites(self):
@@ -347,7 +349,7 @@ class CoachsTests(EquipesTestBase):
         code, body, _ = call_json("/api/coachs", cookie=token)
         self.assertEqual(code, 200)
         for c in body["coachs"]:
-            self.assertEqual(set(c), {"nom", "login", "club", "categorie"})
+            self.assertEqual(set(c), {"nom", "login", "club", "categorie", "id"})
 
     def test_club_et_categorie_facultatifs(self):
         token = self._inscrire()
