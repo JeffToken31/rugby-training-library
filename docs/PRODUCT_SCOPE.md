@@ -22,6 +22,10 @@ La marge absorbe les retards, l’installation, les consignes, les démonstratio
 
 Une équipe enregistrée peut lister ses joueurs (prénom + nom, un par ligne ; les doublons insensibles à la casse sont retirés, la première occurrence gagne). Attacher l’équipe à une séance **copie** ses joueurs dans les groupes déjà présents dans le plan : le nombre de groupes ne change jamais, les joueurs nommés sont répartis tour par tour (joueur i → groupe i mod k) et chaque nom affiché dans un groupe peut être retiré. Si l’équipe ne donne qu’un effectif, celui-ci est réparti sur les groupes (base + reste aux groupes en premier, 13 sur 2 donne 7 + 6). La séance garde sa copie : retirer un joueur d’un groupe ne modifie pas l’équipe, qui reste la source enregistrée. Quand les joueurs nommés et l’effectif déclaré divergent, le constructeur le signale et propose de repartir sur l’effectif déclaré.
 
+## Page « club » et préremplissage
+
+La page « club » (réservée aux comptes connectés) présente, pour le club du compte : les coachs du club — comptes (nom = login, non supprimables par cette page) et coachs ajoutés sans compte (nom seul, ajoutables et retirables) — et les équipes groupées par catégorie, chaque équipe affichant ses joueurs (prénom + nom, ajoutables et retirables) ou son effectif déclaré. Le bouton « Préparer une séance » sur une équipe ouvre directement le constructeur, déjà prérempli sur une copie de la trame U8 : l’équipe est attachée, les joueurs nommés (ou l’effectif déclaré) sont répartis sur les groupes existants, et le coach par défaut est le premier coach rattaché à l’équipe, sinon le compte. Le préremplissage est une copie : la trame vierge reste le point de retour par « Réinitialiser ».
+
 ## Sauvegarder, réutiliser et partager
 
 - Une authentification simple des éducateurs fait partie de la V1 : elle permet d’identifier l’auteur, de conserver ses brouillons et de rattacher ses propositions à son compte.
