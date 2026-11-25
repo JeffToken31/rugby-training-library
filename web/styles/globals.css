@@ -834,10 +834,24 @@ input {
   flex: 1 1 150px;
 }
 
+/* Nom libre du groupe (lot « peaufinage » 2026-11-25) : champ textuel entre
+   le libellé et l'effectif — même gabarit que `.num-input` (cible ≥ 44px). */
+.group-name-input {
+  margin-top: 6px;
+  width: 100%;
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 16px; /* ≥ 16px : pas de zoom automatique iOS */
+}
+
 .group-cell-row {
   display: flex;
   gap: 6px;
   align-items: stretch;
+  margin-top: 6px;
 }
 
 .group-cell-row .num-input {

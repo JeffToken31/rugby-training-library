@@ -576,7 +576,9 @@ export default function SessionBuilder({
 
   const groupLabel = (gid: string) => {
     const g = (plan?.groups ?? []).find((x) => x.id === gid);
-    return g ? `Groupe ${g.id}` : gid;
+    // Nom libre (lot « peaufinage ») : le label affiché est `name` s'il y en
+    // a un, sinon la lettre interne — l'`id` reste la clé, jamais l'affichage.
+    return g ? `Groupe ${g.name ?? g.id}` : gid;
   };
 
   const runServerCheck = async () => {
@@ -1036,7 +1038,26 @@ export default function SessionBuilder({
         <div className="field-row groups-row" role="group" aria-label="Effectifs par groupe">
           {(plan.groups ?? []).map((g) => (
             <div className="field group-cell" key={g.id}>
-              <span className="field-label">Groupe {g.id} (joueurs)</span>
+              <span className="field-label">Groupe {g.name ?? g.id} (joueurs)</span>
+              {/* Nom libre (lot « peaufinage ») : défaut = la lettre interne ;
+                  un nom vidé retourne à la lettre (champ supprimé du plan). */}
+              <input
+                className="group-name-input"
+                type="text"
+                placeholder={`Groupe ${g.id}`}
+                aria-label={`Nom libre du groupe (défaut : ${g.id})`}
+                value={g.name ?? ""}
+                maxLength={30}
+                onChange={(e) =>
+                  updatePlan((d) => {
+                    const grp = d.groups.find((x) => x.id === g.id);
+                    if (!grp) return;
+                    const v = e.target.value.trim();
+                    if (v) grp.name = v;
+                    else delete grp.name;
+                  })
+                }
+              />
               <div className="group-cell-row">
                 <input
                   className="num-input"
@@ -1044,7 +1065,7 @@ export default function SessionBuilder({
                   inputMode="numeric"
                   min={0}
                   step={1}
-                  aria-label={`Effectif du groupe ${g.id}`}
+                  aria-label={`Effectif du groupe ${g.name ?? g.id}`}
                   value={g.players}
                   disabled={(g.joueurs?.length ?? 0) > 0}
                   title={
@@ -1064,7 +1085,7 @@ export default function SessionBuilder({
                 {plan.groups.length > 1 && (
                   <button
                     className="group-delete"
-                    aria-label={`Supprimer le groupe ${g.id}`}
+                    aria-label={`Supprimer le groupe ${g.name ?? g.id}`}
                     onClick={() => removeGroup(g.id)}
                   >
                     ×
@@ -1078,7 +1099,7 @@ export default function SessionBuilder({
                       {nom}
                       <button
                         className="chip-x"
-                        aria-label={`Retirer ${nom} du groupe ${g.id}`}
+                        aria-label={`Retirer ${nom} du groupe ${g.name ?? g.id}`}
                         onClick={() => retirerJoueur(g.id, nom)}
                       >
                         ×

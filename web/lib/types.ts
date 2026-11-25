@@ -218,6 +218,10 @@ export type BlockKind = "OPPOSITION" | "WORKSHOPS" | "JEU" | "WARMUP" | "PAUSE";
 export interface SessionGroup {
   id: string;
   players: number;
+  /** Nom libre affiché (lot « peaufinage » 2026-11-25) : défaut = la lettre
+   * (`id`). Les validateurs (Python/TS) ignorent ce champ — l'`id` reste la
+   * clé interne et l'identifiant des affectations de rotation. */
+  name?: string;
   /** Noms (prénom + nom) copiés de l'équipe attachée, lot L3 — snapshot,
    * jamais de référence vivante. Absent sur les séances sans noms ; les
    * validateurs (Python/TS) ignorent ce champ, seuls `players` comptent. */
