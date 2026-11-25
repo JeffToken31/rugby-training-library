@@ -42,6 +42,7 @@ connexion : `ThreadingWSGIServer`, voir webapp.py).
 
 from __future__ import annotations
 
+import base64
 import hashlib
 import hmac
 import json
@@ -116,6 +117,19 @@ CREATE TABLE IF NOT EXISTS coachs (
     saved_at TEXT NOT NULL,
     PRIMARY KEY (compte_id, id)
 );
+-- Lot peaufinage B (2026-11-25) : identité du club — couleurs + logo
+-- (v2-cadrage §3.4, option A). Clé = nom du club (strip) : le thème est
+-- commun à tous les comptes du club ; CREATE TABLE IF NOT EXISTS, donc
+-- aucune migration pour les bases existantes.
+CREATE TABLE IF NOT EXISTS clubs (
+    club TEXT PRIMARY KEY,
+    couleur_primary TEXT NOT NULL,
+    couleur_secondaire TEXT,
+    couleur_accent TEXT,
+    logo_mime TEXT,
+    logo BLOB,
+    saved_at TEXT NOT NULL
+);
 CREATE TABLE IF NOT EXISTS meta (
     key TEXT PRIMARY KEY,
     value TEXT NOT NULL
@@ -179,6 +193,55 @@ def club_ok(club) -> bool:
     if club is None:
         return True
     return isinstance(club, str) and len(club.strip()) <= MAX_CLUB
+
+
+# Lot peaufinage B (2026-11-25) — identité du club (v2-cadrage §3.4, option A) :
+# couleurs hexadécimales + logo PNG ou SVG statique ≤ 500 Ko. Le logo est une
+# marque du club, pas une donnée personnelle (pas de contrainte RGPD).
+COULEUR_RE = re.compile(r"^#[0-9a-fA-F]{6}$")
+LOGO_MAX_OCTETS = 500 * 1000
+_MIME_LOGO = ("image/png", "image/svg+xml")
+_PNG_MAGIC = b"\x89PNG\r\n\x1a\n"
+_SVG_DYNAMIQUE_RE = re.compile(r"(<script|javascript:|on\w+\s*=)", re.IGNORECASE)
+
+
+def couleur_ok(couleur) -> bool:
+    """Couleur du club : absente (None) ou hexadécimale #RRGGBB."""
+    if couleur is None:
+        return True
+    return isinstance(couleur, str) and COULEUR_RE.fullmatch(couleur) is not None
+
+
+def mime_logo(data):
+    """Format du logo d'après les octets seuls (v2-cadrage §3.4 : le type,
+    la taille, pas d'exécutables) : « image/png » (signature), « image/svg+xml »
+    (texte UTF-8 commençant par <svg ou <?xml), ou None."""
+    if not data or not isinstance(data, (bytes, bytearray)):
+        return None
+    if data.startswith(_PNG_MAGIC):
+        return "image/png"
+    try:
+        texte = bytes(data).decode("utf-8")
+    except UnicodeDecodeError:
+        return None
+    debut = texte.lstrip()
+    if debut.startswith("<svg") or debut.startswith("<?xml"):
+        return "image/svg+xml"
+    return None
+
+
+def logo_ok(data, mime) -> bool:
+    """Logo du club : PNG ou SVG UTF-8 statique, ≤ 500 Ko.
+
+    Le SVG est du texte : on refuse scripts, URIs javascript: et attributs
+    événementiels (onload=…). Pas de décodage PNG complet — la signature et
+    la taille suffisent au périmètre (v2-cadrage §3.4).
+    """
+    if mime_logo(data) != mime or len(data) > LOGO_MAX_OCTETS:
+        return False
+    if mime == "image/svg+xml":
+        return _SVG_DYNAMIQUE_RE.search(data.decode("utf-8")) is None
+    return True
 
 
 def categorie_ok(categorie) -> bool:
@@ -713,6 +776,62 @@ class AppStore:
         )
         self.conn.commit()
         return cur.rowcount > 0
+
+    # ---------------------------------- identité du club (lot peaufinage B)
+    def get_club_theme(self, club):
+        """Identité du club (couleurs + logo en data URI) ou None si le club
+        n'en a pas. La clé est le nom du club normalisé (strip) — même règle
+        que l'enregistrement. Le logo est renvoyé prêt à afficher (data URI)."""
+        if not isinstance(club, str):
+            return None
+        row = self.conn.execute(
+            "SELECT couleur_primary, couleur_secondaire, couleur_accent, "
+            "logo_mime, logo FROM clubs WHERE club = ?",
+            (club.strip(),),
+        ).fetchone()
+        if row is None:
+            return None
+        logo = None
+        if row[4] is not None:
+            b64 = base64.b64encode(row[4]).decode("ascii")
+            logo = "data:%s;base64,%s" % (row[3], b64)
+        return {
+            "couleurs": {
+                "primary": row[0],
+                "secondary": row[1],
+                "accent": row[2],
+            },
+            "logo": logo,
+        }
+
+    def set_club_theme(self, club, couleurs, logo, logo_mime):
+        """Crée ou remplace l'identité du club (upsert). `logo` : octets
+        (PNG/SVG validés) ou None pour retirer le logo. Renvoie l'identité
+        enregistrée, telle qu'elle sera servie par get_club_theme."""
+        now = _utcnow_iso()
+        self.conn.execute(
+            "INSERT INTO clubs (club, couleur_primary, couleur_secondaire, "
+            "couleur_accent, logo_mime, logo, saved_at) "
+            "VALUES (?, ?, ?, ?, ?, ?, ?) "
+            "ON CONFLICT (club) DO UPDATE SET "
+            "couleur_primary = excluded.couleur_primary, "
+            "couleur_secondaire = excluded.couleur_secondaire, "
+            "couleur_accent = excluded.couleur_accent, "
+            "logo_mime = excluded.logo_mime, "
+            "logo = excluded.logo, "
+            "saved_at = excluded.saved_at",
+            (
+                club.strip(),
+                couleurs["primary"],
+                couleurs["secondary"],
+                couleurs["accent"],
+                logo_mime,
+                logo,
+                now,
+            ),
+        )
+        self.conn.commit()
+        return self.get_club_theme(club)
 
 
 def _equipe_dict(row) -> dict:

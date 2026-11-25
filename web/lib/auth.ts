@@ -3,6 +3,7 @@
 // HttpOnly : le navigateur l'envoie, le client ne le lit jamais.
 
 import type { Equipe, MinutageDerivee, SessionPlan } from "./types";
+import type { ClubTheme } from "./theme";
 
 export interface Moi {
   login: string;
@@ -10,6 +11,9 @@ export interface Moi {
   // Lot club (cadrage 03) : champs facultatifs, null si non renseignés.
   club: string | null;
   categorie: string | null;
+  // Lot peaufinage B (2026-11-25) : identité du club (couleurs + logo),
+  // commune à tous les comptes du club ; null si le club n'en a pas.
+  theme: ClubTheme | null;
 }
 
 export interface BrouillonRef {
@@ -274,4 +278,32 @@ export async function supprimerEquipe(id: string): Promise<void> {
     cache: "no-store",
   });
   if (!res.ok) await erreurDe(res, "Suppression de l'équipe impossible");
+}
+
+// --------------------------------------------------- lot peaufinage B (2026-11-25)
+// Identité du club (v2-cadrage §3.4, option A) : couleurs + logo, commun à
+// tous les comptes du club actif. Le logo est un PNG ou un SVG statique
+// (≤ 500 Ko) validé côté serveur ; `logo` est sa base64, null = suppression.
+
+/** Corps du PUT /api/club/theme. */
+export interface CorpsThemeClub {
+  couleurs: {
+    primary: string; // #RRGGBB obligatoire
+    secondary: string | null; // #RRGGBB ou null
+    accent: string | null; // #RRGGBB ou null
+  };
+  logo: string | null; // base64 (PNG ou SVG ≤ 500 Ko), null = sans logo
+}
+
+/** Enregistre l'identité du club actif ; renvoie le thème stocké. */
+export async function mettreAJourThemeClub(corps: CorpsThemeClub): Promise<ClubTheme> {
+  const res = await fetch("/api/club/theme", {
+    method: "PUT",
+    cache: "no-store",
+    headers: JSON_HEADERS,
+    body: JSON.stringify(corps),
+  });
+  if (!res.ok) await erreurDe(res, "Mise à jour de l'identité du club impossible");
+  const body = (await res.json()) as { theme: ClubTheme };
+  return body.theme;
 }

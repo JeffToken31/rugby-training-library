@@ -8,6 +8,7 @@ import { useEffect, useMemo, useState } from "react";
 import type { CatalogueView, Fiche, Card } from "../lib/types";
 import { fetchCatalogue, fetchFiche } from "../lib/api";
 import { fetchMoi, seDeconnecter } from "../lib/auth";
+import { appliquerThemeClub } from "../lib/theme";
 import type { Moi } from "../lib/auth";
 import { selectCards } from "../lib/filter";
 import { consommerPrefill, type PrefillPayload } from "../lib/prefill";
@@ -93,6 +94,13 @@ export default function Home() {
     document.documentElement.dataset.theme = theme;
     window.localStorage.setItem("rtrl-theme", theme);
   }, [theme]);
+
+  // Lot peaufinage B : l'identité du club (couleurs) s'applique à la
+  // surface entière ; re-évaluée si le thème clair/sombre change (la
+  // couleur douce dérivée dépend de ce thème) — lib/theme.ts.
+  useEffect(() => {
+    appliquerThemeClub(moi?.theme ?? null);
+  }, [moi, theme]);
 
   const cards: Card[] = view?.cards ?? [];
 
@@ -183,6 +191,9 @@ export default function Home() {
             >
               ←
             </button>
+          )}
+          {moi?.theme?.logo && (
+            <img className="app-logo" src={moi.theme.logo} alt="Logo du club" />
           )}
           <h1 className="app-title">Rugby Training Library</h1>
           {moi ? (

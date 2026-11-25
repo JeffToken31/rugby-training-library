@@ -1949,3 +1949,121 @@ input {
   font-weight: 700;
   cursor: pointer;
 }
+
+/* Lot peaufinage B (2026-11-25) — identité du club. :where() = spécificité
+   zéro : la 3e couleur ne colore que les liens sans couleur propre ; les
+   liens classés (médias, sources, invite) gardent var(--accent). Sans 3e
+   couleur : inherit → apparence par défaut inchangée. */
+:where(.app a[href]) {
+  color: var(--club-accent, inherit);
+}
+
+.app-logo {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.club-logo {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* Formulaires de la section « Identité du club ». */
+.club-couleur {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.club-couleur-label {
+  flex: 1 1 100%;
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.club-couleur-pick {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  padding: 2px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  cursor: pointer;
+}
+
+.club-couleur-hex {
+  flex: 0 1 140px;
+  min-width: 0;
+  height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-family: ui-monospace, "Cascadia Mono", Consolas, monospace;
+  font-size: 15px;
+  text-transform: lowercase;
+}
+
+.club-couleur-err {
+  flex: 1 1 100%;
+  font-size: 13px;
+  color: var(--badge-red-t);
+}
+
+.club-logo-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.club-logo-preview {
+  flex: none;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+}
+
+.club-logo-fichier {
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.club-file-btn {
+  min-height: 44px;
+  padding: 0 14px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.club-logo-remove {
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--ink-2);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.club-identite-actions {
+  margin-top: 16px;
+}

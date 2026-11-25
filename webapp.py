@@ -51,11 +51,16 @@ Routes :
                                 chaque requête ; fichier absent →
                                 {"records": []} — le contenu s'ajoute sans
                                 code ni redémarrage)
+  PUT /api/club/theme         → identité du club actif (couleurs
+                                hexadécimales + logo PNG/SVG en base64, lot
+                                peaufinage B 2026-11-25, v2-cadrage §3.4) ;
+                                commun au club, servi dans GET /api/moi
   GET /*                      → front statique (web/out/), fallback index.html
 
 Tous les POST acceptent un corps JSON plafonné à 2 Mo (413 au-delà).
 """
 
+import base64
 import json
 import os
 import re
@@ -574,11 +579,13 @@ def _route_deconnexion(environ):
 
 def _route_moi(environ):
     """GET /api/moi → compte courant (login, club et catégorie facultatifs,
-    ou 401 sans session)."""
+    + identité du club actif — lot peaufinage B ; null si le club n'en a
+    pas), ou 401 sans session."""
     with app_store.AppStore(app_db_path()) as store:
         compte = _require_account(environ, store)
-    if compte is None:
-        return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        theme = store.get_club_theme(compte["club"]) if compte["club"] else None
     return _json_response(
         HTTPStatus.OK,
         {
@@ -586,8 +593,68 @@ def _route_moi(environ):
             "created_at": compte["created_at"],
             "club": compte["club"],
             "categorie": compte["categorie"],
+            "theme": theme,
         },
     )
+
+
+def _route_club_theme(environ):
+    """PUT /api/club/theme → identité du club actif (lot peaufinage B,
+    2026-11-25 ; v2-cadrage §3.4, option A). Corps :
+    {"couleurs": {"primary": "#0b5d3b", "secondary": "#..." | null,
+    "accent": "#..." | null}, "logo": base64 | null} — logo null/absent
+    supprime l'ancien. L'identité est commune au club (clé = nom du club) ;
+    elle est servie par GET /api/moi, qui applique le thème à toute la
+    surface de l'app côté client (web/lib/theme.ts)."""
+    err, data = _read_json_body(environ)
+    if err is not None:
+        return _json_response(err, data)
+    if not isinstance(data, dict):
+        return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Identité du club JSON attendue."})
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        if not compte["club"]:
+            return _json_response(
+                HTTPStatus.BAD_REQUEST,
+                {"error": "Impossible de définir une identité sans club renseigné."},
+            )
+        couleurs = data.get("couleurs")
+        if not isinstance(couleurs, dict):
+            return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Couleurs attendues (hexadécimales #RRGGBB)."})
+        primary = couleurs.get("primary")
+        if primary is None or not app_store.couleur_ok(primary):
+            return _json_response(HTTPStatus.BAD_REQUEST, {"error": "La couleur principale est requise (hexadécimale #RRGGBB)."})
+        secondaire = couleurs.get("secondary")
+        accent = couleurs.get("accent")
+        if secondaire in ("", "null"):
+            secondaire = None
+        if accent in ("", "null"):
+            accent = None
+        for cle, valeur in (("secondaire", secondaire), ("accent", accent)):
+            if valeur is not None and not app_store.couleur_ok(valeur):
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Couleur %s invalide (hexadécimale #RRGGBB attendue)." % cle})
+        logo_raw = data.get("logo")
+        logo = None
+        logo_mime = None
+        if logo_raw not in (None, ""):
+            if not isinstance(logo_raw, str):
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Logo invalide (base64 attendu)."})
+            try:
+                logo = base64.b64decode(logo_raw, validate=True)
+            except (ValueError, TypeError):
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Logo invalide (base64 illisible)."})
+            logo_mime = app_store.mime_logo(logo)
+            if logo_mime is None or not app_store.logo_ok(logo, logo_mime):
+                return _json_response(HTTPStatus.BAD_REQUEST, {"error": "Logo refusé (PNG ou SVG statique, 500 Ko maximum)."})
+        theme = store.set_club_theme(
+            compte["club"],
+            {"primary": primary, "secondary": secondaire, "accent": accent},
+            logo,
+            logo_mime,
+        )
+    return _json_response(HTTPStatus.OK, {"theme": theme})
 
 
 def _route_brouillons(environ):
@@ -911,6 +978,13 @@ def application(environ, start_response):
             status, headers, body = _error(405)
         else:
             status, headers, body = _route_moi(environ)
+    elif path == "/api/club/theme":
+        # 405 explicite : sans cette branche, un GET tomberait dans le
+        # fallback statique (index.html, 200).
+        if method != "PUT":
+            status, headers, body = _error(405)
+        else:
+            status, headers, body = _route_club_theme(environ)
     elif path == "/api/brouillons" or path.startswith("/api/brouillons/"):
         status, headers, body = _route_brouillons(environ)
     elif path == "/api/propositions" or path.startswith("/api/propositions/"):
