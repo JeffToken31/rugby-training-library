@@ -776,8 +776,9 @@ def _equipe_id(nom: str, existing: set) -> str:
 
 def _route_coachs(environ):
     """GET|POST /api/coachs ; DELETE /api/coachs/<id> — « coachs
-    disponibles » : union des comptes et des coachs sans compte ajoutés par
-    nom (tranché v1.1, 2026-11-24)."""
+    disponibles » : liste filtrée par le club du compte appelant (lot P2,
+    cadrage 05, 2026-11-26) ; l'union globale inter-clubs n'est plus
+    restituée."""
     method = environ.get("REQUEST_METHOD", "GET")
     parts = [unquote(p) for p in environ["PATH_INFO"].split("/") if p]
     coach_id = parts[2] if len(parts) > 2 else None
@@ -787,7 +788,7 @@ def _route_coachs(environ):
             return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
         if coach_id is None:
             if method == "GET":
-                return _json_response(HTTPStatus.OK, {"coachs": store.list_coaches()})
+                return _json_response(HTTPStatus.OK, {"coachs": store.list_coaches(compte["id"], compte["club"])})
             if method == "POST":
                 err, data = _read_json_body(environ)
                 if err is not None:

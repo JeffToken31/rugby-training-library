@@ -18,7 +18,7 @@ Décisions du cadrage validé (02-cadrage-lot5-auth.md) :
 
 Lot club (03-cadrage-club.md, A/A/A/A validé le 2026-11-20) : le compte
 porte deux champs facultatifs — `club` (texte ≤ 80 caractères) et
-`categorie` (liste contrôlée U6…U18, Autre). Le club est un simple
+`categorie` (liste contrôlée babys, U6…U18, Autre). Le club est un simple
 libellé : il n'ouvre aucun accès (C1 inchangé).
 
 Séances (tranché 2026-11-22) : une équipe est un dispositif d'effectif
@@ -28,12 +28,11 @@ catégorie facultatifs (mêmes règles que le compte), effectif facultatif
 retirés). Les tailles d'effectif varient d'un club à l'autre : tout est
 flexible sauf le nom.
 
-Coachs (tranché v1.1, 2026-11-24) : un coach sans compte est ajouté par nom
+Coachs (tranché v1.1, 2026-11-24 ; filtre club, lot P2, 2026-11-26) : un coach sans compte est ajouté par nom
 seul (2 à 80 caractères, club facultatif) dans la table `coachs`, clé
 (compte_id, id) — chaque compte ne gère que ses propres coachs (C1
-inchangé). La liste « coachs disponibles » est l'union des comptes (login,
-club, catégorie) et des coachs nommés (nom, club), sous une forme unifiée
-{nom, login, club, categorie} : login = null pour un nom seul. Brouillons
+inchangé). La liste « coachs disponibles » est filtrée par le club du compte appelant : comptes du même club + coachs nommés du club + les coachs nommés du compte appelant, quel que soit leur libellé de club ; sans club : le compte et ses coachs nommés. Forme unifiée
+{nom, login, club, categorie, id} : login = null pour un nom seul. Brouillons
 et propositions restent strictement privés (C1 inchangé).
 
 La connexion est ouverte et fermée par requête (l'API tourne en un thread par
@@ -396,24 +395,45 @@ class AppStore:
             "categorie": row[4],
         }
 
-    def list_coaches(self):
-        """Liste « coachs disponibles » du constructeur de séance : union
-        des comptes (login, club, catégorie) et des coachs sans compte
-        ajoutés par nom (tranché v1.1, 2026-11-24). Forme unifiée
+    def list_coaches(self, compte_id: int, club: str | None = None):
+        """Liste « coachs disponibles » pour le compte appelant (filtre
+        club, lot P2, cadrage 05, 2026-11-26) :
+        - compte avec club C : comptes de club C + coachs nommés de club C
+          (+ les coachs nommés du compte appelant, quel que soit leur
+          libellé de club) ;
+        - compte sans club : lui-même + ses coachs nommés.
+        L'union globale inter-clubs n'est plus restituée. Forme unifiée
         {nom, login, club, categorie, id} — login = null et id = slug pour
         un nom seul (le slug est nécessaire au retrait par
         DELETE /api/coachs/<id> — lot L4, 2026-11-25) ; id = null pour un
         compte. Brouillons et propositions d'autrui restent strictement
         privés (C1).
         """
+        if club is None:
+            comptes = self.conn.execute(
+                "SELECT login, club, categorie FROM comptes WHERE id = ? ORDER BY login",
+                (compte_id,),
+            )
+            nommes = self.conn.execute(
+                "SELECT id, nom, club FROM coachs WHERE compte_id = ? ORDER BY nom",
+                (compte_id,),
+            )
+        else:
+            comptes = self.conn.execute(
+                "SELECT login, club, categorie FROM comptes WHERE club = ? ORDER BY login",
+                (club,),
+            )
+            nommes = self.conn.execute(
+                "SELECT id, nom, club FROM coachs "
+                "WHERE club = ? OR compte_id = ? ORDER BY nom",
+                (club, compte_id),
+            )
         return [
             {"nom": r[0], "login": r[0], "club": r[1], "categorie": r[2], "id": None}
-            for r in self.conn.execute(
-                "SELECT login, club, categorie FROM comptes ORDER BY login"
-            )
+            for r in comptes
         ] + [
             {"nom": r[1], "login": None, "club": r[2], "categorie": None, "id": r[0]}
-            for r in self.conn.execute("SELECT id, nom, club FROM coachs ORDER BY nom")
+            for r in nommes
         ]
 
     def ajouter_coach(self, account_id: int, nom, club: str | None = None) -> dict:

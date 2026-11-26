@@ -5,10 +5,12 @@ Cadrage du lot 3 :
   champ obligatoire, 1 à 80 caractères), club, catégorie, effectif et
   coachs rattachés facultatifs — les tailles varient d'un club à l'autre ;
 - identifiant slug dérivé du nom (POST sans `id`), unique par compte ;
-- `GET /api/coachs` liste l'union des comptes (nom = login, id = null)
-  et des coachs ajoutés par nom (login = null, id = slug) — v1.1,
-  2026-11-24 : brouillons et propositions restent strictement privés
-  (C1 inchangé) ; le slug est exposé depuis le lot L4 (2026-11-25) ;
+- `GET /api/coachs` liste les comptes et coachs nommés du club du
+  compte appelant (lot P2, cadrage 05, 2026-11-26) ; sans club : le
+  compte et ses coachs nommés — comptes : nom = login, id = null ;
+  coachs nommés : login = null, id = slug (lot L4, 2026-11-25) :
+  brouillons et propositions restent strictement privés (C1
+  inchangé) ;
 - 404, pas 403, sur les équipes d'autrui (C1).
 
 Isolement : même gabarit que test_auth_app.py — RTRL_APP_DB pointe sur un
@@ -321,28 +323,42 @@ class MiseAJourTests(EquipesTestBase):
 
 
 class CoachsTests(EquipesTestBase):
-    """GET /api/coachs : union des comptes (nom = login) et des coachs
-    ajoutés sans compte (login = null, id = slug — lot L4, 2026-11-25) ;
-    identifiants et rattachements seuls — aucune donnée de brouillon ou
-    proposition (C1 inchangé). L'API complète est couverte par
-    test_coachs_app.py."""
+    """GET /api/coachs : liste filtrée par le club du compte appelant
+    (lot P2, cadrage 05, 2026-11-26) — comptes du même club (nom =
+    login) et coachs nommés du club / du compte (login = null, id =
+    slug — lot L4, 2026-11-25) ; identifiants et rattachements seuls —
+    aucune donnée de brouillon ou proposition (C1 inchangé). L'API
+    complète est couverte par test_coachs_app.py."""
 
-    def test_liste_tous_les_comptes(self):
+    def test_liste_filtree_par_club(self):
+        # Lot P2 (cadrage 05, 2026-11-26) : la liste est filtrée par le
+        # club du compte appelant — l'union globale inter-clubs n'est plus
+        # restituée (couvert en détail par test_coachs_app.py).
         token_a = self._inscrire("coach.a")
-        code, _, _ = call_json(
+        code, _, setc_b = call_json(
             "/api/auth/inscription", "POST",
             data={"login": "coach.b", "password": "azerty1234",
                   "club": "RC B", "categorie": "U8"},
         )
         self.assertEqual(code, 201)
+        token_b = token_of(setc_b)
         code, body, _ = call_json("/api/coachs", cookie=token_a)
         self.assertEqual(code, 200)
-        self.assertEqual([c["nom"] for c in body["coachs"]], ["coach.a", "coach.b"])
+        # coach.a sans club : lui-même seul — coach.b (club RC B) n'est
+        # plus restitué.
+        self.assertEqual([c["nom"] for c in body["coachs"]], ["coach.a"])
+        # coach.b (club RC B) : lui-même seul — coach.a n'appartient pas
+        # au club RC B et n'y a pas de coach nommé.
+        code, body, _ = call_json("/api/coachs", cookie=token_b)
+        self.assertEqual(code, 200)
         self.assertEqual(
-            body["coachs"][1],
-            {"nom": "coach.b", "login": "coach.b", "club": "RC B", "categorie": "U8",
-             "id": None},
+            body["coachs"],
+            [
+                {"nom": "coach.b", "login": "coach.b", "club": "RC B", "categorie": "U8",
+                 "id": None},
+            ],
         )
+
 
     def test_champs_exacts_sans_fuites(self):
         token = self._inscrire("coach.a")

@@ -8,10 +8,12 @@ Cadrage du lot (tranché user 2026-11-24) :
 - chaque compte ne gère que ses propres coachs (C1 inchangé) :
   DELETE /api/coachs/<id> → 200 {ok: true}, 404 si l'identifiant est
   inconnu ou rattaché à un autre compte ;
-- « coachs disponibles » = union des comptes (nom = login, id = null)
-  et des coachs ajoutés par nom (login = null, id = slug) : forme
-  {nom, login, club, categorie, id} — le slug est exposé depuis le lot
-  L4 (2026-11-25) pour permettre le retrait par l'interface ;
+- « coachs disponibles » = liste filtrée par le club du compte appelant
+  (lot P2, cadrage 05, 2026-11-26) : comptes du même club (nom = login,
+  id = null) + coachs nommés du club et du compte (login = null,
+  id = slug) : forme {nom, login, club, categorie, id} — le slug est
+  exposé depuis le lot L4 (2026-11-25) pour permettre le retrait par
+  l'interface ;
 - équipe : `coachs` rattachés = logins enregistrés ou noms libres,
   normalisés avec dédoublonnage (upsert_equipe) ;
 - les champs de plan `coach_principal` / `blocks[].coach` sont ignorés
@@ -205,10 +207,11 @@ class SuppressionTests(CoachsTestBase):
 
 
 class ListeTests(CoachsTestBase):
-    """Union : comptes d'abord (nom = login, id = null), puis coachs
-    nommés (login = null, categorie = null, id = slug) — le slug est
-    exposé pour permettre le retrait via DELETE /api/coachs/<id>
-    (lot L4, 2026-11-25), formes exactes."""
+    """Liste du compte appelant : comptes d'abord (nom = login, id = null),
+    puis coachs nommés (login = null, categorie = null, id = slug) — le
+    slug est exposé pour permettre le retrait via DELETE /api/coachs/<id>
+    (lot L4, 2026-11-25), formes exactes. Sans club, l'appelant ne voit
+    que lui-même et ses coachs (lot P2)."""
 
     def _store(self):
         return app_store.AppStore(self.db_path)
@@ -219,15 +222,105 @@ class ListeTests(CoachsTestBase):
         with self._store() as store:
             store.ajouter_coach(compte_a, "Zoé Martin", "RC A")
             store.ajouter_coach(compte_a, "Aa Bernard")
-            coachs = store.list_coaches()
+            coachs = store.list_coaches(compte_a)
+        # compte sans club : lui-même seul, puis ses coachs nommés —
+        # coach.b (pas de club commun) n'est plus restitué (lot P2).
         self.assertEqual(
             coachs,
             [
                 {"nom": "coach.a", "login": "coach.a", "club": None, "categorie": None, "id": None},
-                {"nom": "coach.b", "login": "coach.b", "club": None, "categorie": None, "id": None},
                 {"nom": "Aa Bernard", "login": None, "club": None, "categorie": None, "id": "aa-bernard"},
                 {"nom": "Zoé Martin", "login": None, "club": "RC A", "categorie": None, "id": "zo-martin"},
             ],
+        )
+
+
+class FiltrageParClubsTests(CoachsTestBase):
+    """Lot P2 (cadrage 05, 2026-11-26) : la liste « coachs disponibles »
+    est filtrée par le club du compte appelant — l'union globale
+    inter-clubs n'est plus restituée. Convention de club : égalité après
+    strip, sensible à la casse (comme les tables comptes/coachs/clubs)."""
+
+    def _inscrire_club(self, login, club):
+        code, body, setc = call_json(
+            "/api/auth/inscription", "POST",
+            data={"login": login, "password": "azerty1234", "club": club},
+        )
+        self.assertEqual(code, 201, body)
+        return token_of(setc)
+
+    def test_pas_de_fuite_inter_clubs(self):
+        # Critère 2 du charter : 2 comptes de 2 clubs différents, chacun
+        # avec des coachs nommés → chaque compte ne voit que les coachs
+        # de son club.
+        token_a = self._inscrire_club("coach.a", "FC A")
+        token_b = self._inscrire_club("coach.b", "FC B")
+        code, coach_a, _ = call_json(
+            "/api/coachs", "POST",
+            data={"nom": "Marie A", "club": "FC A"}, cookie=token_a,
+        )
+        self.assertEqual(code, 201, coach_a)
+        code, coach_b, _ = call_json(
+            "/api/coachs", "POST",
+            data={"nom": "Marie B", "club": "FC B"}, cookie=token_b,
+        )
+        self.assertEqual(code, 201, coach_b)
+        code, liste_a, _ = call_json("/api/coachs", cookie=token_a)
+        self.assertEqual(code, 200)
+        self.assertEqual(
+            liste_a["coachs"],
+            [
+                {"nom": "coach.a", "login": "coach.a", "club": "FC A", "categorie": None, "id": None},
+                {"nom": "Marie A", "login": None, "club": "FC A", "categorie": None, "id": "marie-a"},
+            ],
+        )
+        code, liste_b, _ = call_json("/api/coachs", cookie=token_b)
+        self.assertEqual(code, 200)
+        self.assertEqual(
+            liste_b["coachs"],
+            [
+                {"nom": "coach.b", "login": "coach.b", "club": "FC B", "categorie": None, "id": None},
+                {"nom": "Marie B", "login": None, "club": "FC B", "categorie": None, "id": "marie-b"},
+            ],
+        )
+
+    def test_coach_du_club_renseigne_par_un_pair(self):
+        # Workflow gestionnaire : le coach du club est renseigné par un
+        # membre du club ; les deux comptes du club le voient (ressource
+        # du club), même si le coach n'a pas de compte.
+        token_a = self._inscrire_club("coach.a", "FC A")
+        token_b = self._inscrire_club("coach.b", "FC A")
+        code, coach, _ = call_json(
+            "/api/coachs", "POST",
+            data={"nom": "Paul Coach", "club": "FC A"}, cookie=token_b,
+        )
+        self.assertEqual(code, 201, coach)
+        code, liste_a, _ = call_json("/api/coachs", cookie=token_a)
+        self.assertEqual(code, 200)
+        self.assertEqual(
+            {c["nom"] for c in liste_a["coachs"]},
+            {"coach.a", "coach.b", "Paul Coach"},
+        )
+
+    def test_ses_coachs_sans_club_restant_visibles(self):
+        # Compte avec club : ses propres coachs nommés sans libellé de
+        # club restent visibles (ce sont les siens) ; les coachs sans
+        # club d'autrui, non.
+        token_a = self._inscrire_club("coach.a", "FC A")
+        token_b = self._inscrire_club("coach.b", "FC B")
+        code, coach_a, _ = call_json(
+            "/api/coachs", "POST", data={"nom": "Marie Propre"}, cookie=token_a,
+        )
+        self.assertEqual(code, 201, coach_a)
+        code, coach_b, _ = call_json(
+            "/api/coachs", "POST", data={"nom": "Paul Hôte"}, cookie=token_b,
+        )
+        self.assertEqual(code, 201, coach_b)
+        code, liste_a, _ = call_json("/api/coachs", cookie=token_a)
+        self.assertEqual(code, 200)
+        self.assertEqual(
+            {c["nom"] for c in liste_a["coachs"]},
+            {"coach.a", "Marie Propre"},
         )
 
 
