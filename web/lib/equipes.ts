@@ -1,3 +1,5 @@
+import type { GroupeEquipe, SessionGroup } from "./types";
+
 /** Fonctions pures de la copie snapshot équipe → groupes (lot L3, v1.1).
  *
  * Une équipe enregistrée est une source : l'attacher à une séance COPIE
@@ -53,4 +55,62 @@ export function repartirEffectif(total: number, groupCount: number): number[] {
     resultats.push(base + (i < reste ? 1 : 0));
   }
   return resultats;
+}
+
+/** Présences à l’attachement (lot P5, workflows 2026-11-26) : une case à
+ * cocher par joueur de l’équipe attachée. Une map vide = tous présents
+ * (toutes les cases cochées par défaut) ; `false` = absent, et le joueur
+ * n’est alors réparti dans aucun groupe. Le contrat de séance est
+ * inchangé — les validateurs ne lisent que `players`. */
+export type Presences = Record<string, boolean>;
+
+/** Les joueurs encore répartis : ceux non marqués absents. */
+export function joueursCoches(joueurs: string[], presences: Presences): string[] {
+  return joueurs.filter((n) => presences[n] !== false);
+}
+
+/** Bascule immuable de la case d’un joueur : un absent récoché redevient
+ * présent, un présent décoché devient absent. */
+export function basculerPresences(presences: Presences, nom: string): Presences {
+  const copie: Presences = { ...presences };
+  copie[nom] = copie[nom] !== false;
+  return copie;
+}
+
+/** Recalcule la répartition depuis la source après une bascule (P5) :
+ *  - mode nommé (`groupesSource`, préremplissage page « club ») : le groupe
+ *    i reçoit les joueurs du groupe i de la source, filtrés sur les cochés —
+ *    le joueur absent disparaît de SON groupe seulement, et la récoche le
+ *    ramène dans le sien ; les groupes ajoutés au-delà de la source (via
+ *    addGroup) sont laissés intacts ;
+ *  - mode plat (attachement direct) : les joueurs cochés sont redistribués
+ *    en round-robin, comme à l’attachement.
+ * Le nom des groupes et le reste de la structure sont préservés — seules
+ * `players` et `joueurs` sont mutées. */
+export function redistribuerPresences(
+  groups: SessionGroup[],
+  joueursEquipe: string[],
+  presences: Presences,
+  groupesSource: GroupeEquipe[] | null,
+): SessionGroup[] {
+  if (groupesSource !== null) {
+    return groups.map((g, i) => {
+      const ge = groupesSource[i];
+      if (!ge) return g;
+      const r = joueursCoches(ge.joueurs, presences);
+      const copie: SessionGroup = { ...g, players: r.length };
+      copie.joueurs = r.length > 0 ? r : undefined;
+      return copie;
+    });
+  }
+  const parGroupe = roundRobinJoueurs(
+    joueursCoches(joueursEquipe, presences),
+    groups.map((g) => g.id),
+  );
+  return groups.map((g) => {
+    const r = parGroupe[g.id] ?? [];
+    const copie: SessionGroup = { ...g, players: r.length };
+    copie.joueurs = r.length > 0 ? r : undefined;
+    return copie;
+  });
 }

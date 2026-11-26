@@ -16,8 +16,9 @@ import { pathToFileURL } from "node:url";
 
 import { validerLocale } from "../lib/session";
 import { selectCards } from "../lib/filter";
-import type { Card, Equipe } from "../lib/types";
+import type { Card, Equipe, GroupeEquipe, SessionGroup } from "../lib/types";
 import { equipesVisibles } from "../lib/club-view";
+import { basculerPresences, redistribuerPresences } from "../lib/equipes";
 
 // Exécuté depuis web/ (npm run test:vectors) : le repo est le parent.
 const root = new URL("../", pathToFileURL(process.cwd() + "/"));
@@ -101,6 +102,69 @@ comparer("p4: compte U8, bascule « tout »", toutes, equipesVisibles(toutes, "U
 comparer("p4: compte sans catégorie, vue par défaut", toutes, equipesVisibles(toutes, null, false), "équipes");
 comparer("p4: compte sans catégorie, bascule sans effet", toutes, equipesVisibles(toutes, null, true), "équipes");
 comparer("p4: équipe sans catégorie exclue de la vue catégorie", [], equipesVisibles([eqSans], "U8", false), "équipes");
+
+// Lot P5 (2026-11-26) — cases de présence à l’attachement : snapshot des
+// fonctions pures (web/lib/equipes.ts), hors miroir 15+8. Le contrat de
+// séance est inchangé : les validateurs ne lisent que `players`.
+function grp(id: string, joueurs: string[], name?: string): SessionGroup {
+  const g: SessionGroup = { id, players: joueurs.length };
+  if (name !== undefined) g.name = name;
+  if (joueurs.length > 0) g.joueurs = joueurs;
+  return g;
+}
+const plats: SessionGroup[] = [grp("g1", []), grp("g2", [])];
+const nommés: SessionGroup[] = [
+  grp("g1", ["Ada", "Ben"], "Groupe A"),
+  grp("g2", ["Chloé", "Dan"], "Groupe B"),
+];
+const sourceNommée: GroupeEquipe[] = [
+  { nom: "Groupe A", joueurs: ["Ada", "Ben"] },
+  { nom: "Groupe B", joueurs: ["Chloé", "Dan"] },
+];
+comparer(
+  "p5: mode plat, aucune absence → chaque joueur réparti exactement une fois",
+  [grp("g1", ["Ada", "Chloé"]), grp("g2", ["Ben", "Dan"])],
+  redistribuerPresences(plats, ["Ada", "Ben", "Chloé", "Dan"], {}, null),
+  "groupes",
+);
+comparer(
+  "p5: joueur décoché n’apparaît dans aucun groupe",
+  [grp("g1", ["Ada", "Dan"]), grp("g2", ["Chloé"])],
+  redistribuerPresences(plats, ["Ada", "Ben", "Chloé", "Dan"], { Ben: false }, null),
+  "groupes",
+);
+comparer(
+  "p5: récoche → le joueur revient dans son slot d’origine (déterminisme)",
+  [grp("g1", ["Ada", "Chloé"]), grp("g2", ["Ben", "Dan"])],
+  redistribuerPresences(
+    plats,
+    ["Ada", "Ben", "Chloé", "Dan"],
+    basculerPresences(basculerPresences({}, "Ben"), "Ben"),
+    null,
+  ),
+  "groupes",
+);
+comparer(
+  "p5: mode nommé → l’absent est retiré de SON groupe seulement",
+  [grp("g1", ["Ada"], "Groupe A"), grp("g2", ["Chloé", "Dan"], "Groupe B")],
+  redistribuerPresences(nommés, ["Ada", "Ben", "Chloé", "Dan"], { Ben: false }, sourceNommée),
+  "groupes",
+);
+comparer(
+  "p5: mode nommé → le groupe ajouté au-delà de la source est inchangé",
+  [
+    grp("g1", ["Ada"], "Groupe A"),
+    grp("g2", ["Chloé", "Dan"], "Groupe B"),
+    grp("g3", ["Eli", "Fan"], "Groupe C"),
+  ],
+  redistribuerPresences(
+    [nommés[0], nommés[1], grp("g3", ["Eli", "Fan"], "Groupe C")],
+    ["Ada", "Ben", "Chloé", "Dan"],
+    { Ben: false },
+    sourceNommée,
+  ),
+  "groupes",
+);
 
 const total = vectors.sessions.length + vectors.filters.length;
 if (echecs > 0) {

@@ -25,6 +25,7 @@ import type {
   ConseilCoach,
   Equipe,
   Fiche,
+  GroupeEquipe,
   SeanceCheck,
   SessionBlock,
   SessionPlan,
@@ -59,8 +60,11 @@ import {
   renderSheetPages,
 } from "../lib/pdf";
 import {
+  basculerPresences,
+  joueursCoches,
   parserJoueurs,
   repartirEffectif,
+  redistribuerPresences,
   roundRobinJoueurs,
 } from "../lib/equipes";
 import type { PrefillPayload } from "../lib/prefill";
@@ -186,6 +190,17 @@ export default function SessionBuilder({
   const [coachBusy, setCoachBusy] = useState(false);
   const [coachMsg, setCoachMsg] = useState<string | null>(null);
 
+  // Présences à l’attachement (lot P5, workflows 2026-11-26) : la liste
+  // complète des joueurs de l’équipe attachée (null = rien à afficher),
+  // les cases par joueur (map vide = tous présents), et — quand le
+  // préremplissage est en mode « groupes nommés » — la source de
+  // répartition, pour qu’un joueur récoché revienne dans SON groupe.
+  const [joueursEquipe, setJoueursEquipe] = useState<string[] | null>(null);
+  const [presences, setPresences] = useState<Record<string, boolean>>({});
+  const [groupesSource, setGroupesSource] = useState<GroupeEquipe[] | null>(
+    null
+  );
+
   useEffect(() => {
     let live = true;
     fetchTrameU8()
@@ -265,6 +280,22 @@ export default function SessionBuilder({
               joueurs: undefined,
             }));
           }
+          // P5 — les cases de présence suivent la même liste de joueurs
+          // qu’au préremplissage ; aucune absence par défaut.
+          if (groupesEquipe.length > 0) {
+            // Mode nommé : l’union ordonnée des joueurs des groupes — la
+            // règle serveur (un joueur au plus dans un groupe) garantit
+            // qu’il n’y a pas de doublons.
+            setJoueursEquipe(groupesEquipe.flatMap((ge) => ge.joueurs));
+            setGroupesSource(groupesEquipe);
+          } else if (noms.length > 0) {
+            setJoueursEquipe(noms);
+            setGroupesSource(null);
+          } else {
+            setJoueursEquipe(null);
+            setGroupesSource(null);
+          }
+          setPresences({});
           base.players = (base.groups ?? []).reduce((a, x) => a + x.players, 0);
           if (prefill.coach_par_defaut) {
             base.coach_logins = [prefill.coach_par_defaut];
@@ -481,13 +512,23 @@ export default function SessionBuilder({
   // rotation a un slot par groupe). Joueurs nommés → répartition
   // round-robin, un nom par case ; sinon l'effectif déclaré est réparti
   // numériquement ; équipe sans effectif → groupes inchangés.
-  const attachEquipe = (id: string) =>
+  // Lot P5 (workflows 2026-11-26) : les joueurs nommés alimentent en plus
+  // la liste des cases de présence — par défaut tous cochés (aucune
+  // absence) ; le mode de répartition reste plat (round-robin), le mode
+  // nommé étant réservé au préremplissage « groupes ».
+  const attachEquipe = (id: string) => {
+    // Les cases suivent l’équipe choisie : liste complète des joueurs
+    // nommés (ou null), aucune absence, mode plat.
+    const eq = equipes.find((x) => x.id === id);
+    const nomsEquipe = eq ? eq.joueurs ?? [] : [];
+    setJoueursEquipe(nomsEquipe.length > 0 ? nomsEquipe : null);
+    setGroupesSource(null);
+    setPresences({});
     updatePlan((d) => {
       if (!id) {
         d.team = null;
         return;
       }
-      const eq = equipes.find((x) => x.id === id);
       if (!eq) return;
       d.team = {
         id: eq.id,
@@ -517,6 +558,26 @@ export default function SessionBuilder({
       }
       d.players = (d.groups ?? []).reduce((a, x) => a + x.players, 0);
     });
+  };
+
+  // P5 — bascule d’une case de présence : la répartition est recalculée
+  // depuis la source — un joueur décoché n’est dans AUCUN groupe, un
+  // joueur récoché revient dans le sien (son groupe nommé ou son slot
+  // round-robin). L’effectif validé suit le compte des groupes.
+  const basculerPresence = (nom: string) => {
+    const suivant = basculerPresences(presences, nom);
+    setPresences(suivant);
+    updatePlan((d) => {
+      if (!joueursEquipe) return;
+      d.groups = redistribuerPresences(
+        d.groups ?? [],
+        joueursEquipe,
+        suivant,
+        groupesSource,
+      );
+      d.players = (d.groups ?? []).reduce((a, x) => a + x.players, 0);
+    });
+  };
 
   // Retirer un joueur nommé d'un groupe : le total du groupe suit les noms
   // (l'effectif est dérivé, jamais stocké à part). Le joueur n'est PAS
@@ -1202,6 +1263,33 @@ export default function SessionBuilder({
                 {plan.team.effectif !== null ? ` — ${plan.team.effectif} joueurs` : ""}
               </p>
             )}
+            {(() => {
+              // P5 — présence à l’attachement : une case par joueur de
+              // l’équipe (cochée par défaut) ; seuls les joueurs cochés
+              // sont répartis dans les groupes.
+              if (!joueursEquipe || joueursEquipe.length === 0) return null;
+              const presents = joueursCoches(joueursEquipe, presences);
+              return (
+                <div className="presence-block">
+                  <span className="field-label" aria-live="polite">
+                    Présences — {presents.length}/{joueursEquipe.length} présents
+                  </span>
+                  <div className="presence-list">
+                    {joueursEquipe.map((nom) => (
+                      <label className="presence-item" key={nom}>
+                        <input
+                          type="checkbox"
+                          aria-label={`Présence de ${nom}`}
+                          checked={presences[nom] !== false}
+                          onChange={() => basculerPresence(nom)}
+                        />
+                        {nom}
+                      </label>
+                    ))}
+                  </div>
+                </div>
+              );
+            })()}
             {(() => {
               // Divergence lot L3 : joueurs nommés ≠ effectif déclaré.
               // L'effectif validé reste le compte des groupes (plan.players) ;

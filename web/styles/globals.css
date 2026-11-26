@@ -891,6 +891,44 @@ input {
   font-size: 13px;
 }
 
+/* Cases de présence à l’attachement (lot P5, workflows 2026-11-26) : une
+   case par joueur de l’équipe attachée, en ruban enroulable sur
+   téléphone — un joueur décoché est retiré de tous les groupes. */
+.presence-block {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--line);
+}
+
+.presence-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.presence-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 34px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 13px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.presence-item input {
+  margin: 0;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
 .num-input:disabled {
   opacity: 0.55;
   cursor: not-allowed;
