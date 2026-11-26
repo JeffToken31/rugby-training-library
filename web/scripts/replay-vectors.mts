@@ -3,6 +3,10 @@
 // attentes — verrouille la leçon m1 des deux côtés (flottants entiers
 // acceptés, flottants non entiers et booléens refusés) et la parité des
 // messages entre web/lib/session.ts et session_plan.py.
+// Lot P4 (2026-11-26) : en fin de fichier, un « snapshot front » de la
+// fonction pure `equipesVisibles` (vue « ma catégorie » sur /club,
+// charter-workflows critère 4) — testée hors miroir 15+8, qui reste
+// strictement identique.
 // Lancement : npm run test:vectors depuis web/ (transpile tsc → CommonJS
 // dans .vectors-build/, puis node — le Node WSL de ce dépôt est compilé
 // sans support des types TypeScript).
@@ -12,7 +16,8 @@ import { pathToFileURL } from "node:url";
 
 import { validerLocale } from "../lib/session";
 import { selectCards } from "../lib/filter";
-import type { Card } from "../lib/types";
+import type { Card, Equipe } from "../lib/types";
+import { equipesVisibles } from "../lib/club-view";
 
 // Exécuté depuis web/ (npm run test:vectors) : le repo est le parent.
 const root = new URL("../", pathToFileURL(process.cwd() + "/"));
@@ -70,6 +75,32 @@ for (const vec of vectors.filters) {
     comparer(vec.name, vec.expected.count, cartes.length, "count");
   }
 }
+
+// Lot P4 (2026-11-26) — vue « ma catégorie » : snapshot de la fonction
+// pure `equipesVisibles` (web/lib/club-view.ts), hors miroir 15+8.
+function equipe(nom: string, categorie: string | null): Equipe {
+  return {
+    id: nom,
+    nom,
+    club: "RC Test",
+    categorie,
+    effectif: null,
+    coachs: [],
+    joueurs: [],
+    groupes: [],
+    saved_at: "2026-11-26T00:00:00Z",
+  };
+}
+const eqU8a = equipe("U8 A", "U8");
+const eqU8b = equipe("U8 B", "U8");
+const eqU10 = equipe("U10", "U10");
+const eqSans = equipe("Mixte", null);
+const toutes = [eqU8a, eqU8b, eqU10, eqSans];
+comparer("p4: compte U8, vue sa catégorie", [eqU8a, eqU8b], equipesVisibles(toutes, "U8", false), "équipes");
+comparer("p4: compte U8, bascule « tout »", toutes, equipesVisibles(toutes, "U8", true), "équipes");
+comparer("p4: compte sans catégorie, vue par défaut", toutes, equipesVisibles(toutes, null, false), "équipes");
+comparer("p4: compte sans catégorie, bascule sans effet", toutes, equipesVisibles(toutes, null, true), "équipes");
+comparer("p4: équipe sans catégorie exclue de la vue catégorie", [], equipesVisibles([eqSans], "U8", false), "équipes");
 
 const total = vectors.sessions.length + vectors.filters.length;
 if (echecs > 0) {

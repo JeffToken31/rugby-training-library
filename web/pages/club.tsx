@@ -7,6 +7,11 @@
 // « Effectif » (créer/modifier les joueurs) et « Groupes » (groupes nommés
 // librement, composés des joueurs déjà créés dans l'effectif ; un joueur au
 // plus dans un groupe, règle imposée par le serveur).
+// Lot P4 (2026-11-26, charter-workflows critère 4) : vue « ma catégorie »
+// — un compte portant une catégorie ouvre la page filtrée sur sa catégorie
+// (équipes), avec bascule « voir tout le club » ; un compte sans catégorie
+// garde la vue club entière. Le magasin joueurs du club (lot P3) est lu en
+// lecture seule : le gestionnaire saisit, les coachs lisent (D4).
 
 import { useEffect, useState } from "react";
 import {
@@ -14,6 +19,7 @@ import {
   fetchMoi,
   listerCoachs,
   listerEquipes,
+  listerJoueurs,
   mettreAJourEquipe,
   mettreAJourThemeClub,
   supprimerCoach,
@@ -21,6 +27,7 @@ import {
   type Moi,
 } from "../lib/auth";
 import type { Equipe, GroupeEquipe } from "../lib/types";
+import { equipesVisibles } from "../lib/club-view";
 import { ecrirePrefill } from "../lib/prefill";
 import { appliquerThemeClub } from "../lib/theme";
 
@@ -371,6 +378,12 @@ export default function Club() {
   const [coachsErr, setCoachsErr] = useState<string | null>(null);
   const [equipes, setEquipes] = useState<Equipe[]>([]);
   const [equipesErr, setEquipesErr] = useState<string | null>(null);
+  // Lot P4 — magasin joueurs du club (lecture seule) et bascule « tout »
+  // de la vue « ma catégorie » (fausse par défaut : un compte portant une
+  // catégorie ouvre la page filtrée sur sa catégorie).
+  const [joueurs, setJoueurs] = useState<string[]>([]);
+  const [joueursErr, setJoueursErr] = useState<string | null>(null);
+  const [vueTout, setVueTout] = useState(false);
   const [nomCoach, setNomCoach] = useState("");
   const [coachEnCours, setCoachEnCours] = useState(false);
   const [coachMsg, setCoachMsg] = useState<string | null>(null);
@@ -436,6 +449,9 @@ export default function Club() {
     void listerEquipes()
       .then(setEquipes)
       .catch((e: Error) => setEquipesErr(e.message));
+    void listerJoueurs()
+      .then(setJoueurs)
+      .catch((e: Error) => setJoueursErr(e.message));
   }, [moi]);
 
   const rafraichirCoachs = () =>
@@ -591,15 +607,23 @@ export default function Club() {
 
   // Équipes groupées par catégorie (ordre CATEGORIES, « Sans catégorie » à la
   // fin). Le badge de catégorie vient de la section, pas de l'équipe.
+  // Lot P4 — vue « ma catégorie » : si le compte porte une catégorie et que
+  // la bascule « tout » n'est pas activée, les équipes sont restreintes à
+  // cette catégorie (lib/club-view.ts) ; sinon, vue club entière.
+  const equipesFiltrees = equipesVisibles(
+    equipes,
+    moi?.categorie ?? null,
+    vueTout
+  );
   const sections = CATEGORIES.map((cat) => ({
     cat,
-    equipes: equipes.filter((e) => e.categorie === cat),
+    equipes: equipesFiltrees.filter((e) => e.categorie === cat),
   }))
     .filter((s) => s.equipes.length > 0)
     .concat([
       {
         cat: "Sans catégorie",
-        equipes: equipes.filter((e) => !e.categorie),
+        equipes: equipesFiltrees.filter((e) => !e.categorie),
       },
     ]);
 
@@ -633,7 +657,19 @@ export default function Club() {
               <span className="club-header-name">
                 {moi.club || "Votre club"}
               </span>
-              {moi.categorie && <span className="club-badge">{moi.categorie}</span>}
+              {moi.categorie && (
+                <>
+                  <span className="club-badge">{moi.categorie}</span>
+                  <button
+                    type="button"
+                    className="club-tout"
+                    aria-pressed={vueTout}
+                    onClick={() => setVueTout((v) => !v)}
+                  >
+                    {vueTout ? "Voir ma catégorie" : "Voir tout le club"}
+                  </button>
+                </>
+              )}
             </section>
 
             <section className="club-section" aria-labelledby="titre-identite">
@@ -774,6 +810,36 @@ export default function Club() {
               {coachMsg && (
                 <p className="club-err" role="alert">
                   {coachMsg}
+                </p>
+              )}
+            </section>
+
+            <section className="club-section" aria-labelledby="titre-joueurs">
+              <h2 id="titre-joueurs" className="club-section-title">
+                Joueurs du club
+              </h2>
+              {joueursErr ? (
+                <p className="club-err" role="alert">
+                  {joueursErr}
+                </p>
+              ) : joueurs.length > 0 ? (
+                <>
+                  <p className="club-note">
+                    Magasin du club, en lecture seule ici : le gestionnaire
+                    ajoute et retire les joueurs, les coachs les lisent.
+                    Prénom + nom uniquement (RGPD v1.1).
+                  </p>
+                  <div className="club-players">
+                    {joueurs.map((nom) => (
+                      <span key={nom} className="player-chip">
+                        {nom}
+                      </span>
+                    ))}
+                  </div>
+                </>
+              ) : (
+                <p className="club-note">
+                  Aucun joueur inscrit pour le club pour l'instant.
                 </p>
               )}
             </section>

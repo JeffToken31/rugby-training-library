@@ -235,6 +235,17 @@ export async function listerEquipes(): Promise<Equipe[]> {
   return body.equipes;
 }
 
+/** Magasin joueurs du club du compte appelant (lot P3, 2026-11-26) :
+ * prénom + nom uniquement, ordre alphabétique ; liste vide si le compte
+ * n'a pas de club. Lecture seule côté front (lot P4) : le gestionnaire
+ * saisit, les coachs lisent. */
+export async function listerJoueurs(): Promise<string[]> {
+  const res = await fetch("/api/joueurs", { cache: "no-store" });
+  if (!res.ok) await erreurDe(res, "Impossible de charger les joueurs");
+  const body = (await res.json()) as { joueurs: string[] };
+  return body.joueurs;
+}
+
 /** Corps de création / mise à jour d'une équipe (PUT = complète). */
 export interface CorpsEquipe {
   nom: string;
