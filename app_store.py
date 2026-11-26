@@ -63,7 +63,7 @@ MAX_PASSWORD = 128
 # Lot club (cadrage 03) : club = texte facultatif ≤ 80 caractères ;
 # catégorie = liste contrôlée, facultative.
 MAX_CLUB = 80
-CATEGORIES = ("U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre")
+CATEGORIES = ("babys", "U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre")
 
 LOGIN_RE = re.compile(r"^[a-z0-9][a-z0-9._-]{1,31}$")
 DRAFT_ID_RE = re.compile(r"^[a-z0-9._-]{1,128}$", re.IGNORECASE)

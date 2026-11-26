@@ -2,7 +2,7 @@
 
 Le compte porte deux champs facultatifs :
 - `club` : texte de ≤ 80 caractères (libellé simple, n'ouvre aucun accès) ;
-- `categorie` : liste contrôlée U6…U18, Autre.
+- `categorie` : liste contrôlée babys, U6…U18, Autre.
 
 C1 inchangée : un même club pour deux comptes ne crée aucun accès croisé.
 Isolement identique à test_auth_app.py (RTRL_APP_DB → base temporaire).
@@ -45,6 +45,11 @@ class InscriptionClubTests(AuthAppTestBase):
         self.assertEqual(code, 200)
         self.assertIsNone(moi["club"])
         self.assertIsNone(moi["categorie"])
+
+    def test_babys_en_tete_de_la_nomenclature(self):
+        # P1 (charter workflows 2026-11-26) : « babys » (U4, les moins de
+        # 4 ans, sous les U6) précède U6 dans la nomenclade — tranché user.
+        self.assertEqual(CATEGORIES[0], "babys")
 
     def test_toutes_les_categorie_controlees_sont_acceptees(self):
         for i, cat in enumerate(CATEGORIES):

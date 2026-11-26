@@ -11,7 +11,7 @@ type Mode = "login" | "inscription";
 const LOGIN_RE = /^[a-z0-9][a-z0-9._-]{1,31}$/;
 
 // Miroir de la liste contrôlée du lot club (app_store.py CATEGORIES).
-const CATEGORIES = ["U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre"];
+const CATEGORIES = ["babys", "U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre"];
 
 export default function Connexion() {
   const [mode, setMode] = useState<Mode>("login");

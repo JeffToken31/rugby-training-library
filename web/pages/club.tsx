@@ -25,7 +25,7 @@ import { ecrirePrefill } from "../lib/prefill";
 import { appliquerThemeClub } from "../lib/theme";
 
 // Miroir de la liste contrôlée du lot club (app_store.py CATEGORIES).
-const CATEGORIES = ["U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre"];
+const CATEGORIES = ["babys", "U6", "U8", "U10", "U12", "U14", "U16", "U18", "Autre"];
 
 // Lot peaufinage B : format hexadécimal attendu (miroir de COULEUR_RE,
 // app_store.py) — la 1re couleur est obligatoire, les 2 autres effaçables.

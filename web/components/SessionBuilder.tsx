@@ -86,6 +86,7 @@ const BADGE_CLASS: Record<string, string> = {
 // Catégories proposées dans le formulaire d'équipe — même liste que la
 // validation côté compte (app_store.CATEGORIES).
 const CATEGORIES_UI = [
+  "babys",
   "U6",
   "U8",
   "U10",
