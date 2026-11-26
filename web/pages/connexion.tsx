@@ -214,6 +214,11 @@ export default function Connexion() {
                     maxLength={80}
                     onChange={(e) => setClub(e.target.value)}
                   />
+                  <small className="connexion-aide">
+                    Le club regroupe l’espace partagé de votre club : coachs,
+                    équipes et joueurs. Saisissez la même orthographe que le
+                    reste du club pour rejoindre le même espace.
+                  </small>
                 </label>
                 <label className="connexion-field">
                   <span>Catégorie (facultatif)</span>

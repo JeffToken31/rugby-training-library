@@ -657,6 +657,9 @@ export default function Club() {
               <span className="club-header-name">
                 {moi.club || "Votre club"}
               </span>
+              <span className="club-view">
+                {moi.categorie ? "Votre catégorie" : "Votre club"}
+              </span>
               {moi.categorie && (
                 <>
                   <span className="club-badge">{moi.categorie}</span>

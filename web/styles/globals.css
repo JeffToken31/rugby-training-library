@@ -1550,6 +1550,12 @@ input {
   color: var(--ink);
 }
 
+.connexion-aide {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--ink-3);
+}
+
 .connexion-error {
   margin: 0;
   color: var(--badge-red-t);
@@ -1871,6 +1877,12 @@ input {
 .club-header-name {
   font-size: 17px;
   font-weight: 700;
+}
+
+.club-view {
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--ink-2);
 }
 
 .club-badge {
