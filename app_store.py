@@ -130,6 +130,17 @@ CREATE TABLE IF NOT EXISTS clubs (
     logo BLOB,
     saved_at TEXT NOT NULL
 );
+-- Lot P3 (cadrage 05, 2026-11-26) : magasin joueurs par club — première
+-- donnée partagée par club (D4). Clé = nom du club (strip, même règle que
+-- clubs) : la brique est commune à tous les comptes du club ; l'entité club
+-- du v2 (V0) l'absorbe telle quelle (nom → club_id). Joueur = prénom + nom
+-- uniquement (RGPD v1.1) : aucun autre champ accepté ni stocké.
+CREATE TABLE IF NOT EXISTS joueurs_club (
+    club TEXT NOT NULL,
+    joueur TEXT NOT NULL,
+    saved_at TEXT NOT NULL,
+    PRIMARY KEY (club, joueur)
+);
 CREATE TABLE IF NOT EXISTS meta (
     key TEXT PRIMARY KEY,
     value TEXT NOT NULL
@@ -143,6 +154,10 @@ class AccountExists(Exception):
 
 class CoachExists(Exception):
     """Nom de coach déjà présent pour le compte (→ HTTP 409 côté API)."""
+
+
+class JoueurExists(Exception):
+    """Joueur déjà présent pour le club (→ HTTP 409 côté API)."""
 
 
 def normalize_login(login: str) -> str:
@@ -926,6 +941,68 @@ class AppStore:
         )
         self.conn.commit()
         return self.get_club_theme(club)
+
+    # ---------------------------------------------------- magasin joueurs par club
+    def ajouter_joueur_club(self, club, joueur) -> dict:
+        """Ajoute un joueur au magasin du club (lot P3, cadrage 05,
+        2026-11-26, D4). Clé = nom du club (strip, même règle que `clubs`) :
+        le magasin est commun à tous les comptes du club — le gestionnaire
+        saisit, les coachs lisent. Joueur = prénom + nom uniquement (RGPD
+        v1.1) : aucun autre champ n'est accepté ni stocké. Lève ValueError
+        si le club ou le nom est invalide, JoueurExists si un joueur de ce
+        nom existe déjà pour le club (comparaison insensible à la casse :
+        le doublon est une faute de frappe, elle se corrige par une
+        suppression)."""
+        if not isinstance(club, str) or not club.strip():
+            raise ValueError("Nom de club requis (texte de 80 caractères au plus).")
+        club = club.strip()
+        if len(club) > MAX_CLUB:
+            raise ValueError("Nom de club trop long (80 caractères au plus).")
+        joueur = normalize_player_name(joueur)
+        if self.conn.execute(
+            "SELECT 1 FROM joueurs_club WHERE club = ? "
+            "AND joueur = ? COLLATE NOCASE",
+            (club, joueur),
+        ).fetchone() is not None:
+            raise JoueurExists(joueur)
+        now = _utcnow_iso()
+        self.conn.execute(
+            "INSERT INTO joueurs_club (club, joueur, saved_at) VALUES (?, ?, ?)",
+            (club, joueur, now),
+        )
+        self.conn.commit()
+        return {"club": club, "joueur": joueur, "saved_at": now}
+
+    def supprimer_joueur_club(self, club, joueur) -> None:
+        """Retire un joueur du magasin du club (lot P3). Lève ValueError si
+        le club est absent/vide, si le nom est invalide ou si le joueur est
+        inconnu pour ce club (comparaison insensible à la casse)."""
+        if not isinstance(club, str) or not club.strip():
+            raise ValueError("Nom de club requis (texte de 80 caractères au plus).")
+        joueur = normalize_player_name(joueur)
+        cur = self.conn.execute(
+            "DELETE FROM joueurs_club WHERE club = ? "
+            "AND joueur = ? COLLATE NOCASE",
+            (club.strip(), joueur),
+        )
+        if cur.rowcount != 1:
+            raise ValueError("Joueur introuvable.")
+        self.conn.commit()
+
+    def list_joueurs_club(self, club):
+        """Magasin joueurs du club (lot P3, clé = nom du club) : liste de
+        chaînes prénom + nom, ordre alphabétique insensible à la casse. Un
+        club sans joueur — ou un nom de club absent/vide — renvoie la liste
+        vide. Le magasin n'est rattaché à aucun compte : tout compte qui
+        connaît le club lit la même liste."""
+        if not isinstance(club, str) or not club.strip():
+            return []
+        rows = self.conn.execute(
+            "SELECT joueur FROM joueurs_club WHERE club = ? "
+            "ORDER BY joueur COLLATE NOCASE",
+            (club.strip(),),
+        ).fetchall()
+        return [r[0] for r in rows]
 
 
 def _equipe_dict(row) -> dict:

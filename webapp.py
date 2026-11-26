@@ -42,6 +42,15 @@ Routes :
                                 session. Brouillons et propositions restent
                                 strictement privés (C1)
   GET|POST
+     /api/joueurs[/<joueur>]  → magasin joueurs par club (lot P3, cadrage 05,
+                                2026-11-26) : clé = nom du club du compte
+                                appelant, commun à tous les comptes du club ;
+                                POST {joueur} → 201 (409 si doublon,
+                                insensible à la casse), DELETE → 404 ; 401
+                                sans session. Prénom + nom uniquement —
+                                aucun autre champ accepté ni stocké (RGPD
+                                v1.1)
+  GET|POST
      /api/equipes[/<id>]      → équipes d'effectif du compte (nom requis,
                                 club, catégorie, effectif et coachs
                                 rattachés facultatifs — tailles flexibles) ;
@@ -824,6 +833,63 @@ def _route_coachs(environ):
         return _json_response(HTTPStatus.OK, {"ok": True})
 
 
+def _route_joueurs(environ):
+    """GET|POST /api/joueurs ; DELETE /api/joueurs/<joueur> — magasin
+    joueurs par club (lot P3, cadrage 05, 2026-11-26) : clé = nom du club du
+    compte appelant, commun à tous les comptes du club — le gestionnaire
+    saisit, les coachs lisent. Prénom + nom uniquement (RGPD v1.1) : aucun
+    autre champ n'est accepté ni stocké."""
+    method = environ.get("REQUEST_METHOD", "GET")
+    parts = [unquote(p) for p in environ["PATH_INFO"].split("/") if p]
+    joueur_id = parts[2] if len(parts) > 2 else None
+    with app_store.AppStore(app_db_path()) as store:
+        compte = _require_account(environ, store)
+        if compte is None:
+            return _json_response(HTTPStatus.UNAUTHORIZED, {"error": "Authentification requise."})
+        if joueur_id is None:
+            if method == "GET":
+                return _json_response(
+                    HTTPStatus.OK,
+                    {"joueurs": store.list_joueurs_club(compte["club"])},
+                )
+            if method == "POST":
+                if not compte["club"]:
+                    return _json_response(
+                        HTTPStatus.BAD_REQUEST,
+                        {"error": "Impossible d'ajouter des joueurs sans club renseigné."},
+                    )
+                err, data = _read_json_body(environ)
+                if err is not None:
+                    return _json_response(err, data)
+                if not isinstance(data, dict):
+                    return _json_response(
+                        HTTPStatus.BAD_REQUEST,
+                        {"error": "Objet JSON requis (nom du joueur au minimum)."},
+                    )
+                try:
+                    joueur = store.ajouter_joueur_club(compte["club"], data.get("joueur"))
+                except app_store.JoueurExists:
+                    return _json_response(
+                        HTTPStatus.CONFLICT,
+                        {"error": "Un joueur de ce nom existe déjà pour ce club."},
+                    )
+                except ValueError as exc:
+                    return _json_response(HTTPStatus.BAD_REQUEST, {"error": str(exc)})
+                return _json_response(HTTPStatus.CREATED, joueur)
+            return _error(405)
+        if len(parts) != 3:
+            return _json_response(
+                HTTPStatus.BAD_REQUEST, {"error": "Identifiant de joueur invalide."}
+            )
+        if method != "DELETE":
+            return _error(405)
+        try:
+            store.supprimer_joueur_club(compte["club"], joueur_id)
+        except ValueError:
+            return _json_response(HTTPStatus.NOT_FOUND, {"error": "Joueur introuvable."})
+        return _json_response(HTTPStatus.OK, {"ok": True})
+
+
 def _route_conseils(environ):
     """GET /api/conseils → conseils coach (data/coach-cues.json).
 
@@ -992,6 +1058,8 @@ def application(environ, start_response):
         status, headers, body = _route_propositions(environ)
     elif path == "/api/coachs" or path.startswith("/api/coachs/"):
         status, headers, body = _route_coachs(environ)
+    elif path == "/api/joueurs" or path.startswith("/api/joueurs/"):
+        status, headers, body = _route_joueurs(environ)
     elif path == "/api/equipes" or path.startswith("/api/equipes/"):
         status, headers, body = _route_equipes(environ)
     elif path == "/api/conseils":
