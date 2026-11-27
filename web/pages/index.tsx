@@ -198,13 +198,14 @@ export default function Home() {
           <h1 className="app-title">Rugby Training Library</h1>
           {moi ? (
             <>
-              <span
+              <a
                 className="compte-chip"
-                title={`Connecté en tant que ${moi.login}${moi.club ? ` · ${moi.club}` : ""}${moi.categorie ? ` · ${moi.categorie}` : ""}`}
+                href="/club"
+                title={`Connecté en tant que ${moi.login}${moi.club ? ` · ${moi.club}` : ""}${moi.categorie ? ` · ${moi.categorie}` : ""} — voir la page club`}
               >
                 Bonjour {moi.login}
                 {moi.club ? <span className="compte-chip-sub"> — {moi.club}</span> : null}
-              </span>
+              </a>
               <button className="compte-logout" onClick={() => void deconnexion()}>
                 Se déconnecter
               </button>

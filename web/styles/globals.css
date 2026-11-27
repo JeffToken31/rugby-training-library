@@ -1465,6 +1465,10 @@ input {
   font-size: 14px;
   font-weight: 600;
   color: var(--accent);
+  /* Lot L2 (cadrage 06) : la chip est le lien vers /club — même coloration
+     accent que .compte-link, sans soulignement (l'accent suffit, comme
+     l'autre lien du header). */
+  text-decoration: none;
 }
 
 /* Lot club : libellé du club dans la chip, atténué (le login reste l'info
