@@ -1060,6 +1060,17 @@ def application(environ, start_response):
         status, headers, body = _route_coachs(environ)
     elif path == "/api/joueurs" or path.startswith("/api/joueurs/"):
         status, headers, body = _route_joueurs(environ)
+    elif path == "/api/clubs":
+        # Public (lot L1, cadrage 06) : les suggestions du formulaire
+        # d'inscription sont nécessaires avant toute session. Noms de club
+        # seulement (table comptes) : aucune donnée personnelle.
+        if method != "GET":
+            status, headers, body = _error(405)
+        else:
+            with app_store.AppStore(app_db_path()) as store:
+                status, headers, body = _json_response(
+                    HTTPStatus.OK, {"clubs": store.list_clubs()}
+                )
     elif path == "/api/equipes" or path.startswith("/api/equipes/"):
         status, headers, body = _route_equipes(environ)
     elif path == "/api/conseils":

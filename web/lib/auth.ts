@@ -246,6 +246,16 @@ export async function listerJoueurs(): Promise<string[]> {
   return body.joueurs;
 }
 
+/** Noms de club déjà inscrits (lot L1, cadrage 06) : endpoint **public** —
+ * le formulaire d'inscription s'utilise sans session. Suggestions non
+ * bloquantes côté front ; liste vide si aucun compte n'a encore de club. */
+export async function listerClubs(): Promise<string[]> {
+  const res = await fetch("/api/clubs", { cache: "no-store" });
+  if (!res.ok) await erreurDe(res, "Impossible de charger les clubs");
+  const body = (await res.json()) as { clubs: string[] };
+  return body.clubs;
+}
+
 /** Corps de création / mise à jour d'une équipe (PUT = complète). */
 export interface CorpsEquipe {
   nom: string;

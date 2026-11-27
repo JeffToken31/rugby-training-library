@@ -3,7 +3,7 @@
 // le lire — on renvoie simplement vers « / » qui recharge /api/moi.
 
 import { useEffect, useState } from "react";
-import { connecter, fetchMoi, inscrire, seDeconnecter, type Moi } from "../lib/auth";
+import { connecter, fetchMoi, inscrire, listerClubs, seDeconnecter, type Moi } from "../lib/auth";
 
 type Mode = "login" | "inscription";
 
@@ -21,6 +21,10 @@ export default function Connexion() {
   // Lot club (cadrage 03) : deux champs facultatifs à l'inscription.
   const [club, setClub] = useState("");
   const [categorie, setCategorie] = useState("");
+  // Lot L1 (cadrage 06) : suggestions des clubs déjà inscrits. Non bloquant
+  // : si le fetch échoue, le champ reste un simple input (l'aide « même
+  // orthographe » reste la règle de référence).
+  const [clubs, setClubs] = useState<string[]>([]);
   const [erreur, setErreur] = useState<string | null>(null);
   const [enCours, setEnCours] = useState(false);
   const [moi, setMoi] = useState<Moi | null>(null);
@@ -43,6 +47,22 @@ export default function Connexion() {
       .then(setMoi)
       .catch(() => setMoi(null))
       .finally(() => setVerifie(true));
+  }, []);
+
+  // Les suggestions sont utiles dans les deux modes (le login n'a pas de
+  // champ club, mais le fetch est minuscule et la page est courte).
+  useEffect(() => {
+    let actif = true;
+    listerClubs()
+      .then((liste) => {
+        if (actif) setClubs(liste);
+      })
+      .catch(() => {
+        /* non bloquant : le champ reste un simple input */
+      });
+    return () => {
+      actif = false;
+    };
   }, []);
 
   const changerMode = (m: Mode) => {
@@ -210,10 +230,16 @@ export default function Connexion() {
                   <input
                     type="text"
                     value={club}
+                    list="clubs-connus"
                     autoComplete="organization"
                     maxLength={80}
                     onChange={(e) => setClub(e.target.value)}
                   />
+                  <datalist id="clubs-connus">
+                    {clubs.map((nom) => (
+                      <option key={nom} value={nom} />
+                    ))}
+                  </datalist>
                   <small className="connexion-aide">
                     Le club regroupe l’espace partagé de votre club : coachs,
                     équipes et joueurs. Saisissez la même orthographe que le

@@ -942,6 +942,27 @@ class AppStore:
         self.conn.commit()
         return self.get_club_theme(club)
 
+    def list_clubs(self):
+        """Noms de club distincts (table comptes) pour les suggestions du
+        formulaire d'inscription (lot L1, cadrage 06, 2026-11-27) : non
+        vides, strip, dé-doublonnés casefold (accents comptent — même règle
+        d'orthographe que partout dans l'app), ordre alphabétique. Les noms
+        seuls : l'endpoint est public (le formulaire s'utilise sans
+        session), aucune donnée personnelle n'est livrée."""
+        rows = self.conn.execute(
+            "SELECT club FROM comptes "
+            "WHERE club IS NOT NULL AND TRIM(club) != '' ORDER BY id"
+        ).fetchall()
+        par_canon = {}
+        for (raw,) in rows:
+            if not isinstance(raw, str):
+                continue
+            club = raw.strip()
+            if not club:
+                continue
+            par_canon.setdefault(club.casefold(), club)
+        return [par_canon[cle] for cle in sorted(par_canon)]
+
     # ---------------------------------------------------- magasin joueurs par club
     def ajouter_joueur_club(self, club, joueur) -> dict:
         """Ajoute un joueur au magasin du club (lot P3, cadrage 05,
