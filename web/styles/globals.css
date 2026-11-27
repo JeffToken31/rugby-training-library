@@ -1965,6 +1965,25 @@ input {
   color: var(--ink-3);
 }
 
+/* Lot L3 (cadrage 06) — suppression de l'effectif (carte équipe) : bouton
+   discret en fin de ligne, poussé à droite (margin-left auto sur le flex). */
+.club-team-delete {
+  margin-left: auto;
+  min-height: 34px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--ink-2);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.club-team-delete:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
 .club-players {
   display: flex;
   flex-wrap: wrap;

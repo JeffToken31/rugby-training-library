@@ -12,10 +12,17 @@
 // (équipes), avec bascule « voir tout le club » ; un compte sans catégorie
 // garde la vue club entière. Le magasin joueurs du club (lot P3) est lu en
 // lecture seule : le gestionnaire saisit, les coachs lisent (D4).
+// Lot L3 (2026-11-27, cadrage 06 critère 3) : restructuration — un
+// « effectif » = une équipe (la carte) ; création/suppression d'effectifs
+// par catégorie (bouton par section, formulaire nom seul) ; la zone
+// « Effectif » devient « Joueurs » ; le champ numérique `effectif`
+// (effectif déclaré) n'est plus exposé (la liste des joueurs est la source
+// de vérité).
 
 import { useEffect, useState } from "react";
 import {
   ajouterCoach,
+  creerEquipe,
   fetchMoi,
   listerCoachs,
   listerEquipes,
@@ -23,6 +30,7 @@ import {
   mettreAJourEquipe,
   mettreAJourThemeClub,
   supprimerCoach,
+  supprimerEquipe,
   type CoachRef,
   type Moi,
 } from "../lib/auth";
@@ -89,6 +97,7 @@ function EquipeCard({
   eq,
   majEquipe,
   preparer,
+  supprimerEffectif,
 }: {
   eq: Equipe;
   majEquipe: (patch: {
@@ -96,6 +105,9 @@ function EquipeCard({
     groupes?: GroupeEquipe[];
   }) => Promise<void>;
   preparer: () => void;
+  // Lot L3 (cadrage 06) : la carte gère confirmation + affichage de l'erreur,
+  // la page gère l'API + l'état (même répartition que `preparer`).
+  supprimerEffectif: () => Promise<void>;
 }) {
   const [nomJoueur, setNomJoueur] = useState("");
   const [nomGroupe, setNomGroupe] = useState("");
@@ -116,6 +128,31 @@ function EquipeCard({
       setNomJoueur("");
     } catch (e) {
       setErreur(e instanceof Error ? e.message : "Ajout du joueur impossible.");
+    } finally {
+      setEnCours(false);
+    }
+  };
+
+  // Lot L3 (cadrage 06) : suppression de l'effectif (la carte entière). La
+  // confirmation porte l'avertissement D1 : les séances déjà créées qui
+  // l'utilisent gardent leur instantané (le snapshot vit dans la séance).
+  const supprimerCarte = async () => {
+    if (enCours) return;
+    if (
+      !window.confirm(
+        `Supprimer l'effectif « ${eq.nom} » ?\nLes séances déjà créées qui l'utilisent gardent leur instantané : seules les nouvelles séances ne verront plus cet effectif.`
+      )
+    ) {
+      return;
+    }
+    setEnCours(true);
+    setErreur(null);
+    try {
+      await supprimerEffectif();
+    } catch (e) {
+      setErreur(
+        e instanceof Error ? e.message : "Suppression de l'effectif impossible."
+      );
     } finally {
       setEnCours(false);
     }
@@ -224,16 +261,22 @@ function EquipeCard({
         <span className="club-effectif">
           {eq.joueurs.length > 0
             ? `${eq.joueurs.length} joueur${eq.joueurs.length > 1 ? "s" : ""}`
-            : eq.effectif !== null
-              ? `effectif déclaré : ${eq.effectif}`
-              : "effectif non précisé"}
+            : "Aucun joueur"}
         </span>
+        <button
+          type="button"
+          className="club-team-delete"
+          disabled={enCours}
+          onClick={() => void supprimerCarte()}
+        >
+          Supprimer
+        </button>
       </div>
 
       <div className="club-team-zones">
-        <section className="club-zone" aria-labelledby={`effectif-${eq.id}`}>
-          <h3 className="club-zone-title" id={`effectif-${eq.id}`}>
-            Effectif
+        <section className="club-zone" aria-labelledby={`joueurs-${eq.id}`}>
+          <h3 className="club-zone-title" id={`joueurs-${eq.id}`}>
+            Joueurs
           </h3>
 
           {eq.joueurs.length > 0 && (
@@ -378,6 +421,13 @@ export default function Club() {
   const [coachsErr, setCoachsErr] = useState<string | null>(null);
   const [equipes, setEquipes] = useState<Equipe[]>([]);
   const [equipesErr, setEquipesErr] = useState<string | null>(null);
+  // Lot L3 (cadrage 06) : formulaire « Ajouter un effectif » par section —
+  // la section ouverte (nom de catégorie) + le nom en cours ; un seul
+  // formulaire ouvert à la fois (mobile d'abord).
+  const [effectifOuvert, setEffectifOuvert] = useState<string | null>(null);
+  const [nomEffectif, setNomEffectif] = useState("");
+  const [effectifEnCours, setEffectifEnCours] = useState(false);
+  const [effectifMsg, setEffectifMsg] = useState<string | null>(null);
   // Lot P4 — magasin joueurs du club (lecture seule) et bascule « tout »
   // de la vue « ma catégorie » (fausse par défaut : un compte portant une
   // catégorie ouvre la page filtrée sur sa catégorie).
@@ -458,6 +508,45 @@ export default function Club() {
     void listerCoachs()
       .then(setCoachs)
       .catch((e: Error) => setCoachsErr(e.message));
+
+  const rafraichirEquipes = () =>
+    void listerEquipes()
+      .then(setEquipes)
+      .catch((e: Error) => setEquipesErr(e.message));
+
+  // Lot L3 (cadrage 06) : création d'un effectif rattaché à la catégorie de
+  // sa section (« Sans catégorie » → categorie null). Le champ `effectif`
+  // (effectif déclaré) n'est plus exposé : la liste des joueurs est la
+  // source de vérité.
+  const ajouterEffectif = async (categorie: string | null) => {
+    if (effectifEnCours || !moi) return;
+    const nom = nomEffectif.trim().replace(/\s+/g, " ");
+    if (nom.length < 2 || nom.length > 80) {
+      setEffectifMsg("Nom de l'effectif : 2 à 80 caractères.");
+      return;
+    }
+    setEffectifEnCours(true);
+    setEffectifMsg(null);
+    try {
+      await creerEquipe({ nom, club: moi.club || null, categorie });
+      setNomEffectif("");
+      setEffectifOuvert(null);
+      rafraichirEquipes();
+    } catch (e) {
+      setEffectifMsg(
+        e instanceof Error ? e.message : "Création de l'effectif impossible."
+      );
+    } finally {
+      setEffectifEnCours(false);
+    }
+  };
+
+  // Lot L3 (cadrage 06) : suppression — la carte gère confirmation et
+  // avertissement D1, ici l'API + l'état local.
+  const supprimerEffectif = (eq: Equipe) =>
+    supprimerEquipe(eq.id).then(() =>
+      setEquipes((liste) => liste.filter((x) => x.id !== eq.id))
+    );
 
   const ajouterCoachNom = async () => {
     if (coachEnCours || !moi) return;
@@ -606,26 +695,29 @@ export default function Club() {
   };
 
   // Équipes groupées par catégorie (ordre CATEGORIES, « Sans catégorie » à la
-  // fin). Le badge de catégorie vient de la section, pas de l'équipe.
+  // fin). La catégorie vient de la section, pas de l'équipe.
   // Lot P4 — vue « ma catégorie » : si le compte porte une catégorie et que
-  // la bascule « tout » n'est pas activée, les équipes sont restreintes à
-  // cette catégorie (lib/club-view.ts) ; sinon, vue club entière.
+  // la bascule « tout » n'est pas activée, seules les équipes de cette
+  // catégorie sont listées (lib/club-view.ts) — et seule la section de la
+  // catégorie est affichée (vueRestreinte).
+  // Lot L3 (cadrage 06) : en vue club entière, les sections sont affichées
+  // même vides — le bouton « Ajouter un effectif » rend chaque catégorie
+  // accessible (arbitrage journal 2026-11-27).
   const equipesFiltrees = equipesVisibles(
     equipes,
     moi?.categorie ?? null,
     vueTout
   );
+  const vueRestreinte = (moi?.categorie ?? null) !== null && !vueTout;
   const sections = CATEGORIES.map((cat) => ({
     cat,
     equipes: equipesFiltrees.filter((e) => e.categorie === cat),
-  }))
-    .filter((s) => s.equipes.length > 0)
-    .concat([
-      {
-        cat: "Sans catégorie",
-        equipes: equipesFiltrees.filter((e) => !e.categorie),
-      },
-    ]);
+  })).concat([
+    {
+      cat: "Sans catégorie",
+      equipes: equipesFiltrees.filter((e) => !e.categorie),
+    },
+  ]);
 
   return (
     <div className="app">
@@ -852,24 +944,77 @@ export default function Club() {
                 {equipesErr}
               </p>
             ) : (
-              sections.map(
-                (s) =>
-                  s.equipes.length > 0 && (
-                    <section key={s.cat} className="club-section" aria-labelledby={`titre-${s.cat}`}>
-                      <h2 id={`titre-${s.cat}`} className="club-section-title">
-                        {s.cat}
-                      </h2>
-                      {s.equipes.map((eq) => (
-                        <EquipeCard
-                          key={eq.id}
-                          eq={eq}
-                          majEquipe={majEquipe(eq.id)}
-                          preparer={() => preparer(eq)}
+              // Lot L3 (cadrage 06) : toutes les sections en vue club entière
+              // (même vides) ; seule la section de la catégorie en vue
+              // « ma catégorie ».
+              sections
+                .filter((s) => !vueRestreinte || s.cat === (moi?.categorie ?? null))
+                .map((s) => (
+                  <section
+                    key={s.cat}
+                    className="club-section"
+                    aria-labelledby={`titre-${s.cat}`}
+                  >
+                    <h2 id={`titre-${s.cat}`} className="club-section-title">
+                      {s.cat}
+                    </h2>
+                    {s.equipes.map((eq) => (
+                      <EquipeCard
+                        key={eq.id}
+                        eq={eq}
+                        majEquipe={majEquipe(eq.id)}
+                        preparer={() => preparer(eq)}
+                        supprimerEffectif={() => supprimerEffectif(eq)}
+                      />
+                    ))}
+                    <button
+                      type="button"
+                      className="club-file-btn"
+                      disabled={effectifEnCours}
+                      onClick={() => {
+                        setEffectifOuvert((o) => (o === s.cat ? null : s.cat));
+                        setEffectifMsg(null);
+                      }}
+                    >
+                      {effectifOuvert === s.cat ? "Fermer" : "Ajouter un effectif"}
+                    </button>
+                    {effectifOuvert === s.cat && (
+                      <div className="coach-add-row">
+                        <input
+                          type="text"
+                          placeholder="Nom de l'effectif (ex. « U8A »)"
+                          value={nomEffectif}
+                          maxLength={80}
+                          onChange={(e) => setNomEffectif(e.target.value)}
+                          onKeyDown={(e) => {
+                            if (e.key === "Enter") {
+                              e.preventDefault();
+                              void ajouterEffectif(
+                                s.cat === "Sans catégorie" ? null : s.cat
+                              );
+                            }
+                          }}
                         />
-                      ))}
-                    </section>
-                  )
-              )
+                        <button
+                          type="button"
+                          disabled={effectifEnCours}
+                          onClick={() =>
+                            void ajouterEffectif(
+                              s.cat === "Sans catégorie" ? null : s.cat
+                            )
+                          }
+                        >
+                          Créer
+                        </button>
+                      </div>
+                    )}
+                    {effectifMsg && (
+                      <p className="club-err" role="alert">
+                        {effectifMsg}
+                      </p>
+                    )}
+                  </section>
+                ))
             )}
           </>
         ) : (
