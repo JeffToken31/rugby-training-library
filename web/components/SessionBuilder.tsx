@@ -184,37 +184,39 @@ export default function SessionBuilder({
           const groupesEquipe = prefill.groupes ?? [];
           const noms = prefill.joueurs;
           if (groupesEquipe.length > 0) {
-            // Lot peaufinage C : les groupes nommés de la page « club » sont
-            // mappés POSITIONNELLEMENT sur la trame — le groupe i de
-            // l'équipe occupe le groupe i de la trame (nom, joueurs, compte)
-            // ; les groupes de trame en reste vides. Les groupes enregistrés
-            // au-delà de la trame (U8 = 2) sont ajoutés comme dans addGroup :
-            // nouvel id + un slot dans chaque rotation d'ateliers (station
-            // unique, atelier prérempli — `null` tolérée).
+            // Cadrage 07 (Q2) : les groupes de la séance sont EXACTEMENT les
+            // groupes nommés de l'équipe — un pour un (nom + joueurs), plus
+            // de mappage positionnel sur la trame. La trame ne sert que de
+            // réceptacle : chaque rotation d'ateliers finit avec un slot par
+            // groupe ; les slots dont la lettre de groupe existe dans la
+            // trame (A, B…) conservent station et atelier préremplis, les
+            // autres obtiennent une station unique + un atelier prérempli.
             const ex = firstUsableExercise();
-            const groupesFinaux = groupes.map((g, i) => {
-              const ge = groupesEquipe[i];
-              if (!ge) return { ...g, players: 0, joueurs: undefined };
-              const copie = {
-                ...g,
-                name: ge.nom,
-                players: ge.joueurs.length,
-              };
-              copie.joueurs = ge.joueurs.length > 0 ? ge.joueurs : undefined;
-              return copie;
-            });
-            groupesEquipe.forEach((ge, i) => {
-              if (i < groupes.length) return;
+            const groupesFinaux: {
+              id: string;
+              name: string;
+              players: number;
+              joueurs?: string[];
+            }[] = [];
+            for (const ge of groupesEquipe) {
               const gid = nextGroupId(groupesFinaux);
-              groupesFinaux.push({
-                id: gid,
-                name: ge.nom,
-                players: ge.joueurs.length,
-                joueurs: ge.joueurs.length > 0 ? ge.joueurs : undefined,
-              });
-              for (const b of base.blocks ?? []) {
-                if (b.kind !== "WORKSHOPS") continue;
-                for (const r of b.rounds ?? []) {
+              const copie: {
+                id: string;
+                name: string;
+                players: number;
+                joueurs?: string[];
+              } = { id: gid, name: ge.nom, players: ge.joueurs.length };
+              if (ge.joueurs.length > 0) copie.joueurs = ge.joueurs;
+              groupesFinaux.push(copie);
+            }
+            base.groups = groupesFinaux;
+            for (const b of base.blocks ?? []) {
+              if (b.kind !== "WORKSHOPS") continue;
+              for (const r of b.rounds ?? []) {
+                const ids = new Set(groupesFinaux.map((g) => g.id));
+                r.assignments = r.assignments.filter((s) => ids.has(s.group_id));
+                for (const g of groupesFinaux) {
+                  if (r.assignments.some((s) => s.group_id === g.id)) continue;
                   const used = new Set(r.assignments.map((s) => s.station_id));
                   let k = r.assignments.length + 1;
                   let station = `station-${k}`;
@@ -223,14 +225,13 @@ export default function SessionBuilder({
                     station = `station-${k}`;
                   }
                   r.assignments.push({
-                    group_id: gid,
+                    group_id: g.id,
                     station_id: station,
                     variant_id: ex,
                   });
                 }
               }
-            });
-            base.groups = groupesFinaux;
+            }
           } else if (noms.length > 0) {
             const parGroupe = roundRobinJoueurs(noms, groupes.map((g) => g.id));
             base.groups = groupes.map((g) => {
@@ -429,11 +430,13 @@ export default function SessionBuilder({
   // Équipe d'effectif : attachée à la séance comme snapshot (D1) — la séance
   // conserve son instantané ; les éditions ultérieures de l'équipe ne la
   // modifient pas.
-  // Lot L3 (v1.1) : l'attachement COPIE le snapshot de l'équipe dans les
-  // groupes EXISTANTS — le nombre de groupes ne change jamais (chaque
-  // rotation a un slot par groupe). Joueurs nommés → répartition
-  // round-robin, un nom par case ; sinon l'effectif déclaré est réparti
-  // numériquement ; équipe sans effectif → groupes inchangés.
+  // Cadrage 07 (Q2) : l'équipe a des groupes nommés → les groupes de la
+  // séance sont EXACTEMENT ces groupes (1:1, nom + joueurs) ; sinon
+  // repli Lot L3 (v1.1) : le snapshot est réparti dans les groupes
+  // EXISTANTS — nombre de groupes inchangé (chaque rotation a un slot
+  // par groupe) ; joueurs nommés → round-robin, un nom par case ; sinon
+  // l'effectif déclaré réparti numériquement ; équipe sans effectif →
+  // groupes inchangés.
   // Lot P5 (workflows 2026-11-26) : les joueurs nommés alimentent en plus
   // la liste des cases de présence — par défaut tous cochés (aucune
   // absence) ; le mode de répartition reste plat (round-robin), le mode
@@ -442,10 +445,72 @@ export default function SessionBuilder({
     // Les cases suivent l’équipe choisie : liste complète des joueurs
     // nommés (ou null), aucune absence, mode plat.
     const eq = equipes.find((x) => x.id === id);
+    setPresences({});
+    if (id && eq && eq.groupes.length > 0) {
+      // Cadrage 07 (Q2) : les groupes de la séance sont EXACTEMENT les
+      // groupes nommés de l'équipe (1:1, nom + joueurs) — idem
+      // préremplissage. La trame n'est plus mappée : un slot par groupe
+      // dans chaque rotation d'ateliers (station unique, atelier
+      // prérempli pour les nouveaux).
+      const joueursGroupes = eq.groupes.flatMap((ge) => ge.joueurs);
+      setJoueursEquipe(joueursGroupes.length > 0 ? joueursGroupes : null);
+      setGroupesSource(eq.groupes);
+      updatePlan((d) => {
+        const ex = firstUsableExercise();
+        const groupesFinaux: {
+          id: string;
+          name: string;
+          players: number;
+          joueurs?: string[];
+        }[] = [];
+        for (const ge of eq.groupes) {
+          const gid = nextGroupId(groupesFinaux);
+          const copie: {
+            id: string;
+            name: string;
+            players: number;
+            joueurs?: string[];
+          } = { id: gid, name: ge.nom, players: ge.joueurs.length };
+          if (ge.joueurs.length > 0) copie.joueurs = ge.joueurs;
+          groupesFinaux.push(copie);
+        }
+        d.team = {
+          id: eq.id,
+          nom: eq.nom,
+          club: eq.club,
+          categorie: eq.categorie,
+          effectif: eq.effectif,
+        };
+        d.groups = groupesFinaux;
+        for (const b of d.blocks ?? []) {
+          if (b.kind !== "WORKSHOPS") continue;
+          for (const r of b.rounds ?? []) {
+            const ids = new Set(groupesFinaux.map((g) => g.id));
+            r.assignments = r.assignments.filter((s) => ids.has(s.group_id));
+            for (const g of groupesFinaux) {
+              if (r.assignments.some((s) => s.group_id === g.id)) continue;
+              const used = new Set(r.assignments.map((s) => s.station_id));
+              let k = r.assignments.length + 1;
+              let station = `station-${k}`;
+              while (used.has(station)) {
+                k += 1;
+                station = `station-${k}`;
+              }
+              r.assignments.push({
+                group_id: g.id,
+                station_id: station,
+                variant_id: ex,
+              });
+            }
+          }
+        }
+        d.players = (d.groups ?? []).reduce((a, x) => a + x.players, 0);
+      });
+      return;
+    }
     const nomsEquipe = eq ? eq.joueurs ?? [] : [];
     setJoueursEquipe(nomsEquipe.length > 0 ? nomsEquipe : null);
     setGroupesSource(null);
-    setPresences({});
     updatePlan((d) => {
       if (!id) {
         d.team = null;
@@ -926,6 +991,12 @@ export default function SessionBuilder({
           {moi ? (
             <div className="field">
               <span className="field-label">Coachs disponibles</span>
+              {coachRefs.length === 0 && (
+                <p className="club-banner">
+                  Aucun coach enregistré — les coachs se gèrent depuis la page
+                  club : <a href="/club">ouvrir la page club</a>.
+                </p>
+              )}
               {coachRefs.length > 0 && (
                 <div className="coach-list">
                   {coachRefs.map((c) => (
@@ -1039,6 +1110,12 @@ export default function SessionBuilder({
         {moi && (
           <div className="team-block">
             <span className="field-label">Équipe (effectif enregistré)</span>
+            {equipes.length === 0 && (
+              <p className="club-banner">
+                Aucune équipe enregistrée — les équipes se gèrent depuis la
+                page club : <a href="/club">ouvrir la page club</a>.
+              </p>
+            )}
             <div className="team-row">
               <select
                 className="select-input"
