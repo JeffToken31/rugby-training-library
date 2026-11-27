@@ -834,19 +834,6 @@ input {
   flex: 1 1 150px;
 }
 
-/* Nom libre du groupe (lot « peaufinage » 2026-11-25) : champ textuel entre
-   le libellé et l'effectif — même gabarit que `.num-input` (cible ≥ 44px). */
-.group-name-input {
-  margin-top: 6px;
-  width: 100%;
-  min-height: 44px;
-  padding: 0 12px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: var(--bg-subtle);
-  font-size: 16px; /* ≥ 16px : pas de zoom automatique iOS */
-}
-
 .group-cell-row {
   display: flex;
   gap: 6px;
@@ -857,23 +844,6 @@ input {
 .group-cell-row .num-input {
   flex: 1;
   min-width: 0;
-}
-
-.group-delete {
-  flex: none;
-  width: 44px;
-  min-height: 44px;
-  border: 1px solid var(--line);
-  border-radius: var(--radius);
-  background: var(--bg);
-  color: var(--badge-red-t);
-  font-size: 18px;
-  line-height: 1;
-  cursor: pointer;
-}
-
-.groups-add {
-  margin-top: 10px;
 }
 
 /* Joueurs nommés d'un groupe (lot L3, v1.1) : chips réutilisables du
@@ -950,11 +920,6 @@ input {
   font-size: 14px;
 }
 
-.players-textarea {
-  min-height: 96px;
-  resize: vertical;
-}
-
 /* Équipe d'effectif + « coachs disponibles » (tranché 2026-11-22). */
 .select-input {
   width: 100%;
@@ -1001,17 +966,6 @@ input {
 .team-snapshot {
   font-size: 14px;
   color: var(--ink-3);
-}
-
-.team-form {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 4px;
-}
-
-.team-form .field-row {
-  margin-top: 0;
 }
 
 .coach-list {
