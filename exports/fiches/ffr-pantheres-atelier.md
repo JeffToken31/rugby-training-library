@@ -10,7 +10,7 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Maintenir une posture gainée pendant le déplacement.
 
@@ -47,6 +47,8 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Panthères et chenilles. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

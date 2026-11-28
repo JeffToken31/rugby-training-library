@@ -59,6 +59,8 @@ coach : Regard du porteur et profondeur du soutien.; duration_min : 8; easier : 
 
 **Source principale :** [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [2 v 1 Passing Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

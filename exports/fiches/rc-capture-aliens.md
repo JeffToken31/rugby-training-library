@@ -55,6 +55,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [CCRU Game  - Capture the Aliens Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

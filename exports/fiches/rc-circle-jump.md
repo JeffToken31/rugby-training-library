@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — RugbyCoaching.tv ; Video Subtitles — dernière progression. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Cercle de passes avec demi-tours sautés](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -98,10 +98,20 @@
           "origin": "SOURCE",
           "value": "Découvrir l’opposition corporelle et la lutte."
         },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Insister sur : les saisies à la taille, coller la tête, serrer les bras / Les règles (droits et devoirs + action sur le joueur)"
+        },
         "coach_points": {
           "state": "PRESENT",
           "origin": "SOURCE",
           "value": "Le document insiste sur le respect des droits et devoirs du joueur ; déroulement vidéo à examiner."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
         }
       }
     },
@@ -161,10 +171,20 @@
           "origin": "SOURCE",
           "value": "Progresser dans l’équilibre et la posture en opposition."
         },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Insister sur : la posture semi-fléchie / l’équilibre pour ne pas tomber, Résister en améliorant l’ancrage au sol / les règles (droits et devoirs + action sur le joueur)"
+        },
         "coach_points": {
           "state": "PRESENT",
           "origin": "SOURCE",
           "value": "Rechercher une posture semi-fléchie et un ancrage stable."
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
         }
       }
     },

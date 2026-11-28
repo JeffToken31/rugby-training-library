@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [Colour Tag](https://www.youtube.com/watch?v=gGMEmUM-M4w) — La vidéo (Fit Kids Healthy Kids) montre le jeu « Colour Tag » ; l'inversion des rôles (2 chasseurs contre 1) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

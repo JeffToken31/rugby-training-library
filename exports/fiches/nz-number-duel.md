@@ -46,6 +46,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — New Zealand Rugby — Rugby Toolbox ; Number Race 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

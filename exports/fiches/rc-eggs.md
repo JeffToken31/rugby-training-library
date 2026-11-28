@@ -57,6 +57,8 @@ coach : Lever la tête et poser sans jeter.; duration_min : 6; easier : Réserve
 
 **Référence complémentaire :** [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description / Change It. Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe.
 
+**Vidéo de l’exercice (origine source) :** [Egg in the nest game Rugby](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

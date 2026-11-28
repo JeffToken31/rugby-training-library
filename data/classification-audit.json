@@ -1536,6 +1536,141 @@
       "discriminant": "Ici : se ranger devant l’éducateur ; là-bas : trottiner dans la direction montrée ; où : trottiner sur place.",
       "source_id": "warm-sportnz-kiwidex",
       "locator": "Page imprimée 54 ; page PDF 24"
+    },
+    {
+      "variant_id": "bib-plaquage-tenue",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Prise en tenaille sur le maillot et serrage sans contact violent, en binôme statique.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°1"
+    },
+    {
+      "variant_id": "bib-plaquage-a-genoux",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Ligne de plaquage de tête à pied en position à genoux, sans contact violent, en zigzag de plots.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°2"
+    },
+    {
+      "variant_id": "bib-plaquage-balise",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Plaquage suivi de libération du ballon dans une zone balisée en 2 secondes, puis retour en position de jeu.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°3"
+    },
+    {
+      "variant_id": "bib-plaquage-soutien",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Plaquage à deux : l'ombre plaque le premier contact, le soutien arrive derrière pour ramasser le ballon.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Plaquage n°4"
+    },
+    {
+      "variant_id": "bib-lutte-arc",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Poussée en forme d'arc dans un cercle de plots, jambes fléchies, buste bas, sans tomber.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°1"
+    },
+    {
+      "variant_id": "bib-soule-ramasser",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Prise de la soule à deux mains, de face, genoux fléchis, ballon contre le buste, sans contact.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°3"
+    },
+    {
+      "variant_id": "bib-ruck-relai",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Cycle complet au sol : plaquage sur plot, ramassage du ballon posé à côté, remise en jeu par passe.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°4"
+    },
+    {
+      "variant_id": "bib-lutte-jumelle",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "AI_INFERRED",
+      "discriminant": "Premier contact sur le ballon au sol, disputé entre deux enfants, mise du ballon dans sa zone.",
+      "source_id": "biblio-creation-202611",
+      "locator": "Création locale 2026-11 — Lutte n°5"
+    },
+    {
+      "variant_id": "ffr-guide-m8-1c1",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "1 contre 1 : quatre plaquages en sécurité en alternance droite et gauche sur rectangle de 9 m x 8 m, épaule à la taille et tête du bon côté.",
+      "source_id": "ffr-guide-m8-2023",
+      "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout"
+    },
+    {
+      "variant_id": "ffr-m8-lecture-jeu-11c1",
+      "family_id": "F16",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "1 + 1 contre 1 + 1 : le second opposant n’intervient qu’en cas de franchissement ; le soutien offensif intervient si le porteur est bloqué ; pratique en toucher à deux mains (T+2) ou en jeu au contact limité (JCO).",
+      "source_id": "ffr-m8-lecture-jeu-2022-23",
+      "locator": "Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1"
+    },
+    {
+      "variant_id": "ffr-plan2023-oeufs",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "Course et lutte dans la basse-cour : les poules ramassent les œufs et les déposent au poulailler de la bonne couleur pendant que les renards rampent pour les attraper.",
+      "source_id": "ffr-plan2023",
+      "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules"
+    },
+    {
+      "variant_id": "jskids-l08-sumo",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et repousser l’adversaire chez lui, sans utiliser les jambes.",
+      "source_id": "jskids-l08",
+      "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1"
+    },
+    {
+      "variant_id": "jskids-l08-culotte",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "Face à face, épaules en contact, mains sur les hanches : se renverser mutuellement en appuyant les épaules adverses au sol, sans utiliser les jambes.",
+      "source_id": "jskids-l08",
+      "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte"
+    },
+    {
+      "variant_id": "wr-gir-bulldog",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "3 couloirs de 30 m × 20 m : les attaquants traversent la ligne des défenseurs qui plaquent sans mettre au sol (touché des deux mains) ; les plaqués rejoignent les défenseurs.",
+      "source_id": "wr-gir",
+      "locator": "World Rugby GIR — Bulldog, carte 30/30"
+    },
+    {
+      "variant_id": "wr-gir-rucktouch",
+      "family_id": "F18",
+      "status": "REVIEWED_CANDIDATE",
+      "origin": "SOURCE",
+      "discriminant": "6 attaquants contre 4 défenseurs en 3 couloirs : après le plaquage, le porteur glisse au sol et un coéquipier se dresse au-dessus de lui pour protéger le ballon (introduction au ruck).",
+      "source_id": "wr-gir",
+      "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30"
     }
   ],
   "pair_reviews": [

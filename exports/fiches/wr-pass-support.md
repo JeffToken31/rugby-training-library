@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Soutien · Manipulation du ballon · Relais · Circulation et transmission
+**Catégories proposées :** Passe · Soutien · Manipulation du ballon · Relais · Circulation et transmission
 
 **Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
@@ -41,6 +41,8 @@ Cinq joueurs partent en file.
 **Variantes conservées séparément :** [Passes en escalier par cinq](wr-formation.md). Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

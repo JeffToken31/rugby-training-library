@@ -56,6 +56,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION. Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 
+**Vidéo de l’exercice (origine source) :** [Dix passes - variante communautaire documentee](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -10,7 +10,7 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Apprendre le plaquage puis la libération du ballon.
 
@@ -47,6 +47,8 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Plaquage et libération. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Plaquage et libération (M15F)](https://www.youtube.com/watch?v=4-PxxjsOFsc) — La vidéo (Ligue Régionale Grand Est) montre plaquage et libération en niveau M15F ; le jeu U8 (plaquage et libération) n'est pas confirmé.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

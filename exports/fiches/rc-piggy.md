@@ -57,6 +57,8 @@ coach : Offrir une ligne de passe et appeler.; duration_min : 6; easier : Interc
 
 **Source principale :** [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Tag Game - Piggy in the Middle Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

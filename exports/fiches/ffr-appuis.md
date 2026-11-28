@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8, atelier 3. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [duel de face orientation des appuis](https://www.youtube.com/watch?v=d-EY1ktzpbA) — La vidéo (Up Rugby Lab) montre un duel de face travaillant l'orientation des appuis ; l'installation spécifique de l'exercice U8 « appuis » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

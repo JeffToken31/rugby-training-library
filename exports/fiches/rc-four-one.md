@@ -57,6 +57,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Piggy in the Middle - 4v1 Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

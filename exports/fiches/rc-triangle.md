@@ -55,6 +55,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Passes en triangle et changement de posture](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

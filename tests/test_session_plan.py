@@ -63,6 +63,15 @@ class Trame7090Tests(unittest.TestCase):
     def test_trame_referentielle_70_sur_90_est_valide(self):
         self.assertEqual(session_plan.validate(plan(), CATALOGUE), [])
 
+    def test_fiche_incomplete_utilisable_en_seance(self):
+        # Tranché 2026-11-22 : une fiche INCOMPLETE est utilisable en séance —
+        # la validation passe ; l'incomplétude est déclarée (libellés fiches),
+        # elle ne bloque plus. Le seul refus de référence reste l'exercice
+        # inconnu du catalogue.
+        p = plan()
+        p["blocks"][1]["rounds"][0]["assignments"][0]["variant_id"] = "ffr-plaquage-atelier"
+        self.assertEqual(session_plan.validate(p, CATALOGUE), [])
+
     def test_marge_derivee_jamais_stockee(self):
         p = plan()
         self.assertNotIn("marge_min", p)
@@ -134,6 +143,66 @@ class Trame7090Tests(unittest.TestCase):
         p = plan()
         p["blocks"][1]["duration_min"] = 25
         self.assertIn("Durée totale différente de la somme des blocs", session_plan.validate(p, CATALOGUE))
+
+
+class FlottantsEtMalformeTests(unittest.TestCase):
+    """m1/M1 — flottants entiers normalisés (miroir front Number.isInteger) ;
+    champs manquants côté plan → PlanMalforme lisible (à transformer en 400)."""
+
+    def test_entier_normalise_flottant_entier(self):
+        self.assertEqual(session_plan.entier(7), 7)
+        self.assertEqual(session_plan.entier(7.0), 7)
+        self.assertIsNone(session_plan.entier(7.5))
+        self.assertIsNone(session_plan.entier(True))
+        self.assertIsNone(session_plan.entier(None))
+
+    def test_positive_accepte_flottant_entier_refuse_bool(self):
+        self.assertTrue(session_plan.positive(7.0))
+        self.assertFalse(session_plan.positive(7.5))
+        self.assertFalse(session_plan.positive(True))
+        self.assertFalse(session_plan.positive(0))
+
+    def test_flottant_entier_valide_70_sur_90(self):
+        p = plan()
+        p["blocks"][0]["duration_min"] = 20.0
+        p["duration_min"] = 70.0
+        self.assertEqual(session_plan.validate(p, CATALOGUE), [])
+
+    def test_groupe_sans_id_lance_plan_malforme(self):
+        p = plan()
+        del p["groups"][0]["id"]
+        with self.assertRaises(session_plan.PlanMalforme):
+            session_plan.validate(p, CATALOGUE)
+
+    def test_affectation_sans_station_id_lance_plan_malforme(self):
+        p = plan()
+        slot = p["blocks"][1]["rounds"][0]["assignments"][0]
+        del slot["station_id"]
+        with self.assertRaises(session_plan.PlanMalforme):
+            session_plan.validate(p, CATALOGUE)
+
+
+class JoueursDansLesGroupesTests(unittest.TestCase):
+    """Lot L3 (v1.1, 2026-11-24) : les groupes portent le snapshot des
+    joueurs nommés (`joueurs`, copies de l'équipe attachée) ; les validateurs
+    ignorent ce champ — seuls `id` et `players` comptent. Preuve : un plan
+    dont les groupes ont des noms valide identiquement au même plan sans."""
+
+    def test_snapshot_de_joueurs_ignoré_par_la_validation(self):
+        p0 = plan()
+        p1 = plan()
+        p1["groups"][0]["joueurs"] = ["Léa Martin", "Noah Dupont", "Iris Petit",
+                                       "Sam Laurent", "Maya Roy", "Zoé Blanc", "Tom Noël"]
+        p1["groups"][1]["joueurs"] = []
+        self.assertEqual(session_plan.validate(p1, CATALOGUE), session_plan.validate(p0, CATALOGUE))
+        self.assertEqual(session_plan.validate(p1, CATALOGUE), [])
+
+    def test_noms_nul_ou_absents_meme_chose(self):
+        p0 = plan()
+        p1 = plan()
+        for g in p1["groups"]:
+            g["joueurs"] = None
+        self.assertEqual(session_plan.validate(p1, CATALOGUE), session_plan.validate(p0, CATALOGUE))
 
 
 if __name__ == "__main__":

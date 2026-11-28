@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — New Zealand Rugby — Rugby Toolbox ; Octopus — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

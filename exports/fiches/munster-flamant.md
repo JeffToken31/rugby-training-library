@@ -52,6 +52,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Family Fitness Fun for Homeschool - Flamingo Stance](https://www.youtube.com/watch?v=gRqnNQ2dlQc) — La vidéo (Fitivities) montre la posture du flamant en fitness familial ; la version Munster (jeu avec ballon) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

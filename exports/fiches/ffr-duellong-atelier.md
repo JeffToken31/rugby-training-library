@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Course · Duel
+**Catégories proposées :** Course · Poursuite et délivrance · Duel
 
 **Famille :** Réaction et course en duel · **Âge source :** M8
 
@@ -10,7 +10,7 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Sprinter, s’orienter, marquer et poursuivre pour toucher.
 
@@ -47,6 +47,8 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duel long. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [DEFI, DUEL, 1 Contre 1 - CENTRE DE FORMATION - PROVENCE RUGBY - SKILLS RUGBY](https://www.youtube.com/watch?v=OrR6LUN311Q) — La vidéo (centre de formation) montre un défi / duel 1 contre 1 pour joueurs plus âgés ; le duel long U8 n'est pas confirmé.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

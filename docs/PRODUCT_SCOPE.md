@@ -20,12 +20,20 @@ Pour un créneau de 90 minutes, la trame vise **environ 50 minutes d’oppositio
 
 La marge absorbe les retards, l’installation, les consignes, les démonstrations, les transitions, les regroupements, l’hydratation et les imprévus. La trame est indicative et modifiable. Échauffement, jeu, pause ou transition peuvent faire partie de la séance selon les besoins. Voir le [parcours et le calcul du temps](INTERFACE_SEANCES.md).
 
+Une équipe enregistrée peut lister ses joueurs (prénom + nom, un par ligne ; les doublons insensibles à la casse sont retirés, la première occurrence gagne). Attacher l’équipe à une séance **copie** ses joueurs dans les groupes déjà présents dans le plan : le nombre de groupes ne change jamais, les joueurs nommés sont répartis tour par tour (joueur i → groupe i mod k) et chaque nom affiché dans un groupe peut être retiré. Si l’équipe ne donne qu’un effectif, celui-ci est réparti sur les groupes (base + reste aux groupes en premier, 13 sur 2 donne 7 + 6). La séance garde sa copie : retirer un joueur d’un groupe ne modifie pas l’équipe, qui reste la source enregistrée. Quand les joueurs nommés et l’effectif déclaré divergent, le constructeur le signale et propose de repartir sur l’effectif déclaré.
+
+## Page « club » et préremplissage
+
+La page « club » (réservée aux comptes connectés) présente, pour le club du compte : les coachs du club — comptes (nom = login, non supprimables par cette page) et coachs ajoutés sans compte (nom seul, ajoutables et retirables) — et les équipes groupées par catégorie, chaque équipe affichant ses joueurs (prénom + nom, ajoutables et retirables) ou son effectif déclaré. Le bouton « Préparer une séance » sur une équipe ouvre directement le constructeur, déjà prérempli sur une copie de la trame U8 : l’équipe est attachée, les joueurs nommés (ou l’effectif déclaré) sont répartis sur les groupes existants, et le coach par défaut est le premier coach rattaché à l’équipe, sinon le compte. Le préremplissage est une copie : la trame vierge reste le point de retour par « Réinitialiser ».
+
 ## Sauvegarder, réutiliser et partager
 
 - Une authentification simple des éducateurs fait partie de la V1 : elle permet d’identifier l’auteur, de conserver ses brouillons et de rattacher ses propositions à son compte.
+- Un coach peut être ajouté au club **sans compte** (nom seul, club facultatif) ; l’attribution « quel coach gère quoi » se fait par séance (coach principal) et par atelier (coach en charge du bloc). Les noms de coachs figurent dans la fiche PDF de la séance ; seuls les noms de joueurs en sont exclus.
 - Une séance incomplète peut être sauvegardée en brouillon.
 - Reprendre une proposition partagée crée une nouvelle séance qui conserve un lien vers l’original. Une adaptation de durée, d’effectif ou d’organisation appartient à la séance et laisse la fiche source intacte.
-- La consultation mobile est prioritaire. Les modes de partage envisagés sont le lien, le partage natif du téléphone et une fiche PDF synthétique pour le terrain. L’ordre de livraison et les accès restent à décider.
+- La consultation mobile est prioritaire. Les modes de partage envisagés sont le lien, le partage natif du téléphone et une fiche PDF synthétique pour le terrain. L’ordre de livraison et les accès restent à décision.
+- La fiche PDF de terrain et le récapitulatif partagé ne mentionnent **pas les noms de joueurs** (minimisation : la pièce partagée porte les exercices, les durées et l’effectif, pas les personnes) ; la prévisualisation du PDF avant partage est une vue du même contenu, sans donnée supplémentaire.
 
 ## Assistance IA à terme
 
@@ -33,6 +41,8 @@ L’éducateur pourrait demander un brouillon à partir d’un objectif, d’un 
 
 ## Hors périmètre du MVP
 
-Gestion des enfants ou des coordonnées des parents, présences, convocations, calendrier de saison, équipes de plateau, statistiques individuelles, messagerie, notifications avancées, gestion des clubs, rôles avancés, invitations et collaboration temps réel. Les intégrations SportEasy et WhatsApp Business sont également hors périmètre.
+La gestion des joueurs en v1.1 (décision 2026-11-24, re-tranche de la ligne rouge 5 du charter V1) est limitée aux **prénom + nom**, dans le dashboard par club et par catégorie, sans aucun autre champ : minimisation par non-collecte. Le RGPD formel (consentement du représentant légal, conservation, suppression à la sortie, DPA, incident 72 h) est reporté à la V2 (voir `v2-cadrage.md`).
+
+Rester hors périmètre : date de naissance, données de santé, NIR, photos, coordonnées des parents, comptes joueurs, messagerie parents, présences, convocations, calendrier de saison, équipes de plateau, statistiques individuelles, notifications avancées, rôles avancés, invitations et collaboration temps réel. Les intégrations SportEasy et WhatsApp Business sont également hors périmètre.
 
 Voir les [décisions et questions ouvertes](DECISIONS.md).

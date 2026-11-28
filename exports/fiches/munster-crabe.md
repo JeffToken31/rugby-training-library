@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Crab Walk](https://www.youtube.com/watch?v=rnAYZdaicAs).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

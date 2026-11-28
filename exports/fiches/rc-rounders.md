@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — RugbyCoaching.tv ; Video Subtitles : consignes du parcours et des trois passes. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [STG - Rugby Rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

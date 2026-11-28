@@ -55,6 +55,8 @@ coach : Regarder devant soi ; saisir seulement le ruban.; duration_min : 6; easi
 
 **Source principale :** [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [La chasse aux rubans](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

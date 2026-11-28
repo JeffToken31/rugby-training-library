@@ -62,6 +62,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tna). Association issue des annotations, visionnage non validé par l’assistant.
 
+**Vidéo de l’exercice (origine source) :** [Carré n°2 M8  (rapporter les ballons dans son grenier)](https://www.dailymotion.com/video/x842tna).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

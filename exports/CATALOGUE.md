@@ -2,7 +2,7 @@
 
 Point d’entrée unique : catégories, durées, installation, consignes, adaptations, sources, manques et rapprochements sont réunis ici.
 
-**158 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
+**173 fiches** ; une fiche peut appartenir à plusieurs catégories sans être dupliquée. Ce total n’est pas un nombre certifié de jeux uniques. Les propositions restent distinctes des informations documentaires.
 
 [Échauffements](#echauffements) · [Par catégories](#categories) · [Toutes les fiches](#fiches) · [Doublons et manques](#controle)
 
@@ -11,13 +11,13 @@ Point d’entrée unique : catégories, durées, installation, consignes, adapta
 
 ### Compétences
 
-**Passe (60) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Circuit de passes mémorisé](#nz-memory) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Coordonner deux ballons](#rc-two-balls) · [Course autour des bases contre trois passes](#rc-rounders) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le ballon répond au signal](#au-familiarisation) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Ramasser puis transmettre](#ffr-ramasser) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Transmettre en trottinant](#ffr-transmettre) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+**Passe (69) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Circuit de passes mémorisé](#nz-memory) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Coordonner deux ballons](#rc-two-balls) · [Course autour des bases contre trois passes](#rc-rounders) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Dix passes - variante communautaire documentee](#rc-ten) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le ballon répond au signal](#au-familiarisation) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’auto-stoppeur](#ffr-auto) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Ramasser puis transmettre](#ffr-ramasser) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais avec essai](#scot-relais) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Transmettre en trottinant](#ffr-transmettre) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Un plus un contre un, avec un opposant en réserve](#ffr-m8-lecture-jeu-11c1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
-**Réception (13) :** [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes froides puis chaudes](#imagine-cold-hot) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Ramasser puis transmettre](#ffr-ramasser) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Rugby à quatre cibles](#rc-netball) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis à la main](#scot-tennis) · [Éviter les plots et recevoir le ballon](#au-ufos)
+**Réception (21) :** [Chasseurs passeurs par trois](#scot-corner) · [Les portes à franchir](#munster-gates) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Ramasser puis transmettre](#ffr-ramasser) · [Rebondir et échanger en binôme](#rc-bounce) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Rugby à quatre cibles](#rc-netball) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Tennis à la main](#scot-tennis) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
-**Soutien (16) :** [Avancer et passer avant le tag](#rc-tagmatch) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Duels et soutien](#ffr-duels-atelier) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en escalier par cinq](#wr-formation) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+**Soutien (18) :** [Avancer et passer avant le tag](#rc-tagmatch) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Duels et soutien](#ffr-duels-atelier) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [L'ombre et le soutien : plaquer à deux](#bib-plaquage-soutien) · [Passe arrière avec jokers](#scot-passback) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer puis devenir défenseur](#wr-pass-defend) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en escalier par cinq](#wr-formation) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Un plus un contre un, avec un opposant en réserve](#ffr-m8-lecture-jeu-11c1) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Évitement (40) :** [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Duel d’évitement en couloir](#nz-evading-player) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les portes à franchir](#munster-gates) · [Les statues](#rc-statues) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Suivre l’ombre du porteur](#nz-shadow) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Traverser face aux chasseurs](#rc-bulldog) · [Traverser les zones gardées](#scot-zones) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Éviter les plots et recevoir le ballon](#au-ufos)
+**Évitement (42) :** [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Duel d’évitement en couloir](#nz-evading-player) · [Duels et soutien](#ffr-duels-atelier) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les portes à franchir](#munster-gates) · [Les statues](#rc-statues) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Suivre l’ombre du porteur](#nz-shadow) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Traverser face aux chasseurs](#rc-bulldog) · [Traverser les zones gardées](#scot-zones) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
 **Réaction au signal (25) :** [Alterner marche et petit trot au signal](#warm-slow-go) · [Binômes guidés par le signal du coach](#nz-follow) · [Carré 2](#ffr-carre2-atelier) · [Changer de ligne d’essai](#rc-multidirection) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Chercher les espaces libres](#ffr-espaces2023) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Ici, là-bas, sur place](#warm-here-there) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Marcher puis se figer au signal](#warm-whistle-stop) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Vider le terrain au tag contre la montre](#sg-team-tag)
 
@@ -25,43 +25,43 @@ Point d’entrée unique : catégories, durées, installation, consignes, adapta
 
 **Jeu au pied (9) :** [Botter, récupérer et marquer](#au-kick-chase) · [Conduire le ballon au pied](#ffr-pied) · [Coup franc pour soi](#ffr-cpf) · [Golf au pied](#au-kick-golf) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis)
 
-**Motricité (21) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Cercles de bras progressifs](#warm-arm-circles) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chat et déplacements animaux](#scot-animal) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Fentes dans trois directions](#warm-lunge-clock) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Ramper comme un crocodile](#scot-crocodile) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
+**Motricité (22) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Carré](#ffr-carre-atelier) · [Cercles de bras progressifs](#warm-arm-circles) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chat et déplacements animaux](#scot-animal) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Fentes dans trois directions](#warm-lunge-clock) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Ramper comme un crocodile](#scot-crocodile) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
 
 **Coopération (37) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chaque passe change le défenseur](#wr-changing-defender) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Course autour des bases contre trois passes](#rc-rounders) · [Dix passes - variante communautaire documentee](#rc-ten) · [Duels et soutien](#ffr-duels-atelier) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [La boue et la délivrance](#munster-mud) · [La chaîne](#scot-chaine) · [Le joueur au milieu](#rc-piggy) · [L’auto-stoppeur](#ffr-auto) · [Passer dans la zone d’arrivée](#munster-end) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Rapporter les trésors par une passe](#au-nest-pass) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Rubans avec restitution avant reprise](#nz-rip) · [Rugby à quatre cibles](#rc-netball) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
-**Prise d’information (23) :** [Binômes guidés par le signal du coach](#nz-follow) · [Changer de ligne d’essai](#rc-multidirection) · [Chercher les espaces libres](#ffr-espaces2023) · [Circuit de passes mémorisé](#nz-memory) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Ici, là-bas, sur place](#warm-here-there) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Réagir au mot plot](#au-cone-game) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Trois joueurs alignés](#scot-alignement) · [Éviter les plots et recevoir le ballon](#au-ufos)
+**Prise d’information (24) :** [Binômes guidés par le signal du coach](#nz-follow) · [Changer de ligne d’essai](#rc-multidirection) · [Chercher les espaces libres](#ffr-espaces2023) · [Circuit de passes mémorisé](#nz-memory) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Ici, là-bas, sur place](#warm-here-there) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Réagir au mot plot](#au-cone-game) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Trois joueurs alignés](#scot-alignement) · [Un plus un contre un, avec un opposant en réserve](#ffr-m8-lecture-jeu-11c1) · [Éviter les plots et recevoir le ballon](#au-ufos)
 
-**Lutte (3) :** [Duel debout pour avancer](#ffr-lutte-avancer) · [Les gazelles](#ffr-gazelles-atelier) · [Protège-ballon](#ffr-protege-atelier)
+**Lutte (8) :** [Duel debout pour avancer](#ffr-lutte-avancer) · [L'arc : pousser sans tomber](#bib-lutte-arc) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [Les gazelles](#ffr-gazelles-atelier) · [Les œufs des poules](#ffr-plan2023-oeufs) · [Lutte à la culotte](#jskids-l08-culotte) · [Protège-ballon](#ffr-protege-atelier) · [Sumo 1x1](#jskids-l08-sumo)
 
-**Plaquage (1) :** [Plaquage et libération](#ffr-plaquage-atelier)
+**Plaquage (7) :** [1 contre 1 : plaquage en sécurité (plaqueur debout)](#ffr-guide-m8-1c1) · [Bulldog](#wr-gir-bulldog) · [L'ombre et le soutien : plaquer à deux](#bib-plaquage-soutien) · [La tenue : serrer sans contact](#bib-plaquage-tenue) · [Plaquage et libération](#ffr-plaquage-atelier) · [Plaquage et libération autour de la balise](#bib-plaquage-balise) · [Plaquage à genoux en ligne](#bib-plaquage-a-genoux)
 
-**Équilibre et postures (7) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Fentes dans trois directions](#warm-lunge-clock) · [Marcher puis se figer au signal](#warm-whistle-stop) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Équilibre du flamant](#munster-flamant)
+**Équilibre et postures (8) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Carré](#ffr-carre-atelier) · [Fentes dans trois directions](#warm-lunge-clock) · [Marcher puis se figer au signal](#warm-whistle-stop) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Équilibre du flamant](#munster-flamant)
 
-**Ramassage du ballon (19) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chercher les espaces libres](#ffr-espaces2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Le ballon répond au signal](#au-familiarisation) · [Les œufs dans les nids](#rc-eggs) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Ramasser puis transmettre](#ffr-ramasser) · [Ramasser, porter et reposer](#nz-pick-place) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
+**Ramassage du ballon (23) :** [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chercher les espaces libres](#ffr-espaces2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course numérotée avec deux ballons](#nz-numbers-race) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Le ballon répond au signal](#au-familiarisation) · [Les œufs dans les nids](#rc-eggs) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Ramasser puis transmettre](#ffr-ramasser) · [Ramasser, porter et reposer](#nz-pick-place) · [Rapporter les trésors par une passe](#au-nest-pass) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Ruck Touch Rugby 6v4](#wr-gir-rucktouch) · [Speedy — un ballon chacun](#ffr-speedy-individuel) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
 
 **Coordination (9) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Cercles de bras progressifs](#warm-arm-circles) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Manipulations autour du corps](#nz-awareness) · [Marche du singe à trois appuis](#scot-monkey) · [Ramper comme un crocodile](#scot-crocodile) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Tennis à la main](#scot-tennis)
 
-**Course (21) :** [Alterner marche et petit trot au signal](#warm-slow-go) · [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course autour des bases contre trois passes](#rc-rounders) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Duel long](#ffr-duellong-atelier) · [La chasse aux rubans](#rc-taggrab) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs dans les nids](#rc-eggs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Tag mania et délivrance](#rc-tagmania) · [Traverser face aux chasseurs](#rc-bulldog)
+**Course (24) :** [Alterner marche et petit trot au signal](#warm-slow-go) · [Botter, récupérer et marquer](#au-kick-chase) · [Carré 2](#ffr-carre2-atelier) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Course autour des bases contre trois passes](#rc-rounders) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Course numérotée avec deux ballons](#nz-numbers-race) · [Duel long](#ffr-duellong-atelier) · [La chasse aux rubans](#rc-taggrab) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs dans les nids](#rc-eggs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Tag mania et délivrance](#rc-tagmania) · [Traverser face aux chasseurs](#rc-bulldog)
 
 **Conservation du ballon (5) :** [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Dix passes - variante communautaire documentee](#rc-ten) · [Le joueur au milieu](#rc-piggy) · [Quatre passeurs contre un intercepteur](#rc-four-one)
 
 ### Formes de jeu
 
-**Relais (11) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
+**Relais (12) :** [Aller au sol puis transmettre au soutien](#au-pop-race) · [Chasse aux trésors — parcours](#ffr-tresors2023) · [Passes alternées dessus-dessous](#au-over-under) · [Ramasser et repasser : le cycle au sol](#bib-ruck-relai) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Relais avec essai](#scot-relais) · [Relais avec partenaires accrochés](#warm-hook-relay) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Relais — courir, rouler, passer](#ffr-relais-atelier) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Poursuite et délivrance (35) :** [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
+**Poursuite et délivrance (37) :** [Capturer les extraterrestres par la passe](#rc-capture-aliens) · [Cercle solidaire contre un poursuivant](#rc-protect-circle) · [Chasse collective avec retour après ballon tombé](#nz-corner) · [Chasse et arrêt dans un espace libre](#wr-find-space) · [Chasse par binômes avec changement de rôle](#wr-pairs-tag) · [Chasse à la frite avec délivrance par la main](#nz-noodle-highfive) · [Chasse à la frite avec délivrance par passe](#nz-noodle-pass) · [Chasseurs passeurs par trois](#scot-corner) · [Chasseurs qui se passent le ballon](#munster-hunters) · [Chat : libérer en roulant le ballon](#scot-roll-tig) · [Chat chaos : délivré quand son chasseur est pris](#scot-chaos-tig) · [Chat et déplacements animaux](#scot-animal) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Couleur appelée : deux chasseurs contre un](#au-colour-two) · [Couleur appelée : un chasseur contre deux](#au-colour-tag) · [Duel long](#ffr-duellong-atelier) · [La boue et la délivrance](#munster-mud) · [La chasse aux rubans](#rc-taggrab) · [La chaîne](#scot-chaine) · [La pieuvre et les algues](#au-octopus) · [Les extraterrestres](#rc-aliens) · [Les statues](#rc-statues) · [Les œufs des poules](#ffr-plan2023-oeufs) · [Passer puis échapper au poursuivant](#nz-touchdown) · [Pieuvre à deux traversées perpendiculaires](#nz-octopus-cross) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Quelle heure est-il, monsieur le loup ?](#au-wolf) · [Rats et lapins](#munster-rats) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Rubans avec restitution avant reprise](#nz-rip) · [Tag mania et délivrance](#rc-tagmania) · [Toucher, libérer au sol et changer de rôle](#au-partner-release) · [Traverser face aux chasseurs](#rc-bulldog) · [Vider le terrain au tag contre la montre](#sg-team-tag) · [Épouvantails avec délivrance](#wr-scarecrow) · [Épouvantails — chasseurs passeurs](#rc-team-scarecrow)
 
-**Duel (13) :** [Chat et souris autour d’une forme](#au-cat-mouse) · [Duel debout pour avancer](#ffr-lutte-avancer) · [Duel d’évitement en couloir](#nz-evading-player) · [Duel long](#ffr-duellong-atelier) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre l’ombre du porteur](#nz-shadow) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
+**Duel (22) :** [1 contre 1 : plaquage en sécurité (plaqueur debout)](#ffr-guide-m8-1c1) · [Chat et souris autour d’une forme](#au-cat-mouse) · [Duel debout pour avancer](#ffr-lutte-avancer) · [Duel d’évitement en couloir](#nz-evading-player) · [Duel long](#ffr-duellong-atelier) · [Duels et soutien](#ffr-duels-atelier) · [L'arc : pousser sans tomber](#bib-lutte-arc) · [La jumelle : se disputer le ballon](#bib-lutte-jumelle) · [La tenue : serrer sans contact](#bib-plaquage-tenue) · [Lutte à la culotte](#jskids-l08-culotte) · [Miroir : rester face au porteur](#nz-shadow-mirror) · [Numéro appelé : ramasser puis affronter](#nz-number-duel) · [Plaquage et libération autour de la balise](#bib-plaquage-balise) · [Plaquage à genoux en ligne](#bib-plaquage-a-genoux) · [Poursuite avec ballon et permutation](#au-partner-tag) · [Rats et lapins : duel avec ballon en ligne droite](#nz-rats-straight) · [Rats et lapins : trajectoires libres](#nz-rats-free) · [Réagir au mot plot](#au-cone-game) · [Speedy — un ballon pour deux](#ffr-speedy-partage) · [Suivre l’ombre du porteur](#nz-shadow) · [Sumo 1x1](#jskids-l08-sumo) · [Toucher, libérer au sol et changer de rôle](#au-partner-release)
 
 **Circulation et transmission (28) :** [Cercle de passes avec demi-tours sautés](#rc-circle-jump) · [Circuit de passes mémorisé](#nz-memory) · [Coordonner deux ballons](#rc-two-balls) · [Créer la profondeur par des départs en postures décalées](#imagine-depth-running) · [File avec transmission au nouveau meneur](#wr-follow-leader) · [Passer avec un soutien en retrait](#rc-pairs) · [Passer sur appel dans un espace partagé](#rc-calling-pairs) · [Passer, rendre et s’accroupir](#au-pass-duck) · [Passes alternées dessus-dessous](#au-over-under) · [Passes après départs dans cinq postures](#wr-chain-reaction) · [Passes en cercle tourné vers l’extérieur](#nz-circle) · [Passes en escalier par cinq](#wr-formation) · [Passes en triangle et changement de posture](#rc-triangle) · [Passes en zigzag et replacement en bout de ligne](#nz-zigzag) · [Passes froides puis chaudes](#imagine-cold-hot) · [Passes latérales en vagues de trois](#rc-lateral-three) · [Premières passes en ligne](#rc-pass-start) · [Ramasser puis transmettre](#ffr-ramasser) · [Rebondir et échanger en binôme](#rc-bounce) · [Recevoir en trottinant](#ffr-reception) · [Recevoir à différentes hauteurs et passer](#ffr-guide-recevoir-passer) · [Relais de soutien tous les cinq mètres](#wr-pass-support) · [Suivre et réagir au choix de transmission](#wr-follow-choice) · [Taper au pied puis passer en ligne](#nz-tap-pass) · [Tennis à la main](#scot-tennis) · [Transmettre en trottinant](#ffr-transmettre) · [Traverser et donner à un partenaire extérieur](#scot-pass-pal) · [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays)
 
-**Opposition collective (31) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
+**Opposition collective (34) :** [Atteindre la zone opposée](#scot-endzone) · [Avancer et passer avant le tag](#rc-tagmatch) · [Bulldog](#wr-gir-bulldog) · [Changer de ligne d’essai](#rc-multidirection) · [Chaque passe change le défenseur](#wr-changing-defender) · [Cinq attaquants face à cinq rideaux successifs](#wr-five-walls) · [Conserver après avoir touché le sol](#nz-ground-pass) · [Conserver par dix passes sans interception](#wr-keep-ball) · [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Dix passes - variante communautaire documentee](#rc-ten) · [Franchir trois rideaux disposés en 2–1–2](#wr-walls-212) · [Gagne-terrain](#ffr-gagne) · [Jeu de zone avec regroupements au signal](#rc-endball-groups) · [Jouer les intervalles](#ffr-interval) · [Le joueur au milieu](#rc-piggy) · [Les portes à franchir](#munster-gates) · [L’initiative](#ffr-initiative) · [Marquer sur chaque bord coloré](#scot-break-walls) · [Opposition sans ballon, attaquant désigné](#nz-no-ball) · [Passe arrière avec jokers](#scot-passback) · [Passer dans la zone d’arrivée](#munster-end) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre cibles, porteur immobile](#rc-chaos-touch) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Recevoir derrière la ligne — possession changée au toucher](#warm-any-direction-tag) · [Ruck Touch Rugby 6v4](#wr-gir-rucktouch) · [Rugby à quatre cibles](#rc-netball) · [Tag : défenseurs numérotés](#rc-numbers-tag) · [Tennis au pied : élimination et retour](#au-tennis-return) · [Tennis au pied avec score](#au-kick-tennis) · [Toucher avec rappel des défenseurs par couleur](#rc-colour-touch) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Un plus un contre un, avec un opposant en réserve](#ffr-m8-lecture-jeu-11c1)
 
 **Parcours (8) :** [Chasse aux trésors — parcours](#ffr-tresors2023) · [Course dans le tunnel des fruits](#au-fruit-salad) · [Ramasser, porter et reposer](#nz-pick-place) · [Relais avec changements de portage](#nz-handling-relay) · [Relais avec cinq manipulations successives](#nz-multi-relay) · [Slalom au pied puis essai](#ffr-guide-dribble) · [Slalomer dans la chaîne de partenaires](#au-chain-relay) · [Traverser entre des joueurs en déplacement latéral](#warm-evasion-gauntlet)
 
-**Collecte de ballons (3) :** [Carré 2](#ffr-carre2-atelier) · [Les œufs dans les nids](#rc-eggs) · [Rapporter les trésors par une passe](#au-nest-pass)
+**Collecte de ballons (4) :** [Carré 2](#ffr-carre2-atelier) · [La soule : ramassage à deux mains](#bib-soule-ramasser) · [Les œufs dans les nids](#rc-eggs) · [Rapporter les trésors par une passe](#au-nest-pass)
 
-**Surnombre (7) :** [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [Le joueur au milieu](#rc-piggy) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1)
+**Surnombre (9) :** [Deux contre un avec passes libres au départ](#wr-tag-2v1) · [Deux contre un sans contact](#rc-two-one) · [L'ombre et le soutien : plaquer à deux](#bib-plaquage-soutien) · [Le joueur au milieu](#rc-piggy) · [Passer puis devenir défenseur](#wr-pass-defend) · [Quatre passeurs contre un intercepteur](#rc-four-one) · [Trois contre deux avec passes en arrière](#wr-tag-3v2) · [Trois contre un avec rotation du défenseur](#wr-tag-3v1) · [Un plus un contre un, avec un opposant en réserve](#ffr-m8-lecture-jeu-11c1)
 
 **Motricité individuelle (17) :** [Alterner trois formes du dos](#ffr-dos-postures) · [Bonds de kangourou vers l’avant](#scot-kangaroo) · [Cercles de bras progressifs](#warm-arm-circles) · [Déplacement du crabe](#munster-crabe) · [Déplacement du gorille](#munster-gorille) · [Déplacement à quatre appuis](#ffr-appuis) · [Fentes alternées du monstre](#scot-monster) · [Fentes dans trois directions](#warm-lunge-clock) · [Marche du grillon en tenant les chevilles](#scot-cricket) · [Marche du singe à trois appuis](#scot-monkey) · [Marcher en canard avec ballon](#ffr-canard) · [Panthères et chenilles](#ffr-pantheres-atelier) · [Ramper comme un crocodile](#scot-crocodile) · [Roulade et relevé](#ffr-roulade-releve) · [Sauter le ballon et stabiliser](#ffr-saut-ballon) · [Sauts verticaux de grenouille](#munster-grenouille) · [Équilibre du flamant](#munster-flamant)
 
@@ -94,7 +94,7 @@ Contrôle des proximités :
 
 Relecture des 16 rapprochements enregistrés et contrôle exhaustif des déroulements identiques. Ne certifie pas l’absence de doublons sémantiques dans tout le corpus.
 
-12403 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
+14878 paires contrôlées pour l’égalité du déroulement : 0 correspondance(s). Cette comparaison textuelle ne détecte pas toutes les reformulations d’un même jeu.
 
 Neuf fiches complétées en points coach après relecture des archives locales ; les neuf descriptions insuffisantes restent à part. Les autres champs absents ne sont pas déclarés introuvables : leur relecture exhaustive reste à poursuivre.
 
@@ -117,6 +117,68 @@ Neuf fiches complétées en points coach après relecture des archives locales ;
 
 <a id="fiches"></a>
 ## Toutes les fiches
+
+<a id="ffr-guide-m8-1c1"></a>
+## 1 contre 1 : plaquage en sécurité (plaqueur debout)
+
+**Catégories proposées :** Plaquage · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8 — guide saison 2022-2023
+
+Quatre plaquages en 1 contre 1 sur rectangle de 9 m x 8 m, en alternance droite/gauche, épaule à la taille et tête du bon côté.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Je fais tomber le porteur de balle en toute sécurité avec mon épaule droite et mon épaule gauche.
+
+**Matériel — historique non réexaminé :** Des plots de couleurs et un ballon
+
+**Effectif minimum — historique non réexaminé :** 3
+
+**Effectif maximum — historique non réexaminé :** 3
+
+**Espace — historique non réexaminé :** Un rectangle de 9 m x 8 m
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Dispositif : 1 attaquant et 1 défenseur ; Groupe : 3 joueurs pour organiser un temps de récupération dans la rotation des rôles ; Espace : un rectangle de 9m x 8m ; Matériel : des plots de couleurs et un ballon.
+
+**Déroulement — source :** 4 plaquages à effectuer (non enchaînés) en alternance droite/gauche (2 à droite - 2 à gauche), 1er plaquage sur droite du défenseur ; C'est l'attaquant qui lance l'action. Le défenseur peut démarrer lorsque l'attaquant contourne le plot pour entrer dans le terrain ; Le défenseur avance en coupant la zone hachurée pour gagner du terrain ; Interdiction pour PB d'entrer dans zone hachurée.
+
+**Consignes — source :** je cible la taille ; j'engage mon épaule au niveau de la taille ; je place ma tête du bon côté sur le flan du porteur de balle (idée tête dans le dos) ; je serre fort les bras.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Lignes rouges : intervention au dessus de la ligne du bassin (placage haut interdit) ; tête placée du mauvais côté (sécurité).
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Plaquage U14 / U16 / U18 : 2vs1+1](https://www.youtube.com/watch?v=sMK_YRbVG5k) — La vidéo (sov rugby formation) montre un exercice de plaquage 2 contre 1 + 1 en U14-U18 ; l'installation U8 du 1 contre 1 n'est pas confirmée.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : ffr-guide-m8-2023 ; Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
 
 <a id="au-pop-race"></a>
 ## Aller au sol puis transmettre au soutien
@@ -170,6 +232,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) — Rugby Australia ; Score the Try and Pop Race — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -238,6 +302,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 45 ; page PDF 15. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Slow and Fast walking game](https://www.youtube.com/watch?v=fgzH1FhmkDM) — La vidéo (Andy's esl classroom) montre un jeu de marche lente / rapide ; l'échauffement « au signal » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -300,6 +366,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 2. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -364,6 +432,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 22 (pagination fichier). Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -431,6 +501,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -492,6 +564,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -559,6 +633,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Kangaroo Hop. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -624,10 +700,66 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [kick chase](https://www.youtube.com/watch?v=f62vftC5Ax8) — La vidéo (Rugby Coach Weekly) montre un exercice « kick and chase » ; le jeu U8 (marquer après le coup de pied, longueur contrôlée) n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-kick-chase-source ; Kick Chase — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-gir-bulldog"></a>
+## Bulldog
+
+**Catégories proposées :** Plaquage · Opposition collective
+
+**Famille :** Lutte et contact · **Âge source :** None
+
+3 couloirs de 30 m × 20 m : les attaquants traversent la ligne des défenseurs qui plaquent sans mettre au sol (touché des deux mains) ; les plaqués rejoignent les défenseurs.
+
+**Durée pour préparer l’atelier :** 5 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Perform a tackle (1)
+
+**Matériel — historique non réexaminé :** 8 plots (cones), ballons
+
+**Effectif minimum — historique non réexaminé :** 30
+
+**Effectif maximum — historique non réexaminé :** 30
+
+**Espace — historique non réexaminé :** 3 couloirs de 30 m × 20 m ; 10 joueurs par couloir
+
+**Durée de l’atelier — source :** 5
+
+**Organisation — source :** 30 players, 3 groups of 10 ; Equipment: 8 cones ; Space: 3 channels 30m × 20m ; 10 players per channel, starting with 3 nominated defenders in a line in the middle of the channel; the other 7 players line up along one edge of the channel as attackers
+
+**Déroulement — source :** On the coach's call, the attackers try to run past the defenders to reach the opposite edge; the defenders attempt to touch with both hands, tag or tackle the attackers by wrapping them with both arms between his/her chest and hips but without bringing the ball carrier to ground; those attackers who are tackled join the defenders…
+
+**Consignes — source :** Look for space / Dodge the defenders ; Keep the head up - focus on the waist of the ball carrier / Try to defend as one line - defend as a team
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Harder: defenders have to run and touch the sideline when they have made a tackle / Easier: attackers must hop on one leg
+
+**Adaptation U8 proposée :** Transposition U8 : texte anglais traduit pour l'usage local ; effectif de 30 joueurs (3 couloirs de 10) à réduire selon l'effectif ; le plaquage s'arrête au touché des deux mains, sans mise au sol (arbitrage 2026-11-20).
+
+**Source principale :** [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — World Rugby ; World Rugby GIR — Bulldog, carte 30/30. Vérification documentaire : 2026-09-06.
+
+**Vidéo — variante (origine proposition IA) :** [P.E. Games - British Bulldog](https://www.youtube.com/watch?v=VIqJ_yizsDE) — La vidéo (PhysEdGames) montre le jeu « British Bulldog » en classe ; la version World Rugby (effectifs, zones) n'est pas confirmée.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : wr-gir ; World Rugby GIR — Bulldog, carte 30/30 ; 2026-11-20
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -693,6 +825,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [CCRU Game  - Capture the Aliens Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -709,7 +843,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="ffr-carre-atelier"></a>
 ## Carré
 
-**Catégories proposées :** Manipulation du ballon
+**Catégories proposées :** Manipulation du ballon · Motricité · Équilibre et postures
 
 **Famille :** Manipulation et coordination individuelle · **Âge source :** M8
 
@@ -717,7 +851,7 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Varier les déplacements et manipulations en travaillant équilibre et posture.
 
@@ -756,6 +890,8 @@ Déplacements et manipulation, avec travail d’équilibre et d’observation.
 **Source principale :** [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Carré. Vérification documentaire : 2026-09-07.
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tlu). Association issue des annotations, visionnage non validé par l’assistant.
+
+**Vidéo de l’exercice (origine source) :** [Carré M8](https://www.dailymotion.com/video/x842tlu).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -833,6 +969,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tna). Association issue des annotations, visionnage non validé par l’assistant.
 
+**Vidéo de l’exercice (origine source) :** [Carré n°2 M8  (rapporter les ballons dans son grenier)](https://www.dailymotion.com/video/x842tna).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -897,6 +1035,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) — RugbyCoaching.tv ; Video Subtitles — dernière progression. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Cercle de passes avec demi-tours sautés](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -958,6 +1098,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) — RugbyCoaching.tv ; Video Subtitles — première situation en cercle. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Players First - Circle &amp; Caterpillar Game Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1028,6 +1170,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/) — World Rugby ; Arm circles. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Arm Circles Exercise](https://www.youtube.com/watch?v=UVMEnIaY8aU) — La vidéo (Sworkit) montre les cercles de bras en exercice ; l'échauffement U8 « progressif » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1044,7 +1188,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="rc-multidirection"></a>
 ## Changer de ligne d’essai
 
-**Catégories proposées :** Réaction au signal · Prise d’information · Opposition collective
+**Catégories proposées :** Passe · Réaction au signal · Prise d’information · Opposition collective
 
 **Famille :** Jeux à zones de marque · **Âge source :** U7 (classement du site)
 
@@ -1092,6 +1236,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine source) :** [Changer de ligne d’essai](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1144,6 +1290,8 @@ Quatre attaquants et un défenseur ; trois groupes alternent par couloir.
 **Périmètre de l’effectif :** par groupe
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Decision Making - 4 v 1. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1208,6 +1356,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 70. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1275,6 +1425,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1332,6 +1484,8 @@ Chasse et arrêt dans un espace libre
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Find the Space. Vérification documentaire : 2026-09-08.
 
+**Vidéo — variante (origine proposition IA) :** [Jeu espace libre](https://www.youtube.com/watch?v=IIWSBwMJPu0) — La vidéo (série FFR) montre le jeu « espace libre » ; la règle de l'« arrêt » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1385,6 +1539,8 @@ Un binôme chasseur avec ballon ; autres binômes dans le carré.
 **Périmètre de l’effectif :** par groupe
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pairs Tag. Vérification documentaire : 2026-09-08.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Rookie Rugby Games: Pairs Tag](https://www.youtube.com/watch?v=Nl24_O3V0so).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1447,6 +1603,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Standing Pool Noodle Game - fun kids outdoor activity team building game - youth group game](https://www.youtube.com/watch?v=NZZsYwckJ30) — La vidéo (Raising Dragons) montre un jeu debout à la barre de piscine ; la « délivrance par la main » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1508,6 +1666,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION — progression Noodle tag 2. Vérification documentaire : 2026-09-09.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1525,7 +1685,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="scot-corner"></a>
 ## Chasseurs passeurs par trois
 
-**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
+**Catégories proposées :** Passe · Réception · Évitement · Coopération · Poursuite et délivrance
 
 **Famille :** Chasse collective par passes · **Âge source :** Primaire (Écosse)
 
@@ -1579,6 +1739,8 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 20. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1597,7 +1759,7 @@ Trois chasseurs coopèrent par passes ; le porteur immobile touche les fuyards. 
 <a id="munster-hunters"></a>
 ## Chasseurs qui se passent le ballon
 
-**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
+**Catégories proposées :** Passe · Coopération · Course · Poursuite et délivrance
 
 **Famille :** Chasse collective par passes · **Âge source :** Primaire / mini-rugby
 
@@ -1647,6 +1809,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Rapprochement non résolu :** [Chasseurs passeurs par trois](#scot-corner). Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 11. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1710,6 +1874,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Roll the ball tig. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Tag Rugby - The Roll Ball](https://www.youtube.com/watch?v=s6OFUrlx6Gs) — La vidéo (tagrugbyireland) montre le « roll ball » en tag rugby ; l'installation U8 du jeu n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1776,6 +1942,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 15 — Chaos Tig. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Warm Up-Chaos Tag](https://www.youtube.com/watch?v=gYAFl46MRaM) — La vidéo (Moving Matters) montre un échauffement « chaos tag » ; les règles du « chat chaos » (rôles) ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1839,6 +2007,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 17 (pagination fichier). Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Animal Walk Tag - Fun Game for P.E. class](https://www.youtube.com/watch?v=Uq08wc_d_h4) — La vidéo (classe de sport) montre un tag en déplacements d'animaux ; la version « chat et déplacements animaux » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -1906,6 +2076,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Cat and Mouse](https://www.youtube.com/watch?v=rK5C6Td9hSs).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1962,6 +2134,8 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 66. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine proposition IA) :** [12 - Chercher les espaces libres](https://www.youtube.com/watch?v=qao1HkIGZ1E).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -1978,7 +2152,7 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 <a id="wr-five-walls"></a>
 ## Cinq attaquants face à cinq rideaux successifs
 
-**Catégories proposées :** Évitement · Opposition collective
+**Catégories proposées :** Passe · Évitement · Opposition collective
 
 **Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé
 
@@ -2013,6 +2187,8 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 **Périmètre de l’effectif :** par couloir : dix attaquants en deux groupes et cinq défenseurs
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 1 x 5 — organisation et déroulement. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2077,6 +2253,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
+
+**Vidéo — variante (origine proposition IA) :** [Circuit passe](https://www.youtube.com/watch?v=Msbjj9wyIUQ) — La vidéo (Pôle Formation des Pyrénées) montre un circuit de passes ; l'aspect mémorisation n'est pas confirmé.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2143,6 +2321,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 10, atelier 2. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2207,6 +2387,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) — New Zealand Rugby — Rugby Toolbox ; Touch the Ground Pass — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Touch the Ground & Pass](https://www.youtube.com/watch?v=85Xwhhf035s).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2265,6 +2447,8 @@ Quatre passeurs contre un défenseur.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Keep Ball. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2292,7 +2476,7 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Coordonner les échanges de deux ballons.
 
@@ -2334,6 +2518,8 @@ Un joueur alterne les échanges avec deux ballons circulant sur des trajets diff
 **Source principale :** [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
 **Référence complémentaire :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — Sous-titres, derniere partie. La coordination avec deux ballons apparait aussi dans cette sequence familiale ; regroupee pour eviter un doublon.
+
+**Vidéo de l’exercice (origine source) :** [Coordonner deux ballons](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2401,6 +2587,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [Colour Tag](https://www.youtube.com/watch?v=gGMEmUM-M4w) — La vidéo (Fit Kids Healthy Kids) montre le jeu « Colour Tag » ; l'inversion des rôles (2 chasseurs contre 1) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2466,6 +2654,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [Colour Tag](https://www.youtube.com/watch?v=gGMEmUM-M4w) — La vidéo (Fit Kids Healthy Kids) montre le jeu « Colour Tag » ; l'installation rugby U8 (3 plots, 1 chasseur contre 2, ligne à franchir) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2521,6 +2711,8 @@ Maîtriser la remise en jeu et partir dans un espace libre.
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 71. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2584,6 +2776,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) — RugbyCoaching.tv ; Video Subtitles : consignes du parcours et des trois passes. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [STG - Rugby Rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2653,6 +2847,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2714,6 +2910,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2783,6 +2981,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Imagine Rugby / Youth Rugby Initiative ; Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026. Vérification documentaire : 2026-09-14.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Rookie Rugby Games: Depth Running](https://www.youtube.com/watch?v=7pgLkb5TuQw).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2838,6 +3038,8 @@ Deux attaquants affrontent un défenseur ; groupe de cinq.
 **Comparaison éditoriale complémentaire :** [rc-two-one](#rc-two-one) — Rubans et passes libres au départ contre défense simulée et soutien en retrait.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 2 v 1. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -2915,6 +3117,8 @@ coach : Regard du porteur et profondeur du soutien.; duration_min : 8; easier : 
 
 **Source principale :** [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [2 v 1 Passing Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -2986,6 +3190,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) — Section DESCRIPTION. Deux equipes tentent dix passes successives sans chute ni interception. Les defenseurs restent a un metre du porteur. Depart possible avec six enfants ; maximum non indique.
 
+**Vidéo de l’exercice (origine source) :** [Dix passes - variante communautaire documentee](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813?ft=ppl&p=3069).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3047,6 +3253,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 4. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3111,6 +3319,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) — New Zealand Rugby — Rugby Toolbox ; Evading the Player — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Rugby coaching - Learn How to Evade a Player (Evasion)](https://www.youtube.com/watch?v=tmTfZg82fLQ) — La vidéo (The Rugby Site) est un tutoriel d'évasion pour joueurs plus âgés ; le jeu U8 « éviter le joueur » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3128,7 +3338,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="ffr-duellong-atelier"></a>
 ## Duel long
 
-**Catégories proposées :** Course · Duel
+**Catégories proposées :** Course · Poursuite et délivrance · Duel
 
 **Famille :** Réaction et course en duel · **Âge source :** M8
 
@@ -3136,7 +3346,7 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Sprinter, s’orienter, marquer et poursuivre pour toucher.
 
@@ -3174,6 +3384,8 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 
 **Source principale :** [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duel long. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [DEFI, DUEL, 1 Contre 1 - CENTRE DE FORMATION - PROVENCE RUGBY - SKILLS RUGBY](https://www.youtube.com/watch?v=OrR6LUN311Q) — La vidéo (centre de formation) montre un défi / duel 1 contre 1 pour joueurs plus âgés ; le duel long U8 n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3190,7 +3402,7 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 <a id="ffr-duels-atelier"></a>
 ## Duels et soutien
 
-**Catégories proposées :** Soutien · Coopération
+**Catégories proposées :** Soutien · Évitement · Coopération · Duel
 
 **Famille :** Surnombre et soutien face à un opposant · **Âge source :** M8
 
@@ -3198,7 +3410,7 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Accélérer et feinter pour marquer ; soutenir le porteur.
 
@@ -3235,6 +3447,8 @@ Course vers la marque avec poursuite ; distances et lancement à compléter.
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Duels et soutien. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Duel et soutien offensif M8](https://www.youtube.com/watch?v=QH_eP2fgI0s).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3299,6 +3513,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Lister et préparer le matériel nécessaire.
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Crab Walk](https://www.youtube.com/watch?v=rnAYZdaicAs).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3365,6 +3581,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Gorilla Shuffle - Rory Scannell | #MoveWithMunster](https://www.youtube.com/watch?v=z7ME47izaQA).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3429,6 +3647,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8, atelier 3. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [duel de face orientation des appuis](https://www.youtube.com/watch?v=d-EY1ktzpbA) — La vidéo (Up Rugby Lab) montre un duel de face travaillant l'orientation des appuis ; l'installation spécifique de l'exercice U8 « appuis » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3491,6 +3711,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Monster Lunge. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Get #MatchFit Anywhere: The Lunge](https://www.youtube.com/watch?v=xOrQUOMfluk) — La vidéo (World Rugby) montre la fente dans la série MatchFit ; la version « monstre » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3561,6 +3783,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/) — World Rugby ; Lunge clock. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Lunge Clock](https://www.youtube.com/watch?v=8375md2RGL0) — La vidéo (Lee Bradbury) montre le « lunge clock » ; les « trois directions » ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3577,7 +3801,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="wr-follow-leader"></a>
 ## File avec transmission au nouveau meneur
 
-**Catégories proposées :** Soutien · Manipulation du ballon · Circulation et transmission
+**Catégories proposées :** Passe · Soutien · Manipulation du ballon · Circulation et transmission
 
 **Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
@@ -3614,6 +3838,8 @@ Cinq joueurs en file suivent le porteur.
 **Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](#wr-pass-support). Transmission de main à main avec soutien en file. Le premier change de meneur au signal et boucle la file ; le second avance par étapes de cinq mètres jusqu’à la marque. Classement proposé par IA ; score heuristique, sans fusion ni validation coach.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Follow the Leader. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Rookie Rugby Games: Follow the Leader](https://www.youtube.com/watch?v=k7e5w_iub14) — La vidéo (Rookie Rugby Canada) montre le jeu de rugby « Follow the Leader » ; la « transmission au nouveau meneur » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3668,6 +3894,8 @@ Deux groupes de cinq attaquants ; cinq défenseurs en trois rideaux espacés de 
 **Périmètre de l’effectif :** par couloir : dix attaquants et cinq défenseurs
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 2 v 1 v 2. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3735,6 +3963,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 53. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3799,6 +4029,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) — Rugby Australia ; Kick Golf — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Vidéo — variante (origine proposition IA) :** [RUGBY GOAL KICK CHALLENGE (Golf Edition)](https://www.youtube.com/watch?v=SvUbOaySvpQ) — La vidéo (KurtXV) montre un défi de coups de pied au but en format golf pour joueurs plus âgés ; le parcours U8 à cibles par plots n'est pas confirmé.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3867,6 +4099,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 54 ; page PDF 24. Vérification documentaire : 2026-09-16.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -3929,6 +4163,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) — RugbyCoaching.tv ; Video Subtitles — progression avec nombres. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [End Ball &amp; Connecting Players Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -3994,10 +4230,140 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 52. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes : ffr-plan2020 ; PDF page 52 — objectif, dispositif, lancement, consignes ; archive septembre 2020 ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-lutte-arc"></a>
+## L'arc : pousser sans tomber
+
+**Catégories proposées :** Lutte · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Deux enfants formés en arc (mains sur les épaules) poussent à tour de rôle dans le cercle ; on apprend à pousser avec les jambes sans se pencher en avant.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre à pousser avec les jambes sans pencher le buste en avant ; préparer le geste de poussée en arc sans contact violent.
+
+**Matériel — historique non réexaminé :** 12 à 18 plots (2 à 3 cercles de 6 plots) ; 1 plot central par cercle si la variante « plus facile » est utilisée
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** 2 à 3 cercles de 3 m de diamètre délimités par 6 plots chacun
+
+**Durée de l’atelier — proposition IA :** 10
+
+**Organisation — proposition IA :** Cercle de 3 m de diamètre délimité par 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire.
+
+**Déroulement — proposition IA :** 1. L'enfant « arc » pousse à l'intérieur du cercle en gardant les jambes fléchies et le buste bas. 2. À la consigne, les rôles s'échangent ; celui qui est poussé recule sans tomber. 3. Variantes : pousser vers chaque plot du cercle tour à tour, en comptant les poussées valides.
+
+**Consignes — proposition IA :** La poussée se fait avec les jambes, le buste reste bas ; on recule sur les pas, on ne tombe pas ; le contact est limité à la forme en arc.
+
+**Critères de réussite — proposition IA :** Les jambes poussent, le buste ne penche pas ; le poussé recule sans tomber ; les rôles s'échangent proprement.
+
+**Erreurs fréquentes — proposition IA :** Pencher le buste en avant ; pousser avec les mains au lieu des jambes ; tomber au lieu de reculer.
+
+**Points d’attention — proposition IA :** Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas ; le contact est en forme d'arc, pas tête contre tête.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : cercle de 3 m à 6 plots choisi par l'auteur, à distinguer du couloir de la source « Je lutte debout pour avancer » (guide M8 : 1 contre 1, mains sur les épaules, 6 plots, 4 binômes maximum par atelier).
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : Les jambes poussent, le buste ne penche pas ; on recule sur les pas, on ne tombe pas.; duration_min : 10; easier : Pousser un plot central avec les mains, sans partenaire.; harder : Le partenaire qui est poussé doit maintenir l'arc 3 secondes avant de céder.; players_max : 12; players_min : 12; setup : Un cercle de 3 m de diamètre, 6 plots ; deux enfants face à face au centre, mains sur les épaules du partenaire (forme en arc).; steps : 1. L'enfant « arc » pousse à l'intérieur du cercle en gardant les jambes fléchies et le buste bas. 2. À la consigne, les rôles s'échangent ; celui qui est poussé recule sans tomber. 3. Variantes : pousser vers chaque plot du cercle tour à tour, en comptant les poussées valides.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°1. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Lutte n°1 ; 2026-11-19
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-plaquage-soutien"></a>
+## L'ombre et le soutien : plaquer à deux
+
+**Catégories proposées :** Soutien · Plaquage · Surnombre
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Un attaquant, deux défenseurs : l'ombre plaque, le soutien arrive derrière pour ramasser ; on apprend à plaquer à deux sans se disperser.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre à plaquer à deux : l'ombre plaque le premier contact, le soutien arrive derrière pour ramasser le ballon ; préparer le geste de soutien.
+
+**Matériel — historique non réexaminé :** 4 ballons, chasubles
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Zone de 15 × 15 m, demi-terrain
+
+**Durée de l’atelier — proposition IA :** 12
+
+**Organisation — proposition IA :** Zone de 15 × 15 m ; un attaquant ballon en main ; deux défenseurs, l'un en face, l'autre un mètre derrière ; un ballon par équipe.
+
+**Déroulement — proposition IA :** 1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre.
+
+**Consignes — proposition IA :** L'ombre plaque seul le premier contact ; le soutien arrive sur le ballon, pas sur l'attaquant ; les deux défenseurs restent en relation visuelle.
+
+**Critères de réussite — proposition IA :** L'ombre plaque le premier contact ; le soutien ramasse le ballon ; les deux défenseurs restent en relation ; le ballon est remis en jeu.
+
+**Erreurs fréquentes — proposition IA :** Les deux défenseurs plaquent au même endroit ; le soutien arrive trop tard ; les défenseurs perdent le ballon.
+
+**Points d’attention — proposition IA :** L'ombre plaque, le soutien ramasse ; on ne plaque pas à deux au même endroit ; le soutien arrive sur le ballon, pas sur l'enfant.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : montage 1 contre 2 « ombre + soutien » non sourcé ; ancrage sur la règle M8 « les soutiens viennent par leur camp » et sur la progression du guide M8 (2 contre 2, 3 contre 3).
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : L'ombre plaque seul le premier contact, le soutien arrive sur le ballon ; on ne plaque pas à deux au même endroit.; duration_min : 12; easier : Le soutien arrive après le plaquage, quand l'attaquant est au sol.; harder : L'attaquant peut se faufiler : si l'ombre est pris, le soutien doit réagir.; players_max : 12; players_min : 12; setup : 15 × 15 m ; un attaquant ballon en main, deux défenseurs face à lui, l'un en face, l'autre un mètre derrière.; steps : 1. L'attaquant choisit une direction au départ ; l'ombre plaque, le soutien arrive derrière pour ramasser le ballon. 2. Le binôme de défense ramène le ballon à la ligne et les rôles s'échangent. 3. Variante : un receveur est placé à 5 m ; l'attaquant peut le chercher avant le contact pour tester la réaction de l'ombre.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°4. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Plaquage n°4 ; 2026-11-19
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -4053,6 +4419,8 @@ Deux chasseurs figent les joueurs touchés ; un partenaire les libère en passan
 **Comparaison éditoriale complémentaire :** [wr-scarecrow](#wr-scarecrow) — Même mécanisme de toucher, immobilisation et délivrance sous un bras. Munster prévoit deux chasseurs, 20 × 20 m et fin au plus tard après cinq minutes ; World Rugby un chasseur par groupe de cinq et changement après une minute. Versions paramétrées du même jeu ; équivalence exacte non affirmée.
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 6. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -4123,6 +4491,8 @@ coach : Regarder devant soi ; saisir seulement le ruban.; duration_min : 6; easi
 
 **Source principale :** [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [La chasse aux rubans](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -4184,6 +4554,8 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 18. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -4192,6 +4564,70 @@ Deux chasseurs se tiennent la main. Les joueurs touchés rejoignent la chaîne. 
 - Consignes : scot-primary ; PDF page 18 ; 2026-09-09
 
 2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-lutte-jumelle"></a>
+## La jumelle : se disputer le ballon
+
+**Catégories proposées :** Lutte · Ramassage du ballon · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Deux enfants partent d'un même plot avec le ballon au sol ; à la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone ; le but est le premier contact et la prise, pas la force.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre le premier contact sur le ballon : l'enfant va chercher le ballon, pas le partenaire ; le but est la prise, pas la force.
+
+**Matériel — historique non réexaminé :** 6 ballons, 12 plots (6 zones de 2 × 2 m)
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone
+
+**Durée de l’atelier — proposition IA :** 10
+
+**Organisation — proposition IA :** 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.
+
+**Déroulement — proposition IA :** 1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
+
+**Consignes — proposition IA :** Le premier contact est sur le ballon, pas sur l'enfant ; on va chercher le ballon, pas le partenaire ; le ballon est mis dans sa zone pour marquer.
+
+**Critères de réussite — proposition IA :** Le premier contact est sur le ballon ; l'enfant va chercher le ballon, pas le partenaire ; le ballon est mis dans la zone.
+
+**Erreurs fréquentes — proposition IA :** Prendre l'enfant au lieu du ballon ; ne pas mettre le ballon dans la zone ; ne pas échanger les rôles.
+
+**Points d’attention — proposition IA :** Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : zones de 2 × 2 m au lieu de 3 × 3 m de la source « Vie du ballon » (guide M8) ; le montage en ligne de 6 plots est un choix d'auteur.
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : Le premier contact compte : on va chercher le ballon, pas le partenaire ; on se dispute le ballon, pas l'enfant.; duration_min : 10; easier : Le ballon est posé sur le plot, pas au sol.; harder : Le ballon est posé à 1 m du plot, en retrait.; players_max : 12; players_min : 12; setup : 6 zones de 2 × 2 m alignées, délimitées par 12 plots ; 1 ballon posé dans chaque zone.; steps : 1. Les enfants partent de derrière la ligne de plots, face au ballon au sol. 2. À la consigne, chacun essaie de ramasser le ballon et de le mettre dans sa zone. 3. Le gagnant est celui qui a mis le ballon dans sa zone ; les rôles s'échangent à chaque plot.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°5. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Lutte n°5 ; 2026-11-19
+
+1 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -4255,10 +4691,140 @@ coach : Choisir un passage libre.; duration_min : 6; easier : Marcher sans ballo
 
 **Source principale :** [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Octopus Tag](https://www.youtube.com/watch?v=K0z_jPbUd4I) — La vidéo (CIRAOntario) montre l'« Octopus Tag » ; les « algues » (rôle des joueurs marqués) ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes : au-octopus ; Description et Coaching Outcome ; texte public consulté ; 2026-09-16
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-soule-ramasser"></a>
+## La soule : ramassage à deux mains
+
+**Catégories proposées :** Ramassage du ballon · Collecte de ballons
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+La soule posée au sol est ramassée à deux mains, de face, sans contact ; on apprend la prise et la protection du ballon avant de passer.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre la prise de la soule à deux mains, de face, avec le ballon contre le buste ; préparer le geste de ramassage.
+
+**Matériel — historique non réexaminé :** 4 soules (ou 4 ballons longs), plots
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Zones de 5 × 5 m, une soule par zone
+
+**Durée de l’atelier — proposition IA :** 8
+
+**Organisation — proposition IA :** Quatre zones de 5 × 5 m ; une soule posée à chaque zone ; un enfant par zone.
+
+**Déroulement — proposition IA :** 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
+
+**Consignes — proposition IA :** Deux mains, face au ballon, genoux fléchis ; la soule est contre le buste ; on ne ramasse pas en courant.
+
+**Critères de réussite — proposition IA :** La soule est ramassée à deux mains ; le ballon est contre le buste ; l'enfant est face au ballon, genoux fléchis.
+
+**Erreurs fréquentes — proposition IA :** Ramasser d'une main ; tourner le dos au ballon ; courir avant d'avoir pris la soule.
+
+**Points d’attention — proposition IA :** Une soule est un ballon allongé (type ballon de rugby à xiii). Deux mains, face au ballon, la soule contre le buste ; le geste de ramassage est propre avant la remise en jeu.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : 4 zones de 5 × 5 m au lieu du carré 1 × 1 m de la source (guide M8, ramassage de la soule) ; la définition de la soule (ballon allongé) est ajoutée dans les points coach.
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : Deux mains, face au ballon, la soule contre le buste ; on ne ramasse pas en courant.; duration_min : 8; easier : Ramasser la soule posée sur une hauteur (plot) pour réduire la prise au sol.; harder : Ramasser la soule en déplacement, en marchant en arrière vers la zone.; players_max : 12; players_min : 12; setup : Quatre zones de 5 × 5 m, une soule posée à chaque zone, un enfant par zone.; steps : 1. L'enfant va chercher sa soule à deux mains, face au ballon, genoux fléchis. 2. Il la lève contre son buste et la protège en marchant vers la zone suivante. 3. Variantes : ramasser la soule d'un seul tenant (sans la faire rouler), puis la poser à 3 m du point de départ.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°3. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Lutte n°3 ; 2026-11-19
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-plaquage-tenue"></a>
+## La tenue : serrer sans contact
+
+**Catégories proposées :** Plaquage · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+L'éducateur démontre la prise en tenaille sur le maillot, mains sur les épaules ; les enfants s'entraînent à serrer sans pousser ni se battre.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre la prise en tenaille sur le maillot et le geste de serrage sans contact violent ; préparer le plaquage en ligne.
+
+**Matériel — historique non réexaminé :** 1 ballon par binôme, plots
+
+**Effectif minimum — historique non réexaminé :** 10
+
+**Effectif maximum — historique non réexaminé :** 14
+
+**Espace — historique non réexaminé :** Deux zones de 10 × 10 m délimitées par des plots
+
+**Durée de l’atelier — proposition IA :** 8
+
+**Organisation — proposition IA :** Deux zones de 10 × 10 m ; un ballon par binôme ; chaque binôme se fait face à 2 m.
+
+**Déroulement — proposition IA :** 1. Démonstration de la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux.
+
+**Consignes — proposition IA :** Le contact est limité à la prise en tenaille sur le maillot ; aucun poussé ni tir ; on compte le serrage à voix haute ; on relâche ensemble à la consigne.
+
+**Critères de réussite — proposition IA :** La prise est en tenaille, les mains restent sur les épaules, le serrage est coordonné avec le compte à voix haute.
+
+**Erreurs fréquentes — proposition IA :** Prendre le ballon au lieu du maillot ; pousser au lieu de serrer ; relâcher avant la consigne.
+
+**Points d’attention — proposition IA :** On serre, on ne se bat pas ; la prise se fait sur les épaules, pas sur le ballon ; le serrage est coordonné avec le compte à voix haute.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : création locale, non issue d'un exercice précis du guide M8 ; « index sur la nuque » ajouté par l'auteur (non sourcé) ; effectif 10-14 aligné sur la pratique U8.
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : On serre, on ne se bat pas ; on compte à voix haute et on relâche ensemble à la consigne.; duration_min : 8; easier : Faire la prise sur un plot ou un matelas : l'enfant s'entraîne seul, sans partenaire.; harder : Le partenaire fait un pas en avant avant le serrage : l'enfant ajuste sa prise avant le contact.; players_max : 14; players_min : 10; setup : Deux zones de 10 × 10 m, un ballon par binôme ; chaque binôme se fait face à 2 m.; steps : 1. L'éducateur montre la prise : mains sur les épaules, index sur la nuque, serrer comme une tenaille. 2. Les binômes se serrent mutuellement en comptant « un, deux, trois, relâche » ; le partenaire vérifie que les mains restent sur les épaules. 3. Variantes : se tenir face à face sans ballon, puis avec un ballon tenu à deux.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°1. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Plaquage n°1 ; 2026-11-19
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -4323,6 +4889,8 @@ coach : Ballon contrôlé et tête relevée.; duration_min : 7; easier : Action 
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -4395,6 +4963,8 @@ coach : Offrir une ligne de passe et appeler.; duration_min : 6; easier : Interc
 
 **Source principale :** [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Tag Game - Piggy in the Middle Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -4465,6 +5035,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Aliens Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -4485,29 +5057,29 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
-Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo à examiner.
+Situation de lutte en binômes pour aborder l’opposition corporelle : saisir à la taille, coller la tête, serrer les bras ; déroulement vidéo à examiner.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Découvrir l’opposition corporelle et la lutte.
 
 **Matériel — information manquante :** non extrait
 
-**Effectif minimum — information manquante :** non extrait
+**Effectif minimum — historique non réexaminé :** 2
 
-**Effectif maximum — information manquante :** non extrait
+**Effectif maximum — historique non réexaminé :** 5
 
 **Espace — information manquante :** non extrait
 
-**Durée de l’atelier — information manquante :** non extrait
+**Durée de l’atelier — source :** 10
 
 **Organisation — information manquante :** non extrait
 
 **Déroulement — information manquante :** non extrait
 
-**Consignes — information manquante :** non extrait
+**Consignes — source :** Insister sur : les saisies à la taille, coller la tête, serrer les bras / Les règles (droits et devoirs + action sur le joueur)
 
 **Critères de réussite — information manquante :** non extrait
 
@@ -4517,9 +5089,6 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **À décider pour la séance :**
 
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-- Fixer le nombre de joueurs actifs et ceux en attente.
-- Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
@@ -4529,10 +5098,12 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tpz). Association issue des annotations, visionnage non validé par l’assistant.
 
+**Vidéo de l’exercice (origine source) :** [Les gazelles M8](https://www.dailymotion.com/video/x842tpz).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
-- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Objectif, Consignes, Points d’attention, Durée de l’atelier : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -4545,7 +5116,7 @@ Situation de lutte pour aborder l’opposition corporelle ; déroulement vidéo 
 <a id="munster-gates"></a>
 ## Les portes à franchir
 
-**Catégories proposées :** Évitement · Prise d’information · Opposition collective
+**Catégories proposées :** Passe · Réception · Évitement · Prise d’information · Opposition collective
 
 **Famille :** Créer et exploiter un espace en opposition · **Âge source :** Primaire / mini-rugby
 
@@ -4599,6 +5170,8 @@ coach : Lever la tête et trouver une porte libre.; duration_min : 8; easier : S
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 7. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -4664,6 +5237,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine source) :** [Les statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -4737,10 +5312,132 @@ coach : Lever la tête et poser sans jeter.; duration_min : 6; easier : Réserve
 
 **Référence complémentaire :** [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Description / Change It. Variante australienne : quatre equipes rapportent les ballons centraux a tour de role, puis ceux des autres camps. Huit plots et seize ballons annonces. Une progression remplace le retour porte par une passe.
 
+**Vidéo de l’exercice (origine source) :** [Egg in the nest game Rugby](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603?ft=ppl&p=3069).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes, Points d’attention : rc-eggs ; Description et sous-titres propres à la fiche, avant Search ou les liens de navigation ; description seule pour rc-ten ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-plan2023-oeufs"></a>
+## Les œufs des poules
+
+**Catégories proposées :** Lutte · Poursuite et délivrance
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Course et lutte dans la basse-cour : les poules ramassent les œufs et les déposent au poulailler de la bonne couleur pendant que les renards rampent pour les attraper.
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Améliorer la notion d'avancer pour aller marquer !
+
+**Matériel — historique non réexaminé :** 4 poulaillers (plots de 4 couleurs), 6 ballons
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Une basse-cour délimitée par des plots ; les œufs (ballons) au centre
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Un groupe de 6 poules (utilisateurs) se promène dans la basse-cour ; les œufs (ballons) sont placés au centre ; 6 renards (opposants) à plat ventre au sol ; 4 poulaillers (plots 4 couleurs), 6 ballons.
+
+**Déroulement — source :** 1. ON SE PROMENE (les poules trottinent, les renards rampent). 2. LES RENARDS ARRIVENT (les poules ramassent les œufs et les renards se relèvent). 3. Après 3 à 5 sec de courses et de luttes, le fermier (éducateur) annonce la couleur du poulailler. ; 3 passages à la suite par groupe
+
+**Consignes — source :** Pour les opposants (renards) : bloquer les poules pour leurs voler les œufs, puis les apporter en dehors de la basse-cour. Pour les utilisateurs (poules) : ramasser son œuf et, sans se faire attraper, aller déposer son œuf (sans le casser !) dans le poulailler de la bonne couleur.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Plus les renards volent d'œufs… on se rapproche d'un jeu avec un ballon pour l'ensemble du groupe ! Les poules doivent alors protéger leur dernier œuf et le « transporter » en sécurité
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Plan de formation M8 2023 — séance 12/12 : Les œufs des poules. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine proposition IA) :** [9 - Les oeufs et les poules](https://www.youtube.com/watch?v=8EexedC3CBY).
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : ffr-plan2023 ; Plan de formation M8 2023 — séance 12/12 : Les œufs des poules ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="jskids-l08-culotte"></a>
+## Lutte à la culotte
+
+**Catégories proposées :** Lutte · Duel
+
+**Famille :** Lutte et contact · **Âge source :** 8-10 ans
+
+Face à face, épaules en contact, mains sur les hanches : se renverser mutuellement en appuyant les épaules adverses au sol, sans utiliser les jambes.
+
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Augmentation de l'engagement individuel au combat
+
+**Matériel — information manquante :** non extrait
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — historique non réexaminé :** Face à face, épaules en contact, mains sur les hanches
+
+**Durée de l’atelier — source :** 10
+
+**Organisation — source :** Deux joueurs, face à face, appuyés l'un contre l'autre avec les épaules, se tiennent à la culotte (mains sur les hanches).
+
+**Déroulement — source :** Ils tentent de se renverser mutuellement pour appuyer les épaules adverses contre le sol (prises en dessous des épaules).
+
+**Consignes — source :** Interdiction d'utiliser les jambes pour faire tomber l'adversaire
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non indiqué dans le passage examiné
+
+**Adaptation U8 proposée :** Transposition U8 : l'exercice est sourcé pour 8-10 ans ; l'adaptation à la tranche 7-8 ans (U8) est une décision du coach, déclarée ici (arbitrage 2026-11-20).
+
+**À décider pour la séance :**
+
+- Lister et préparer le matériel nécessaire.
+
+**Source principale :** [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) — OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby ; J+S-Kids L08 — exercice 2/2 : Lutte à la culotte. Vérification documentaire : 2026-11-20.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : jskids-l08 ; J+S-Kids L08 — exercice 2/2 : Lutte à la culotte ; 2026-11-20
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -4802,6 +5499,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 51. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [L’auto-stoppeur](https://www.youtube.com/watch?v=99Y4PGW57Ig).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -4857,6 +5556,8 @@ Repérer les espaces ouverts par des défenseurs temporairement immobilisés.
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) — FFR / DTN ; PDF page 55. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -4919,6 +5620,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
 **Source principale :** [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Manipulation ballon autour du corps](https://www.youtube.com/watch?v=BpQTUQy2ObU) — La vidéo (BR Coach) montre une série de manipulations du ballon ; le jeu U8 de conscience / observation n'est pas confirmé.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -4984,6 +5687,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Cricket Walk. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5051,6 +5756,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Monkey Walk. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Hong Kong Monkey Rugby Club U7 Team enjoys walking & running rugby games on 15th November 2026](https://www.youtube.com/watch?v=accsGC4OeUw) — La vidéo (TAGBY CLUB) montre une équipe U7 (Monkey Rugby Club) en déplacements d'animaux ; la version « trois appuis » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5114,6 +5821,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 1. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Stade n°1 - Echauffement : Marche canard - Ecole de rugby](https://www.youtube.com/watch?v=lEVWCzr2j9s).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5183,6 +5892,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 44 ; page PDF 14. Vérification documentaire : 2026-09-16.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5248,6 +5959,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 21 — Break the walls. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5312,6 +6025,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — New Zealand Rugby — Rugby Toolbox ; Shadow Run — progression 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Shadow Run](https://www.youtube.com/watch?v=iwwdQ7PaJa8) — La vidéo (MAKO RUGBY) montre une course d'ombre ; la progression « miroir » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5373,6 +6088,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) — New Zealand Rugby — Rugby Toolbox ; Number Race 2 — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5438,6 +6155,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION et DRILL SET-UP. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5465,7 +6184,7 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Maintenir une posture gainée pendant le déplacement.
 
@@ -5502,6 +6221,8 @@ Maintenir une posture pendant le déplacement ; les deux situations restent à s
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Panthères et chenilles. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5565,6 +6286,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 23 (pagination fichier). Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5638,6 +6361,8 @@ coach : Mains prêtes et receveur derrière le porteur.; duration_min : 7; easie
 
 **Source principale :** [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Passing in 2s Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5704,6 +6429,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 9. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5755,6 +6482,8 @@ Trois groupes de cinq alternent par couloir.
 **Périmètre de l’effectif :** par groupe actif ; trois groupes par couloir
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass, Defend, Attack. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5817,6 +6546,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -5887,6 +6618,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Passer sur appel dans un espace partagé](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -5952,6 +6685,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) — Rugby Australia ; Pass and Duck — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -6019,6 +6754,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [5 Attackers Passing Under's And Overs Running Lines  AMERICAN RAPTORS Uruguayan November Tour 2021](https://www.youtube.com/watch?v=TqQwg3oVc0Y) — La vidéo (Rugbyfactorytv) montre des passes en-dessus/en-dessus par 5 attaquants ; l'installation du jeu U8 n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6075,6 +6812,8 @@ Départs debout, un genou, deux genoux, allongé et assis.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support- Chain Reaction. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6094,7 +6833,7 @@ Départs debout, un genou, deux genoux, allongé et assis.
 <a id="nz-circle"></a>
 ## Passes en cercle tourné vers l’extérieur
 
-**Catégories proposées :** Passe · Circulation et transmission
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
 **Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
@@ -6137,6 +6876,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Rugby Passing Drills - Catching Tennis Circle](https://www.youtube.com/watch?v=wnl2g862ImE) — La vidéo (Sportplan) montre un cercle de passes ; la disposition « tournés vers l'extérieur » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -6193,6 +6934,8 @@ Cinq joueurs en file.
 **Variantes conservées séparément :** [Relais de soutien tous les cinq mètres](#wr-pass-support). Les joueurs avancent successivement : transmission latérale après deux mètres dans Formation, prise de main à main après cinq mètres dans Pass and Support. Proposition IA, score heuristique ; sans fusion.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support- Formation. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -6265,6 +7008,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Passes en triangle et changement de posture](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6327,6 +7072,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
 **Source principale :** [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) — New Zealand Rugby — Rugby Toolbox ; Zig Zag Passing — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+**Vidéo — variante (origine proposition IA) :** [Zig-Zag Passing & Handling | Rugby Drill](https://www.youtube.com/watch?v=n1F_Jaoc5o4) — La vidéo (Sportplan Rugby) montre des passes en zigzag ; le « replacement en bout de ligne » n'est pas confirmé.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -6394,6 +7141,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Imagine Rugby / Youth Rugby Initiative ; Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié. Vérification documentaire : 2026-09-14.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Rookie Rugby - Cold and Hot Potato](https://www.youtube.com/watch?v=hH0VuSprcA8).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6410,7 +7159,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="rc-lateral-three"></a>
 ## Passes latérales en vagues de trois
 
-**Catégories proposées :** Passe · Circulation et transmission
+**Catégories proposées :** Passe · Réception · Course · Circulation et transmission
 
 **Famille :** Passes en progression collective · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
@@ -6460,6 +7209,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Variantes conservées séparément :** [Vagues de passes avec relais sur l’autre rive](#wr-passing-relays). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
 
 **Source principale :** [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Lateral Passing in 3s Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -6523,6 +7274,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) — New Zealand Rugby — Rugby Toolbox ; Octopus — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6549,7 +7302,7 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Apprendre le plaquage puis la libération du ballon.
 
@@ -6587,10 +7340,142 @@ Progression technique dont une entrée à genoux ; vidéo entière requise pour 
 
 **Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Plaquage et libération. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Plaquage et libération (M15F)](https://www.youtube.com/watch?v=4-PxxjsOFsc) — La vidéo (Ligue Régionale Grand Est) montre plaquage et libération en niveau M15F ; le jeu U8 (plaquage et libération) n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Points d’attention : ffr-atelier-2-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-plaquage-balise"></a>
+## Plaquage et libération autour de la balise
+
+**Catégories proposées :** Plaquage · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Après un plaquage, l'enfant libère le ballon dans les 2 secondes et retourne en position de jeu ; la balise délimite la zone de libération.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre le geste de libération après un plaquage : poser le ballon dans la zone balisée en 2 secondes et revenir en position de jeu.
+
+**Matériel — historique non réexaminé :** 2 ballons (1 par équipe), 4 balises, plots
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Zone de 15 × 10 m avec 4 balises aux coins
+
+**Durée de l’atelier — proposition IA :** 10
+
+**Organisation — proposition IA :** Zone de 15 × 10 m ; 4 balises aux coins ; deux équipes ; un ballon par équipe.
+
+**Déroulement — proposition IA :** 1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.
+
+**Consignes — proposition IA :** Le plaquage est terminé quand le ballon est posé dans la zone balisée ; on compte la libération à voix haute ; on revient en position avant de relancer.
+
+**Critères de réussite — proposition IA :** La libération est dans la zone balisée en 2 secondes ; le défenseur revient en position ; le ballon est remis en jeu sans perte de temps.
+
+**Erreurs fréquentes — proposition IA :** Garder le ballon après le plaquage ; libérer hors de la zone balisée ; ne pas revenir en position.
+
+**Points d’attention — proposition IA :** Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute ; la position de jeu fait partie du geste.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : montage en zone balisée et comptage « un, deux » ajoutés par l'auteur (non sourcés) ; la libération au-delà de 1 m après le plaquage est conforme à la règle M8 de libération immédiate.
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : Le plaquage finit quand le ballon est posé, pas avant ; on compte la libération à voix haute.; duration_min : 10; easier : Libération immédiate sans déplacement (poser le ballon à 1 m).; harder : La libération doit se faire dans une balise imposée, à 3 m du plaquage.; players_max : 12; players_min : 12; setup : Zone de 15 × 10 m, 4 balises aux coins ; deux équipes, un ballon.; steps : 1. Le coach (ou l'attaquant, selon consigne) lance le ballon ; l'attaquant court vers la balise ; le défenseur plaque la balise, l'attaquant ramasse le ballon. 2. Après le contact, le défenseur libère le ballon dans la zone balisée en comptant « un, deux » et revient en position. 3. L'attaquant ramasse le ballon et relance ; les rôles s'échangent tous les 3 plaquages.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°3. Vérification documentaire : 2026-11-19.
+
+**Vidéo — variante (origine proposition IA) :** [Plaquage et libération (M15F)](https://www.youtube.com/watch?v=4-PxxjsOFsc) — La vidéo (Ligue Régionale Grand Est) montre plaquage et libération en niveau M15F ; le jeu U8 à balise n'est pas confirmé.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Plaquage n°3 ; 2026-11-19
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-plaquage-a-genoux"></a>
+## Plaquage à genoux en ligne
+
+**Catégories proposées :** Plaquage · Duel
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+En position à genoux, l'enfant apprend à envelopper le ballon dans une ligne de plaquage de tête à pied, sans contact violent.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre la ligne de plaquage de tête à pied, en position à genoux, sans contact violent ; préparer le geste de plaquage en mouvement.
+
+**Matériel — historique non réexaminé :** 6 ballons (1 par binôme), plots
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Deux lignes de 3 binômes ; zigzag de 6 plots espacés de 2 m par ligne (12 plots au total)
+
+**Durée de l’atelier — proposition IA :** 10
+
+**Organisation — proposition IA :** Zigzag de 6 plots espacés de 2 m par ligne ; un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon.
+
+**Déroulement — proposition IA :** 1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.
+
+**Consignes — proposition IA :** Le plaquage se fait à genoux, sans contact sur la tête ; la tête reste du côté du ballon ; la hanche serre ; les mains sèrrent le maillot (prise en tenaille, pas sur le ballon).
+
+**Critères de réussite — proposition IA :** La ligne de plaquage est de tête à pied ; la tête reste du côté du ballon ; la hanche serre ; les mains restent sur le maillot.
+
+**Erreurs fréquentes — proposition IA :** Prendre le ballon au lieu du maillot ; pousser avec les épaules ; laisser la tête s'éloigner du ballon.
+
+**Points d’attention — proposition IA :** La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : variante « plaquage à genoux » ; conflit de sécurité déclaré — les guides M8 2022-2023 et 2025-2026 font pratiquer un plaqueur à genou alors que le plaquage avec le genou à terre est interdit par la Règle 13 (vigilance renforcée World Rugby/FFR depuis 2026-10-05). Source la plus proche citée en références (guide M8, 1c1 9 × 8 m, plaqueur debout).
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : La tête cherche le ballon, la hanche serre, les mains sèrrent le maillot (prise en tenaille, pas sur le ballon) ; on plaque à genoux, on ne pousse pas.; duration_min : 10; easier : Plaquage sur un plot fixe, sans mouvement.; harder : Le porteur de ballon fait un pas de côté avant le plaquage.; players_max : 12; players_min : 12; setup : Zigzag de 6 plots par ligne, un ballon par binôme ; un enfant à genoux, l'autre debout avec le ballon.; steps : 1. L'enfant à genoux plaque le ballon contre sa hanche en gardant la tête du côté du ballon, de tête à pied. 2. L'enfant à genoux se relève, remet le ballon en position et ils échangent les rôles. 3. Parcourir le zigzag en plaquant au plot à chaque station, puis en avançant d'un plot.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Plaquage n°2. Vérification documentaire : 2026-11-19.
+
+**Référence complémentaire :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Livre du jeune joueur M8 2022-2023 — rubrique Plaquage — exercice 1 contre 1 (9 × 8 m, plaqueur debout). Source M8 réelle la plus proche (plaqueur debout) ; la fiche locale s'en distingue par la position à genoux, dont le conflit de sécurité est déclaré.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Plaquage n°2 ; 2026-11-19
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -6652,6 +7537,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [Partner Tag](https://www.youtube.com/watch?v=w0cLmiR_joo) — La vidéo (Fit Kids Healthy Kids) montre le « Partner Tag » en jeu de poursuite enfants ; la version avec ballon (porteur/chasseur) et la permutation ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6668,7 +7555,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="rc-pass-start"></a>
 ## Premières passes en ligne
 
-**Catégories proposées :** Passe · Circulation et transmission
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
 **Famille :** Ramasser, recevoir et transmettre · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
@@ -6715,6 +7602,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Learning to Pass - first steps Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6735,29 +7624,29 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Famille :** Lutte et contact · **Âge source :** M8
 
-Protéger son équilibre face à l’adversaire ; organisation à compléter.
+Protéger son équilibre face à l’adversaire : posture semi-fléchie et ancrage au sol ; organisation à compléter.
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Progresser dans l’équilibre et la posture en opposition.
 
 **Matériel — information manquante :** non extrait
 
-**Effectif minimum — information manquante :** non extrait
+**Effectif minimum — historique non réexaminé :** 2
 
-**Effectif maximum — information manquante :** non extrait
+**Effectif maximum — historique non réexaminé :** 5
 
 **Espace — information manquante :** non extrait
 
-**Durée de l’atelier — information manquante :** non extrait
+**Durée de l’atelier — source :** 10
 
 **Organisation — information manquante :** non extrait
 
 **Déroulement — information manquante :** non extrait
 
-**Consignes — information manquante :** non extrait
+**Consignes — source :** Insister sur : la posture semi-fléchie / l’équilibre pour ne pas tomber, Résister en améliorant l’ancrage au sol / les règles (droits et devoirs + action sur le joueur)
 
 **Critères de réussite — information manquante :** non extrait
 
@@ -6767,9 +7656,6 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 
 **À décider pour la séance :**
 
-- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
-- Fixer le nombre de joueurs actifs et ceux en attente.
-- Vérifier la capacité du dispositif pour le groupe prévu.
 - Définir les limites et dimensions adaptées au groupe.
 - Lister et préparer le matériel nécessaire.
 
@@ -6779,10 +7665,12 @@ Protéger son équilibre face à l’adversaire ; organisation à compléter.
 
 **Lien extrait du PDF fourni :** [vidéo candidate](https://www.dailymotion.com/video/x842tp6). Association issue des annotations, visionnage non validé par l’assistant.
 
+**Vidéo de l’exercice (origine source) :** [Protège ballon M8](https://www.dailymotion.com/video/x842tp6).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
-- Objectif, Points d’attention : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
+- Objectif, Consignes, Points d’attention, Durée de l’atelier : ffr-atelier-1-2025-26 ; Diapositive 3, rubrique M8, texte public archivé ; 2026-09-08
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -6843,6 +7731,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Variantes conservées séparément :** [Rugby à quatre cibles](#rc-netball). Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
 **Source principale :** [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [CCRU Game - Chaos Touch Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -6915,6 +7805,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Piggy in the Middle - 4v1 Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -6980,10 +7872,76 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo de l’exercice (origine proposition IA) :** [What’s The Time Mr Wolf](https://www.youtube.com/watch?v=bKhcoQwzRhg).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
 - Objectif, Organisation, Déroulement, Consignes, Durée de l’atelier, Effectif minimum, Effectif maximum, Espace, Matériel : au-wolf-source ; What’s the Time Mr Wolf? — Description, Coaching Outcome, Change It ; 2026-09-10
+
+1 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="bib-ruck-relai"></a>
+## Ramasser et repasser : le cycle au sol
+
+**Catégories proposées :** Passe · Ramassage du ballon · Relais
+
+**Famille :** Lutte et contact · **Âge source :** M8
+
+Cycle complet : plaquage sur plot, ramassage du ballon posé à côté, remise en jeu par passe ; le but est la fluidité du geste au sol, sans contact.
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — proposition IA :** Apprendre le cycle complet au sol : plaquage sur plot, ramassage du ballon posé à côté, remise en jeu par passe ; le ruck est un geste, pas une lutte.
+
+**Matériel — historique non réexaminé :** 2 ballons, 4 plots, chasubles
+
+**Effectif minimum — historique non réexaminé :** 12
+
+**Effectif maximum — historique non réexaminé :** 12
+
+**Espace — historique non réexaminé :** Zone de 10 × 10 m
+
+**Durée de l’atelier — proposition IA :** 12
+
+**Organisation — proposition IA :** Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.
+
+**Déroulement — proposition IA :** 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
+
+**Consignes — proposition IA :** Le plaquage est sur le plot, pas sur un enfant ; le ramassage se fait à deux mains ; la passe est faite après le ramassage, pas avant.
+
+**Critères de réussite — proposition IA :** Le cycle plaquage, ramassage et passe est fluide ; les rôles s'échangent proprement ; le ballon est remis en jeu sans perte de temps.
+
+**Erreurs fréquentes — proposition IA :** Ramasser avant le plaquage ; passer avant d'avoir ramassé ; les rôles ne s'échangent pas.
+
+**Points d’attention — proposition IA :** Ruck : ici, le cycle plaquage-ramassage-passe au sol. Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre ; la régularité du cycle prime sur la vitesse.
+
+**Adaptation U8 proposée :** Adaptation locale déclarée (arbitrage 2026-11-20) : cycle 1 contre 1 à rôles tournants, à distinguer du dispositif officiel 6 contre 4 (guide M8, ruck) ; le terme « ruck » est conservé avec une définition locale : cycle plaquage-ramassage-passe au sol.
+
+**Réglages U8 historiques proposés, distincts de la source :**
+
+coach : Le ruck est un geste, pas une lutte : on plaque, on ramasse, on repasse, dans l'ordre.; duration_min : 12; easier : Le ramassage se fait sur un ballon posé à 1 m du plot, pas au sol.; harder : Le ramassage se fait en déplacement, en reculant de 2 m après le plaquage.; players_max : 12; players_min : 12; setup : Zone de 10 × 10 m ; 4 plots à 3 m les uns des autres ; 2 équipes ; 1 ballon par équipe.; steps : 1. Le joueur « plaquage » plaque le plot, le joueur « ramassage » ramasse le ballon posé à côté du plot. 2. Le joueur « ramassage » remet en jeu par passe au joueur « passe ». 3. Les rôles tournent ; on compte les cycles complets réussis par tranches de 3 minutes.
+
+**Source principale :** [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) — Bibliothèque Rugby U8 (adaptation locale) ; Création locale 2026-11 — Lutte n°4. Vérification documentaire : 2026-11-19.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Critères de réussite, Erreurs fréquentes, Points d’attention, Durée de l’atelier : biblio-creation-202611 ; Création locale 2026-11 — Lutte n°4 ; 2026-11-19
 
 1 révision(s) conservée(s) dans les données de l’application.
 
@@ -7044,6 +8002,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 10, atelier 1. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7106,6 +8066,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7172,6 +8134,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Crocodile Walk. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Animal Walks - Alligator Walk](https://www.youtube.com/watch?v=S-Yf5OIYYBo) — La vidéo (Hong Kong China Rugby) montre la marche du crocodile / alligator ; la version « crocodile » du jeu n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7240,6 +8204,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) — Rugby Australia ; Rob the Nest — passing progression — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-06.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Vidéo de l’exercice (origine proposition IA) :** [ROB THE NEST - Under 8's](https://www.youtube.com/watch?v=Nkj8WnT0upk).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7310,6 +8276,8 @@ coach : Réaction au signal, chacun dans sa voie.; duration_min : 6; easier : Sa
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 5. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Rats & Rabbits](https://www.youtube.com/watch?v=tJJvxObgD-U) — La vidéo (Auckland Rugby) montre « Rats & Rabbits » ; la version Munster (effectifs, zones) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -7371,6 +8339,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
 **Source principale :** [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — New Zealand Rugby — Rugby Toolbox ; Rats and Rabbits 3 — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+**Vidéo — variante (origine proposition IA) :** [Rats & Rabbits](https://www.youtube.com/watch?v=tJJvxObgD-U) — La vidéo (Auckland Rugby) montre « Rats & Rabbits » ; la progression « duel en ligne droite » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7436,6 +8406,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) — New Zealand Rugby — Rugby Toolbox ; Rats and Rabbits 4 — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [Rats & Rabbits](https://www.youtube.com/watch?v=tJJvxObgD-U) — La vidéo (Auckland Rugby) montre « Rats & Rabbits » ; la progression « trajectoires libres » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -7454,7 +8426,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="rc-bounce"></a>
 ## Rebondir et échanger en binôme
 
-**Catégories proposées :** Manipulation du ballon · Circulation et transmission
+**Catégories proposées :** Réception · Manipulation du ballon · Circulation et transmission
 
 **Famille :** Passes en binôme et soutien · **Âge source :** U9 (classement du site)
 
@@ -7500,6 +8472,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine source) :** [Rebondir et échanger en binôme](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7570,6 +8544,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/) — World Rugby ; Any direction pass tag. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [OMW Kids First Skills Series, Any Direction Tag](https://www.youtube.com/watch?v=oBnwubGWK2w) — La vidéo (England Rugby, Kids First Skills) montre « Any Direction Tag » ; la règle « possession changée au toucher » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -7639,6 +8615,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 17, atelier 9. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -7698,6 +8676,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 24. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7762,6 +8742,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -7822,6 +8804,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
+
+**Vidéo — variante (origine proposition IA) :** [3 - Relais de manipulations (Rugby à 5 Santé)](https://www.youtube.com/watch?v=zxcrAuXMAvc) — La vidéo (série FFR) montre des relais de manipulations ; l'installation spécifique (cinq manipulations) n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7888,6 +8872,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Lister et préparer le matériel nécessaire.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 12. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -7958,6 +8944,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Échauffement : mouvements fondamentaux](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity/) — World Rugby ; Hook relay. Vérification documentaire : 2026-09-16.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -7974,7 +8962,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="wr-pass-support"></a>
 ## Relais de soutien tous les cinq mètres
 
-**Catégories proposées :** Soutien · Manipulation du ballon · Relais · Circulation et transmission
+**Catégories proposées :** Passe · Soutien · Manipulation du ballon · Relais · Circulation et transmission
 
 **Famille :** Passes en progression collective · **Âge source :** Initiation Get Into Rugby ; âge non précisé
 
@@ -8014,6 +9002,8 @@ Cinq joueurs partent en file.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8033,7 +9023,7 @@ Cinq joueurs partent en file.
 <a id="ffr-relais-atelier"></a>
 ## Relais — courir, rouler, passer
 
-**Catégories proposées :** Passe · Motricité · Relais
+**Catégories proposées :** Passe · Réception · Motricité · Course · Relais
 
 **Famille :** Parcours et relais avec ballon · **Âge source :** M8
 
@@ -8041,7 +9031,7 @@ Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcour
 
 **Durée pour préparer l’atelier :** Durée non estimée : déroulement insuffisamment décrit.
 
-**Fiche insuffisamment décrite : à consulter comme piste, pas à lancer seule sur le terrain.**
+**Fiche utilisable en séance — description incomplète : les rubriques manquantes sont déclarées, l’éducateur complète les réglages à la préparation.**
 
 **Objectif — source :** Enchaîner course, passage au sol, relevé, passe et réception.
 
@@ -8078,6 +9068,8 @@ Enchaîner déplacement, passage au sol, relevé et échange du ballon ; parcour
 **Relecture des manques :** La diapositive M8 expose des objectifs et points d’attention ; le dispositif et la progression restent à préciser par la vidéo. Ne pas utiliser les instructions des autres catégories d’âge.
 
 **Source principale :** [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) — FFR — document intégré sur formation.ffr.fr ; Diapositive 3 — Relais — courir, rouler, passer. Vérification documentaire : 2026-09-07.
+
+**Vidéo — variante (origine proposition IA) :** [Rugby école exercice Les relais](https://www.youtube.com/watch?v=4Q1g9a-nrK4) — La vidéo (Gwennael PETILLAT) montre des exercices de relais en école de rugby ; l'installation spécifique de cet atelier n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8142,6 +9134,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 6. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Roulade sur l'épaule](https://www.youtube.com/watch?v=ElycLwem140) — La vidéo montre une roulade sur l'épaule (avec relèvement) orientée U12 ; l'installation U8 n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8205,6 +9199,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) — New Zealand Rugby — Rugby Toolbox ; DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8212,6 +9208,70 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Organisation, Déroulement, Consignes, Durée de l’atelier : nz-rip-source ; DRILL EXPLANATION ; 2026-09-09
 
 2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="wr-gir-rucktouch"></a>
+## Ruck Touch Rugby 6v4
+
+**Catégories proposées :** Ramassage du ballon · Opposition collective
+
+**Famille :** Lutte et contact · **Âge source :** None
+
+6 attaquants contre 4 défenseurs en 3 couloirs : après le plaquage, le porteur glisse au sol et un coéquipier se dresse au-dessus de lui pour protéger le ballon (introduction au ruck).
+
+**Durée pour préparer l’atelier :** Budget proposé : 5,5 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 2–3 séquences de 90 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une manche après un retour bref et une permutation des rôles ; vérifier que le jeu garde son intérêt.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Set up a ruck. In Rugby, when a tackled player falls to the ground, a supporting player can come in and help prevent the defenders from taking the ball by standing over the tackled player. If there are 3 players involved — 2 attackers and 1 defender - it is called a "ruck".
+
+**Matériel — historique non réexaminé :** 3 ballons, 8 plots (cones)
+
+**Effectif minimum — historique non réexaminé :** 30
+
+**Effectif maximum — historique non réexaminé :** 30
+
+**Espace — historique non réexaminé :** 3 couloirs de 30 m × 20 m ; 10 joueurs par couloir
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** 30 joueurs, 3 couloirs 30×20 m, 3 ballons, 8 plots ; Split the 10 players in each channel into two teams — 4 players to defend, 6 players to attack ; Start the game with a free pass at the centre, ensuring that the defending team retreats 7 metres
+
+**Déroulement — source :** If 2-hands-touched / tagged / tackled, the ball carrier must not pass but must hold the ball and slide onto the ground. The ball carrier should lie parallel to the try line with the ball held at arms length away from his/her body towards his/her team mates. Another attacking player must come in and stand over the tackled player to prevent the defenders picking the ball up. The tackler holds the ball carrier until the next attacking player takes the ball. The tackler only holds the ball carrier – he/she does not wrestle or turn the ball carrier. After a successful tackle, the defender must stay on his/her own side of the ball (stay onside) and must not attempt to intercept or obstruct the pass. When a tackle is made, the defending team must retreat 7 metres. Only the tackler can remain with the ball carrier.
+
+**Consignes — source :** The second attacker must stand in a crouched position over the tackled player to protect the ball ; After making the tackle, stay on the feet if possible and allow the second attacker to stand over the tackled player
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Harder: tacklers can try to take the ball once it is placed on the ground / Easier: all defenders, apart from the tackler, have to retreat 7 metres when a tackle is made
+
+**Adaptation U8 proposée :** Transposition U8 : texte anglais traduit pour l'usage local ; effectif de 30 joueurs (3 couloirs de 10) à réduire selon l'effectif ; l'exercice introduit le ruck par la position au-dessus du joueur plaqué (arbitrage 2026-11-20).
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) — World Rugby ; World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine proposition IA) :** [5d   Ruck Touch Rugby   6 v 4](https://www.youtube.com/watch?v=X-1I9EE6uuc).
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : wr-gir ; World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30 ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -8276,6 +9336,8 @@ coach : Se démarquer vers une zone disponible.; duration_min : 8; easier : Deux
 **Variantes conservées séparément :** [Quatre cibles, porteur immobile](#rc-chaos-touch). Quatre cibles et recherche du partenaire libre. Chaos Touch interdit de courir avec le ballon ; Netball prévoit course et passe après toucher. Rapprochement proposé par IA ; score heuristique, pas une probabilité.
 
 **Source principale :** [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — RugbyCoaching.tv ; Description et sous-titres. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine source) :** [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8342,6 +9404,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8404,6 +9468,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 9 — Atelier 5. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8470,6 +9536,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Frog Jump - Alex McHenry | #MoveWithMunster](https://www.youtube.com/watch?v=YbcMMEipqy8).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8532,6 +9600,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
 **Source principale :** [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; PDF page 26. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8599,6 +9669,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [Rugby coaching relay race idea](https://www.youtube.com/watch?v=mbP6jPZ4tAI) — La vidéo (Adrian Bold) montre une idée de course de relais en rugby ; la formule « chaîne » (chaque passe prolonge la chaîne) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8660,6 +9732,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Comparaison éditoriale complémentaire :** [ffr-speedy-partage](#ffr-speedy-partage) — Un ballon chacun contre un ballon disputé ; opposition de possession différente.
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 69. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Exercice SPEED BALLON M8](https://www.youtube.com/watch?v=kYNvfNNrACs).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8724,6 +9798,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 69 — évolution 2. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8778,6 +9854,8 @@ Groupe en file derrière le porteur.
 - Vérifier la capacité du dispositif pour le groupe prévu.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Pass and Support - Follow the Leader — organisation et déroulement. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8845,6 +9923,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — New Zealand Rugby — Rugby Toolbox ; Shadow Run — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Shadow Run](https://www.youtube.com/watch?v=iwwdQ7PaJa8).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -8853,6 +9933,60 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Points d’attention : nz-shadow-source ; COACHING POINTS / Key Coaching Points, archive locale déjà collectée ; 2026-09-16
 
 3 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="jskids-l08-sumo"></a>
+## Sumo 1x1
+
+**Catégories proposées :** Lutte · Duel
+
+**Famille :** Lutte et contact · **Âge source :** 8-10 ans
+
+Face à face à 2 m, mains au sol : au signal, se saisir à bras le corps et repousser l'adversaire chez lui, sans utiliser les jambes.
+
+**Durée pour préparer l’atelier :** 10 min — durée documentaire. Temps d’explication et transitions à vérifier ; ce chiffre n’est pas une durée d’effort continu.
+
+**Objectif — source :** Augmentation de l'engagement individuel au combat
+
+**Matériel — historique non réexaminé :** Affaires de sport usagées
+
+**Effectif minimum — historique non réexaminé :** 2
+
+**Effectif maximum — historique non réexaminé :** 2
+
+**Espace — historique non réexaminé :** Face à face, à 2 m de distance
+
+**Durée de l’atelier — source :** 10
+
+**Organisation — source :** Face à face, distants de 2m, les joueurs sont sur les pieds, les mains posées au sol.
+
+**Déroulement — source :** Au signal, ils saisissent leur adversaire à bras le corps et tentent de le repousser chez lui.
+
+**Consignes — source :** Interdiction d'utiliser les jambes pour faire tomber l'adversaire
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — information manquante :** non indiqué dans le passage examiné
+
+**Adaptation U8 proposée :** Transposition U8 : l'exercice est sourcé pour 8-10 ans ; l'adaptation à la tranche 7-8 ans (U8) est une décision du coach, déclarée ici (arbitrage 2026-11-20).
+
+**Source principale :** [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) — OFSPO (Office fédéral suisse du sport) — programme J+S ; Philippe L'Éthi, chef de discipline J+S Rugby ; J+S-Kids L08 — exercice 2/2 : Sumo 1x1. Vérification documentaire : 2026-11-20.
+
+**Vidéo de l’exercice (origine proposition IA) :** [8 - Sumo-style wrestling to push the ball carrier out of the zone](https://www.youtube.com/watch?v=56hAfCz3Zdo).
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : jskids-l08 ; J+S-Kids L08 — exercice 2/2 : Sumo 1x1 ; 2026-11-20
+
+1 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -8909,6 +10043,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Tag Game - Numbers Tag Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -8977,6 +10113,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [TAG Progressions Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9038,6 +10176,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) — New Zealand Rugby — Rugby Toolbox ; Tap pass Tap — organisation et déroulement. Vérification documentaire : 2026-09-09.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9105,6 +10245,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
 
+**Vidéo — variante (origine proposition IA) :** [THE END OF THE KICK TENNIS FARCE?! | Super Rugby Remove 'Dupont's Law'](https://www.youtube.com/watch?v=V9A09QiFWcU) — La vidéo (Eggchasers Rugby) montre du kick tennis (échanges au pied entre équipes) ; la progression U8 avec élimination et retour n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9121,7 +10263,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="au-kick-tennis"></a>
 ## Tennis au pied avec score
 
-**Catégories proposées :** Jeu au pied · Opposition collective
+**Catégories proposées :** Réception · Jeu au pied · Opposition collective
 
 **Famille :** Jeux de renvoi : main et pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
@@ -9169,6 +10311,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Rugby Australia ; Kick Tennis — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Kick Tennis](https://www.youtube.com/watch?v=Mmh1lFfQyME).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9232,6 +10376,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 13. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9250,7 +10396,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="rc-colour-touch"></a>
 ## Toucher avec rappel des défenseurs par couleur
 
-**Catégories proposées :** Prise d’information · Opposition collective
+**Catégories proposées :** Passe · Prise d’information · Opposition collective
 
 **Famille :** Créer et exploiter un espace en opposition · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
@@ -9296,6 +10442,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Colour Touch Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9363,6 +10511,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) — Rugby Australia ; Partner Tag — ground release progression — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Vidéo — variante (origine proposition IA) :** [Partner tag - Playing for Life Activity Cards](https://www.youtube.com/watch?v=20YIIEZUVHM) — La vidéo (Australian Sports Commission, Playing for Life) montre le « Partner tag » ; la libération au sol après le toucher et l'échange de rôles ne sont pas confirmés.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9433,6 +10583,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 17, atelier 10. Vérification documentaire : 2026-09-06.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9501,6 +10653,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/) — World Rugby ; Evasion gauntlet. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Adaptive Game: Gauntlet](https://www.youtube.com/watch?v=XeEy9weR99o) — La vidéo (England Rugby) montre le jeu « Gauntlet » ; le « déplacement latéral » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9517,7 +10671,7 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 <a id="scot-pass-pal"></a>
 ## Traverser et donner à un partenaire extérieur
 
-**Catégories proposées :** Manipulation du ballon · Coopération · Circulation et transmission
+**Catégories proposées :** Passe · Manipulation du ballon · Coopération · Circulation et transmission
 
 **Famille :** Circulation du ballon et coordination collective · **Âge source :** Primaire (Écosse) ; adéquation U8 à valider
 
@@ -9563,6 +10717,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 11 — Pass to a pal. Vérification documentaire : 2026-09-07.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9630,6 +10786,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Bulldog Touch Rugby](https://www.rugbycoaching.tv/video/bulldog-touch/10001353).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9691,6 +10849,8 @@ Franchir les carrés sans être touché. Les défenseurs restent dans leur carr�
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 19. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9745,6 +10905,8 @@ Trois attaquants contre deux défenseurs.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 3 v 2. Vérification documentaire : 2026-09-08.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9798,6 +10960,8 @@ Trois attaquants, un défenseur et un joueur en attente.
 **Périmètre de l’effectif :** par atelier, attentes comprises
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; 3 v 1. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9864,6 +11028,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 14. Vérification documentaire : 2026-09-07.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -9872,6 +11038,68 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Consignes : scot-primary ; PDF page 14 ; 2026-09-09
 
 2 révision(s) conservée(s) dans les données de l’application.
+
+</details>
+
+[Retour aux catégories](#categories)
+
+---
+
+<a id="ffr-m8-lecture-jeu-11c1"></a>
+## Un plus un contre un, avec un opposant en réserve
+
+**Catégories proposées :** Passe · Soutien · Prise d’information · Opposition collective · Surnombre
+
+**Famille :** Surnombre et soutien face à un opposant · **Âge source :** M8 — guide saison 2022-2023
+
+Situation du guide M8 : deux attaquants contre un défenseur, avec un second défenseur en réserve qui n’intervient qu’en cas de franchissement ; l’avancée se construit dans les espaces libres, en toucher à deux mains (T+2) ou en jeu au contact limité (JCO).
+
+**Durée pour préparer l’atelier :** Budget proposé : 6 à 7,5 min, explications et retours inclus, déplacement vers l’atelier suivant exclu. Proposition IA à ajuster par le coach.
+
+Découpage proposé : explication 60 s ; 3–4 séquences de 60 s ; 30 s entre les séquences ; retour final 60 s.
+
+Pour prolonger : Ajouter une séquence avec une seule consigne ajustée et une pause de retour entre les séquences.
+
+Ces séquences incluent les passages et l’attente éventuelle, pas un effort continu imposé.
+
+**Objectif — source :** Construire l’avancée individuelle dans les espaces libres : le porteur avance et marque dans l’en-but rouge sans se faire toucher/attraper, ou fait marquer son soutien offensif s’il est pris.
+
+**Matériel — historique non réexaminé :** Plots, ballons, chasubles
+
+**Effectif minimum — historique non réexaminé :** 4
+
+**Effectif maximum — historique non réexaminé :** 4
+
+**Espace — historique non réexaminé :** 2 à 3 m entre l’attaquant et l’opposant ; 2 à 3 m entre 2 plots dans la largeur
+
+**Durée de l’atelier — information manquante :** non indiqué dans le passage examiné
+
+**Organisation — source :** Dispositif 1 + 1 contre 1 + 1 : groupe de 4 joueurs M8 (pas plus de 6 pour limiter les temps d’attente) ; 2 à 3 m entre l’attaquant et l’opposant, 2 à 3 m entre 2 plots dans la largeur ; plots, ballons, chasubles.
+
+**Déroulement — source :** Lancement : coup de pied franc ; l’opposant choisit un côté et va toucher un plot avant de venir défendre ; 4 passages avant de changer les statuts.
+
+**Consignes — source :** But : marquer dans l’en-but rouge sans se faire toucher/attraper ; l’opposant défend à touché 2 mains (T+2) ou en jeu au contact limité (JCO) ; si le porteur est bloqué, le soutien offensif peut intervenir ; le second opposant intervient uniquement s’il y a franchissement.
+
+**Critères de réussite — information manquante :** non extrait
+
+**Erreurs fréquentes — information manquante :** non extrait
+
+**Points d’attention — source :** Attendus du porteur : ramasser le ballon, le tenir à deux mains, avancer, aller dans un espace libre et changer de direction si besoin ; marquer ou faire marquer si l’on est pris. Critère de contrôle : le joueur avance dans les espaces libres (oui/non) ; objectif visé : entre 90 et 100 % de réussite en fin de cycle. Situation à pratiquer tout au long de la saison ; évaluation plutôt en fin de saison, sur des situations jouées, des rencontres ou ce dispositif.
+
+**À décider pour la séance :**
+
+- Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
+
+**Source principale :** [Guide de l’éducateur M8 — rubrique « Lecture du jeu », dispositif 1 + 1 contre 1 + 1](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) — Fédération Française de Rugby ; Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1. Vérification documentaire : 2026-11-24.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
+<details>
+<summary>Provenance par rubrique et historique</summary>
+
+- Objectif, Organisation, Déroulement, Consignes, Points d’attention, Durée de l’atelier : ffr-m8-lecture-jeu-2022-23 ; Guide M8 — rubrique Lecture du jeu : dispositif 1 + 1 contre 1 + 1 ; 2026-11-24
+
+1 révision(s) conservée(s) dans les données de l’application.
 
 </details>
 
@@ -9919,6 +11147,8 @@ Trois équipes de cinq par couloir, deux sur une rive.
 **Variantes conservées séparément :** [Passes latérales en vagues de trois](#rc-lateral-three). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Relays with Passing. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -9973,6 +11203,8 @@ Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jo
 **Périmètre de l’effectif :** un terrain : douze porteurs et quatre défenseurs ; option source neuf plus trois
 
 **Source principale :** [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — School Games ; Rugby union - team tag — Getting started. Vérification documentaire : 2026-09-10.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -10031,6 +11263,8 @@ Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jo
 **Comparaison éditoriale complémentaire :** [rc-tagmania](#rc-tagmania) — La deuxième situation des sous-titres TAG Progressions décrit toucher au ballon puis délivrance sous les bras : même mécanisme que Scarecrow. Ne pas compter la fiche composite comme une nouvelle variante individuelle.
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Section Scarecrow Tag. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Play Scarecrow Tag! A seasonal tag game! #physed #taggames](https://www.youtube.com/watch?v=mUb9PrrZp1I) — La vidéo (PE Learn & Play) montre le « Scarecrow Tag » ; la « délivrance » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -10101,6 +11335,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Team Scarecrow Tag Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
@@ -10167,6 +11403,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Lister et préparer le matériel nécessaire.
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 15 — Teaching Cues. Vérification documentaire : 2026-09-06.
+
+**Vidéo — variante (origine proposition IA) :** [Family Fitness Fun for Homeschool - Flamingo Stance](https://www.youtube.com/watch?v=gRqnNQ2dlQc) — La vidéo (Fitivities) montre la posture du flamant en fitness familial ; la version Munster (jeu avec ballon) n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>
@@ -10235,6 +11473,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [UFOs](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) — Rugby Australia ; UFOs — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

@@ -53,6 +53,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Passer sur appel dans un espace partagé](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

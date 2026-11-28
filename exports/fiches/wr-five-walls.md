@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Évitement · Opposition collective
+**Catégories proposées :** Passe · Évitement · Opposition collective
 
 **Famille :** Surnombre et soutien face à un opposant · **Âge source :** Initiation ; âge non précisé
 
@@ -37,6 +37,8 @@ Deux groupes de cinq attaquants alternent ; cinq défenseurs espacés de cinq m�
 **Périmètre de l’effectif :** par couloir : dix attaquants en deux groupes et cinq défenseurs
 
 **Source principale :** [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) — World Rugby ; Passing - 5 v 1 x 5 — organisation et déroulement. Vérification documentaire : 2026-09-08.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

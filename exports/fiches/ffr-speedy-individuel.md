@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 69. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Exercice SPEED BALLON M8](https://www.youtube.com/watch?v=kYNvfNNrACs).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

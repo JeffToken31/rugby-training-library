@@ -38,6 +38,8 @@ Douze porteurs et quatre défenseurs ; défenseurs en cercle au centre, mains jo
 
 **Source principale :** [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) — School Games ; Rugby union - team tag — Getting started. Vérification documentaire : 2026-09-10.
 
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

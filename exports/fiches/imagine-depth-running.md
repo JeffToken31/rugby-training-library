@@ -54,6 +54,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Imagine Rugby / Youth Rugby Initiative ; Carte Depth Running — How to Play ; page non vérifiée, texte public indexé consulté le 16 septembre 2026. Vérification documentaire : 2026-09-14.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Rookie Rugby Games: Depth Running](https://www.youtube.com/watch?v=7pgLkb5TuQw).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -2,6 +2,7 @@
 import copy
 import hashlib
 import json
+import re
 from collections import Counter
 from pathlib import Path
 import catalogue_v2 as v2
@@ -124,6 +125,23 @@ def build(db, root, config):
             e["warmup_usage"] = assignments.get(e["id"])
         payload["warmup_collection"] = uses
         payload["policy"]["collection"] = "TARGETED_WARMUPS"
+    if config.get("media_links"):
+        media = read(root / config["media_links"])
+        links = unique(media["links"], "variant_id")
+        if set(links) != ids:
+            raise ValueError("Lien vidéo hors corpus")
+        for link in links.values():
+            if link["url"] is None:
+                if link["origin"] is not None or link["title"] is not None or link["is_variant"] or link["variant_note"]:
+                    raise ValueError("Lien nul incohérent : " + link["variant_id"])
+            else:
+                if not re.match(r"^https?://", link["url"]):
+                    raise ValueError("URL de lien vidéo invalide : " + link["variant_id"])
+                if link["origin"] not in ("SOURCE", "AI_INFERRED", "USER_REPORTED"):
+                    raise ValueError("Origine de lien vidéo inconnue : " + link["variant_id"])
+                if link["is_variant"] and not link["variant_note"]:
+                    raise ValueError("Variante sans note explicative : " + link["variant_id"])
+        payload["media_links"] = links
     payload["content_sha256"] = hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode()).hexdigest()
     return payload
 
@@ -131,6 +149,17 @@ def export(db, root, out, config):
     payload = build(db, root, config)
     out = Path(out)
     (out / "APPLICATION.json").write_text(json.dumps(payload, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    if config.get("consolidation_review"):
+        # m2 (tranché le 2026-11-22) : le catalogue unifié est le seul chemin
+        # de rendu. La chirurgie ci-dessous (tags dans CATEGORIES/CATALOGUE,
+        # table QUALITE, compléments par fiche) serait une écriture morte —
+        # ses fichiers étant remplacés par les stubs de redirection de
+        # unified_catalogue.export — donc on court-circuite dès l'export
+        # d'APPLICATION.json. L'information par fiche survit dans les fiches
+        # unifiées ; seule la table agrégée QUALITE est perdue.
+        import unified_catalogue
+        unified_catalogue.export(payload, out)
+        return payload["summary"]
     if "tag_taxonomy" in payload:
         import exercise_tags
         exercise_tags.export(payload, out)
@@ -169,7 +198,4 @@ def export(db, root, out, config):
     if config.get("timings"):
         import timing
         timing.export(payload, out)
-    if config.get("consolidation_review"):
-        import unified_catalogue
-        unified_catalogue.export(payload, out)
     return payload["summary"]

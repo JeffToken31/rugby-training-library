@@ -1,0 +1,2214 @@
+/* Tokens de la maquette validée (mockups/rapport-ui-ux.md).
+   Clair d'abord ; sombre en variables [data-theme="dark"].
+   Grille 8pt, cibles ≥ 44px, base 16px, safe-area iPhone, 100dvh. */
+
+:root {
+  --bg: #ffffff;
+  --bg-subtle: #f4f5f3;
+  --ink: #16181d;        /* ≈ 17:1 sur blanc */
+  --ink-2: #3f4a5a;      /* ≈ 9:1  */
+  --ink-3: #5c6675;      /* ≈ 5.8:1 */
+  --line: #e2e5e0;
+  --accent: #0b5d3b;     /* vert rugby, ≈ 7.9:1 sur blanc */
+  --accent-ink: #ffffff;
+  --accent-soft: #e3f0e9;
+  --focus: #0b5d3b;
+
+  /* Paires de badges validées (texte/fond contrastés). */
+  --badge-amber-t: #6b4300;
+  --badge-amber-b: #fff3d6;
+  --badge-red-t: #8a1c1c;
+  --badge-red-b: #fde8e8;
+  --badge-slate-t: #2f3e5c;
+  --badge-slate-b: #e9edf4;
+  --badge-green-t: #0b5d3b;
+  --badge-green-b: #e3f0e9;
+
+  --radius: 12px;
+  --safe-top: env(safe-area-inset-top, 0px);
+  --safe-bottom: env(safe-area-inset-bottom, 0px);
+}
+
+[data-theme="dark"] {
+  --bg: #101216;
+  --bg-subtle: #171a20;
+  --ink: #f2f4f6;
+  --ink-2: #c3cad4;
+  --ink-3: #98a1ad;
+  --line: #2a2f37;
+  --accent: #45c48a;
+  --accent-ink: #101216;
+  --accent-soft: #1d2f27;
+  --focus: #45c48a;
+  --badge-amber-t: #f5d792;
+  --badge-amber-b: #3a2c10;
+  --badge-red-t: #f2a3a3;
+  --badge-red-b: #3d1a1a;
+  --badge-slate-t: #b9c6de;
+  --badge-slate-b: #232c3c;
+  --badge-green-t: #8fd8b4;
+  --badge-green-b: #17352a;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background: var(--bg);
+  color: var(--ink);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.45;
+  -webkit-font-smoothing: antialiased;
+}
+
+button,
+input {
+  font: inherit;
+  color: inherit;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
+
+/* ---- Cadre applicatif ------------------------------------------------- */
+
+.app {
+  max-width: 520px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  background: var(--bg);
+}
+
+.app-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  padding: calc(8px + var(--safe-top)) 16px 8px;
+  background: var(--bg);
+  border-bottom: 1px solid var(--line);
+}
+
+.app-title-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-height: 44px;
+}
+
+.app-title {
+  font-size: 18px;
+  font-weight: 700;
+  margin: 0;
+  flex: 1;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.theme-btn {
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  cursor: pointer;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.back-btn {
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  cursor: pointer;
+}
+
+.search-input {
+  width: 100%;
+  height: 48px;
+  margin-top: 8px;
+  padding: 0 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 16px; /* ≥ 16px : pas de zoom automatique iOS */
+}
+
+.toolbar-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.filters-btn {
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.count {
+  flex: 1;
+  text-align: right;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+/* ---- Liste (S1) --------------------------------------------------------- */
+
+.app-main {
+  flex: 1;
+  padding: 16px 16px calc(16px + var(--safe-bottom));
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.card {
+  display: block;
+  width: 100%;
+  text-align: left;
+  padding: 14px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  cursor: pointer;
+}
+
+.card:hover {
+  border-color: var(--accent);
+}
+
+.card-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+  min-height: 22px;
+}
+
+.badge {
+  display: inline-block;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.badge-amber { color: var(--badge-amber-t); background: var(--badge-amber-b); }
+.badge-red   { color: var(--badge-red-t);   background: var(--badge-red-b); }
+.badge-slate { color: var(--badge-slate-t); background: var(--badge-slate-b); }
+.badge-green { color: var(--badge-green-t); background: var(--badge-green-b); }
+
+.card-title {
+  font-size: 17px;
+  font-weight: 700;
+  margin: 0 0 4px;
+}
+
+.card-summary {
+  margin: 0 0 8px;
+  color: var(--ink-2);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-bottom: 8px;
+}
+
+.tag {
+  font-size: 12.5px;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 2px 10px;
+}
+
+.card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 13.5px;
+  color: var(--ink-3);
+}
+
+.meta-dot::before {
+  content: "·";
+  margin-right: 8px;
+}
+
+.load-more-btn {
+  align-self: center;
+  min-height: 44px;
+  padding: 0 24px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* ---- Aucun résultat (S4) ---------------------------------------------- */
+
+.empty {
+  text-align: center;
+  padding: 48px 16px;
+  color: var(--ink-2);
+}
+
+.empty h2 {
+  font-size: 18px;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.empty p {
+  margin: 0 0 16px;
+  color: var(--ink-3);
+}
+
+/* ---- Squelettes (S5) ---------------------------------------------------- */
+
+.skeleton {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: linear-gradient(90deg, var(--bg-subtle) 25%, var(--line) 50%, var(--bg-subtle) 75%);
+  background-size: 200% 100%;
+  animation: shimmer 1.2s infinite linear;
+}
+
+.skeleton-line { height: 16px; margin-bottom: 8px; }
+.skeleton-card { height: 120px; }
+
+@keyframes shimmer {
+  from { background-position: 200% 0; }
+  to { background-position: -200% 0; }
+}
+
+/* ---- Feuille de filtres (S2) ------------------------------------------- */
+
+.sheet-backdrop {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.35);
+  z-index: 30;
+}
+
+.sheet {
+  position: fixed;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  width: 100%;
+  max-width: 520px;
+  max-height: 85dvh;
+  overflow-y: auto;
+  background: var(--bg);
+  border-radius: 16px 16px 0 0;
+  border-top: 1px solid var(--line);
+  padding: 8px 16px calc(16px + var(--safe-bottom));
+  z-index: 31;
+}
+
+.sheet-handle {
+  width: 40px;
+  height: 4px;
+  border-radius: 2px;
+  background: var(--line);
+  margin: 8px auto 16px;
+}
+
+.sheet h2 {
+  font-size: 18px;
+  margin: 0 0 16px;
+}
+
+.sheet fieldset {
+  border: 0;
+  padding: 0;
+  margin: 0 0 16px;
+}
+
+.sheet legend {
+  font-weight: 700;
+  font-size: 14px;
+  color: var(--ink-2);
+  padding: 0;
+  margin-bottom: 8px;
+}
+
+.chips {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.chip {
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  cursor: pointer;
+}
+
+.chip[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.chip-count {
+  margin-left: 4px;
+  font-size: 0.8em;
+  opacity: 0.65;
+  font-variant-numeric: tabular-nums;
+}
+
+.switch-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 16px;
+  min-height: 56px;
+  padding: 0 4px;
+  border: 0;
+  background: none;
+  width: 100%;
+  text-align: left;
+  cursor: pointer;
+}
+
+.switch-label {
+  flex: 1;
+}
+
+.switch-track {
+  position: relative;
+  width: 52px;
+  height: 32px;
+  flex: none;
+  border-radius: 999px;
+  background: var(--line);
+  transition: background 120ms;
+}
+
+.switch-thumb {
+  position: absolute;
+  top: 4px;
+  left: 4px;
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: #ffffff;
+  transition: transform 120ms;
+}
+
+.switch-row[aria-checked="true"] .switch-track {
+  background: var(--accent);
+}
+
+.switch-row[aria-checked="true"] .switch-thumb {
+  transform: translateX(20px);
+}
+
+.match-row {
+  margin: 0 0 16px;
+  font-size: 14px;
+  color: var(--ink-2);
+}
+
+.match-group {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.match-btn {
+  min-height: 44px;
+  flex: 1;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  cursor: pointer;
+  font-size: 14px;
+}
+
+.match-btn[aria-pressed="true"] {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.sheet-footer {
+  display: flex;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.reset-btn {
+  min-height: 48px;
+  padding: 0 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  cursor: pointer;
+}
+
+.apply-btn {
+  flex: 1;
+  min-height: 48px;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* ---- Fiche (S3) ---------------------------------------------------------- */
+
+.fiche {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.fiche h2.fiche-title {
+  font-size: 22px;
+  margin: 8px 0 0;
+}
+
+.original-title {
+  margin: 0;
+  color: var(--ink-3);
+  font-style: italic;
+}
+
+.fiche-summary {
+  margin: 0;
+  color: var(--ink-2);
+}
+
+.block {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--bg);
+}
+
+.block h3 {
+  display: flex;
+  align-items: baseline;
+  flex-wrap: wrap;
+  gap: 8px;
+  font-size: 15px;
+  margin: 0 0 8px;
+  color: var(--ink);
+}
+
+.block h3 .origin-tag {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 2px 8px;
+}
+
+.block p {
+  margin: 0 0 8px;
+}
+
+.block p:last-child {
+  margin-bottom: 0;
+}
+
+.note {
+  font-size: 13.5px;
+  color: var(--ink-3);
+}
+
+.extend {
+  font-weight: 600;
+}
+
+.profile {
+  margin: 0 0 8px;
+  padding-left: 20px;
+}
+
+.profile li {
+  margin-bottom: 4px;
+}
+
+/* Rubriques cœur + secondaires compactes. */
+.field-value {
+  margin: 0;
+  white-space: pre-wrap;
+}
+
+.compact-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.compact-cell {
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+  padding: 8px 10px;
+  font-size: 14px;
+}
+
+.compact-cell dt {
+  font-size: 12.5px;
+  color: var(--ink-3);
+  margin: 0 0 2px;
+}
+
+.compact-cell dd {
+  margin: 0;
+  font-weight: 600;
+}
+
+/* Valeurs structurées du corpus (objets / tableaux) — rendu perte-zéro. */
+.value-list {
+  margin: 4px 0 0;
+  padding-left: 20px;
+}
+.value-list li {
+  margin: 0 0 4px;
+}
+.value-entries {
+  margin: 4px 0 0;
+  display: grid;
+  gap: 6px;
+}
+.value-entry dt {
+  font-size: 12.5px;
+  color: var(--ink-3);
+  margin: 0 0 2px;
+}
+.value-entry dd {
+  margin: 0;
+}
+
+/* Informations non documentées : pointillé distinctif. */
+.unknown {
+  border-style: dashed;
+  background: var(--bg-subtle);
+}
+
+.unknown ul {
+  margin: 0;
+  padding-left: 20px;
+}
+
+.unknown li {
+  margin-bottom: 4px;
+}
+
+.unknown em {
+  color: var(--ink-3);
+}
+
+/* Médias. */
+.media-video a {
+  color: var(--accent);
+  font-weight: 700;
+}
+
+.capture-ok {
+  color: var(--badge-green-t);
+}
+
+.capture-no {
+  color: var(--ink-3);
+}
+
+.no-media {
+  color: var(--ink-3);
+  font-size: 14px;
+}
+
+/* Conseils coach (Lot 7) : ligne d'origine avec le badge de provenance
+   (même identité visuelle que les h3) et état vide sobre. */
+.conseil + .conseil {
+  margin-top: 14px;
+}
+.conseil-origin {
+  margin: 0 0 6px;
+}
+.conseil-origin .origin-tag {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-radius: 999px;
+  padding: 2px 8px;
+  margin-right: 4px;
+}
+.conseil-vide {
+  font-style: italic;
+  color: var(--ink-3);
+}
+
+/* Bloc source repliable (fermé par défaut). */
+.source-block {
+  border: 0;
+  background: none;
+  padding: 0;
+}
+
+.source-block summary {
+  list-style: none;
+  cursor: pointer;
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  font-weight: 600;
+  color: var(--ink-2);
+}
+
+.source-block summary::-webkit-details-marker {
+  display: none;
+}
+
+.source-block summary::before {
+  content: "›";
+  margin-right: 8px;
+  transition: transform 120ms;
+}
+
+.source-block[open] summary::before {
+  transform: rotate(90deg);
+}
+
+.source-block a {
+  color: var(--accent);
+}
+
+.source-sub {
+  margin-top: 8px;
+  padding-top: 8px;
+  border-top: 1px solid var(--line);
+}
+
+.fiche-error {
+  padding: 24px;
+  text-align: center;
+  color: var(--badge-red-t);
+}
+
+/* ---- Pied de liste : action primaire ------------------------------------ */
+
+.bottom-cta {
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 100%;
+  max-width: 520px;
+  padding: 8px 16px calc(8px + var(--safe-bottom));
+  background: var(--bg);
+  border-top: 1px solid var(--line);
+  z-index: 20;
+}
+
+.bottom-cta button {
+  width: 100%;
+  min-height: 48px;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* ---- Constructeur de séance (S6) --------------------------------------- */
+
+.seance {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+.seance-head,
+.seance-blocks,
+.seance-notes,
+.seance-check {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--bg);
+}
+
+.seance h2 {
+  font-size: 16px;
+  margin: 0 0 12px;
+}
+
+.field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  min-width: 0;
+}
+
+.field-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--ink-3);
+}
+
+.text-input,
+.num-input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 16px; /* ≥ 16px : pas de zoom automatique iOS */
+}
+
+.num-input {
+  text-align: right;
+  font-variant-numeric: tabular-nums;
+}
+
+.field-row {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.field-row .field {
+  flex: 1;
+}
+
+.total-players {
+  min-height: 44px;
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+/* Groupes dynamiques : cellules avec effectif + suppression (cible ≥ 44px
+   pour le pouce), et le total passe à la ligne si les groupes déboitent. */
+.groups-row {
+  flex-wrap: wrap;
+}
+
+.group-cell {
+  flex: 1 1 150px;
+}
+
+.group-cell-row {
+  display: flex;
+  gap: 6px;
+  align-items: stretch;
+  margin-top: 6px;
+}
+
+.group-cell-row .num-input {
+  flex: 1;
+  min-width: 0;
+}
+
+/* Joueurs nommés d'un groupe (lot L3, v1.1) : chips réutilisables du
+   pattern « affectation » ; le total du groupe dérive des noms. */
+.group-joueurs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.group-joueurs .assigned-chip {
+  min-height: 34px;
+  padding: 0 12px;
+  font-size: 13px;
+}
+
+/* Cases de présence à l’attachement (lot P5, workflows 2026-11-26) : une
+   case par joueur de l’équipe attachée, en ruban enroulable sur
+   téléphone — un joueur décoché est retiré de tous les groupes. */
+.presence-block {
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px dashed var(--line);
+}
+
+.presence-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 6px;
+}
+
+.presence-item {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 34px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--ink);
+  font-size: 13px;
+  cursor: pointer;
+  user-select: none;
+}
+
+.presence-item input {
+  margin: 0;
+  width: 16px;
+  height: 16px;
+  cursor: pointer;
+}
+
+.num-input:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+/* Bannière de divergence nommés/déclarés (lot L3, v1.1) : les deux valeurs
+   coexistent dans la séance ; la validation compte les `players`. */
+.divergence-banner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  padding: 10px 12px;
+  border: 1px solid var(--badge-amber-t);
+  border-radius: var(--radius);
+  background: var(--badge-amber-b);
+  color: var(--badge-amber-t);
+  font-size: 14px;
+}
+
+/* Cadrage 07 (Q3) : bannière de repli — le builder ne crée plus d'équipe
+   ni de coach ; tout se gère depuis la page /club. */
+.club-banner {
+  margin-top: 10px;
+  padding: 10px 12px;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  color: var(--ink-2);
+  font-size: 14px;
+}
+
+.club-banner a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Équipe d'effectif + « coachs disponibles » (tranché 2026-11-22). */
+.select-input {
+  width: 100%;
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 16px; /* ≥ 16px : pas de zoom automatique iOS */
+}
+
+.team-block {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line);
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.team-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.team-row .select-input {
+  flex: 1;
+  min-width: 0;
+}
+
+.link-btn {
+  flex: none;
+  min-height: 44px;
+  padding: 0 12px;
+  border: none;
+  background: none;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.team-snapshot {
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.coach-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.coach-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+  min-height: 44px;
+  cursor: pointer;
+  font-size: 15px;
+}
+
+.coach-row input[type="checkbox"] {
+  width: 22px;
+  height: 22px;
+  margin: 0;
+}
+
+.coach-name {
+  font-weight: 600;
+}
+
+.coach-club {
+  color: var(--ink-3);
+  font-size: 13px;
+}
+
+/* v1.1 (2026-11-24) : coachs sans compte — ajout par nom, sélection par
+   séance (principal) et par bloc (en charge). */
+.coach-add-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.coach-add-row input {
+  flex: 1 1 140px;
+  min-width: 0;
+}
+
+.seance-block-coach {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+}
+
+.seance-block-coach select {
+  flex: 1;
+}
+
+.pdf-charge {
+  font-size: 12px;
+  font-weight: 600;
+  color: #16181d;
+  margin: 0 0 6px;
+}
+
+.form-error {
+  color: var(--badge-red-t);
+  font-size: 14px;
+}
+
+/* Lien WhatsApp offert après un partage qui nécessite un complément. */
+.share-link {
+  display: inline-block;
+  min-height: 44px;
+  line-height: 44px;
+  color: var(--accent);
+  font-size: 15px;
+  font-weight: 600;
+}
+
+/* Minutage dérivée : quatre tuiles recalculées à chaque frappe. */
+.seance-stats {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 8px;
+}
+
+.stat-tile {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 10px 12px;
+  background: var(--bg);
+}
+
+.stat-value {
+  font-size: 20px;
+  font-weight: 700;
+  font-variant-numeric: tabular-nums;
+}
+
+.stat-label {
+  font-size: 12.5px;
+  color: var(--ink-3);
+}
+
+.stat-hint {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--badge-amber-t);
+}
+
+.stat-neg .stat-value,
+.stat-neg .stat-label {
+  color: var(--badge-red-t);
+}
+
+/* Timeline verticale des blocs. */
+.timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.seance-block {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 12px;
+  background: var(--bg-subtle);
+}
+
+.seance-block-head {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin-bottom: 10px;
+}
+
+.kind-badge {
+  flex: none;
+  font-size: 12px;
+  font-weight: 700;
+  padding: 3px 10px;
+  border-radius: 999px;
+}
+
+.kind-OPPOSITION { color: var(--badge-green-t); background: var(--badge-green-b); }
+.kind-WORKSHOPS  { color: var(--badge-slate-t); background: var(--badge-slate-b); }
+.kind-JEU        { color: var(--badge-amber-t); background: var(--badge-amber-b); }
+.kind-WARMUP     { color: var(--ink-2); background: var(--bg-subtle); border: 1px solid var(--line); }
+.kind-PAUSE      { color: var(--ink-3); background: var(--bg-subtle); border: 1px solid var(--line); }
+
+.block-label {
+  flex: 1;
+  min-width: 0;
+  min-height: 44px;
+  padding: 0 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  font-weight: 600;
+}
+
+.block-delete {
+  flex: none;
+  min-width: 44px;
+  min-height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  color: var(--badge-red-t);
+  font-size: 18px;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.workshops {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.rotation {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 10px;
+  background: var(--bg);
+}
+
+.rotation-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 8px;
+}
+
+.rotation-title {
+  font-size: 14px;
+  font-weight: 700;
+}
+
+.rotation-foot {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.add-round-btn {
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* Affectation simultanée : un tap réattribue l'exercice du slot. */
+.slot-row {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  width: 100%;
+  min-height: 44px;
+  margin-top: 8px;
+  padding: 8px 12px;
+  border: 1px dashed var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  text-align: left;
+  cursor: pointer;
+}
+
+.slot-who {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.slot-exercise {
+  font-size: 14px;
+  color: var(--ink-2);
+}
+
+.simple-block {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.assigned-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.assigned-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  min-height: 44px;
+  padding: 0 14px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.chip-x {
+  font-size: 16px;
+}
+
+.add-block-title {
+  font-size: 14px;
+  margin: 16px 0 8px;
+  color: var(--ink-2);
+}
+
+.add-block-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.add-block-btn {
+  min-height: 44px;
+  padding: 0 14px;
+  border: 1px dashed var(--accent);
+  border-radius: 999px;
+  background: var(--bg);
+  color: var(--accent);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.note-text {
+  margin: 0 0 8px;
+}
+
+.seance-notes ul,
+.check-errs,
+.check-warns {
+  margin: 8px 0;
+  padding-left: 20px;
+}
+
+.check-ok {
+  margin: 0 0 8px;
+  color: var(--badge-green-t);
+  font-weight: 600;
+}
+
+.check-diverge {
+  color: var(--badge-amber-t);
+}
+
+.check-errs li {
+  color: var(--badge-red-t);
+  margin-bottom: 4px;
+}
+
+.check-warns li {
+  color: var(--badge-amber-t);
+  margin-bottom: 4px;
+}
+
+.check-actions {
+  margin: 12px 0;
+}
+
+.check-err-text {
+  margin: 4px 0;
+  color: var(--badge-red-t);
+}
+
+.check-warn-text {
+  margin: 4px 0;
+  color: var(--badge-amber-t);
+}
+
+.seance-server-result {
+  border-top: 1px solid var(--line);
+  padding-top: 8px;
+}
+
+/* Picker d'exercice (feuille, même gabarit que les filtres S2). */
+.picker-list {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.picker-empty {
+  margin: 0;
+  padding: 16px 0;
+  text-align: center;
+  color: var(--ink-3);
+}
+
+.picker-row {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 4px;
+  width: 100%;
+  min-height: 44px;
+  padding: 10px 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  text-align: left;
+  cursor: pointer;
+}
+
+.picker-row:hover {
+  border-color: var(--accent);
+}
+
+.picker-meta {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  font-size: 13px;
+  color: var(--ink-3);
+}
+
+/* ---- Lot 4 : sauvegarde et reprise ------------------------------------- */
+
+/* Bandeau de reprise : un brouillon existe, on choisit explicitement. */
+.draft-banner {
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--accent-soft);
+}
+
+.draft-banner p {
+  margin: 0 0 10px;
+  font-weight: 600;
+}
+
+.draft-banner-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.draft-banner-actions .reset-btn {
+  flex: 1;
+}
+
+.seance-save {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--bg);
+}
+
+.save-status {
+  margin: 0 0 8px;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.seance-save .check-actions .reset-btn {
+  flex: 1;
+}
+
+/* ---- Lot 5 : compte (header, /connexion, sauvegarde) ------------------- */
+
+/* Header : identité du compte (chip + déconnexion) ou lien « Espace coach ».
+   Cibles ≥ 44 px comme le reste du header. */
+.compte-chip {
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--accent);
+  /* Lot L2 (cadrage 06) : la chip est le lien vers /club — même coloration
+     accent que .compte-link, sans soulignement (l'accent suffit, comme
+     l'autre lien du header). */
+  text-decoration: none;
+}
+
+/* Lot club : libellé du club dans la chip, atténué (le login reste l'info
+   principale). */
+.compte-chip-sub {
+  font-weight: 400;
+  color: var(--ink-3);
+}
+
+.compte-logout,
+.compte-link {
+  min-height: 44px;
+  padding: 0 12px;
+  display: inline-flex;
+  align-items: center;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-size: 14px;
+  text-decoration: none;
+  color: var(--ink);
+}
+
+.compte-link {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* /connexion : carte, onglets connexion/inscription, champs. */
+.connexion-card {
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  padding: 14px;
+  background: var(--bg);
+}
+
+.connexion-tabs {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 14px;
+}
+
+.connexion-tab {
+  flex: 1;
+  min-height: 48px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-weight: 600;
+  cursor: pointer;
+  color: var(--ink-2);
+}
+
+.connexion-tab.active {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.connexion-form {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.connexion-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+/* 16 px sur l'input : pas de zoom automatique sur iPhone. */
+.connexion-field input,
+.connexion-field select {
+  height: 48px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  font-size: 16px;
+  color: var(--ink);
+}
+
+.connexion-aide {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--ink-3);
+}
+
+.connexion-error {
+  margin: 0;
+  color: var(--badge-red-t);
+  font-size: 14px;
+}
+
+.connexion-submit {
+  display: block;
+  min-height: 48px;
+  border: 0;
+  border-radius: var(--radius);
+  background: var(--accent);
+  color: var(--accent-ink);
+  font-weight: 700;
+  text-align: center;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.connexion-note {
+  margin: 14px 0 0;
+  font-size: 13px;
+  color: var(--ink-3);
+}
+
+/* État « déjà connecté » : pas de formulaire trompeur (retour user 2026-11-20). */
+.connexion-connected {
+  margin: 0 0 10px;
+  font-size: 15px;
+}
+
+/* Lot club : club / catégorie affichés atténués derrière l'identifiant. */
+.connexion-sub {
+  color: var(--ink-3);
+  font-weight: 400;
+}
+
+.connexion-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  margin-top: 16px;
+}
+
+.connexion-ghost {
+  min-height: 48px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: transparent;
+  color: var(--ink-2);
+  font-weight: 600;
+  cursor: pointer;
+}
+
+/* Section « Sauvegarde » : sous-bloc compte (brouillons et propositions). */
+.compte-seance {
+  margin-top: 14px;
+  padding-top: 14px;
+  border-top: 1px solid var(--line);
+}
+
+.compte-seance h3 {
+  margin: 0 0 8px;
+  font-size: 16px;
+}
+
+.compte-liste {
+  margin-top: 12px;
+}
+
+.compte-liste h4 {
+  margin: 0 0 6px;
+  font-size: 14px;
+  color: var(--ink-2);
+}
+
+.compte-ligne {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.compte-ligne-titre {
+  flex: 1;
+  min-width: 0;
+  font-size: 14px;
+}
+
+.compte-ligne-titre small {
+  display: block;
+  font-size: 12px;
+  color: var(--ink-3);
+}
+
+.compte-ligne-actions {
+  display: flex;
+  gap: 8px;
+}
+
+.compte-ligne-actions button {
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.compte-ligne-actions button.danger {
+  color: var(--badge-red-t);
+  border-color: var(--badge-red-t);
+}
+
+/* Invitation discrète pour les visiteurs (non connectés). */
+.compte-invite {
+  margin: 12px 0 0;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.compte-invite a {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* Lot 7 — vue « fiche de séance terrain » rendue hors écran puis capturée en
+   PDF (html2canvas + jsPDF). Couleurs claires explicites en dur : le PDF doit
+   rester lisible et clair quelle que soit la thème de l'app sur le téléphone
+   (on n'utilise PAS les variables de thème sombre de l'app). Le .pdf-holder
+   est repoussé hors écran : le coach ne le voit jamais, seul le canvas le lit.
+   Largeur 794px = A4 (210mm) à 96 DPI. */
+.pdf-holder {
+  position: fixed;
+  left: -100000px;
+  top: 0;
+  width: 794px;
+  z-index: -1;
+}
+.pdf-sheet {
+  width: 794px;
+  background: #ffffff;
+  color: #16181d;
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  font-size: 14px;
+  line-height: 1.4;
+  padding: 40px 44px;
+}
+.pdf-title {
+  font-size: 24px;
+  margin: 0 0 6px;
+  font-weight: 700;
+  color: #16181d;
+}
+.pdf-meta {
+  font-size: 13px;
+  color: #3f4a5a;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+.pdf-minut {
+  display: flex;
+  gap: 12px;
+  margin-top: 14px;
+}
+.pdf-minut div {
+  flex: 1;
+  text-align: center;
+  background: #e3f0e9;
+  border-radius: 8px;
+  padding: 8px 4px;
+  font-size: 12px;
+  color: #3f4a5a;
+}
+.pdf-minut b {
+  display: block;
+  font-size: 20px;
+  color: #0b5d3b;
+  font-weight: 700;
+}
+.pdf-block {
+  margin-top: 18px;
+  border-top: 2px solid #0b5d3b;
+  padding-top: 10px;
+}
+.pdf-block-head {
+  font-size: 15px;
+  margin: 0 0 8px;
+  font-weight: 700;
+  color: #0b5d3b;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+}
+.pdf-rotations {
+  font-size: 12px;
+  color: #5c6675;
+  margin: 0 0 8px;
+}
+.pdf-atelier {
+  margin: 0 0 12px;
+  padding: 10px 12px;
+  background: #f4f5f3;
+  border-radius: 8px;
+}
+.pdf-atelier-title {
+  font-size: 14px;
+  font-weight: 700;
+  margin: 0 0 6px;
+  color: #16181d;
+}
+.pdf-atelier-incomplete {
+  display: inline-block;
+  font-size: 11px;
+  font-weight: 700;
+  color: #8a1c1c;
+  background: #fde8e8;
+  border-radius: 6px;
+  padding: 1px 6px;
+  margin-left: 6px;
+  vertical-align: middle;
+}
+.pdf-field h5 {
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  color: #0b5d3b;
+  margin: 6px 0 2px;
+  font-weight: 700;
+}
+.pdf-field p {
+  margin: 0;
+  font-size: 13px;
+  color: #16181d;
+  white-space: pre-wrap;
+}
+.pdf-details {
+  font-size: 12px;
+  color: #3f4a5a;
+  margin: 6px 0 0;
+}
+.pdf-details div {
+  margin: 2px 0;
+}
+.pdf-details b {
+  color: #16181d;
+}
+/* Conseils coach dans le PDF : origine lisible, fond vert pâle (clair). */
+.pdf-cue {
+  margin: 8px 0 0;
+  padding: 8px 10px;
+  background: #eaf3ee;
+  border-radius: 6px;
+}
+.pdf-cue h5 {
+  font-size: 12px;
+  font-weight: 700;
+  color: #0b5d3b;
+  margin: 0 0 4px;
+}
+.pdf-cue p {
+  margin: 2px 0;
+  font-size: 12.5px;
+  color: #16181d;
+  white-space: pre-wrap;
+}
+.pdf-foot {
+  margin-top: 20px;
+  font-size: 11px;
+  color: #5c6675;
+  border-top: 1px solid #e2e5e0;
+  padding-top: 8px;
+}
+
+/* Aperçu du PDF (v1.1 L1) : la fiche dans la modal — les pages sont les
+   images réelles de la pièce partagée (une par découpe sliceA4). */
+.pdf-preview-note {
+  margin: 0 0 12px;
+  font-size: 13px;
+  color: #5c6675;
+}
+.pdf-preview-pages {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+.pdf-preview-page {
+  width: 100%;
+  height: auto;
+  background: #ffffff;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+}
+
+/* Lot L4 (2026-11-25) : page « club » — dashboard club → coachs + équipes
+   par catégorie ; joueurs en chips prénom + nom (RGPD v1.1). */
+
+.club-loading {
+  margin: 24px 0 0;
+  font-size: 15px;
+  color: var(--ink-3);
+}
+
+.club-header-card {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  padding: 14px 16px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+}
+
+.club-header-name {
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.club-view {
+  font-size: 12.5px;
+  font-weight: 500;
+  color: var(--ink-2);
+}
+
+.club-badge {
+  padding: 3px 10px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink-2);
+}
+
+/* Lot P4 (2026-11-26) : bascule « tout » de la vue « ma catégorie »,
+   même gabarit que le badge de catégorie (carte en tête de page). */
+.club-tout {
+  padding: 3px 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg);
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--ink-2);
+  cursor: pointer;
+}
+
+.club-tout[aria-pressed="true"] {
+  background: var(--bg-subtle);
+}
+
+.club-section {
+  margin-top: 20px;
+}
+
+.club-section-title {
+  font-size: 16px;
+  margin: 0 0 10px;
+}
+
+.club-note {
+  margin: 0;
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.club-err {
+  margin: 8px 0 0;
+  font-size: 14px;
+  color: var(--badge-red-t);
+}
+
+.club-team {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 12px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+}
+
+.club-team-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.club-team-name {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.club-effectif {
+  font-size: 13.5px;
+  color: var(--ink-3);
+}
+
+/* Lot L3 (cadrage 06) — suppression de l'effectif (carte équipe) : bouton
+   discret en fin de ligne, poussé à droite (margin-left auto sur le flex). */
+.club-team-delete {
+  margin-left: auto;
+  min-height: 34px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--ink-2);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.club-team-delete:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.club-players {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.player-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  min-height: 34px;
+  padding: 0 6px 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg-subtle);
+  font-size: 14px;
+}
+
+.player-chip .chip-x {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border: none;
+  border-radius: 999px;
+  background: none;
+  color: var(--ink-3);
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.club-player-add {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.club-player-add input {
+  flex: 1 1 160px;
+  min-width: 0;
+}
+
+.club-prep {
+  align-self: flex-start;
+  min-height: 44px;
+  padding: 0 16px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14.5px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+/* Lot peaufinage C (2026-11-25) : par équipe, deux zones distinctes —
+   « Effectif » (créer/modifier les joueurs) et « Groupes » (groupes nommés
+   librement composés des joueurs de l'effectif). Empilé sur téléphone,
+   deux colonnes quand la largeur le permet (flex + largeur minimale). */
+
+.club-team-zones {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.club-zone {
+  flex: 1 1 260px;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+}
+
+.club-zone-title {
+  margin: 0;
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.club-group-card {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 10px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg);
+}
+
+.club-group-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.club-group-name {
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.club-group-joueurs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.club-group-ajout {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.club-group-add-chip {
+  min-height: 30px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: var(--bg-subtle);
+  font-size: 13px;
+  cursor: pointer;
+}
+
+.club-group-add {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.club-group-add input {
+  flex: 1 1 140px;
+  min-width: 0;
+}
+
+/* Lot peaufinage B (2026-11-25) — identité du club. :where() = spécificité
+   zéro : la 3e couleur ne colore que les liens sans couleur propre ; les
+   liens classés (médias, sources, invite) gardent var(--accent). Sans 3e
+   couleur : inherit → apparence par défaut inchangée. */
+:where(.app a[href]) {
+  color: var(--club-accent, inherit);
+}
+
+.app-logo {
+  flex: none;
+  width: 32px;
+  height: 32px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+.club-logo {
+  flex: none;
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  border-radius: 8px;
+}
+
+/* Formulaires de la section « Identité du club ». */
+.club-couleur {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.club-couleur-label {
+  flex: 1 1 100%;
+  font-size: 14.5px;
+  font-weight: 700;
+}
+
+.club-couleur-pick {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  padding: 2px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  cursor: pointer;
+}
+
+.club-couleur-hex {
+  flex: 0 1 140px;
+  min-width: 0;
+  height: 44px;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+  font-family: ui-monospace, "Cascadia Mono", Consolas, monospace;
+  font-size: 15px;
+  text-transform: lowercase;
+}
+
+.club-couleur-err {
+  flex: 1 1 100%;
+  font-size: 13px;
+  color: var(--badge-red-t);
+}
+
+.club-logo-row {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.club-logo-preview {
+  flex: none;
+  width: 56px;
+  height: 56px;
+  object-fit: contain;
+  border: 1px solid var(--line);
+  border-radius: var(--radius);
+  background: var(--bg-subtle);
+}
+
+.club-logo-fichier {
+  font-size: 14px;
+  color: var(--ink-3);
+}
+
+.club-file-btn {
+  min-height: 44px;
+  padding: 0 14px;
+  border: 1px solid var(--accent);
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 14px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.club-logo-remove {
+  min-height: 44px;
+  padding: 0 12px;
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  background: none;
+  color: var(--ink-2);
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.club-identite-actions {
+  margin-top: 16px;
+}

@@ -54,6 +54,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/) — World Rugby ; Any direction pass tag. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [OMW Kids First Skills Series, Any Direction Tag](https://www.youtube.com/watch?v=oBnwubGWK2w) — La vidéo (England Rugby, Kids First Skills) montre « Any Direction Tag » ; la règle « possession changée au toucher » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

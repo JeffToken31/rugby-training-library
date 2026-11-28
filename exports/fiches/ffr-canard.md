@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) — FFR ; PDF page 8 — Atelier 1. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Stade n°1 - Echauffement : Marche canard - Ecole de rugby](https://www.youtube.com/watch?v=lEVWCzr2j9s).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

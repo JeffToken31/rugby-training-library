@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) — Scottish Rugby ; PDF page 16 — Monkey Walk. Vérification documentaire : 2026-09-07.
 
+**Vidéo — variante (origine proposition IA) :** [Hong Kong Monkey Rugby Club U7 Team enjoys walking & running rugby games on 15th November 2026](https://www.youtube.com/watch?v=accsGC4OeUw) — La vidéo (TAGBY CLUB) montre une équipe U7 (Monkey Rugby Club) en déplacements d'animaux ; la version « trois appuis » n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

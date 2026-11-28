@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) — Imagine Rugby / Youth Rugby Initiative ; Carte Cold & Hot Potato — How to Play ; numéro de page non vérifié. Vérification documentaire : 2026-09-14.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Rookie Rugby - Cold and Hot Potato](https://www.youtube.com/watch?v=hH0VuSprcA8).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Circulation et transmission
+**Catégories proposées :** Passe · Réception · Circulation et transmission
 
 **Famille :** Circulation du ballon et coordination collective · **Âge source :** Under 7 (classement du site)
 
@@ -45,6 +45,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Choisir la durée de l’atelier ; ne pas reprendre la durée d’une vidéo.
 
 **Source principale :** [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-08.
+
+**Vidéo — variante (origine proposition IA) :** [Rugby Passing Drills - Catching Tennis Circle](https://www.youtube.com/watch?v=wnl2g862ImE) — La vidéo (Sportplan) montre un cercle de passes ; la disposition « tournés vers l'extérieur » n'est pas confirmée.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

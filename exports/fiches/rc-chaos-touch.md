@@ -51,6 +51,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [CCRU Game - Chaos Touch Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

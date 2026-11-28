@@ -55,6 +55,8 @@ coach : Choisir un passage libre.; duration_min : 6; easier : Marcher sans ballo
 
 **Source principale :** [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) — Rugby Australia ; Sections Description / Equipment / Change It. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Octopus Tag](https://www.youtube.com/watch?v=K0z_jPbUd4I) — La vidéo (CIRAOntario) montre l'« Octopus Tag » ; les « algues » (rôle des joueurs marqués) ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

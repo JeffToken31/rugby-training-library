@@ -53,6 +53,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [TAG Progressions Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

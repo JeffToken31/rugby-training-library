@@ -42,6 +42,8 @@ Au signal, les numéros appelés ramassent un ballon et rejoignent leur couleur 
 
 **Source principale :** [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) — FFR — Direction Technique Nationale ; Page 66. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine proposition IA) :** [12 - Chercher les espaces libres](https://www.youtube.com/watch?v=qao1HkIGZ1E).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -46,6 +46,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) — New Zealand Rugby — Rugby Toolbox ; DRILL SET-UP et DRILL EXPLANATION. Vérification documentaire : 2026-09-09.
 
+**Vidéo — variante (origine proposition IA) :** [3 - Relais de manipulations (Rugby à 5 Santé)](https://www.youtube.com/watch?v=zxcrAuXMAvc) — La vidéo (série FFR) montre des relais de manipulations ; l'installation spécifique (cinq manipulations) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

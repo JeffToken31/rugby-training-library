@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Coopération · Poursuite et délivrance
+**Catégories proposées :** Passe · Coopération · Course · Poursuite et délivrance
 
 **Famille :** Chasse collective par passes · **Âge source :** Primaire / mini-rugby
 
@@ -52,6 +52,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Rapprochement non résolu :** [Chasseurs passeurs par trois](scot-corner.md). Chasse par passes ; comparer mobilité du porteur et devenir des joueurs touchés. Score heuristique, pas une probabilité.
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 11. Vérification documentaire : 2026-09-06.
+
+**Pas de lien vidéo, pas de variante identifiée :** aucun extrait correspondant n’a été trouvé dans les sources documentaires, ni dans la recherche effectuée lors de la relecture.
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

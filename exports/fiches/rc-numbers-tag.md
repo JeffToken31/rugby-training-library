@@ -49,6 +49,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) — RugbyCoaching.tv ; Description et Video Subtitles de la fiche ; recommandations exclues. Vérification documentaire : 2026-09-07.
 
+**Vidéo de l’exercice (origine source) :** [Tag Game - Numbers Tag Rugby](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Manipulation du ballon · Circulation et transmission
+**Catégories proposées :** Réception · Manipulation du ballon · Circulation et transmission
 
 **Famille :** Passes en binôme et soutien · **Âge source :** U9 (classement du site)
 
@@ -48,6 +48,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 - Définir les limites et dimensions adaptées au groupe.
 
 **Source principale :** [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-06.
+
+**Vidéo de l’exercice (origine source) :** [Rebondir et échanger en binôme](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

@@ -54,6 +54,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity/) — World Rugby ; Evasion gauntlet. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Adaptive Game: Gauntlet](https://www.youtube.com/watch?v=XeEy9weR99o) — La vidéo (England Rugby) montre le jeu « Gauntlet » ; le « déplacement latéral » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

@@ -57,6 +57,8 @@ coach : Se démarquer vers une zone disponible.; duration_min : 8; easier : Deux
 
 **Source principale :** [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068) — RugbyCoaching.tv ; Description et sous-titres. Vérification documentaire : 2026-09-06.
 
+**Vidéo de l’exercice (origine source) :** [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532?ft=ppl&p=3068).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

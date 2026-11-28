@@ -1,7 +1,7 @@
 # État de la bibliothèque
 
-158 fiches ; 149 documentées ; 9 incomplètes.
-158 fiches enrichies ; 92 ressources ; 67 ressources capturées localement.
+173 fiches ; 164 documentées ; 9 incomplètes.
+173 fiches enrichies ; 95 ressources ; 0 ressources capturées localement.
 
 Une fiche documentée n'est pas nécessairement exhaustive ni validée par un coach.
 Les captures restent locales et ne sont pas incluses dans GitHub.
@@ -10,18 +10,18 @@ Les captures restent locales et ne sont pas incluses dans GitHub.
 
 | Champ | Présent | Non extrait | Non indiqué | Bloqué | Contradictoire |
 |---|---:|---:|---:|---:|---:|
-| objectives | 141 | 17 | 0 | 0 | 0 |
-| organisation | 148 | 10 | 0 | 0 | 0 |
-| steps | 149 | 9 | 0 | 0 | 0 |
-| instructions | 149 | 9 | 0 | 0 | 0 |
-| success_criteria | 20 | 138 | 0 | 0 | 0 |
-| common_errors | 7 | 151 | 0 | 0 | 0 |
-| coach_points | 64 | 94 | 0 | 0 | 0 |
-| duration_min | 21 | 65 | 72 | 0 | 0 |
-| players_min | 63 | 70 | 24 | 0 | 1 |
-| players_max | 61 | 70 | 26 | 0 | 1 |
-| space | 51 | 79 | 28 | 0 | 0 |
-| material | 132 | 26 | 0 | 0 | 0 |
+| objectives | 156 | 17 | 0 | 0 | 0 |
+| organisation | 163 | 10 | 0 | 0 | 0 |
+| steps | 164 | 9 | 0 | 0 | 0 |
+| instructions | 166 | 7 | 0 | 0 | 0 |
+| success_criteria | 28 | 145 | 0 | 0 | 0 |
+| common_errors | 15 | 158 | 0 | 0 | 0 |
+| coach_points | 77 | 94 | 2 | 0 | 0 |
+| duration_min | 34 | 63 | 76 | 0 | 0 |
+| players_min | 80 | 68 | 24 | 0 | 1 |
+| players_max | 78 | 68 | 26 | 0 | 1 |
+| space | 66 | 79 | 28 | 0 | 0 |
+| material | 146 | 27 | 0 | 0 | 0 |
 
 Les valeurs historiques présentes peuvent ne pas encore avoir été réexaminées champ par champ.
 
@@ -37,91 +37,94 @@ Une capture enregistrée ne garantit ni un contenu complet ni une extraction pé
 - [Chain Relay](https://australia.rugby/participate/get-into-rugby/activities/activations/chain-relay) : Aucune capture ; pas de tentative enregistrée
 - [Colour Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/colour-tag) : Aucune capture ; pas de tentative enregistrée
 - [Cone Game](https://australia.rugby/participate/get-into-rugby/activities/activations/cone-game) : Aucune capture ; pas de tentative enregistrée
-- [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T12:00:16.356322+00:00 — Vérification robots impossible : 429
+- [Ball Familiarisation](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/ball-familiarisation) : Aucune capture ; pas de tentative enregistrée
 - [Fruit Salad](https://australia.rugby/participate/get-into-rugby/activities/activations/fruit-salad) : Aucune capture ; pas de tentative enregistrée
 - [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) : Aucune capture ; pas de tentative enregistrée
 - [Kick Chase](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-chase) : Aucune capture ; pas de tentative enregistrée
 - [Kick Golf](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-golf) : Aucune capture ; pas de tentative enregistrée
 - [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) : Aucune capture ; pas de tentative enregistrée
-- [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T16:13:05.972186+00:00 — Vérification robots impossible : 429
-- [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T16:08:29.951153+00:00 — Vérification robots impossible : 429
+- [Rob the Nest](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/rob-the-nest) : Aucune capture ; pas de tentative enregistrée
+- [Rugby Octopus](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/rugby-octopus) : Aucune capture ; pas de tentative enregistrée
 - [Passing Overs and Unders](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/passing-overs-and-unders) : Aucune capture ; pas de tentative enregistrée
 - [Partner Tag](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/partner-tag) : Aucune capture ; pas de tentative enregistrée
-- [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-10T06:21:59.142529+00:00 — Vérification robots impossible : 429
+- [Pass and Duck](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/pass-and-duck) : Aucune capture ; pas de tentative enregistrée
 - [Score the Try and Pop Race](https://australia.rugby/participate/get-into-rugby/activities/skills-catch-pass/score-the-try-and-pop-race) : Aucune capture ; pas de tentative enregistrée
 - [UFOs](https://australia.rugby/participate/get-into-rugby/activities/activations/ufos) : Aucune capture ; pas de tentative enregistrée
 - [What’s the Time Mr Wolf?](https://australia.rugby/participate/get-into-rugby/activities/skills-evasion/whats-the-time) : Aucune capture ; pas de tentative enregistrée
-- [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:32.586510+00:00
-- [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:34.380784+00:00
-- [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:35.898964+00:00
-- [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:38.757956+00:00
-- [M8 : échauffement et préparation physique](https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:52.609235+00:00
-- [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T11:59:51.771235+00:00 — Accès interdit par robots.txt
-- [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-08T16:16:07.328507+00:00 — Accès interdit par robots.txt
-- [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:53.626294+00:00
-- [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; dernière tentative : FAILED le 2026-09-08T16:13:04.294461+00:00 — Taille maximale dépassée
-- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-07T17:25:51.993926+00:00 — Accès interdit par robots.txt
+- [Création locale de fiches — plaquage et lutte (lot de novembre 2026)](https://github.com/JeffToken31/rugby-training-library.git) : Aucune capture ; pas de tentative enregistrée
+- [Séance atelier 1 — octobre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-1-octobre-2025-ecole-de-rugby/283498708) : Aucune capture ; pas de tentative enregistrée
+- [Séance atelier 2 — novembre-2025](https://fr.slideshare.net/slideshow/seance-atelier-n-2-ecole-de-rugby-novembre-2025/284074128) : Aucune capture ; pas de tentative enregistrée
+- [Séance atelier 3 — janvier-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-3-ecole-de-rugby-janvier-2026/285036080) : Aucune capture ; pas de tentative enregistrée
+- [Séance atelier 4 — mars-2026](https://fr.slideshare.net/slideshow/seance-atelier-n-4-ecole-de-rugby-mars-2026/286529544) : Aucune capture ; pas de tentative enregistrée
+- [M8 : échauffement et préparation physique](https://formation.ffr.fr/article/m8-situations-dechauffement-et-de-preparation-physique-specifique) : Aucune capture ; pas de tentative enregistrée
+- [Rugby à la maison en famille](https://api.liguenouvelleaquitaine.ffr.fr/wp-content/uploads/2021/04/FFR_rugby_a_la_maison_en_famille.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Guide de l’éducateur M8 — Livret du jeune joueur 2022-2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Guide de l’éducateur M8 — rubrique « Lecture du jeu », dispositif 1 + 1 contre 1 + 1](https://api.www.ffr.fr/wp-content/uploads/2023/04/guide-de-leducateur-moins-de-8-ans-2023.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Ressources M8 du Comité Orne](https://comiteornerugby.ffr.fr/jouer-rugby/ecoles-de-rugby/m8) : Aucune capture ; pas de tentative enregistrée
+- [Plan de formation M8 — septembre 2020](https://formation.ffr.fr/sites/default/files/documents/doc/2020-09/Plan%20de%20formation%20M8_2020-2021.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Plan de formation du joueur M8 — mars 2023](https://api.www.ffr.fr/wp-content/uploads/2023/04/plan-de-formation-m8-2023.pdf) : Aucune capture ; pas de tentative enregistrée
 - [Imagine Rugby Game Cards](https://youthrugbyinitiative.org/wp-content/uploads/2023/11/ir-game-cards.pdf) : Aucune capture ; pas de tentative enregistrée
-- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-16T11:00:12.404795+00:00 — Vérification robots impossible : 403
-- [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:33.602634+00:00
-- [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:41.381553+00:00
-- [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:40.501845+00:00
-- [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:25:52.609709+00:00
-- [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:36.143783+00:00
-- [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:03.465389+00:00
-- [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:02.581870+00:00
-- [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:58:56.102602+00:00
-- [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T12:47:21.075955+00:00
-- [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:15:44.415925+00:00
-- [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:59:00.605195+00:00
-- [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:07.040443+00:00
-- [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:44:06.618673+00:00
-- [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:25:56.337009+00:00
-- [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:28.925914+00:00
-- [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:18.037227+00:00
-- [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T19:59:04.484127+00:00
-- [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:10.687482+00:00
-- [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:25:59.884619+00:00
-- [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:32:37.650827+00:00
-- [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) : Capture enregistrée ; dernière tentative : DONE le 2026-09-09T20:26:14.368713+00:00
-- [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:26.445516+00:00
-- [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:49.947418+00:00
-- [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:40:31.119741+00:00
-- [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:25.376839+00:00
-- [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:39:40.387713+00:00
-- [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:39:21.259527+00:00
-- [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:39:26.875134+00:00
-- [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:41.613589+00:00
-- [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:28:52.918813+00:00
-- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:57.036377+00:00
-- [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:13:07.762673+00:00
-- [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:28:53.956321+00:00
-- [stg hare hound](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-hare-hound/10000814) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:39:46.114309+00:00
-- [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:28:51.901457+00:00
-- [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:19.261732+00:00
-- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:13.216587+00:00
-- [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:40:13.434323+00:00
-- [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:34:45.242741+00:00
-- [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:25:50.996398+00:00
-- [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:34:39.193966+00:00
-- [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:13:06.689217+00:00
-- [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:13:13.812012+00:00
-- [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:38.131246+00:00
-- [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:32.537618+00:00
-- [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:44.391411+00:00
-- [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:15.334133+00:00
-- [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T16:08:40.598325+00:00
-- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:03.158251+00:00
-- [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:35:55.485827+00:00
-- [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:09.273362+00:00
-- [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) : Capture enregistrée ; dernière tentative : DONE le 2026-09-07T17:34:51.291986+00:00
-- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T10:54:36.123212+00:00
-- [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) : Aucune capture ; dernière tentative : BLOCKED le 2026-09-10T06:22:00.016089+00:00 — Vérification robots impossible : 403
-- [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T12:00:19.359727+00:00
-- [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:12.490169+00:00
-- [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:08.594889+00:00
-- [World Rugby — Échauffement : mouvements fondamentaux](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:04.324417+00:00
-- [World Rugby — Principes d’échauffement enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/principles-and-guidelines-for-an-effective-warm-up) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:10.525040+00:00
-- [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity) : Capture enregistrée ; dernière tentative : DONE le 2026-09-17T05:29:06.659327+00:00
-- [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T11:59:55.775124+00:00
-- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) : Capture enregistrée ; dernière tentative : DONE le 2026-09-08T17:09:34.431314+00:00
+- [J+S-Kids Rugby — Leçon 8 : Duel à 1 x 1](https://assets01.sdd1.ch/assets/lbwp-cdn/mobilesport/files/2012/08/JS-Kids_Rugby_L08_Duel_1x1_f.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Manipulations autour du corps](https://www.rugbytoolbox.co.nz/training/technique/ball-awareness) : Aucune capture ; pas de tentative enregistrée
+- [Passes en cercle tourné vers l’extérieur](https://www.rugbytoolbox.co.nz/training/technique/passing-circle) : Aucune capture ; pas de tentative enregistrée
+- [Chasse collective avec retour après ballon tombé](https://www.rugbytoolbox.co.nz/training/technique/corner-ball) : Aucune capture ; pas de tentative enregistrée
+- [Evading the Player](https://www.rugbytoolbox.co.nz/training/technique/evading-the-player) : Aucune capture ; pas de tentative enregistrée
+- [Binômes guidés par le signal du coach](https://www.rugbytoolbox.co.nz/training/technique/follow-the-coach-1) : Aucune capture ; pas de tentative enregistrée
+- [Touch the Ground Pass](https://www.rugbytoolbox.co.nz/training/technique/touch-the-ground-pass) : Aucune capture ; pas de tentative enregistrée
+- [Relais avec changements de portage](https://www.rugbytoolbox.co.nz/training/technique/handling-relay) : Aucune capture ; pas de tentative enregistrée
+- [Memory](https://www.rugbytoolbox.co.nz/training/technique/memory) : Aucune capture ; pas de tentative enregistrée
+- [Multi-action Relay](https://www.rugbytoolbox.co.nz/training/technique/multi-action-relay) : Aucune capture ; pas de tentative enregistrée
+- [Opposition sans ballon, attaquant désigné](https://www.rugbytoolbox.co.nz/training/technique/no-ball-touch-9) : Aucune capture ; pas de tentative enregistrée
+- [Noodle tag 1](https://www.rugbytoolbox.co.nz/training/technique/noodle-tag-1-3) : Aucune capture ; pas de tentative enregistrée
+- [Number Race 2](https://www.rugbytoolbox.co.nz/training/technique/number-race-2) : Aucune capture ; pas de tentative enregistrée
+- [Course numérotée avec deux ballons](https://www.rugbytoolbox.co.nz/training/technique/numbers-race) : Aucune capture ; pas de tentative enregistrée
+- [Octopus](https://www.rugbytoolbox.co.nz/training/technique/octopus-1) : Aucune capture ; pas de tentative enregistrée
+- [Ramasser, porter et reposer](https://www.rugbytoolbox.co.nz/training/technique/pick-place) : Aucune capture ; pas de tentative enregistrée
+- [Rats and Rabbits 3 & 4](https://www.rugbytoolbox.co.nz/training/technique/rats-and-rabbits-3-4-1) : Aucune capture ; pas de tentative enregistrée
+- [Rip Tag](https://www.rugbytoolbox.co.nz/training/technique/rip-tag-1) : Aucune capture ; pas de tentative enregistrée
+- [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) : Aucune capture ; pas de tentative enregistrée
+- [Tap pass Tap](https://www.rugbytoolbox.co.nz/training/technique/tap-pass-tap) : Aucune capture ; pas de tentative enregistrée
+- [Passer puis échapper au poursuivant](https://www.rugbytoolbox.co.nz/training/technique/touchdown) : Aucune capture ; pas de tentative enregistrée
+- [Zig Zag Passing](https://www.rugbytoolbox.co.nz/training/technique/zig-zag-passing) : Aucune capture ; pas de tentative enregistrée
+- [Aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/aliens/10000811) : Aucune capture ; pas de tentative enregistrée
+- [Home Training - Passing with Dad](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-passing-with-dad/10001597) : Aucune capture ; pas de tentative enregistrée
+- [tag game break out](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-break-out/10000397) : Aucune capture ; pas de tentative enregistrée
+- [Bulldog Touch](https://www.rugbycoaching.tv/video/bulldog-touch/10001353) : Aucune capture ; pas de tentative enregistrée
+- [ccru game passing pairs](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-passing-pairs/10000910) : Aucune capture ; pas de tentative enregistrée
+- [ccru game capture the aliens](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-capture-the-aliens/10000906) : Aucune capture ; pas de tentative enregistrée
+- [ccru game chaos touch](https://www.rugbycoaching.tv/plans/expert/Under7s/ccru-game-chaos-touch/10000907) : Aucune capture ; pas de tentative enregistrée
+- [passing warm up game](https://www.rugbycoaching.tv/videos/coaching/Under7s/passing-warm-up-game/10001534) : Aucune capture ; pas de tentative enregistrée
+- [colour touch](https://www.rugbycoaching.tv/videos/coaching/Under7s/colour-touch/10001517) : Aucune capture ; pas de tentative enregistrée
+- [Egg in the nest game](https://www.rugbycoaching.tv/videos/expert/Under8s/egg-in-the-nest-game/10001603) : Aucune capture ; pas de tentative enregistrée
+- [end ball connecting players](https://www.rugbycoaching.tv/videos/coaching/Under7s/end-ball-connecting-players/10002002) : Aucune capture ; pas de tentative enregistrée
+- [piggy in the middle 4v1](https://www.rugbycoaching.tv/videos/coaching/Under7s/piggy-in-the-middle-4v1/10001339) : Aucune capture ; pas de tentative enregistrée
+- [stg hare hound](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-hare-hound/10000814) : Aucune capture ; pas de tentative enregistrée
+- [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) : Aucune capture ; pas de tentative enregistrée
+- [Multi-direction Game](https://www.rugbycoaching.tv/plans/expert/Under7s/multi-direction-game/10001536) : Aucune capture ; pas de tentative enregistrée
+- [Rugby Netball with 4 Goals](https://www.rugbycoaching.tv/videos/expert/Under8s/rugby-netball-with-4-goals/10001532) : Aucune capture ; pas de tentative enregistrée
+- [tag game numbers tag](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-numbers-tag/10000409) : Aucune capture ; pas de tentative enregistrée
+- [Passing in 2s](https://www.rugbycoaching.tv/plans/expert/Under7s/passing-in-2s/10001533) : Aucune capture ; pas de tentative enregistrée
+- [learning to pass first steps](https://www.rugbycoaching.tv/videos/coaching/Under7s/learning-to-pass-first-steps/10001604) : Aucune capture ; pas de tentative enregistrée
+- [Piggy in the Middle](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-game-piggy-in-the-middle/10000410) : Aucune capture ; pas de tentative enregistrée
+- [players first circle caterpillar game](https://www.rugbycoaching.tv/videos/coaching/Under7s/players-first-circle-caterpillar-game/10002001) : Aucune capture ; pas de tentative enregistrée
+- [stg rugby rounders](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-rugby-rounders/10000819) : Aucune capture ; pas de tentative enregistrée
+- [STG - Statues](https://www.rugbycoaching.tv/plans/expert/Under7s/stg-statues/10000820) : Aucune capture ; pas de tentative enregistrée
+- [Tag-grab](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-grab/10000821) : Aucune capture ; pas de tentative enregistrée
+- [TAG Progressions](https://www.rugbycoaching.tv/plans/expert/Under7s/tag-progressions/10001606) : Aucune capture ; pas de tentative enregistrée
+- [Tag Game - Tag Rugby 1](https://www.rugbycoaching.tv/video/tag-game-tag-rugby-1/10000413) : Aucune capture ; pas de tentative enregistrée
+- [team scarecrow tag](https://www.rugbycoaching.tv/videos/coaching/Under7s/team-scarecrow-tag/10001338) : Aucune capture ; pas de tentative enregistrée
+- [10 passes game](https://www.rugbycoaching.tv/videos/expert/Under8s/10-passes-game/10000813) : Aucune capture ; pas de tentative enregistrée
+- [Home Training - Competitive Games](https://www.rugbycoaching.tv/videos/expert/Under9s/home-training-competitive-games/10001600) : Aucune capture ; pas de tentative enregistrée
+- [Warm-up Handling Game](https://www.rugbycoaching.tv/plans/expert/Under7s/warm-up-handling-game/10001530) : Aucune capture ; pas de tentative enregistrée
+- [2 v 1 Passing](https://www.rugbycoaching.tv/plans/expert/Under7s/2-v-1-passing/10001535) : Aucune capture ; pas de tentative enregistrée
+- [Primary School Teacher Resource Pack](https://scottishrugby.org/wp-content/uploads/2022/11/SRSW_primary-teachers-pack.pdf) : Aucune capture ; pas de tentative enregistrée
+- [Rugby union - team tag](https://media.yourschoolgames.com/documents/sport-format-resources/Rugby_Union_Level_1_Primary_Challenge_Card.pdf) : Aucune capture ; pas de tentative enregistrée
+- [10 pass game — contribution communautaire](https://www.sportplan.net/community/Rugby/Warm-Up/10-pass-game-11902405.jsp) : Aucune capture ; pas de tentative enregistrée
+- [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) : Aucune capture ; pas de tentative enregistrée
+- [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching) : Aucune capture ; pas de tentative enregistrée
+- [World Rugby — Échauffement : mouvements fondamentaux](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/general-fundamental-movement-activity) : Aucune capture ; pas de tentative enregistrée
+- [World Rugby — Principes d’échauffement enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/principles-and-guidelines-for-an-effective-warm-up) : Aucune capture ; pas de tentative enregistrée
+- [World Rugby — Échauffement : mouvements spécifiques](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/sport-specific-movement-activity) : Aucune capture ; pas de tentative enregistrée
+- [Get into Rugby](https://www.world.rugby/the-game/game-participation/get-into-rugby) : Aucune capture ; pas de tentative enregistrée
+- [Get Into Rugby — Non Contact Activities](https://www.world.rugby/the-game/game-participation/get-into-rugby/non-contact) : Aucune capture ; pas de tentative enregistrée

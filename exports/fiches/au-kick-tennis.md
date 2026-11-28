@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Jeu au pied · Opposition collective
+**Catégories proposées :** Réception · Jeu au pied · Opposition collective
 
 **Famille :** Jeux de renvoi : main et pied · **Âge source :** Programme Get into Rugby (4–7 ans) ; adéquation U8 française à valider
 
@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Source principale :** [Kick Tennis](https://australia.rugby/participate/get-into-rugby/activities/skills-kicking/kick-tennis) — Rugby Australia ; Kick Tennis — Description, Coaching Outcome, Change It. Vérification documentaire : 2026-09-10.
 
 **Référence complémentaire :** [Get into Rugby FAQs](https://australia.rugby/participate/get-into-rugby/faqs) — What is Get into Rugby? / Walla and Tri Time. Programme d’initiation 4–7 ans ; ne prouve pas une validation française U8 de chaque activité.
+
+**Vidéo de l’exercice (origine proposition IA) :** [Kick Tennis](https://www.youtube.com/watch?v=Mmh1lFfQyME).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

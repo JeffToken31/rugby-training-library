@@ -55,6 +55,8 @@ coach : Réaction au signal, chacun dans sa voie.; duration_min : 6; easier : Sa
 
 **Source principale :** [Fundamental Movement — mars 2021](https://d2cx26qpfwuhvu.cloudfront.net/munster/wp-content/uploads/2021/04/19151510/Fundamental-Movement-program.pdf) — Munster Rugby ; PDF page 5. Vérification documentaire : 2026-09-06.
 
+**Vidéo — variante (origine proposition IA) :** [Rats & Rabbits](https://www.youtube.com/watch?v=tJJvxObgD-U) — La vidéo (Auckland Rugby) montre « Rats & Rabbits » ; la version Munster (effectifs, zones) n'est pas confirmée.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

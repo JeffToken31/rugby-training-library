@@ -50,6 +50,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [Shadow Run](https://www.rugbytoolbox.co.nz/training/technique/shadow-run) — New Zealand Rugby — Rugby Toolbox ; Shadow Run — organisation et déroulement. Vérification documentaire : 2026-09-09.
 
+**Vidéo de l’exercice (origine proposition IA) :** [Shadow Run](https://www.youtube.com/watch?v=iwwdQ7PaJa8).
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

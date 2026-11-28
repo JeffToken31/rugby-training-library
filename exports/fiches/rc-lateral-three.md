@@ -2,7 +2,7 @@
 
 [Retour au catalogue complet](../CATALOGUE.md)
 
-**Catégories proposées :** Passe · Circulation et transmission
+**Catégories proposées :** Passe · Réception · Course · Circulation et transmission
 
 **Famille :** Passes en progression collective · **Âge source :** U7 (classement du site) ; adéquation U8 à valider
 
@@ -52,6 +52,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 **Variantes conservées séparément :** [Vagues de passes avec relais sur l’autre rive](wr-passing-relays.md). Passes en course par vagues ; World Rugby organise trois équipes de cinq en relais entre deux rives. Ne pas confondre avec la vague de trois. Proposition IA, score heuristique ; sans fusion.
 
 **Source principale :** [lateral passing in 3s](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531) — RugbyCoaching.tv ; Description / Video Subtitles. Vérification documentaire : 2026-09-07.
+
+**Vidéo de l’exercice (origine source) :** [Lateral Passing in 3s Rugby](https://www.rugbycoaching.tv/videos/coaching/Under7s/lateral-passing-in-3s/10001531).
 
 <details>
 <summary>Provenance par rubrique et historique</summary>

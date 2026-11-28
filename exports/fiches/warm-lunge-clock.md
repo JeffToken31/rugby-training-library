@@ -54,6 +54,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [World Rugby — Mobilité dynamique pour enfants](https://passport.world.rugby/conditioning-for-rugby/introduction-to-conditioning-children/warm-up-cool-down-and-flexibility/dynamic-stretching/) — World Rugby ; Lunge clock. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Lunge Clock](https://www.youtube.com/watch?v=8375md2RGL0) — La vidéo (Lee Bradbury) montre le « lunge clock » ; les « trois directions » ne sont pas confirmées.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 

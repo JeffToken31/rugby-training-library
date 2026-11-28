@@ -1,0 +1,234 @@
+{
+  "enrichments": [
+    {
+      "id": "ffr-guide-m8-1c1-detail-1",
+      "variant_id": "ffr-guide-m8-1c1",
+      "source_id": "ffr-guide-m8-2023",
+      "actor": "assistant",
+      "checked_on": "2026-11-20",
+      "locator": "Guide M8 — rubrique Plaquage, situation 3/3 : 1 contre 1 sur 9 m x 8 m, plaqueur debout",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Je fais tomber le porteur de balle en toute sécurité avec mon épaule droite et mon épaule gauche."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Dispositif : 1 attaquant et 1 défenseur ; Groupe : 3 joueurs pour organiser un temps de récupération dans la rotation des rôles ; Espace : un rectangle de 9m x 8m ; Matériel : des plots de couleurs et un ballon."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "4 plaquages à effectuer (non enchaînés) en alternance droite/gauche (2 à droite - 2 à gauche), 1er plaquage sur droite du défenseur ; C'est l'attaquant qui lance l'action. Le défenseur peut démarrer lorsque l'attaquant contourne le plot pour entrer dans le terrain ; Le défenseur avance en coupant la zone hachurée pour gagner du terrain ; Interdiction pour PB d'entrer dans zone hachurée."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "je cible la taille ; j'engage mon épaule au niveau de la taille ; je place ma tête du bon côté sur le flan du porteur de balle (idée tête dans le dos) ; je serre fort les bras."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Lignes rouges : intervention au dessus de la ligne du bassin (placage haut interdit) ; tête placée du mauvais côté (sécurité)."
+        },
+        "duration_min": {
+          "state": "NOT_STATED"
+        }
+      }
+    },
+    {
+      "id": "ffr-plan2023-oeufs-detail-1",
+      "variant_id": "ffr-plan2023-oeufs",
+      "source_id": "ffr-plan2023",
+      "actor": "assistant",
+      "checked_on": "2026-11-20",
+      "locator": "Plan de formation M8 2023 — séance 12/12 : Les œufs des poules",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Améliorer la notion d'avancer pour aller marquer !"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Un groupe de 6 poules (utilisateurs) se promène dans la basse-cour ; les œufs (ballons) sont placés au centre ; 6 renards (opposants) à plat ventre au sol ; 4 poulaillers (plots 4 couleurs), 6 ballons."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "1. ON SE PROMENE (les poules trottinent, les renards rampent). 2. LES RENARDS ARRIVENT (les poules ramassent les œufs et les renards se relèvent). 3. Après 3 à 5 sec de courses et de luttes, le fermier (éducateur) annonce la couleur du poulailler. ; 3 passages à la suite par groupe"
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Pour les opposants (renards) : bloquer les poules pour leurs voler les œufs, puis les apporter en dehors de la basse-cour. Pour les utilisateurs (poules) : ramasser son œuf et, sans se faire attraper, aller déposer son œuf (sans le casser !) dans le poulailler de la bonne couleur."
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Plus les renards volent d'œufs… on se rapproche d'un jeu avec un ballon pour l'ensemble du groupe ! Les poules doivent alors protéger leur dernier œuf et le « transporter » en sécurité"
+        },
+        "duration_min": {
+          "state": "NOT_STATED"
+        }
+      }
+    },
+    {
+      "id": "jskids-l08-sumo-detail-1",
+      "variant_id": "jskids-l08-sumo",
+      "source_id": "jskids-l08",
+      "actor": "assistant",
+      "checked_on": "2026-11-20",
+      "locator": "J+S-Kids L08 — exercice 2/2 : Sumo 1x1",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Augmentation de l'engagement individuel au combat"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Face à face, distants de 2m, les joueurs sont sur les pieds, les mains posées au sol."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Au signal, ils saisissent leur adversaire à bras le corps et tentent de le repousser chez lui."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Interdiction d'utiliser les jambes pour faire tomber l'adversaire"
+        },
+        "coach_points": {
+          "state": "NOT_STATED"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": "jskids-l08-culotte-detail-1",
+      "variant_id": "jskids-l08-culotte",
+      "source_id": "jskids-l08",
+      "actor": "assistant",
+      "checked_on": "2026-11-20",
+      "locator": "J+S-Kids L08 — exercice 2/2 : Lutte à la culotte",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Augmentation de l'engagement individuel au combat"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Deux joueurs, face à face, appuyés l'un contre l'autre avec les épaules, se tiennent à la culotte (mains sur les hanches)."
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Ils tentent de se renverser mutuellement pour appuyer les épaules adverses contre le sol (prises en dessous des épaules)."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Interdiction d'utiliser les jambes pour faire tomber l'adversaire"
+        },
+        "coach_points": {
+          "state": "NOT_STATED"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 10
+        }
+      }
+    },
+    {
+      "id": "wr-gir-bulldog-detail-1",
+      "variant_id": "wr-gir-bulldog",
+      "source_id": "wr-gir",
+      "actor": "assistant",
+      "checked_on": "2026-11-20",
+      "locator": "World Rugby GIR — Bulldog, carte 30/30",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Perform a tackle (1)"
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "30 players, 3 groups of 10 ; Equipment: 8 cones ; Space: 3 channels 30m × 20m ; 10 players per channel, starting with 3 nominated defenders in a line in the middle of the channel; the other 7 players line up along one edge of the channel as attackers"
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "On the coach's call, the attackers try to run past the defenders to reach the opposite edge; the defenders attempt to touch with both hands, tag or tackle the attackers by wrapping them with both arms between his/her chest and hips but without bringing the ball carrier to ground; those attackers who are tackled join the defenders…"
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Look for space / Dodge the defenders ; Keep the head up - focus on the waist of the ball carrier / Try to defend as one line - defend as a team"
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Harder: defenders have to run and touch the sideline when they have made a tackle / Easier: attackers must hop on one leg"
+        },
+        "duration_min": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": 5
+        }
+      }
+    },
+    {
+      "id": "wr-gir-rucktouch-detail-1",
+      "variant_id": "wr-gir-rucktouch",
+      "source_id": "wr-gir",
+      "actor": "assistant",
+      "checked_on": "2026-11-20",
+      "locator": "World Rugby GIR — Ruck Touch Rugby 6v4, carte 30/30",
+      "fields": {
+        "objectives": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Set up a ruck. In Rugby, when a tackled player falls to the ground, a supporting player can come in and help prevent the defenders from taking the ball by standing over the tackled player. If there are 3 players involved — 2 attackers and 1 defender - it is called a \"ruck\"."
+        },
+        "organisation": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "30 joueurs, 3 couloirs 30×20 m, 3 ballons, 8 plots ; Split the 10 players in each channel into two teams — 4 players to defend, 6 players to attack ; Start the game with a free pass at the centre, ensuring that the defending team retreats 7 metres"
+        },
+        "steps": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "If 2-hands-touched / tagged / tackled, the ball carrier must not pass but must hold the ball and slide onto the ground. The ball carrier should lie parallel to the try line with the ball held at arms length away from his/her body towards his/her team mates. Another attacking player must come in and stand over the tackled player to prevent the defenders picking the ball up. The tackler holds the ball carrier until the next attacking player takes the ball. The tackler only holds the ball carrier – he/she does not wrestle or turn the ball carrier. After a successful tackle, the defender must stay on his/her own side of the ball (stay onside) and must not attempt to intercept or obstruct the pass. When a tackle is made, the defending team must retreat 7 metres. Only the tackler can remain with the ball carrier."
+        },
+        "instructions": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "The second attacker must stand in a crouched position over the tackled player to protect the ball ; After making the tackle, stay on the feet if possible and allow the second attacker to stand over the tackled player"
+        },
+        "coach_points": {
+          "state": "PRESENT",
+          "origin": "SOURCE",
+          "value": "Harder: tacklers can try to take the ball once it is placed on the ground / Easier: all defenders, apart from the tackler, have to retreat 7 metres when a tackle is made"
+        },
+        "duration_min": {
+          "state": "NOT_STATED"
+        }
+      }
+    }
+  ]
+}

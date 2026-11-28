@@ -53,6 +53,8 @@ Ces séquences incluent les passages et l’attente éventuelle, pas un effort c
 
 **Source principale :** [KIWIDEX — Warming Up](https://sportnz.org.nz/media/2028/kiwidex-warming-up.pdf) — Sport NZ ; Page imprimée 45 ; page PDF 15. Vérification documentaire : 2026-09-16.
 
+**Vidéo — variante (origine proposition IA) :** [Slow and Fast walking game](https://www.youtube.com/watch?v=fgzH1FhmkDM) — La vidéo (Andy's esl classroom) montre un jeu de marche lente / rapide ; l'échauffement « au signal » n'est pas confirmé.
+
 <details>
 <summary>Provenance par rubrique et historique</summary>
 
